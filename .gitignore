@@ -16,7 +16,11 @@ Thumbs.db
 .project
 .classpath
 .settings/
+<<<<<<< HEAD
 .cursor/mcp.json/
+=======
+.cursor/mcp.json
+>>>>>>> b1d807a (gitignore key)
 
 # Logs
 *.log

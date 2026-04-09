@@ -1,375 +1,260 @@
-# Target Keywords & Topic Clusters
+# Doorware Target Keywords & Topic Clusters
 
-This document organizes Castos's target keywords by topic cluster for strategic content planning and SEO optimization.
+Organizes search themes for Doorware (door hardware retail and education). Use for content planning, internal linking, and aligning guides with product collections. Replace bracketed metrics with data from your keyword tool (Ahrefs, Semrush, GSC) as you collect them.
 
-## Instructions
-Fill in this template with your target keywords organized by topic cluster. Update regularly based on keyword research and content performance.
+**LLM header (planning context)**:
 
----
-
-## Topic Cluster Structure
-
-Each topic cluster should have:
-- **Pillar Keyword**: Main, high-volume keyword (typically competitive)
-- **Cluster Keywords**: 5-10 related keywords (subtopics)
-- **Long-Tail Keywords**: 10-15 specific, lower-volume phrases
-- **Search Intent**: What users want (informational, commercial, transactional)
+```text
+Doorware competes in architectural and residential door hardware: deadbolts, levers, knobs, handlesets, hinges, coastal/marine-grade stainless, keying, and installation/prep concepts (backset, bore, handing). Prefer high-intent, product-adjacent phrases over generic “door” terms. Map each URL to one primary keyword; use supporting terms naturally. Align PDP focus keywords with supplied keyword lists in product data—never invent focus terms in automation.
+```
 
 ---
 
-## Cluster 1: Podcast Hosting
+## Topic cluster structure
 
-### Pillar Keyword
-- **Keyword**: podcast hosting
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
+Each cluster includes:
+- **Pillar keyword**: broad, often competitive head term
+- **Cluster keywords**: 5–10 subtopics / modifiers
+- **Long-tail**: specific problems, SKUs-adjacent phrases, “near me” only if local SEO applies
+- **Intent**: informational (guides) vs commercial / transactional (PDP, collection)
+
+---
+
+## Cluster 1: Door hardware (category head)
+
+### Pillar keyword
+- **Keyword**: door hardware
+- **Search volume**: [TBD]
+- **Difficulty**: [TBD]
+- **Intent**: Commercial / mixed
+- **Current ranking**: [TBD]
+- **Pillar URL**: [collection or hub—TBD]
+
+### Cluster keywords
+1. **residential door hardware** — [volume TBD] — [URL or planned]
+2. **exterior door hardware** — [TBD]
+3. **interior door hardware** — [TBD]
+4. **commercial door hardware** — [TBD]
+5. **decorative door hardware** — [TBD]
+
+### Long-tail
+- how to choose door hardware for new construction
+- exterior vs interior door hardware differences
+- door hardware finish matching existing hinges
+- upgrade door hardware without replacing door
+
+### Related questions (PAA-style)
+- What is included in door hardware?
+- How do I match door hardware finishes?
+
+---
+
+## Cluster 2: Deadbolts & entry security
+
+### Pillar keyword
+- **Keyword**: deadbolt (or **deadbolt lock**)
+- **Search volume**: [TBD]
+- **Difficulty**: [TBD]
+- **Intent**: Commercial / transactional
+- **Pillar URL**: [deadbolt collection—TBD]
+
+### Cluster keywords
+1. **single cylinder deadbolt**
+2. **double cylinder deadbolt**
+3. **deadbolt backset**
+4. **Grade 1 deadbolt** / **ANSI deadbolt** (only with accurate educational copy)
+5. **electronic deadbolt** (if stocked)
+
+### Long-tail
+- how to measure backset for deadbolt
+- single vs double cylinder deadbolt which is safer
+- deadbolt for metal door prep
+
+---
+
+## Cluster 3: Handlesets & entry sets
+
+### Pillar keyword
+- **Keyword**: entry door handleset (variant: **front door handleset**)
+- **Search volume**: [TBD]
+- **Difficulty**: [TBD]
 - **Intent**: Commercial
-- **Current Ranking**: [position if known]
-- **Pillar Content URL**: [URL of main guide]
+- **Pillar URL**: [TBD]
 
-### Cluster Keywords (Subtopics)
-1. **best podcast hosting**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL if exists, or "Not yet created"]
+### Cluster keywords
+1. **single cylinder handleset**
+2. **double cylinder handleset**
+3. **handleset with deadbolt**
+4. **interior trim for handleset**
 
-2. **podcast hosting platform**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-3. **podcast hosting comparison**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-4. **free podcast hosting**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-5. **podcast hosting pricing**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-[Add 5-10 cluster keywords total]
-
-### Long-Tail Keywords
-- how to choose a podcast host
-- podcast hosting for beginners
-- podcast hosting with unlimited bandwidth
-- podcast hosting that includes a website
-- difference between podcast hosting and website hosting
-- what to look for in a podcast host
-- podcast hosting for multiple shows
-- [Add 10-15 long-tail variations]
-
-### Related Questions (People Also Ask)
-- What is podcast hosting?
-- Do I need podcast hosting?
-- How much does podcast hosting cost?
-- Can I host my podcast for free?
-- [Add questions from PAA boxes]
+### Long-tail
+- how to replace handleset and keep same holes
+- handleset for thick door
 
 ---
 
-## Cluster 2: Podcast Analytics
+## Cluster 4: Levers & knobs (interior)
 
-### Pillar Keyword
-- **Keyword**: podcast analytics
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
+### Pillar keyword
+- **Keyword**: door lever (or **interior door lever**)
+- **Search volume**: [TBD]
+- **Difficulty**: [TBD]
+- **Intent**: Commercial
+- **Pillar URL**: [TBD]
+
+### Cluster keywords
+1. **passage lever**
+2. **privacy lever**
+3. **dummy lever**
+4. **keyed entry lever**
+
+### Long-tail
+- passage vs privacy lever which rooms
+- how to reverse lever handing
+
+---
+
+## Cluster 5: Hinges & pivots
+
+### Pillar keyword
+- **Keyword**: door hinges
+- **Search volume**: [TBD]
+- **Difficulty**: [TBD]
+- **Intent**: Commercial / informational
+- **Pillar URL**: [TBD]
+
+### Cluster keywords
+1. **ball bearing hinges**
+2. **heavy duty door hinges**
+3. **exterior door hinges**
+4. **hinge radius corner** vs square (educational)
+
+### Long-tail
+- how many hinges for solid core door
+- stainless steel hinges exterior
+
+---
+
+## Cluster 6: Coastal / marine / corrosion resistance
+
+### Pillar keyword
+- **Keyword**: marine grade door hardware (or **316 stainless door hardware**—use carefully; only if assortment supports)
+- **Search volume**: [TBD]
+- **Difficulty**: [TBD]
+- **Intent**: Commercial / informational
+- **Pillar URL**: [TBD]
+
+### Cluster keywords
+1. **stainless steel deadbolt exterior**
+2. **coastal door hardware**
+3. **corrosion resistant door hinges**
+
+### Long-tail
+- best material for salt air door hardware (educational; avoid unsubstantiated “best”)
+- marine grade 316 stainless deadbolt
+
+---
+
+## Cluster 7: Installation & prep (informational)
+
+### Pillar keyword
+- **Keyword**: door lock installation (or **how to install a deadbolt**)
+- **Search volume**: [TBD]
+- **Difficulty**: [TBD]
 - **Intent**: Informational
-- **Current Ranking**: [position if known]
-- **Pillar Content URL**: [URL or "To create"]
+- **Pillar URL**: [TBD]
 
-### Cluster Keywords (Subtopics)
-1. **podcast metrics**
-2. **podcast download statistics**
-3. **podcast listener data**
-4. **podcast performance tracking**
-5. **podcast growth metrics**
-[Continue with 5-10 cluster keywords]
+### Cluster keywords
+1. **door backset measurement**
+2. **cross bore vs edge bore**
+3. **door handing left or right**
 
-### Long-Tail Keywords
-- how to track podcast analytics
-- understanding podcast download numbers
-- most important podcast metrics
-- how to measure podcast success
-- podcast analytics tools
-[Add 10-15 long-tail variations]
-
-### Related Questions
-[Add PAA questions]
+### Long-tail
+- how to measure backset on existing door
+- door too thin for standard deadbolt what to do
 
 ---
 
-## Cluster 3: Podcast Growth
+## Seasonal / trending (examples)
 
-### Pillar Keyword
-- **Keyword**: grow podcast audience
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
+- **Q1**: New year renovation projects; “replace exterior hardware” themes.
+- **Q2–Q3**: Storm season / prep exterior openings (fact-based, no fear copy).
+- **Q4**: Security upgrades before holidays—only with accurate product ties.
 
-### Cluster Keywords
-1. **podcast growth strategies**
-2. **increase podcast downloads**
-3. **podcast marketing**
-4. **podcast promotion**
-5. **podcast audience development**
-[Continue with cluster keywords]
-
-### Long-Tail Keywords
-- how to get more podcast listeners
-- promote your podcast free
-- grow podcast audience fast
-- podcast growth tips for beginners
-[Add long-tail variations]
-
-### Related Questions
-[Add PAA questions]
+Adjust years in titles (e.g. 2026) when publishing dated guides.
 
 ---
 
-## Cluster 4: Podcast Monetization
+## Competitor keyword gaps
 
-### Pillar Keyword
-- **Keyword**: podcast monetization
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Commercial/Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
+Track domains that outrank Doorware for target terms:
 
-### Cluster Keywords
-1. **how to monetize a podcast**
-2. **podcast advertising**
-3. **podcast sponsorships**
-4. **make money podcasting**
-5. **podcast revenue streams**
-[Continue]
-
-### Long-Tail Keywords
-[Add 10-15 variations]
-
-### Related Questions
-[Add PAA questions]
-
----
-
-## Cluster 5: Starting a Podcast
-
-### Pillar Keyword
-- **Keyword**: how to start a podcast
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
-
-### Cluster Keywords
-1. **podcast equipment**
-2. **podcast recording software**
-3. **podcast editing**
-4. **podcast launch checklist**
-5. **podcast setup**
-[Continue]
-
-### Long-Tail Keywords
-[Add variations]
-
-### Related Questions
-[Add PAA questions]
-
----
-
-## Cluster 6: [Additional Cluster]
-
-[Follow same format for:]
-- Podcast SEO
-- Podcast Distribution
-- Podcast Equipment
-- Podcast Editing
-- Podcast Formats
-- Private Podcasting
-- Podcast for Business
-- etc.
-
----
-
-## Seasonal/Trending Keywords
-
-### Q1 Keywords (Jan-Mar)
-- New year podcast goals
-- Podcast trends 2025
-- [Add seasonal opportunities]
-
-### Q2 Keywords (Apr-Jun)
-[Add seasonal keywords]
-
-### Q3 Keywords (Jul-Sep)
-[Add seasonal keywords]
-
-### Q4 Keywords (Oct-Dec)
-[Add seasonal keywords]
-
----
-
-## Competitor Keyword Gaps
-
-Track keywords where competitors rank but Castos doesn't:
-
-### Competitor: [Name]
-- **Keyword**: [keyword they rank for]
-  - Their Position: [rank]
-  - Castos Position: [rank or "Not ranking"]
+### Competitor: [name]
+- **Keyword**: [term]
+  - Their position: [TBD]
+  - Doorware position: [TBD]
   - Opportunity: [High/Medium/Low]
-  - Action: [Create content, optimize existing, etc.]
+  - Action: [new guide, optimize collection intro, PDP copy pass]
 
-[Add more competitors and gaps]
-
----
-
-## Keyword Opportunity Pipeline
-
-### High Priority (Create Soon)
-Keywords with high volume, achievable difficulty, strong business value:
-
-1. **Keyword**: [keyword]
-   - Volume: [searches]
-   - Difficulty: [score]
-   - Intent: [type]
-   - Why Priority: [strategic reason]
-   - Action: [Create pillar content / cluster article / etc.]
-
-[List 5-10 high-priority keywords]
-
-### Medium Priority (Next Quarter)
-[List keywords to target in next 3 months]
-
-### Low Priority (Future Consideration)
-[List keywords for future content planning]
+Repeat per competitor as needed.
 
 ---
 
-## Keyword Tracking & Performance
+## Keyword opportunity pipeline
 
-### Top Performing Keywords
-Keywords where Castos ranks in positions 1-10:
+### High priority
+1. **[keyword]** — Volume [TBD] — Difficulty [TBD] — Intent [type] — Why: [strategic fit with stocked SKUs] — Action: [pillar / cluster / PDP optimization]
 
-1. **Keyword**: [keyword]
-   - Position: [current rank]
-   - Volume: [searches]
-   - URL: [ranking page]
-   - Trend: [↑ Rising / → Stable / ↓ Declining]
+### Medium priority
+- [List 5–10 terms to schedule next quarter]
 
-[List current winners]
-
-### Keywords to Improve
-Keywords ranking 11-20 (page 2) with opportunity:
-
-1. **Keyword**: [keyword]
-   - Position: [current rank]
-   - Volume: [searches]
-   - URL: [ranking page]
-   - Action Needed: [Update content, build links, etc.]
-
-[List improvement opportunities]
+### Low priority / future
+- [Broad or low-conversion terms for later]
 
 ---
 
-## Keyword Cannibalization Check
+## Tracking & performance
 
-Track multiple pages targeting same/similar keywords:
+### Top performers (example schema)
+1. **Keyword**: [term] — Position: [TBD] — URL: [path] — Trend: [↑/→/↓]
 
-### Potential Cannibalization Issues
-
-**Keyword**: [keyword]
-- Page 1: [URL] - Position [rank]
-- Page 2: [URL] - Position [rank]
-- **Issue**: Both pages competing for same keyword
-- **Solution**: [Consolidate, differentiate, redirect, etc.]
-
-[Monitor and document conflicts]
+### Page-two opportunities (positions 11–20)
+1. **Keyword**: [term] — Action: [internal links, depth, schema, title tweak]
 
 ---
 
-## LSI & Semantic Keywords
+## Cannibalization watch
 
-Common related terms to include across podcasting content:
-
-### Podcast Industry Terms
-- RSS feed
-- podcast directory
-- podcast app
-- podcast player
-- episode
-- show notes
-- audio content
-- podcast network
-[Add more]
-
-### Podcast Creation Terms
-- recording
-- editing
-- post-production
-- audio quality
-- microphone
-- podcast equipment
-[Add more]
-
-### Podcast Growth Terms
-- downloads
-- listeners
-- audience
-- subscribers
-- engagement
-- retention
-[Add more]
+| Keyword | URL A | URL B | Issue | Resolution |
+|---------|-------|-------|-------|------------|
+| [example] | [path] | [path] | Two URLs same intent | Consolidate or differentiate primary term |
 
 ---
 
-## Usage Guidelines
+## LSI & semantic terms (sprinkle naturally)
 
-### When Writing New Content
-1. Check which cluster the topic belongs to
-2. Target the appropriate cluster or long-tail keyword
-3. Reference pillar content in that cluster
-4. Include LSI keywords naturally
-5. Link to related cluster articles
+### Prep & fit
+- backset, cross bore, edge bore, strike plate, latch, mortise
 
-### When Optimizing Existing Content
-1. Verify content targets the right keyword
-2. Check for cannibalization with other pages
-3. Ensure keyword appears in critical locations
-4. Update if search intent has shifted
-5. Add internal links to/from related cluster content
+### Function & type
+- passage, privacy, storeroom, dummy, keyed entry
 
-### When Planning Content Calendar
-1. Review keyword opportunity pipeline
-2. Prioritize high-value, achievable keywords
-3. Build out topic clusters systematically
-4. Balance pillar content with cluster articles
-5. Track keyword performance over time
+### Materials & finishes
+- brass, stainless steel, satin nickel, oil-rubbed bronze, PVD (when accurate)
+
+### Standards (educational only when sourced)
+- ANSI/BHMA grades, ADA operating force (topic-specific)
 
 ---
 
-## Maintenance
+## Usage guidelines
 
-**Last Updated**: [Date]
-**Next Review**: [Date - quarterly recommended]
-
-**Regular Updates**:
-- Add new keyword opportunities monthly
-- Track ranking changes monthly
-- Update volumes/difficulty quarterly
-- Review competitor gaps quarterly
-- Refine clusters based on performance
+1. Assign **one primary keyword** per URL; align H1 and title.
+2. Map guides to **clusters** and link to relevant collections/PDPs.
+3. For **AI product copy**, pick focus keyword **only** from imported `text.seo.keywords`—see `@context/seo-guidelines.md`.
+4. Refresh this file quarterly with GSC and ranking data.
 
 ---
 
-**Note**: This is a living document. As you conduct keyword research, track performance, and identify new opportunities, update this file to keep your SEO strategy aligned with your content creation.
+**Last updated**: April 2026  
+**Next review**: [set quarterly]

@@ -1,154 +1,143 @@
-# [YOUR COMPANY] Writing Examples
+# Doorware Writing Examples
 
-<!-- INSTRUCTIONS: This file should contain 3-5 exemplary blog posts that demonstrate your brand voice,
-     style, and quality standards. These examples help Claude understand how to write in your voice.
+Reference copy for Doorware: **product/merchandising** (matches JSON pipelines like `ai_orchestratorv2.py`) and **long-form** placeholders. Replace or extend blog sections with URLs and full articles from your live site as you publish.
 
-     Copy and paste complete articles from your blog that represent your best work.
-     See examples/castos/writing-examples.md for a real-world example with 5 full articles.
+**LLM header (what “good” looks like)**:
 
-     Delete these instruction comments when done. -->
-
-This file contains exemplary blog posts from [YOUR COMPANY] that demonstrate the brand voice, style, and quality standards. Use these as reference when writing new content.
-
-## Instructions for Adding Examples
-
-Add 3-5 complete blog post examples from your blog that represent:
-1. The ideal brand voice and tone
-2. Strong SEO optimization
-3. High-quality, valuable content
-4. Proper structure and formatting
-5. Effective use of examples and data
-
-For each example, include:
-- **URL**: Link to the original post
-- **Title**: Full headline
-- **Primary Keyword**: Target keyword for that article
-- **Word Count**: Approximate length
-- **Publication Date**: When it was published
-- **What Makes It Great**: 2-3 specific reasons this is an exemplary post
-- **Full Content**: The complete article text (at least 1,500+ words)
-
----
-
-## Example 1: [ARTICLE TITLE]
-
-**URL**: [https://yoursite.com/article-url/]
-**Primary Keyword**: [target keyword phrase]
-**Word Count**: [~X,XXX words]
-**Publication Date**: [Month Day, Year]
-
-**What Makes It Great**:
-- [Reason 1: e.g., "Thorough explanation of complex topic with clear examples"]
-- [Reason 2: e.g., "Perfect balance of expertise and accessibility"]
-- [Reason 3: e.g., "Strong internal linking and clear CTAs"]
-
-**Full Content**:
-```
-[PASTE YOUR COMPLETE ARTICLE TEXT HERE]
-
-Include:
-- Full introduction
-- All main sections with subheadings
-- Examples, data, quotes
-- Lists and formatting
-- Conclusion and CTA
-
-This should be at least 1,500+ words to give Claude enough content
-to understand your writing style, voice, and structure.
+```text
+Doorware copy is authoritative, technical, and plainspoken. Product JSON: two short prose paragraphs (no HTML inside JSON strings), technical_features as benefit+detail pairs grounded in specs, seo_title like [Brand] [Series/Model] [Product Type] - [SKU], seo_description 140-160 chars with keyword and SKU, seo_keyword from provided list only. No hype words: amazing, luxurious, perfect, beautiful, cheap, stunning, game-changer. US inch measurements.
 ```
 
 ---
 
-## Example 2: [ARTICLE TITLE]
+## A. Product copy exemplars (pipeline-shaped)
 
-**URL**: [https://yoursite.com/article-url/]
-**Primary Keyword**: [target keyword phrase]
-**Word Count**: [~X,XXX words]
-**Publication Date**: [Month Day, Year]
+These mirror the **intent** of `build_json_prompt` output (structure only—always tie live JSON to real `product_data`).
 
-**What Makes It Great**:
-- [Reason 1]
-- [Reason 2]
-- [Reason 3]
+### Example A1: Deadbolt (fictional illustrative SKU)
 
-**Full Content**:
-```
-[PASTE COMPLETE ARTICLE TEXT HERE]
+**Context**: Use only when similar facts exist in source data; do not copy claims onto unrelated SKUs.
+
+**`prose_paragraphs` (plain text before `<p>` wrap)**:
+
+1. "Round single-cylinder deadbolt in marine-grade 316 stainless steel for exterior doors in coastal and high-moisture environments. Single-cylinder function provides keyed access outside and thumbturn operation inside for typical residential entry prep."
+2. "Fits doors prepared for `2-3/8"` or `2-3/4"` backset with a `2-1/8"` cross bore; confirm thickness and strike alignment against your existing setup before installation."
+
+**`technical_features`** (benefit + detail):
+
+| Benefit | Detail |
+|--------|--------|
+| Marine-grade 316 stainless body | Alloy selected for salt-air corrosion resistance when used as specified by the manufacturer for exterior applications. |
+| Adjustable backset latch | Accommodates common `2-3/8"` and `2-3/4"` residential preps without re-drilling the door edge when prep matches standard dimensions. |
+| Single-cylinder entry function | Keyed cylinder outside with interior thumbturn—pair with local code requirements for egress paths. |
+
+**SEO (illustrative)**:
+
+- `seo_title`: `[Vendor] Coastal Round Single Cylinder Deadbolt - DWD-RDB316SS` (verify length)
+- `seo_description`: `Marine 316 stainless deadbolt (DWD-RDB316SS). Keyed exterior, thumbturn interior; fits 2-3/8" or 2-3/4" backset. Verify door prep before install.` (re-count characters for production)
+- `seo_keyword`: chosen from **provided** `text.seo.keywords` list only (e.g. `marine grade deadbolt` if present in list)
+
+---
+
+### Example A2: Handleset (illustrative)
+
+**`prose_paragraphs`**:
+
+1. "Entry handleset combines exterior grip and deadbolt for residential front doors where a one-piece trim layout is preferred. Finish and trim profile should match companion levers or deadbolts in the same collection when coordinating multiple openings."
+2. "Confirm backset, door thickness, and handing with the manufacturer’s template; use stated strike and latch specifications when replacing an existing unit."
+
+**`technical_features`**:
+
+| Benefit | Detail |
+|--------|--------|
+| Coordinated entry trim | Grip, cylinder, and interior lever or knob on a common mounting platform per series design—verify compatibility with related SKUs in the same line. |
+| Single-cylinder configuration | Keyed access outside with interior thumbturn on the deadbolt where code allows—double-check egress rules for your jurisdiction. |
+
+---
+
+## B. Blog / guide examples (to be filled from production)
+
+Add **3–5 published articles** when available. For each, paste metadata and full Markdown/HTML from the CMS.
+
+### Example B1: [Article title — TBD]
+
+**URL**: [https://doorware.com/...]  
+**Primary keyword**: [e.g. how to measure door backset]  
+**Word count**: [~X words]  
+**Publication date**: [Month Day, Year]
+
+**Why it’s strong**:
+- [Specific reason: e.g. step-by-step measurement photos]
+- [Reason 2: aligns with assortment (links to deadbolt collection)]
+- [Reason 3: schema/FAQ or clear internal links]
+
+**Full content**:
+
+```markdown
+[Paste complete article here when published.]
 ```
 
 ---
 
-## Example 3: [ARTICLE TITLE]
+### Example B2: [Article title — TBD]
 
-**URL**: [https://yoursite.com/article-url/]
-**Primary Keyword**: [target keyword phrase]
-**Word Count**: [~X,XXX words]
-**Publication Date**: [Month Day, Year]
+**URL**: […]  
+**Primary keyword**: […]  
+**Word count**: […]  
+**Publication date**: […]
 
-**What Makes It Great**:
-- [Reason 1]
-- [Reason 2]
-- [Reason 3]
+**Why it’s strong**:
+- […]
+- […]
+- […]
 
-**Full Content**:
-```
-[PASTE COMPLETE ARTICLE TEXT HERE]
-```
+**Full content**:
 
----
-
-## Example 4: [ARTICLE TITLE] (Optional but Recommended)
-
-**URL**: [https://yoursite.com/article-url/]
-**Primary Keyword**: [target keyword phrase]
-**Word Count**: [~X,XXX words]
-**Publication Date**: [Month Day, Year]
-
-**What Makes It Great**:
-- [Reason 1]
-- [Reason 2]
-- [Reason 3]
-
-**Full Content**:
-```
-[PASTE COMPLETE ARTICLE TEXT HERE]
+```markdown
+[Paste complete article here.]
 ```
 
 ---
 
-## Example 5: [ARTICLE TITLE] (Optional but Recommended)
+### Example B3: [Article title — TBD]
 
-**URL**: [https://yoursite.com/article-url/]
-**Primary Keyword**: [target keyword phrase]
-**Word Count**: [~X,XXX words]
-**Publication Date**: [Month Day, Year]
+**URL**: […]  
+**Primary keyword**: […]  
+**Word count**: […]  
+**Publication date**: […]
 
-**What Makes It Great**:
-- [Reason 1]
-- [Reason 2]
-- [Reason 3]
+**Why it’s strong**:
+- […]
+- […]
+- […]
 
-**Full Content**:
-```
-[PASTE COMPLETE ARTICLE TEXT HERE]
+**Full content**:
+
+```markdown
+[Paste complete article here.]
 ```
 
 ---
 
-## Tips for Selecting Good Examples
+## C. Short-form snippets (category intros, email)
 
-1. **Diverse Topics**: Choose articles covering different aspects of your business/industry
-2. **Different Formats**: Include how-to guides, listicles, thought leadership, etc.
-3. **High Performers**: Pick articles that rank well or get good engagement
-4. **Representative**: Choose posts that truly reflect your desired voice and quality
-5. **Recent**: Prefer newer articles that reflect your current brand voice
+Use the same voice as `@context/brand-voice.md`.
 
-## Quick Start
+**Collection intro (example)**:
 
-If you don't have published blog content yet, you can:
-1. Write 1-2 sample articles in your desired voice
-2. Include competitor articles you admire (clearly labeled)
-3. Add these as you publish new content
-4. Reference industry-standard examples with your voice notes
+> Marine-grade and coastal-rated hardware in this collection is selected for exterior exposure where materials matter. Compare finish, function, and backset options on each PDP—start from your door prep measurements, not from aesthetics alone.
 
-**Remember**: The more complete and representative your examples, the better Claude will understand and replicate your writing style.
+**What makes it work**: Technical priority, clear next step (measure prep), no hype.
+
+---
+
+## Tips for selecting future blog examples
+
+1. Mix **how-to** (measurement, installation) with **selection** (function types, finishes).
+2. Include at least one piece targeting **commercial intent** (collection or product category).
+3. Prefer posts with stable rankings or strong engagement—paste updated versions when refreshed.
+4. Keep examples aligned with **current** brand voice (technical-first).
+
+---
+
+**Remember**: For merchandising JSON, **accuracy beats eloquence**—if a fact is not in `product_data`, leave it out.

@@ -1,0 +1,76 @@
+{
+    "legacy_product_id": "533672",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Wood Door Flush Bolt, Ives FB358",
+            "vendor": "Ives",
+            "status": "ARCHIVED",
+            "sku": "IVES-FB358",
+            "mpn": "IVES-FB358",
+            "price": "60.0",
+            "compare_at_price": "60.0",
+            "contractor_price": "60.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Wood Door Flush Bolt",
+                "Ives FB358"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/IVES-FB358-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/IVES-FB358-525.jpg?v=1711365481"
+        },
+        "text": {
+            "description_html": "<b>Ives FB358 Wood Door Flush Bolt</b>\r\n<p>\r\nFlush bolts (also know as door edge bolts) are installed into the edge of the door and have a toggle lever that is moved up and down to push the  bolt into a header or threshold (footer), which locks or unlocks an inactive door. Comes complete with flush bolt assembly,  matching finish screws and strike plate. \r\n</p>",
+            "seo": {
+                "title": "Wood Door Flush Bolt, Ives FB358",
+                "description": "Wood Door Flush Bolt, Ives FB358",
+                "keywords": "Wood Door Flush Bolt, Ives FB358"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Ives",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: IVES-FB3583: Polished Brass",
+                "Select Finish: IVES-FB3584: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "IVES-FB3583: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "IVES-FB3584: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

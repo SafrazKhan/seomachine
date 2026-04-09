@@ -1,0 +1,123 @@
+{
+    "legacy_product_id": "710551",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3-1/2 Inch x 9 Inch Remodeler Plate, Don-Jo RP-13509",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "DJO-RP-13509",
+            "mpn": "DJO-RP-13509",
+            "price": "25.28",
+            "compare_at_price": "31.6",
+            "contractor_price": "22.75",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Remodel Plates",
+                "3-1/2 Inch x 9 Inch Remodeler Plates",
+                "Don-Jo RP-13509",
+                "Don-Jo RP-13509-630",
+                "Don-Jo RP-13509-605",
+                "plate to cover damaged doors",
+                "plate to cover hole in doors",
+                "9 x 3-1/2 Remodel Plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-RP-13509-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-RP-13509-525.jpg?v=1716425348"
+        },
+        "text": {
+            "description_html": "<b>Don-Jo RP-13509, Remodeler Plate</b>\r\n\r\n<p>\r\nThis 3-1/2 Inch x 9 Inch Remodeler Plate is available in satin stainless steel or polished brass finishes. Plates like this one can be used in a variety of applications. The most common is to cover up damage that is on the door around the door knob or lock. Another use is to cover up existing holes in the door. This plate can also be used as an escutcheon or rose behind a door knob or lever.\r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-RP13509-specifications.gif?v=1704354604\" width=\"346\" height=\"231\" border=\"0\" alt=\"DJO-RP13509 Specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the 9\" x 3-1/2\" Remodel Plate:\r\n<ul>\r\n<li>Height: 9\"</li>\r\n<li>Width: 3-1/2\"</li>\r\n<li>Hole Diameter: 2-1/8\" (2.125\")</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-RP-13509-specifications.pdf?v=1704262322\" target=\"new\"><b>Don-Jo RP-13509 Dimensions Diagram (PDF)</b></a>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>When Selecting a Finish:</b> The Base Material is Determined by the Finish\r\n<ul>\r\n<li>Satin Stainless Steel Finish -- Stainless Steel Base Material</li>\r\n<li>Polished Brass Finish --  Brass Base Material</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually for one (1) side of a door</i>\r\n</p>",
+            "seo": {
+                "title": "3-1/2 Inch x 9 Inch Remodeler Plate, Don-Jo RP-13509",
+                "description": "Don-Jo RP-13509, 3-1/2 Inch x 9 Inch Remodeler Plate - This 3-1/2 Inch x 9 Inch Remodeler Plate is available in satin stainless steel or polished brass finishes. Plates like this one can be used in a variety of applications. The most common is to cover up damage that is on the door around the door knob or lock. Another use is to cover up existing holes in the door. This plate can also be used as an escutcheon or rose behind a door knob or lever.\r\n",
+                "keywords": "Remodel Plates, 3-1/2 Inch x 9 Inch Remodeler Plates, Don-Jo RP-13509, Don-Jo RP-13509-630, Don-Jo RP-13509-605, plate to cover damaged doors, plate to cover hole in doors, 9 x 3-1/2 Remodel Plates,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Latch Conversion and Filler Plates",
+                    "sort": "18"
+                },
+                {
+                    "name": "Door Latch Conversion and Filler Plates",
+                    "sort": "20"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "656069",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "718274",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "435629",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "212988",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "647785",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "667872",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "656134",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "285901",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "718292",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 630: Satin Stainless Steel",
+                "Select Finish: 605: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "630: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "605: Polished Brass",
+                    "price_impact": 7.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

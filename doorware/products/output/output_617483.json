@@ -1,0 +1,124 @@
+{
+    "legacy_product_id": "617483",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4 x 4 x 5/8 Radius x Sq Corners Steel Hinge with Security Lock Tabs, Pair, Deltana SS44058BU32D-S",
+            "vendor": "Deltana",
+            "status": "ARCHIVED",
+            "sku": "SS44058BU32D-S",
+            "mpn": "SS44058BU32D-S",
+            "price": "40.48",
+            "compare_at_price": "46.0",
+            "contractor_price": "40.48",
+            "shipping_weight": "1.2",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Deltana SS44058BU32D-S,  4\" x 4\"  Satin Stainless Steel Ball Bearing Hinge with Security Lock Tabs for Door Jamb and Hinge Leaves</b>\r\n\r\n<p>\r\nThese extra <b>security door hinges</b> have locking tabs that protrude into the door jamb and join the 2 hinge leaves together when door is closed. Holds a closed door in place even if the door hinges are tampered with (if hinge pins are removed or cut). \r\n</p>\r\n\r\n<p>\r\nDirect fit replacement for THERMA-TRU door hinges (4 Inch Square & Rounded Corner). \r\n</p>\r\n\r\n<p>\r\nPackage includes a pair of hinges (2), matching flathead and Phillips Drive #10 x 1\" wood screws.  Utilizes template screw hole pattern for use with wood or metal doors.\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-DE44058TT-specifications.jpg?v=1704354722\" width=\"300\" height=\"335\" border=\"0\" alt=\"Deltana DE44058TT Hinge Specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the 4 Inch Security Door Hinge:\r\n<ul>\r\n<li>Height: 4\"</li>\r\n<li>Width: 4\"</li>\r\n<li>Corners: 5/8\" Radius Leaf</li>\r\n<li>Corners: Square Leaf</li>\r\n<li>Thickness: 0.083\" (Residential)</li>\r\n<li>2 Ball Bearings</li>\r\n<li>Handed</li>\r\n<li>Standard Template Hole Pattern</li>\r\n<li>Hinge Pin: Steel</li>\r\n<li>Wood Screws: #10 x 3/4\"</li>\r\n<li>Security Tabs: Lock Tab for Door Jamb</li>\r\n<li>Security Tabs: Lock Tab to Join Hinge Leaves</li>\r\n<li>Hinge Material: Solid Stainless Steel</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DE44058TT.pdf?v=1691095316\" target=\"new\"><b>Deltana SS44058BU32D-S Hinge Specifications (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<b>*Sold in Pairs (2 Hinges)</b>\r\n</p>",
+            "seo": {
+                "title": "4 x 4 x 5/8 Radius x Sq Corners Steel Hinge with Security Lock Tabs, Pair, Deltana SS44058BU32D-S",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "4\""
+                },
+                {
+                    "key": "Width",
+                    "value": "4\""
+                },
+                {
+                    "key": "Corners",
+                    "value": "5/8\" Radius Leaf"
+                },
+                {
+                    "key": "Corners",
+                    "value": "Square Leaf"
+                },
+                {
+                    "key": "Thickness",
+                    "value": "0.083\" (Residential)"
+                },
+                {
+                    "key": "Hinge Pin",
+                    "value": "Steel"
+                },
+                {
+                    "key": "Wood Screws",
+                    "value": "#10 x 3/4\""
+                },
+                {
+                    "key": "Security Tabs",
+                    "value": "Lock Tab for Door Jamb"
+                },
+                {
+                    "key": "Security Tabs",
+                    "value": "Lock Tab to Join Hinge Leaves"
+                },
+                {
+                    "key": "Hinge Material",
+                    "value": "Solid Stainless Steel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Discontinued and Special Items",
+                    "sort": "40"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Height: 4\"",
+                "Width: 4\"",
+                "Corners: 5/8\" Radius Leaf",
+                "Corners: Square Leaf",
+                "Thickness: 0.083\" (Residential)",
+                "Hinge Pin: Steel",
+                "Wood Screws: #10 x 3/4\"",
+                "Security Tabs: Lock Tab for Door Jamb",
+                "Security Tabs: Lock Tab to Join Hinge Leaves",
+                "Hinge Material: Solid Stainless Steel",
+                "Select Door Hand: SS44058BU32D-S-L",
+                "Select Door Hand: SS44058BU32D-S-R"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Hand",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SS44058BU32D-S-L",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SS44058BU32D-S-R",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "legacy_product_id": "585231",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Arts and Crafts Push Plate, Brass Accents A05-P5350",
+            "vendor": "BrassAccents",
+            "status": "ACTIVE",
+            "sku": "BRA-A05-P5350",
+            "mpn": "BRA-A05-P5350",
+            "price": "69.99",
+            "compare_at_price": "87.0",
+            "contractor_price": "66.12",
+            "shipping_weight": "4.0",
+            "tags": [
+                "BRA-A05-P5350",
+                "Arts and Crafts Push Plates",
+                "Brass Accents A05-P5350",
+                "Solid Brass Arts and Crafts push plate",
+                "traditional push plates",
+                "southwest door Push plates",
+                "southwestern door push plates",
+                "11-1/4 inch Arts and Crafts Door Push plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ACO-A05-P5350-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-A05-P5350-525.jpg?v=1716424783"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents A05-P5350, 11-1/4\" Arts and Crafts Push Plate</b>\r\n\r\n<p>\r\nWith the textured plate and square cut-outs, the Arts and Crafts Push Plate has a rustic look. It is available in a wide array of finishes including the ever popular polished brass, satin nickel, and venetian bronze. The indents on the plate helps to bring out the highlights of each of the available finishes. This push plate measures 11-1/4 inches high and 2-7/8 inches wide, making it an impressive statement on any door.\r\n</p>\r\n\r\n<p>\r\nAlso Available: <b><a href=\"/products/arts-and-crafts-pull-plate-brass-accents-a05-p5351\">Arts and Crafts Pull Plate</a></b>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Arts and Crafts Decorative Push Plate\r\n<ul>\r\n<li>Plate Width: 2-7/8\"</li>\r\n<li>Plate Height: 11-1/4\"</li>\r\n<li>Material: Cast Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nComes complete with matching finish mounting screws for easy installation.\r\n</p>",
+            "seo": {
+                "title": "Arts and Crafts Push Plate, Brass Accents A05-P5350",
+                "description": "Brass Accents A05-P5350, Arts and Crafts Push Plate -- With the textured plate and square cut-outs, the Arts and Crafts Push Plate has a rustic look. It is available in a wide array of finishes including the ever popular polished brass, satin nickel, and venetian bronze. The indents on the plate helps to bring out the highlights of each of the available finishes. This push plate measures 11-1/4 inches high and 2-7/8 inches wide, making it an impressive statement on any door.",
+                "keywords": "BRA-A05-P5350, Arts and Crafts Push Plates, Brass Accents A05-P5350, Solid Brass Arts and Crafts push plate, traditional push plates, southwest door Push plates, southwestern door push plates, 11-1/4 inch Arts and Crafts Door Push plates,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Width",
+                    "value": "2-7/8\""
+                },
+                {
+                    "key": "Plate Height",
+                    "value": "11-1/4\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Cast Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Decorative Door Pull and Push Plates",
+                    "sort": "10"
+                },
+                {
+                    "name": "Pull & Push Plates",
+                    "sort": "16"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "332514",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "583367",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "12103",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "571166",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "298476",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "552523",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Plate Width: 2-7/8\"",
+                "Plate Height: 11-1/4\"",
+                "Material: Cast Brass",
+                "Select Finish: Antique Brass",
+                "Select Finish: Polished Brass",
+                "Select Finish: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

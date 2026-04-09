@@ -1,0 +1,108 @@
+{
+    "legacy_product_id": "966364",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Radius Corner Full Lip Strike, Kwikset 83796",
+            "vendor": "Kwikset",
+            "status": "ARCHIVED",
+            "sku": "KWI-83796",
+            "mpn": "KWI-83796",
+            "price": "3.9",
+            "compare_at_price": "3.9",
+            "contractor_price": "3.9",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Radius Corner Full Lip Strikes",
+                "Kwikset 83796",
+                "Full Lip Radius Corner Strike Plates",
+                "Kwikset 83796 Replacement Radius Corner Strike Plates",
+                "KWI-83796"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/KWI-83796-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/KWI-83796-525.jpg?v=1716427271"
+        },
+        "text": {
+            "description_html": "<b>Kwikset 83796, Full Lip Radius Corner Strike Plate</b>\r\n\r\n<p>\r\nReplacement full lip strike plate with radius corners (rounded corners). Standard strike plate for wood frame doors. Made of solid brass available for residential or commercial doors.  \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Kwikset 83796 Replacement Radius Corner Strike Plate:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Height: 2-1/4\"</li>\r\n<li>Corner Type: Radius Corner</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Radius Corner Full Lip Strike",
+                "description": "Replacement full lip strike plate with radius corners (rounded corners). Standard strike plate for wood frame doors. Made of solid brass available for residential or commercial doors.",
+                "keywords": "Radius Corner Full Lip Strikes, Kwikset 83796, Full Lip Radius Corner Strike Plates, Kwikset 83796 Replacement Radius Corner Strike Plates, KWI-83796"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Height",
+                    "value": "2-1/4\""
+                },
+                {
+                    "key": "Corner Type",
+                    "value": "Radius Corner"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Kwikset Parts",
+                    "sort": "11"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "283168",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "227810",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "257781",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "540695",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "540540",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Height: 2-1/4\"",
+                "Corner Type: Radius Corner",
+                "Select Finish: US3: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

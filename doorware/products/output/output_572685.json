@@ -1,0 +1,178 @@
+{
+    "legacy_product_id": "572685",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Ball Tip Wall Hook, RK International HK-5815",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-HK-5815",
+            "mpn": "RKI-HK-5815",
+            "price": "22.99",
+            "compare_at_price": "28.6",
+            "contractor_price": "22.99",
+            "shipping_weight": "0.25",
+            "tags": [
+                "RKI-HK-5815",
+                "Ball Tip Wall Hooks",
+                "RK International HK-5815",
+                "Double Prong Coat and Hat Hook with Ball Tips",
+                "Double Base Coat and Hat hooks",
+                "solid brass hat hooks",
+                "heavy duty wall hooks",
+                "brass coat hooks",
+                "bathroom wall hooks",
+                "purse hooks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-HK-5815-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-HK-5815-525.jpg?v=1716424727"
+        },
+        "text": {
+            "description_html": "<b>RK International HK-5815, Double Base Coat and Hat Hook</b>\r\n\r\n<p>\r\nWall hooks are a little thing that can make a big impact. The Ball Tip Wall Hooks provide a great place for your kids to hang their backpacks as they come through the front door. They can be used in the bathroom for towels. They can be used in the kitchen for keeping utensils within reach. No matter where you choose to screw in  one of these Double Base Coat and Hat Hooks, you will be adding traditional style to your home. Available in 7 finishes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Two-Prong Coat and Hat Hook:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length:3-7/8\"</li>\r\n<li>Width: 1-5/16\"</li>\r\n<li>Projection: 3-5/8\"</li>\r\n<li>Packaged with matching finish screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/oil-bronze-crab.jpg?v=1704354545\" width=\"586\" height=\"116\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Ball Tip Wall Hook",
+                "description": "RK International HK-5815 Ball Tip Wall Hook - Wall hooks are a little thing that can make a big impact. The Ball Tip Wall Hooks provide a great place for your kids to hang their backpacks as they come through the front door. They can be used in the bathroom for towels. They can be used in the kitchen for keeping utensils within reach. No matter where you choose to screw in  one of these Double Base Coat and Hat Hooks, you will be adding traditional style to your home. Available in 7 finishes.",
+                "keywords": "RKI-HK-5815, Ball Tip Wall Hooks, RK International HK-5815, Double Prong Coat and Hat Hook with Ball Tips, Double Base Coat and Hat hooks, solid brass hat hooks, heavy duty wall hooks, brass coat hooks, bathroom wall hooks, purse hooks,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "3-7/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "1-5/16\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "3-5/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Coat and Hat Hooks",
+                    "sort": "52"
+                },
+                {
+                    "name": "RK International Home Accessories",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "297215",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "447274",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "378559",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "295573",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "405397",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "378766",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "13357",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 3-7/8\"",
+                "Width: 1-5/16\"",
+                "Projection: 3-5/8\"",
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: B: Polished Brass",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "legacy_product_id": "1145548",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "36 Inch Patio Door Flush Bolt, Global FB5",
+            "vendor": "Global",
+            "status": "ARCHIVED",
+            "sku": "GLO-FB5",
+            "mpn": "GLO-FB5",
+            "price": "35.65",
+            "compare_at_price": "56.35",
+            "contractor_price": "35.65",
+            "shipping_weight": "3.0",
+            "tags": [
+                "GLO-FB5 36 Inch Flush Bolt",
+                "Global FB5 flush bolts",
+                "Aluminum Door Flush Bolts",
+                "door edge bolts",
+                "door bolts for store front doors",
+                "metal framed door flush bolts",
+                "metal door flush bolts",
+                "flush bolt metal double doors",
+                "flush bolt double doors",
+                "GLO-FB5-AL Aluminum flush bolts",
+                "GLO-FB5-DU Dark Bronze flush bolts"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/glo-FB5_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/glo-FB5_525.jpg?v=1716428455"
+        },
+        "text": {
+            "description_html": "<b>36\" Patio Door Extension Flush Bolt</b>\r\n<p>\r\nThese 36\" extension flush door bolts are for impact patio doors. Template Size 34\" - Rod 34\" with 1/8\" offset. Available  Aluminum or Duro (Dark Bronze) finish colors. Comes complete with flush bolt assembly, extension rod and guide plate.\r\n</p>\r\n<p>\r\nFlush bolts (also know as door edge bolts) are installed into the edge of the door and have a toggle lever that is moved up and down to push the attached rod and bolt into a header or threshold (footer), which locks or unlocks an inactive door.\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FB5-size.jpg?v=1704442296\" width=\"525\" height=\"525\" border=\"0\" alt=\"Global FB5 Flush Bolt Size\">\r\n</p>\r\n<p>\r\n<b>Specifications:</b> for Global FB5 Flush Bolt\r\n<ul>\r\n<li>Flush Bolt Length: 36\"</li>\r\n<li>Rod Length: 34\" (1/4\"-20 thread rod)</li>\r\n<li>Offset: 1/8\"</li>\r\n<li>Spring loaded lever action</li>\r\n<li>Supplied with nylon keeper (guide plate) and fasteners</li>\r\n<li>Square nylon tip with Beveled Corners Fits in 1/2\" (13 mm) Square or Round Strike</li>\r\n<li>Bolt Throw: 7/8\"</li>\r\n<li>Backset: 7/8\"</li>\r\n<li>5/8\" adjustment on rod length</li>\r\n<li>Face Plate: 15/16\" Wide x 4-1/4\" High with 5/32\" radius corner</li>\r\n<li>Mounting Holes: 5-7/32\" Center to Center</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "36 Inch Patio Door Flush Bolt, Global FB5",
+                "description": "Global FB5 flush bolt - These 36 inch extension flush bolts are normally used on for metal frame store front doors. Template Size 34 - Rod 34 inches with 1/8 inch offset. Available  Aluminum or Duro (Dark Bronze) finish colors.",
+                "keywords": "GLO-FB5 36 Inch Flush Bolt, Global FB5 flush bolts, Aluminum Door Flush Bolts, door edge bolts,  door bolts for store front doors,  metal framed door flush bolts, metal door flush bolts, flush bolt metal double doors, flush bolt double doors, GLO-FB5-AL Aluminum flush bolts, GLO-FB5-DU Dark Bronze flush bolts,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Global Discontinued",
+                    "sort": "49"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: GLO-FB5AL: Aluminum",
+                "Select Finish: GLO-FB5DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GLO-FB5AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GLO-FB5DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "legacy_product_id": "190255",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Friction Hold Open Arm for American Eagle 5100, PDQ 999002",
+            "vendor": "PDQ",
+            "status": "ACTIVE",
+            "sku": "PDQ-999002",
+            "mpn": "PDQ-999002",
+            "price": "91.5",
+            "compare_at_price": "122.0",
+            "contractor_price": "82.35",
+            "shipping_weight": "2.0",
+            "tags": [
+                "PDQ-999002 hold open arms",
+                "AE-519002",
+                "PDQ-519002 Friction Hold Open Arm for American Eagle 5100 door closers",
+                "door closer hold open arms",
+                "door closer holdopen arms",
+                "PDQ closer arms"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AE-519002_525.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AE-519002_525.gif?v=1716421828"
+        },
+        "text": {
+            "description_html": "<b>PDQ Friction Hold Open Closer Arm</b>\r\n<p>\r\nFits <a href=\"/products/commercial-ada-compliant-full-cover-surface-mount-closer-american-eagle-5100\"><b>American Eagle 5100 Door Closers</b></a>, <a href=\"/products/grade-1-polished-brass-door-closer-pdq-5101-bcpa-605\"><b>Polished Brass Door Closer</b></a> and <a href=\"/products/ada-compliant-delayed-action-handicap-door-closer-american-eagle-5141-bcpa\"><b>American Eagle 5141 Delayed Action Handicap Door Closer</b></a> (for 11 mm closer pinion shaft). \r\n</p>\r\n<p>\r\n<b>Includes <a href=\"/products/friction-hold-open-arm-parallel-arm-bracket-for-american-eagle-5100-pdq-999022\">Parallel Arm Bracket</a>.</b> Can be mounted regular, top jamb or parallel arm.<br>\r\n<b>Note: </b>For Hold Open to function properly when regular or top jamb mounting the door closer, door must open a <b>minimum of 90 degrees</b>. When parallel mounting minimum door opening is 40 degrees \r\n</p>\r\n<p>\r\nAlso available: <a href=\"#N/A\"><b>PDQ 999016 Thumb Turn Hold Open Arm</b></a>.\r\n</p>\r\n<p>\r\nAdjustable arm length and degree that the door is held open. \r\n</p>\r\n<p>\r\n Available in 3 painted finishes of Aluminum, Dark Bronze or Gold and 2 plated finishes, Polished Brass or Satin Chrome.\r\n</p>",
+            "seo": {
+                "title": "Friction Hold Open Arm for American Eagle 5100, PDQ 999002",
+                "description": "PDQ American Eagle 999002 - Friction Style Hold Open Arm for American Eagle 5100 door closers. Available in 3 painted finishes of Aluminum, Dark Bronze or Gold and 2 plated finishes, Polished Brass or Satin Chrome. Adjustable arm length and degree that the door is help open. ",
+                "keywords": "PDQ-999002 hold open arms, AE-519002, PDQ-519002 Friction Hold Open Arm for American Eagle 5100 door closers, door closer hold open arms, door closer holdopen arms, PDQ closer arms,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "American Eagle 5100",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "190257",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "190259",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "190791",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "184039",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "190682",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "190266",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 689: Aluminum",
+                "Select Finish: 695: Dark Bronze",
+                "Select Finish: 696: Gold Paint",
+                "Select Finish: 605: Polished Brass",
+                "Select Finish: 626: Brushed Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "689: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-519002-689"
+                },
+                {
+                    "value": "695: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-519002-695"
+                },
+                {
+                    "value": "696: Gold Paint",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-519002-696"
+                },
+                {
+                    "value": "605: Polished Brass",
+                    "price_impact": 37.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-519002-605"
+                },
+                {
+                    "value": "626: Brushed Chrome",
+                    "price_impact": 37.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-519002-626"
+                }
+            ]
+        }
+    ]
+}

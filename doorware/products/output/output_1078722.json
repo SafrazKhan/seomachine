@@ -1,0 +1,130 @@
+{
+    "legacy_product_id": "1078722",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Mulholland 6-5/16 Inch Cabinet Pull, Amerock BP53530G10",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "AME-BP53530G10",
+            "mpn": "AME-BP53530G10",
+            "price": "7.99",
+            "compare_at_price": "9.99",
+            "contractor_price": "7.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Amerock BP53530G10",
+                "6-5/16 Inch Mulholland Cabinet Pulls",
+                "Mulholland 6-5/16 Inch Cabinet Pulls",
+                "AME-BP53530G10"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AME-BP53530G10-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AME-BP53530G10-525.jpg?v=1716428099"
+        },
+        "text": {
+            "description_html": "<b>Amerock BP53530G10, 6-5/16 Inch Mulholland Cabinet Pull</b>\r\n\r\n<p> \r\nElegantly designed with an inviting blend of sophisticated lines and understated details, the 6-5/16 Inch Mulholland Cabinet Pull is an obvious choice for lasting style. The Amerock BP53530G10 Mulholland has an 6-5/16 Inch Center-to-Center and a 7-1/8 inch overall length. \r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AME-BP53530G10-specifications.gif?v=1704442295\" width=\"600\" height=\"179\" border=\"0\" alt=\"Amerock BP53530G10 Size\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Amerock Mulholland Cabinet Handle:\r\n<ul>\r\n<li>Material: Zinc</li>\r\n<li>Length (center to center): 6-5/16\" (c.c.)</li>\r\n<li>Overall Length: 7-1/8\"</li>\r\n<li>Projection: 1-7/16\"</li>\r\n<li>Grip Width: 7/8\"</li>\r\n<li>Hardware:  #8-32 x 1in LGTH T.H. Machine Screw</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Mulholland 6-5/16 Inch Cabinet Pull",
+                "description": "Elegantly designed with an inviting blend of sophisticated lines and understated details, the 6-5/16 Inch Mulholland Cabinet Pull is an obvious choice for lasting style. The Amerock BP53530G10 Mulholland has an 6-5/16 Inch Center-to-Center and a 7-1/8 inch overall length.",
+                "keywords": "Amerock BP53530G10, 6-5/16 Inch Mulholland Cabinet Pulls, Mulholland 6-5/16 Inch Cabinet Pulls, AME-BP53530G10"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Zinc"
+                },
+                {
+                    "key": "Length (center to center)",
+                    "value": "6-5/16\" (c.c.)"
+                },
+                {
+                    "key": "Overall Length",
+                    "value": "7-1/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-7/16\""
+                },
+                {
+                    "key": "Grip Width",
+                    "value": "7/8\""
+                },
+                {
+                    "key": "Hardware",
+                    "value": "#8-32 x 1in LGTH T.H. Machine Screw"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Amerock",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1002516",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "822708",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "592240",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "454078",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "43072",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "823033",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "542405",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Material: Zinc",
+                "Length (center to center): 6-5/16\" (c.c.)",
+                "Overall Length: 7-1/8\"",
+                "Projection: 1-7/16\"",
+                "Grip Width: 7/8\"",
+                "Hardware: #8-32 x 1in LGTH T.H. Machine Screw",
+                "Select Finish: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

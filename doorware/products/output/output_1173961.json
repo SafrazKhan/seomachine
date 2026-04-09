@@ -1,0 +1,120 @@
+{
+    "legacy_product_id": "1173961",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Seattle Multi-Point Trim with Square Lever C4, Baldwin ENSEASQU-C4",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-ENSEASQU-C4",
+            "mpn": "BAL-ENSEASQU-C4",
+            "price": "221.2",
+            "compare_at_price": "291.0",
+            "contractor_price": "221.2",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Seattle Multi-Point Trim with Square Lever C4",
+                "BAL-ENSEASQU-C4",
+                "Baldwin ENSEASQU-C4"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525214.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525214.gif?v=1716428771"
+        },
+        "text": {
+            "description_html": "<b>Baldwin ENSEASQU-C4, Seattle Multi-Point Trim with Square Lever C4  with Profile Cylinder Below</b>\r\n\r\n<p>\r\nThe Seattle Multi-Point Trim with Square Lever C4 has 7-7/8 inch mounting centers. It is part of Baldwin's multi point configuration C4 collection which profile cylinder below the handle.\r\n</p>\r\n\r\n<p>\r\n<b>Keyed Entry:</b> Active levers both sides of door. Keyed lock cylinder outside with thumb turn inside to lock door. Set includes: Two (2) backplates, Two (2) levers with spindles, One (1) profile profile cylinder with key outside & thumb turn inside, and mounting screws.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Seattle Entry Multi-Point Trim Door Configuration #C4:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Center to Center: 7-7/8\"</li> \r\n<li>Projection: 2\"</li>\r\n<li>Maximum Door Thickness: 2-1/4\"</li>\r\n<li>Handing: Reversible</li>\r\n<li>Keyway: Schlage C-keyway</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <B>Final Sale.</b></i>\r\n</p>",
+            "seo": {
+                "title": "Seattle Multi-Point Trim with Square Lever C4",
+                "description": "The Seattle Multi-Point Trim with Square Lever C4 has 7-7/8 inch mounting centers. It is part of Baldwin's multi point configuration C4 collection which profile cylinder below the handle.",
+                "keywords": "Seattle Multi-Point Trim with Square Lever C4, BAL-ENSEASQU-C4, Baldwin ENSEASQU-C4"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Baldwin Multi-Point Trim",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "904584",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "904629",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "346989",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1170399",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 150: Satin Nickel",
+                "Keying: Only Ordered One Lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "150: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Only"
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 8.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                }
+            ]
+        }
+    ]
+}

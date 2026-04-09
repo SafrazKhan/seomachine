@@ -1,0 +1,201 @@
+{
+    "legacy_product_id": "15203",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "28 to 36-inch Grade 1 Door Surface Vertical Rod 8400 Series",
+            "vendor": "Tell mfg",
+            "status": "ARCHIVED",
+            "sku": "TEL-8400",
+            "mpn": "TEL-8400",
+            "price": "248.5",
+            "compare_at_price": "355.0",
+            "contractor_price": "236.08",
+            "shipping_weight": "30.0",
+            "tags": [
+                "8400",
+                "Series",
+                "Surface",
+                "Vertical",
+                "Rod 8400 series surface vertical rod"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>8400 Series Surface Vertical Rod</b>\r\n<p>\r\nTell Manufacturing, Inc. was incorporated in 1986 as a manufacturer and distributor of commercial locks and door hardware. Tell has expanded its customer profiles to include, contract hardware distribution, locksmith distributors, OEM manufacturers, and the modular office industry.\r\n</p>\r\n<p>\r\n<b>8400 Series Vertical Rod:</b><br>\r\n* Non handed<br>\r\n* Door thickness 1 3/4\" standard for wood or hollow metal<br>\r\n* Backset standard 2 3/4\"<br>\r\n* <font color=red>Rail size standard to fit 28\" to 36\" doors. Easily field sizable. <br>\r\n* Optional 48\" rail available for wider doors.</font><br>\r\n* Pullman latch bolts top and bottom stainless steel 1/2\" throw<br>\r\n* Strike black powder coated surface applied to frame and threshold<br>\r\n* Covers 160/161 door cut out<br>\r\n* Hex key dogging standard on non fire labeled devices<br>\r\n* Rods furnished standard to fit 7'0\" high door<br>\r\n* Confirms to ANSI A156.3, 1994 Grade 1<br>\r\n* Optional outside trims available<br>\r\n* Fasteners accommodate wood or metal doors<br>\r\n</p>",
+            "seo": {
+                "title": "28 to 36-inch Grade 1 Door Surface Vertical Rod 8400 Series",
+                "description": "8400 Series Surface Vertical Rod\r\n\r\n* Non handed\r\n\r\n* Door thickness 1 3/4 standard for wood or hollow metal\r\n\r\nBackset standard 2 3/4\r\n\r\n* Rail size standard to fit 28 to 36 doors. Easily field sizable. Optional 48 rail available for wider doors.\r\n\r\n* Pullman latch bolts top and bottom stainless steel 1/2 throw\r\n\r\n* Strike black powder coated surface applied to frame and threshold\r\n\r\n* Covers 160/161 door cut out\r\n\r\n* Hex key dogging standard on non fire labeled devices\r\n\r\n* Rods furnished standard to fit 7'0 high door\r\n\r\n* Confirms to ANSI A156.3, 1994 Grade 1\r\n\r\n* Optional outside trims available\r\n\r\n* Fasteners accommodate wood or metal doors\r\n",
+                "keywords": "8400, Series, Surface, Vertical, Rod 8400 series surface vertical rod"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Tell mfg",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: AL - Aluminum",
+                "Select Finish: US32D - Satin Stainless Steel",
+                "Select Fire Rating Option: No do not add Fire Rated to item",
+                "Select Fire Rating Option: F8400-AL - Yes add Fire Rated to item (Aluminum)",
+                "Select Fire Rating Option: F8400-US32D - Yes add Fire Rated to item (Satin Stainless Steel)",
+                "Keying (Select Keyed Alike or Keyed Different): Keyed Different",
+                "Keying (Select Keyed Alike or Keyed Different): Keyed Alike",
+                "Select Outside Trim: TEL-8400-8PDT-EX100013 Exterior Blank Pull (AL aluminum finish)",
+                "Select Outside Trim: TEL-8400-8P03-EX100014 (AL aluminum finish)",
+                "Select Outside Trim: TEL-8400-TP81-EX100008 Keyed Entry (AL aluminum finish)",
+                "Select Outside Trim: TEL-8400-ESC881-EX100054 Keyed Entry(US26D satin chrome finish)",
+                "Select Outside Trim: TEL-8400-CTL881-EX100005 Keyed Entry (US26D satin chrome finish)",
+                "Select Outside Trim: TEL-8400-EMP808-EX100010 Keyed Entry (US32D satin stainless steel finish)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AL - Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AL"
+                },
+                {
+                    "value": "US32D - Satin Stainless Steel",
+                    "price_impact": 70.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US32D"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Fire Rating Option",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "No do not add Fire Rated to item",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "No"
+                },
+                {
+                    "value": "F8400-AL - Yes add Fire Rated to item (Aluminum)",
+                    "price_impact": 42.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "F8400-AL"
+                },
+                {
+                    "value": "F8400-US32D - Yes add Fire Rated to item (Satin Stainless Steel)",
+                    "price_impact": 112.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "F8400-US32D"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying (Select Keyed Alike or Keyed Different)",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Outside Trim",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TEL-8400-8PDT-EX100013 Exterior Blank Pull (AL aluminum finish)",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/8pdt_90x90_8113adbc-ba58-4cae-a84b-92c5db9faa15.jpg?v=1774590061",
+                    "image_lg": null,
+                    "sku_ref": "TEL-8400-8PDT-EX100013"
+                },
+                {
+                    "value": "TEL-8400-8P03-EX100014 (AL aluminum finish)",
+                    "price_impact": 0.07,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/8po3_90x90_3a2c80b6-62cd-4d86-96dc-58b083f3e189.jpg?v=1774590061",
+                    "image_lg": null,
+                    "sku_ref": "TEL-8400-8P03-EX100014"
+                },
+                {
+                    "value": "TEL-8400-TP81-EX100008 Keyed Entry (AL aluminum finish)",
+                    "price_impact": 66.5,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/tp81_90x90_33c1a184-4dda-489a-8377-741ce855f523.jpg?v=1774590061",
+                    "image_lg": null,
+                    "sku_ref": "TEL-8400-TP81-EX100008"
+                },
+                {
+                    "value": "TEL-8400-ESC881-EX100054 Keyed Entry(US26D satin chrome finish)",
+                    "price_impact": 108.5,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/esc881c_90x90_ac5b9552-c905-4a12-bfe3-75038483a7b3.jpg?v=1774590061",
+                    "image_lg": null,
+                    "sku_ref": "TEL-8400-ESC881-EX100054"
+                },
+                {
+                    "value": "TEL-8400-CTL881-EX100005 Keyed Entry (US26D satin chrome finish)",
+                    "price_impact": 79.8,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ctl881_90x90_93f850d9-57d9-4a1e-aab4-24368c8adf98.jpg?v=1774590061",
+                    "image_lg": null,
+                    "sku_ref": "TEL-8400-CTL881-EX100005"
+                },
+                {
+                    "value": "TEL-8400-EMP808-EX100010 Keyed Entry (US32D satin stainless steel finish)",
+                    "price_impact": 40.6,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/emp808_90x90_2fb25311-4e11-49e9-9436-42d060d0006f.jpg?v=1774590061",
+                    "image_lg": null,
+                    "sku_ref": "TEL-8400-EMP808-EX100010"
+                }
+            ]
+        }
+    ]
+}

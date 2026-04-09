@@ -1,0 +1,141 @@
+{
+    "legacy_product_id": "947854",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "High Profile Floor Dome Stop, Ives FS438",
+            "vendor": "Ives",
+            "status": "ARCHIVED",
+            "sku": "IVES-FS438",
+            "mpn": "IVES-FS438",
+            "price": "5.36",
+            "compare_at_price": "6.7",
+            "contractor_price": "5.36",
+            "shipping_weight": "1.0",
+            "tags": [
+                "High Profile Floor Dome Stops",
+                "1-3/8 Inch Floor Door Stops",
+                "1-3/8 Inch Dome Door Stops",
+                "IVES-FS438",
+                "Ives FS438"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/IVES-FS438-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/IVES-FS438-525.jpg?v=1716427093"
+        },
+        "text": {
+            "description_html": "<b>Ives FS438, 1-3/8 Inch Dome Door Stop</b>\r\n\r\n<p>\r\nTypically dome door stops are used in commercial buildings such as schools, shopping malls and offices. This Ives FS438  Floor Dome Stop has a base height of 9/16 inches, making it useful for doors with a threshold or undercut doors. The  1-3/8 Inch Dome Door Stop comes packaged with mounting hardware. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the High Profile Dome Door Stop:\r\n<ul>\r\n<li>Overall Height: 1-3/8”</li>\r\n<li>Base Height: 9/16”</li>\r\n<li>Base Width: 1-3/4”</li>\r\n<li>Base Length: 2”</li>\r\n<li>Rubber Color: Grey</li>\r\n<li>Packaged with wood screw and plastic anchor.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i> Special Ordered Item. <b>No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "High Profile Floor Dome Stop",
+                "description": "Typically dome door stops are used in commercial buildings such as schools, shopping malls and offices. This Ives FS438  Floor Dome Stop has a base height of 9/16 inches, making it useful for doors with a threshold or undercut doors. The  1-3/8 Inch Dome Door Stop comes packaged with mounting hardware.",
+                "keywords": "High Profile Floor Dome Stops, 1-3/8 Inch Floor Door Stops, 1-3/8 Inch Dome Door Stops, IVES-FS438, Ives FS438,"
+            },
+            "specifications": [
+                {
+                    "key": "Overall Height",
+                    "value": "1-3/8”"
+                },
+                {
+                    "key": "Base Height",
+                    "value": "9/16”"
+                },
+                {
+                    "key": "Base Width",
+                    "value": "1-3/4”"
+                },
+                {
+                    "key": "Base Length",
+                    "value": "2”"
+                },
+                {
+                    "key": "Rubber Color",
+                    "value": "Grey"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Ives",
+                    "sort": "13"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "177130",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "179265",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "550734",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "162598",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "396024",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Overall Height: 1-3/8”",
+                "Base Height: 9/16”",
+                "Base Width: 1-3/4”",
+                "Base Length: 2”",
+                "Rubber Color: Grey",
+                "Select Finish: 26D - Brushed Chrome",
+                "Add Optional Riser: No Thanks",
+                "Add Optional Riser: IVES-R43734  - Yes Add 3/4in. Door Stop Riser"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "26D - Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Add Optional Riser",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "No Thanks",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "IVES-R43734  - Yes Add 3/4in. Door Stop Riser",
+                    "price_impact": 5.84,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

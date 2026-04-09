@@ -1,0 +1,188 @@
+{
+    "legacy_product_id": "1252266",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Minneapolis Mortise Handleset Trim, Baldwin 6976",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-6976",
+            "mpn": "BAL-6976",
+            "price": "1078.0",
+            "compare_at_price": "1188.0",
+            "contractor_price": "1078.0",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Minneapolis Mortise Handleset Trim",
+                "Baldwin 6976"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525339.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525339.gif?v=1769500520"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 6976, Contemporary Mortise Minneapolis Handleset with 5190 Lever, Trim Set Only</b>\r\n\r\n<p>\r\nThis Minneapolis Mortise Handleset Trim with 5190 Lever includes interior and exterior trim only and does not include spindle, lock cylinder, or mortise lock body.\r\n</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p>\r\n<b>Specifications</b> of the Contemporary Estates Collection Minneapolis Handleset Trim:\r\n<ul>\r\n<li>Interior Trim: 5190 Lever</li>\r\n<li>Exterior Plate Length: 16\"</li>\r\n<li>Exterior Plate Width: 2-1/4\"</li>\r\n<li>Overall Exterior Projection: 2-1/5\"</li>\r\n<li>Interior Plate Length: 10\"</li>\r\n<li>Interior Plate Width: 2-1/4\"</li>\r\n<li>Interior Lever Length: 2-24/25\"</li>\r\n<li>Overall Interior Projection: 2-11/20\"</li>\r\n\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-6976-specifications.pdf?v=1691094974\" target=\"new\"><b>Minneapolis Handleset Specification Sheet (PDF)</b></a></li>\r\n\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Minneapolis Mortise Handleset Trim",
+                "description": "This Minneapolis Mortise Handleset Trim with 5190 Lever includes interior and exterior trim only and does not include spindle, lock cylinder, or mortise lock body.",
+                "keywords": "Minneapolis Mortise Handleset Trim, Baldwin 6976"
+            },
+            "specifications": [
+                {
+                    "key": "Interior Trim",
+                    "value": "5190 Lever"
+                },
+                {
+                    "key": "Exterior Plate Length",
+                    "value": "16\""
+                },
+                {
+                    "key": "Exterior Plate Width",
+                    "value": "2-1/4\""
+                },
+                {
+                    "key": "Overall Exterior Projection",
+                    "value": "2-1/5\""
+                },
+                {
+                    "key": "Interior Plate Length",
+                    "value": "10\""
+                },
+                {
+                    "key": "Interior Plate Width",
+                    "value": "2-1/4\""
+                },
+                {
+                    "key": "Interior Lever Length",
+                    "value": "2-24/25\""
+                },
+                {
+                    "key": "Overall Interior Projection",
+                    "value": "2-11/20\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Estates Collection Mortise Handlesets",
+                    "sort": "37"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Interior Trim: 5190 Lever",
+                "Exterior Plate Length: 16\"",
+                "Exterior Plate Width: 2-1/4\"",
+                "Overall Exterior Projection: 2-1/5\"",
+                "Interior Plate Length: 10\"",
+                "Interior Plate Width: 2-1/4\"",
+                "Interior Lever Length: 2-24/25\"",
+                "Overall Interior Projection: 2-11/20\"",
+                "Add Optional Lock Cylinder: No Lock Cylinder Needed",
+                "Add Optional Lock Cylinder: 8321:  1in. Mortise Cylinder",
+                "Select Finish: 260: Polished Chrome",
+                "Select Finish: 112: Venetian Bronze",
+                "Select Finish: 003: PVD Polished Brass",
+                "Select Finish: 190: Satin Black",
+                "Select Finish: 102: Oil Rubbed Bronze",
+                "Select Finish: 044: PVD Satin Brass",
+                "Select Finish: 055: PVD Polished Nickel",
+                "Select Finish: 056: PVD  Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Add Optional Lock Cylinder",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "No Lock Cylinder Needed",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "8321:  1in. Mortise Cylinder",
+                    "price_impact": 88.56,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "260: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "112: Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "003: PVD Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "190: Satin Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "102: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "044: PVD Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "055: PVD Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "056: PVD  Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

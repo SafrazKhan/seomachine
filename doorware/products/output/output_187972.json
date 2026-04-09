@@ -1,0 +1,119 @@
+{
+    "legacy_product_id": "187972",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Modern Industrial Loft Styling Appliance Pull, FII-CF3225-500",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-CF3225-500",
+            "mpn": "FII-CF3225-500",
+            "price": "220.0",
+            "compare_at_price": "275.0",
+            "contractor_price": "209.0",
+            "shipping_weight": "6.0",
+            "tags": [
+                "FII-CF3225-500",
+                "FII-CF3225-500-US26",
+                "FII-CF3225-500-US15",
+                "3225/500 First Impressions Modern Industrial Loft Styling Appliance Pulls",
+                "Industrial Refrigerator Handles",
+                "modern Refrigerator pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-CF3225-500_5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-CF3225-500_5251.jpg?v=1716421802"
+        },
+        "text": {
+            "description_html": "<b>Modern Industrial Loft Styling Refrigerator Pull</b>\r\n<p>\r\nFor over 10 years, First Impressions has been designing and manufacturing beautiful custom decor for homes, right here is the U.S.A. They offer some of the most diverse and beautiful styles we carry.\r\n</p>\r\n<p>\r\nThese bold appliance / refrigerator door pulls are reminiscent of industrial modern look found in a loft style space. They are available in 2 high quality finish choices of Bright Polished Chrome or Satin Brushed Nickel.\r\n</p>\r\n<p>\r\nThey are packaged with mounting screws for a refrigerator / appliance door panel. \r\n</p>\r\n\r\n<p>\r\nThe appliance pull handle is <b>1\" Square</b>  and made of the high quality light weight aluminum tube.\r\n</p>\r\n<p>\r\n<li>Total Pull Length 19-5/8\" - Center to Center Mount - 15-3/4\"</li>\r\n</p>\r\n<p>\r\nSold individually.\r\n</p>",
+            "seo": {
+                "title": "Modern Industrial Loft Styling Appliance Pull, FII-CF3225-500",
+                "description": "First Impressions 3225/500 - This Refrigerator/Appliance Pull from First Impressions is 19-5/8  long and available in Polished Chrome or Satin Nickel.",
+                "keywords": "FII-CF3225-500, FII-CF3225-500-US26, FII-CF3225-500-US15, 3225/500 First Impressions Modern Industrial Loft Styling Appliance Pulls, Industrial Refrigerator Handles, modern Refrigerator pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "258189",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "213065",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "185115",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "192454",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "192859",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "7896",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "184240",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "188488",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "179257",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: FII-CF3225-500-US15 - Satin Nickel",
+                "Select Finish: FII-CF3225-500-US26 - Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-CF3225-500-US15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "FII-CF3225-500-US15"
+                },
+                {
+                    "value": "FII-CF3225-500-US26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "FII-CF3225-500-US26"
+                }
+            ]
+        }
+    ]
+}

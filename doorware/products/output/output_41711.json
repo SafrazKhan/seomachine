@@ -1,0 +1,132 @@
+{
+    "legacy_product_id": "41711",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Ornate Cabinet Pull,  Omnia 9412/90",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9412/90",
+            "mpn": "OMN-9412/90",
+            "price": "19.2",
+            "compare_at_price": "19.2",
+            "contractor_price": "19.2",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9412/90 ornate cabinet drop pulls",
+                "omnia decorative drop pulls",
+                "solid brass decorative pulls",
+                "ornater cabinet pulls",
+                "solid brass ornate pulls",
+                "omnia decorative series pulls",
+                "solid brass cabinet hardware",
+                "omn-9412/90"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-9412-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/omn-9412-525.jpg?v=1716420804"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9412/90 Decorative Series Ornate Cabinet Drop Pull</b>\r\n\r\n<p>\r\nThis Omnia made cabinet pull is great for those looking for high quality elegant design. Fit for royalty, this cabinet door knob features luxurious embellishments. It is not for people who want to make a simple statement—it exudes richness that will lend its ornate styling well to fancier home décors.\r\n</p>\r\n\r\n<p>\r\nAlso available: Similar design <a href=\"/collections/omnia-cabinet-hardware\"><b>Omnia Ornate Cabinet Pulls</b></a>. \r\n</p>\r\n\r\n<p>\r\nOmnia's line of sophisticated cabinet hardware have been painstakingly crafted by artisans who understand that a beautiful design must be as comfortable to the hand as it is pleasing to the eyes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Omnia Cabinet Pull 9412/90:\r\n<ul>\r\n<li>Pull Length: 3-9/16\"</li>\r\n<li>Backplate Length: 4-1/2\"</li>\r\n<li>Backplate Width: 1-3/4\"</li>\r\n<li>Solid brass construction regardless of finish.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold Individually</b>\r\n</p>\r\n\r\n<p>\r\n<br><br>\r\n<b>** This item is discontinued.</b>\r\n<br><br>\r\n</p>",
+            "seo": {
+                "title": "Ornate Cabinet Pull,  Omnia 9412/90",
+                "description": "Omnia 9412/90 Ornate Cabinet Knob - This Omnia made cabinet pull is great for those looking for high quality elegant design. Fit for royalty, this cabinet door knob features luxurious embellishments. It is not for people who want to make a simple statement—it exudes richness that will lend its ornate styling well to fancier home décors.",
+                "keywords": "omnia 9412/90 ornate cabinet drop pulls,  omnia decorative drop pulls, solid brass decorative pulls, ornater cabinet pulls, solid brass ornate pulls, omnia decorative series pulls, solid brass cabinet hardware, omn-9412/90,"
+            },
+            "specifications": [
+                {
+                    "key": "Pull Length",
+                    "value": "3-9/16\""
+                },
+                {
+                    "key": "Backplate Length",
+                    "value": "4-1/2\""
+                },
+                {
+                    "key": "Backplate Width",
+                    "value": "1-3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "144"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "38211",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "41858",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "38061",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "41494",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "41720",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "41759",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "43356",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "41288",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "41303",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "148936",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Pull Length: 3-9/16\"",
+                "Backplate Length: 4-1/2\"",
+                "Backplate Width: 1-3/4\"",
+                "Select Finish: US3 - Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9412/90"
+                }
+            ]
+        }
+    ]
+}

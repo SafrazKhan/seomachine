@@ -1,0 +1,90 @@
+{
+    "legacy_product_id": "335945",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Stainless Steel Dummy Leverset, AHI SIG123-243DD",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-SIG123-243DD",
+            "mpn": "AHI-SIG123-243DD",
+            "price": "262.4",
+            "compare_at_price": "328.0",
+            "contractor_price": "262.4",
+            "shipping_weight": "10.0",
+            "tags": [
+                "AHI-SIG123-243DD"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SIG-243-84-123_5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SIG-243-84-123_5251.jpg?v=1716423219"
+        },
+        "text": {
+            "description_html": "<b>AHI Stainless Steel Dummy Leverset</b>\r\n<p>\r\nDummy Leversets are rigid and for looks only. They are Non-Locking and Non-Latching. They are used as a pull or to match trim.\r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-943S-specifications.gif?v=1704354498\" width=\"231\" height=\"358\" border=\"0\" alt=\"Trim Plate size\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b> \r\n<ul>\r\n<li>Function: Double Dummy</li>\r\n\r\n<li>Door Thickness: 1-3/4\", optional up to 3-1/2\" thick door</li>\r\n\r\n\r\n<li>Trim Plate Height: 9.68\" (246 mm)</li>\r\n<li>Trim Plate Width: 1.89\" (48 mm)</li>\r\n<li>Trim Plate Thickness: 0.275\" (7 mm)</li>\r\n<li>Solid Stainless Steel Trim</li>\r\n<li>Door Levers: <a href=\"/products/jordan-leverset-with-square-rose-ahi-sig123-204\"><b>AHI SIG123 Levers</b></a></li>\r\n</ul>\r\n</p>\r\n<p>\r\nAlso available: Matching <a href=\"/products/stainless-steel-mortise-lock-entry-leverset-ahi-sig123am48-243\"><b>Entry Leveset</b></a> \r\n</p>",
+            "seo": {
+                "title": "Stainless Steel Dummy Leverset, AHI SIG123-243DD",
+                "description": "",
+                "keywords": "AHI-SIG123-243DD"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "AHI Stainless Steel Handlesets",
+                    "sort": "20"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: 630: Satin Stainless",
+                "Select Finish: 629: Polished Stainless",
+                "Select Handing: Right Hand Door, Out-Swing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "630: Satin Stainless",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "629: Polished Stainless",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Right Hand Door, Out-Swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

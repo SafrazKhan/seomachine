@@ -1,0 +1,99 @@
+{
+    "legacy_product_id": "221509",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hold Open Arm for LCN 1461, LCN-1460-3049",
+            "vendor": "LCN",
+            "status": "ACTIVE",
+            "sku": "LCN-1460-3049",
+            "mpn": "LCN-1460-3049",
+            "price": "158.1",
+            "compare_at_price": "186.0",
+            "contractor_price": "150.2",
+            "shipping_weight": "3.0",
+            "tags": [
+                "LCN-1460-3049 LCN 1461 Hold Open Arms",
+                "LCN Friction Hold Open  Arm for LCN 4040 Series door closers",
+                "LCN 1460-3049 hold open arms",
+                "LCN 14603049 hold open arms"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LCN-1460-3049_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LCN-1460-3049_525.jpg?v=1716422161"
+        },
+        "text": {
+            "description_html": "<b>LCN 1460-3049 Friction Hold Open Arm</b>\r\n\r\n<p>\r\nFriction type Hold Open for  <a href=\"/products/lcn-1461-commercial-door-closer\"><b>LCN 1461 Door Closers</b></a>. \r\n</p>\r\n\r\n<p>\r\n<b>Easy to install and set.</b>\r\n</p>\r\n\r\n<p>\r\nHeavy duty hold open with adjustable arm length and the degree that the door is held open. \r\n</p>\r\n\r\n<p>\r\n Available in 2 finishes of Aluminum or Dark Bronze .\r\n</p>",
+            "seo": {
+                "title": "Hold Open Arm for LCN 1461, LCN-1460-3049",
+                "description": "LCN 1460-3049 Hold Open for LCN 1461 Door Closers. Heavy duty  hold open with adjustable arm length and the degree that the door is held open.",
+                "keywords": "LCN-1460-3049 LCN 1461 Hold Open Arms, LCN Friction Hold Open  Arm for LCN 4040 Series door closers, LCN 1460-3049 hold open arms, LCN 14603049 hold open arms,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closer Parts",
+                    "sort": "23"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "221512",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "221515",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "221503",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "221494",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "15345",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 1460-3049-AL: Aluminum",
+                "Select Finish: 1460-3049-DKBRZ: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1460-3049-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1460-3049-DKBRZ: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "legacy_product_id": "422972",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Polished Brass 88 Series Rim Exit Device with Lever Trim, Von Duprin 88L3",
+            "vendor": "Von Duprin",
+            "status": "ARCHIVED",
+            "sku": "VON-88L3",
+            "mpn": "VON-88L3",
+            "price": "1651.0",
+            "compare_at_price": "2064.0",
+            "contractor_price": "1575.0",
+            "shipping_weight": "15.0",
+            "tags": [
+                "88 Series Rim Cross Exit Device",
+                "Von Duprin 88L3"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>88 Series Polished Brass Rim Cross Exit Device, Von Duprin 88L3</b>\r\n<p>88 Rim Devices are for all all types of single and double doors with mullion.  Covers stock hollow metal doors with 86 or 161 cutouts.</p>\r\n<p>\r\nVon Duprin Series 88 Exit devices are UL listed from Accident Hazard and Fire Exit Hardware, and are tested in accordance to ANSI A156.3, 1994, Grade1.\r\n</p>\r\n<p>\r\nDevice is furnished standard with Polished Brass 373L Lever trim and 299 strike in dull black finish.  All necessary mounting hardware is included.  \r\n</p>\r\n<p>\r\n<b>\r\nFeatures and Specifications: </b> for Von Duprin 88 Series Rim Cross Exit Device\r\n<ul>\r\n<li>Includes Matching 373L Lever Trim</li>\r\n<li>Field Reversible Handing</li>\r\n<li>Field Sizeable</li>\r\n<li>3/4\" (19mm) Throw Latch Bolt</li>\r\n<li>Available in 5 finishes</li>\r\n<li>Hex Key Dogging</li>\r\n<li>Crossbar Projection Neutral:  4-3/4\"</li>\r\n<li>Crossbar Length:  42\"</li>\r\n<li>Lock Stile Case:  8-1/4\"x2-3/4\"x15/16\"</li>\r\n<li>Hinge Stile Case:  6\"x1-3/4\"x15/16\"</li>\r\n<li>Crossbar Diameter:  1\"</li>\r\n<li><b>Grade 1</b></li>\r\n</ul>\r\n</b>\r\n</p>",
+            "seo": {
+                "title": "Polished Brass 88 Series Rim Exit Device with Lever Trim, Von Duprin 88L3",
+                "description": "88 Series Rim Cross Exit Device, Von Duprin 88L3",
+                "keywords": "88 Series Rim Cross Exit Device, Von Duprin 88L3"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Von Duprin",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Handing: RHR - Right Hand Reverse",
+                "Select Handing: LHR - Left Hand Reverse"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RHR - Right Hand Reverse",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LHR - Left Hand Reverse",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

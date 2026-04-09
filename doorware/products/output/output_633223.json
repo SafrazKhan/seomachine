@@ -1,0 +1,114 @@
+{
+    "legacy_product_id": "633223",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Shaker Trim Robe Hook, Fusion RH-S8",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-RH-S8",
+            "mpn": "FUS-RH-S8",
+            "price": "59.0",
+            "compare_at_price": "59.0",
+            "contractor_price": "44.25",
+            "shipping_weight": "4.0",
+            "tags": [
+                "Sonoma Collection Shaker Trim Robe Hooks",
+                "Shaker Trim Robe Hooks",
+                "Fusion RH-S8",
+                "FUS-RH-S8",
+                "traditional bathroom robe hooks",
+                "hand towel hooks",
+                "bathroom towel hooks",
+                "bath towel hooks",
+                "Kitchen towel rings",
+                "bathroom stall purse hooks",
+                "towel rings",
+                "towel bars",
+                "coat hooks",
+                "Fusion Sonoma Collection Shaker Robe Hooks",
+                "Shaker Rose Robe Hooks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-RH-S8-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-RH-S8-525.jpg?v=1711365520"
+        },
+        "text": {
+            "description_html": "<b>Fusion RH-S8, Shaker Rose Robe Hook</b>\r\n\r\n<p>\r\nThe Shaker Trim Robe Hook is a great way to get those bathroom robes and towels off of the floor. It is easy to install and comes with all the installation screws. It is so easy to install, in fact, that it shouldn't be relegated to the bathroom alone. Put a few near the front door to hang purses and bags and hang some in the mud room for hats and winter coats. The rustic style is all the rage, and it is a great way to add an earthy feel to any room. Choose from medium bronze and oil rubbed bronze finishes.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/shaker-trim-towel-bar-fusion-tb-s8\"><b>Fusion TB-S8 Shaker Towel Bar</b></a>, \r\n<a href=\"/products/shaker-towel-ring-fusion-tr-s8\"><b>Fusion TR-S8 Shaker Towel Ring</b></a>, and\r\n<a href=\"/products/shaker-rose-toilet-paper-holder-fusion-ph-s8\"><b>Fusion PH-S8 Shaker Toilet Paper Holder</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Fusion Sonoma Collection Shaker Robe Hook:\r\n<ul>\r\n<li>Mount Width: 2-1/2\"</li>\r\n<li>Mount Length: 4-1/4\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Shaker Trim Robe Hook, Fusion RH-S8",
+                "description": "Fusion RH-S8, Shaker Trim Robe Hook - The Shaker Trim Robe Hook is a great way to get those bathroom robes and towels off of the floor. It is easy to install and comes with all the installation screws. It is so easy to install, in fact, that it shouldn't be relegated to the bathroom alone. Put a few near the front door to hang purses and bags and hang some in the mud room for hats and winter coats. The rustic style is all the rage, and it is a great way to add an earthy feel to any room. Choose from medium bronze and oil rubbed bronze finishes.\r\n",
+                "keywords": "Sonoma Collection Shaker Trim Robe Hooks, Shaker Trim Robe Hooks, Fusion RH-S8, FUS-RH-S8, traditional bathroom robe hooks, hand towel hooks, bathroom towel hooks, bath towel hooks, Kitchen towel rings, bathroom stall purse hooks, towel rings, towel bars, coat hooks, Fusion Sonoma Collection Shaker Robe Hooks, Shaker Rose Robe Hooks,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "21"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "384129",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "383122",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "65964",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "385185",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "187070",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "142078",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MDB - Medium Bronze",
+                "Select Finish: ORB - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MDB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

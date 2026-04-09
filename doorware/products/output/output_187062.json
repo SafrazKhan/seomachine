@@ -1,0 +1,145 @@
+{
+    "legacy_product_id": "187062",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Brass Cabinet Lock, Grandeur FCTPLN",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-FCTPLN",
+            "mpn": "GRA-FCTPLN",
+            "price": "30.4",
+            "compare_at_price": "38.0",
+            "contractor_price": "30.4",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Grandeur FCTPLN",
+                "cabinet locks",
+                "brass cabinet catch",
+                "cabinet flush catch",
+                "cabinet hardware",
+                "colonial cabinet hardware",
+                "GRA-FCTPLN",
+                "brass flush catches"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-FCTPLN-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-FCTPLN-525.jpg?v=1716421783"
+        },
+        "text": {
+            "description_html": "<b>Grandeur FCTPLN, Solid Brass Cabinet Lock</b>\r\n\r\n<p>\r\nEasy to install, these cabinet latches are surface mounted (screwed to the face of the door) with the included screws. They are primarily used on cabinet doors, however they are also used on furniture doors, utility doors, pantry doors, any door or window where a surface mounted lock is required. Manufactured out of brass by Grandeur Decorative Door Hardware which is famous for high quality products. \r\n</p>\r\n\r\n<p>\r\nClick here to see the entire <a href=\"/collections/grandeur-decorative\"><b>Grandeur Nostalgic Warehouse Collection</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specification</b> for Grandeur FCTPLN Brass Flush Catches:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Width: 2\"</li>\r\n<li>Height: 2\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass on the inside.\r\n</p>",
+            "seo": {
+                "title": "Solid Brass Cabinet Lock",
+                "description": "Solid Brass Cabinet Lock Grandeur FCTPLN - Easy to install, these cabinet latches are surface mounted (screwed to the face of the door) with the included screws. They are primarily used on cabinet doors, however they are also used on furniture doors, utility doors, pantry doors, any door or window where a surface mounted lock is required. Manufactured out of brass by Grandeur Decorative Door Hardware which is famous for high quality products. \r\n",
+                "keywords": "Grandeur FCTPLN, cabinet locks, brass cabinet catch, cabinet flush catch, cabinet hardware, colonial cabinet hardware, GRA-FCTPLN, brass flush catches,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "2"
+                },
+                {
+                    "name": "Cabinet Locks and Catches",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "7845",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "207292",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "147563",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "7999",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: AP: Antique Pewter",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: TB: Timeless Bronze",
+                "Select Finish: OB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "FCTPLN-BC"
+                },
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "FCTPLB-PB"
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "OB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

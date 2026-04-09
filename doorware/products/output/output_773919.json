@@ -1,0 +1,110 @@
+{
+    "legacy_product_id": "773919",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "L2 Offset Bracket, First Impressions L2",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-L2",
+            "mpn": "FII-L2",
+            "price": "160.0",
+            "compare_at_price": "200.0",
+            "contractor_price": "160.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "First Impressions L2 Offset Brackets",
+                "L2 Offset Brackets",
+                "First Impressions L2",
+                "FII-L2"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-L2-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-L2-525.jpg?v=1716425543"
+        },
+        "text": {
+            "description_html": "<b>First Impressions L2 Offset Bracket</b>\r\n\r\n<p>\r\nThis is an Offset Bracket for First Impressions door pulls.\r\n</p>\r\n\r\n<p>\r\nCustom Ordered Item. <b>Not Returnable.</b>\r\n</p>",
+            "seo": {
+                "title": "L2 Offset Bracket, First Impressions L2",
+                "description": "First Impressions L2, L2 Offset Bracket - This is an Offset Bracket for First Impressions door pulls.",
+                "keywords": "First Impressions L2 Offset Brackets, L2 Offset Brackets, First Impressions L2, FII-L2"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "First Impressions Miscellaneous Parts",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "688574",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "314325",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "188447",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "437601",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US19 - Matte Black",
+                "Select Mounting Choice: Back-to-Back Interior",
+                "Select Mounting Choice: Back-to-Back Exterior"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US19 - Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Mounting Choice",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Back-to-Back Interior",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Back-to-Back Exterior",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

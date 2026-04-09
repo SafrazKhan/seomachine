@@ -1,0 +1,76 @@
+{
+    "legacy_product_id": "518313",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Door Closer Arm for LCN 2610 Series, LCN-2610-3077T",
+            "vendor": "LCN",
+            "status": "ARCHIVED",
+            "sku": "LCN-2610-3077T",
+            "mpn": "LCN-2610-3077T",
+            "price": "120.0",
+            "compare_at_price": "150.0",
+            "contractor_price": "120.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Door Closer Arm for LCN 2610 Series",
+                "LCN-2610-3077T"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/2610-3077T-3001.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/2610-3077T-3001.jpg?v=1717106120"
+        },
+        "text": {
+            "description_html": "<b>LCN 2610 Series Door Closer Arm</b>\r\n<p>This is a replacement Arm for LCN 2610 Series Auto Equalizer pneumatic powered door operator.\r\n</p>\r\n<p>This door closer Arm is Handed. Package does not include track roller. Aluminum finish.\r\n</p>\r\n<p><b>*Sold Individually</b></p>\r\n<p>\r\n<b>*Important</b> When selecting <b>Door Hand</b> for this door closer arm:  \r\n<br>\r\n1. Stand on the <b>Push Side</b> of the door, facing the door. <br>\r\n2. If the \"Pivot Hinge\" is on your \"Right\", choose \"Right Hand Door\". <br>\r\n3. If the \"Pivot Hinge\" is on your \"Left\", choose \"Left Hand Door\". <br>\r\n\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/closer-handing.gif?v=1704354510\"  width=\"410\" height=\"195\" border=\"0\"alt=\"door closer handing\">\r\n</p>\r\n<br>\r\n<p><b>**This is a Special Ordered item.  Please allow 4-6 weeks lead time.  No returns.**</b></p>",
+            "seo": {
+                "title": "Door Closer Arm for LCN 2610 Series, LCN-2610-3077T",
+                "description": "Door Closer Arm for LCN 2610 Series, LCN-2610-3077T",
+                "keywords": "Door Closer Arm for LCN 2610 Series, LCN-2610-3077T"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closer Parts",
+                    "sort": "100"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Handing: LCN-2610-3077T-RH - Right Hand",
+                "Select Handing: LCN-2610-3077T-LH - Left Hand"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LCN-2610-3077T-RH - Right Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LCN-2610-3077T-LH - Left Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

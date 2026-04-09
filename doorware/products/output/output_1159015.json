@@ -1,0 +1,94 @@
+{
+    "legacy_product_id": "1159015",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Heavy Duty Concealed Stainless Steel Continuous Hinge, NGP SS300",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "NGP-SS300",
+            "mpn": "NGP-SS300",
+            "price": "539.0",
+            "compare_at_price": "598.0",
+            "contractor_price": "539.0",
+            "shipping_weight": "15.0",
+            "tags": [
+                "Heavy Duty Concealed Stainless Steel Continuous Hinges",
+                "Stainless Steel Continuous Hinge Concealed",
+                "NGP-SS300",
+                "NGP SS300",
+                "Stainless Steel Pin and Barrel Continuous Hinges",
+                "National Guard Product SS300",
+                "NGP SS300-83"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/NGP SS300-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/NGP_20SS300-525.jpg?v=1711366655"
+        },
+        "text": {
+            "description_html": "<b>NGP SS300, Stainless Steel Pin and Barrel Continuous Hinge</b>\r\n\r\n<p>\r\nHeavy Duty Concealed Stainless Steel Continuous Hinges are most often used on high traffic doorways. The  Stainless Steel Continuous Hinge is a pin and barrel design for use on door with up to a 1/8 inch inset that are 1-3/4 inches thick. The National Guard Product SS300 can hold a door weighing up to 600 lb.\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of the National Guard Product SS300:\r\n<ul>\r\n<li>Stainless steel hinge pins.</li>\r\n<li>Medical type self-lubricating flanged bearings between each 2\" knuckle provide dust-free quiet and smooth operation.</li>\r\n<li>25 year warranty.</li>\r\n<li>Fire-rated 3 hours on hollow metal doors and 90 minute on wood doors. Maximum size 4'0 x 10\".</li>\r\n<li>ANSI/BHMA certified to A156.26 American National Standard for Continuous Hinges: Grade 1 - 150 lb. door.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of the NGP SS300 Brushed Stainless Steel Pin and Barrel Continuous Hinge:\r\n<ul>\r\n<li>Material: Heavy duty 14 gauge type 304 stainless steel</li>\r\n<li>Finish: US32D (630) Brushed Stainless Steel</li>\r\n<li>For doors weighing up to 600 lbs.</li>\r\n<li>#10 × 1/2\" TEK screws for metal doors and frames.</li>\r\n<li>#10 × 1\" wood screws for wood doors.</li>\r\n<li>For 1-3/4\" Doors</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/NGP-SS300-specifciations.pdf?v=1704262437\"><b>NGP SS300 Specifications (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Heavy Duty Concealed Stainless Steel Continuous Hinge",
+                "description": "Heavy Duty Concealed Stainless Steel Continuous Hinges are most often used on high traffic doorways. The  Stainless Steel Continuous Hinge is a pin and barrel design for use on door with up to a 1/8 inch inset that are 1-3/4 inches thick. The National Guard Product SS300 can hold a door weighing up to 600 lb.",
+                "keywords": "Heavy Duty Concealed Stainless Steel Continuous Hinges,  Stainless Steel Continuous Hinge Concealed, NGP-SS300, NGP SS300, Stainless Steel Pin and Barrel Continuous Hinges, National Guard Product SS300, NGP SS300-83"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "National Guard Disc Custom Special",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1070382",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "250620",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "250617",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "250593",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "446533",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Length: NGP-SS300-83: 83 Inches"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "NGP-SS300-83: 83 Inches",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

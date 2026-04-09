@@ -1,0 +1,87 @@
+{
+    "legacy_product_id": "842996",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Parlour Crystal Lever Pair with Spindle, Nostalgic Warehouse PRL",
+            "vendor": "Grandeur",
+            "status": "ARCHIVED",
+            "sku": "GRA-PRL",
+            "mpn": "GRA-PRL",
+            "price": "60.0",
+            "compare_at_price": "60.0",
+            "contractor_price": "60.0",
+            "shipping_weight": "6.0",
+            "tags": [
+                "GRA-PRL",
+                "restoration door knobs",
+                "antique door knobs",
+                "Parlour Crystal Lever Pair with Spindle",
+                "Nostalgic Warehouse PRL",
+                "Parlour Crystal Lever with Spindle",
+                "Parlour Lever Pair",
+                "Grandeur/Nostalgic Warehouse Parlour Crystal Levers with Spindle"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-PRL-AB-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-PRL-AB-525.jpg?v=1716425967"
+        },
+        "text": {
+            "description_html": "<b>Grandeur/Nostalgic Warehouse Parlour Crystal Levers with Spindle</b>\r\n\r\n<p>\r\nFor new installations or restoration replacement parlour crystal levers with 8mm spindle. Comes packaged with 2 levers, 2 allen-head set screws, and an 8mm spindle.\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of Nostalgic Warehouse Parlour with 8 mm Spindle:\r\n<ul>\r\n<li>Mounting Base Material: Solid Brass</li>\r\n<li>Lever Material: Crystal</li>\r\n<li>Spindle Length: 3-7/8\"</li>\r\n<li>Spindle Diameter: Square, 3/8-20 threaded ends</li>\r\n<li>Lever Length: 4-3/8\"</li>\r\n<li>Lever Height: 1-1/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold as a set: 2 Levers.</i> Special Order Item, <b>NO Returns.</b>\r\n</p>",
+            "seo": {
+                "title": "Parlour Crystal Lever with Spindle",
+                "description": "For new installations or restoration replacement parlour crystal levers with 8mm spindle. Comes packaged with 2 levers, 2 allen-head set screws, and an 8mm spindle.",
+                "keywords": "GRA-PRL, restoration door knobs, antique door knobs, Parlour Crystal Lever Pair with Spindle, Nostalgic Warehouse PRL, Parlour Crystal Lever with Spindle, Parlour Lever Pair, Grandeur/Nostalgic Warehouse Parlour Crystal Levers with Spindle"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Restoration Door Hardware",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "311798",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "306088",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "253857",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: Antique Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "legacy_product_id": "195072",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Brass Regal Contemporary Door Knocker",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-600",
+            "mpn": "OMN-600",
+            "price": "127.05",
+            "compare_at_price": "169.4",
+            "contractor_price": "120.7",
+            "shipping_weight": "2.0",
+            "tags": [
+                "OMN-600 Contemporary Door Knockers",
+                "Omnia Regal Door Knockers",
+                "omnia knockers",
+                "omnia 600/100 5 inch door knockers",
+                "omnia 600/125 6 inch solid brass knockers",
+                "Omnia Max Brass finish"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-600-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/omn-600-525.jpg?v=1716421893"
+        },
+        "text": {
+            "description_html": "<b>Omnia Regal Contemporary Door Knocker.</b>\r\n<p>\r\nThe Regal door knocker is both Contemporary and Elegant, making it the perfect center piece for many home styles.\r\n</p>\r\n<p>\r\nOmnia's Door Knockers add those details, those distinctive touches which claify and reinforce fine architecture and design. Their dedication to detail is revealed in the latest selection of solid brass door knockers.\r\n</p>\r\n<p>\r\nAfter hand poishing and high buffing, a hard and transparent lacquer is baked onto each piece. This special process retains the tradition of old world excellence while employing the best available modern technology to protect and preserve your fine taste.\r\n</p>\r\n\r\n<p>\r\nThe Omnia Max-Brass finish will change the way you think about finishes. The unique process in the manufacturing provides a superior resistance to tarnish or potting.\r\n</p>\r\n<p><b>Available in 2 different sizes.</b>\r\n</p>\r\n<p>\r\n<b>OMN-600/100</b>\r\n<ul>\r\n<li>Overall Size: 5\"</li>\r\n<li>Center to center: 3-3/8\"</li>\r\n<li>Projection: 1-3/8\"</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<b>OMN-600/125</b>\r\n<ul>\r\n<li>Overall Size: 6\"</li>\r\n<li>Center to center: 4\"</li>\r\n<li>Projection: 2\"</li>\r\n</ul>\r\n</p>\r\n<p>Available in 2 different Finishes.<b><br>\r\nUS3 Polished Brass<br>\r\nMB Max Brass</b><br>\r\nMax Brass is a PVD polished brass coating that is highly resistant to extreme  elements. It has a lifetime <b>No Tarnish Guarantee</b>. Recommended for harsh environments such as salty air.\r\n</p>\r\n</p>",
+            "seo": {
+                "title": "Solid Brass Regal Contemporary Door Knocker",
+                "description": "Omnia Regal Door Knocker. Available in US3 Polished Brass or  Max Brass. Max Brass is a PVD polished brass coating that is highly resistant to extreme  elements. It has a lifetime No Tarnish Guarantee. Recommended for harsh environments such as salty air.",
+                "keywords": "OMN-600 Contemporary Door Knockers, Omnia Regal Door Knockers, omnia knockers, omnia 600/100 5 inch door knockers, omnia 600/125 6 inch solid brass knockers, Omnia Max Brass finish,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knockers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knockers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-6",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "53"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "13734",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "157004",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "195132",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "195089",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "195096",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "195124",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Size and Finish: OMN-600/100-US3: 5in. Overall, US3 Polished Brass",
+                "Select Size and Finish: OMN-600/125-US3: 6in. Overall, US3 Polished Brass",
+                "Select Size and Finish: OMN-600/100-MB: 5in. Overall, MB Max Brass",
+                "Select Size and Finish: OMN-600/125MB: 6in. Overall, MB Max Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size and Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-600/100-US3: 5in. Overall, US3 Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "OMN-600/125-US3: 6in. Overall, US3 Polished Brass",
+                    "price_impact": 27.15,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "OMN-600/100-MB: 5in. Overall, MB Max Brass",
+                    "price_impact": 84.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "OMN-600/125MB: 6in. Overall, MB Max Brass",
+                    "price_impact": 118.95,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

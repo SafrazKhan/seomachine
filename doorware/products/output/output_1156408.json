@@ -1,0 +1,118 @@
+{
+    "legacy_product_id": "1156408",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Laguna 7-1/2 Inch Cabinet Pull, MNG 216",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "MNG-216",
+            "mpn": "MNG-216",
+            "price": "19.3",
+            "compare_at_price": "25.73",
+            "contractor_price": "18.34",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Laguna 7-1/2 Inch Cabinet Pulls",
+                "Laguna Cabinet Pulls",
+                "Laguna 7-1/2 Inch Pulls",
+                "modern cabinet hardware",
+                "contemporary cabinet hardware",
+                "MNG-216",
+                "MNG 216",
+                "MNG-21626 MNG 21626 polished chrome cabinet Pulls",
+                "MNG-21628",
+                "MNG 21628 satin nickel cabinet Pulls",
+                "Laguna 192mm Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MNG-216-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-216-525.jpg?v=1716428543"
+        },
+        "text": {
+            "description_html": "<b>MNG 216, Laguna 7-1/2 Inch Cabinet Pull</b>\r\n\r\n<p>\r\nThe Laguna 7-1/2 Inch Cabinet Pull is modern and sleek. This easy to care for kitchen cabinet pull has 7-1/2 inch mounting centers and measures 8 inches overall. The Modern Silver Drawer Pull is available in polished chrome or satin nickel finish. Each of the Laguna 192mm Pulls comes packaged with mounting hardware.\r\n</p>\r\n\r\n<p>\r\nThis cabinet pull is part of the <a href=\"//search?type=product&q=MNG+Laguna\">MNG Laguna Collection</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the MNG 216 Laguna 7-1/2 Inch Pull:\r\n<ul>\r\n<li>Base Material: Zinc </li>\r\n<li>Length c.c. (center to center): 7-1/2\"</li>\r\n<li>Overall Length: 8\"</li>\r\n<li>Width: 7/8\"</li>\r\n<li>Projection: 7/8\"</li>\r\n<li>Packaged with 1\" long #8-32 screws and 1-1/2\"  long #8-32 screws.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i> \r\n</p>",
+            "seo": {
+                "title": "Laguna 7-1/2 Inch Cabinet Pull",
+                "description": "The Laguna 7-1/2 Inch Cabinet Pull is modern and sleek. This easy to care for kitchen cabinet pull has 7-1/2 inch mounting centers and measures 8 inches overall. The Modern Silver Drawer Pull is available in polished chrome or satin nickel finish. Each of the Laguna 192mm Pulls comes packaged with mounting hardware.",
+                "keywords": "Laguna 7-1/2 Inch Cabinet Pulls, Laguna Cabinet Pulls, Laguna 7-1/2 Inch Pulls, modern cabinet hardware, contemporary cabinet hardware, MNG-216, MNG 216, MNG-21626 MNG 21626 polished chrome cabinet Pulls, MNG-21628, MNG 21628 satin nickel cabinet Pulls, Laguna 192mm Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "MNG Cabinet Hardware",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "901076",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1155994",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "364105",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "823533",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "940635",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "314151",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "822718",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "1002606",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MNG-21626: Polished Chrome",
+                "Select Finish: MNG-21628: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MNG-21626: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-21626-SM.jpg?v=1774582310",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-21626-LG.jpg?v=1711366639"
+                },
+                {
+                    "value": "MNG-21628: Satin Nickel",
+                    "price_impact": 0.61,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-21628-SM.jpg?v=1774582313",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-21628-LG.jpg?v=1711366639"
+                }
+            ]
+        }
+    ]
+}

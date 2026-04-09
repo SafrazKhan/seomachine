@@ -1,0 +1,94 @@
+{
+    "legacy_product_id": "966378",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "6 Way Deadlatch Service Kit, Kwikset 81844",
+            "vendor": "Kwikset",
+            "status": "ARCHIVED",
+            "sku": "KWI-81844",
+            "mpn": "KWI-81844",
+            "price": "14.0",
+            "compare_at_price": "14.0",
+            "contractor_price": "14.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Kwikset 81844-3 6 Way Deadlatch Service Kits",
+                "6 Way Deadlatch Service Kits",
+                "KWI-81844"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/KWI-81844-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/KWI-81844-525.jpg?v=1716427272"
+        },
+        "text": {
+            "description_html": "<b>Kwikset 81844, 6 Way Deadlatch Service Kit</b>\r\n\r\n<p>\r\nThe Kwikset Deadlatch Service Kit contains a round corner faceplate, square corner faceplate, back plate, and drive-in collar. This kit is designed to be used in conjunction with the Kwikset 6-way deadlatch core. For all Kwikset Keyed entry functions.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Kwikset Deadlatch Service Kit:\r\n<ul>\r\n<li>Round Corner: 1/4\" Radius, 1\" width x 2-1/4\" length.</li>\r\n<li>Square Corner: 1\" width x 2-1/4\" length.</li>\r\n<li>Drive-In Collar: 1\" Diameter</li>\r\n<li>Screws: Two 3/4\" latch screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "6 Way Deadlatch Service Kit",
+                "description": "The Kwikset Deadlatch Service Kit contains a round corner faceplate, square corner faceplate, back plate, and drive-in collar. This kit is designed to be used in conjunction with the Kwikset 6-way deadlatch core.",
+                "keywords": "Kwikset 81844-3 6 Way Deadlatch Service Kits, 6 Way Deadlatch Service Kits, KWI-81844"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Kwikset Parts",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "260609",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "260741",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "335504",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "347250",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "347294",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "9743",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US3: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "legacy_product_id": "570918",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Beaded Middle Door Pull, RK International PH-4701",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-PH-4701",
+            "mpn": "RKI-PH-4701",
+            "price": "203.99",
+            "compare_at_price": "255.2",
+            "contractor_price": "203.99",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Traditional Beaded Appliance Pulls",
+                "Beaded Middle Door Pulls",
+                "RK International PH-4701",
+                "RKI-PH-4701",
+                "Beaded Middle Vertical Pulls",
+                "Simple Beaded door Pulls",
+                "Traditional Beaded door handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-PH-4701-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-PH-4701-525.jpg?v=1716424701"
+        },
+        "text": {
+            "description_html": "<b>RK International PH-4701, Traditional Beaded Door Pull</b>\r\n\r\n<p>\r\nThe beading on this door pull not only adds classic beauty to this piece, but it also provides an ergonomic grip. This 12 inch c.c. handle can be used on doors as well as appliances. It is available in 6 beautiful finishes including timeless oil rubbed bronze and the ever popular satin nickel (pictured right). Made by RK International, the Beaded Middle Door Pull is sure to add traditional glamor to any space.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching <a href=\"/products/beaded-cabinet-pull-rk-international-cp-3701\"><b>Beaded Cabinet Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the PH-4701 Decorative Door Pull:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Length c.c. (center to center): 12\"</li>\r\n<li>Overall Length: 13\"</li>\r\n<li>Width: 1-1/16\"</li>\r\n<li>Projection: 2-5/8\"</li>\r\n<li>Packaged with mounting screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MUL-T-LOCK-TSR25_size.gif?v=1704354575\" width=\"600\" height=\"133\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Beaded Middle Door Pull",
+                "description": "RK International PH-4701 Beaded Middle Door Pull - The beading on this door pull not only adds classic beauty to this piece, but it also provides an ergonomic grip. This 12 inch c.c. handle can be used on doors as well as appliances. It is available in 6 beautiful finishes including timeless oil rubbed bronze and the ever popular satin nickel. Made by RK International, the Beaded Middle Door Pull is sure to add traditional glamor to any space.",
+                "keywords": "Traditional Beaded Appliance Pulls, Beaded Middle Door Pulls, RK International PH-4701, RKI-PH-4701, Beaded Middle Vertical Pulls, Simple Beaded door Pulls, Traditional Beaded door handles,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Length c.c. (center to center)",
+                    "value": "12\""
+                },
+                {
+                    "key": "Overall Length",
+                    "value": "13\""
+                },
+                {
+                    "key": "Width",
+                    "value": "1-1/16\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "2-5/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "RK International Door Pulls",
+                    "sort": "7"
+                },
+                {
+                    "name": "Door Pulls",
+                    "sort": "86"
+                },
+                {
+                    "name": "Classic and Restoration Door Pulls",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "569371",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "213031",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "566566",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "566511",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "566545",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "542346",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "558845",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Length c.c. (center to center): 12\"",
+                "Overall Length: 13\"",
+                "Width: 1-1/16\"",
+                "Projection: 2-5/8\"",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

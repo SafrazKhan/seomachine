@@ -1,0 +1,103 @@
+{
+    "legacy_product_id": "1163896",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Full Mortise Automatic Door Bottom with PemkoPrene, Pemko 434APKL",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "PEM-434APKL",
+            "mpn": "PEM-434APKL",
+            "price": "111.0",
+            "compare_at_price": "111.0",
+            "contractor_price": "111.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Full Mortise Automatic Door Bottom with PemkoPrene",
+                "Pemko 434APKL",
+                "Pemko 434_PKL Automatic Door Bottoms",
+                "PEM-434APKL"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PEM-434APKL-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PEM-434APKL-525.jpg?v=1717106631"
+        },
+        "text": {
+            "description_html": "<b>Pemko 434_PKL Automatic Door Bottom</b>\r\n\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Full Mortise Automatic Door Bottom:\r\n<ul>\r\n<li>Finish: Aluminum</li>\r\n<li>Width: 27/32” (21.4 mm)</li>\r\n<li>Height: 1-5/16” (33.4 mm)</li>\r\n<li>Smooth action, positive seal mechanism.</li>\r\n<li>An aluminum case surrounds a movable drop-bar seal.</li>\r\n<li>The drop-bar seal is actuated by a plunger which contacts the jamb as the door is closing, forcing the drop-bar seal down against the floor / threshold.</li>\r\n<li>Low Closing Force and Fully Mortise Application means this Drop Seal satisfies requirements for ANSI A117.1 and ADAAG 2010</li>\r\n<li>This automatic door bottom is supplied with a PemkoPrene® (\"PK\") insert - item number PK4304BL (Black color, only).</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Product Testing</b>\r\n<ul>\r\n<li>Air Infiltration Tested – Tested to ASTM E-283-04 (2012) for low air leakage allowance; allows no more than 0.3 cfm per square\r\n foot at 1.57 psf.</li>\r\n<li>Sound Tested – Tested to ASTM E90 – 2009 in a single or in multiple sound seal configurations for sound attenuation in an opening</li>\r\n<li>Smoke Tested – Tested to UL 1784 and meets the requirements of NFPA 105-2013 for smoke leakage in an opening; allows no\r\n more than 3.0 cfm per square foot at 0.10” water column (about 75 Pa).</li>\r\n<li>Fire Rated – Tested to UL10B Standard Fire Tests and UL10C Positive Pressure Fire Tests of Door Assemblies</li>\r\n<li>BHMA Certified – Tested for performance with regards to the requirements in: ANSI/BHMA A156.22 – Door Gasketing and Edge Seal Systems</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually<i>\r\n</p>",
+            "seo": {
+                "title": "Full Mortise Automatic Door Bottom with PemkoPrene",
+                "description": "Pemko 434_PKL Automatic Door Bottom",
+                "keywords": "Full Mortise Automatic Door Bottom with PemkoPrene, Pemko 434APKL, Pemko 434_PKL Automatic Door Bottoms, PEM-434APKL"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Pemko",
+                    "sort": "29"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "246787",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "232550",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "894690",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "642475",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Length: 32 Inch",
+                "Select Length: 34 Inch",
+                "Select Length: 36 Inch"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "32 Inch",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "34 Inch",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "36 Inch",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

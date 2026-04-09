@@ -1,0 +1,119 @@
+{
+    "legacy_product_id": "696775",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3-1/2 Inch Projection Base Door Stop, Fusion SHDRSSOL",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-SHDRSSOL",
+            "mpn": "FUS-SHDRSSOL",
+            "price": "10.25",
+            "compare_at_price": "10.25",
+            "contractor_price": "7.69",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Fusion SHDRSSOL Base Plate Door Stops",
+                "Fusion SHDRSSOL",
+                "Base Door Stops",
+                "FUS-SHDRSSOL",
+                "3-1/2 Inch Projection Base Door Stops",
+                "baseboard door stops"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-SHDRSSOL-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-SHDRSSOL-525.jpg?v=1711365568"
+        },
+        "text": {
+            "description_html": "<b>Fusion SHDRSSOL, Base Door Stop</b>\r\n\r\n<p>\r\nFusion's Base Door Stop is a great way to protect your wall and your door knobs. This door stop has a 3-1/2 inch projection. It is available in 4 beautiful finishes: antique copper, brushed nickel, oil rubbed bronze, and polished brass, so you will be able to find just the right finish to match your fusion door knobs.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Fusion SHDRSSOL Base Plate Door Stop:\r\n<ul>\r\n<li>Projection: 3-1/2\"</li>\r\n<li>One-piece Styling.</li>\r\n<li>Easily screws into base.</li>\r\n<li>Designed with square head to accommodate wrench or pliers when installing.</li>\r\n<li>Made from solid brass.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>\r\n\r\n<p>\r\n<b>*Limited quantities available. (This item is discontinued) </b>\r\n</p>",
+            "seo": {
+                "title": "3-1/2 Inch Projection Base Door Stop, Fusion SHDRSSOL",
+                "description": "Fusion SHDRSSOL, 3-1/2 Inch Projection Base Door Stop - Fusion's Base Door Stop is a great way to protect your wall and your door knobs. This door stop has a 3-1/2 inch projection. It is available in 4 beautiful finishes: antique copper, brushed nickel, oil rubbed bronze, and polished brass, so you will be able to find just the right finish to match your fusion door knobs.",
+                "keywords": "Fusion SHDRSSOL Base Plate Door Stops, Fusion SHDRSSOL, Base Door Stops, FUS-SHDRSSOL, 3-1/2 Inch Projection Base Door Stops, baseboard door stops,"
+            },
+            "specifications": [
+                {
+                    "key": "Projection",
+                    "value": "3-1/2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion-MISC-Discontinued",
+                    "sort": "101"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "294886",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "573409",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "13266",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "588298",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Projection: 3-1/2\"",
+                "Select Finish: FUS-SHDRSSOL-ATC-3500 - Antique Copper",
+                "Select Finish: FUS-SHDRSSOL-BRN-3500 - Brushed Nickel",
+                "Select Finish: FUS-SHDRSSOL-ORB-3500 - Oil Rubbed Bronze",
+                "Select Finish: FUS-SHDRSSOL-PVD-3500 - Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FUS-SHDRSSOL-ATC-3500 - Antique Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FUS-SHDRSSOL-BRN-3500 - Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FUS-SHDRSSOL-ORB-3500 - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FUS-SHDRSSOL-PVD-3500 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

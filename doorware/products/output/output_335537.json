@@ -1,0 +1,127 @@
+{
+    "legacy_product_id": "335537",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "36 Inch Contemporary Rectangular Door Pull, First Impressions 3478/36",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-3478/36-US28",
+            "mpn": "FII-3478/36-US28",
+            "price": "695.0",
+            "compare_at_price": "925.0",
+            "contractor_price": "695.0",
+            "shipping_weight": "9.0",
+            "tags": [
+                "FII-3478/36-US28 rectangular door pulls",
+                "Contemporary Brushed Aluminum Door Pulls",
+                "First Impressions 3477 door pulls",
+                "36 inch rectangular door pulls",
+                "First Impressions door pulls",
+                "long door handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>First Impressions 3478/36 36\" Long Contemporary Rectangular Door Pull</b>\r\n<p>This unique design door handle can be used in many different applications such as:\r\n<ul><li>Appliances, such as Refrigerators and Freezers</li>\r\n<li>Entrance, Patio or Store Front Doors</li>\r\n<li>Furniture and Cabinet Doors</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-3478-36_size.gif?v=1704442273\" width=\"580\" height=\"200\" border=\"0\" alt=\"First Impressions 3478/36 Door Pull size\">\r\n</p>\r\n<p>\r\nAlso available: Shorter <a href=\"/products/20-inch-pryor-aluminum-pull-first-impressions-pry02020\"><b>20 Inch Contemporary Rectangular Door Pull</b></a>\r\n</p>\r\n<p>\r\n<b>Specifications</b> for First Impressions 3478/36-US28 Door Pull\r\n<ul>\r\n<li>Overall Length: 36\"</li>\r\n<li>Mounting Centers (distance between the 2 mounting holes): 32\" C/C</li>\r\n<li>Pull Thickness: 1\"</li>\r\n<li>Projection: 2-1/2\"</li>\r\n<li>Clearance: 1-1/2\"</li>\r\n<li>Pull Material: Aluminum</li>\r\n<li>Finish: <b>Brushed Aluminum</b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNote: This door pull is handmade in the USA when you order it—allowing it to be custom designed to fit your specific door application, including <b>Other Lengths</b>. Unfortunately, because of the made-to-order nature of the door handle, it is <b>Not Returnable.</b> Please <a href=\"/pages/contact\">Contact Us</a> with your requirements or if you have any questions.\r\n</p>\r\n<p>Packaged Standard with Thrubolt mounting (Bolts thru the door). Optional Surface mounting or Back to Back mounting available (Pulls bolt to each other - Requires 2 door pulls).\r\n</p>\r\n<p>\r\n<b>*Sold individually.</b>\r\n</p>",
+            "seo": {
+                "title": "36 Inch Contemporary Rectangular Door Pull, First Impressions 3478/36",
+                "description": "First Impressions 3478/36-US28 Contemporary 36 inch long rectangular door pull. Designed by First Impressions International, the leader in innovative pull concepts. Brushed Aluminum finish.",
+                "keywords": "FII-3478/36-US28 rectangular door pulls,  Contemporary Brushed Aluminum Door Pulls, First Impressions 3477 door pulls, 36 inch rectangular door pulls, First Impressions door pulls, long door handles,"
+            },
+            "specifications": [
+                {
+                    "key": "Overall Length",
+                    "value": "36\""
+                },
+                {
+                    "key": "Mounting Centers (distance between the 2 mounting holes)",
+                    "value": "32\" C/C"
+                },
+                {
+                    "key": "Pull Thickness",
+                    "value": "1\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "2-1/2\""
+                },
+                {
+                    "key": "Clearance",
+                    "value": "1-1/2\""
+                },
+                {
+                    "key": "Pull Material",
+                    "value": "Aluminum"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Brushed Aluminum"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "71"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Overall Length: 36\"",
+                "Mounting Centers (distance between the 2 mounting holes): 32\" C/C",
+                "Pull Thickness: 1\"",
+                "Projection: 2-1/2\"",
+                "Clearance: 1-1/2\"",
+                "Pull Material: Aluminum",
+                "Finish: Brushed Aluminum",
+                "Select Mounting Choice: Thrubolt Mounted",
+                "Select Mounting Choice: Surface Mounted",
+                "Select Mounting Choice: Back to Back Mounted (Requires 2 Pulls)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Mounting Choice",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Thrubolt Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Thrubolt"
+                },
+                {
+                    "value": "Surface Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Surface"
+                },
+                {
+                    "value": "Back to Back Mounted (Requires 2 Pulls)",
+                    "price_impact": 32.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Back"
+                }
+            ]
+        }
+    ]
+}

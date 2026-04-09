@@ -1,0 +1,127 @@
+{
+    "legacy_product_id": "814007",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Lever by Lever Mortise Lock Box, Omnia 2300/F8.LH-FW",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-2300/F8.LH-FW",
+            "mpn": "OMN-2300/F8.LH-FW",
+            "price": "328.0",
+            "compare_at_price": "328.0",
+            "contractor_price": "328.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Omnia Lever by Lever Mortise Lock Boxes",
+                "Lever by Lever Mortise Lock Boxes",
+                "Omnia 2300/F8.LH-FW",
+                "OMN-2300/F8.LH-FW"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52523.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52523.gif?v=1717106258"
+        },
+        "text": {
+            "description_html": "<b>Omnia Mortise Lock Body Only</b>\r\n\r\n<p>\r\nMortise lock box for Omnia levers.\r\n</p>\r\n\r\n<p>\r\n<b>Dormitory Function:</b> Dormitory or Exit Lock function is defined as a lock where the latch bolt is operated by the lever from either side, except when the outside lever is made inoperative by a stop or mechanical means other than a key. The dead bolt is projected by the key from the outside and by turn from inside. The dead bolt is retracted by key from the outside and by the turn from the inside. Operating the inside lever retracts both bolts and the outside lever remains locked.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b>for the Omnia Mortise Lock Box:\r\n<ul>\r\n<li>Function: Dormitory Function</li>\r\n<li>Backset: 2-3/4\"</li>\r\n<li>Handing: Left Hand</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nSpecial Ordered Item. <b>Not Returnable</b>\r\n</p>",
+            "seo": {
+                "title": "Lever by Lever Mortise Lock Box",
+                "description": "Dormitory Function Mortise lock box for Omnia levers.",
+                "keywords": "Omnia Lever by Lever Mortise Lock Boxes, Lever by Lever Mortise Lock Boxes, Omnia 2300/F8.LH-FW, OMN-2300/F8.LH-FW,"
+            },
+            "specifications": [
+                {
+                    "key": "Function",
+                    "value": "Dormitory Function"
+                },
+                {
+                    "key": "Backset",
+                    "value": "2-3/4\""
+                },
+                {
+                    "key": "Handing",
+                    "value": "Left Hand"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "48"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "232931",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "330372",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "369177",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "276806",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Function: Dormitory Function",
+                "Backset: 2-3/4\"",
+                "Handing: Left Hand",
+                "Select Door Handing & Door Swing: LHR: Left Hand Door, Out-swing",
+                "Select Door Handing & Door Swing: LH: Left Hand Door, In-swing",
+                "Select Door Handing & Door Swing: RHR: Right Hand Door, Out-swing",
+                "Select Door Handing & Door Swing: RH: Right Hand Door, In-swing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Handing & Door Swing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LHR: Left Hand Door, Out-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LH: Left Hand Door, In-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RHR: Right Hand Door, Out-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RH: Right Hand Door, In-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

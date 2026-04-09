@@ -1,0 +1,78 @@
+{
+    "legacy_product_id": "879665",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "DoralLock CL200LA Lock Cylinder",
+            "vendor": "Doralock",
+            "status": "ARCHIVED",
+            "sku": "DOR-CL200LA-LC",
+            "mpn": "DOR-CL200LA-LC",
+            "price": "34.91",
+            "compare_at_price": "34.91",
+            "contractor_price": "34.91",
+            "shipping_weight": "1.0",
+            "tags": [
+                "DoralLock CL200LA Lock Cylinders",
+                "Lock Cylinder for DoralLock CL200LA",
+                "DOR-CL200LA-LC"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52549.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52549.gif?v=1716426269"
+        },
+        "text": {
+            "description_html": "<b>Lock Cylinder for DoralLock CL200LA</b>\r\n\r\n<p>\r\nReplacement lock cylinder for <a href=\"/products/grade-2-deadbolt-deltana-cl200la\">DoralLock CL200LA</a>\r\n</p>\r\n\r\n<p>\r\n<b>Special Ordered Item. No Returns.</b>\r\n</p>",
+            "seo": {
+                "title": "DoralLock CL200LA Lock Cylinder",
+                "description": "Replacement Lock Cylinder for DoralLock CL200LA",
+                "keywords": "DoralLock CL200LA Lock Cylinders, Lock Cylinder for DoralLock CL200LA, DOR-CL200LA-LC"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "DoralLock Discontinued Misc",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "210496",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "363590",
+                    "sort": "2"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US3 - Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

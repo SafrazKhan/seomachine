@@ -1,0 +1,85 @@
+{
+    "legacy_product_id": "1143654",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Handleset Dummy Deadbolt Plug and Collar, Emtek DB4-DUMMYPLUG/DB-COLLAR32",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-DB4-DUMMYPLUG/DB-COLLAR32",
+            "mpn": "EMT-DB4-DUMMYPLUG/DB-COLLAR32",
+            "price": "35.0",
+            "compare_at_price": "35.0",
+            "contractor_price": "35.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Handleset Dummy Deadbolt Plug and Collars",
+                "EMT-DB4-DUMMYPLUG/DB-COLLAR32"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525185.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525185.gif?v=1716428448"
+        },
+        "text": {
+            "description_html": "<b>Emtek DB4-DUMMYPLUG/DB-COLLAR32, Dummy Deadbolt Plug and Collar</b>\r\n\r\n<p>\r\nThis is a replacement Dummy Deadbolt Plug and Collar for use on <a href=\"/collections/emtek-tubular-handlesets\">Emtek Dummy Function Handlesets</a>.  \r\n</p>\r\n\r\n<p>\r\n<b>Special ordered item. NO RETURNS.</b>\r\n</p>",
+            "seo": {
+                "title": "Handleset Dummy Deadbolt Plug and Collar",
+                "description": "This is a replacement Dummy Deadbolt Plug and Collar for use on Emtek Dummy Function Handlesets.",
+                "keywords": "Handleset Dummy Deadbolt Plug and Collars, EMT-DB4-DUMMYPLUG/DB-COLLAR32,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "29"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "608611",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "943982",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "871486",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "416171",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: N: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "N: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

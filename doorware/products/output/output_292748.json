@@ -1,0 +1,123 @@
+{
+    "legacy_product_id": "292748",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "5 Foot Long Stainless Steel Door Pull, First Impressions 3252/60-US32",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "3252/60-US32",
+            "mpn": "3252/60-US32",
+            "price": "350.0",
+            "compare_at_price": "500.0",
+            "contractor_price": "350.0",
+            "shipping_weight": "20.0",
+            "tags": [
+                "FII-3252 Modern Door Pulls",
+                "first impressions 3252 door pulls",
+                "Long Stainless Steel Door Pull",
+                "rectangle  modern style pulls",
+                "square pull handles",
+                "modern square door pulls",
+                "contemporary rectangular door pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-3552_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-3552_525.jpg?v=1717105887"
+        },
+        "text": {
+            "description_html": "<b>First Impressions 3252/60-US32  Long Stainless Steel Door Pull.</b>\r\n<p>\r\nThese 5 foot long contemporary rectangular polished stainless steel door pulls made by First Impressions International, the leader in innovative pull concepts. Made to order in the USA.\r\n\r\n</p>\r\n<p>\r\n<b>Specifications</b> for First Impressions 3252/60-US32  Modern Door Pull\r\n<ul>\r\n<li>Pull Length: 5'</li>\r\n<li>Pull Width: 1-1/2\"</li>\r\n<li>Pull Thickness: 3/8\"</li>\r\n<li>Projection: 2\"</li>\r\n<li>Pull Material: Solid Stainless Steel</li>\r\n<li>Finish: <b>Polished Stainless Steel</b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>Packaged Standard with Thrubolt mounting (Bolts thru the door). Optional Surface mounting or Back to Back mounting available (Pulls bolt to each other - Requires 2 door pulls).\r\n</p>\r\n<p>\r\n<b>*Sold individually.</b>\r\n</p>\r\n<p>\r\n<b>Special order custom made item, Not Returnable.</b>\r\n</p>",
+            "seo": {
+                "title": "5 Foot Long Stainless Steel Door Pull, First Impressions 3252/60-US32",
+                "description": "First Impressions 3250 Modern Door  Pull.  Great modern look and feel. Very contemporary door pull for appliances, shower doors, etc. Available in different lengths in your choice of Satin or Polished Stainless Steel.",
+                "keywords": "FII-3252 Modern Door Pulls, first impressions 3252 door pulls, Long Stainless Steel Door Pull, rectangle  modern style pulls, square pull handles, modern square door pulls, contemporary rectangular door pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Pull Length",
+                    "value": "5'"
+                },
+                {
+                    "key": "Pull Width",
+                    "value": "1-1/2\""
+                },
+                {
+                    "key": "Pull Thickness",
+                    "value": "3/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "2\""
+                },
+                {
+                    "key": "Pull Material",
+                    "value": "Solid Stainless Steel"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Polished Stainless Steel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Custom-Misc-Items",
+                    "sort": "70"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Pull Length: 5'",
+                "Pull Width: 1-1/2\"",
+                "Pull Thickness: 3/8\"",
+                "Projection: 2\"",
+                "Pull Material: Solid Stainless Steel",
+                "Finish: Polished Stainless Steel",
+                "Select Mounting Choice: Thrubolt Mounted",
+                "Select Mounting Choice: Surface Mounted",
+                "Select Mounting Choice: Back to Back Mounted (Requires 2 Pulls)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Mounting Choice",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Thrubolt Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Thrubolt"
+                },
+                {
+                    "value": "Surface Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Surface"
+                },
+                {
+                    "value": "Back to Back Mounted (Requires 2 Pulls)",
+                    "price_impact": 32.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Back"
+                }
+            ]
+        }
+    ]
+}

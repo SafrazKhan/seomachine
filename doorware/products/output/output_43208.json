@@ -1,0 +1,169 @@
+{
+    "legacy_product_id": "43208",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Jasper Cabinet Pull, Omnia 9431/76",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9431/76",
+            "mpn": "OMN-9431/76",
+            "price": "10.35",
+            "compare_at_price": "13.8",
+            "contractor_price": "9.83",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9431/76 timeless cabinet pulls",
+                "solid brass cabinet pulls",
+                "fancy kitchen cabinet pulls",
+                "omnia cabinet pulls",
+                "omn-9431/76",
+                "omn-9431 76",
+                "omn-9431",
+                "timeless brass pulls",
+                "solid brass kitchen cabinet pulls Omnia 9431/76",
+                "solid brass drawer knobs",
+                "Omnia 9431/76 drawer knobs",
+                "Jasper Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-9431-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/omn-9431-5251.jpg?v=1711365091"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9431/76, Jasper Solid Brass Cabinet Pull</b>\r\n\r\n<p>\r\nMade of solid brass, the Jasper Cabinet Pull is beautiful. The beading adds a classic touch perfect for traditional decors. Each pull is available in 6 finishes. The Jasper Solid Brass Cabinet Pull comes packaged with the installation hardware.\r\n</p>\r\n\r\n<p>\r\nAlso available <a href=\"#N/A\"><b>Jasper Cabinet Knob in vintage finishes</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Jasper Cabinet Pull:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Length center to center: 3\"</li>\r\n<li>Projection: 1-7/16\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p align=\"left\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/made-usa-logo.jpg?v=1704354497\" width=\"515\" height=\"137\" border=\"0\" alt=\"Omnia Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "Jasper Cabinet Pull",
+                "description": "Made of solid brass, the Jasper Cabinet Pull is beautiful. The beading adds a classic touch perfect for traditional decors. Each pull is available in 6 finishes. The Jasper Solid Brass Cabinet Pull comes packaged with the installation hardware.\r\n",
+                "keywords": "omnia 9431/76 timeless cabinet pulls, solid brass cabinet pulls, fancy kitchen cabinet pulls, omnia cabinet pulls, omn-9431/76, omn-9431 76, omn-9431, timeless brass pulls, solid brass kitchen cabinet pulls Omnia 9431/76, solid brass drawer knobs, Omnia 9431/76 drawer knobs, Jasper Cabinet Pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Length center to center",
+                    "value": "3\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-7/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "216"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "42897",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "212269",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "213047",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "43133",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "41523",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "40045",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "262536",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Length center to center: 3\"",
+                "Projection: 1-7/16\"",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: SB: Shaded Bronze",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US10B: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9431/76-US3"
+                },
+                {
+                    "value": "SB: Shaded Bronze",
+                    "price_impact": 1.65,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9431/76-SB"
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 1.65,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9431/76-US26"
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 2.7,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9431/76-US14"
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 2.7,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9431/76-US15"
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 2.7,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9431/76-US10B"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "legacy_product_id": "1116177",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Prodigy Traditional Single Passage Rose Cover, Omnia 673/PA",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-673/PA",
+            "mpn": "OMN-673/PA",
+            "price": "15.0",
+            "compare_at_price": "15.0",
+            "contractor_price": "15.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Prodigy Traditional Single Passage Rose Cover",
+                "Omnia 673/PA",
+                "OMN-673/PA",
+                "Traditional Passage Rose Cover"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525165.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525165.gif?v=1716428276"
+        },
+        "text": {
+            "description_html": "<p>Omnia 673/PA Prodigy Traditional Passage Rose Cover</p>\r\n\r\n<p>\r\nThis is a Traditional Passage Rose Cover made by Omnia.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually. <b>NO RETURNS</b></i>\r\n</p>",
+            "seo": {
+                "title": "Prodigy Traditional Single Passage Rose Cover",
+                "description": "This is a Traditional Passage Rose Cover made by Omnia.",
+                "keywords": "Prodigy Traditional Single Passage Rose Cover, Omnia 673/PA, OMN-673/PA, Traditional Passage Rose Cover"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "304"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "479464",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "479247",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "476670",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "939584",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

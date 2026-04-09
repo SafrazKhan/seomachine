@@ -1,0 +1,123 @@
+{
+    "legacy_product_id": "1150659",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Infinity Door Pull Interior for Back to Back Set, Omnia 9009P/415B",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9009P/415B",
+            "mpn": "OMN-9009P/415B",
+            "price": "192.0",
+            "compare_at_price": "256.0",
+            "contractor_price": "192.0",
+            "shipping_weight": "7.0",
+            "tags": [
+                "Omnia Ultima I 9009P Pulls",
+                "Infinity Door Pull interior for Back to Back Set",
+                "Omnia 9009P/415B",
+                "OMN-9009P/415B",
+                "Interior Infinity Door Handle for Back to Back Pair"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-DP-9009P-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-DP-9009P-5251.jpg?v=1716428465"
+        },
+        "text": {
+            "description_html": "<b>Omnia  9009P/415B, Interior Infinity Door Handle for Back to Back Pair</b>\r\n\r\n<p>\r\nThis is the Interior Infinity Door Handle meant to be mounted inside as part of a back to back handle set. This pull has set screw installation. \r\n</p\r\n\r\n<p>\r\n<b>Specifications</b> of the Omnia Ultima I9009P/415B Door Pull:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Length (center to center): 16-5/16\" (c.c.)</li>\r\n<li>Overall Length: 18\"</li>\r\n<li>Max Thickness: 7/8\"</li>\r\n<li>Max Projection: 2-5/8\"</li>\r\n<li>Door Thickness: for doors 1-3/8\" to 2-1/4\" thick.</li>\r\n<li>Set Screw</li>\r\n<li>Back to back mounting hardware included</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Infinity Door Pull",
+                "description": "This is the Interior Infinity Door Handle meant to be mounted inside as part of a back to back handle set. This pull has set screw installation.",
+                "keywords": "Omnia Ultima I 9009P Pulls, Infinity Door Pull interior for Back to Back Set, Omnia 9009P/415B, OMN-9009P/415B, Interior Infinity Door Handle for Back to Back Pair"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Length (center to center)",
+                    "value": "16-5/16\" (c.c.)"
+                },
+                {
+                    "key": "Overall Length",
+                    "value": "18\""
+                },
+                {
+                    "key": "Max Thickness",
+                    "value": "7/8\""
+                },
+                {
+                    "key": "Max Projection",
+                    "value": "2-5/8\""
+                },
+                {
+                    "key": "Door Thickness",
+                    "value": "for doors 1-3/8\" to 2-1/4\" thick."
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "309"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "454256",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1056562",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "562892",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "352981",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1056545",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Length (center to center): 16-5/16\" (c.c.)",
+                "Overall Length: 18\"",
+                "Max Thickness: 7/8\"",
+                "Max Projection: 2-5/8\"",
+                "Door Thickness: for doors 1-3/8\" to 2-1/4\" thick.",
+                "Select Finish: US15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

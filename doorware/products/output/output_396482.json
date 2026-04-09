@@ -1,0 +1,151 @@
+{
+    "legacy_product_id": "396482",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Contoured Radius Rose Doorbell Button, Fusion B-EL-A7",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-B-EL-A7",
+            "mpn": "FUS-B-EL-A7",
+            "price": "28.0",
+            "compare_at_price": "28.0",
+            "contractor_price": "21.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "FUS-B-EL-A7",
+                "fusion Contoured Radius doorbells",
+                "fusion hardware B-EL-A7 traditional doorbells",
+                "round doorbells",
+                "simple doorbells",
+                "fusion A7 rose doorbells",
+                "Contoured Radius rose door bells",
+                "Tradition Round Contoured Radius Doorbell Buttons",
+                "Contoured Radius Rose Doorbell Buttons"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-D-A7-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-D-A7-525.jpg?v=1711365454"
+        },
+        "text": {
+            "description_html": "<b>Fusion B-EL-A7, Tradition Round Contoured Radius Doorbell Button</b>\r\n\r\n<p>\r\nA nicely designed doorbell, it features a traditional round plate style from Fusion Decorative Hardware. Fusion's Contoured Radius Rose Doorbell Button is packaged as a kit with matching finish installation screws and a lighted button. Available in 6 finishes including: antique pewter, brushed nickel, and oil rubbed bronze finishes.\r\n</p>\r\n\r\n<p>\r\n<b>Please Note</b> This is a replacement trim only. It comes packaged with lighted button, rosette, and installation screws. It DOES NOT include the chime.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Contoured Radius Doorbell Fusion B-EL-A7:\r\n<ul>\r\n<li>Rose Diameter: 2-5/8\"</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Includes lighted button.</li>\r\n<li>Packaged as a kit with matching finish installation screws and a lighted button.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Contoured Radius Rose Doorbell Button, Fusion B-EL-A7",
+                "description": "Fusion B-EL-A7, Tradition Round Contoured Radius Doorbell - A nicely designed doorbell, it features a traditional round plate style from Fusion Decorative Hardware. Fusion's Contoured Radius Rose Doorbell Button is packaged as a kit with matching finish installation screws and a lighted button. Available in 6 finishes including: antique pewter, brushed nickel, and oil rubbed bronze finishes.\r\n",
+                "keywords": "FUS-B-EL-A7, fusion Contoured Radius doorbells, fusion hardware B-EL-A7 traditional doorbells, round doorbells, simple doorbells, fusion A7 rose doorbells, Contoured Radius rose door bells, Tradition Round Contoured Radius Doorbell Buttons, Contoured Radius Rose Doorbell Buttons,"
+            },
+            "specifications": [
+                {
+                    "key": "Rose Diameter",
+                    "value": "2-5/8\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Doorbells",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "187673",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "383169",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "42170",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "13290",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "238373",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "172953",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Rose Diameter: 2-5/8\"",
+                "Material: Solid Brass",
+                "Select Finish: ORB - Oil Rubbed Bronze",
+                "Select Finish: BRN - Brushed Nickel",
+                "Select Finish: ATP - Antique Pewter",
+                "Select Finish: MDB - Medium Bronze",
+                "Select Finish: PLC - Polished Chrome",
+                "Select Finish: PVD - Lifetime Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRN - Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ATP - Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MDB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PLC - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PVD - Lifetime Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

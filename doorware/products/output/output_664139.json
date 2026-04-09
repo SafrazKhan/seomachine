@@ -1,0 +1,126 @@
+{
+    "legacy_product_id": "664139",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4 x 20 Brass Push Plate, Don-Jo Push-4x20",
+            "vendor": "Don-Jo",
+            "status": "ARCHIVED",
+            "sku": "DJO-Push-4x20",
+            "mpn": "DJO-Push-4x20",
+            "price": "26.0",
+            "compare_at_price": "31.2",
+            "contractor_price": "26.0",
+            "shipping_weight": "1.5",
+            "tags": [
+                "Economy Priced 4 x 20 Push Plates",
+                "4 x 20 commercial door push plates",
+                "20 inches x 4 inches",
+                "20 inch push plates",
+                "4 inch push plates",
+                "Push Plate  4 inches x 20 Inches",
+                "don jo door pull plates",
+                "commercial door handles",
+                "restaurant door handles",
+                "restaurant door plates",
+                "Don-Jo Solid Brass 4 x 20 Push Plates",
+                "4 x 20 Brass Push Plates",
+                "Don-Jo Push-4x20",
+                "4 x 20 Brass Push Plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-PP-4x20-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-PP-4x20-525.jpg?v=1716425190"
+        },
+        "text": {
+            "description_html": "<b>Don-Jo Solid Brass 4 x 20 Push Plate</b>\r\n\r\n<p>\r\nThis Push Plate is 4\" x 20\". Push Plates like this one are primarily used in restaurants, warehouses, factories and stores; but they can be just at useful in a home environment too. Protect your doors with this solid brass push plate. Made in the USA from .050\" thick solid Brass. Packaged with mounting hardware for easy installation. \r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/kaba-simplex-902-size.gif?v=1704354717\" width=\"100\" height=\"72\" border=\"0\" alt=\"Made in the USA\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Don-Jo Push-4x20 Brass Push Plate:\r\n<ul>\r\n<li>Plate Height: 20\"</li>\r\n<li>Plate Width: 4\"</li>\r\n<li>Plate Thickness: .050\" (1.2 mm)</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Packaged With Mounting Screws</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i> \r\n</p>",
+            "seo": {
+                "title": "4 x 20 Brass Push Plate, Don-Jo Push-4x20",
+                "description": "Don-Jo Push-4x20, 4 x 20 Brass Push Plate - This Push Plate is 4 inches x 20 inches. Push Plates like this one are primarily used in restaurants, warehouses, factories and stores; but they can be just at useful in a home environment too. Protect your doors with this solid brass push plate. Made in the USA from .050 inches thick solid Brass. Packaged with mounting hardware for easy installation.",
+                "keywords": "Economy Priced 4 x 20 Push Plates, 4 x 20 commercial door push plates, 20 inches x 4 inches, 20 inch push plates, 4 inch push plates, Push Plate  4 inches x 20 Inches, don jo door pull plates, commercial door handles, restaurant door handles, restaurant door plates, Don-Jo Solid Brass 4 x 20 Push Plates, 4 x 20 Brass Push Plates, Don-Jo Push-4x20, 4 x 20 Brass Push Plates,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Height",
+                    "value": "20\""
+                },
+                {
+                    "key": "Plate Width",
+                    "value": "4\""
+                },
+                {
+                    "key": "Plate Thickness",
+                    "value": ".050\" (1.2 mm)"
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Don-Jo Custom Items",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "306533",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "652095",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "568145",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "334428",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "238145",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "610602",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Plate Height: 20\"",
+                "Plate Width: 4\"",
+                "Plate Thickness: .050\" (1.2 mm)",
+                "Material: Solid Brass",
+                "Select Finish: 606 - Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "606 - Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

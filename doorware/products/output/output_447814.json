@@ -1,0 +1,140 @@
+{
+    "legacy_product_id": "447814",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "PDQ SV and SD Series Deadlatch",
+            "vendor": "PDQ",
+            "status": "ACTIVE",
+            "sku": "PDQ-SV-deadlatch",
+            "mpn": "PDQ-SV-deadlatch",
+            "price": "48.99",
+            "compare_at_price": "70.0",
+            "contractor_price": "48.99",
+            "shipping_weight": "0.25",
+            "tags": [
+                "PDQ-SV-deadlatch door Latch for PDQ SV Series",
+                "deadlatch SV Series",
+                "PDQ door latches",
+                "PDQ latches",
+                "PDQ SV Series deadlatch",
+                "PDQ SD Series deadlatch",
+                "PDQ SV Series latch",
+                "PDQ SD Series latch",
+                "PDQ latch"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDQ-deadlatch_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PDQ-deadlatch_525.jpg?v=1716424033"
+        },
+        "text": {
+            "description_html": "<b>Deadlatch for PDQ SV & SD Series</b>\r\n<p>For use with <a href=\"/products/commercial-door-knobs-grade-2-pdq-sv-series\"><b>PDQ SV Series Commercial Door Knobs</b></a> and  <a href=\"/products/commercial-door-levers-standard-duty-grade-2-pdq-sd-series\"><b>PDQ SD Series Commercial Door Levers</b></a>. \r\n</p>\r\n<p>\r\nDeadlatches are used on all <b>Keyed Functions</b> (uses a key to unlock the door knob). Available for either 2-3/8\" or 2-3/4\" backsets.\r\n</p>\r\n<p>\r\nAlso available: For non-keyed functions use  <a href=\"/products/pdq-sv-and-sd-series-springlatch\"><b>PDQ Springlatch</b></a>.\r\n</p>\r\n<p>\r\nComplies with ANSI A156.2, Series 4000, Grade 2. Listed by UL / ULC for ratings of \u001cA\u001d  label (3 hours) and less, UL10C / UBC 7-2 (1997) positive pressure, for single doors up to 4\u0019'0\"\u001d x 8'\u00190\"\r\n</p>\r\n<p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "PDQ SV and SD Series Deadlatch",
+                "description": "PDQ SV and SD Series deadlatch for use with all keyed functions available in 2-3/8 or 2-3/4 backsets.",
+                "keywords": "PDQ-SV-deadlatch door Latch for PDQ SV Series, deadlatch SV Series, PDQ door latches, PDQ latches, PDQ SV Series deadlatch, PDQ SD Series deadlatch, PDQ SV Series latch, PDQ SD Series latch, PDQ latch,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Misc Hardware",
+                    "sort": "1"
+                },
+                {
+                    "name": "PDQ Commercial Locks",
+                    "sort": "105"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "194255",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "201259",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "260609",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "335504",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "260741",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Backset and Finish: V21900-711-630: 2-3/4in. Backset, Satin Stainless Steel",
+                "Select Backset and Finish: V21900-711-605: 2-3/4in. Backset, Bright Brass",
+                "Select Backset and Finish: V21900-711-613: 2-3/4in. Backset, Oil Rubbed Bronze",
+                "Select Backset and Finish: V21900-723-630: 2-3/8in. Backset, Satin Stainless Steel",
+                "Select Backset and Finish: V21900-723-605: 2-3/8in. Backset, Bright Brass",
+                "Select Backset and Finish: V21900-723-613: 2-3/8in. Backset, Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset and Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "V21900-711-630: 2-3/4in. Backset, Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "V21900-711-605: 2-3/4in. Backset, Bright Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "V21900-711-613: 2-3/4in. Backset, Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "V21900-723-630: 2-3/8in. Backset, Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "V21900-723-605: 2-3/8in. Backset, Bright Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "V21900-723-613: 2-3/8in. Backset, Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

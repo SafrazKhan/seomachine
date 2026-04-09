@@ -1,0 +1,132 @@
+{
+    "legacy_product_id": "294764",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Passage Spindle for Baldwin Estates Lever and Knob Sets, BAL-05xx.004",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-05xx.004",
+            "mpn": "BAL-05xx.004",
+            "price": "25.0",
+            "compare_at_price": "25.0",
+            "contractor_price": "25.0",
+            "shipping_weight": "0.3",
+            "tags": [
+                "Passage Spindle for Baldwin Estates Lever and Knob Sets",
+                "BAL-05xx.004 baldwin shaft",
+                "Baldwin 0516.004",
+                "Baldwin 0515.004",
+                "Baldwin 0514.004",
+                "Baldwin 0513.004",
+                "Baldwin 0512.004",
+                "Baldwin 0511.004",
+                "Baldwin 0510.004",
+                "Baldwin 0509.004"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/psg_spndl-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/psg_spndl-525.jpg?v=1717105889"
+        },
+        "text": {
+            "description_html": "<b>Passage Spindle for Baldwin Estates Lever and Knob Sets</b>\r\n<p>\r\n7mm broached straight spindles for Baldwin Estates passage sets. Available in lengths of 3 inches to 7 inches. Can be used with levers or knobs.\r\n</p>\r\n<p>\r\n<b>*Not for use with Privacy function sets</b>\r\n</p>",
+            "seo": {
+                "title": "Passage Spindle for Baldwin Estates Lever and Knob Sets, BAL-05xx.004",
+                "description": "Passage Spindle for Baldwin Estates Lever and Knob Sets. 7mm broached straight spindles for Baldwin Estates passage sets. Available in lengths of 3 inches to 7 inches. ",
+                "keywords": "Passage Spindle for Baldwin Estates Lever and Knob Sets, BAL-05xx.004 baldwin shaft, Baldwin 0516.004, Baldwin 0515.004, Baldwin 0514.004, Baldwin 0513.004, Baldwin 0512.004, Baldwin 0511.004, Baldwin 0510.004, Baldwin 0509.004,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Length: 0509.004: Length 3in.",
+                "Select Length: 0510.004: Length 3.5in.",
+                "Select Length: 0511.004: Length 4in.",
+                "Select Length: 0512.004: Length 4.5in.",
+                "Select Length: 0513.004: Length 5in.",
+                "Select Length: 0514.004: Length 5.5in.",
+                "Select Length: 0515.004: Length 6in.",
+                "Select Length: 0516.004: Length 7in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "0509.004: Length 3in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "0510.004: Length 3.5in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "0511.004: Length 4in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "0512.004: Length 4.5in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "0513.004: Length 5in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "0514.004: Length 5.5in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "0515.004: Length 6in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "0516.004: Length 7in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

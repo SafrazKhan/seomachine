@@ -1,0 +1,184 @@
+{
+    "legacy_product_id": "554722",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Twisted Cabinet Knob, RK International CK-702",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-702",
+            "mpn": "RKI-CK-702",
+            "price": "13.99",
+            "compare_at_price": "17.05",
+            "contractor_price": "13.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Twisted Knobs",
+                "Twisted Column Cabinet Pulls",
+                "RKI-CK-701",
+                "RK International CK-701",
+                "RK International Fancy Twisted Cabinet Pull with Urn Tips",
+                "RKI-CK-702",
+                "RK International CK-702",
+                "Twisted Cabinet Knobs",
+                "Large Twisted   Knobs",
+                "Small Twisted Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-701-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-701-525.jpg?v=1716424421"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-702, Twisted Column Cabinet Pull</b>\r\n\r\n<p>\r\nThe old world feel of the Twisted Cabinet Knob really comes to life with the fanciful design. It is available in 7 finishes and two sizes--a 2 inch and a 3-3/4 inch. The Twisted Column Cabinet Pull comes packaged with all the necessary hardware and features an easy screw-on design.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: <a href=\"/products/twist-cabinet-pull-rk-international-cp-800\"><b>Twist Cabinet Pull</b></a> and <a href=\"/products/12-inch-twisted-door-handle-rk-international-ph-4803\"><b>12 Inch Twist Door Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International Fancy Twisted Cabinet Pull with Urn Tips:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes</b>\r\n<ul>\r\n<b>RKI-CK-702:</b>\r\n<ul>\r\n<li>Length: 2\"</li>\r\n<li>Width: 1/2\"</li>\r\n<li>Projection: 1-3/8\"</li>\r\n</ul>\r\n<br>\r\n<b>RKI-CK-701:</b>\r\n<ul>\r\n<li>Length: 3-3/4\"</li>\r\n<li>Width: 13/16\"</li>\r\n<li>Projection: 1-5/8\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Twisted Cabinet Knob",
+                "description": "RK International, CK-702, Twisted Cabinet Knob - The old world feel of the Twisted Cabinet Knob really comes to life with the fanciful design. It is available in 7 finishes and two sizes--a 2 inch and a 3-3/4 inch. The Twisted Column Cabinet Pull comes packaged with all the necessary hardware and features an easy screw-on design.\r\n",
+                "keywords": "Twisted Knobs, Twisted Column Cabinet Pulls, RKI-CK-701, RK International CK-701, RK International Fancy Twisted Cabinet Pull with Urn Tips, RKI-CK-702, RK International CK-702, Twisted Cabinet Knobs, Large Twisted   Knobs, Small Twisted Knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "3"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "325356",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "566769",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "564867",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1036270",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "564270",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "617203",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Size: CK-702: 2in. Length",
+                "Select Size: CK-701: 3-3/4in. Length",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: AE: Antique English",
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: VB: Valencia Bronze",
+                "Select Finish: RB: Oil Rubbed Bronze",
+                "Select Finish: SB: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "CK-702: 2in. Length",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CK-701: 3-3/4in. Length",
+                    "price_impact": 12.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "VB: Valencia Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SB: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

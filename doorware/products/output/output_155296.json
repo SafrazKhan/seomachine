@@ -1,0 +1,150 @@
+{
+    "legacy_product_id": "155296",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Egg Door Knob Trim Kit, DoralLock TK3381",
+            "vendor": "Doralock",
+            "status": "ARCHIVED",
+            "sku": "DOR-TK3381",
+            "mpn": "DOR-TK3381",
+            "price": "20.0",
+            "compare_at_price": "20.0",
+            "contractor_price": "20.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Dorallock TK3381",
+                "DOR-TK3381",
+                "Egg Trim Kits",
+                "Egg inside knob replacements",
+                "Egg knob Trim Kits",
+                "Egg knob Trim Kits",
+                "dorallock Egg knobs",
+                "doral lock Egg knobs",
+                "dorallock TK3381 Egg knob TrimKits",
+                "handover handleset knob replacements",
+                "montego handleset knob replacements"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>DoralLock TK3381, Egg Knob Trim Kit for Handlesets</b>\r\n\r\n<p>\r\nClassically styled, the simplicity of DoralLock's Egg Knob will enhance the beauty of your home no matter if your home is styled contemporarily or traditionally. The Egg Knob Inside Trim Kit used with the DoralLock <a href=\"/products/hanover-single-cylinder-handleset-dorallock-803871b\">Hanover Handleset</a> and the <a href=\"/products/single-cylinder-montego-handleset-dorallock-810871\">Montego Handleset</a>. This is an replacement inside handle kit for these handelsets only as it is just the lever and rosette. Available in 7 finishes.\r\n</p>\r\n\r\n<p>\r\nClick here or a complete <a href=\"/products/egg-knob-dorallock-3380\">Egg Knob Set</a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the DoralLock TK3381 Egg Knob Trim Kit:\r\n<li>Knob Width: 1-3/4\"</li>\r\n<li>Projection: 2-5/8\"</li>\r\n<li>Rose Diameter: 2-5/8\"</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DOR-TK3381-specifications.pdf?v=1704262207\" target=\"new\"><b>DoralLock TK3381 Egg Trim Kit (PDF)</b></a>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Egg Door Knob Trim Kit, DoralLock TK3381",
+                "description": "DoralLock TK3381, Egg Knob Trim Kit for Handlesets - Classically styled, the simplicity of DoralLock's Egg Knob will enhance the beauty of your home no matter if your home is styled contemporarily or traditionally. The Egg Knob Inside Trim Kit used with the DoralLock Hanover Handleset and the Montego Handleset. This is an replacement inside handle kit for these handelsets only as it is just the knob and rosette. Available in 7 finishes.",
+                "keywords": "Dorallock TK3381, DOR-TK3381, Egg Trim Kits, Egg inside knob replacements, Egg knob Trim Kits, Egg knob Trim Kits, dorallock Egg knobs, doral lock Egg knobs, dorallock TK3381 Egg knob TrimKits, handover handleset knob replacements, montego handleset knob replacements,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "DoralLock Discontinued Misc",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "42711",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "29621",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "59427",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "59094",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "62592",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "209047",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US10B - Oil Rubbed Bronze",
+                "Select Finish: US15 - Satin Nickel",
+                "Select Finish: US15A - Antique Nickel",
+                "Select Finish: US26 - Polished Chrome",
+                "Select Finish: US26D - Brushed Chrome",
+                "Select Finish: US5 - Antique Brass",
+                "Select Finish: CR003- PVD Lifetime Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15A - Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26D - Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US5 - Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CR003- PVD Lifetime Polished Brass",
+                    "price_impact": 0.3,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

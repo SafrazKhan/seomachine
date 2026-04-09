@@ -1,0 +1,115 @@
+{
+    "legacy_product_id": "1156781",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "6-1/4 Inch Sutton Place Cabinet Pull, MNG 172",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "MNG-172",
+            "mpn": "MNG-172",
+            "price": "16.61",
+            "compare_at_price": "22.14",
+            "contractor_price": "16.61",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Sutton Place 6-1/4 Inch Cabinet Pulls",
+                "Sutton Place Cabinet Pulls",
+                "Sutton Place 6-1/4 Inch Pulls",
+                "traditional cabinet hardware",
+                "classic cabinet hardware",
+                "MNG-172",
+                "MNG 172",
+                "MNG-17226",
+                "MNG 17226 polished chrome cabinet Pulls",
+                "MNG-17228",
+                "MNG 17228 satin nickel cabinet Pulls",
+                "Sutton Place 128mm Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MNG-172-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-172-525.jpg?v=1716428548"
+        },
+        "text": {
+            "description_html": "<b>MNG 172, Sutton Place 6-1/4 Inch Cabinet Pull</b>\r\n\r\n<p>\r\nThe Sutton Place 6-1/4 Inch Cabinet Pull has traditional appeal for those who want a classic look. This cabinet pull comes with the mounting hardware. The Sutton Place 6-1/4 Inch Cabinet Pull is easy to style because it's timeless look will go with almost any decor. Choose from satin nickel or polished chrome.\r\n</p>\r\n\r\n<p>\r\nThis cabinet pull is part of the <a href=\"//search?type=product&q=MNG+Sutton+Place\">MNG Sutton Place Collection</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the MNG 172 Sutton Place 6-1/4 Inch Pull:\r\n<ul>\r\n<li>Base Material: Zinc </li>\r\n<li>Length c.c. (center to center): 6-1/4\"</li>\r\n<li>Overall Length: 7-3/4\"</li>\r\n<li>Width: 5/8\"</li>\r\n<li>Projection: 1\"</li>\r\n<li>Packaged with 1\" long #8-32 screws and 1-1/2\"  long #8-32 screws.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i> \r\n</p>",
+            "seo": {
+                "title": "Sutton Place 6-1/4 Inch Cabinet Pull",
+                "description": "The Sutton Place 6-1/4 Inch Cabinet Pull has traditional appeal for those who want a classic look. This cabinet pull comes with the mounting hardware. The Sutton Place 6-1/4 Inch Cabinet Pull is easy to style because it's timeless look will go with almost any decor. Choose from satin nickel or polished chrome.",
+                "keywords": "Sutton Place 6-1/4 Inch Cabinet Pulls, Sutton Place Cabinet Pulls, Sutton Place 6-1/4 Inch Pulls, traditional cabinet hardware, classic cabinet hardware, \r\nMNG-172, \r\nMNG 172, \r\nMNG-17226, \r\nMNG 17226 polished chrome cabinet Pulls, \r\nMNG-17228, \r\nMNG 17228 satin nickel cabinet Pulls, \r\nSutton Place 128mm Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "MNG Cabinet Hardware",
+                    "sort": "18"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "823458",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "487373",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "822432",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "563048",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "566873",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "354599",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "558845",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MNG-17226: Polished Chrome",
+                "Select Finish: MNG-17228: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MNG-17226: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-17226-SM.jpg?v=1774582339",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-17226-LG.jpg?v=1711366641"
+                },
+                {
+                    "value": "MNG-17228: Satin Nickel",
+                    "price_impact": 0.5,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-17228-SM.jpg?v=1774582342",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-17228-LG.jpg?v=1711366641"
+                }
+            ]
+        }
+    ]
+}

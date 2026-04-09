@@ -1,0 +1,131 @@
+{
+    "legacy_product_id": "969128",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4-1/2 x 4-1/2 Full Mortise Steel Hinge, 2 Ball Bearings, Hager ECBB1100412",
+            "vendor": "Hagar",
+            "status": "ARCHIVED",
+            "sku": "HAG-ECBB1100412",
+            "mpn": "HAG-ECBB1100412",
+            "price": "10.89",
+            "compare_at_price": "12.1",
+            "contractor_price": "10.89",
+            "shipping_weight": "2.0",
+            "tags": [
+                "4-1/2 x 4-1/2 Full Mortise Steel Hinges",
+                "Steel 4-1/2 x 4-1/2 Inch Steel Hinges",
+                "HAG-ECBB1100412",
+                "Hager ECBB1100412"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/HAG-ECBB1100412-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/HAG-ECBB1100412-525.jpg?v=1716427285"
+        },
+        "text": {
+            "description_html": "<b>Hager ECBB1100412, 4-1/2\" x 4-1/2\" x Square Corners Full Mortise Steel Hinge with 2 Ball Bearings</b>\r\n\r\n<p>\r\nPackage includes a single of hinge (1) with matching finish 1/2\" x 12-24 machine screws and 1-1/4\" x 12 wood screws. Fitted with a high grade non rising removable pin with button tip and plug.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the 4-1/2 Inch Steel Hinges:\r\n<ul>\r\n<li>Hinge Material: Steel</li>\r\n<li>Height: 4-1/2\"</li>\r\n<li>Width: 4-1/2\"</li>\r\n<li>Corners: Square</li>\r\n<li>Dual Ball-Bearings: 2 BB\r\n<li>Thickness: 0.134\" (Heavy Duty)</li>\r\n<li>Standard Template Hole Pattern</li>\r\n<li>Hinge Pin: Steel</li>\r\n<li>Five knuckle</li>\r\n<li>Non-rising removable pin with button tip and plug.</li>\r\n<li>Complies with NFPA80 requirements for use on fire rated door assemblies.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Sold as a Single Hinge (1 Hinge)</b>\r\n</p>",
+            "seo": {
+                "title": "4-1/2 x 4-1/2 Full Mortise Steel Hinge",
+                "description": "4-1/2 x 4-1/2 Full Mortise Steel Hinge. 2 Ball Bearing. Square Corner. Fitted with a high grade non rising removable pin with button tip and plug.",
+                "keywords": "4-1/2 x 4-1/2 Full Mortise Steel Hinges, Steel 4-1/2 x 4-1/2 Inch Steel Hinges, HAG-ECBB1100412, Hager ECBB1100412"
+            },
+            "specifications": [
+                {
+                    "key": "Hinge Material",
+                    "value": "Steel"
+                },
+                {
+                    "key": "Height",
+                    "value": "4-1/2\""
+                },
+                {
+                    "key": "Width",
+                    "value": "4-1/2\""
+                },
+                {
+                    "key": "Corners",
+                    "value": "Square"
+                },
+                {
+                    "key": "Dual Ball-Bearings",
+                    "value": "2 BB"
+                },
+                {
+                    "key": "Thickness",
+                    "value": "0.134\" (Heavy Duty)"
+                },
+                {
+                    "key": "Hinge Pin",
+                    "value": "Steel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Hager",
+                    "sort": "17"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "8671",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "61870",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "8913",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "461714",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "460516",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "380208",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Hinge Material: Steel",
+                "Height: 4-1/2\"",
+                "Width: 4-1/2\"",
+                "Corners: Square",
+                "Dual Ball-Bearings: 2 BB",
+                "Thickness: 0.134\" (Heavy Duty)",
+                "Hinge Pin: Steel",
+                "Select Finish: US26D: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

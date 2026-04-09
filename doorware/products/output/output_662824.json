@@ -1,0 +1,50 @@
+{
+    "legacy_product_id": "662824",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "AHI Small Dummy Spindle",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-SIG911",
+            "mpn": "AHI-SIG911",
+            "price": "28.0",
+            "compare_at_price": "35.0",
+            "contractor_price": "28.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "AHI-SIG911 AHI Small Dummy Spindle"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AHI-SIG911_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-SIG911_525.jpg?v=1717790117"
+        },
+        "text": {
+            "description_html": "<b>AHI Small Dummy Spindle</b>\r\n<p>\r\nFor use with AHI SIG203 small square rosettes. Spindle size 8mm square by 28mm length.\r\n</p>\r\n<p>\r\n<b>*Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "AHI Small Dummy Spindle",
+                "description": "For use with AHI SIG203 small square rosettes. Spindle size 8mm square by 28mm length.",
+                "keywords": "AHI-SIG911 AHI Small Dummy Spindle"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "AHI Miscellaneous Parts",
+                    "sort": "16"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

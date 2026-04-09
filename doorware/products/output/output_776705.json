@@ -1,0 +1,106 @@
+{
+    "legacy_product_id": "776705",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Posh Solid Brass Single Lever, Omnia 918/07",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-918/07",
+            "mpn": "OMN-918/07",
+            "price": "47.5",
+            "compare_at_price": "58.0",
+            "contractor_price": "47.5",
+            "shipping_weight": "1.0",
+            "tags": [
+                "OMN-918/07.10B",
+                "Roseless Omnia 918 Levers",
+                "Posh Solid Brass Single Levers",
+                "Omnia 918/07"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Omn-918L-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Omn-918L-525.jpg?v=1716425548"
+        },
+        "text": {
+            "description_html": "<b>Omnia 918, Posh Solid Brass Lever</b>\r\n\r\n<p>\r\nNeither boring nor gaudy, Omnia's 918 Lever exudes the perfect level of poshness that other levers can't achieve. Made out of solid brass, this sophisticated lever is made with the exceptional high quality that make Omnia Industries on of the top door hardware manufacturers.\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Features</b> of the Sophisticated Door Lever:\r\n<ul>\r\n<li>Meets ADA accessibility requirements.</li>\r\n<li>Solid brass construction.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Omnia 918 Traditional Door Lever:\r\n<ul>\r\n<li>Lever Length: 4-3/8\"</li>\r\n<li>Lever Projection: 2-3/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Posh Solid Brass Single Lever, Omnia 918/07",
+                "description": "Omnia 918/07, Posh Solid Brass Single Lever - Neither boring nor gaudy, Omnia's 918 Lever exudes the perfect level of poshness that other levers can't achieve. Made out of solid brass, this sophisticated lever is made with the exceptional high quality that make Omnia Industries on of the top door hardware manufacturers.",
+                "keywords": "OMN-918/07.10B, Roseless Omnia 918 Levers, Posh Solid Brass Single Levers, Omnia 918/07"
+            },
+            "specifications": [
+                {
+                    "key": "Lever Length",
+                    "value": "4-3/8\""
+                },
+                {
+                    "key": "Lever Projection",
+                    "value": "2-3/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "161"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "354109",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "455606",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "354726",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "324984",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "558489",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "478875",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Lever Length: 4-3/8\"",
+                "Lever Projection: 2-3/8\"",
+                "Select Finish: OMN-918/07.10B - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-918/07.10B - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

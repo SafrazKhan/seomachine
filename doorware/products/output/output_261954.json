@@ -1,0 +1,143 @@
+{
+    "legacy_product_id": "261954",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Deco Nouveau Stainless Steel Cabinet Knob, Acorn AZC201",
+            "vendor": "Acorn",
+            "status": "ACTIVE",
+            "sku": "ACO-AZC201",
+            "mpn": "ACO-AZC201",
+            "price": "24.64",
+            "compare_at_price": "30.8",
+            "contractor_price": "23.41",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Acorns Absolute Zero Collection Deco Nouveau Stainless Steel Cabinet Knobs Acorn AZC-201",
+                "AZC 201",
+                "Stainless Steel Kitchen Cabinet Knobs",
+                "retro cabinet knobs",
+                "retro cabinet hardware",
+                "ACO-AZC201",
+                "acorn AZC201",
+                "Art Deco Cabinet Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ACO-AZC201-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-AZC201-525.jpg?v=1716422522"
+        },
+        "text": {
+            "description_html": "<b>Acorn AZC201, Art Deco Cabinet Knob</b>\r\n\r\n<p>\r\nThe simple answer to the vintage design aesthetic that is so popular. This Acorn made stainless steel cabinet knob is basic enough to effortlessly add just the right amount of retro detailing to your kitchen and bathroom; and also because its design is so simple, this drawer pull is capable of beautifully integrating into whatever furnishing you have without having to overhaul your entire décor. The diameter is 1-1/4 inches while the projection measures 15/16 inches. A\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Acorn AZC201 Absolute Zero Collection Deco Nouveau Cabinet Knob:\r\n<ul>\r\n<li>Material: Solid Stainless Steel</li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 15/16\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Deco Nouveau Stainless Steel Cabinet Knob, Acorn AZC201",
+                "description": "Acorn AZC201, Art Deco Cabinet Knob - The simple answer to the vintage design aesthetic that is so popular. This Acorn made stainless steel cabinet knob is basic enough to effortlessly add just the right amount of retro detailing to your kitchen and bathroom; and also because its design is so simple, this drawer pull is capable of beautifully integrating into whatever furnishing you have without having to overhaul your entire décor. The diameter is 1-1/4 inches while the projection measures 15/16 inches. ",
+                "keywords": "Acorns Absolute Zero Collection Deco Nouveau Stainless Steel Cabinet Knobs Acorn AZC-201, AZC 201, Stainless Steel Kitchen Cabinet Knobs, retro cabinet knobs, retro cabinet hardware, ACO-AZC201, acorn AZC201, Art Deco Cabinet Knobs,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Stainless Steel"
+                },
+                {
+                    "key": "Diameter",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "15/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Acorn Modern Stainless Steel Cabinet Knobs and Pulls",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "42944",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "40939",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "39910",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "253235",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "261984",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "237840",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "192950",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "42954",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "238391",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "189463",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "42735",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Stainless Steel",
+                "Diameter: 1-1/4\"",
+                "Projection: 15/16\"",
+                "Select Finish: BRU: Brushed Stainless Steel",
+                "Select Finish: POL: Polished Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BRU: Brushed Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "POL: Polished Stainless Steel",
+                    "price_impact": 3.52,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

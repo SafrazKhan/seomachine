@@ -1,0 +1,117 @@
+{
+    "legacy_product_id": "268791",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3-1/2 x 3-1/2  Steel Hinge, Set of 3, Bommer 5000-350",
+            "vendor": "Bommer",
+            "status": "ARCHIVED",
+            "sku": "BOM-5000-350",
+            "mpn": "BOM-5000-350",
+            "price": "10.22",
+            "compare_at_price": "14.6",
+            "contractor_price": "9.2",
+            "shipping_weight": "1.2",
+            "tags": [
+                "BOM-5000-350 3-1/2 x 3-1/2  Steel Hinges",
+                "Bommer 5000-350  3 1/2 x 3 1/2 Steel Hinges",
+                "Bommer Hinges"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/bommer-5000-350_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/bommer-5000-350_525.jpg?v=1716422581"
+        },
+        "text": {
+            "description_html": "<b>Bommer 5000-350 3-1/2\" x 3-1/2\"  Steel Hinges</b>\r\n<p>\r\nPackage includes three (3) hinges with matching finish steel flathead, Phillips Drive #10 x 1\" wood screws and 10-24 x 1/2\" machine screws. \r\n</p>\r\n<p>\r\nFitted with a high grade, non-raising, removable steel pin. Utilizes template screw hole pattern for use with wood or metal doors. Bommer hinges are made in the USA.\r\n</p>\r\n<p>\r\n<b>Specifications:</b> for Bommer 5000-350  Steel Hinge\r\n<ul>\r\n<li>Height: 3-1/2\"</li>\r\n<li>Width: 3-1/2\"</li>\r\n<li>Corners: Square</li>\r\n<li>Thickness: 0.123\" (Heavy Duty)</li>\r\n<li>Standard Template Hole Pattern</li>\r\n<li>Hinge Pin: Steel</li>\r\n<li>Wood Screws: #10 x 1\"</li>\r\n<li>Machine Screws: #10-24 x 1/2\"</li>\r\n<li>Hinge Material: Durable Steel</li>\r\n<li>Available Finishes: 9</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/kaba-simplex-902-size.gif?v=1704354717\" width=\"100\" height=\"72\" border=\"0\" alt=\"Bommer made in the USA\">\r\n</p>\r\n\r\n<p><b>*Sold in sets of Three (3 Door Hinges)</b>\r\n</p>",
+            "seo": {
+                "title": "3-1/2 x 3-1/2  Steel Hinge, Set of 3, Bommer 5000-350",
+                "description": "Bommer  5000-350 Steel Hinge. Package includes three (3) hinges with matching finish steel flathead, Phillips Drive #10 x 1 inch wood screws and 10-24 x 1/2 inch machine screws.  Fitted with a high grade, non-raising, removable steel pin. Utilizes template screw hole pattern for use with wood or metal doors. Available in 9 finishes. Made in the USA",
+                "keywords": "BOM-5000-350 3-1/2 x 3-1/2  Steel Hinges, Bommer 5000-350  3 1/2 x 3 1/2 Steel Hinges, Bommer Hinges,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Bommer Butt Hinges",
+                    "sort": "22"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: BOM-5000-350-600 - Primed for Paint",
+                "Select Finish: BOM-5000-350-632 - Bright Brass, Clear Coated",
+                "Select Finish: BOM-5000-350-633 - Satin Brass, Clear Coated",
+                "Select Finish: BOM-5000-350-640 - Oil Rubbed Bronze",
+                "Select Finish: BOM-5000-350-643 - Dark Satin Bronze, Clear Coated",
+                "Select Finish: BOM-5000-350-651 - Bright Chrome",
+                "Select Finish: BOM-5000-350-652 - Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BOM-5000-350-600 - Primed for Paint",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BOM-5000-350-632 - Bright Brass, Clear Coated",
+                    "price_impact": 12.88,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BOM-5000-350-633 - Satin Brass, Clear Coated",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BOM-5000-350-640 - Oil Rubbed Bronze",
+                    "price_impact": 12.88,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BOM-5000-350-643 - Dark Satin Bronze, Clear Coated",
+                    "price_impact": 12.88,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BOM-5000-350-651 - Bright Chrome",
+                    "price_impact": 12.88,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BOM-5000-350-652 - Satin Chrome",
+                    "price_impact": 9.35,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

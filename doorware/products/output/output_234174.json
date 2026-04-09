@@ -1,0 +1,121 @@
+{
+    "legacy_product_id": "234174",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Astoria Clear Cabinet Knob, Emtek 86017",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-86017",
+            "mpn": "EMT-86017",
+            "price": "12.99",
+            "compare_at_price": "16.0",
+            "contractor_price": "12.99",
+            "shipping_weight": "0.3",
+            "tags": [
+                "Emtek 86017",
+                "Emtek 86210",
+                "Astoria Clear Cabinet Knobs",
+                "Clear Crystal Astoria Cabinet Knobs",
+                "Astoria crystal Knobs",
+                "Emtek Astoria Cabinet Door Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86017-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86017-525.jpg?v=1717105819"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86017, Clear Crystal Astoria Cabinet Knob</b>\r\n\r\n<p>\r\nThe Astoria Clear Cabinet Knob is made from crystal and offers a romantic, vintage look for all your lightweight doors and drawers both in the kitchen and in the bathroom. The Clear Crystal Astoria Cabinet Knob is available in a 1-1/2 inch diameter and a 1-1/8 inch diameter. It comes packaged with tall the necessary mounting hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Emtek Astoria Cabinet Door Pull:\r\n<ul>\r\n<li>Material: Clear Crystal</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-85017-spcifications.gif?v=1704354653\" width=\"572\" height=\"175\" border=\"0\" atl=\"Emtek 85017 specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>EMT-86017:</b>\r\n<ul>\r\n<li>Diameter: 1-1/8\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n</ul>\r\n<br>\r\n<b>EMT-86210:</b>\r\n<ul>\r\n<li>Diameter: 1-1/2\"</li>\r\n<li>Projection: 1-1/2\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Astoria Clear Cabinet Knob",
+                "description": "The Astoria Clear Cabinet Knob is made from crystal and offers a romantic, vintage look for all your lightweight doors and drawers both in the kitchen and in the bathroom. The Clear Crystal Astoria Cabinet Knob is available in a 1-1/2 inch diameter and a 1-1/8 inch diameter. It comes packaged with tall the necessary mounting hardware.\r\n",
+                "keywords": "Emtek 86017, Emtek 86210, Astoria Clear Cabinet Knobs, Clear Crystal Astoria Cabinet Knobs, Astoria crystal Knobs, Emtek Astoria Cabinet Door Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Cabinet Hardware",
+                    "sort": "11"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "448279",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "905671",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "897876",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "668707",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "891546",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "41642",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "66274",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "728439",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "26813",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Size: 86017: 1-1/8in.",
+                "Select Size: 86210: 1-1/2in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "86017: 1-1/8in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "86210: 1-1/2in.",
+                    "price_impact": 4.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

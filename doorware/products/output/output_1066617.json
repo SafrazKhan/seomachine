@@ -1,0 +1,108 @@
+{
+    "legacy_product_id": "1066617",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Omnia # 752 Lever with Passage Rosette Pair, Omnia 752/07-PA",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-752/07-PA",
+            "mpn": "OMN-752/07-PA",
+            "price": "91.8",
+            "compare_at_price": "91.8",
+            "contractor_price": "91.8",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Omnia # 752 Lever with Passage Rosette Pair",
+                "Omnia 952 Simple Lever and Rose Pair",
+                "Passage",
+                "OMN-752/07-PA",
+                "Omnia 752/07-PA"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-752-07-PA-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-752-07-PA-525.jpg?v=1716428033"
+        },
+        "text": {
+            "description_html": "<b>Omnia 952 Simple Lever and Rose Pair, Passage</b>\r\n\r\n<p>\r\nThis is the #952  lever with passage style rosettes only. Does not include the latch or internal mechanisms. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Omnia 952 Simple Lever and Rose Pair Only:\r\n<ul>\r\n<li>Lever Length: 4-3/8\"</li>\r\n<li>Lever Projection: 2-5/8\"</li>\r\n<li>Rose Diameter: 2-5/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Comes Packaged with (2) #952 Levers and (2) Passage Style Rosettes.</i>\r\n</p>",
+            "seo": {
+                "title": "Omnia # 752 Lever with Passage Rosette Pair",
+                "description": "This is the #952  lever with Passage style rosettes only. Does not include the latch or internal mechanisms.",
+                "keywords": "Omnia # 752 Lever with Passage Rosette Pair, Omnia 952 Simple Lever and Rose Pair, Passage, OMN-752/07-PA, Omnia 752/07-PA,"
+            },
+            "specifications": [
+                {
+                    "key": "Lever Length",
+                    "value": "4-3/8\""
+                },
+                {
+                    "key": "Lever Projection",
+                    "value": "2-5/8\""
+                },
+                {
+                    "key": "Rose Diameter",
+                    "value": "2-5/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "252"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "38235",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "558569",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "897967",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "353565",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42123",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Lever Length: 4-3/8\"",
+                "Lever Projection: 2-5/8\"",
+                "Rose Diameter: 2-5/8\"",
+                "Select Finish: US3: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

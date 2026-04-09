@@ -1,0 +1,135 @@
+{
+    "legacy_product_id": "158626",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Tube Latch Series AHI SIG-TL1000",
+            "vendor": "AHI",
+            "status": "ACTIVE",
+            "sku": "AHI-TL1000",
+            "mpn": "AHI-TL1000",
+            "price": "43.99",
+            "compare_at_price": "55.0",
+            "contractor_price": "43.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "AHI-TL1000. TL1000",
+                "TL1625",
+                "TL1661",
+                "TL1725",
+                "TL1761",
+                "AHI SIG Series Tube Latch",
+                "STAINLESS TUBE LATCH",
+                "stainless steel tube latch",
+                "tubular latch",
+                "tubular",
+                "AHI tube latch",
+                "AHI hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AHI-Commercial-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-Commercial-5251.jpg?v=1717105627"
+        },
+        "text": {
+            "description_html": "<b>Stainless Steel 28° Tubular Latch for AHI SIG (Sigma) Series lever sets</b>\r\n\r\n<p>\r\nThis tubular latch is specifically for <a href=\"/collections/ahi-stainless-steel-levers\">AHI Stainless Steel Leversets</a> \r\n</p>\r\n\r\n<p>\r\nIt is available for 2 3/8\" or 2 3/4\" backsets. For both Passage and Privacy functions. It includes a standard \"D\" type strike plate.\r\n</p>\r\n\r\n<p>\r\n<b>When Selecting a Function:</b>\r\n<ul>\r\n<li>Passage (Hall or Closet): For doors that don't need locking.</li>\r\n<li>Privacy (Bedroom or Bathroom): For doors that could need locking.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>To determine Backset: Measure from the center of the backplate or bore hole, to the edge of the door. </i>\r\n</p>",
+            "seo": {
+                "title": "Tube Latch Series AHI SIG-TL1000",
+                "description": "TL1000 AHI SIG Series Tube Latch - Stainless Steel tube latch for AHI SGI (Sigma) Series lever sets. Available in 2 3/8 and 2 3/4 backsets for both Passage and Privacy functions.",
+                "keywords": "AHI-TL1000. TL1000, TL1625, TL1661, TL1725, TL1761, AHI SIG Series Tube Latch, STAINLESS TUBE LATCH, stainless steel tube latch, tubular latch, tubular, AHI tube latch, AHI hardware,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "AHI Stainless Steel Levers",
+                    "sort": "100"
+                },
+                {
+                    "name": "AHI Miscellaneous Parts",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "204815",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "142742",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "142823",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "142685",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "735937",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "928521",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Function and Backset: TL0625: Passage (Hall or Closet) with  2-3/8in. Backset",
+                "Select Function and Backset: TL0725: Passage (Hall or Closet) with 2-3/4in. Backset",
+                "Select Function and Backset: TL0661: Privacy (Bedroom or Bathroom) with  2-3/8in. Backset",
+                "Select Function and Backset: TL0761: Privacy (Bedroom or Bathroom) with  2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function and Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TL0625: Passage (Hall or Closet) with  2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "TL1625"
+                },
+                {
+                    "value": "TL0725: Passage (Hall or Closet) with 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "TL1725"
+                },
+                {
+                    "value": "TL0661: Privacy (Bedroom or Bathroom) with  2-3/8in. Backset",
+                    "price_impact": 4.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "TL1661"
+                },
+                {
+                    "value": "TL0761: Privacy (Bedroom or Bathroom) with  2-3/4in. Backset",
+                    "price_impact": 4.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "TL1761"
+                }
+            ]
+        }
+    ]
+}

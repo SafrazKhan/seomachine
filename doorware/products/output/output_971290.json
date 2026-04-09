@@ -1,0 +1,111 @@
+{
+    "legacy_product_id": "971290",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Beaded Leverset, Omnia 748BD/592/4",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-748BD/592/4",
+            "mpn": "OMN-748BD/592/4",
+            "price": "92.0",
+            "compare_at_price": "92.0",
+            "contractor_price": "92.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Beaded Leversets",
+                "Omnia 748BD/592/4",
+                "OMN-748BD/592/4"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-748BD592-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-748BD592-525.jpg?v=1716427288"
+        },
+        "text": {
+            "description_html": "<b>Omnia 748BD/592/4, Classic Beaded Leverset with Beaded Rose</b>\r\n\r\n<p>\r\nThe Beaded Leverset is a lovely addition to historic homes. All critical interior parts are made of brass. Tough, non-rusting materials are used throughout.\r\n</p>\r\n\r\n<p>\r\n<b>Single Dummy:</b> No door latch. Stationery door lever on one side of the door. Package Includes: 1 lever, 1 rose, and mounting screws.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Omnia Beaded Door Lever with Mortise:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Lever Length: 4-3/4\"</li>\r\n<li>Lever Projection: 2-7/8\"</li>\r\n<li>Rose Diameter: 1-3/4\"</li>\r\n<li>Does not Fit standard 2-1/8\" inch door bore holes.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i> Special Ordered Item <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Beaded Leverset",
+                "description": "The Beaded Leverset is a lovely addition to historic homes. All critical interior parts are made of brass. Tough, non-rusting materials are used throughout.",
+                "keywords": "Beaded Leversets, Omnia 748BD/592/4, OMN-748BD/592/4,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Lever Length",
+                    "value": "4-3/4\""
+                },
+                {
+                    "key": "Lever Projection",
+                    "value": "2-7/8\""
+                },
+                {
+                    "key": "Rose Diameter",
+                    "value": "1-3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "212"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "237960",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "566439",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "878608",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "570918",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "569371",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Lever Length: 4-3/4\"",
+                "Lever Projection: 2-7/8\"",
+                "Rose Diameter: 1-3/4\"",
+                "Select Finish: US3: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

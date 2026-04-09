@@ -1,0 +1,121 @@
+{
+    "legacy_product_id": "1078719",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Mulholland 18 Inch Appliance Pull, Amerock BP53533G10",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "AME-BP53533G10",
+            "mpn": "AME-BP53533G10",
+            "price": "127.99",
+            "compare_at_price": "159.99",
+            "contractor_price": "127.99",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Amerock BP53533G10",
+                "18 Inch Mulholland Appliance Pulls",
+                "AME-BP53533G10",
+                "Mulholland 18 Inch Appliance Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AME-BP53533G10-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AME-BP53533G10-525.jpg?v=1716428100"
+        },
+        "text": {
+            "description_html": "<b>Amerock BP53533G10, 18 Inch Mulholland Appliance Pull</b>\r\n\r\n<p>\r\nElegantly designed with an inviting blend of sophisticated lines and understated details, the Mulholland 18 Inch Appliance Pull is an obvious choice for lasting style. The Amerock BP53533G10 Mulholland has an 18 Inch Center-to-Center and a 19-1/4 inch overall length. \r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AME-BP53533G10-specifications.gif?v=1704442294\" width=\"600\" height=\"190\" border=\"0\" alt=\"Amerock BP53533G10 Size\">\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> for the Amerock Mulholland Refrigerator Pull:\r\n<ul>\r\n<li>Material: Zinc</li>\r\n<li>Length (center to center): 18\" (c.c.)</li>\r\n<li>Overall Length: 19-1/4\"</li>\r\n<li>Projection: 2\"</li>\r\n<li>Grip Width: 1-5/16\"</li>\r\n<li>Hardware: (2) #10-24 x 3/4in PH Screw, (2) #10-24 x 1in PH Screw, (2) #10-24 x 1-1/4in PH Screw, (2) #10-24 x 1-1/2in PH Screw, (2) #10-24 x 1-3/4in PH Screw\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Mulholland 18 Inch Appliance Pull",
+                "description": "Elegantly designed with an inviting blend of sophisticated lines and understated details, the Mulholland 18 Inch Appliance Pull is an obvious choice for lasting style. The Amerock BP53533G10 Mulholland has an 18 Inch Center-to-Center and a 19-1/4 inch overall length. \r\n",
+                "keywords": "Amerock BP53533G10, 18 Inch Mulholland Appliance Pulls, AME-BP53533G10, Mulholland 18 Inch Appliance Pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Zinc"
+                },
+                {
+                    "key": "Length (center to center)",
+                    "value": "18\" (c.c.)"
+                },
+                {
+                    "key": "Overall Length",
+                    "value": "19-1/4\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "2\""
+                },
+                {
+                    "key": "Grip Width",
+                    "value": "1-5/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Amerock",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "358504",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "664325",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "217014",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "993647",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "993422",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "1003467",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Zinc",
+                "Length (center to center): 18\" (c.c.)",
+                "Overall Length: 19-1/4\"",
+                "Projection: 2\"",
+                "Grip Width: 1-5/16\"",
+                "Select Finish: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

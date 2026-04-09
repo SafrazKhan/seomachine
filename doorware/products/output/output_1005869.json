@@ -1,0 +1,98 @@
+{
+    "legacy_product_id": "1005869",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hinge Pin Door Stop, Imperial USA CP4040-PIN",
+            "vendor": "Global",
+            "status": "ARCHIVED",
+            "sku": "GLO-CP4040-PIN",
+            "mpn": "GLO-CP4040-PIN",
+            "price": "7.36",
+            "compare_at_price": "9.2",
+            "contractor_price": "6.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "b>Imperial USA CP4040-PIN",
+                "NRP Hinge Pin Door Stop for Spring Hinges",
+                "Spring Hinge Pin Door Stops",
+                "Hinge Pin Stop for Spring Hinges",
+                "GLO-CP4040-PIN",
+                "global -CP4040-PIN",
+                "hinge pin door closers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-CP4040-PIN-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-CP4040-PIN-525.jpg?v=1716427633"
+        },
+        "text": {
+            "description_html": "<b>Imperial USA CP4040-PIN, NRP Hinge Pin Door Door Closer</b>\r\n\r\n<p>\r\nThe NRP Hinge Pin Door Closer keeps both walls and hardware safe without putting stress on the door, the door frame, or the wall. The hinge pin stop hits on the hinge leaf. This type of door stop is also great for use on doors where a standard door stop just isn't possible such as where one door opens into another door. It is easy to install, just remove the stock hinge pin from your spring  hinges and replace with the hinge pin door stop. The Spring Hinge Pin Door Stop allows the door to open up to 170 degrees, but you can adjust it to open as wide as you want. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Non-Removable Pin Spring Hinge Pin Stop:\r\n<ul>\r\n<li>Hinge pin stop hits the hinge not the door or the frame.</li>\r\n<li>Easy to install.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Spring Hinge Pin Door Stop",
+                "description": "The NRP Hinge Pin Door Closer keeps both walls and hardware safe without putting stress on the door, the door frame, or the wall. The hinge pin stop hits on the hinge leaf. This type of door stop is also great for use on doors where a standard door stop just isn't possible such as where one door opens into another door. It is easy to install, just remove the stock hinge pin from your spring  hinges and replace with the hinge pin door stop. The Spring Hinge Pin Door Stop allows the door to open up to 170 degrees, but you can adjust it to open as wide as you want.",
+                "keywords": "b>Imperial USA CP4040-PIN, NRP Hinge Pin Door Stop for Spring Hinges, Spring Hinge Pin Door Stops, Hinge Pin Stop for Spring Hinges, GLO-CP4040-PIN, global -CP4040-PIN, hinge pin door closers,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Global Commercial Builder Hardware",
+                    "sort": "100"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "660428",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "6957",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "762728",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "818315",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "396049",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "660406",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US4: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

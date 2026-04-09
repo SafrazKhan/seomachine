@@ -1,0 +1,167 @@
+{
+    "legacy_product_id": "955029",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1-3/4 Inch T Strike Plate, Don-Jo T9175",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "DJO-T9175",
+            "mpn": "DJO-T9175",
+            "price": "12.48",
+            "compare_at_price": "15.6",
+            "contractor_price": "11.23",
+            "shipping_weight": "0.3",
+            "tags": [
+                "Don-Jo T9175 1-3/4 inch Extended T Strike Plates",
+                "Don-Jo T9175 1-3/4 inch lip strike plates",
+                "Don-Jo strikes",
+                "Don-Jo strike plates",
+                "Don-Jo T9175-630",
+                "Don-Jo T9175-605",
+                "Don-Jo T9175-609",
+                "Don-Jo T9175-DU",
+                "DJO-T9175-630",
+                "DJO-T9175-605",
+                "DJO-T9175-609",
+                "DJO-T9175-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/don-jo-T9175_5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/don-jo-T9175_5251.jpg?v=1716427236"
+        },
+        "text": {
+            "description_html": "<b>Don-Jo T9175, 1-3/4\" Extended T Strike Plate</b>\r\n\r\n<p>\r\nThe 1-3/4 inch extended lip T strike plate is for use with any manufacturer's tubular entry locks, passage sets, and privacy sets. It is especially handy for custom installations. The extended strike plate has a 1-3/4 inch lip and a 2-1/4 inch overall length with a 2-3/4 inch width. It comes packaged with mounting hardware. Choose from 4 finishes.\r\n</p>\r\n<p>\r\nAvailable in other sizes: <a href=\"/products/2-inch-t-strike-plate-don-jo-t9102\">2\" T Strike Plate</a> and <a href=\"/products/2-1-2-inch-t-strike-plate-don-jo-t9125\">2-1/2\" T Strike Plate</a>\r\n</p>\r\n\r\n<p>\r\nThe satin stainless steel and the dark bronze finishes have a stainless steel base metal. The polished brass and antique brass finishes have a brass base metal.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Don-Jo T9175 Extended T Door Strike Plate:\r\n<ul>\r\n<li>Lip Length: 1-3/4\"</li>\r\n<li>Overall Length: 2-1/4\"</li>\r\n<li>Base Width: 2-3/4\"</li>\r\n<li>Packaged with Mounting Screws</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "1-3/4 Inch T Strike Plate, Don-Jo T9175",
+                "description": "Don-Jo T9175 1-3/4 inch extended lip T strike plate is for use with any manufacturer's tubular entry locks, passage sets, and privacy sets. It is especially handy for custom installations. The extended strike plate has a 1-3/4 inch lip and a 2-1/4 inch overall length with a 2-3/4 inch width. It comes packaged with mounting hardware. Choose from 4 finishes.",
+                "keywords": "Don-Jo T9175 1-3/4 inch Extended T Strike Plates, Don-Jo T9175 1-3/4 inch lip strike plates, Don-Jo strikes, Don-Jo strike plates, Don-Jo T9175-630, Don-Jo T9175-605, Don-Jo T9175-609, Don-Jo T9175-DU,  DJO-T9175-630, DJO-T9175-605, DJO-T9175-609, DJO-T9175-DU,"
+            },
+            "specifications": [
+                {
+                    "key": "Lip Length",
+                    "value": "1-3/4\""
+                },
+                {
+                    "key": "Overall Length",
+                    "value": "2-1/4\""
+                },
+                {
+                    "key": "Base Width",
+                    "value": "2-3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Strike Plates",
+                    "sort": "6"
+                },
+                {
+                    "name": "Strike Plates",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "410754",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "410726",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "410757",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "610838",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "941967",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "285901",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "939155",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "566535",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "874754",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Lip Length: 1-3/4\"",
+                "Overall Length: 2-1/4\"",
+                "Base Width: 2-3/4\"",
+                "Select Finish: 630: Satin Stainless Steel",
+                "Select Finish: 605: Polished Brass",
+                "Select Finish: 609: Antique Brass",
+                "Select Finish: DU: Dark Bronze",
+                "Select Finish: 622: Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "630: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "605: Polished Brass",
+                    "price_impact": 1.05,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "609: Antique Brass",
+                    "price_impact": 6.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DU: Dark Bronze",
+                    "price_impact": 6.15,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "622: Black",
+                    "price_impact": 9.7,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

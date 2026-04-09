@@ -1,0 +1,167 @@
+{
+    "legacy_product_id": "200859",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Machine Screw 10 x 1/2, SCMS1005",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-SCMS1005",
+            "mpn": "DEL-SCMS1005",
+            "price": "89.99",
+            "compare_at_price": "120.0",
+            "contractor_price": "85.5",
+            "shipping_weight": "0.05",
+            "tags": [
+                "DEL-SCMS1005",
+                "Deltana SCMS1005 Machine Screw 10 x 1/2 inchs",
+                "screw for hinges",
+                "10-24 screws",
+                "DEL-SCMS1005U3",
+                "DEL-SCMS1005U5",
+                "DEL-SCMS1005U10B",
+                "DEL-SCMS1005U15",
+                "DEL-SCMS1005U15A",
+                "DEL-SCMS1005U26",
+                "DEL-SCMS1005U26D",
+                "DEL-SCMS1005USP"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/deltana-SCMS1005-screw.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/deltana-SCMS1005-screw.jpg?v=1716421931"
+        },
+        "text": {
+            "description_html": "<b>Deltana SCMS1005 - #10 x 1/2\" Machine Screw</b>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SCMS1005-Specifications.gif?v=1704354717\" width=\"247\" height=\"148\" border=\"0\" alt=\"deltana SCMS1005  #10 x 1/2 inch wood screw\">\r\n</p>\r\n\r\n<p>\r\n<ul>\r\n<li>Screw Size: #10-24</li>\r\n<li>Length: 1/2\"</li>\r\n<li>Type: Machine Screw</li>\r\n<li>Head: Flat, Phillips Drive</li>\r\n<li>Material: Steel</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nAvailable in 8 different finishes.\r\n\r\n</p>",
+            "seo": {
+                "title": "Machine Screw 10 x 1/2, SCMS1005",
+                "description": "Deltana SCMS1005 - Machine Screw #10 x 1/2 inch, available in 8 different finishes.  Sold in bags of 25, 50, 100, or 500.",
+                "keywords": "DEL-SCMS1005, Deltana SCMS1005 Machine Screw 10 x 1/2 inchs, screw for hinges, 10-24 screws, DEL-SCMS1005U3, DEL-SCMS1005U5, DEL-SCMS1005U10B, DEL-SCMS1005U15, DEL-SCMS1005U15A, DEL-SCMS1005U26, DEL-SCMS1005U26D, DEL-SCMS1005USP"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Machine and Wood Screws",
+                    "sort": "30"
+                },
+                {
+                    "name": "Installation Hardware",
+                    "sort": "1"
+                },
+                {
+                    "name": "Tools and Fasteners",
+                    "sort": "18"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "200882",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "837847",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "8602",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "154882",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "282414",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "292724",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: U3: Polished Brass",
+                "Select Finish: U10B: Oil Rubbed Bronze",
+                "Select Finish: U15: Satin Nickel",
+                "Select Finish: U15A: Antique Nickel",
+                "Select Finish: U26:  Polished Chrome",
+                "Select Finish: U26D: Brushed Chrome",
+                "Select Finish: U5: Antique Brass",
+                "Select Finish: USPW: White Primer"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26:  Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26D: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "USPW: White Primer",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

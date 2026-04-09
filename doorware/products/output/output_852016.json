@@ -1,0 +1,145 @@
+{
+    "legacy_product_id": "852016",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Falcon Concealed Vertical Rod Crossbar Exit Device, Falcon 1690",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "FAL-1690",
+            "mpn": "FAL-1690",
+            "price": "640.0",
+            "compare_at_price": "711.0",
+            "contractor_price": "640.0",
+            "shipping_weight": "20.0",
+            "tags": [
+                "Falcon Concealed Vertical Rod Exit Devices",
+                "Falcon 36 Vertical Rod Exit Devices",
+                "Falcon Concealed Vertical Panic Devices",
+                "FAL-1690",
+                "Falcon 1690",
+                "lass storefront door Panic hardware",
+                "Narrow Stile Exit Devices",
+                "Narrow Stile Door Exit Devices"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FAL-1690-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FAL-1690-525.jpg?v=1716425985"
+        },
+        "text": {
+            "description_html": "<b>Falcon 1690-EO, Falcon 36\" Vertical Rod Exit Device</b>\r\n\r\n<p>\r\nThe Falcon 1690 panic device blends the utility of a vertical rod application with the appearance of a traditional panic device. It is non-handed and reversible with a contoured cross bar that will fit doors up to 36 inches wide. The Falcon Concealed Vertical Rod Crossbar Exit Device requires a 1-3/4 inch minimum mounting surface.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Falcon Concealed Vertical Panic Device:\r\n<ul>\r\n<li>Doors Thickness: 1-3⁄4\" thick metal doors.</li>\r\n<li>Door Width: Up to 36\"</li>\r\n<li>Bar Projection: 3-3⁄8\" in neutral position, 2-3⁄8\" in dogged position.</li>\r\n<li>Pushbar Height: 2-1⁄2\".</li>\r\n<li>Stile Width: 1-3⁄4\" minimum.</li>\r\n<li>Door Height: Up to 84\" (7 Ft)</li>\r\n<li>Dogging: Hex key dogging standard</li>\r\n<li>Certified ANSI A156.3 grade 1 standards.</li>\r\n<li>Handing: Reversible, non-handed</li>\r\n<li>Fasteners: All machine screw mounting. Device mounting fasteners are concealed, latch fasteners are exposed to egress side.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Falcon Concealed Vertical Rod Crossbar Exit Device",
+                "description": "The Falcon 1690 panic device blends the utility of a vertical rod application with the appearance of a traditional panic device. It is non-handed and reversible with a contoured cross bar that will fit doors up to 36 inches wide. The Falcon Concealed Vertical Rod Crossbar Exit Device requires a 1-3/4 inch minimum mounting surface.",
+                "keywords": "Falcon Concealed Vertical Rod Exit Devices, Falcon 36 Vertical Rod Exit Devices, Falcon Concealed Vertical Panic Devices, FAL-1690, Falcon 1690, lass storefront door Panic hardware, Narrow Stile Exit Devices, Narrow Stile Door Exit Devices,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Falcon",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "247555",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "246787",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "175786",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "175893",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DU: Dark Bronze",
+                "Select Finish: AL: Aluminum",
+                "Select Finish: DC35: Black",
+                "Select Outside Trim: EO: Exit Only (No Exterior Trim)",
+                "Select Options: None needed",
+                "Select Options: Motorized Latch Retraction"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC35: Black",
+                    "price_impact": 30.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Outside Trim",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "EO: Exit Only (No Exterior Trim)",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Options",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "None needed",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Motorized Latch Retraction",
+                    "price_impact": 700.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

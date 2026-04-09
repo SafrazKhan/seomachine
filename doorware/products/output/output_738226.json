@@ -1,0 +1,121 @@
+{
+    "legacy_product_id": "738226",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Falcon Surface Vertical Rod Crossbar Exit Device",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "FAL-XX-V-EO-3",
+            "mpn": "FAL-XX-V-EO-3",
+            "price": "1534.4",
+            "compare_at_price": "1918.0",
+            "contractor_price": "1457.68",
+            "shipping_weight": "20.0",
+            "tags": [
+                "Falcon XX-V-EO",
+                "Falcon Non-Handed surface vertical rod exit Device XX-V Series",
+                "Non-Handed Exit Devices",
+                "Panic Devices",
+                "glass storefront door Panic Devices",
+                "glass store front door Panic Devices",
+                "glass storefront door Panic hardware",
+                "Falcon XX-V Series Non-Handed vertical rod Devices"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/XXVEO3-1.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/XXVEO3-1.jpg?v=1717106234"
+        },
+        "text": {
+            "description_html": "<b>Falcon XX-V-EO, Falcon Reversible Surface Vertical Rod Exit Device</b>\r\n\r\n<p>\r\nThe Falcon XX-V Series Vertical Rod Device is produced to meet the demanding requirements of higher traffic installations. This device is a surface-applied vertical rod type with the traditional crossbar design.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Falcon XX-V Series Surface Vertical Rod Crossbar Exit Device:\r\n<ul>\r\n<li>Crossbar:  1\" diameter brass</li>\r\n<li>Arms:  Forged Brass, aluminum and investment cast stainless steel</li>\r\n<li>Latchbolt:  Top stainless steel with 3/4\" throw, bottom 1/2\" throw</li>\r\n<li>Projection: 5\" maximum; 4\" dogged</li>\r\n<li>Handing: Reversible, non-handed</li>\r\n<li>Door Width:  4'0\"</li>\r\n<li>Door Thickness: 1-3/4\" </li>\r\n<li>Mounting Height: 40-1/4\" from CL to finished floor.</li>\r\n<li>Fasteners: All mounting screws are concealed. Sheet metal screws standard.</li>\r\n<li>Dogging: 1/2\" turn hex dogging standard.</li>\r\n<li>Finish:  Polished Brass</li>\r\n<li>Grade 1</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Falcon Surface Vertical Rod Crossbar Exit Device",
+                "description": "The Monarch XX-V Series Surface Vertical Rod Exit Device is produced to meet the demanding requirements of higher traffic installations. This device is a surface-applied vertical rod type with the traditional crossbar design.",
+                "keywords": "Falcon XX-V-EO, Falcon Non-Handed surface vertical rod exit Device XX-V Series, Non-Handed Exit Devices, Panic Devices,  glass storefront door Panic Devices, glass store front door Panic Devices, glass storefront door Panic hardware, Falcon XX-V Series Non-Handed vertical rod Devices,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Falcon",
+                    "sort": "11"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Add Extension Rod for doors over 7 ft: None needed",
+                "Add Extension Rod for doors over 7 ft: FAL-65006 - 12in. Extension Rod",
+                "Add Extension Rod for doors over 7 ft: FAL-650007 - 24in. Extension Rod",
+                "Add Extension Rod for doors over 7 ft: FAL-650008 - 36in. Extension Rod",
+                "Add Optional Rim Cylinder: No thanks",
+                "Add Optional Rim Cylinder: FAL-951US3"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Add Extension Rod for doors over 7 ft",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "None needed",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FAL-65006 - 12in. Extension Rod",
+                    "price_impact": 20.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FAL-650007 - 24in. Extension Rod",
+                    "price_impact": 35.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FAL-650008 - 36in. Extension Rod",
+                    "price_impact": 44.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Add Optional Rim Cylinder",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "No thanks",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FAL-951US3",
+                    "price_impact": 51.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

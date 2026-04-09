@@ -1,0 +1,87 @@
+{
+    "legacy_product_id": "1081317",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Low Voltage Power Supply, PDQ 81440",
+            "vendor": "PDQ",
+            "status": "ACTIVE",
+            "sku": "PDQ-81440",
+            "mpn": "PDQ-81440",
+            "price": "606.12",
+            "compare_at_price": "757.65",
+            "contractor_price": "545.51",
+            "shipping_weight": "20.0",
+            "tags": [
+                "PDQ-81440 Low Voltage Power Supply",
+                "PDQ 81440 Power Supply Box",
+                "24 volt DC power controller",
+                "24VDC electric power",
+                "24 VDC electric power"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDQ-81440_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PDQ-81440_525.jpg?v=1717791016"
+        },
+        "text": {
+            "description_html": "<b>PDQ 81440, Power Supply Box</b>\r\n<p>\r\nLow voltage power supply, UL Listed and tested to 294 Standard for Access Control System Units. Can be used with up to Two <a href=\"/products/motorized-electric-latch-rim-exit-device-pdq-6200rf630mlr\"><b>PDQ 6200RF630MLR Motorized Electric Latch Rim Exit Devices</b></a>. \r\n</p>\r\n<p>\r\nThis power supply converts 120 Volt AC (120VAC) or 240 Volt AC (240VAC) to Regulated 24 Volts DC (24VDC). Automatically accepts 120VAC or 240VAC input without requiring to move jumpers or set Dip Switches. Auxiliary 24VDC constant voltage output for powering stand alone devices (Keypads, Motion Detectors, Status Indicators...).\r\n</p>\r\n\r\n<p><b>Features</b> for PDQ 81440 Power Supply\r\n<ul>\r\n<li>Up to Full 2 Amps Load Capacity</li>\r\n<li>Class 2 Rated Outputs</li>\r\n<li>Filtered/Regulated 24VDC</li>\r\n<li>Overload, Over Voltage and Short Circuit Protection</li>\r\n<li>Control Fail Safe or Fail Secure Locking Devices</li>\r\n<li>Interface Relay Isolates Locking Device Current from Control Switch</li>\r\n<li>Surge Suppression on  Fail Safe and Fail Secure Outputs</li>\r\n<li>UL Listed and Tested</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Low Voltage Power Supply, PDQ 81440",
+                "description": "This power supply converts 120 Volt AC (120VAC) or 240 Volt AC (240VAC) to Regulated 24 Volts DC (24VDC). Low voltage power supply, UL Listed and tested to 294 Standard for Access Control System Units. Can be used with up to Two PDQ 6200RF630MLR Motorized Electric Latch Rim Exit Devices. ",
+                "keywords": "PDQ-81440 Low Voltage Power Supply, PDQ 81440 Power Supply Box, 24 volt DC power controller, 24VDC electric power, 24 VDC electric power,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "PDQ Exit Devices",
+                    "sort": "61"
+                },
+                {
+                    "name": "Panic Hardware",
+                    "sort": "49"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1077596",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "560451",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "759451",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "714213",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "216998",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "1081096",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "714206",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

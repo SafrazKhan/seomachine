@@ -1,0 +1,123 @@
+{
+    "legacy_product_id": "1156997",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "5 Inch Beacon Hill Cabinet Pull, MNG 191",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "MNG-191",
+            "mpn": "MNG-191",
+            "price": "19.65",
+            "compare_at_price": "26.2",
+            "contractor_price": "19.65",
+            "shipping_weight": "1.0",
+            "tags": [
+                "5 Inch Beacon Hill  Cabinet Pulls",
+                "Beacon Hill  5 Inch Cabinet Pulls",
+                "Beacon Hill Cabinet Pulls",
+                "Beacon Hill 5 Inch Pulls",
+                "traditional cabinet hardware",
+                "transitional cabinet hardware",
+                "MNG-191",
+                "MNG 191",
+                "MNG-19114",
+                "MNG 19114 polished nickel cabinet pulls",
+                "MNG-19128",
+                "MNG 19128 satin nickel cabinet pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MNG-191-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-191-525.jpg?v=1716428552"
+        },
+        "text": {
+            "description_html": "<b>MNG 191, Beacon Hill 5 Inch Cabinet Pull</b>\r\n\r\n<p>\r\nThe 5 Inch Beacon Hill Cabinet Pull has a classic design that is well-suited to historic America. These traditional cabinet pulls feature an Early American look that make them perfect as not only rejuvenation hardware but also for people who love old world glamour. The Beacon Hill 5 Inch Pull is available in satin nickel and polished nickel.\r\n</p>\r\n\r\n<p>\r\nThis cabinet pull is part of the <a href=\"//search?type=product&q=MNG+Beacon+Hill\">MNG Beacon Hill Collection</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the MNG 191 Beacon Hill 5 Inch Cabinet Pull:\r\n<ul>\r\n<li>Base Material: Zinc </li>\r\n<li>Length c.c. (center to center): 5\"</li>\r\n<li>Overall Length: 5-3/4\"</li>\r\n<li>Width: 1/2\"</li>\r\n<li>Projection: 1\"</li>\r\n<li>Packaged with 1\" long #8-32 screws and 1-1/2\"  long #8-32 screws.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i> \r\n</p>",
+            "seo": {
+                "title": "5 Inch Beacon Hill  Cabinet Pull",
+                "description": "The 5 Inch Beacon Hill Cabinet Pull has a classic design that is well-suited to historic America. These traditional cabinet pulls feature an Early American look that make them perfect as not only rejuvenation hardware but also for people who love old world glamour. The Beacon Hill 5 Inch Pull is available in satin nickel and polished nickel.",
+                "keywords": "5 Inch Beacon Hill  Cabinet Pulls, Beacon Hill  5 Inch Cabinet Pulls, Beacon Hill Cabinet Pulls, Beacon Hill 5 Inch Pulls, traditional cabinet hardware, transitional cabinet hardware, MNG-191, MNG 191, MNG-19114, MNG 19114 polished nickel cabinet pulls, MNG-19128, MNG 19128 satin nickel cabinet pulls"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "5"
+                },
+                {
+                    "name": "MNG Cabinet Hardware",
+                    "sort": "20"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1146161",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1155977",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1146155",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "354247",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1154716",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "354599",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "652421",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "1154933",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MNG-19114: Polished Nickel",
+                "Select Finish: MNG-19128: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MNG-19114: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-19114-SM.jpg?v=1774582352",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-19114-LG.jpg?v=1711366641"
+                },
+                {
+                    "value": "MNG-19128: Satin Nickel",
+                    "price_impact": 0.45,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-19128-SM.jpg?v=1774582356",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-19128-LG.jpg?v=1711366642"
+                }
+            ]
+        }
+    ]
+}

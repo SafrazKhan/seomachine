@@ -1,0 +1,177 @@
+{
+    "legacy_product_id": "572969",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Quadruple Pronged Hook, RK International HK-5820",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-HK-5820",
+            "mpn": "RKI-HK-5820",
+            "price": "49.99",
+            "compare_at_price": "62.7",
+            "contractor_price": "49.99",
+            "shipping_weight": "0.25",
+            "tags": [
+                "RKI-HK-5820",
+                "Four Pronged Hat and Coat Hooks",
+                "Quadruple Pronged Hooks",
+                "RK International HK-5820",
+                "solid brass hat hooks",
+                "heavy duty wall hooks",
+                "brass coat hooks",
+                "Quadruple Swivel Wall Hooks",
+                "bathroom wall hooks",
+                "purse hooks",
+                "Quadruple Pronged Wall Hooks",
+                "Quadruple Pronged Swivel Wall Hooks",
+                "triple pronged hooks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-HK-5820-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-HK-5820-525.jpg?v=1716424727"
+        },
+        "text": {
+            "description_html": "<b>RK International HK-5820, Quadruple Pronged Swivel Wall Hook</b>\r\n\r\n<p>\r\nThe Quadruple Pronged Hook features 4 swiveling hook arms that make it easier to hang items. It can be mounted to your wall or the inside of closet doors with the included hardware. Available in 7 finishes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Quadruple Prong Coat and Hat Hook:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 3-1/8\"</li>\r\n<li>Width: 1-1/2\"</li>\r\n<li>Projection: 5-1/2\"</li>\r\n<li>Packaged with matching finish screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/oil-bronze-crab.jpg?v=1704354545\" width=\"586\" height=\"116\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Quadruple Pronged Hook",
+                "description": "RK International HK-5820, Four Pronged Hooks -  The Quadruple Pronged Hook features 4 swiveling hook arms that make it easier to hang items. It can be mounted to your wall or the inside of closet doors with the included hardware. Available in 7 finishes.",
+                "keywords": "RKI-HK-5820, Four Pronged Hat and Coat Hooks, Quadruple Pronged Hooks, RK International HK-5820, solid brass hat hooks, heavy duty wall hooks, brass coat hooks, Quadruple Swivel Wall Hooks, bathroom wall hooks, purse hooks, Quadruple Pronged Wall Hooks, Quadruple Pronged Swivel Wall Hooks, triple pronged hooks,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "3-1/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "1-1/2\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "5-1/2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Coat and Hat Hooks",
+                    "sort": "5"
+                },
+                {
+                    "name": "RK International Home Accessories",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "295573",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "385185",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "13357",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "385163",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "7800",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "295609",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 3-1/8\"",
+                "Width: 1-1/2\"",
+                "Projection: 5-1/2\"",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: B: Polished Brass",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

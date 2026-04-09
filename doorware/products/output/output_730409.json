@@ -1,0 +1,104 @@
+{
+    "legacy_product_id": "730409",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Stainless Steel Barn Door Track Extension Kit, AHI DELTA-Extension",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-DELTA-Extension",
+            "mpn": "AHI-DELTA-Extension",
+            "price": "290.0",
+            "compare_at_price": "305.0",
+            "contractor_price": "290.0",
+            "shipping_weight": "15.0",
+            "tags": [
+                "AHI-DELTA-Extension",
+                "Stainless Steel Barn Door Track Extension Kits",
+                "AHI DELTA-Extension",
+                "AHI Delta 15000-22",
+                "AHI Delta 15041"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AHI-DELTA-Extension.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-DELTA-Extension.jpg?v=1717106233"
+        },
+        "text": {
+            "description_html": "<b>22\" Track Stainless Steel Barn Door Extension Kit</b>\r\n\r\n<p>\r\nThis Stainless Steel Barn Door Track Extension Kit comes with a 22 inch stainless steel track and the 15041 wall mount. It is made out of marine grade stainless steel so you can be sure it will withstand the test of time, just like the unfailing appeal of the barn door itself.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Modern Stainless Steel 22\" Barn Door Track Extension Kit:\r\n<ul>\r\n<li>Finish: <b>Satin Stainless Steel</b></li>\r\n<li>Material: Stainless Steel</li>\r\n<li>All 316 Marine Grade Stainless Steel Construction.</li>\r\n<li>Track Length: 22\"</li>\r\n<li>Track Diameter: 1\"</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-DEL99D-specifications.pdf?v=1691093354\" target=\"new\"><b>AHI DELTA-99D Specifications Diagram (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Package Includes:</b>\r\n<ul>\r\n<li>1 Stainless Steel 22\" Tubular Track</li>\r\n<li>Wall Mount</li>\r\n<li>All necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nSpecial Order Item. <b>NOT Returnable.</b>\r\n</p>",
+            "seo": {
+                "title": "Stainless Steel Barn Door Track Extension Kit, AHI DELTA-Extension",
+                "description": "AHI DELTA-Extension, Stainless Steel Barn Door Track Extension Kit - This Stainless Steel Barn Door Track Extension Kit comes with a 22 inch stainless steel track and the 15041 wall mount. It is made out of marine grade stainless steel so you can be sure it will withstand the test of time, just like the unfailing appeal of the barn door itself.",
+                "keywords": "AHI-DELTA-Extension, Stainless Steel Barn Door Track Extension Kits, AHI DELTA-Extension, AHI Delta 15000-22, AHI Delta 15041,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "AHI-Discontinued-and-Custom",
+                    "sort": "49"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "506319",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "29317",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "231531",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "196383",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "21457",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "582928",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Add Optional Track Spacers: No Thanks",
+                "Add Optional Track Spacers: 15044 - Yes add 1/2” Track Spacers"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Add Optional Track Spacers",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "No Thanks",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "15044 - Yes add 1/2” Track Spacers",
+                    "price_impact": 12.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

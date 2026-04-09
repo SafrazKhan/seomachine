@@ -1,0 +1,149 @@
+{
+    "legacy_product_id": "1008585",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4 x 4 Eastlake Brass Hinge with Steeple Tips, Brass Accents H07-H555S",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "BRA-H07-H555S",
+            "mpn": "BRA-H07-H555S",
+            "price": "52.8",
+            "compare_at_price": "52.8",
+            "contractor_price": "52.8",
+            "shipping_weight": "2.0",
+            "tags": [
+                "4 x 4 Filigree Brass Hinge with steeple Tips",
+                "ornate hinges",
+                "historic hinges",
+                "hinges for historic homes",
+                "fancy hinges",
+                "4 Inch Filigree Hinge with steeple Finials",
+                "BRA-H07-H555S",
+                "Brass Accents H07-H555S"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BRA-H07-H555S-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BRA-H07-H555S-525.jpg?v=1716427656"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents H07-H555S, 4 x 4 x Square Corners Eastlake Hinge with Steeple Tips</b>\r\n\r\n<p>\r\nPackage includes one (1) hinge, matching solid brass screws, and steeple tip finials. Square Corners, 4 Knuckle for smooth action.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the 4 Inch x 4 Inch Eastlake Design Hinge with Steeple Tip:\r\n<ul>\r\n<li>Hinge Material: Solid Brass</li>\r\n<li>Height: 4\"</li>\r\n<li>Width: 4\"</li>\r\n<li>Thickness: 0.06\"</li>\r\n<li>Corners: Square</li>\r\n<li>Package includes a single hinge, matching solid brass screws, and decorative steeple tip finials.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Sold Individually (1 Hinge)</b>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BRA-Hinges-Finishes.jpg?v=1704354736\" width=\"600\" height=\"136\" border=\"0\" alt=\"Brass Accents Available Finishes\">\r\n</p>\r\n<p>\r\n<br><br><br>\r\n<b>** This item is Discontinued</b>.  See available <a href=\"/collections/solid-brass-hinges\"><b>Brass Hinges</b></a>\r\n<br><br><br>\r\n</p>",
+            "seo": {
+                "title": "4 x 4 Eastlake Brass Hinge with Steeple Tips",
+                "description": "4 x 4 Eastlake Brass Hinge with Steeple Tips, Package includes one (1) hinge, matching solid brass screws, and steeple tip finials. Square Corners, 4 Knuckle for smooth action.",
+                "keywords": "4 x 4 Filigree Brass Hinge with steeple Tips, ornate hinges, historic hinges, hinges for historic homes, fancy hinges, 4 Inch Filigree Hinge with steeple Finials, BRA-H07-H555S, Brass Accents H07-H555S"
+            },
+            "specifications": [
+                {
+                    "key": "Hinge Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Height",
+                    "value": "4\""
+                },
+                {
+                    "key": "Width",
+                    "value": "4\""
+                },
+                {
+                    "key": "Thickness",
+                    "value": "0.06\""
+                },
+                {
+                    "key": "Corners",
+                    "value": "Square"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Brass Accents Ornate Hinges",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "61855",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "8219",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "978114",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "61885",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "80815",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "8615",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Hinge Material: Solid Brass",
+                "Height: 4\"",
+                "Width: 4\"",
+                "Thickness: 0.06\"",
+                "Corners: Square",
+                "Select Finish: 619: Satin Nickel",
+                "Select Finish: 605: Polished Brass",
+                "Select Finish: 609: Antique Brass",
+                "Select Finish: 613VB: Venetian Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "619: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "605: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "609: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "613VB: Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

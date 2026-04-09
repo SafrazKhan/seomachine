@@ -1,0 +1,162 @@
+{
+    "legacy_product_id": "435615",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Latch Hole Filler Plate for 160 Cut Out, Don-Jo EF-160",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "DJO-EF-160",
+            "mpn": "DJO-EF-160",
+            "price": "4.0",
+            "compare_at_price": "5.0",
+            "contractor_price": "3.6",
+            "shipping_weight": "0.5",
+            "tags": [
+                "DJO-EF-160 Filler Plate for 160 Cut Out",
+                "Latch Hole Filler Plate for 161 Cut Out",
+                "Don-Jo EF-160 Latch Hole Filler Plates",
+                "door hole covers",
+                "ef160",
+                "Don-Jo ef160",
+                "Don-Jo EF-160-PC",
+                "Don-Jo EF-160-BP",
+                "Don-Jo EF-160-CP",
+                "Don-Jo EF-160-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-EF-160_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-EF-160_525.jpg?v=1716423996"
+        },
+        "text": {
+            "description_html": "<b>Latch Hole Filler Plate for 160 Cut Out</b>\r\n\r\n<p>\r\nThis filler plate is 2-1/4\" high by 1\" wide and covers a standard 160 door prep. (standard residential door) door latch hole. Packaged with 2 installation screws. \r\n</p>\r\n\r\n<p>\r\nAlso available: <a href=\"/products/latch-hole-filler-plate-for-161-cut-out-don-jo-ef-161\"><b>Don-Jo EF-161</b></a> for 161 door prep ( 2-1/4\" x 1-1/8\").\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Don-Jo EF-160 Latch Filler Plate\r\n<ul>\r\n<li>Plate Height: 2-1/4\"</li>\r\n<li>Plate Width: 1\"</li>\r\n<li>Plate Thickness: 1/8\"</li>\r\n<li>Material: Steel</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Latch Hole Filler Plate for 160 Cut Out, Don-Jo EF-160",
+                "description": "Don-Jo EF-160 This filler plate is 2-1/4 x 1 and covers a standard 160 door prep. (standard residential door) door latch hole. ",
+                "keywords": "DJO-EF-160 Filler Plate for 160 Cut Out, Latch Hole Filler Plate for 161 Cut Out, Don-Jo EF-160 Latch Hole Filler Plates, door hole covers, ef160, Don-Jo ef160, Don-Jo EF-160-PC, Don-Jo EF-160-BP, Don-Jo EF-160-CP, Don-Jo EF-160-DU"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Height",
+                    "value": "2-1/4\""
+                },
+                {
+                    "key": "Plate Width",
+                    "value": "1\""
+                },
+                {
+                    "key": "Plate Thickness",
+                    "value": "1/8\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Steel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Latch Conversion and Filler Plates",
+                    "sort": "4"
+                },
+                {
+                    "name": "Strike Plates",
+                    "sort": "50"
+                },
+                {
+                    "name": "Door Latch Conversion and Filler Plates",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "353918",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "368922",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "435629",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "368924",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "198616",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "520422",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "520430",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "519311",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Plate Height: 2-1/4\"",
+                "Plate Width: 1\"",
+                "Plate Thickness: 1/8\"",
+                "Material: Steel",
+                "Select Finish: PC: Primer",
+                "Select Finish: BP: Brass Plated",
+                "Select Finish: CP: Chrome Plated",
+                "Select Finish: DU: Duro (Dark Bronze)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PC: Primer",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BP: Brass Plated",
+                    "price_impact": 9.15,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CP: Chrome Plated",
+                    "price_impact": 9.15,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DU: Duro (Dark Bronze)",
+                    "price_impact": 4.65,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "legacy_product_id": "560227",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Simple Cabinet Knob with Brass Center, RK International CK-5214",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-5214",
+            "mpn": "RKI-CK-5214",
+            "price": "12.4",
+            "compare_at_price": "15.5",
+            "contractor_price": "11.78",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RKI-CK-5214",
+                "Simple Knob with Polished Brass Inserts",
+                "Simple Cabinet Knob with Brass Centers",
+                "RK International CK-5214",
+                "RK International plain knob with flat brass inserts",
+                "duel finish hardware",
+                "two toned cabinet knobs",
+                "traditional cabinet pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-5214-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-5214-525.jpg?v=1716424483"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-5214, Simple Knob with Polished Brass Insert</b>\r\n\r\n<p>\r\nRK International's Simple Cabinet Knob is available in 3 finish combinations (click on picture to see them): a polished chrome, oil rubbed bronze, and polished brass--each of which have a polished brass center insert. This cabinet knob has a 1-1/4 inch diameter. Features an easy installation and it comes packaged with all the necessary installation hardware. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-5214 Brass Center Simple Cabinet Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 15/16\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Simple Cabinet Knob with Brass Center",
+                "description": "RK International CK-5214, Simple Cabinet Knob with Brass Center - RK International's Simple Cabinet Knob is available in 3 finish combinations: a polished chrome, oil rubbed bronze, and polished brass--each of which have a polished brass center insert. This cabinet knob has a 1-1/4 inch diameter. Features an easy installation and it comes packaged with all the necessary installation hardware.",
+                "keywords": "RKI-CK-5214, Simple Knob with Polished Brass Inserts, Simple Cabinet Knob with Brass Centers, RK International CK-5214, RK International plain knob with flat brass inserts, duel finish hardware, two toned cabinet knobs, traditional cabinet pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "6"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "259512",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "43031",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "21554",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "42914",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "558569",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "559908",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: BRB: Oil Rubbed Bronze with Polished Brass Center",
+                "Select Finish: B: Polished Brass",
+                "Select Finish: CB: Polished Chrome with Polished Brass Center"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BRB: Oil Rubbed Bronze with Polished Brass Center",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CB: Polished Chrome with Polished Brass Center",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

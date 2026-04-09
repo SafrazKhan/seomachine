@@ -1,0 +1,121 @@
+{
+    "legacy_product_id": "222898",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Heavy Duty T-Bar Hold Open Arm, Global HOA-4361-CNS",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-HOA-4361-CNS",
+            "mpn": "GLO-HOA-4361-CNS",
+            "price": "95.12",
+            "compare_at_price": "135.88",
+            "contractor_price": "85.61",
+            "shipping_weight": "5.0",
+            "tags": [
+                "GLO-HOA-1461-CNS Heavy Duty Hold Open Arms",
+                "T-Bar Hold Open Arms",
+                "Global HOA-4361-CNS  Heavy Duty hold open arms",
+                "cush-n-stop arms",
+                "Global door controls door closers arms",
+                "T bar hold open arms",
+                "door closer hold open arms",
+                "Global door controls TC4361 door closer arms",
+                "Global TC4361 Door Closer Arms",
+                "Global TC201",
+                "Global TC411",
+                "Global TC412",
+                "Global TC511",
+                "Global TC512",
+                "Global TC611",
+                "Global TC611",
+                "global HOA-4361-CNS-AL",
+                "global HOA-4361-CNS-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/HOA-1461-CNS_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/HOA-1461-CNS_525.jpg?v=1716422178"
+        },
+        "text": {
+            "description_html": "<b>Heavy Duty Door Saver Hold Open Arm with Cush-N-Stop</b>\r\n<p>\r\nT-Bar style Cush-N-Stop Hold Open arm for use with <a href=\"/products/ada-compliant-heavy-duty-door-closer-global-tc4361\"><b>Global TC4361</b></a>,  <a href=\"/products/tc201-global-grade-1-surface-mount-door-closer\"><b>Global TC201</b></a>, <a href=\"/products/tc411-ada-compliant-grade-1-tri-packed-door-closer\"><b>Global TC411</b></a>,  <a href=\"/products/tc412-grade-1-tri-packed-door-closer\"><b>Global TC412</b></a>,  <a href=\"/products/ada-compliant-full-cover-tri-packed-door-closer\"><b>Global TC511</b></a>,  <a href=\"/products/grade-1-full-cover-door-closer\"><b>Global TC512</b></a>, <a href=\"/products/ada-compliant-grade-1-tri-packed-door-closer-global-tc611\"><b>Global TC611</b></a> and <a href=\"/products/grade-1-tri-packed-door-closer-global-tc612\"><b>Global TC612</b></a>.\r\n</p>\r\n<p><b>Parallel Arm Mount Only. \r\n<br>\r\n(**For 12 mm square closer shaft).</b>\r\n</p>\r\n\r\n<p>Heavy duty rigid arm assembly and soffit plate with field reversible dead stop. \"T\" bar turn knob to activated or inactivate the hold open function. Packaged with mounting hardware.\r\n</p>\r\n<p>\r\n Available in 2 finishes of Aluminum or Dark Bronze .\r\n</p>",
+            "seo": {
+                "title": "Heavy Duty T-Bar Hold Open Arm, Global HOA-4361-CNS",
+                "description": "Global HOA-4361-CNS T-Bar style Cush-N-Stop Hold Open arm for  Global TC4361 Door Closers (for 12 mm closer shaft).",
+                "keywords": "GLO-HOA-1461-CNS Heavy Duty Hold Open Arms, T-Bar Hold Open Arms, Global HOA-4361-CNS  Heavy Duty hold open arms, cush-n-stop arms, Global door controls door closers arms, T bar hold open arms, door closer hold open arms, Global door controls TC4361 door closer arms, Global TC4361 Door Closer Arms, Global TC201, Global TC411, Global TC412, Global TC511, Global TC512, Global TC611, Global TC611, global HOA-4361-CNS-AL, global HOA-4361-CNS-DU,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Door Closer Accessories",
+                    "sort": "16"
+                },
+                {
+                    "name": "Global TC4361 Closer Accessories",
+                    "sort": "2"
+                },
+                {
+                    "name": "Global TC200, TC400, TC500, TC600 Series",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "222892",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "221509",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "221515",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "222883",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "15345",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: HOA-4361-CNS-AL: Aluminum",
+                "Select Finish: HOA-4361-CNS-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "HOA-4361-CNS-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "HOA-4361-CNS-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

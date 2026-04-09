@@ -1,0 +1,110 @@
+{
+    "legacy_product_id": "818315",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hinge Pin Door Stop with Extra Large No-Mark Door Pad, Fusion HPDS-N",
+            "vendor": "Fusion",
+            "status": "ACTIVE",
+            "sku": "FUS-HPDS-N",
+            "mpn": "FUS-HPDS-N",
+            "price": "7.0",
+            "compare_at_price": "7.0",
+            "contractor_price": "5.25",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Solid Brass Hinge Pin Door Stops",
+                "Hinge Pin Door Stop with Extra Large No-Mark Door Pad",
+                "Fusion HPDS-N",
+                "Hinge Pin Door Stops",
+                "Fusion HPDS",
+                "fus-HPDS-N",
+                "Solid Brass Hinge Pin Door Stops",
+                "narrow trim hinge pin door bumper",
+                "door bumpers",
+                "solid brass doorstops",
+                "rubber tip door stops"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-HPDS-N-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-HPDS-N-525.jpg?v=1711365619"
+        },
+        "text": {
+            "description_html": "<b>Fusion HPDS-N, Solid Brass Hinge Pin Door Stop with Extra Large No-Mark Door Pad</b>\r\n\r\n<p>\r\nThis Solid Brass Hinge Pin Door Stop has an extra large door pad that protect the door's surface from damage. This universal fit door stop is mounted on a door hinge pin instead of on the floor or baseboard, such as where two doors open into one another. Made by Fusion, the Hinge Pin Door Stop with Extra Large No-Mark Door Pad, is designed for narrow trim installation and has a removable bushing to accommodate 1/4 inch to 5/16 inch hinge pin diameters. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Narrow Trim Hinge Pin Door Bumper:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>For narrow trim installation.</li>\r\n<li>Removable bushings accommodate 1/4\" to 5/16\" diameter hinge pins.</li>\r\n<li>Door opening: 85 degrees to 125 degrees door opening adjustments.</li>\r\n<li>Packaged with mounting hardware.</li>\r\n<li>Finish: Oil Rubbed Bronze</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>\r\n\r\n<p>\r\n\r\n</p>",
+            "seo": {
+                "title": "Hinge Pin Door Stop",
+                "description": "This Solid Brass Hinge Pin Door Stop has an extra large door pad that protect the door's surface from damage. This universal fit door stop is mounted on a door hinge pin instead of on the floor or baseboard, such as where two doors open into one another. Made by Fusion, the Hinge Pin Door Stop with Extra Large No-Mark Door Pad, is designed for narrow trim installation and has a removable bushing to accommodate 1/4 inch to 5/16 inch hinge pin diameters. It is available in brushed nickel, oil rubbed bronze, and polished brass finishes.",
+                "keywords": "Solid Brass Hinge Pin Door Stops, Hinge Pin Door Stop with Extra Large No-Mark Door Pad, Fusion HPDS-N, Hinge Pin Door Stops, Fusion HPDS, fus-HPDS-N, Solid Brass Hinge Pin Door Stops, narrow trim hinge pin door bumper, door bumpers, solid brass doorstops, rubber tip door stops,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Door Stops",
+                    "sort": "6"
+                },
+                {
+                    "name": "Door Stops, Bumpers, and Holders",
+                    "sort": "14"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "6957",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "6687",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "762728",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "188623",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "332629",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "6647",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "200807",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: ORB - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

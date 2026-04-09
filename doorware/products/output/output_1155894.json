@@ -1,0 +1,123 @@
+{
+    "legacy_product_id": "1155894",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Park Avenue Cabinet Knob, MNG 176",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "MNG-176",
+            "mpn": "MNG-176",
+            "price": "10.31",
+            "compare_at_price": "13.74",
+            "contractor_price": "10.31",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Park Avenue T-Knob for Cabinets",
+                "Park Avenue Cabinet Knobs",
+                "Park Avenue T-Knobs",
+                "traditional cabinet hardware",
+                "transitional cabinet hardware",
+                "MNG-176",
+                "MNG 176",
+                "MNG-17666",
+                "MNG 17666 oil rubbed bronze cabinet knobs",
+                "MNG-17628",
+                "MNG 17628 satin nickel cabinet knobs",
+                "Anvil Cabinet Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MNG-176-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-176-525.jpg?v=1716428531"
+        },
+        "text": {
+            "description_html": "<b>MNG 176, Park Avenue T-Knob for Cabinets</b>\r\n\r\n<p>\r\nThe Park Avenue Cabinet Knob is a stunning, traditional knob that looks as high-end as its name sounds. The Park Avenue T-Knob is available in satin nickel and oil rubbed bronze finishes. Luxury hardware like the Park Avenue T-Knob will add high-class style to your home. This cabinet knob comes packaged with the mounting hardware. \r\n</p>\r\n\r\n<p>\r\nThis cabinet knob is part of the <a href=\"//search?type=product&q=MNG+Park+Avenue\">MNG Park Avenue Collection</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the MNG 176 Park Avenue Knob:\r\n<ul>\r\n<li>Base Material: Zinc </li>\r\n<li>Length: 1-1/2\"</li>\r\n<li>Projection: 7/8\"</li>\r\n<li>Packaged with 1\" long #8-32 screw and 1-1/2\" long #8-32 screw.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i> \r\n</p>",
+            "seo": {
+                "title": "Park Avenue Cabinet Knob",
+                "description": "The Park Avenue Cabinet Knob is a stunning, traditional knob that looks as high-end as its name sounds. The Park Avenue T-Knob is available in satin nickel and oil rubbed bronze finishes. Luxury hardware like the Park Avenue T-Knob will add high-class style to your home. This cabinet knob comes packaged with the mounting hardware.",
+                "keywords": "Park Avenue T-Knob for Cabinets, Park Avenue Cabinet Knobs, Park Avenue T-Knobs, traditional cabinet hardware, transitional cabinet hardware, MNG-176, MNG 176, MNG-17666, MNG 17666 oil rubbed bronze cabinet knobs, MNG-17628, MNG 17628 satin nickel cabinet knobs, Anvil Cabinet Knobs"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "2"
+                },
+                {
+                    "name": "MNG Cabinet Hardware",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "919493",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "26515",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "668681",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "857329",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "823055",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "309329",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "1038272",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "27496",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MNG-17628: Satin Nickel",
+                "Select Finish: MNG-17666: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MNG-17628: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-17628-SM.jpg?v=1774582259",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-17628-LG1.jpg?v=1711366635"
+                },
+                {
+                    "value": "MNG-17666: Oil Rubbed Bronze",
+                    "price_impact": 0.44,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-17666-SM.jpg?v=1774582261",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-17666-LG.jpg?v=1711366636"
+                }
+            ]
+        }
+    ]
+}

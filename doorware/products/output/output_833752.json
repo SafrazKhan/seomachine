@@ -1,0 +1,139 @@
+{
+    "legacy_product_id": "833752",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Schlage F-Series Door Knob Mul-T-Lock Security Lock Cylinder",
+            "vendor": "Mul-T-Lock",
+            "status": "ACTIVE",
+            "sku": "MTL-206S-KIKSHF4",
+            "mpn": "MTL-206S-KIKSHF4",
+            "price": "143.17",
+            "compare_at_price": "143.17",
+            "contractor_price": "143.17",
+            "shipping_weight": "1.0",
+            "tags": [
+                "MTL-206S-KIKSHF4 Lock Cylinder for Schlage F-Series Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MTL-206S-KIKSHF4_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MTL-206S-KIKSHF4_525.jpg?v=1716425940"
+        },
+        "text": {
+            "description_html": "<b>High Security Lock Cylinder for Schlage F-Series Door Knobs</b>\r\n\r\n<p>\r\nThis lock cylinder fits all <a href=\"/collections/schlage-knobs\"><b>Schlage F-Series Door Knobs</b></a>. Does NOT fit Door Levers, only the door Knobs. \r\n</p>\r\n<p>\r\nHigh security  Mul-T-Lock lock cylinders are designed with pick and drill resistance. Hardened steel inserts are strategically placed in sensitive areas to resist against drilling attempts. Specific parts are reinforced with some of the strongest materials available to resist tampering and forced entry.\r\n</p>\r\n<p>\r\nSupplied standard with 1 owner key card and 2 keys per cylinder. MUL-T-LOCK's cylindrical locks are designed to provide superior door protection with uncompromised key control. The Key Card owner is the person allowed to have the keys duplicated.\r\n</p>\r\n<p>\r\n<b>Features</b> for Mul-T-Lock 206S-KIKSHFL Lock Cylinder\r\n<ul>\r\n<li>Drill and Pick Resistance Lock Cylinder</li>\r\n<li>Bump Proof Design</li>\r\n<li>Mul-T-Lock 206S Plus Security Keyway</li>\r\n<li>2 Keys per Lock</li>\r\n<li>MUL-T-LOCK's Patented Interactive Key Control System</li>\r\n<li>Limited Lifetime Mechanical Warranty</li>\r\n<li><b>For Schlage F-Series Door Knobs</b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>If ordering multiple locks you can have them Key Alike (use the same key) or Keyed Different (different keys for each lock). You can also order <a href=\"/products/cut-keys-for-mul-t-lock-locksets-and-padlocks\"><b>Extra Mul-T-Lock Keys</b></a>  if more than 2 are required.\r\n</p>",
+            "seo": {
+                "title": "Lock Cylinder for Schlage F-Series Knobs",
+                "description": "This lock cylinder fits all Schlage F-Series Door Knobs. Does NOT fit Door Levers, only the door Knobs. ",
+                "keywords": "MTL-206S-KIKSHF4 Lock Cylinder for Schlage F-Series Knobs"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Mul-T-Lock Security Lock Cylinders",
+                    "sort": "22"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "351908",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "421939",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "799269",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "448279",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MTL-206S-KIKSHF4-26: Satin Chrome",
+                "Select Finish: MTL-206S-KIKSHF4-05: Bright Brass",
+                "Keying (Select Keyed Different or Keyed Alike): Only Ordered One Lock",
+                "Keying (Select Keyed Different or Keyed Alike): Keyed Different",
+                "Keying (Select Keyed Different or Keyed Alike): Keyed Alike",
+                "Keying (Select Keyed Different or Keyed Alike): Master Keyed - Individual Locks Keyed Different",
+                "Keying (Select Keyed Different or Keyed Alike): Master Keyed - Individual Locks Keyed Same"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MTL-206S-KIKSHF4-26: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MTL-206S-KIKSHF4-05: Bright Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying (Select Keyed Different or Keyed Alike)",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Master Keyed - Individual Locks Keyed Different",
+                    "price_impact": 20.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Master Keyed - Individual Locks Keyed Same",
+                    "price_impact": 20.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

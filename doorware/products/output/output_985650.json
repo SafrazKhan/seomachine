@@ -1,0 +1,156 @@
+{
+    "legacy_product_id": "985650",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T16:10:27.143044"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Round Fingertip Edge Pull, Inox EPIX01",
+            "vendor": "Inox",
+            "status": "ACTIVE",
+            "sku": "INX-EPIX01",
+            "mpn": "INX-EPIX01",
+            "price": "11.99",
+            "compare_at_price": "14.0",
+            "contractor_price": "11.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Inx-EPIX01 Round Edge Pulls",
+                "Round Fingertip Flush Pulls",
+                "Inox EPIX01 Round Flush Pulls",
+                "Inox pocket door hardware",
+                "pocket door handles",
+                "recessed pulls",
+                "Contemporary Flush Pulls",
+                "small edge door pulls",
+                "finger pulls",
+                "door end pulls",
+                "unison hardware EPIX01",
+                "Black Edge Pull",
+                "Satin Brass Edge Pull",
+                "Stainless Steel Edge Pull",
+                "Fingertip Edge Pull"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/INX-EPIX01-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/INX-EPIX01-525.jpg?v=1716427409"
+        },
+        "text": {
+            "description_html": "<b>Inox EPIX01, Round Fingertip Edge Pull</b>\r\n\r\n<p>\r\nThis sliding door edge pull is mounted into the door's edge. For use on pocket doors, sliding doors, cabinet doors--any door where a flush with the door face small finger pull is desired. Can be used in the doors edge or on the door face. The Round Fingertip Edge Pull has a small lip for your finger to grab when used as a pocket door edge pull.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Inox EPIX01 Round Edge Pull:\r\n<ul>\r\n<li>Overall Diameter: 1-4/32\"</li>\r\n<li>Bore Hole Diameter: 1\"</li>\r\n<li>Bore Hole Depth: 29/32\"</li>\r\n<li>Inside Diameter (where you put your finger): 15/16\"</li>\r\n<li>Projection: 1/16\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Round Fingertip Edge Pull",
+                "description": "This sliding door edge pull is mounted into the door's edge. For use on pocket doors, sliding doors, cabinet doors--any door where a flush with the door face small finger pull is desired. Can be used in the doors edge or on the door face. The Round Fingertip Edge Pull has a small lip for your finger to grab when used as a pocket door edge pull.",
+                "keywords": "Inx-EPIX01 Round Edge Pulls, Round Fingertip Flush Pulls, Inox EPIX01 Round Flush Pulls, Inox pocket door hardware, pocket door handles,  recessed pulls,  Contemporary Flush Pulls, small edge door pulls, finger pulls, door end pulls,  unison hardware EPIX01, Black Edge Pull, Satin Brass Edge Pull, Stainless Steel Edge Pull, Fingertip Edge Pull"
+            },
+            "specifications": [
+                {
+                    "key": "Overall Diameter",
+                    "value": "1-4/32\""
+                },
+                {
+                    "key": "Bore Hole Diameter",
+                    "value": "1\""
+                },
+                {
+                    "key": "Bore Hole Depth",
+                    "value": "29/32\""
+                },
+                {
+                    "key": "Inside Diameter (where you put your finger)",
+                    "value": "15/16\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "INOX Sliding Door Hardware",
+                    "sort": "28"
+                },
+                {
+                    "name": "Pocket Door Hardware",
+                    "sort": "95"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "247016",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "260178",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "687040",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "196232",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "157410",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Overall Diameter: 1-4/32\"",
+                "Bore Hole Diameter: 1\"",
+                "Bore Hole Depth: 29/32\"",
+                "Inside Diameter (where you put your finger): 15/16\"",
+                "Projection: 1/16\"",
+                "Select Finish: US32D: Satin Stainless Steel",
+                "Select Finish: US32: Polished Stainless Steel",
+                "Select Finish: PVD4: Satin Brass",
+                "Select Finish: 19G: Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US32D: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US32: Polished Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PVD4: Satin Brass",
+                    "price_impact": 2.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "19G: Black",
+                    "price_impact": 2.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

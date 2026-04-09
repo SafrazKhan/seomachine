@@ -1,0 +1,68 @@
+{
+    "legacy_product_id": "906609",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "First Impression Pull Re-Work LGN08 Service",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-RE-WORK-LGN08",
+            "mpn": "FII-RE-WORK-LGN08",
+            "price": "1855.0",
+            "compare_at_price": "1855.0",
+            "contractor_price": "1855.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "First Impression Pull Re-Work Service",
+                "First Impression Pull Re-Work LGN08 Service"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52557.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52557.gif?v=1717790500"
+        },
+        "text": {
+            "description_html": "<b>First Impression Re-Work Service</b>\r\n\r\n<p>\r\nAdd 3-3/4” polished stainless steel stand-offs to QTY: 7 LGN08 1-1/2 Inch Wooden Door Pulls.\r\n</p>",
+            "seo": {
+                "title": "First Impression Pull Re-Work Service",
+                "description": "Add 3-3/4 inch polished stainless steel stand-offs to 7 LGN08 pulls.",
+                "keywords": "First Impression Pull Re-Work Service, First Impression Pull Re-Work LGN08 Service"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Custom-Misc-Items",
+                    "sort": "119"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "794400",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "806274",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "805969",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "806020",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

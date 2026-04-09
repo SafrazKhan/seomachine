@@ -1,0 +1,148 @@
+{
+    "legacy_product_id": "463103",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Urn Tip Solid Brass Finial, Pair, Baldwin 1091.xxx.I",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-1091.xxx.I",
+            "mpn": "BAL-1091.xxx.I",
+            "price": "17.0",
+            "compare_at_price": "17.0",
+            "contractor_price": "17.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Urn Tip Solid Brass Finial Pair",
+                "Baldwin 1091.xxx.I. for solid brass hinges."
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/urn-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/urn-525.jpg?v=1711365477"
+        },
+        "text": {
+            "description_html": "<b>Urn Tip Solid Brass Finial, Pair, Baldwin 1091.xxx.I</b>\r\n<p>An easy screw-on installation makes this hinge finial an effortless way to add the finishes details that help turn an ordinary hinge into extraordinary. The finial is made by Baldwin out of durable solid brass so you know it will last though years of continuous use. Available in 15 finishes.</p>\r\n<p>All Baldwin decorative finials are available in matching finishes and fit interchangeably with any of the <a href=\"/site/department.cfm?id=328135\"><b>Baldwin Solid Brass Hinges</b></a>.</p>\r\n\r\n<p>Hinge Finials (tips) are packaged and sold by the pair. Order 1pair per hinge.</p>\r\n\r\n<p><b>Specifications</b> of the Baldwin Ball Tip Finial:\r\n<ul>\r\n<li>Easy screw-on installation</li>\r\n<li>Sold in pairs</li>\r\n</ul></p>\r\n\r\n<p>\r\nWe offer 15 different finishes for this Finial Tip but no matter which finish you choose, it will still be constructed out of high quality solid brass.\r\n</p>\r\n\r\n<p>\r\n<b>*Sold in pairs</b>\r\n</p>",
+            "seo": {
+                "title": "Urn Tip Solid Brass Finial, Pair, Baldwin 1091.xxx.I",
+                "description": "Urn Tip Solid Brass Finial Pair, Baldwin 1091.xxx.I. for solid brass hinges.",
+                "keywords": "Urn Tip Solid Brass Finial Pair, Baldwin 1091.xxx.I. for solid brass hinges."
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Door Hardware",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: 031: Non-Lacquered Brass",
+                "Select Finish: 033: Vintage Brass",
+                "Select Finish: 050: Satin Brass and Black",
+                "Select Finish: 060: Satin Brass and Brown",
+                "Select Finish: 102: Oil Rubbed Bronze",
+                "Select Finish: 112: Venetian Bronze",
+                "Select Finish: 150: Satin Nickel",
+                "Select Finish: 151: Antique Nickel",
+                "Select Finish: 190: Satin Black",
+                "Select Finish: 260: Polished Chrome",
+                "Select Finish: 264: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "031: Non-Lacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "033: Vintage Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "050: Satin Brass and Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "060: Satin Brass and Brown",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "102: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "112: Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "150: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "151: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "190: Satin Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "260: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "264: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "legacy_product_id": "893137",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "First Impression Pull Re-Work PR-PCF01 Service",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-RE-WORK",
+            "mpn": "FII-RE-WORK",
+            "price": "90.0",
+            "compare_at_price": "90.0",
+            "contractor_price": "90.0",
+            "shipping_weight": "6.0",
+            "tags": [
+                "First Impression Pull Re-Work Service"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/special_order-52525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/special_order-52525.jpg?v=1717790476"
+        },
+        "text": {
+            "description_html": "<b>First Impression Re-Work Service</b>\r\n\r\n<p>\r\nRemove 1/2\" acrylic from each end of pull and re-polish.\r\n</p>",
+            "seo": {
+                "title": "First Impression Pull Re-Work Service",
+                "description": "Re-work PR-PCF01 pulls. Remove 1/2 acrylic from each end of pull and re-polish.",
+                "keywords": "First Impression Pull Re-Work Service"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Custom-Misc-Items",
+                    "sort": "118"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

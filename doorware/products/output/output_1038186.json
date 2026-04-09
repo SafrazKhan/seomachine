@@ -1,0 +1,174 @@
+{
+    "legacy_product_id": "1038186",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Art Deco Cabinet Knob, Emtek 86421",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-86421",
+            "mpn": "EMT-86421",
+            "price": "12.99",
+            "compare_at_price": "16.0",
+            "contractor_price": "12.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Art Deco Cabinet Knobs",
+                "Emtek 86421",
+                "Emtek Art Deco Knobs",
+                "retro cabinet hardware",
+                "50's diner cabinet hardware",
+                "chrome cabinet knobs",
+                "Emtek Retro Art Deco Cabinet Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86421-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86421-525.jpg?v=1716427833"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86421, Retro Cabinet Knob</b>\r\n\r\n<p>\r\nThe Art Deco Cabinet Knob has that charm that brings to mind the style and ease of a simpler time. 1950's Diners and Soda Fountains would have been the most fashionable if they would have had the Emtek Art Deco Knob. This retro cabinet hardware is available in all the finish colors you might expect including the classic polished chrome and a more modern satin brass. \r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86421-specifications.gif?v=1704354775\" width=\"600\" height=\"258\" border=\"0\" atl=\"Emtek 86421 specifications\">\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> of the Emtek Retro Art Deco Cabinet Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Comes packaged with installation screws.</li>\r\n<li>Length: 1-1/4\" square</li>\r\n<li>Projection: 1-1/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-modern-5-Finishes.jpg?v=1704354501\" width=\"511\" height=\"111\" border=\"0\" alt=\"Emtek Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "Art Deco Cabinet Knob",
+                "description": "The Art Deco Cabinet Knob has that charm that brings to mind the style and ease of a simpler time. 1950's Diners and Soda Fountains would have been the most fashionable if they would have had the Emtek Art Deco Knob. This retro cabinet hardware is available in all the finish colors you might expect including the classic polished chrome and a more modern satin brass.",
+                "keywords": "Art Deco Cabinet Knobs, Emtek 86421, Emtek Art Deco Knobs, retro cabinet hardware, 50's diner cabinet hardware, chrome cabinet knobs, Emtek Retro Art Deco Cabinet Knobs,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "1-1/4\" square"
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-1/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Cabinet Hardware",
+                    "sort": "75"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "261984",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "855095",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "42487",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "237840",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "198824",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "40973",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "561016",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "922522",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "931549",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "895273",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 1-1/4\" square",
+                "Projection: 1-1/4\"",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US4: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

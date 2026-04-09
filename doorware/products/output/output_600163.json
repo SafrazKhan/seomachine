@@ -1,0 +1,145 @@
+{
+    "legacy_product_id": "600163",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "2 Inch Triangular Ring Pull, Field Enterprises RPT-217",
+            "vendor": "Field Enterprise",
+            "status": "ACTIVE",
+            "sku": "FEI-RPT-217",
+            "mpn": "FEI-RPT-217",
+            "price": "35.88",
+            "compare_at_price": "46.0",
+            "contractor_price": "34.09",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Small Triangular Ring Pulls",
+                "Field Enterprises RPT-217",
+                "Field Enterprises RPT217",
+                "Field Enterprises RPT 217",
+                "Small Triangle Solid Brass Ring Pulls",
+                "Field enterprise 2 inch triangular ring pulls",
+                "dresser drawer pulls",
+                "furniture ring pulls",
+                "closet door pulls",
+                "Retro 2 Inch Triangle Ring Pull"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FEI-RPT-217-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FEI-RPT-217-525.jpg?v=1716424833"
+        },
+        "text": {
+            "description_html": "<b>Field Enterprises RPT-217, Retro 2\" Triangle Ring Pull</b>\r\n\r\n<p>\r\nThe Small Triangular Ring Pull is for use on small doors and drawers such as cabinets, on furniture, and sliding closet doors. It features a very easy screw-on installation. The triangle shape has a retro feel that is just lovely. The unusualness of the shape will surely be an attention catcher. Available in 5 finishes. \r\n</p>\r\n\r\n<p>\r\nAlso Available: <a href=\"/products/3-inch-triangular-ring-pull-field-enterprises-rpt-322\">Large Triangular Ring Pull</a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Triangular RPT217 Ring Pull:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Overall Height: 2\"</li>\r\n<li>Grip: 3/8\" square</li>\r\n<li>Projection: 7/8\"</li>\r\n<li>Mount Length: 1/2\" square</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "2 Inch Triangular Ring Pull, Field Enterprises RPT-217",
+                "description": "Field Enterprises RPT-217, Small Triangular Ring Pull -- The Small Triangular Ring Pull is for use on small doors and drawers such as cabinets, on furniture, and sliding closet doors. It features a very easy screw-on installation. The triangle shape has a retro feel that is just lovely. The unusualness of the shape will surely be an attention catcher. Available in 5 finishes.",
+                "keywords": "Small Triangular Ring Pulls, Field Enterprises RPT-217, Field Enterprises RPT217, Field Enterprises RPT 217, Small Triangle Solid Brass Ring Pulls, Field enterprise 2 inch triangular ring pulls, dresser drawer pulls, furniture ring pulls, closet door pulls, Retro 2 Inch Triangle Ring Pull"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Field Enterprises Cabinet Hardware",
+                    "sort": "8"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "880077",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "599819",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "591778",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "205118",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "445648",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "563664",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "41849",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "194877",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US3: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "legacy_product_id": "1078710",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:10:47.112025"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3 Inch Cup Pull, Amerock BP53010G10",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "AME-BP53010G10",
+            "mpn": "AME-BP53010G10",
+            "price": "3.43",
+            "compare_at_price": "4.29",
+            "contractor_price": "3.43",
+            "shipping_weight": "1.0",
+            "tags": [
+                "AME-BP53010G10",
+                "3 Inch Cup Pulls",
+                "Amerock BP53010G10",
+                "Cup Cabinet Pulls",
+                "Amerock Cup Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AME-BP53010G10-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AME-BP53010G10-525.jpg?v=1716428098"
+        },
+        "text": {
+            "description_html": "<b>Amerock BP53010G10, Cup Cabinet Pull</b>\r\n\r\n<p>\r\nThis 3 Inch Cup Pull is great for drawers, furniture, or cabinet doors. The Cup Cabinet Pull has a total length of 3-7/16 inches and 3 inch center to center mounting. \r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AME-BP53010G10-specifications.gif?v=1704442294\" width=\"600\" height=\"202\" border=\"0\" alt=\"Amerock BP53010G10 Size\">\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> for the Amerock Cup Cabinet Pull:\r\n<ul>\r\n<li>Material: Zinc</li>\r\n<li>Total Length: 3-7/16\"</li>\r\n<li>Total Height: 1-5/8\"</li>\r\n<li>Total Projection: 1\"</li>\r\n<li>Mounting Hole Centers: 3\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "3 Inch Cup Pull",
+                "description": "This 3 Inch Cup Pull is great for drawers, furniture, or cabinet doors. The Cup Cabinet Pull has a total length of 3-7/16 inches and 3 inch center to center mounting.",
+                "keywords": "AME-BP53010G10, 3 Inch Cup Pulls, Amerock BP53010G10, Cup Cabinet Pulls, Amerock Cup Cabinet Pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Zinc"
+                },
+                {
+                    "key": "Total Length",
+                    "value": "3-7/16\""
+                },
+                {
+                    "key": "Total Height",
+                    "value": "1-5/8\""
+                },
+                {
+                    "key": "Total Projection",
+                    "value": "1\""
+                },
+                {
+                    "key": "Mounting Hole Centers",
+                    "value": "3\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Amerock",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "261986",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "600094",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "7351",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "7338",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Material: Zinc",
+                "Total Length: 3-7/16\"",
+                "Total Height: 1-5/8\"",
+                "Total Projection: 1\"",
+                "Mounting Hole Centers: 3\"",
+                "Select Finish: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

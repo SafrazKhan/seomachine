@@ -1,0 +1,91 @@
+{
+    "legacy_product_id": "827547",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Rod for LCN 4622 Door Closer Arm, LCN 914079",
+            "vendor": "LCN",
+            "status": "ARCHIVED",
+            "sku": "LCN-914079",
+            "mpn": "LCN-914079",
+            "price": "69.6",
+            "compare_at_price": "83.5",
+            "contractor_price": "69.6",
+            "shipping_weight": "1.0",
+            "tags": [
+                "LCN 4622 Closer Arm Rods",
+                "Rod for LCN 4622 Door Closer Arm",
+                "LCN 914079",
+                "LCN-914079"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LCN-914079-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LCN-914079-525.jpg?v=1716425895"
+        },
+        "text": {
+            "description_html": "<b>LCN 914079AND, LCN 4622 Closer Arm Rod</b>\r\n\r\n<p>\r\nThis is a rod for a LCN 4622 Door Closer Arm. Non-handed.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i> Special Order may take 3-4 weeks to ship. <b>NOT Returnable.</b> \r\n</p>",
+            "seo": {
+                "title": "Rod for LCN 4622 Door Closer Arm",
+                "description": "This is a rod for a LCN 4622 Door Closer Arm. Non-handed.",
+                "keywords": "LCN 4622 Closer Arm Rods, Rod for LCN 4622 Door Closer Arm, LCN 914079, LCN-914079,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closer Parts",
+                    "sort": "101"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "221512",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "180802",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "15351",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "71772",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "140413",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: AND - Anodized Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AND - Anodized Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

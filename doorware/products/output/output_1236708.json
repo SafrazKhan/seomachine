@@ -1,0 +1,128 @@
+{
+    "legacy_product_id": "1236708",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Kwikset Pocket Door Privacy Lock Latch, Kwikset 335-LATCH",
+            "vendor": "Kwikset",
+            "status": "ACTIVE",
+            "sku": "KWI-335-LATCH",
+            "mpn": "KWI-335-LATCH",
+            "price": "12.49",
+            "compare_at_price": "15.6",
+            "contractor_price": "12.49",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Kwikset Pocket Door Privacy Lock Latch",
+                "Kwikset 335-LATCH",
+                "pocket door latch",
+                "kwikset pocket door privacy latch",
+                "Kwikset replacement latch"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/KWI-335-LATCH-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/KWI-335-LATCH-525.jpg?v=1769480074"
+        },
+        "text": {
+            "description_html": "<b>Kwikset 335-LATCH, Kwikset Pocket Door Privacy Lock Latch</b> \r\n\r\n<p>\r\nThe Kwikset Pocket Door Privacy Latch is a replacement latch for use with Kwikset round or square pocket door locks.  It includes a pop out edge pull integrated into the latch bolt and a round corner face plate. \r\n</p>\r\n<p>\r\nReplacement latch for <a href=\"/products/round-pocket-door-lock-privacy-kwikset-335\"><b>Kwikset Round Privacy Pocket Lock </b></a> and <a href=\"/products/square-pocket-door-privacy-set-kwikset-335-sqt\"><b>Kwikset Square Privacy Pocket Lock </b></a>.\r\n</p>\r\n<p>\r\n<b>Features and Specifications</b> of the Kwikset Pocket Door Privacy Lock Replacement Latch:\r\n<ul>\r\n<li>Faceplate: Round Corner</li>\r\n<li>Backset: 2-3/8\"</li>\r\n<li>Edge Bore: 1\" Diameter</li>\r\n<li>Includes finish matched faceplate and installation screws</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Kwikset Pocket Door Privacy Lock Latch, Kwikset 335-LATCH",
+                "description": "The Kwikset Pocket Door Privacy Latch is for use with Kwikset Round or Square Pocket Door Locks.  It includes a pop out edge pull integrated into the latch bolt and a round corner face plate.",
+                "keywords": "Kwikset Pocket Door Privacy Lock Latch, Kwikset 335-LATCH, pocket door latch, kwikset pocket door privacy latch, Kwikset replacement latch"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Kwikset Parts",
+                    "sort": "3"
+                },
+                {
+                    "name": "Kwikset Locks",
+                    "sort": "16"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1236710",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "10503",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "10491",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1060484",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1060468",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: KWI-335-LATCH-15: Satin Nickel",
+                "Select Finish: KWI-335-LATCH-11P: Venetian Bronze",
+                "Select Finish: KWI-335-LATCH-26D: Satin Chrome",
+                "Select Finish: KWI-335-LATCH-32D: Satin Stainless Steel",
+                "Select Finish: KWI-335-LATCH-514: Iron Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "KWI-335-LATCH-15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KWI-335-LATCH-11P: Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KWI-335-LATCH-26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KWI-335-LATCH-32D: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KWI-335-LATCH-514: Iron Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

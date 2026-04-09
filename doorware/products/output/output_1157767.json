@@ -1,0 +1,133 @@
+{
+    "legacy_product_id": "1157767",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3 Inch Grace Cabinet Pull, MNG 832",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "MNG-832",
+            "mpn": "MNG-832",
+            "price": "12.09",
+            "compare_at_price": "16.12",
+            "contractor_price": "12.09",
+            "shipping_weight": "1.0",
+            "tags": [
+                "3 Inch Grace Cabinet Pulls",
+                "Grace 3 Inch Cabinet Pulls",
+                "Grace Cabinet Pulls",
+                "Grace 3 Inch Pulls",
+                "traditional cabinet hardware",
+                "transitional cabinet hardware",
+                "MNG-832",
+                "MNG 832",
+                "MNG-83228 oil rubbed bronze cabinet pulls",
+                "MNG 83228 satin nickel cabinet pulls",
+                "MNG-83213",
+                "MNG 83213",
+                "MNG-83214",
+                "MNG 83214 polished nickel cabinet pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MNG-832-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-832-525.jpg?v=1716428561"
+        },
+        "text": {
+            "description_html": "<b>MNG 832, Grace 3 Inch Cabinet Pull</b>\r\n\r\n<p>\r\nThe 3 Inch Grace Cabinet Pull is a lifestyle statement. This transitional cabinet hardware is modern and classic at the same time. It is this timelessness that makes The Grace Collection by MNG Hardware a top choice among designers. The Grace 3 Inch Cabinet Pull is available in the top finish colors for kitchen remodels. \r\n</p>\r\n\r\n<p>\r\nThis cabinet pull is part of the <a href=\"//search?type=product&q=MNG+Grace\">MNG Grace Collection</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the MNG 832 Grace 3 Inch Cabinet Pull:\r\n<ul>\r\n<li>Base Material: Zinc </li>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 3-3/4\"</li>\r\n<li>Width: 5/8\"</li>\r\n<li>Projection: 1\"</li>\r\n<li>Packaged with 1\" long #8-32 screws and 1-1/2\"  long #8-32 screws.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i> \r\n</p>",
+            "seo": {
+                "title": "3 Inch Grace Cabinet Pull",
+                "description": "The 3 Inch Grace Cabinet Pull is a lifestyle statement. This transitional cabinet hardware is modern and classic at the same time. It is this timelessness that makes The Grace Collection by MNG Hardware a top choice among designers. The Grace 3 Inch Cabinet Pull is available in the top finish colors for kitchen remodels.",
+                "keywords": "3 Inch Grace Cabinet Pulls, Grace 3 Inch Cabinet Pulls, Grace Cabinet Pulls, Grace 3 Inch Pulls, traditional cabinet hardware, transitional cabinet hardware, MNG-832, MNG 832, MNG-83228 oil rubbed bronze cabinet pulls, MNG 83228 satin nickel cabinet pulls, MNG-83213, MNG 83213, MNG-83214, MNG 83214 polished nickel cabinet pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "1"
+                },
+                {
+                    "name": "MNG Cabinet Hardware",
+                    "sort": "25"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1157748",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1154786",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "261984",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "566462",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "679863",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "291119",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "240342",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "1044980",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MNG-83213: Oil Rubbed Bronze",
+                "Select Finish: MNG-83228: Satin Nickel",
+                "Select Finish: MNG-83214: Polished Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MNG-83213: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-83213-SM1.jpg?v=1774582390",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-83213-LG.jpg?v=1711366644"
+                },
+                {
+                    "value": "MNG-83228: Satin Nickel",
+                    "price_impact": 0.64,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-83228-SM1.jpg?v=1774582393",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-83228-LG.jpg?v=1711366644"
+                },
+                {
+                    "value": "MNG-83214: Polished Nickel",
+                    "price_impact": 1.63,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-83214-SM1.jpg?v=1774582396",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-83214-LG.jpg?v=1711366645"
+                }
+            ]
+        }
+    ]
+}

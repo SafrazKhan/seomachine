@@ -1,0 +1,116 @@
+{
+    "legacy_product_id": "368924",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "2-1/8 Bore Hole Filler Plate, Don-Jo PDF-161",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "DJO-PDF-161",
+            "mpn": "DJO-PDF-161",
+            "price": "9.6",
+            "compare_at_price": "12.0",
+            "contractor_price": "8.64",
+            "shipping_weight": "0.5",
+            "tags": [
+                "DJO-PDF-161-PC 2-1/8 inch Bore Hole Filler Plates",
+                "Don-Jo PDF-161-PC door Hole Filler Plates",
+                "fix door holes",
+                "PDF-161-DU panic device hole plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-PDF-161_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-PDF-161_525.jpg?v=1716423435"
+        },
+        "text": {
+            "description_html": "<b>2-1/8\" Bore Hole Filler Plate</b>\r\n\r\n<p>\r\nThis filler plate is 2-5/8\" diameter and covers a standard 2-1/8\" bore hole. The inside plate is cut for use with a <a href=\"/collections/panic-devices\"><b>panic device</b></a>. Adjustable for doors up to 2-1/4\" thick.\r\n</p>\r\n\r\n<p>\r\nAlso available: <a href=\"/products/2-1-8-bore-hole-filler-plate-don-jo-bf-161\"><b>Don-Jo BF-161 Filler Plate</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Don-Jo PDF-161 Filler Plate:\r\n<ul>\r\n<li>Plate Outer Diameter: 2-5/8\"</li>\r\n<li>Plate Thickness: .056\"</li>\r\n<li>Maximum Door Thickness: 2-1/4\"</li>\r\n<li>Material: Steel</li>\r\n\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold Individually. </b>\r\n</p>",
+            "seo": {
+                "title": "2-1/8 Bore Hole Filler Plate, Don-Jo PDF-161",
+                "description": "Don-Jo PDF-161-PC This filler plate is 2-5/8 inch diameter and covers a standard 2-1/8 inch bore hole. Inside plate is cut for use with panic devices. Adjustable for doors up to 2-1/4 inches thick.",
+                "keywords": "DJO-PDF-161-PC 2-1/8 inch Bore Hole Filler Plates, Don-Jo PDF-161-PC door Hole Filler Plates, fix door holes, PDF-161-DU panic device hole plates,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Outer Diameter",
+                    "value": "2-5/8\""
+                },
+                {
+                    "key": "Plate Thickness",
+                    "value": ".056\""
+                },
+                {
+                    "key": "Maximum Door Thickness",
+                    "value": "2-1/4\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Steel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Latch Conversion and Filler Plates",
+                    "sort": "3"
+                },
+                {
+                    "name": "Door Latch Conversion and Filler Plates",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "368922",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "353918",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "239752",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Plate Outer Diameter: 2-5/8\"",
+                "Plate Thickness: .056\"",
+                "Maximum Door Thickness: 2-1/4\"",
+                "Material: Steel",
+                "Select Finish: PC: Primer",
+                "Select Finish: DU: Duro (Dark Bronze)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PC: Primer",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DU: Duro (Dark Bronze)",
+                    "price_impact": 2.7,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

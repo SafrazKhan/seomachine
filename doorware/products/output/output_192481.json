@@ -1,0 +1,129 @@
+{
+    "legacy_product_id": "192481",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "15 Inch Stainless Steel Appliance Pull, Omnia AP-726/300",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "OMN-AP-726/300",
+            "mpn": "OMN-AP-726/300",
+            "price": "400.4",
+            "compare_at_price": "500.5",
+            "contractor_price": "380.38",
+            "shipping_weight": "2.0",
+            "tags": [
+                "OMN-AP-726/300",
+                "Omnia AP-726/300 15-Inch Stainless Steel Appliance Pull",
+                "Omnia 726/300 15 Inch Refrigerator Door Pulls",
+                "11-3/4 inch Center to Center Hole Spacing",
+                "stainless refrigerator door pulls",
+                "refrigerator door handles",
+                "danze",
+                "Modern Curvy Appliance Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omnia-726-pull_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/omnia-726-pull_525.jpg?v=1716421859"
+        },
+        "text": {
+            "description_html": "<b>Omnia 726/300, 15 Inch Refrigerator Door Pull</b>\r\n\r\n<p>\r\nThis contemporary, contoured appliance door pull is crafted from high grade solid stainless steel. It is available in either a brushed or polished finish. The 15 Inch Stainless Steel Appliance Pull is not just for refrigerators, it would look great on your oven or dishwasher too! It has a 14-15/16 inch overall length with a 11-3/4 inch center to center.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Modern Curvy Appliance Pull:\r\n<ul>\r\n<li>Overall Length: 14-15/16\"</li>\r\n<li>Center to Center Mount: 11-3/4\"</li>\r\n<li>Projection: 2-3/4\"</li>\r\n<li>Solid Stainless Steel</li>\r\n</ul>\r\n</p>\r\n\r\n<p>Available in <b>US32D - Brushed Stainless Steel</b> or \r\n<b>US32 - Polished Stainless Steel</b> finish.\r\n</p>\r\n\r\n<p>Packaged with mounting screws for a refrigerator/appliance door panel.</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "15 Inch Stainless Steel Appliance Pull, Omnia AP-726/300",
+                "description": "Omnia 726/300, 15-Inch Stainless Steel Appliance Pull - This contemporary, contoured appliance door pull is crafted from high grade solid stainless steel. It is available in either a brushed or polished finish. The 15 Inch Stainless Steel Appliance Pull is not just for refrigerators, it would look great on your oven or dishwasher too! It has a 14-15/16 inch overall length with a 11-3/4 inch center to center.\r\n",
+                "keywords": "OMN-AP-726/300, Omnia AP-726/300 15-Inch Stainless Steel Appliance Pull, Omnia 726/300 15 Inch Refrigerator Door Pulls, 11-3/4 inch Center to Center Hole Spacing, stainless refrigerator door pulls, refrigerator door handles, danze, Modern Curvy Appliance Pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Overall Length",
+                    "value": "14-15/16\""
+                },
+                {
+                    "key": "Center to Center Mount",
+                    "value": "11-3/4\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "2-3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "152"
+                },
+                {
+                    "name": "Appliance Pulls",
+                    "sort": "77"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "192454",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "192871",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "192866",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "192864",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "228664",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "192859",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Overall Length: 14-15/16\"",
+                "Center to Center Mount: 11-3/4\"",
+                "Projection: 2-3/4\"",
+                "Select Finish: OMN-726/300-US32D - Brushed Stainless Steel",
+                "Select Finish: OMN-726/300-US32 - Polished Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-726/300-US32D - Brushed Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-726/300-US32D"
+                },
+                {
+                    "value": "OMN-726/300-US32 - Polished Stainless Steel",
+                    "price_impact": 59.92,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-726/300-US32"
+                }
+            ]
+        }
+    ]
+}

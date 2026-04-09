@@ -1,0 +1,116 @@
+{
+    "legacy_product_id": "630133",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Blue Ridge Toilet Paper Holder, Fusion PH-T7",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-PH-T7",
+            "mpn": "FUS-PH-T7",
+            "price": "109.0",
+            "compare_at_price": "109.0",
+            "contractor_price": "81.75",
+            "shipping_weight": "4.0",
+            "tags": [
+                "Fusion PH-T7",
+                "American Relic Series Blue Ridge Toilet Tissue Wall Mounts",
+                "Blue Ridge Toilet Paper Holders",
+                "Blue Ridge American Relic Toilet Paper Holders",
+                "FUS-PH-T7",
+                "toilet paper holders",
+                "toilet paper roll holders",
+                "bathroom accessories",
+                "traditional bathroom toilet paper holders",
+                "classic bathroom toilet paper holders",
+                "toilet tissue holders",
+                "Fusion PH",
+                "Fusion T7"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-PH-T7-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-PH-T7-525.jpg?v=1711365514"
+        },
+        "text": {
+            "description_html": "<b>Fusion PH-T7, American Relic Series Blue Ridge Toilet Tissue Wall Mount</b>\r\n\r\n<p>\r\nWith its rustic style and beautiful, vintage-looking finishes, the Blue Ridge Toilet Paper Holder is perfect for cabins located in the mountain range after which it is named. But this rural-inspired toilet tissue holder is not only at home in the deep woods, as part of Fusion's American Relic Bath Accessory Line, its quint elegance is great for period-styled homes anywhere. It is easy to install and comes with all the necessary hardware. This  PH-T7 Single Post Paper Holder is available in antique relic pewter, medium relic bronze, and dark rustic bronze finishes.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/blue-ridge-hand-towel-ring-fusion-tr-t7\"><b>Fusion TR-T7 Blue Ridge Towel Ring</b></a>, \r\n<a href=\"/products/blue-ridge-towel-bar-fusion-tb-t7\"><b>Fusion TB-T7  Blue Ridge Towel Bar</b></a>, \r\nand <a href=\"/products/blue-ridge-robe-hook-fusion-rh-t7\"><b>Fusion RH-T7 Blue Ridge Robe Hook</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Fusion Blue Ridge Trim Paper Holder:\r\n<ul>\r\n<li>Mount Width: 2-3/4\"</li>\r\n<li>Mount Length: 4-1/4\"</li>\r\n<li>Reversible to hang in either direction.</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Blue Ridge Toilet Paper Holder, Fusion PH-T7",
+                "description": "Fusion PH-T7, Blue Ridge Toilet Paper Holder - With its rustic style and beautiful, vintage-looking finishes, the Blue Ridge Toilet Paper Holder is perfect for cabins located in the mountain range after which it is named. But this rural-inspired toilet tissue holder is not only at home in the deep woods, as part of Fusion's American Relic Bath Accessory Line, its quint elegance is great for period-styled homes anywhere. It is easy to install and comes with all the necessary hardware. This  PH-T7 Single Post Paper Holder  is available in antique relic pewter, medium relic bronze, and dark rustic bronze finishes.",
+                "keywords": "Fusion PH-T7, American Relic Series Blue Ridge Toilet Tissue Wall Mounts, Blue Ridge Toilet Paper Holders, Blue Ridge American Relic Toilet Paper Holders, FUS-PH-T7, toilet paper holders, toilet paper roll holders, bathroom accessories, traditional bathroom toilet paper holders, classic bathroom toilet paper holders, toilet tissue holders, Fusion PH, Fusion T7,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "566851",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "29684",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "303694",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "562087",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "319971",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: ARP - Antique Relic Pewter",
+                "Select Finish: MRB - Medium Relic Bronze",
+                "Select Finish: DRB - Dark Relic Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ARP - Antique Relic Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MRB - Medium Relic Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DRB - Dark Relic Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

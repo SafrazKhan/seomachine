@@ -1,0 +1,132 @@
+{
+    "legacy_product_id": "1271718",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Double Acting Door Spring, McKinney 451",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "MCK-451",
+            "mpn": "MCK-451",
+            "price": "30.0",
+            "compare_at_price": "30.0",
+            "contractor_price": "30.0",
+            "shipping_weight": "1.2",
+            "tags": [
+                "MCK-451",
+                "MCK-452",
+                "MCK-453",
+                "McKinney 451",
+                "McKinney 452",
+                "McKinney 453",
+                "Mc Kinney 451",
+                "Mc Kinney 452",
+                "Mc Kinney 453",
+                "gate closing springs",
+                "double acting door springs",
+                "double acting spring closer",
+                "9\" Double Acting Door Spring",
+                "11\" Double Acting Door Spring",
+                "13\" Double Acting Door Spring",
+                "Bommer Gate Springs",
+                "Bommer Auxiliary Springs",
+                "gate closers",
+                "springs for gates",
+                "closers gates",
+                "Door Springs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MCK-452-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MCK-452-525.jpg?v=1769481043"
+        },
+        "text": {
+            "description_html": "<b>McKinney 451 Double Acting Door Spring </b>\r\n\r\n<p>\r\nThis economical series of door springs is designed to be surface applied to the door and frame.  It is a simplified method of closing double acting doors (doors that swing both directions) that doesn't require special knowledge or tools.  Adjustable tension allow you to determine how much closing force you apply (how hard/fast the door self closes) with no special adjustment tools required. Available in 9\", 11\", and 13\" overall lengths.\r\n\r\n</p>\r\n\r\n\r\n\r\n<p>\r\nIncludes (6) #12 x 1\" color matched wood screws for installation. \r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications:</b> for McKinney Double Acting Door Spring\r\n<ul>\r\n<li>Spring Material: Steel Wire</li>\r\n<li>Brackets: Wrought Steel</li>\r\n<li>Finish Color: Black Powder Coat</li>\r\n<li>Double Acting</li>\r\n<li>Adjustable Spring Tension</li>\r\n<li>Includes #12 x 1\" Wood Screws</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<b>Available in 3 Sizes:</b>\r\n<ul>\r\n<b>MCK-451:</b>\r\n<ul>\r\n<li>Overall Length: 9\"</li>\r\n<li>Spring Length: 5\"</li>\r\n</ul>\r\n<br>\r\n<b>MCK-452:</b>\r\n<ul>\r\n<li>Overall Length: 11\"</li>\r\n<li>Spring Length: 7\"</li>\r\n</ul>\r\n<br>\r\n<b>MCK-453:</b>\r\n<ul>\r\n<li>Overall Length: 13\"</li>\r\n<li>Spring Length: 9\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Double Acting Door Spring, McKinney 451",
+                "description": "McKinney's double acting door springs are surface applied to the door and the frame. Adjustable tension allow you to determine how much closing force you apply (how hard/fast the door self closes) with no special tools required.  Comes with durable black powder coat and includes finish matched installation screws.",
+                "keywords": "MCK-451, MCK-452, MCK-453, McKinney 451,  McKinney 452, McKinney 453, Mc Kinney 451, Mc Kinney 452, Mc Kinney 453, gate closing springs, double acting door springs, double acting spring closer, 9\" Double Acting Door Spring, 11\" Double Acting Door Spring, 13\" Double Acting Door Spring, Bommer Gate Springs, Bommer Auxiliary Springs, gate closers,  springs for gates, closers gates, Door Springs"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Door Closers",
+                    "sort": "96"
+                },
+                {
+                    "name": "McKinney",
+                    "sort": "6"
+                },
+                {
+                    "name": "Commercial Door Closers",
+                    "sort": "71"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "250130",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1165469",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "204552",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1187533",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1190932",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Overall Length: MCK-451: 9in. Overall Length",
+                "Select Overall Length: MCK-452: 11in. Overall Length",
+                "Select Overall Length: MCK-453: 13in. Overall Length"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Overall Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MCK-451: 9in. Overall Length",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MCK-452: 11in. Overall Length",
+                    "price_impact": 1.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MCK-453: 13in. Overall Length",
+                    "price_impact": 2.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

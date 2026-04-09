@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "1148485",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1-1/4 Inch Mortise Cylinder, Schlage 30001C626114",
+            "vendor": "Schlage",
+            "status": "ACTIVE",
+            "sku": "SCH-30001C626114",
+            "mpn": "SCH-30001C626114",
+            "price": "87.2",
+            "compare_at_price": "109.0",
+            "contractor_price": "82.84",
+            "shipping_weight": "1.0",
+            "tags": [
+                "SCH-30001C626-114 1-1/4 Inch Mortise Cylinder",
+                "Schlage 30001C626114 mortise Cylinders",
+                "1 1/4 Inch Mortise Cylinder Locks",
+                "panic device locks",
+                "Schlage alarm locks",
+                "Schlage mortise cylinders",
+                "30001C626114 Schlage locks",
+                "L style cam"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/schlage-30001C626114_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/schlage-30001C626114_525.jpg?v=1717106571"
+        },
+        "text": {
+            "description_html": "<b>Schlage 1-1/4\" Mortise Cylinder Lock</b>\r\n<p>\r\nSchlage 30001C626114 1-1/4\" length mortise cylinder with Schlage L style cam.  Used on Schlage mortise locks.\r\n</p>\r\n<!-- <p>\r\nFor use with <a href=\"/products/alarm-rim-device-detex-v40eb62836\"><b>DETEX V40EB62836 Alarm Exit Device</b></a>, <a href=\"/products/alarm-exit-device-pdq-6200r-al\"><b>PDQ 6200R-AL Alarm Exit Device</b></a>, <a href=\"/products/surface-mount-door-alarm-alarm-lock-pg21\"><b>Alarm Lock PG21 Door Alarm</b></a>, Monarch and Von Duprin panic devices. \r\n</p> -->\r\n<p>\r\n<b>Specifications:</b> for Schlage 30001C626114 Mortise Cylinder\r\n<ul>\r\n<li>Mortise Cylinder Length: 1-1/4\"</li>\r\n<li>Cam: L Style</li>\r\n<li>Cylinder Diameter: Standard 1-5/32\" Diameter</li>\r\n<li>Cylinder: 6-pin Schlage \"C\" Keyway</li>\r\n<li>Finish: Brushed Chrome</li>\r\n</ul>\r\n</p>\r\n<br>",
+            "seo": {
+                "title": "1-1/4 Inch Mortise Cylinder, Schlage 30001C626114",
+                "description": "Schlage 30001C626114 1-1/4 inch length mortise cylinder with Standard L style cam.  Used on Schlage mortise locks.",
+                "keywords": "SCH-30001C626-114 1-1/4 Inch Mortise Cylinder, Schlage 30001C626114 mortise Cylinders, 1 1/4 Inch Mortise Cylinder Locks, panic device locks, Schlage alarm locks, Schlage mortise cylinders, 30001C626114 Schlage locks, L style cam,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "829418",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "875999",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "332648",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "454732",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Keying: I only ordered one",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I only ordered one",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "legacy_product_id": "552523",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Southwest Flower Cabinet Knob, RK International CK-206",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-206",
+            "mpn": "RKI-CK-206",
+            "price": "12.99",
+            "compare_at_price": "15.18",
+            "contractor_price": "12.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Floral Southwest Cabinet Hardware",
+                "Floral Southwest Cabinet Knobs",
+                "Southwest Flower Cabinet Knobs",
+                "RK International CK-206",
+                "RKI-CK-206",
+                "Flowery Ornate Knob",
+                "flower cabinet pull",
+                "southwest decor"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-206-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-206-525.jpg?v=1716424383"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-206, Floral Southwest Cabinet Knob</b>\r\n\r\n<p>\r\nThe Southwest Flower Cabinet Knob features geometric shapes that make-up and flatter the floral design in the center. The interesting combination of shapes is aesthetically pleasing to the eye. It is the perfect accent to almost any ranch or southwest style home. Available in 6 finishes.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching:<a href=\"/products/southwest-flower-with-square-pattern-cabinet-pull-rk-international-cp-406\"><b>CP-406 Southwest Flower Cabinet Pull</b></a> and <a href=\"/products/southwest-flower-drop-pull-rk-international-cp-864\"><b>CP-864 Southwest Flower Drop Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-206 Flower Cabinet Pull:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/norton-closer-arms.jpg?v=1704354564\" width=\"599\" height=\"123\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Southwest Flower Cabinet Knob",
+                "description": "RK International CK-206, Southwest Flower Cabinet Knob - The Southwest Flower Cabinet Knob features geometric shapes that make-up and flatter the floral design in the center. The interesting combination of shapes is aesthetically pleasing to the eye. It is the perfect accent to almost any ranch or southwest style home. Available in 6 finishes.",
+                "keywords": "Floral Southwest Cabinet Hardware, Floral Southwest Cabinet Knobs, Southwest Flower Cabinet Knobs, RK International CK-206, RKI-CK-206, Flowery Ornate Knob, flower cabinet pull, southwest decor,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "1"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "156897",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "901015",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "876443",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "726418",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "216599",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "565581",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "569872",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: B: Polished Brass",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

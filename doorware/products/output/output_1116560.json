@@ -1,0 +1,140 @@
+{
+    "legacy_product_id": "1116560",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Modern 24 Inch Stainless Steel Towel Bar, Deltana MM2003/24",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-MM2003/24",
+            "mpn": "DEL-MM2003/24",
+            "price": "84.53",
+            "compare_at_price": "112.7",
+            "contractor_price": "80.3",
+            "shipping_weight": "3.0",
+            "tags": [
+                "DEL-MM2003/24",
+                "deltana MM2003/24",
+                "deltana MM 2003/24",
+                "Deltana towel bars",
+                "stainless steel towel bars",
+                "bathroom accessories",
+                "deltana MM series",
+                "modern bathroom hardware",
+                "modern bathroom towel bars",
+                "contemporary bathroom towel bars",
+                "hand towel bars",
+                "bathroom towel hooks",
+                "bath towel bars",
+                "kitchen hand towel bars",
+                "deltana modern MM series",
+                "Modern Series 24 inch Towel Bars",
+                "Modern 24 Inch Stainless Steel Towel Bars"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-MM2003-24-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-MM2003-24-525.jpg?v=1716428281"
+        },
+        "text": {
+            "description_html": "<b>Deltana MM2003/24, Modern Series 24\" Towel Bar</b>\r\n\r\n<p>\r\nThe Modern 24 Inch Stainless Steel Towel Bar is available in four contemporary finish colors that make it a great choice for chic bathroom remodels. This Modern Series 24 Inch Towel Bar is easy to install and comes packaged with the necessary mounting hardware. This bath towel bar is made out of stainless steel for long-lasting durability against steamy bathroom environments. \r\n</p>\r\n\r\n<p>\r\nShop more of the <a href=\"/search?type=product&q=Deltana MM Series\"><b>Deltana MM Series Bathroom Accessories</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the 24 Inch Bathroom Towel Bar:\r\n<ul>\r\n<li>Material: Stainless Steel</li>\r\n<li>Center to Center Length: 23-5/8\"</li>\r\n<li>Bar Length: 24\"</li>\r\n<li>Bar Thickness: 3/8\" x 1-3/16\"</li>\r\n<li>Rosette projection: 7/16\"</li>\r\n<li>Overall Projection: 3-3/16\"</li>\r\n<li>Mount Width: 2-3/16\" square</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-MM2003-24-Specifications.pdf?v=1704262429\" target=\"new\"><b>Deltana MM2003/24 24\" Towel Bar Specifications (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Sold Individually.</b> Package includes: 1 towel bar, mounting screw cover, and all necessary mounting screws.\r\n</p>\r\n\r\n<p>\r\n<i>This is a Limited Series. <b>Limited Quantities Available</b></i>\r\n</p>",
+            "seo": {
+                "title": "Modern 24 Inch Stainless Steel Towel Bar",
+                "description": "The Modern 24 Inch Stainless Steel Towel Bar is available in four contemporary finish colors that make it a great choice for chic bathroom remodels. This Modern Series 24 Inch Towel Bar is easy to install and comes packaged with the necessary mounting hardware. This bath towel bar is made out of stainless steel for long-lasting durability against steamy bathroom environments.",
+                "keywords": "DEL-MM2003/24, deltana MM2003/24, deltana MM 2003/24, Deltana towel bars, stainless steel towel bars, bathroom accessories, deltana MM series, modern bathroom hardware, modern bathroom towel bars, contemporary bathroom towel bars, hand towel bars, bathroom towel hooks, bath towel bars, kitchen hand towel bars, deltana modern MM series, Modern Series 24 inch Towel Bars, Modern 24 Inch Stainless Steel Towel Bars,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Deltana MM Series",
+                    "sort": "4"
+                },
+                {
+                    "name": "Bathroom Hardware",
+                    "sort": "31"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "383604",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1036608",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "405212",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "405898",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "378441",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "383978",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "916755",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US15: Stain Nickel",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: US19: Matte Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Stain Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

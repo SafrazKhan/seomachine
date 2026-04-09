@@ -1,0 +1,166 @@
+{
+    "legacy_product_id": "43280",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Brass Beaded Cabinet Pull, Omnia 9441/89",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9441/89",
+            "mpn": "OMN-9441/89",
+            "price": "13.43",
+            "compare_at_price": "17.9",
+            "contractor_price": "12.75",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9441/89 beaded cabinet pulls",
+                "solid brass cabinet pulls",
+                "fancy kitchen cabinet pulls",
+                "omnia cabinet pulls",
+                "omn-9441/89",
+                "beaded brass pulls",
+                "finish kitchen cabinet pulls Omnia 9441/89",
+                "solid brass cabinet drawer pulls",
+                "Omnia 9441/89 drawer knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-9441-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-9441-525.jpg?v=1711365091"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9441/89, Solid Brass Beaded Cabinet Pull</b>\r\n\r\n<p>\r\nThis painstakingly crafted cabinet pull, made by Omnia, is constructed of solid brass. Sophisticated, the beaded design will not go unnoticed in your home. Each piece is available in 6 finishes. This grants the Solid Brass Beaded Cabinet Pull a richness that is both elegant and timeless.\r\n</p>\r\n\r\n<p>\r\nAlso available: <a href=\"#N/A\"><b>Beaded Cabinet Knob in Vintage Finishes</b></a>\r\n</p>\r\n\r\n<p>\r\n<p>\r\n<b>Specifications</b> of the Beaded Cabinet Drawer Pull:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Length center to center: 3-1/2\"</li>\r\n<li>Projection: 1-3/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p align=\"left\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/made-usa-logo.jpg?v=1704354497\" width=\"515\" height=\"137\" alt=\"Omnia Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "Solid Brass Beaded Cabinet Pull",
+                "description": "This painstakingly crafted cabinet pull, made by Omnia, is constructed of solid brass. Sophisticated, the beaded design will not go unnoticed in your home. Each piece is available in 6 finishes. This grants the Solid Brass Beaded Cabinet Pull a richness that is both elegant and timeless.\r\n",
+                "keywords": "omnia 9441/89 beaded cabinet pulls, solid brass cabinet pulls, fancy kitchen cabinet pulls, omnia cabinet pulls, omn-9441/89, beaded brass pulls, finish kitchen cabinet pulls Omnia 9441/89, solid brass cabinet drawer pulls, Omnia 9441/89 drawer knobs,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Length center to center",
+                    "value": "3-1/2\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-3/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "233"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "237960",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "41068",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "37899",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "41466",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "43031",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "42914",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "255400",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Length center to center: 3-1/2\"",
+                "Projection: 1-3/8\"",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: SB: Shaded Bronze",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US10B: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US3"
+                },
+                {
+                    "value": "SB: Shaded Bronze",
+                    "price_impact": 0.53,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SB"
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.53,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26"
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.75,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US14"
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.75,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US15"
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.75,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US10B"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "legacy_product_id": "232083",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Schlage Key, Cut to Existing Code",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-Cut-Key",
+            "mpn": "SCH-Cut-Key",
+            "price": "10.0",
+            "compare_at_price": "10.0",
+            "contractor_price": "10.0",
+            "shipping_weight": "0.05",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Extra Cut Keys</b>\r\n<p>Cut keys for Schlage locks</p>",
+            "seo": {
+                "title": "Schlage Key, Cut to Existing Code",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Misc-Discontinued-Items",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

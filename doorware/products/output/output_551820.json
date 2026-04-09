@@ -1,0 +1,120 @@
+{
+    "legacy_product_id": "551820",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Flower Cabinet Knob, RK International CK-182",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-182",
+            "mpn": "RKI-CK-182",
+            "price": "10.99",
+            "compare_at_price": "13.42",
+            "contractor_price": "10.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Fancy Flower Cabinet Knob with Rope Details",
+                "Flower Cabinet Knobs",
+                "RKI-CK-182",
+                "RK International CK-182",
+                "floral cabinet knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-182-525 copy.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-182-525_20copy.jpg?v=1711365482"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-182, Fancy Flower Cabinet Knob with Rope Detail</b>\r\n\r\n<p>\r\nAvailable in polished brass, satin chrome, and oil rubbed bronze, the Flower Cabinet Knob is a beautiful way to add a classic elegance to your home. Every inch of the floral design is carefully crafted with an attention to detail. It comes packaged with all necessary mounting hardware.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching <a href=\"/products/3-inch-fancy-flower-cabinet-pull-rk-international-cp-82\"><b>CP-82 Flower Cabinet Pull</b></a> and\r\n<a href=\"/products/flower-knob-backplate-rk-international-bp-482\"><b>BP-482 Flower Cabinet Rose</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-182 Floral Cabinet Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 15/16\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Flower Cabinet Knob",
+                "description": "RK International CK-182, Flower Cabinet Knob - Available in polished brass, satin chrome, and oil rubbed bronze, the Flower Cabinet Knob is a beautiful way to add a classic elegance to your home. Every inch of the floral design is carefully crafted with an attention to detail. It comes packaged with all necessary mounting hardware.",
+                "keywords": "Fancy Flower Cabinet Knob with Rope Details, Flower Cabinet Knobs, RKI-CK-182, RK International CK-182, floral cabinet knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "4"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "205061",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "568912",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "41397",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "41271",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "568704",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "554088",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "37512",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: B: Polished Brass",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

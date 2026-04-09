@@ -1,0 +1,147 @@
+{
+    "legacy_product_id": "158648",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Heart Entrance Handle Deadbolt with Knob Latch Handleset, Acorn-ST1BI",
+            "vendor": "Acorn",
+            "status": "ARCHIVED",
+            "sku": "ACORN-ST1BI",
+            "mpn": "ACORN-ST1BI",
+            "price": "238.8",
+            "compare_at_price": "238.8",
+            "contractor_price": "238.8",
+            "shipping_weight": "10.0",
+            "tags": [
+                "ACORN-ST1BI",
+                "acorn ST1BI handle sets",
+                "heart shaped iron hardware",
+                "Smooth iron door handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ST1BI_5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ST1BI_5251.jpg?v=1717105627"
+        },
+        "text": {
+            "description_html": "<b>Acorn-ST1BI, Heart Shaped Smooth Iron Handle Set</b>\r\n<p>\r\nRustic style front door handle set with heart shaped ends. This set includes the deadbolt for a complete and matching kit.\r\n</p>\r\n<p><b>Smooth Iron</b> surface hardware is typical of early American styling, with a flat black appearance which simulates the hardware as it was originally forged.</p>\r\n<p>\r\n<b>Specifications</B> of Heart Style Deadbolt Handle set:\r\n<ul>\r\n<li>Handleset height: 11-1/2\"</li>\r\n<li>Handleset width: 3-1/8\"</li>\r\n<li>For 1-3/4\" Thick Doors</li>\r\n<li>Rose Diameter: 2-5/8\"</li>\r\n<li>Projection: 2-9/16\"</li>\r\n<li>Fits pre-drilled doors - 2-3/8\" crossbores, 15/16\" edgebores only </li>\r\n<li>Solid Brass Deadlock Cylinder with 1\" throw, Type C keyway.</li>\r\n<li>Reversible, Non-handed, for Right or Left hand doors.</li>\r\n<li>Finish: <b>Smooth Black Iron</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<br><br>\r\n<b>*This Item is Discontinued.</b>\r\n<br><br>\r\n</p>",
+            "seo": {
+                "title": "Heart Entrance Handle Deadbolt with Knob Latch Handleset, Acorn-ST1BI",
+                "description": "Acorn-ST1BI - A rustic style front door handleset with heart shaped styling. This set includes the deadbolt for a complete and matching kit.",
+                "keywords": "ACORN-ST1BI, acorn ST1BI handle sets, heart shaped iron hardware, Smooth iron door handles,"
+            },
+            "specifications": [
+                {
+                    "key": "Handleset height",
+                    "value": "11-1/2\""
+                },
+                {
+                    "key": "Handleset width",
+                    "value": "3-1/8\""
+                },
+                {
+                    "key": "Rose Diameter",
+                    "value": "2-5/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "2-9/16\""
+                },
+                {
+                    "key": "Finish",
+                    "value": "Smooth Black Iron"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Acorn Discontinued",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "30152",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "175226",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "30098",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "175200",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "175998",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "176003",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "189845",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "30145",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Handleset height: 11-1/2\"",
+                "Handleset width: 3-1/8\"",
+                "Rose Diameter: 2-5/8\"",
+                "Projection: 2-9/16\"",
+                "Finish: Smooth Black Iron",
+                "Keying: I Only Ordered One",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I Only Ordered One",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "keyed"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 10.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                }
+            ]
+        }
+    ]
+}

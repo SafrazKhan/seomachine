@@ -1,0 +1,155 @@
+{
+    "legacy_product_id": "1038343",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Freestone Finger Cabinet Pull, Emtek 86452",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-86452",
+            "mpn": "EMT-86452",
+            "price": "12.99",
+            "compare_at_price": "16.0",
+            "contractor_price": "12.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "EMT-86452 Freestone Cabinet Finger Pulls",
+                "Freestone Finger Cabinet Pulls",
+                "Emtek 86452",
+                "Emtek Freestone Finger Pulls",
+                "EMT 86452",
+                "modern cabinet hardware",
+                "contemporary cabinet hardware",
+                "Emtek Freestone Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86452-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86452-525.jpg?v=1716427840"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86452, Freestone Cabinet Finger Pull</b>\r\n\r\n<p>\r\nThe Freestone Finger Cabinet Pull is unique and eye-catching. This modern cabinet pull comes in several finish colors. It can be mounted vertically or horizontally. The Emtek Freestone Finger Pull comes packaged with mounting hardware. \r\n</p>\r\n\r\n\r\n\r\n<p>\r\nCheck out the entire <a href=\"//search?type=product&q=freestone\"><b>Emtek Freestone Collection</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Emtek Freestone Cabinet Pull:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n<li>Length: 1-7/8\"</li>\r\n<li>Mount Diameter: 7/8\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86452-specifications.pdf?v=1704262414\" target=\"new\"><b>Emtek Freestone Finger Pull Specifications (PDF)</b></a></li>\r\n\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-modern-5-Finishes.jpg?v=1704354501\" width=\"511\" height=\"111\" border=\"0\" alt=\"Emtek Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "Freestone Finger Cabinet Pull",
+                "description": "The Freestone Finger Cabinet Pull is unique and eye-catching. This modern cabinet pull comes in several finish colors. It can be mounted vertically or horizontally. The Emtek Freestone Finger Pull comes packaged with mounting hardware.",
+                "keywords": "EMT-86452 Freestone Cabinet Finger Pulls, Freestone Finger Cabinet Pulls, Emtek 86452, Emtek Freestone Finger Pulls, EMT 86452, modern cabinet hardware, contemporary cabinet hardware, Emtek Freestone Cabinet Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Cabinet Hardware",
+                    "sort": "85"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "925605",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1038314",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "43327",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "927713",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1002442",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "880142",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "952195",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "935828",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "1011167",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US4: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

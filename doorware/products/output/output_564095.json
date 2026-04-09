@@ -1,0 +1,137 @@
+{
+    "legacy_product_id": "564095",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Fancy Cabinet Pull, RK International CP-41",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CP-41",
+            "mpn": "RKI-CP-41",
+            "price": "14.99",
+            "compare_at_price": "18.04",
+            "contractor_price": "14.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Ornate Foot Cabinet Knobs",
+                "Fancy Cabinet Pulls",
+                "RK International CP-41",
+                "RKI-CP-41",
+                "fancy cabinet pulls",
+                "traditional cabinet pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CP-41-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CP-41-525.jpg?v=1716424552"
+        },
+        "text": {
+            "description_html": "<b>RK International CP-41, Ornate Mount Cabinet Knob</b>\r\n\r\n<p>\r\nAn easy way to add a little decorative pizzazz to your kitchen cabinets, the Fancy Cabinet Pull comes with the installation hardware. It is available in 6 fashionable finishes--some traditional to really bring out the ornateness of this cabinet door pull, and some more modern to push this 3 inch cabinet pull into a contemporary realm. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CP-41 3\" Ornate Foot Bow Pull:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 4-3/4\"</li>\r\n<li>Width: 15/16\"</li>\r\n<li>Projection: 1\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/nickel-dragonfly.jpg?v=1704354568\" width=\"514\" height=\"126\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Fancy Cabinet Pull",
+                "description": "RK International CP-41 Fancy Cabinet Pull - An easy way to add a little decorative pizzazz to your kitchen cabinets, the Fancy Cabinet Pull comes with the installation hardware. It is available in 6 fashionable finishes--some traditional to really bring out the ornateness of this cabinet door pull, and some more modern to push this 3 inch cabinet pull into a contemporary realm.",
+                "keywords": "Ornate Foot Cabinet Knobs, Fancy Cabinet Pulls, RK International CP-41, RKI-CP-41, fancy cabinet pulls, traditional cabinet pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Pulls and Flush Pulls",
+                    "sort": "4"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "42871",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "7430",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "41759",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "43356",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "41711",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: RB: Oil Rubbed Bronze",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: B: Polished Brass",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: DN: Distressed Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

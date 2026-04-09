@@ -1,0 +1,112 @@
+{
+    "legacy_product_id": "1117252",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "T-Bar Hold Open Arm, Deltana DCHA4041",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-DCHA4041",
+            "mpn": "DEL-DCHA4041",
+            "price": "96.6",
+            "compare_at_price": "120.75",
+            "contractor_price": "91.77",
+            "shipping_weight": "4.0",
+            "tags": [
+                "Deltana DCHA4041 Heavy Duty Hold Open Arms",
+                "T-Bar Hold Open Arms",
+                "Deltana DC40 Door Closers  Heavy Duty hold open arms",
+                "cush-n-stop arms",
+                "Global door controls door closers arms",
+                "T bar hold open arms",
+                "door closer hold open arms",
+                "global HOA-4300-CNS-AL",
+                "global HOA-4300-CNS-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/deltana-DCHA4041-arm_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/deltana-DCHA4041-arm_525.jpg?v=1716428291"
+        },
+        "text": {
+            "description_html": "<b>Heavy Duty Door Saver Hold Open Arm - Cush-N-Stop Arm</b>\r\n<p>\r\nT-Bar style Cush-N-Stop Hold Open arm for 4040 Series Style Closers. Fits <a href=\"/products/extra-heavy-duty-door-closer-deltana-dc40\"><b>Deltana DC40 Door Closers</b></a>. Can be used with any closer that has a  15mm Hexagon shaft (15 mm x 6 Sided).\r\n</p>\r\n<p><b>Parallel Arm Mount Only</b>\r\n</p>\r\n\r\n<p>Heavy duty rigid arm assembly and soffit plate with field reversible dead stop. \"T\" bar turn knob to activated or inactivate the hold open function. Packaged with mounting hardware.\r\n</p>\r\n<p>\r\n Available in 3 finishes of Aluminum, Dark Bronze  and Gold Painted.\r\n</p>",
+            "seo": {
+                "title": "T-Bar Hold Open Arm, Deltana DCHA4041",
+                "description": "Deltana DCHA4041 T-Bar style Cush-N-Stop Hold Open arm for 4040 Series Style Closers. Fits Deltana DC40 Door Closers.",
+                "keywords": "Deltana DCHA4041 Heavy Duty Hold Open Arms, T-Bar Hold Open Arms, Deltana DC40 Door Closers  Heavy Duty hold open arms, cush-n-stop arms, Global door controls door closers arms, T bar hold open arms, door closer hold open arms, global HOA-4300-CNS-AL, global HOA-4300-CNS-DU,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Deltana Door Closers",
+                    "sort": "21"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "222892",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "190259",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "221503",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "221494",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "804852",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: AL: Aluminum",
+                "Select Finish: DU: Dark Bronze",
+                "Select Finish: GOLD: Gold Paint"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GOLD: Gold Paint",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

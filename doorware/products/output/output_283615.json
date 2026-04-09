@@ -1,0 +1,103 @@
+{
+    "legacy_product_id": "283615",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:10:28.806292"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Latch for Omnia Stainless Steel Handlesets",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "OMN-0562M/Kxxx",
+            "mpn": "OMN-0562M/Kxxx",
+            "price": "44.0",
+            "compare_at_price": "55.0",
+            "contractor_price": "41.8",
+            "shipping_weight": "0.5",
+            "tags": [
+                "OMN-0562M/Kxxx Latch for Omnia Stainless Steel Handlesets",
+                "omnia 0562M/K238",
+                "omnia 0562M/K234",
+                "omn-0562M/K238",
+                "omn-0562M/K234",
+                "omnia urban latch",
+                "omnia metro latch",
+                "omnia door latches"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Door Latch for Omnia Stainless Steel Handlesets</b>\r\n<p>For use with <a href=\"/products/omnia-urban-single-cylinder-stainless-steel-handleset\">Omnia Urban Handleset</a> and <a href=\"/products/omnia-metro-single-cylinder-stainless-steel-handleset\">Omnia Metro Handleset</a> Only. \r\n</p>\r\n<p>\r\nPassage function latch with 8mm square drive hub.  27 degree quick rotation, self sprung knob strength latch. Optional 2-3/8\" or 2-3/4\" backsets.\r\n</p>\r\n<p>\r\n<b>*Note:</b> Replacement Latch Only (does NOT include faceplate, strike plate, screws...).\r\n</p>",
+            "seo": {
+                "title": "Latch for Omnia Stainless Steel Handlesets",
+                "description": "Door latch  for Omnia Stainless Steel Handlesets. For use with Omnia Urban and Metro single cylinder Handlesets.",
+                "keywords": "OMN-0562M/Kxxx Latch for Omnia Stainless Steel Handlesets, omnia 0562M/K238, omnia 0562M/K234, omn-0562M/K238, omn-0562M/K234, omnia urban latch, omnia metro latch, omnia door latches,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "227181",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "198616",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "204778",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "204786",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "227205",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Backset: 0562M/K238-26: 2-3/8in. Backset",
+                "Select Backset: 0562M/K234-26: 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "0562M/K238-26: 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "0562M/K234-26: 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

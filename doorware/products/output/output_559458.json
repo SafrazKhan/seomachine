@@ -1,0 +1,194 @@
+{
+    "legacy_product_id": "559458",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Melon Cabinet Knob, RK International CK-3249",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-3249",
+            "mpn": "RKI-CK-3249",
+            "price": "14.99",
+            "compare_at_price": "17.91",
+            "contractor_price": "14.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RK International CK-3249",
+                "RK International CK-3248",
+                "RKI-CK-3249",
+                "RKI-CK-3248",
+                "Melon Knobs",
+                "Melon Cabinet Knobs",
+                "ridged knobs",
+                "traditional cabinet hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-3249-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-3249-525.jpg?v=1716424470"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-3249, Melon Cabinet Knob With Button Center</b>\r\n\r\n<p>\r\nRK International's Melon Knob is available with either a 1-1/4 inch diameter or a 1-1/2 inch diameter. It features a classic design, but what sets this cabinet pull apart from similar shaped hardware is the wide array of finishes in which it is available (click picture to see them all). Each of the 9 finishes are beautiful and grant their own aura to this melon-shaped cabinet knob.\r\n</p>\r\n\r\n<p>\r\nAlso Available: <a href=\"/products/smooth-melon-cabinet-knob-rk-international-ck-3250\"><b>Melon Cabinet Knob With Smooth Center</b></a> and <a href=\"/products/half-melon-cup-pull-rk-international-cf-5251\"><b>Half Melon Cup Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-3249 Melon Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes</b>\r\n<ul>\r\n<b>RKI-CK-3249:</b>\r\n<ul>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n</ul>\r\n<br>\r\n<b>RKI-CK-3248:</b>\r\n<ul>\r\n<li>Diameter: 1-1/2\"</li>\r\n<li>Projection: 1-1/4\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Melon Cabinet Knob",
+                "description": "RK International CK-3249, Melon Cabinet Knob - RK International's Melon Knob is available with either a 1-1/4 inch diameter or a 1-1/2 inch diameter. It features a classic design, but what sets this cabinet pull apart from similar shaped hardware is the wide array of finishes in which it is available. Each of the 9 finishes are beautiful and grant their own aura to this melon-shaped cabinet knob.",
+                "keywords": "RK International CK-3249, RK International CK-3248, RKI-CK-3249, RKI-CK-3248, Melon Knobs, Melon Cabinet Knobs, ridged knobs, traditional cabinet hardware,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "9"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "552510",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "244058",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "13290",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "37815",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "41494",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "12646",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "551150",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Size: CK-3249: 1-1/4in. Diameter",
+                "Select Size: CK-3248: 1-1/2in. Diameter",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: AE: Antique English",
+                "Select Finish: T: Polished Brass",
+                "Select Finish: RB: Oil Rubbed Bronze",
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: C: Polished Chrome",
+                "Select Finish: BL: Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "CK-3249: 1-1/4in. Diameter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CK-3248: 1-1/2in. Diameter",
+                    "price_impact": 0.88,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "T: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "C: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BL: Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

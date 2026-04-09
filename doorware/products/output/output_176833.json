@@ -1,0 +1,88 @@
+{
+    "legacy_product_id": "176833",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Alarm Lock Door Alarm PG21MSS",
+            "vendor": "Alarm Lock",
+            "status": "ARCHIVED",
+            "sku": "PG21MSS",
+            "mpn": "PG21MSS",
+            "price": "232.0",
+            "compare_at_price": "290.0",
+            "contractor_price": "220.0",
+            "shipping_weight": "10.0",
+            "tags": [
+                "PG21MSS",
+                "Alarm Lock",
+                "Door Alarm",
+                "surface mounted alarm",
+                "door alarms"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PG21-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PG21-5251.jpg?v=1717105667"
+        },
+        "text": {
+            "description_html": "PG21MSS Alarm Lock Door Alarm<br>\r\n<br>\r\nAlways armed mode  when key is turned counter clockwise to the disarm position, the key cannot  be removed. To remove key, turn back to arm mode, thus keeping unit armed always. Standard security door alarm arming mode  when key is inserted turning counter clockwise will disarm and key can be removed. Turning key clockwise will arm and key can be removed<br>\r\n<br>\r\nMax-Flex Terminals, allowing for any or all of the following:<br>\r\n<br>\r\n<li>Continuous power with the addition of an external power supply</li> \r\n<li>Multiple door monitoring permitted with built-in external reed switches</li> \r\n <li>Security Door Lock and Alarm Status Indicator The LED will indicate RED when armed</li> \r\n<li>Entry Delay Time Options include 15 seconds, 1 minute 15 seconds and 3 minutes 15 seconds</li> \r\n<li>Sleek model design key-activated door alarm for use on standard size and narrow stile doors</li> \r\n<li>Unauthorized use of door causes alarm to sound and activates LED indicator</li> \r\n<li>Options include continuous alarm, minute shutdown with auto reset and exit/entry delay</li> \r\n<li>Uses standard mortise cylinder</li> \r\n<li>Tamper switch supervised</li> \r\n<li>For exterior key control, optional RIM cylinder CER-12345 may be used</li> \r\n<li>Metallic silver finish</li><br>\r\n<br>\r\n<b>Questions? Call Customer Service 1-954-776-5340<br>\r\n<br>",
+            "seo": {
+                "title": "Alarm Lock Door Alarm PG21MSS",
+                "description": "PG21MSS Alarm Lock Door Alarm. Always armed mode  when key is turned counter clockwise to the disarm position, the key cannot  be removed. To remove key, turn back to arm mode, thus keeping unit armed always. Standard security door alarm arming mode  when key is inserted turning counter clockwise will disarm and key can be removed. Turning key clockwise will arm and key can be removed",
+                "keywords": "PG21MSS, Alarm Lock, Door Alarm, surface mounted alarm, door alarms"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Alarm Lock",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Cylinder: CEM-12345 Mortise Cylinder US26D",
+                "Select  Cylinder: CER-12345 Outside Cylinder US26D"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Cylinder",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "CEM-12345 Mortise Cylinder US26D",
+                    "price_impact": 23.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "CEM-12345"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select  Cylinder",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "CER-12345 Outside Cylinder US26D",
+                    "price_impact": 23.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "CER-12345"
+                }
+            ]
+        }
+    ]
+}

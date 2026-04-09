@@ -1,0 +1,162 @@
+{
+    "legacy_product_id": "1179972",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hammered Cabinet Pull, Emtek 86046",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-86046",
+            "mpn": "EMT-86046",
+            "price": "19.99",
+            "compare_at_price": "25.0",
+            "contractor_price": "19.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "EMT-86046",
+                "EMT-86047",
+                "EMT-86048",
+                "Emtek 86046",
+                "Emtek 86047",
+                "Emtek 86048",
+                "Emtek Arts and Crafts Hammered Cabinet Pulls",
+                "Hammered Cabinet Pulls",
+                "Emtek Arts and Crafts Hammered Cabinet Pulls",
+                "Emtek Arts and Crafts Hammered Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86046-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86046-525.jpg?v=1716428804"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86046, Emtek Arts and Crafts Hammered Cabinet Pull</b>\r\n\r\n<p>\r\nThe Hammered Cabinet Pull is a modern Tuscan design perfect for those who want something different when it comes to kitchen hardware. The Emtek Arts and Crafts Hammered Cabinet Pull is available in 3 center to center lengths: 3 inch, 3-1/2 inch, and 4 inch. Choose from satin brass, oil rubbed bronze, and satin nickel finishes for this arts and crafts collection cabinet hardware. \r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: <a href=\"/products/hammered-cabinet-knob-emtek-86037\"><b>Hammered Cabinet Knob</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Emtek Arts and Crafts Hammered Pull:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Comes packaged with installation screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 3 Sizes:</b>\r\n<ul>\r\n<b>EMT-86046</b>\r\n<ul>\r\n<li>Length Center to Center: 3\"</li>\r\n<li>Total Length: 3-7/8\"</li>\r\n<li>Projection: 1\"</li>\r\n</ul>\r\n<br>\r\n<b>EMT-86047</b>\r\n<ul>\r\n<li>Length Center to Center: 3-1/2\"</li>\r\n<li>Total Length: 4-3/8\"</li>\r\n<li>Projection: 1\"</li>\r\n</ul>\r\n<br>\r\n<b>EMT-86048</b>\r\n<ul>\r\n<li>Length Center to Center: 4\"</li>\r\n<li>Total Length: 4-7/8\"</li>\r\n<li>Projection: 1\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-artsandcrafts-finish.jpg?v=1704354691\" width=\"345\" height=\"133\" border=\"0\" align=\"left\" alt=\"Emtek Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "Hammered Cabinet Pull",
+                "description": "The Hammered Cabinet Pull is a modern Tuscan design perfect for those who want something different when it comes to kitchen hardware. The Emtek Arts and Crafts Hammered Cabinet Pull is available in 3 center to center lengths: 3 inch, 3-1/2 inch, and 4 inch. Choose from satin brass, oil rubbed bronze, and satin nickel finishes for this arts and crafts collection cabinet hardware.",
+                "keywords": "EMT-86046, EMT-86047, EMT-86048, Emtek 86046, Emtek 86047, Emtek 86048, Emtek Arts and Crafts Hammered Cabinet Pulls, Hammered Cabinet Pulls, Emtek Arts and Crafts Hammered Cabinet Pulls, Emtek Arts and Crafts Hammered Pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Cabinet Hardware",
+                    "sort": "143"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1150248",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "724127",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "726580",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1168380",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "931598",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "1150242",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "589258",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "876443",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Select Size: EMT-86046: 3in. c.c.",
+                "Select Size: EMT-86047: 3-1/2in. c.c.",
+                "Select Size: EMT-86048: 4in. c.c.",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: US15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "EMT-86046: 3in. c.c.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "EMT-86047: 3-1/2in. c.c.",
+                    "price_impact": 1.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "EMT-86048: 4in. c.c.",
+                    "price_impact": 2.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

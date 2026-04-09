@@ -1,0 +1,161 @@
+{
+    "legacy_product_id": "13302",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Wire Cabinet Door Pulls, Hamilton DP-112",
+            "vendor": "Hamilton",
+            "status": "ARCHIVED",
+            "sku": "HAMI-DP-112",
+            "mpn": "HAMI-DP-112",
+            "price": "15.75",
+            "compare_at_price": "19.69",
+            "contractor_price": "15.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Hami-DP-112",
+                "hamilton DP-112 wire cabinet door pulls",
+                "hamilton wire cabinet pulls",
+                "hamilton brass cabinet pulls",
+                "hamilton bronze cabinet pulls",
+                "hamilton slinker DP-112 wire cabinet pulls",
+                "hamilton cabinet hardware",
+                "hamilton cabinet handles",
+                "hamilton dp112"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/hami-112-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/hami-112-525.jpg?v=1716420334"
+        },
+        "text": {
+            "description_html": "<b>Hamilton Decorative Wire Cabinet Pulls</b>\r\n\r\n<p>\r\nAvailable in 4 sizes ranging from 3 inches to 12 inches in length, this simple wire hamilton cabinet pull includes all the necessary slotted round head machine screws for installation. It is available in either brass with a brushed nickel finish or bronze with a bronze patina finish. The simplistic design will look just as beautiful in early colonial style homes as it would in more urban style homes.\r\n</p>\r\n\r\n<p>\r\n<center>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/hami-112-dimensions.jpg?v=1704442259\" width=\"400\" height=\"446\" border=\"0\" alt=\"Hamilton Wire Cabinet Pull Sizes\">\r\n</center>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 4 sizes:</b>\r\n<ul>\r\n<b>HAMI-DP-112.3:</b> \r\n<ul>\r\n<li>Length c.c: 3\"</li>\r\n<li>Projection: 1-1/2\"</li>\r\n<li>Thickness: 1/2\"</li>\r\n</ul>\r\n<br>\r\n<b>HAMI-DP-112.4:</b> \r\n<ul>\r\n<li>Length c.c.: 4\"</li>\r\n<li>Projection: 2\"</li>\r\n<li>Thickness: 1/2\"</li>\r\n</ul>\r\n<br>\r\n<b>HAMI-DP-112.6:</b> \r\n<ul>\r\n<li>Length c.c.: 6\"</li>\r\n<li>Projection: 2\"</li>\r\n<li>Thickness: 1/2\"</li>\r\n</ul>\r\n<br>\r\n<b>HAMI-DP-112.12:</b> \r\n<ul>\r\n<li>Length c.c.: 12\"</li>\r\n<li>Projection: 2-1/8\"</li>\r\n<li>Thickness: 1/2\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Wire Cabinet Door Pulls, Hamilton DP-112",
+                "description": "Hamilton DP-112 Cabinet Wire  - Available in 4 sizes ranging from 3 inches to 12 inches in length, this simple wire hamilton cabinet pull includes all the necessary slotted round head machine screws for installation. It is available in either brass with a brushed nickel finish or bronze with a bronze patina finish. The simplistic design will look just as beautiful in early colonial style homes as it would in more urban style homes.",
+                "keywords": "Hami-DP-112, hamilton DP-112 wire cabinet door pulls, hamilton wire cabinet pulls, hamilton brass cabinet pulls, hamilton bronze cabinet pulls, hamilton slinker DP-112 wire cabinet pulls, hamilton cabinet hardware, hamilton cabinet handles, hamilton dp112,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Hamilton Discontinued",
+                    "sort": "100"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "13266",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "13314",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "13278",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "13787",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "13804",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "13290",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "13810",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "13284",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: BP - Bronze Patina Finish Over Cast Bronze",
+                "Select Finish: BN - Brushed Nickel Finish Over Solid Brass",
+                "Select Size: HAMI-DP-112.3 - 3in. Wire Pull",
+                "Select Size: HAMI-DP-112.4 - 4in. Wire Pull",
+                "Select Size: HAMI-DP-112.6 - 6in. Wire Pull",
+                "Select Size: HAMI-DP-112.12 - 12in. Wire Pull"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BP - Bronze Patina Finish Over Cast Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "HAMI-BP-Bronze"
+                },
+                {
+                    "value": "BN - Brushed Nickel Finish Over Solid Brass",
+                    "price_impact": 50.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "HAMI-BN-Brushed"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "HAMI-DP-112.3 - 3in. Wire Pull",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "HAMI-DP-112.3"
+                },
+                {
+                    "value": "HAMI-DP-112.4 - 4in. Wire Pull",
+                    "price_impact": 11.25,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "HAMI-DP-112.4"
+                },
+                {
+                    "value": "HAMI-DP-112.6 - 6in. Wire Pull",
+                    "price_impact": 12.75,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "HAMI-DP-112.6"
+                },
+                {
+                    "value": "HAMI-DP-112.12 - 12in. Wire Pull",
+                    "price_impact": 50.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "HAMI-DP-112.12"
+                }
+            ]
+        }
+    ]
+}

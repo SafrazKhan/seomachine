@@ -1,0 +1,120 @@
+{
+    "legacy_product_id": "551847",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Daisy Cabinet Knob, RK International CK-183",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-183",
+            "mpn": "RKI-CK-183",
+            "price": "11.99",
+            "compare_at_price": "14.08",
+            "contractor_price": "11.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Flower Cabinet Door Knobs",
+                "Daisy Cabinet Knobs",
+                "RK International CK-183",
+                "RKI-CK-183",
+                "floral cabinet knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-183-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-183-525.jpg?v=1716424370"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-183, Brass Daisy Cabinet Door Knob</b>\r\n\r\n<p>\r\nThe Daisy Cabinet Knob is designed with an attention to harmony. Every petal seems to flow into the next. It is available in oil rubbed bronze (pictured), polished brass, and satin nickel finishes. This cheery cabinet knob is sure to brighten up any home. \r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: <a href=\"/products/daisy-cabinet-door-pull-rk-international-cp-83\"><b>CP-83 Daisy Cabinet Pull</b></a> and <a href=\"/products/daisy-cabinet-knob-rose-rk-international-bp-483\"><b>BP-483 Flower Cabinet Door Knob Backplate</b></a>\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-183 Flower Cabinet Door Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 15/16\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Daisy Cabinet Knob",
+                "description": "RK International CK-183, Daisy Cabinet Knob - The Daisy Cabinet Knob is designed with an attention to harmony. Every petal seems to flow into the next. It is available in polished brass, satin nickel, and oil rubbed bronze  finishes. This cheery cabinet knob is sure to brighten up any home.",
+                "keywords": "Flower Cabinet Door Knobs, Daisy Cabinet Knobs, RK International CK-183, RKI-CK-183, floral cabinet knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "5"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "41397",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "552469",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "176128",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "41380",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "302440",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "551820",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "37512",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: RB: Oil Rubbed Bronze",
+                "Select Finish: B: Polished Brass",
+                "Select Finish: P: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

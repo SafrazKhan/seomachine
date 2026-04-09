@@ -1,0 +1,127 @@
+{
+    "legacy_product_id": "1149191",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4 x 4 x Square Corners Spring Hinge, PBB RS814040",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "PBB-RS814040",
+            "mpn": "PBB-RS814040",
+            "price": "14.0",
+            "compare_at_price": "17.5",
+            "contractor_price": "14.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "4 x 4 x Square Corners Spring Hinges",
+                "PBB RS814040",
+                "4 Inch Spring Hinges",
+                "PBB-RS814040"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PBB-RS814040-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PBB-RS814040-525.jpg?v=1716428463"
+        },
+        "text": {
+            "description_html": "<b>PBB RS814040, 4\" x 4\"  x Square Corners Single Acting Spring Hinge</b>\r\n\r\n<p>\r\nPackaged complete with a Single Action Spring Door Hinge and screws.  This PBB spring hinges are UL Listed for fire door applications. Max door size: 3ft. x 7ft. x 1-3/4 inches. Max door weight: 110 lbs. For doors up to 85 lbs, use 2 spring hinges at center and bottom position with 1 ball bearing hinge at top position. For 85 to 110 lb doors, use 3 spring hinges:\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> for the PBB Full Mortise Spring Hinge:\r\n<ul>\r\n<li>Hinge Material: Wrought Steel</li>\r\n<li>Height: 4\"</li>\r\n<li>Width: 4\"</li>\r\n<li>Corners: Square Corners</li>\r\n<li>Gauge of Metal: .100</li>\r\n<li>Standard Template Hole Pattern</li>\r\n<li>Wood Screws: #12 x 1-1/4\"</li>\r\n<li>Machine Screws: #12-24 x 1/2”</li>\r\n<li>Adjustable Spring Torque</li>\r\n<li>Non-Handed</li>\r\n<li>Full Mortise - ANSI K81071F</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PBB-RS814040-specifications.pdf?v=1704262436\" target=\"new\"><b>PBB RS814040 Dimensions Diagram (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Sold Individually (1 Hinge).</b>\r\n</p>",
+            "seo": {
+                "title": "4 x 4 x Square Corners Spring Hinge",
+                "description": "Packaged complete with a Single Action Spring Door Hinge and screws.  This PBB spring hinges are UL Listed for fire door applications. Max door size: 3ft. x 7ft. x 1-3/4 inches. Max door weight: 110 lbs. For doors up to 85 lbs, use 2 spring hinges at center and bottom position with 1 ball bearing hinge at top position. For 85 to 110 lb doors, use 3 spring hinges:",
+                "keywords": "4 x 4 x Square Corners Spring Hinges, PBB RS814040, 4 Inch Spring Hinges, PBB-RS814040"
+            },
+            "specifications": [
+                {
+                    "key": "Hinge Material",
+                    "value": "Wrought Steel"
+                },
+                {
+                    "key": "Height",
+                    "value": "4\""
+                },
+                {
+                    "key": "Width",
+                    "value": "4\""
+                },
+                {
+                    "key": "Corners",
+                    "value": "Square Corners"
+                },
+                {
+                    "key": "Gauge of Metal",
+                    "value": ".100"
+                },
+                {
+                    "key": "Wood Screws",
+                    "value": "#12 x 1-1/4\""
+                },
+                {
+                    "key": "Machine Screws",
+                    "value": "#12-24 x 1/2”"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "PBB Special Order Hinges",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1049376",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "357167",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "956611",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "8816",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "332893",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Hinge Material: Wrought Steel",
+                "Height: 4\"",
+                "Width: 4\"",
+                "Corners: Square Corners",
+                "Gauge of Metal: .100",
+                "Wood Screws: #12 x 1-1/4\"",
+                "Machine Screws: #12-24 x 1/2”",
+                "Select Finish: US15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

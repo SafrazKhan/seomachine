@@ -1,0 +1,125 @@
+{
+    "legacy_product_id": "1200677",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Short Throw Deadbolt, Adams Rite 4070",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "ADA-4070-20-628",
+            "mpn": "ADA-4070-20-628",
+            "price": "200.0",
+            "compare_at_price": "200.0",
+            "contractor_price": "200.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Short Throw Deadbolt",
+                "Adams Rite 4070"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ADA-4070-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ADA-4070-525.jpg?v=1717106665"
+        },
+        "text": {
+            "description_html": "<b>Projection Style Short Throw Deadbolt</b>\r\n\r\n<p>\r\n4070 Short Throw Deadbolt provides security for a conventionally projected bolt in installations where the longthrow MS® Deadlock cannot be used. The smaller 4070 deadbolt offers the longest practical throw from a narrow stile. 180° turn of key or thumbturn projects or retracts the bolt. Lock accepts any standard1\" [25.4 mm] length, 1-5/32\" [29.4 mm] diameter mortise cylinder or thumbturn with special cam dimensions. Lock accepts cylinder from either or both sides.  Individually boxed with machine screws for mounting. Cylinder and/or thumbturn available separately.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Adams Rite 4070-20-628 Mortise Short Throw Deadbolt:\r\n<ul>\r\n<li>Backset: 7/8\", 31/32\", or 1-1/8\"</li>\r\n<li>Case Width: 1\" </li>\r\n<li>Case Height: 6\" </li>\r\n<li>Case Depth: Varies by Backset </li>\r\n<li>Bolt Dimensions: 5/8\" x 1-1/4\" \r\n<li>Bolt Throw: 5/8\"</li>\r\n<li>Faceplate: 1\" x 5-9/16\"</li>\r\n<li>Finish: Aluminum</li>\r\n<li>ANSI Grade 1</li>\r\n<li>Individually boxed with machine\r\nscrews for mounting. Cylinder and/\r\nor thumbturn available separately.\r\n\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ADA-4070-specifications.pdf?v=1718159598\" target=\"new\"\"><b>Mortise Short Throw Deadbolt Dimensions (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Short Throw Deadbolt",
+                "description": "4070 Short Throw Deadbolt provides security for a conventionally projected bolt in installations where the longthrow MS® Deadlock cannot be used. The smaller 4070 deadbolt offers the longest practical throw from a narrow stile.",
+                "keywords": "Short Throw Deadbolt, Adams Rite 4070"
+            },
+            "specifications": [
+                {
+                    "key": "Backset",
+                    "value": "7/8\", 31/32\", or 1-1/8\""
+                },
+                {
+                    "key": "Case Width",
+                    "value": "1\""
+                },
+                {
+                    "key": "Case Height",
+                    "value": "6\""
+                },
+                {
+                    "key": "Case Depth",
+                    "value": "Varies by Backset"
+                },
+                {
+                    "key": "Bolt Dimensions",
+                    "value": "5/8\" x 1-1/4\""
+                },
+                {
+                    "key": "Bolt Throw",
+                    "value": "5/8\""
+                },
+                {
+                    "key": "Faceplate",
+                    "value": "1\" x 5-9/16\""
+                },
+                {
+                    "key": "Finish",
+                    "value": "Aluminum"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Adams Rite",
+                    "sort": "23"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Backset: 7/8\", 31/32\", or 1-1/8\"",
+                "Case Width: 1\"",
+                "Case Height: 6\"",
+                "Case Depth: Varies by Backset",
+                "Bolt Dimensions: 5/8\" x 1-1/4\"",
+                "Bolt Throw: 5/8\"",
+                "Faceplate: 1\" x 5-9/16\"",
+                "Finish: Aluminum",
+                "Select Backset: 7/8in. Backset",
+                "Select Backset: 31/32in. Backset",
+                "Select Backset: 1-1/8in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "7/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "31/32in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-1/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

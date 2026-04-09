@@ -1,0 +1,150 @@
+{
+    "legacy_product_id": "600195",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Traditional 3 Inch Ring Pull, Field Enterprises RPW-300",
+            "vendor": "Field Enterprise",
+            "status": "ACTIVE",
+            "sku": "FEI-RPW-300",
+            "mpn": "FEI-RPW-300",
+            "price": "43.68",
+            "compare_at_price": "56.0",
+            "contractor_price": "41.49",
+            "shipping_weight": "1.0",
+            "tags": [
+                "3 Inch Wire Ring Pulls",
+                "Traditional 3 Inch Ring Pull",
+                "Field Enterprises RPW-300",
+                "Field Enterprises RPW300",
+                "Field Enterprises RPW 300",
+                "dresser drawer pulls",
+                "furniture ring pulls",
+                "closet door pulls",
+                "Field Enterprises round ring pulls",
+                "RPW300 Wire Ring Pulls",
+                "Large Traditional Ring Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FEI-RPW300-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FEI-RPW300-525.jpg?v=1716424837"
+        },
+        "text": {
+            "description_html": "<b>Field Enterprises RPW-300, Large Traditional Ring Pull</b>\r\n\r\n<p>\r\nWe love the Traditional 3 Inch Ring Pull for its classic look and how easy it is to install. It is available in 5 finishes including satin nickel, polished brass, and oil rubbed bronze. Although it has a traditional feel, this wire ring pull has a modern square mount to keep it contemporary. It is this paring that will ensure its timelessness; and since it is made out of solid brass, it will be sure to stand the test of time even with heavy use.\r\n</p>\r\n\r\n<p>\r\nAlso Available: Smaller <a href=\"/products/traditional-2-inch-ring-pull-field-enterprises-rpw-200\">Traditional 2\" Ring Pull</a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RPW300 Wire Ring Pull:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Overall Diameter: 3\"</li>\r\n<li>Grip Cutout Diameter: 2-5/16\"</li>\r\n<li>Projection: 7/8\"</li>\r\n<li>Mount Length: 1/2\" square</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Traditional 3 Inch Ring Pull, Field Enterprises RPW-300",
+                "description": "Field Enterprises RPW-300, Traditional 3 Inch Ring Pull -- We love the Traditional 3 Inch Ring Pull for its classic look and how easy it is to install. It is available in 5 finishes including satin nickel, polished brass, and oil rubbed bronze. Although it has a traditional feel, this wire ring pull has a modern square mount to keep it contemporary. It is this paring that will ensure its timelessness; and since it is made out of solid brass, it will be sure to stand the test of time even with heavy use.",
+                "keywords": "3 Inch Wire Ring Pulls, Traditional 3 Inch Ring Pull, Field Enterprises RPW-300, Field Enterprises RPW300, Field Enterprises RPW 300, dresser drawer pulls, furniture ring pulls, closet door pulls, Field Enterprises round ring pulls, RPW300 Wire Ring Pulls, Large Traditional Ring Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Field Enterprises Cabinet Hardware",
+                    "sort": "9"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "8"
+                },
+                {
+                    "name": "Door Pulls",
+                    "sort": "64"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "599773",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "600154",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "10213",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "30222",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "41849",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "563313",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "481236",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "600094",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US3: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

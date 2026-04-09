@@ -1,0 +1,201 @@
+{
+    "legacy_product_id": "1046437",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Dome Door Stop, Emtek 2251",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-2251",
+            "mpn": "EMT-2251",
+            "price": "20.99",
+            "compare_at_price": "25.0",
+            "contractor_price": "20.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Emtek 2251",
+                "Half Dome Door Stops",
+                "Dome Door Stops",
+                "EMT-2251",
+                "door floor stops",
+                "dome style door bumpers",
+                "commercial floor dome stops",
+                "floor mount stops",
+                "wood door bumpers",
+                "wood door stops"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-2251-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-2251-525.jpg?v=1716427893"
+        },
+        "text": {
+            "description_html": "<b>Emtek 2251, Half Dome Door Stop</b>\r\n\r\n<p>\r\nTypically dome door stops are used in commercial buildings such as schools, shopping malls and offices. The Dome Door Stop is mounted to the floor and comes packaged with mounting hardware. The Half Dome Door Stop is available in a wide selection of finish colors.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Emtek 2251 Dome Door Stop:\r\n<ul>\r\n<li>Projection: 1\"</li>\r\n<li>Base Diameter: 1-13/16\"</li>\r\n<li>Rubber Bumper: Grey</li>\r\n<li>Packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Dome Door Stop",
+                "description": "Typically dome door stops are used in commercial buildings such as schools, shopping malls and offices. The Dome Door Stop is mounted to the floor and comes packaged with mounting hardware. The Half Dome Door Stop is available in a wide selection of finish colors.",
+                "keywords": "Emtek 2251, Half Dome Door Stops, Dome Door Stops, EMT-2251, door floor stops, dome style door bumpers, commercial floor dome stops, floor mount stops,  wood door bumpers, wood door stops,"
+            },
+            "specifications": [
+                {
+                    "key": "Projection",
+                    "value": "1\""
+                },
+                {
+                    "key": "Base Diameter",
+                    "value": "1-13/16\""
+                },
+                {
+                    "key": "Rubber Bumper",
+                    "value": "Grey"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Emtek Accessories",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "239914",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "550734",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "162598",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "6712",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "396024",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Projection: 1\"",
+                "Base Diameter: 1-13/16\"",
+                "Rubber Bumper: Grey",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US15A: Antique Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US7: French Antique",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: TWB: Tumbled White Bronze",
+                "Select Finish: MB: Medium Bronze",
+                "Select Finish: US3NL: Unlacquered Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US7: French Antique",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TWB: Tumbled White Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MB: Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3NL: Unlacquered Brass",
+                    "price_impact": 16.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

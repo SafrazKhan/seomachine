@@ -1,0 +1,120 @@
+{
+    "legacy_product_id": "631475",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "River Rock Bronze Oval Robe Hook, Fusion RH-C6",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-RH-C6",
+            "mpn": "FUS-RH-C6",
+            "price": "69.0",
+            "compare_at_price": "69.0",
+            "contractor_price": "51.75",
+            "shipping_weight": "4.0",
+            "tags": [
+                "Fusion RH-C6",
+                "Bronze River Rock Oval Robe Hooks",
+                "River Rock Bronze Oval Robe Hooks",
+                "River Rock Oval Wall Mounted Robe Hooks",
+                "FUS-RH-C6",
+                "Oval Mount Bathroom Robe Hooks",
+                "Fusion river rock series",
+                "traditional bathroom robe hooks",
+                "hand towel hooks",
+                "bathroom towel hooks",
+                "bath towel hooks",
+                "Kitchen towel rings",
+                "bathroom stall purse hooks",
+                "towel rings",
+                "towel bars",
+                "coat hooks",
+                "Bronze Oval Robe Hooks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-RH-C6-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-RH-C6-525.jpg?v=1711365518"
+        },
+        "text": {
+            "description_html": "<b>Fusion RH-C6, River Rock Oval Wall Mounted Robe Hook</b>\r\n\r\n<p>\r\nThis hook is a simple way to get your house organized. Hang one in the bathroom for your robe; and put a few of them by the front door as a catch-all for hats, scarves, coats, and bags. The River Rock Bronze Oval Robe Hook is available in medium bronze and dark bronze finishes. It is made by Fusion, a leader in hardware both for impeccable style and high quality products. \r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"https://door-hardware-inc.myshopify.com/products/traditional-oval-mount-towel-bar-fusion-tb-c6\"><b>Fusion TB-C6 River Rock Towel Bar</b></a>, <a href=\"/products/river-rock-bronze-oval-towel-ring-fusion-tr-c6\"><b>Fusion TR-C6 River Rock Towel Ring</b></a>, and <a href=\"https://door-hardware-inc.myshopify.com/products/oval-mount-toilet-tissue-holder-fusion-ph-c6\"><b>Fusion PH-C6 River Rock Toilet Paper Holder</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Fusion RH-C6 Bronze Oval Robe Hook: \r\n<ul>\r\n<li>Mount Width: 3\"</li>\r\n<li>Mount Length: 4-1/2\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "River Rock Bronze Oval Robe Hook, Fusion RH-C6",
+                "description": "Fusion RH-C6, River Rock Bronze Oval Robe Hook - This hook is a simple way to get your house organized. Hang one in the bathroom for your robe; and put a few of them by the front door as a catch-all for hats, scarves, coats, and bags. The River Rock Bronze Oval Robe Hook is available in medium bronze and dark bronze finishes. It is made by Fusion, a leader in hardware both for impeccable style and high quality products.",
+                "keywords": "Fusion RH-C6, Bronze River Rock Oval Robe Hooks, River Rock Bronze Oval Robe Hooks, River Rock Oval Wall Mounted Robe Hooks, FUS-RH-C6, Oval Mount Bathroom Robe Hooks, Fusion river rock series, traditional bathroom robe hooks, hand towel hooks, bathroom towel hooks, bath towel hooks, Kitchen towel rings, bathroom stall purse hooks, towel rings, towel bars, coat hooks, Bronze Oval Robe Hooks,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "24"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "31459",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "382607",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "396458",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "13355",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "443725",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "187070",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "568158",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MXB - Medium Bronze",
+                "Select Finish: DKB - Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MXB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DKB - Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

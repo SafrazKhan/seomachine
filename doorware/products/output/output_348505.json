@@ -1,0 +1,45 @@
+{
+    "legacy_product_id": "348505",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "UPS Shipping Charges",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "UPS-SHIP",
+            "mpn": "UPS-SHIP",
+            "price": "27.0",
+            "compare_at_price": "27.0",
+            "contractor_price": "27.0",
+            "shipping_weight": "0.0",
+            "tags": [
+                "UPS Shipping Charges"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/special_order-52517.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/special_order-52517.jpg?v=1717788997"
+        },
+        "text": {
+            "description_html": "<B>UPS Shipping Charges</>",
+            "seo": {
+                "title": "UPS Shipping Charges",
+                "description": "UPS Shipping Charges",
+                "keywords": "UPS Shipping Charges"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

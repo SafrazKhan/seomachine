@@ -1,0 +1,120 @@
+{
+    "legacy_product_id": "396883",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "8 Inch Contemporary Grab, Fusion GRB-901",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-GRB-901",
+            "mpn": "FUS-GRB-901",
+            "price": "89.0",
+            "compare_at_price": "89.0",
+            "contractor_price": "66.75",
+            "shipping_weight": "2.0",
+            "tags": [
+                "FUS-GRB-901",
+                "Fusion Contemporary grabs",
+                "fusion hardware Contemporary appliance pulls",
+                "solid brass refrigerator pulls",
+                "fusion hardware Contemporary collection",
+                "Contemporary door grabs",
+                "fusion grb-901",
+                "fusion hardware 8 inch appliance pulls",
+                "modern appliance pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-GRB-901-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-GRB-901-525.jpg?v=1711365458"
+        },
+        "text": {
+            "description_html": "<b>Fusion GRB-901, Contemporary 8 Inch Door Grab</b>\r\n\r\n<p>\r\nThis Contemporary 8 Inch Pull made by Fusion is cast from solid brass. By making something that have could been too simple into something that looks chic, the sleek design of this appliance grab exemplifies the modern design aesthetic. It is available in either a polished chrome or a brushed nickel finish.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the 8\" Contemporary Pull:\r\n<ul>\r\n<li>Length: 8\" center to center</li>\r\n<li>Material: solid brass</li>\r\n<li>Packaged with appliance panel mounting screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>",
+            "seo": {
+                "title": "8 Inch Contemporary Grab, Fusion GRB-901",
+                "description": "Fusion GRB-901, Contemporary 8 Inch Door Grab - This Contemporary 8 Inch Pull made by Fusion is cast from solid brass. By making something that have could been too simple into something that looks chic, the sleek design of this appliance grab exemplifies the modern design aesthetic. It is available in either a polished chrome or a brushed nickel finish.",
+                "keywords": "FUS-GRB-901, Fusion Contemporary grabs, fusion hardware Contemporary appliance pulls, solid brass refrigerator pulls, fusion hardware Contemporary collection, Contemporary door grabs, fusion grb-901, fusion hardware 8 inch appliance pulls, modern appliance pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion-MISC-Discontinued",
+                    "sort": "99"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "194734",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "65800",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "237486",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "40882",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "40957",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "356420",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "274024",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "42141",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "252419",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: PLC - Polished Chrome",
+                "Select Finish: BRN - Brushed Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PLC - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRN - Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

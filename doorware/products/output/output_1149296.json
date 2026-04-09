@@ -1,0 +1,102 @@
+{
+    "legacy_product_id": "1149296",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Front Door Deadbolt Function Mortise, PDQ J117",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PDQ-J117",
+            "mpn": "PDQ-J117",
+            "price": "261.0",
+            "compare_at_price": "261.0",
+            "contractor_price": "261.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Front Door Deadbolt Function Mortises",
+                "PDQ-J117",
+                "PDQ J117"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525190.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525190.gif?v=1717106594"
+        },
+        "text": {
+            "description_html": "<b>PDQ J117 Front Door Deadbolt Function Mortise</b>\r\n\r\n<p>\r\nFront door deadbolt function mortise box for MR Series.\r\n</p>\r\n\r\n<p>\r\nFront Door Deadbolt (ANSI F08 or F10): Latchbolt operated by lever from both sides. Key from outside retracts latchbolt. Toggle locks/unlocks outside lever. Key outside extends/retracts deadbolt. Inside thumbturn extends/retracts deadbolt.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Front Door Deadbolt Mortise Box:\r\n<ul>\r\n<li>Mortise box only, no trim</li>\r\n<li>Front Door Deadbolt function</li>\r\n<li>Backset: 2-3/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>\r\n\r\n<p>\r\n<b>NOT Returnable</b>\r\n</p>",
+            "seo": {
+                "title": "Front Door Deadbolt Function Mortise",
+                "description": "This is a PDQ J117 Front Door Deadbolt Function Mortise.",
+                "keywords": "Front Door Deadbolt Function Mortises, PDQ-J117,  PDQ J117"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Misc Hardware",
+                    "sort": "33"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "300085",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "529582",
+                    "sort": "2"
+                }
+            ],
+            "filter_options": [
+                "Select Door Handing and Swing: LHR: Left Hand Door, Outswing",
+                "Select Door Handing and Swing: LH:Left Hand Door, Inswing",
+                "Select Door Handing and Swing: RHR: Right Hand Door, Outswing",
+                "Select Door Handing and Swing: RH: Right Hand Door, Inswing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Handing and Swing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LHR: Left Hand Door, Outswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LH:Left Hand Door, Inswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RHR: Right Hand Door, Outswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RH: Right Hand Door, Inswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

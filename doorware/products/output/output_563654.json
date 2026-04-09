@@ -1,0 +1,126 @@
+{
+    "legacy_product_id": "563654",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Urn Tip Cabinet Door Pull, RK International CP-33",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CP-33",
+            "mpn": "RKI-CP-33",
+            "price": "13.99",
+            "compare_at_price": "17.38",
+            "contractor_price": "13.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Decorative Urn Tip Cabinet Pulls",
+                "Urn Tip Cabinet Door Pulls",
+                "RK International CP-33",
+                "RKI-CP-33",
+                "simple cabinet pulls",
+                "Solid Brass Cabinet Pulls",
+                "Traditional Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CP-33-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CP-33-5251.jpg?v=1716424547"
+        },
+        "text": {
+            "description_html": "<b>RK International CP-33, Decorative Urn Tip Cabinet Pull</b>\r\n\r\n<p>\r\nDecidedly fancy without being ornate, the Urn Tip Cabinet Door Pull made by RK International is the perfect choice for anyone who likes glamor. The decorative tip adds drama to this cabinet pull in a beautiful way. Made out of solid brass, it is available in satin nickel, polished brass, and oil rubbed bronze finishes. This decorative pull has a 3 inch center to center and a 5 inch overall length.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CP-33 3\" Traditional Cabinet Pull:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 5-1/8\"</li>\r\n<li>Width: 1/2\"</li>\r\n<li>Projection: 7/8\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Urn Tip Cabinet Door Pull",
+                "description": "RK International CP-33, Urn Tip Cabinet Door Pull - Decidedly fancy without being ornate, the Urn Tip Cabinet Door Pull made by RK International is the perfect choice for anyone who likes glamor. The decorative tip adds drama to this cabinet pull in a beautiful way. Made out of solid brass, it is available in satin nickel, polished brass, and oil rubbed bronze finishes. This decorative pull has a 3 inch center to center and a 5 inch overall length.",
+                "keywords": "Decorative Urn Tip Cabinet Pulls, Urn Tip Cabinet Door Pulls, RK International CP-33, RKI-CP-33, simple cabinet pulls, Solid Brass Cabinet Pulls, Traditional Cabinet Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Pulls and Flush Pulls",
+                    "sort": "1"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "570851",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "143788",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "8459",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "13290",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "563313",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "294524",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "290235",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "903066",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: B: Polished Brass",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

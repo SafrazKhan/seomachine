@@ -1,0 +1,151 @@
+{
+    "legacy_product_id": "647774",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "6.15 Security Flip Guard, Don-Jo 1603",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "DJO-1603",
+            "mpn": "DJO-1603",
+            "price": "13.78",
+            "compare_at_price": "17.22",
+            "contractor_price": "12.4",
+            "shipping_weight": "1.0",
+            "tags": [
+                "security door guards",
+                "hotel security door guards",
+                "hotel door security bars",
+                "latch guards",
+                "Hotel Door Locks",
+                "Hotel Door Flip Guards",
+                "Don-Jo 1603",
+                "DJO-1603",
+                "Security Door Flip Guards",
+                "Don-Jo 1603-605",
+                "Don-Jo 1603-625",
+                "Don-Jo 1603-626"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-1603-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-1603-525.jpg?v=1716425102"
+        },
+        "text": {
+            "description_html": "<b>Don-Jo 1603, Hotel Door Flip Guard</b>\r\n\r\n<p>\r\nEveryone knows this Door Flip Guard from hotel rooms, but that is not the only place a security latch like the Don-Jo 1603 would be useful. Install one on your front door for added security. It features ball bearings, which makes the arm stay in the open or closed position without bouncing back. This help prevents accidental lock out, especially on hotel doors.\r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-1603-specifications.gif?v=1704354519\" width=\"598\" height=\"185\" border=\"0\" alt=\"Don-Jo 1603 Specifications\">\r\n</p>\r\n\r\n<p>\r\nAlso Available:  <a href=\"/products/angle-guard-plate-don-jo-ap-34\">Angle Plate</a> which is installed on the door edge to protect it from damage from the guard arm when it is left in the open position to keep the door from closing all the way.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Security Door Flip Guard:\r\n<ul>\r\n<li>Material: Aluminum</li>\r\n<li>Guard Length: 4.15\"</li>\r\n<li>Guard Width: .93\"</li>\r\n<li>Guard Plate Length: 2.5\"</li>\r\n<li>Guard Plate Width: .855\"</li>\r\n<li>Catch Length: 2.2\"</li>\r\n<li>Catch Plate Length: 2.5\"</li>\r\n<li>Angel Plate: 1\" x 1\" x 1/2\"</li>\r\n<li>Catch Plate Width: .875\"</li>\r\n<li>Ansi: L33042</li>\r\n<li>Includes matching finish mounting screws.</b>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Security Flip Guard, Don-Jo 1603",
+                "description": "Don-Jo 1603, Hotel Door Flip Guard - Everyone knows this Door Flip Guard from hotel rooms, but that is not the only place a security latch like the Don-Jo 1603 would be useful. Install one on your front door for added security. It features ball bearings, which makes the arm stay in the open or closed position without bouncing back. This help prevents accidental lock out, especially on hotel doors. Choose from polished brass, brushed chrome, and polished chrome finishes.",
+                "keywords": "security door guards, hotel security door guards, hotel door security bars, latch guards, Hotel Door Locks, Hotel Door Flip Guards, Don-Jo 1603, DJO-1603, Security Door Flip Guards, Don-Jo 1603-605, Don-Jo 1603-625, Don-Jo 1603-626,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Don-Jo Door Bolts",
+                    "sort": "8"
+                },
+                {
+                    "name": "Door Bolts",
+                    "sort": "56"
+                },
+                {
+                    "name": "Door Hooks, Bolts, Latches, and Locks",
+                    "sort": "40"
+                },
+                {
+                    "name": "Hospitality Hardware",
+                    "sort": "3"
+                },
+                {
+                    "name": "Don-Jo Hospitality Hardware",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "7684",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "23261",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "380653",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "21278",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "448184",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "7709",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "7671",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "164193",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "316964",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "538708",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 1603-605: Polished Brass",
+                "Select Finish: 1603-625: Polished Chrome",
+                "Select Finish: 1603-626: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1603-605: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1603-625: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1603-626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

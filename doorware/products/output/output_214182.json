@@ -1,0 +1,130 @@
+{
+    "legacy_product_id": "214182",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:09:01.486335"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "2-5/8 Inch Wall Mount Decorative Door Stop, First Impressions FII-MG25",
+            "vendor": "First Impressions",
+            "status": "ACTIVE",
+            "sku": "FII-MG25",
+            "mpn": "FII-MG25",
+            "price": "31.95",
+            "compare_at_price": "40.0",
+            "contractor_price": "30.4",
+            "shipping_weight": "0.2",
+            "tags": [
+                "FII-MG25 Decorative Door Stops",
+                "First Impressions MG25  Solid Brass 2-5/8 inch long decorative door stops",
+                "2-5/8 Inch Wall Mount Decorative Door Stops",
+                "brass baseboard stops",
+                "2-5/8 inch door bumpers",
+                "2 5/8 inch stops",
+                "wood door bumpers",
+                "wood door stops",
+                "2-5/8 inches door stops",
+                "2 5/8 inches door stopper",
+                "first impressions base board door stops",
+                "mg-25"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-MG25-decorative-door-stop_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-MG25-decorative-door-stop_525.jpg?v=1716422074"
+        },
+        "text": {
+            "description_html": "<b>First Impressions Solid Brass 2-5/8 Inch Wall Mount Decorative Door Stop</b>\r\n\r\n<p>\r\nThese decorative solid brass door stops screw onto the baseboard casement or door bottom, to protect  the door hardware and wall.  Traditional designer styling and hand finished by the master craftsmen at First Impressions International, in your choice of high quality finish.\r\n</p>\r\n<p>\r\nAlso available: Other \r\n<a href=\"/collections/decorative-door-stops\"><b>Decorative Door Stops by First Impressions</b></a>.\r\n<p>\r\n\r\n<p>\r\n<b>Specifications</b> for First Impressions  FII-MG25 Decorative Door Stop\r\n<ul>\r\n<li>Length: 2-5/8\"</li>\r\n<li>Includes 1\" Long Mounting Screw Stud</li>\r\n<li>Bumper Tip: White</li>\r\n<li>Solid Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>\r\n\r\n<p>\r\n<b>** This item is being discontinued. Very limited quantities available.</b>\r\n</p>",
+            "seo": {
+                "title": "2-5/8 Inch Wall Mount Decorative Door Stop, First Impressions FII-MG25",
+                "description": "These decorative solid brass door stops screw onto the baseboard casement or door bottom, to protect  the door hardware and wall.  Traditional designer styling and hand finished by the master craftsmen at First Impressions International, in your choice of high quality finish.\r\n",
+                "keywords": "FII-MG25 Decorative Door Stops, First Impressions MG25  Solid Brass 2-5/8 inch long decorative door stops, 2-5/8 Inch Wall Mount Decorative Door Stops, brass baseboard stops, 2-5/8 inch door bumpers, 2 5/8 inch stops, wood door bumpers, wood door stops, 2-5/8 inches door stops, 2 5/8 inches door stopper, first impressions base board door stops, mg-25"
+            },
+            "specifications": [
+                {
+                    "key": "Length",
+                    "value": "2-5/8\""
+                },
+                {
+                    "key": "Bumper Tip",
+                    "value": "White"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Decorative Door Stops",
+                    "sort": "2"
+                },
+                {
+                    "name": "Door Stops, Bumpers, and Holders",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "214215",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "223409",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "214204",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "156831",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "177141",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Length: 2-5/8\"",
+                "Bumper Tip: White",
+                "Select Finish: FII-MG25-US10BPC - Oil Rubbed Bronze",
+                "Select Finish: FII-MG25-US15 - Satin Nickel",
+                "Select Finish: FII-MG25-US5 - Antique Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-MG25-US10BPC - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-MG25-US15 - Satin Nickel",
+                    "price_impact": 16.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-MG25-US5 - Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

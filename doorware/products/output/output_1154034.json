@@ -1,0 +1,87 @@
+{
+    "legacy_product_id": "1154034",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Ornamental Cabinet Knob, Baldwin 4932",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-4932",
+            "mpn": "BAL-4932",
+            "price": "30.0",
+            "compare_at_price": "32.0",
+            "contractor_price": "30.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Baldwin Ornate Drawer Pulls",
+                "Ornamental Cabinet Knobs",
+                "Baldwin 4932",
+                "BAL-4932"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-4932-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-4932-525.jpg?v=1716428499"
+        },
+        "text": {
+            "description_html": "<b> Baldwin 4932, Ornamental Cabinet Knob</b>\r\n\r\n<p>\r\nFit for royalty, this Baldwin made Ornamental Cabinet Knob features luxurious detailing on the handle. This knob is not for people who want to make a simple statement. The Baldwin 4932 Solid Brass Ornate Cabinet Knob exudes richness that will lend its ornate styling well to fancier home décors.\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Baldwin Ornate Drawer Pulls:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Diameter: 2\"</li>\r\n<li>Projection: 1.218\"</li>\r\n<li>Packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Ornamental Cabinet Knob",
+                "description": "Fit for royalty, this Baldwin made Ornamental Cabinet Knob features luxurious detailing on the handle. This knob is not for people who want to make a simple statement. The Baldwin 4932 Solid Brass Ornate Cabinet Knob exudes richness that will lend its ornate styling well to fancier home décors.",
+                "keywords": "Baldwin Ornate Drawer Pulls, Ornamental Cabinet Knobs, Baldwin 4932, BAL-4932"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Baldwin-Custom-Special-Order",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "37548",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "355962",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "37164",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "41303",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 030: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "030: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

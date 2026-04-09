@@ -1,0 +1,90 @@
+{
+    "legacy_product_id": "1059829",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "2-1/4 Inch Thick Door Kit for Kwikset Signature Series Handleset, THK-KIT-214DT",
+            "vendor": "Kwikset",
+            "status": "ARCHIVED",
+            "sku": "KWI-THK-KIT-214DT",
+            "mpn": "KWI-THK-KIT-214DT",
+            "price": "65.9",
+            "compare_at_price": "65.9",
+            "contractor_price": "65.9",
+            "shipping_weight": "1.0",
+            "tags": [
+                "2-1/4 Inch Thick Door Kit for Kwikset Signature Series Handleset",
+                "THK-KIT-214DT",
+                "KWI-THK-KIT-214DT"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525127.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525127.gif?v=1716428009"
+        },
+        "text": {
+            "description_html": "<b>Kwikset THK-KIT-214DT, Signature Series Handleset Thick Door Kit for 2-1/4\" Thick Door</b>\r\n\r\n<p>\r\nThis is a thick door kit for <a href=\"/collections/kwikset-signature-series\"></b>Kwikset Signature Series Handlesets</b></a>. This kit is for a 2-1/4 inch thick door.\r\n</p>\r\n\r\n<p>\r\n<b>Comes Packaged With:</b>\r\n<ul>\r\n<li>83022: thick door deadbolt kit</li>\r\n<li>81780: thick door handleset screw pack</li>\r\n<li>83669-001: thick door chassis</li>\r\n<li>81861:thick door through bolt and washer</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "2-1/4 Inch Thick Door Kit for Kwikset Signature Series Handleset",
+                "description": "This is a thick door kit for Kwikset Signature Series Handlesets. This kit is for a 2-1/4 inch thick door.",
+                "keywords": "2-1/4 Inch Thick Door Kit for Kwikset Signature Series Handleset, THK-KIT-214DT,  KWI-THK-KIT-214DT"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Kwikset Parts",
+                    "sort": "19"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "10000",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "10006",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "10014",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "10016",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "346706",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US514: Iron Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish ",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US514: Iron Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "legacy_product_id": "180865",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Top Jamb Extender Arm, Global TJ-1240",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-TJ-1240",
+            "mpn": "GLO-TJ-1240",
+            "price": "22.89",
+            "compare_at_price": "33.22",
+            "contractor_price": "20.59",
+            "shipping_weight": "0.5",
+            "tags": [
+                "GLO-TJ-1240 Top Jamb Mount Door Closer Arms",
+                "Global Door Controls TJ-1240 Top Jamb Extender Arm",
+                "long door closer arms",
+                "long closer arms",
+                "door closer extension arms",
+                "Top Jam Extension Arms",
+                "Top Jam Mount Door Closer Arms",
+                "TJ1240 Top Jam rods",
+                "global TJ-1240-AL",
+                "global TJ-1240-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/TJ-1240-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/TJ-1240-525.jpg?v=1716421722"
+        },
+        "text": {
+            "description_html": "<b>Top Jamb Extender Door Closer Arm</b>\r\n<p>\r\nUse when extended reach is required for top jamb door closer mounting.\r\n</p>\r\n<p>\r\nFor use with Global Door Controls TC200 series, TC400 series, TC500 series, TC600 series or any closer arm with a 10 mm 1.25 thread. \r\n</p>\r\n<p>\r\n<b>Specifications:</b> for Global  TJ-1240 Top Jam Extension Arm\r\n<ul>\r\n<li>Total Length: 13-1/2\"</li>\r\n <li>Thread Length: 3-3/4\"</li>\r\n <li>Thread: 10mm 1.25</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Top Jamb Extender Arm, Global TJ-1240",
+                "description": "Global Door Controls TJ-1240 - Longer arm for top jamb mounted door closers. 13-1/2 inch total length with 10 mm 1.25 threads. ",
+                "keywords": "GLO-TJ-1240 Top Jamb Mount Door Closer Arms, Global Door Controls TJ-1240 Top Jamb Extender Arm, long door closer arms, long closer arms, door closer extension arms, Top Jam Extension Arms, Top Jam Mount Door Closer Arms, TJ1240 Top Jam rods, global TJ-1240-AL, global TJ-1240-DU,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Door Closer Accessories",
+                    "sort": "50"
+                },
+                {
+                    "name": "Global TC200, TC400, TC500, TC600 Series",
+                    "sort": "17"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1117442",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "232302",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "188632",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1117428",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "191074",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "188548",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "204552",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: TJ-1240-AL: Aluminum",
+                "Select Finish: TJ-1240-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TJ-1240-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TJ-1240-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

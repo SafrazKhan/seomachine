@@ -1,0 +1,99 @@
+{
+    "legacy_product_id": "610570",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Deltana Stainless Steel Replacement Hinge Pin, Deltana HPR35",
+            "vendor": "Deltana",
+            "status": "ARCHIVED",
+            "sku": "DEL-HPR35",
+            "mpn": "DEL-HPR35",
+            "price": "4.32",
+            "compare_at_price": "4.32",
+            "contractor_price": "4.32",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Replacement Stainless Steel Barrel Pin for Solid Brass Hinges",
+                "Deltana HPR35",
+                "Deltana HPR40",
+                "Stainless Steel Replacement Hinge Pins"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-HPR35-515.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-HPR35-515.jpg?v=1717106175"
+        },
+        "text": {
+            "description_html": "<b>Deltana Stainless Steel Replacement Hinge Pin</b>\r\n\r\n<p>\r\nA replacement Stainless Steel Barrel Pin for <a href=\"/collections/deltana-brass-hinges\"> Solid Brass Hinges</a>.\r\n</p>\r\n\r\n<p>\r\n<b>When Selecting a Size:</b>\r\n<br>\r\n<b>Deltana HPR35:</b>\r\n<ul>\r\n<li>For a 3-1/2 inch hinge.</li>\r\n<li>Length: 2-3/4\"</li>\r\n<li>Diameter: 1/4\"</li>\r\n<li>Material: Stainless Steel</li>\r\n<li>Finish: Satin Stainless Steel</li>\r\n</ul>\r\n<br>\r\n<b>Deltana HPR40:</b>\r\n<ul>\r\n<li>For a 4 inch hinge.</li>\r\n<li>Length: 3-3/8\"</li>\r\n<li>Diameter: 1/4\"</li>\r\n<li>Material: Stainless Steel</li>\r\n<li>Finish: Satin Stainless Steel</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually.</i> <b>NO RETURNS</b>\r\n</p>",
+            "seo": {
+                "title": "Deltana Stainless Steel Replacement Hinge Pin",
+                "description": "A replacement Stainless Steel Barrel Pin for  Solid Brass Hinges.\r\n",
+                "keywords": "Replacement Stainless Steel Barrel Pin for Solid Brass Hinges, Deltana HPR35, Deltana HPR40, Stainless Steel Replacement Hinge Pins,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Discontinued and Special Items",
+                    "sort": "31"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "211877",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "657235",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "199463",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "540686",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "540540",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Size: DEL-HPR35:  For a 3-1/2 inch hinge",
+                "Select Size: DEL-HPR40: For a 4 inch hinge"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DEL-HPR35:  For a 3-1/2 inch hinge",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DEL-HPR40: For a 4 inch hinge",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

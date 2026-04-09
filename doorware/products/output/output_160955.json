@@ -1,0 +1,136 @@
+{
+    "legacy_product_id": "160955",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Square Entry Latch, DoralLock SLE23875",
+            "vendor": "Deltana",
+            "status": "ARCHIVED",
+            "sku": "DOR-SLE23875",
+            "mpn": "DOR-SLE23875",
+            "price": "8.05",
+            "compare_at_price": "8.05",
+            "contractor_price": "8.05",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Deltana",
+                "SLE23875",
+                "Square Entry Latches",
+                "tubular latch",
+                "deltana sle23875",
+                "door latches",
+                "tube latches",
+                "tube latches",
+                "tubular latches",
+                "tubular latches",
+                "tubular door latches",
+                "DOR-SLE23875",
+                "dorallock SLE23875",
+                "DoralLock Entry Latches",
+                "DoralLock deadlatch Latches"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/sle23875-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/sle23875-525.jpg?v=1716421512"
+        },
+        "text": {
+            "description_html": "<b>DoralLock SLE23875,  Entry Latch</b>\r\n\r\n<p>\r\nAdjustable backset deadlatch for <a href=\"/collections/deltana-levers-knobs-and-locks\"><b>DoralLock</b></a> entry sets. Has a 7.5 mm (.300\") square hub.\r\n</p>\r\n\r\n\r\n<p>\r\nAdjustable for 2-3/8\" or 2-3/4\" backset.\r\n</p>\r\n\r\n<p>\r\n<b>For keyed entry functions only.</b>\r\n</p>",
+            "seo": {
+                "title": "Square Entry Latch, DoralLock SLE23875",
+                "description": "Deltana SLE23875 Square Entry Latch - Adjustable backset square latch for DoralLock entry sets. It is adjustable for 2-3/8 inch or 2-3/4 inch backsets.",
+                "keywords": "Deltana, SLE23875, Square Entry Latches, tubular latch, deltana sle23875, door latches, tube latches, tube latches, tubular latches, tubular latches, tubular door latches, DOR-SLE23875, dorallock SLE23875, DoralLock Entry Latches, DoralLock deadlatch Latches,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "DoralLock Discontinued Misc",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: SLE23875U15 - Satin Nickel",
+                "Select Finish: SLE23875U10B - Oil Rubbed Bronze",
+                "Select Finish: SLE23875U15A - Antique Nickel",
+                "Select Finish: SLE23875U26 - Bright Chrome",
+                "Select Finish: SLE23875U26D - Satin Chrome",
+                "Select Finish: SLE23875U5 - Antique Brass",
+                "Select Finish: SLE23875CR003 - PVD Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SLE23875U15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SLE23875"
+                },
+                {
+                    "value": "SLE23875U10B - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SLE23875"
+                },
+                {
+                    "value": "SLE23875U15A - Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SLE23875"
+                },
+                {
+                    "value": "SLE23875U26 - Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SLE23875"
+                },
+                {
+                    "value": "SLE23875U26D - Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SLE23875"
+                },
+                {
+                    "value": "SLE23875U5 - Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SLE23875"
+                },
+                {
+                    "value": "SLE23875CR003 - PVD Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SLE23875"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "legacy_product_id": "1206405",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "6 Inch Bronze House Numbers, Rocky Mountain HN60x-BD",
+            "vendor": "Rocky Mountain",
+            "status": "ARCHIVED",
+            "sku": "RMH-HN60x-BD",
+            "mpn": "RMH-HN60x-BD",
+            "price": "97.5",
+            "compare_at_price": "82.87",
+            "contractor_price": "82.87",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Rocky Mountain HN60x",
+                "RMH HN60x"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RMH-HN60x-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RMH-HN60x-525.jpg?v=1717106672"
+        },
+        "text": {
+            "description_html": "<b>Rocky Mountain HN60x-BD 6\" Solid Bronze House Numbers</b>\r\n\r\n<p>\r\nWelcome your guest in style with these 6 inch high, easy to see, silicon bronze house numbers by Rocky Mountain Hardware in dark patina finish. Packaged with installation screws.\r\n</p>\r\n\r\n<p>\r\nRocky Mountain Hardware silicon bronze numbers are made to last. They are durable enough for office buildings, apartment buildings and homes.\r\n</p>\r\n<p>\r\n<b>Specifications and Features</b> of the Rocky Mountain Address Numbers\r\n<ul>\r\n<li>Material: Bronze</li>\r\n<li>Packaged with all necessary installation hardware for surface mounting.</li>\r\n\r\n<li>There are variances in width for specific digits. <a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RMH-HN60-specifications.pdf?v=1718159617\" target=\"new\"><br><b>CLICK HERE to see the specifications of each number (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "6 Inch Bronze House Numbers, Rocky Mountain HN60x-BD",
+                "description": "Rocky Mountain HN60x - Silicon Bronze 6\" house numbers. Available #0 - #9 in Dark Patina Finish.",
+                "keywords": "Rocky Mountain HN60x, RMH HN60x"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Home Accessories",
+                    "sort": "16"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Number: RMH-HN600: Number in.0in.",
+                "Select Number: RMH-HN601: Number in.1in.",
+                "Select Number: RMH-HN602: Number in.2in.",
+                "Select Number: RMH-HN603: Number in.3in.",
+                "Select Number: RMH-HN604: Number in.4in.",
+                "Select Number: RMH-HN605: Number in.5in.",
+                "Select Number: RMH-HN606: Number in.6in.",
+                "Select Number: RMH-HN607: Number in.7in.",
+                "Select Number: RMH-HN608: Number in.8in.",
+                "Select Number: RMH-HN609: Number in.9in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Number",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RMH-HN600: Number in.0in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RMH-HN601: Number in.1in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RMH-HN602: Number in.2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RMH-HN603: Number in.3in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RMH-HN604: Number in.4in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RMH-HN605: Number in.5in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RMH-HN606: Number in.6in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RMH-HN607: Number in.7in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RMH-HN608: Number in.8in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RMH-HN609: Number in.9in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

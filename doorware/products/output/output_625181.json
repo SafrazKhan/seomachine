@@ -1,0 +1,73 @@
+{
+    "legacy_product_id": "625181",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Intermediate Pivot Hinge, Ives 7215INT26",
+            "vendor": "Ives",
+            "status": "ARCHIVED",
+            "sku": "Ives-7215INT26",
+            "mpn": "Ives-7215INT26",
+            "price": "175.0",
+            "compare_at_price": "203.6",
+            "contractor_price": "175.0",
+            "shipping_weight": "2.0",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Ives Intermediate Pivot Hinge</b>\r\n<p>\r\nIntermediate pivot hinge for doors that require additional support to keep the middle part of the door in line with the pivot hinges at the top and bottom. \r\n</p>\r\n<p>\r\nCannot be used with center hung doors.  Not intended to be load bearing.  For use only with 3/4\" offset pivot hinges.  \r\n</p>\r\n<p>\r\n<b>Finish</b> Polished Chrome\r\n<p>\r\n<b>Handed</b>\r\n</ul>\r\n</p>\r\n<p><b>*Important</b> When selecting <b>Door Hand</b> for this pivot hinge: \r\n<br>\r\n1. Stand on the <b>Push Side</b> of the door, facing the door. <br>\r\n2. If the \"Pivot Hinge\" is on your \"Left\", choose \"Left Hand Door\". <br>\r\n3. If the \"Pivot Hinge\" is on your \"Right\", choose \"Right Hand Door\". <br>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/closer-handing.gif?v=1704354510\"  width=\"410\" height=\"195\" border=\"0\"alt=\"door handing\">\r\n</p>\r\n<p>\r\n<b>*Sold Individually (1 pivot set)</b>\r\n</p>",
+            "seo": {
+                "title": "Intermediate Pivot Hinge, Ives 7215INT26",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Ives Discontinued or Special Order",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Door Hand: Right Hand",
+                "Select Door Hand: Left Hand"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Hand",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Right Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Left Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

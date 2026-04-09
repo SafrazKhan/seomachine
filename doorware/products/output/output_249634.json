@@ -1,0 +1,112 @@
+{
+    "legacy_product_id": "249634",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Contemporary Curved 14 Inch Shower Door Pulls, Pair, First Impressions FII-3450/14",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-SD-3450/14",
+            "mpn": "FII-SD-3450/14",
+            "price": "256.0",
+            "compare_at_price": "320.0",
+            "contractor_price": "230.4",
+            "shipping_weight": "6.0",
+            "tags": [
+                "first impressions 3450 Modern Curved  Door Pulls",
+                "glass shower door pulls",
+                "FII-3450/14 Curved Modern Door Pulls",
+                "Contemporary shower door pulls",
+                "glass shower handles",
+                "Contemporary Curved 14 inch pulls",
+                "8 inches Center to Center mounting"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-3450-14-shower-pulls_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-3450-14-shower-pulls_525.jpg?v=1716422428"
+        },
+        "text": {
+            "description_html": "<b>First Impressions 3450/14   Contemporary Curved 14\" Shower Door Pulls</b>\r\n<p>\r\n<p>\r\nThis contemporary designed shower door pull is constructed of durable non rusting aluminum and finished  in your choice of Satin Nickel or Polished Chrome. \r\n</p>\r\n<p>\r\nWe also offer many additional  <a href=\"/collections/shower-door-pulls\"><b>Shower Door Pulls by First Impressions</b></a>. \r\n</p>\r\n<p>\r\n<b>Specifications</b> of First Impressions 3450/14 Curved Shower Door Pulls\r\n<ul>\r\n<li>Total Length: 14\"</li>\r\n<li>Mounting Center to Center: 8\"</li>\r\n<li>Pull Diameter: 1-1/4\"</li>\r\n<li>Projection: 2-1/2\"</li>\r\n<li>Material: Non Rusting Aluminum</li>\r\n<li>Available Finishes: 2</li>\r\n</ul>\r\n</p>\r\n<p>Packaged with 2 door pulls and includes mounting hardware for back to back mounting on 1/4\" to 1/2\" thick glass shower doors. \r\n</p>\r\n<p>\r\n<b>*Sold as a Pair (2 Pulls)</b>\r\n</p>",
+            "seo": {
+                "title": "Contemporary Curved 14 Inch Shower Door Pulls, Pair, First Impressions FII-3450/14",
+                "description": "First Impressions 14 Inch Curved Shower Door Pulls. Contemporary styling in your choice on Satin Nickel or Polished Chrome",
+                "keywords": "first impressions 3450 Modern Curved  Door Pulls, glass shower door pulls, FII-3450/14 Curved Modern Door Pulls, Contemporary shower door pulls, glass shower handles, Contemporary Curved 14 inch pulls, 8 inches Center to Center mounting,"
+            },
+            "specifications": [
+                {
+                    "key": "Total Length",
+                    "value": "14\""
+                },
+                {
+                    "key": "Mounting Center to Center",
+                    "value": "8\""
+                },
+                {
+                    "key": "Pull Diameter",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "2-1/2\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Non Rusting Aluminum"
+                },
+                {
+                    "key": "Available Finishes",
+                    "value": "2"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Total Length: 14\"",
+                "Mounting Center to Center: 8\"",
+                "Pull Diameter: 1-1/4\"",
+                "Projection: 2-1/2\"",
+                "Material: Non Rusting Aluminum",
+                "Available Finishes: 2",
+                "Select Finish: FII-SD-3450/14-US15 - Satin Nickel",
+                "Select Finish: FII-SD-3450/14-US26 - Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-SD-3450/14-US15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-SD-3450/14-US26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

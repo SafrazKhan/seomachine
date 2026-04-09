@@ -1,0 +1,82 @@
+{
+    "legacy_product_id": "1078463",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Fleur De Lis Dummy Plate with Netropol Knob and Cylinder Cut-Out, BRA D04-K3225/D07-C3601/CYLHOLE",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "BRA-D04-K3225/D07-C3601/CYLHOLE",
+            "mpn": "BRA-D04-K3225/D07-C3601/CYLHOLE",
+            "price": "153.0",
+            "compare_at_price": "179.55",
+            "contractor_price": "153.0",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Fleur De Lis Dummy Plate with Netropol Knob and Cylinder Cut-Outs",
+                "BRA-D04-K3225/D07-C3601/CYLHOLE",
+                "Brass Accents D04-K3225/D07-C3601/CYLHOLE"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525138.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525138.gif?v=1711366506"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents D04-K3225/D07-C3601/CYLHOLE, Fleur De Lis Plate with Netropol Knob and Cylinder Hole</b>\r\n\r\n<p>\r\nThis gorgeous Dummy Plate features the popular Fleur de Lis design at both ends, as well as patterned edges with incredible detail. The Fleur De Lis Dummy Plate with Netropol Knob and Cylinder Cut-Out is custom made.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Single Cylinder Fleur De Lis Dummy Plate:\r\n<ul>\r\n<li>Material: Solid Cast Brass</li>\r\n<li>Interior and Exterior Plate Width: 3\"</li>\r\n<li>Interior and Exterior Plate Height: 18\"</li>\r\n<li>Center of Plate to Center of Cylinder Hole: 2\"</li>\r\n<li>Center of Cylinder Hole to Center of Knob: 4\"</li>\r\n<li>Cylinder hole sized for mortise cylinder.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special order item. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Fleur De Lis Dummy Plate with Netropol Knob and Cylinder Cut-Out",
+                "description": "",
+                "keywords": "Fleur De Lis Dummy Plate with Netropol Knob and Cylinder Cut-Outs, BRA-D04-K3225/D07-C3601/CYLHOLE, Brass Accents D04-K3225/D07-C3601/CYLHOLE"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "BRA-discontinued-custom",
+                    "sort": "52"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "141721",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "141705",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "29823",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

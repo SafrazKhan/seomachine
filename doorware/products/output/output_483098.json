@@ -1,0 +1,102 @@
+{
+    "legacy_product_id": "483098",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Schlage 38-031 Adaptor Ring",
+            "vendor": "Schlage",
+            "status": "ACTIVE",
+            "sku": "SCH-38-031",
+            "mpn": "SCH-38-031",
+            "price": "26.2",
+            "compare_at_price": "26.2",
+            "contractor_price": "26.2",
+            "shipping_weight": "0.1",
+            "tags": [
+                "SCH-38-031 Bore Hole Adaptor",
+                "Schlage 38-031 Adaptor Ring",
+                "38016",
+                "38-016"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/schlage-38031_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/schlage-38031_525.jpg?v=1716424225"
+        },
+        "text": {
+            "description_html": "<b>Schlage 38-031 Adaptor Ring</b>\r\n\r\n<p>\r\nFor use with <a href=\"/products/gate-lock-double-cylinder-schlage-b252pd\"><b>Schlage B252PD double cylinder deadlatch</b></a>. Bore Hole Adaptor Kit converts  2-1/8\" bore hole.\r\n</p>\r\n<p><b>Specifications</b> of the Schlage 38-031 Adaptor Ring:\r\n<ul>\r\n<li>Outside Diameter: 2-1/2\"</li>\r\n<li>Recessed Lip Diameter:  2\"</li>\r\n<li>Interior Diameter:  1\"</li>\r\n</ul>\r\n</p><p>\r\n<b>* 2 Required for double cylinder locks (one for each side of your gate)</b>. \r\n</p>",
+            "seo": {
+                "title": "Schlage 38-031 Adaptor Ring",
+                "description": "Schlage 38-031 Adaptor Ring For use with Schlage B252PD double cylinder deadlatch",
+                "keywords": "SCH-38-031 Bore Hole Adaptor, Schlage 38-031 Adaptor Ring, 38016, 38-016"
+            },
+            "specifications": [
+                {
+                    "key": "Outside Diameter",
+                    "value": "2-1/2\""
+                },
+                {
+                    "key": "Recessed Lip Diameter",
+                    "value": "2\""
+                },
+                {
+                    "key": "Interior Diameter",
+                    "value": "1\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Outside Diameter: 2-1/2\"",
+                "Recessed Lip Diameter: 2\"",
+                "Interior Diameter: 1\"",
+                "Select Finish: 626: Satin Chrome",
+                "Select Finish: 605: Bright Brass",
+                "Select Finish: 613: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "605: Bright Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "613: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

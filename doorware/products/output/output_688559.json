@@ -1,0 +1,151 @@
+{
+    "legacy_product_id": "688559",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Brass Store Door Push Bar Up to 36 Inches, Don-Jo 147-605",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "DJO-147-xx-605",
+            "mpn": "DJO-147-xx-605",
+            "price": "290.0",
+            "compare_at_price": "360.0",
+            "contractor_price": "290.0",
+            "shipping_weight": "7.0",
+            "tags": [
+                "Solid Brass Push Bars",
+                "Solid Brass Store Door Push Bar Up to 36 Inches",
+                "Don-Jo 147 Push Bars",
+                "Don-Jo 147-605",
+                "DJO-147-xx-605"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-147-605-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-147-605-525.jpg?v=1717106219"
+        },
+        "text": {
+            "description_html": "<b>Solid Brass Push Bar</b>\r\n\r\n<p>\r\nThis Solid Brass Store Door Push Bar is custom made to order to fit your specific needs. It is available in lengths up to 36 inches. It has a polished brass finish.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Don-Jo 147 Push Bar:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Finish: Polished Brass</li>\r\n<li>Push Bar Diameter: 1\"</li>\r\n<li>Projection 2-1/2”</li>\r\n<li>Clearance 1-1/2”</li>\r\n<li>ANSI J501</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>When Selecting a Mounting Hardware:</b>\r\n<ul>\r\n<li><b>Thru-Bolted Mounting:</b> Pull bolts through the door.</li>\r\n<li><b>Surface Mounting:</b> Pull screws to the face of the door.</li>\r\n<li><b>Back-to-Back Mounting:</b> Pulls bolt to each other through the door. <b>Requires 2 pulls</b>.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nMade to order. <b>NOT Returnable.</b> \r\n</p>",
+            "seo": {
+                "title": "Solid Brass Store Door Push Bar Up to 36 Inches, Don-Jo 147-605",
+                "description": "Don-Jo 147-605, Solid Brass Store Door Push Bar Up to 36 Inches - This Solid Brass Store Door Push Bar is custom made to order to fit your specific needs. It is available in lengths up to 36 inches.",
+                "keywords": "Solid Brass Push Bars, Solid Brass Store Door Push Bar Up to 36 Inches, Don-Jo 147 Push Bars, Don-Jo 147-605, DJO-147-xx-605,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Polished Brass"
+                },
+                {
+                    "key": "Push Bar Diameter",
+                    "value": "1\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Don-Jo Custom Items",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "519976",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "184904",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "184910",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "353453",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Finish: Polished Brass",
+                "Push Bar Diameter: 1\"",
+                "Select Length: DJO-147-36-605 - 36 Inches",
+                "Select Length: DJO-147-32.5-605",
+                "Select Length: DJO-147-33-605",
+                "Select Mounting Choice: Thrubolt Mounted",
+                "Select Mounting Choice: Surface Mounted",
+                "Select Mounting Choice: Back to Back Mounted (Requires 2 Pulls)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DJO-147-36-605 - 36 Inches",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DJO-147-32.5-605",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DJO-147-33-605",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Mounting Choice",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Thrubolt Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Surface Mounted",
+                    "price_impact": 10.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Back to Back Mounted (Requires 2 Pulls)",
+                    "price_impact": 10.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

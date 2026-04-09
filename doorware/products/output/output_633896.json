@@ -1,0 +1,120 @@
+{
+    "legacy_product_id": "633896",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "St. Charles Toilet Tissue Holder, Fusion PH-E5",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-PH-E5",
+            "mpn": "FUS-PH-E5",
+            "price": "89.0",
+            "compare_at_price": "89.0",
+            "contractor_price": "66.75",
+            "shipping_weight": "4.0",
+            "tags": [
+                "toilet paper holders",
+                "toilet paper roll holders",
+                "bathroom accessories",
+                "traditional bathroom toilet paper holders",
+                "classic bathroom toilet paper holders",
+                "toilet tissue holders",
+                "Wall Mounted Shaker Toilet Tissue Holders",
+                "Fusion Saint Charles Collection Toilet Paper Holders",
+                "St. Charles Toilet Tissue Holders",
+                "Fusion PH-E5",
+                "St. Charles Trim Toilet Paper Holders",
+                "FUS-PH-E5",
+                "St. Charles Wall Mounted Toilet Tissue Holder"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-PH-E5-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-PH-E5-525.jpg?v=1711365521"
+        },
+        "text": {
+            "description_html": "<b>Fusion PH-E5, St. Charles Wall Mounted Toilet Paper Holder</b>\r\n\r\n<p>\r\nThe St. Charles Toilet Tissue Holder is easy to install and comes packaged with all the necessary mounting hardware. It comes in either medium bronze or oil rubbed bronze finishes. The St. Charles Wall Mounted Toilet Paper Holder features fleur-de-lis designs on the mounts, making it a great way to add old-world elegance to your home.\r\n</p>\r\n\r\n<!-- <p>\r\nAlso Available Matching: \r\n<a href=\"/products/st-charles-towel-bar-fusion-tb-e5\"><b>Fusion TB-E5 St. Charles Towel Bar</b></a>, \r\n<a href=\"/products/st-charles-hand-towel-ring-fusion-tr-e5\"><b>Fusion TR-E5 St. Charles Towel Ring</b></a>, and\r\n<a href=\"/products/st-charles-robe-hook-fusion-rh-e5\"><b>Fusion RH-E5 St. Charles Robe Hook</b></a>\r\n</p>  -->\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Fusion Saint Charles Collection Toilet Paper Holder:\r\n<ul>\r\n<li>Mount Diameter: 2-5/8\"</li>\r\n<li>Reversible to hang in either direction.</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>\r\n\r\n<p>\r\n<br><br>\r\n<b>Item Discontinued. See available <a href=\"/collections/bathroom-hardware\">Bathroom Hardware</a></b>\r\n<br><br>\r\n</p>",
+            "seo": {
+                "title": "St. Charles Toilet Tissue Holder, Fusion PH-E5",
+                "description": "Fusion PH-E5, St. Charles Toilet Tissue Holder - The St. Charles Toilet Tissue Holder is easy to install and comes packaged with all the necessary mounting hardware. It comes in either medium bronze or oil rubbed bronze finishes. The St. Charles Wall Mounted Toilet Paper Holder features fleur-de-lis designs on the mounts, making it a great way to add old-world elegance to your home.",
+                "keywords": "toilet paper holders, toilet paper roll holders, bathroom accessories, traditional bathroom toilet paper holders, classic bathroom toilet paper holders, toilet tissue holders, Wall Mounted Shaker Toilet Tissue Holders, Fusion Saint Charles Collection Toilet Paper Holders, St. Charles Toilet Tissue Holders, Fusion PH-E5, St. Charles Trim Toilet Paper Holders, FUS-PH-E5, St. Charles Wall Mounted Toilet Tissue Holder"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "11"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "630133",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "457336",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1021405",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "631016",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "396644",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "378735",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "67704",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "89528",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MDB - Medium Bronze",
+                "Select Finish: ORB - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MDB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

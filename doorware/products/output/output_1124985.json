@@ -1,0 +1,120 @@
+{
+    "legacy_product_id": "1124985",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "TL4 28 Degree ANSI Grade 2 Privacy Latch, Inox TL462",
+            "vendor": "Inox",
+            "status": "ARCHIVED",
+            "sku": "INX-TL462",
+            "mpn": "INX-TL462",
+            "price": "61.25",
+            "compare_at_price": "61.25",
+            "contractor_price": "61.25",
+            "shipping_weight": "0.5",
+            "tags": [
+                "TL4 28 Degree ANSI Grade 2 Privacy Latch",
+                "Inox TL462",
+                "Tubular Privacy Latches",
+                "Inox TL472",
+                "Inox TL462",
+                "INX-TL462"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/INX-TL462-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/INX-TL462-525.jpg?v=1716428341"
+        },
+        "text": {
+            "description_html": "<b>Inox Privacy Latch</b>\r\n\r\n<p>\r\nThis is a ANSI Grade 2 28 Degree Latch. Replacement privacy function latch (bed or bath room) for use with <a href=\"/collections/inox-leversets\"><b>Inox Levers</b></a>. Available in 2-3/8\" or 2-3/4\" backsets.\r\n</p>\r\n\r\n\r\n<p>\r\nPackage includes the strike plate, faceplate, and dustbox. \r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "TL4 28 Degree ANSI Grade 2 Privacy Latch",
+                "description": "This is a ANSI Grade 2 28 Degree Latch. Replacement privacy function latch (bed or bath room) for use with Inox Levers. Available in 2-3/8 inch or 2-3/4 inch backsets.",
+                "keywords": "TL4 28 Degree ANSI Grade 2 Privacy Latch, Inox TL462, Tubular Privacy Latches, Inox TL472, Inox TL462, INX-TL462"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "INOX Miscellaneous",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "968637",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "937547",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "7538",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "274899",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 32D: Satin Stainless Steel",
+                "Select Finish: 32:  Polished Stainless Steel",
+                "Select Backset: TL462: 2-3/8in. Backset",
+                "Select Backset: TL472: 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "32D: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "32:  Polished Stainless Steel",
+                    "price_impact": 4.3,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TL462: 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TL472: 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

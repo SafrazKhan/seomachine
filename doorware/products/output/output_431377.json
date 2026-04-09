@@ -1,0 +1,97 @@
+{
+    "legacy_product_id": "431377",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "72\" Coordinator for Double Doors, Don-Jo 2021",
+            "vendor": "Don-Jo",
+            "status": "ARCHIVED",
+            "sku": "DJO-2021",
+            "mpn": "DJO-2021",
+            "price": "145.38",
+            "compare_at_price": "181.72",
+            "contractor_price": "130.84",
+            "shipping_weight": "10.0",
+            "tags": [
+                "72\" Coordinator for Double Doors",
+                "Don-Jo 2021"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/2021-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/2021-525.jpg?v=1716423996"
+        },
+        "text": {
+            "description_html": "<b>72\" Coordinator for Double Doors, Don-Jo 2021</b>\r\n<p>\r\nDon-Jo's Coordinator is for use on a pair of doors when one door must close before the other.  Active door lever holds active door open until inactive door closes enough to trip release mechanism that allows active door to close.  Nylon roller on active door hold open lever provides cushioning for quiet operation.  Includes a safety override that allows active door to close first when extreme force is applied.  Shipped complete with installation hardware and 20\" filler bar to fill entire length of opening.  Available in aluminum or dark bronze finishes.\r\n</p>\r\n<b>Specifications</b> for Don-Jo's 72\" Coordinator for Double Doors, Don-Jo 2021\r\n<ul>\r\n<li>Length of Coordinator:  52\" </li>\r\n<li>Length of Filler Bar:  20\"</li>\r\n<li>Width: 1-5/8\"</li>\r\n<li>Thickness: 5/8\" (0.137) </li>\r\n<li>UL Listed</li>\r\n<li>Includes 8 ea. #12-24 x 1-1/4\" machine screws and 6 ea.  #8 x 3/4\" combo screws</li>\r\n</ul>\r\n</p>\r\n<p><b>*Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "72\" Coordinator for Double Doors, Don-Jo 2021",
+                "description": "72\" Coordinator for Double Doors, Don-Jo 2021",
+                "keywords": "72\" Coordinator for Double Doors, Don-Jo 2021"
+            },
+            "specifications": [
+                {
+                    "key": "Length of Coordinator",
+                    "value": "52\""
+                },
+                {
+                    "key": "Length of Filler Bar",
+                    "value": "20\""
+                },
+                {
+                    "key": "Width",
+                    "value": "1-5/8\""
+                },
+                {
+                    "key": "Thickness",
+                    "value": "5/8\" (0.137)"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Misc",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Length of Coordinator: 52\"",
+                "Length of Filler Bar: 20\"",
+                "Width: 1-5/8\"",
+                "Thickness: 5/8\" (0.137)",
+                "Select Finish: DJO-2021-628: Aluminum",
+                "Select Finish: DJO-2021-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DJO-2021-628: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DJO-2021-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

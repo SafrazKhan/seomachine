@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "1162428",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Manhattan Knob with Helios Rose, Brass Accents D05-K142S-MNH",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "BRA-D05-K142S-MNH",
+            "mpn": "BRA-D05-K142S-MNH",
+            "price": "65.0",
+            "compare_at_price": "85.0",
+            "contractor_price": "65.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "BRA-D05-K142S-MNH Helios Collection with Manhattan Door Knobs",
+                "Brass Accents BRAD05-K142S-MNH",
+                "BRAD05-K142S-MNH",
+                "Manhattan Knob with Helios Rose"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BRA-D05-K142S-MNH-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BRA-D05-K142S-MNH-525.jpg?v=1716428661"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents D05-K142S-MNH, Helios Collection with Manhattan Door Knob</b>\r\n\r\n<p>\r\nThis is a single dummy knobset made by Brass accents. It combines the  Manhattan Collection Knob with the Helios Collection Rosette.\r\n</p>\r\n\r\n<p>\r\n<b>Single Dummy:</b> For use as a pull or to match trim on one side of the door. It does not latch and does not lock.\r\n</p>\r\n\r\n<p>\r\n<B>Specifications</B> of Brass Accents Manhattan Door Knob with Helios Rose:\r\n<ul>\r\n<li>Rose Material: Solid Brass</li>\r\n<li>Knob Material: Solid Brass</li>\r\n<li>Rosette Diameter: 3-7/16\"</li>\r\n<li>Surface Mounted</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually. Special ordered item. <b>No Returns.</b></i>\r\n</p>",
+            "seo": {
+                "title": "Manhattan Knob with Helios Rose",
+                "description": "This is a single dummy knobset made by Brass accents. It combines the  Manhattan Collection Knob with the Helios Collection Rosette.",
+                "keywords": "BRA-D05-K142S-MNH Helios Collection with Manhattan Door Knobs, Brass Accents BRAD05-K142S-MNH, BRAD05-K142S-MNH, Manhattan Knob with Helios Rose"
+            },
+            "specifications": [
+                {
+                    "key": "Rose Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Knob Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Rosette Diameter",
+                    "value": "3-7/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "BRA-discontinued-custom",
+                    "sort": "61"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "868293",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "803706",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "727558",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "27637",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "726263",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Rose Material: Solid Brass",
+                "Knob Material: Solid Brass",
+                "Rosette Diameter: 3-7/16\"",
+                "Select Finish: 606: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "606: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "legacy_product_id": "1041557",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin K002 Ornate Couture Knob Pair Minus Rose, Baldwin K002-MR",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-K002-MR",
+            "mpn": "BAL-K002-MR",
+            "price": "284.8",
+            "compare_at_price": "356.0",
+            "contractor_price": "284.8",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Baldwin K002 Ornate Couture Knob Pair Minus Roses",
+                "Baldwin K002-MR",
+                "Baldwin Estates K002.MR Minus Rose",
+                "BAL-K002-MR"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-K002-003-MR-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-K002-003-MR-525.jpg?v=1716427864"
+        },
+        "text": {
+            "description_html": "<b>Baldwin Estates Collection K002 Couture Knob Only</b>\r\n\r\n<p>\r\nThe Baldwin K002 Ornate Couture Knob Pair Minus Rose comes packaged with two K002.MR Knobs; it does not include rosettes, latches, or strike. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Baldwin K002.MR Ornate Couture  Knob Pair:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Knob Diameter: 2-1/2\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Baldwin K002 Ornate Couture Knob Pair",
+                "description": "The Baldwin K002 Ornate Couture Knob Pair Minus Rose comes packaged with two K002.MR Knobs; it does not include rosettes, latches, or strike.",
+                "keywords": "Baldwin K002 Ornate Couture Knob Pair Minus Roses, Baldwin K002-MR, Baldwin Estates K002.MR Minus Rose, BAL-K002-MR,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Baldwin Discontinued",
+                    "sort": "165"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "727558",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "355962",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "37164",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "41303",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 003: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "003: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

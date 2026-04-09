@@ -1,0 +1,91 @@
+{
+    "legacy_product_id": "1130675",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hager 4700 Bottom Latch Assembly, Hager 4917",
+            "vendor": "Hagar",
+            "status": "ARCHIVED",
+            "sku": "HAG-4917",
+            "mpn": "HAG-4917",
+            "price": "74.1",
+            "compare_at_price": "74.1",
+            "contractor_price": "74.1",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Hager 4917 4700 Series Bottom Latch Assembly",
+                "Hager 4700 Bottom Latch Assembly",
+                "Hager 4917",
+                "HAG-4917"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/HAG-4917-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/HAG-4917-525.jpg?v=1716428361"
+        },
+        "text": {
+            "description_html": "<b>Hager 4917, 4700 Series Bottom Latch Assembly</b>\r\n\r\n<p>\r\nThis is a Hager 4917 4700 Series Bottom Latch Assembly. The package includes: bottom latch assembly includes latch, cover and screws.\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>NO RETURNS</b></i>\r\n</p>",
+            "seo": {
+                "title": "Hager 4700 Bottom Latch Assembly",
+                "description": "This is a Hager 4917 4700 Series Bottom Latch Assembly. The package includes: bottom latch assembly includes latch, cover and screws.",
+                "keywords": "Hager 4917 4700 Series Bottom Latch Assembly, Hager 4700 Bottom Latch Assembly, Hager 4917, HAG-4917"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Hager",
+                    "sort": "22"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "169219",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "834507",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "834475",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 32D: Satin Stainless Steel",
+                "Select Finish: ALM: Aluminum"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "32D: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ALM: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "legacy_product_id": "677652",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Exterior Plate for Victorian Rope Door Knob Entryset, Omnia 24441SD00.1",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-24441SD00.1",
+            "mpn": "OMN-24441SD00.1",
+            "price": "137.0",
+            "compare_at_price": "137.0",
+            "contractor_price": "137.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Exterior Plate for Omnia's D24441 Victorian Rope Knob Entrysets",
+                "Exterior Plate for Victorian Rope Door Knob Entrysets",
+                "Omnia 24441SD00.1",
+                "Exterior Trim for Omnia's D24441",
+                "OMN-24441SD00.1",
+                "OMN-8047/1B3-441/07.3",
+                "Omnia 8047/1B3-441/07.3"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omnia-D24441_52511.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/omnia-D24441_52511.jpg?v=1716425231"
+        },
+        "text": {
+            "description_html": "<b>Exterior Plate for Omnia's D24441 Victorian Rope Knob Entrysets</b>\r\n\r\n<p>\r\nThe rope detailing on both the backplate and the knob of Omnia's Exterior Plate for Victorian Rope Door Knob Entryset, Omnia 24441SD00.1 gives it a traditional feel that borders on the side of extravagant. It looks expensive and will add tasteful elegance to any front door.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Omnia D24441 Exterior Plate:\r\n<ul>\r\n<li>Backplate Height 10-5/8\"</li>\r\n<li>Fits Standard Pre-Drilled Doors, 2-1/8\" Bore Holes</li>\r\n<li>Solid Brass Door Knobs and Trim</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>When Selecting a Function:</b>\r\n<ul>\r\n<li>Dummy: A non-functioning plate for the exterior side of the door. It has a fixed knob. Used as a door pull or to match trim.</li>\r\n<li>Active: knob turns and retracts a latch. This plate does not come packaged with a cylinder.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Exterior Plate for Victorian Rope Door Knob Entryset, Omnia 24441SD00.1",
+                "description": "Exterior Plate for Victorian Rope Door Knob Entryset -",
+                "keywords": "Exterior Plate for Omnia's D24441 Victorian Rope Knob Entrysets, Exterior Plate for Victorian Rope Door Knob Entrysets, Omnia 24441SD00.1, Exterior Trim for Omnia's D24441, OMN-24441SD00.1, OMN-8047/1B3-441/07.3, Omnia 8047/1B3-441/07.3,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "121"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "237870",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "613605",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "29462",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "29465",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "236191",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "227205",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Function: Dummy - OMN-24441SD00.1",
+                "Select Function: Active - OMN-8047/1B3-441/07.3",
+                "Select Finish: US3 - Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Dummy - OMN-24441SD00.1",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Active - OMN-8047/1B3-441/07.3",
+                    "price_impact": 10.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "legacy_product_id": "524347",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "6.75 x 1 Flush Bolt Filler Plate, Don-Jo EF-634",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "DJO-EF-634",
+            "mpn": "DJO-EF-634",
+            "price": "7.0",
+            "compare_at_price": "8.75",
+            "contractor_price": "6.3",
+            "shipping_weight": "0.0",
+            "tags": [
+                "DJO-EF634 flush bolt filler plates",
+                "DJO-EF-634 door edge filler plates",
+                "flush door bolt filler plates",
+                "Don-Jo EF634 Flush Bolt Filler Plates",
+                "ef 634",
+                "Don-jo EF-634-DU",
+                "Don-jo EF-634-PC"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ef634-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ef634-525.jpg?v=1716424282"
+        },
+        "text": {
+            "description_html": "<b>Don-Jo EF-634 Flush Bolt Filler Plate</b>\r\n\r\n<p>\r\n6-3/4\" x 1\" flush bolt filler plate. Used for residential or commercial  doors to cover the area where a flush bolt was removed. \r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/don-jo-EF-634_size.gif?v=1704354672\" width=\"600\" height=\"300\" border=\"0\" alt=\"Don-Jo EF-634 4.5 Flush Bolt Filler Plate size\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Don-Jo EF634 Flush Bolt Filler Plate\r\n<ul>\r\n<li>Plate Length: 6-3/4\"</li>\r\n<li>Plate Width: 1\"</li>\r\n<!-- <li>Plate Thickness: .090' (13 Gauge)</li> -->\r\n<li>Material: Steel</li>\r\n<li>Fasteners: 2 each #8-32 x 1/2\" Flat Head Machine Screws </li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold Individually. </b>\r\n</p>",
+            "seo": {
+                "title": "6.75 x 1 Flush Bolt Filler Plate, Don-Jo EF-634",
+                "description": "Don-Jo EF634 flush bolt filler plate. Used for residential or commercial  doors to cover the area where a flush bolt was removed. ",
+                "keywords": "DJO-EF634 flush bolt filler plates, DJO-EF-634 door edge filler plates, flush door bolt filler plates, Don-Jo EF634 Flush Bolt Filler Plates, ef 634, Don-jo EF-634-DU, Don-jo EF-634-PC,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Length",
+                    "value": "6-3/4\""
+                },
+                {
+                    "key": "Plate Width",
+                    "value": "1\""
+                },
+                {
+                    "key": "Plate Thickness",
+                    "value": ".090' (13 Gauge)"
+                },
+                {
+                    "key": "Material",
+                    "value": "Steel"
+                },
+                {
+                    "key": "Fasteners",
+                    "value": "2 each #8-32 x 1/2\" Flat Head Machine Screws"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Don-Jo Door Bolts",
+                    "sort": "6"
+                },
+                {
+                    "name": "Door Latch Conversion and Filler Plates",
+                    "sort": "16"
+                },
+                {
+                    "name": "Don-Jo Latch Conversion and Filler Plates",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "969472",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "637715",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "353918",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "435615",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "520422",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "520430",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "519311",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "414131",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "252389",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "414207",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "252391",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Plate Length: 6-3/4\"",
+                "Plate Width: 1\"",
+                "Plate Thickness: .090' (13 Gauge)",
+                "Material: Steel",
+                "Fasteners: 2 each #8-32 x 1/2\" Flat Head Machine Screws",
+                "Select Finish: EF-634-PC: Primer",
+                "Select Finish: EF-634-DU: Dark Bronze",
+                "Select Finish: EF-634-BP: Brass",
+                "Select Finish: EF-634-CP: Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "EF-634-PC: Primer",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "EF-634-DU: Dark Bronze",
+                    "price_impact": 7.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "EF-634-BP: Brass",
+                    "price_impact": 17.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "EF-634-CP: Chrome",
+                    "price_impact": 17.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

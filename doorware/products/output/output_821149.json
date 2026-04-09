@@ -1,0 +1,152 @@
+{
+    "legacy_product_id": "821149",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Deltana Grade 2 Commercial Latch, Deltana G2RLE",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-G2RLE",
+            "mpn": "DEL-G2RLE",
+            "price": "19.62",
+            "compare_at_price": "26.16",
+            "contractor_price": "18.64",
+            "shipping_weight": "0.3",
+            "tags": [
+                "DEL-G2RLE",
+                "Deltana Grade 2 Latches",
+                "Deltana G2RLE",
+                "replacement latches for passage doors",
+                "replacement latches for privacy doors",
+                "replacement latches for entry doors",
+                "Deltana Grade 2 Latch for Entry",
+                "Passage",
+                "or Privacy Setss",
+                "DEL-G2RL238 DEL-G2RL234"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/deltana-G2RLE-latch_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/deltana-G2RLE-latch_525.jpg?v=1716425801"
+        },
+        "text": {
+            "description_html": "<b>Deltana Grade 2 Commercial Latch</b>\r\n\r\n\r\n<p>\r\nThe Deltana Grade 2 Latch is a replacement latch for passage, privacy, or entry function commercial levers. Available with a 2-3/8\" or 2-3/4\" backset in your choice of Brushed Chrome, Polished Brass and Oil Rubbed Bronze finish.\r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-G2RLE238-specifications.jpg?v=1704354774\" width=\"600\" height=\"198\" border=\"0\" alt=\"Deltana G2RLE specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Deltana Grade 2 Latch:\r\n<ul>\r\n<li>Latch Plate Overall Length: 2-1/4\"</li>\r\n<li>Latch Plate Length Center to Center: 1-5/8\"</li>\r\n<li>Latch Plate Width, 2-3/4\" Backset: 1-1/8\"</li>\r\n<li>Latch Plate Width, 2-3/8\" Backset: 1\"</li>\r\n<li>Throw: 1/2\"</li>\r\n<li>UL Listed</li>\r\n<li>Backset: Optional 2-3/4\" or 2-3/8\"</li>\r\n</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Deltana Grade 2 Latch",
+                "description": "The Deltana Grade 2 Latch is a replacement latch for passage, privacy, or entry function commercial levers. Available with a 2-3/4 or 2-3/8 inch backset in your choice of Brushed Chrome, Polished Brass and Oil Rubbed Bronze finish.",
+                "keywords": "DEL-G2RLE, Deltana Grade 2 Latches, Deltana G2RLE, replacement latches for passage doors, replacement latches for privacy doors, replacement latches for entry doors, Deltana Grade 2 Latch for Entry, Passage, or Privacy Setss, DEL-G2RL238 DEL-G2RL234,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Deltana Levers, Knobs, and Locks",
+                    "sort": "201"
+                },
+                {
+                    "name": "Deltana Strikes and Latches",
+                    "sort": "18"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "539039",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "919141",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "674011",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "30477",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "964577",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "306111",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "540540",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "684550",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Backset: G2RLE275: 2-3/4in. Backset",
+                "Select Backset: G2RLE238: 2-3/8in. Backset",
+                "Select Finish: U26D: Brushed Chrome",
+                "Select Finish: U3: Polished Brass",
+                "Select Finish: U10B: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "G2RLE275: 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "G2RLE238: 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U26D: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

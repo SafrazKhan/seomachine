@@ -1,0 +1,112 @@
+{
+    "legacy_product_id": "1173732",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "PDQ SF Series Adjustable Springlatch",
+            "vendor": "PDQ",
+            "status": "ACTIVE",
+            "sku": "PDQ-SF-ADJSLR",
+            "mpn": "PDQ-SF-ADJSLR",
+            "price": "48.99",
+            "compare_at_price": "70.0",
+            "contractor_price": "48.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "PDQ-SF-ADJSLR  door Latch for PDQ SF Series",
+                "springlatch SF Series",
+                "PDQ door latches",
+                "PDQ latches",
+                "PDQ SF Series Springlatch",
+                "PDQ SF Series Springlatch",
+                "PDQ SF Series latch",
+                "PDQ SF Series latch",
+                "PDQ door latch"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDQ-SF-ADJSLR-latch_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PDQ-SF-ADJSLR-latch_525.jpg?v=1716428769"
+        },
+        "text": {
+            "description_html": "<b>Springlatch for PDQ SF Series Light Commercial Levers</b>\r\n<p>For use with <a href=\"/products/orlando-standard-duty-cylindrical-lock-pdq-sf-orl\"><b>PDQ SF Series Commercial Door Levers</b></a>,  <a href=\"/products/orlando-standard-duty-black-levers-pdq-sf-orl-622\"><b>PDQ SF Series Black Door Levers</b></a>,  <a href=\"/products/light-duty-brushed-chrome-commercial-leversets-global-glc-series\"><b>Global GLC Series Levers</b></a> and  <a href=\"/products/contemporary-light-duty-commercial-leversets\"><b>Deltana Light Commercial Door Levers</b></a>. \r\n</p>\r\n<p>\r\nSpringlatches are used on <b>Non-Keyed Functions</b> (does NOT uses a key to unlock the door knob/lever) including Passage and Privacy functions. Adjustable for both 2-3/8\" or 2-3/4\" backsets.\r\n</p>\r\n<!-- <p>\r\nAlso available: For keyed functions use  <a href=\"/products/pdq-sv-and-sd-series-deadlatch\"><b>PDQ Deadlatch</b></a>.\r\n</p> -->\r\n<p>\r\nRadius corner face plate for wood doors. Includes <a href=\"/products/1-20-latch-spacer-plate-don-jo-lsp-1\">Latch Spacer Plate</a> for hollow metal doors.\r\n</p>\r\n<p>\r\n<p><b>*Sold Individually.\r\n</p>",
+            "seo": {
+                "title": "PDQ SF Series Adjustable Springlatch",
+                "description": "Adjustable springlatch with radius corner face plate for wood doors. Includes Latch Spacer Plate for hollow metal doors. For use with  PDQ SF Series Commercial Door Levers,  PDQ SF Series Black Door Levers,  Global GLC Series Levers and  Deltana Light Commercial Door Levers. ",
+                "keywords": "PDQ-SF-ADJSLR  door Latch for PDQ SF Series, springlatch SF Series, PDQ door latches, PDQ latches, PDQ SF Series Springlatch, PDQ SF Series Springlatch, PDQ SF Series latch, PDQ SF Series latch, PDQ door latch"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Misc Hardware",
+                    "sort": "1"
+                },
+                {
+                    "name": "PDQ Commercial Locks",
+                    "sort": "104"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "260732",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "447835",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "260609",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "260741",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "447814",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "260621",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 626: Brushed Chrome",
+                "Select Finish: 622: Matte Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "626: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "622: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

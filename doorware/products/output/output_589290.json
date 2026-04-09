@@ -1,0 +1,189 @@
+{
+    "legacy_product_id": "589290",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "12 Inch Hampton Refrigerator Pull, RK International AP-PH-6681",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-AP-PH-6681",
+            "mpn": "RKI-AP-PH-6681",
+            "price": "165.99",
+            "compare_at_price": "206.8",
+            "contractor_price": "165.99",
+            "shipping_weight": "7.0",
+            "tags": [
+                "RK International Hampton Collections",
+                "Hampton Appliance Pulls",
+                "12 Inch Hampton Refrigerator Pulls",
+                "RK International AP-PH-6681",
+                "12 inch door pulls",
+                "rustic door pulls",
+                "12 Inch Hampton Collection Appliance Pulls",
+                "satin nickel Refrigerator pulls",
+                "fridge handles",
+                "sub-zero handles",
+                "RKI-AP-PH-6681",
+                "RK International PH6681",
+                "RK International PH 6681"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-PH6681-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-PH6681-525.jpg?v=1716424795"
+        },
+        "text": {
+            "description_html": "<b>RK International AP-PH-6681, 12 Inch Hampton Collection Appliance Pull</b>\r\n\r\n<p>\r\nAt first glance, the Hampton Appliance Pull may not seem like a show-stopper but trust us when we say that it is. Once installed, this refrigerator handle exudes a rustic charm that is full of classic beauty. The 12 Inch Hampton Refrigerator Pull is the perfect finishing touch for your kitchen. It is designed to be able to mount vertically or horizontally. Choose from one of the beautiful finishes.\r\n</p>\r\n\r\n<p>\r\nThe AP-PH-6681 Hampton Collection Appliance Pull is not just for refrigerators. Add a cohesive and look throughout your kitchen by adding them to every appliance in your home.\r\n</p>\r\n\r\n<p>\r\nAlso Available: <a href=\"/products/hampton-cabinet-pull-rk-international-cp-681\"><b>Matching Hampton Cabinet Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Hampton Collection Handle:\r\n<ul>\r\n<li>Length c.c. (center to center): 12\"</li>\r\n<li>Overall Length: 13-3/8\"</li>\r\n<li>Width: 13/16\"</li>\r\n<li>Projection: 2-1/2\"</li>\r\n<li>Packaged with mounting screws for a refrigerator/appliance door panel.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "12 Inch Hampton Refrigerator Pull",
+                "description": "RK International PH-6681, 12 Inch Hampton Refrigerator Pull - At first glance, the Hampton Appliance Pull may not seem like a show-stopper but trust us when we say that it is. Once installed, this refrigerator handle exudes a rustic charm that is full of classic beauty. The 12 Inch Hampton Refrigerator Pull is the perfect finishing touch for your kitchen. It is designed to be able to mount vertically or horizontally. Choose from one of the 6 beautiful finishes.",
+                "keywords": "RK International Hampton Collections, Hampton Appliance Pulls, 12 Inch Hampton Refrigerator Pulls, RK International AP-PH-6681, 12 inch door pulls, rustic door pulls, 12 Inch Hampton Collection Appliance Pulls, satin nickel Refrigerator pulls, fridge handles, sub-zero handles, RKI-AP-PH-6681, RK International PH6681, RK International PH 6681,"
+            },
+            "specifications": [
+                {
+                    "key": "Length c.c. (center to center)",
+                    "value": "12\""
+                },
+                {
+                    "key": "Overall Length",
+                    "value": "13-3/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "13/16\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "2-1/2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Appliance Pulls",
+                    "sort": "8"
+                },
+                {
+                    "name": "RK International Appliance Pulls",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "565249",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "542346",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "257685",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "551105",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "571166",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "486738",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "562087",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Length c.c. (center to center): 12\"",
+                "Overall Length: 13-3/8\"",
+                "Width: 13/16\"",
+                "Projection: 2-1/2\"",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: WN: Weathered Nickel",
+                "Select Finish: BE: Brushed English",
+                "Select Finish: VB: Valencia Bronze",
+                "Select Finish: RB: Oil Rubbed Bronze",
+                "Select Finish: BL: Black",
+                "Select Finish: SG: Satin Gold"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "WN: Weathered Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BE: Brushed English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "VB: Valencia Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BL: Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SG: Satin Gold",
+                    "price_impact": 9.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

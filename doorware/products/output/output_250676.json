@@ -1,0 +1,115 @@
+{
+    "legacy_product_id": "250676",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Passage Lever for Panic Device, Global TH1100-LHPS",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-TH1100-LHPS",
+            "mpn": "GLO-TH1100-LHPS",
+            "price": "76.92",
+            "compare_at_price": "109.89",
+            "contractor_price": "69.23",
+            "shipping_weight": "2.0",
+            "tags": [
+                "GLO-TH1100-LHPS Panic Device Exterior Passage Levers",
+                "Passage Lever for Panic Devices",
+                "Global TH1100-LHPS passage function touch bar levers",
+                "Global Series TH1100EDTBAR outside trim"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/TH1100-LHPS-lever_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/TH1100-LHPS-lever_525.jpg?v=1716422433"
+        },
+        "text": {
+            "description_html": "<b>Passage Lever for Panic Device</b>\r\n<p>\r\nThis is a Passage Function Lever (Non Locking) for Global <a href=\"/products/30-to-36-inch-wide-door-touch-bar-rim-exit-device-th1100edtbar\"><b>TH1100EDTBAR Touch Bar Rim Exit Devices</b></a> and other manufactures <a href=\"/collections/panic-devices\"><b>Panic Devices</b></a>.\r\n</p>\r\n<p>\r\nPackaged with mounting hardware and instructions.\r\n</p>\r\n<p>\r\nWill fit a standard 2-1/8\" bore hole. Removable studs so it works with doors prepared with and with out commercial thru-bolt holes.\r\n</p>\r\n<p>\r\n<b>Features</b> for Global TH1100-LHPS Passage Function Lever\r\n<ul>\r\n<li>Function: Passage - Entry by turning lever. Non locking.</li>\r\n<li>Rosette Diameter: 3-1/8\"</li>\r\n<li>Lever Length: 5\"</li>\r\n<li>Lever Projection: 2-3/4\"</li>\r\n<li>Finish: <b>Satin Chrome</b> or <b>Dark Bronze</b></li>\r\n<li>Non Handed</li>\r\n<li>Fits standard door preps</li>\r\n<li>ADA Compliant</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/handicap-logo.jpg?v=1704353001\" width=\"100\" height=\"98\" border=\"0\" alt=\"ADA Compliant Handicap Logo\">\r\n</p>",
+            "seo": {
+                "title": "Passage Lever for Panic Device, Global TH1100-LHPS",
+                "description": "This is a Passage Function Lever (Non Locking) for Global TH1100EDTBAR Touch Bar Rim Exit Devices and other manufactures Panic Devices.",
+                "keywords": "GLO-TH1100-LHPS Panic Device Exterior Passage Levers, Passage Lever for Panic Devices, Global TH1100-LHPS passage function touch bar levers, Global Series TH1100EDTBAR outside trim,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Global Panic Hardware",
+                    "sort": "30"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "222660",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "175466",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "174671",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "175455",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "174586",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "175893",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "208174",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "208374",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "222609",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: TH1100-LHPS-626: Satin Chrome",
+                "Select Finish: TH1100-LHPS-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TH1100-LHPS-626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TH1100-LHPS-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

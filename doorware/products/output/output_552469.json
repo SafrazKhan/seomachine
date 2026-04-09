@@ -1,0 +1,149 @@
+{
+    "legacy_product_id": "552469",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Leaf Cabinet Knob, RK International CK-202",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-202",
+            "mpn": "RKI-CK-202",
+            "price": "11.99",
+            "compare_at_price": "14.63",
+            "contractor_price": "11.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RKI-CK-202",
+                "Fancy Leaf Cabinet Pulls",
+                "Leaf Cabinet Knobs",
+                "RK International CK-202",
+                "Leaf Shaped Cabinet Hardware",
+                "nature hardware",
+                "ranch decor",
+                "leaves knobs",
+                "furniture knobs",
+                "furniture hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-202-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-202-525.jpg?v=1716424378"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-202, Fancy Leaf Cabinet Pulls</b>\r\n\r\n<p>\r\nA great finishing touch to any piece, the Fancy Leaf furniture pull will bring a beautiful touch of nature inside. It has a sense of movement from the artistic design that elevates it above the ordinary. The Leaf Cabinet Knob is available in 6 finishes including polished brass (pictured) and satin nickel; and it comes packaged with the necessary mounting hardware.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching <a href=\"/products/two-leaves-cabinet-pull-rk-international-cp-402\"><b>CP-402 Leaf Cabinet Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-202 Leaf Shaped Cabinet Hardware:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 1-3/4\"</li>\r\n<li>Width: 1-3/16\"</li>\r\n<li>Projection: 1\"</li?\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/norton-closer-arms.jpg?v=1704354564\" width=\"599\" height=\"123\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Leaf Cabinet Knob",
+                "description": "RK International CK-202, Leaf Cabinet Knob - A great finishing touch to any piece, the Fancy Leaf furniture pull will bring a beautiful touch of nature inside. It has a sense of movement from the artistic design that elevates it above the ordinary. The Leaf Cabinet Knob is available in 6 finishes including polished brass and satin nickel; and it comes packaged with the necessary mounting hardware.",
+                "keywords": "RKI-CK-202, Fancy Leaf Cabinet Pulls, Leaf Cabinet Knobs, RK International CK-202, Leaf Shaped Cabinet Hardware, nature hardware, ranch decor, leaves knobs, furniture knobs, furniture hardware,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "8"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "176128",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "10365",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "552490",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "552926",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "142882",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "176121",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "901462",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: B: Polished Brass",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

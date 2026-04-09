@@ -1,0 +1,115 @@
+{
+    "legacy_product_id": "1245885",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Kwikset Tustin Lever Interior Trim Kit for Handleset, KWI-966-TNL",
+            "vendor": "Kwikset",
+            "status": "ARCHIVED",
+            "sku": "KWI-966-TNL",
+            "mpn": "KWI-966-TNL",
+            "price": "66.99",
+            "compare_at_price": "83.5",
+            "contractor_price": "66.99",
+            "shipping_weight": "0.0",
+            "tags": [
+                "Kwikset Tustin Lever Interior Trim Kit for Handleset",
+                "KWI-966-TNL"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525328.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525328.gif?v=1769496444"
+        },
+        "text": {
+            "description_html": "<b>Kwikset Tustin Lever Interior Trim Kit for Handleset, KWI-966-TNL</b>\r\n<p>Interior trim pack set for  <a href=\"/collections/kwikset-signature-series\"><b>Kwikset Signature Series Single Cylinder Handlesets</b></a>. \r\n</p>\r\n<p>Note: Does NOT include the exterior handleset.\r\n</p>",
+            "seo": {
+                "title": "Kwikset Tustin Lever Interior Trim Kit for Handleset, KWI-966-TNL",
+                "description": "Kwikset Tustin Lever Interior Trim Kit for Handleset, KWI-966-TNL",
+                "keywords": "Kwikset Tustin Lever Interior Trim Kit for Handleset, KWI-966-TNL"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Kwikset Parts",
+                    "sort": "26"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US11P: Venetian Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US26: Polished Chrome",
+                "Select Handing: LH: Left Handing",
+                "Select Handing: RH: Right Handing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US11P: Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LH: Left Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RH: Right Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

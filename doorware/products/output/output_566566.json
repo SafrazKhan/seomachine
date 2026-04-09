@@ -1,0 +1,133 @@
+{
+    "legacy_product_id": "566566",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Beaded Bail Pull, RK International CP-3707",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CP-3707",
+            "mpn": "RKI-CP-3707",
+            "price": "21.99",
+            "compare_at_price": "26.95",
+            "contractor_price": "21.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "RKI-CP-3707",
+                "Beaded Bail Pulls",
+                "Sculptured Beaded Bail Cabinet Pulls",
+                "Beaded Middle Hanging Pulls",
+                "Simple Beaded Cabinet Pulls",
+                "Traditional Beaded Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/cp-3707-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/cp-3707-525.jpg?v=1716424601"
+        },
+        "text": {
+            "description_html": "<b>RK International CP-3707, Traditional Beaded Bail Cabinet Pull</b>\r\n\r\n<p>\r\nMeasuring 3 inches from center to center, RK International's Beaded Bail Pull exhibits classic beauty. Traditional cabinet pulls like this one add warmth to where ever they are installed; and this sculptured beaded bail pull is suitable for kitchen cabinets, bathroom vanities, and even dresser drawers. Available in 5 finishes including distressed nickel (pictured right) and antique english.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CP-3707 3\" Simple Beaded Cabinet Door Pull:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 4\"</li>\r\n<li>Width: 1/2\"</li>\r\n<li>Projection: 5/8\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MUL-T-LOCK-G55G1_size.gif?v=1704354738\" width=\"600\" height=\"146\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Beaded Bail Pull",
+                "description": "RK International CP-3707, Beaded Bail Pull - Measuring 3 inches from center to center, RK International's Beaded Bail Pull exhibits classic beauty. Traditional cabinet pulls like this one add warmth to where ever they are installed; and this sculptured beaded bail pull is suitable for kitchen cabinets, bathroom vanities, and even dresser drawers. Available in 5 finishes including distressed nickel and antique english.",
+                "keywords": "RKI-CP-3707, Beaded Bail Pulls, Sculptured Beaded Bail Cabinet Pulls, Beaded Middle Hanging Pulls, Simple Beaded Cabinet Pulls, Traditional Beaded Cabinet Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "6"
+                },
+                {
+                    "name": "RK International Cabinet Pulls and Flush Pulls",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "42914",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "41720",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "176134",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "354189",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "357953",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "560227",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "legacy_product_id": "551044",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Swirl Design Palermo Cabinet Knob, RK International CK-115",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-115",
+            "mpn": "RKI-CK-115",
+            "price": "12.99",
+            "compare_at_price": "16.39",
+            "contractor_price": "12.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RK International CK-115",
+                "RKI-CK-115",
+                "RK International CK 115",
+                "Swirl Design Palermo Cabinet Knobs",
+                "Palermo Cabinet Door Knob",
+                "RK International Palermo Collections",
+                "fancy cabinet pulls",
+                "swirl cabinet hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-115-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-115-525.jpg?v=1716424356"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-115, Palermo Cabinet Door Knob</b>\r\n\r\n<p>\r\nThe fanciful design of RK International's Palermo Collection Cabinet Knob will be sure to add a bit of whimsy to any space. This little knob is perfect for use in the kitchen, the bathroom, or even on the office desk drawers. The CK-115 Swirl Design Palermo Cabinet Knob is available in 6 finishes and comes packaged with all the necessary installation hardware.\r\n</p>\r\n\r\n<p>\r\nAlso Available: \r\n<a href=\"/products/rectangle-palermo-collection-cabinet-knob-rk-international-ck-116\"><b>Palermo Rectangular Cabinet Knob</b></a>, \r\n<a href=\"/products/fancy-palermo-cabinet-door-pull-rk-international\"><b>Palermo Cabinet Pull</b></a>, \r\n<a href=\"/products/palermo-cabinet-cup-pull-rk-international-cf-915\"><b>Palermo Cabinet Cup Pull</b></a>, and <a href=\"/products/12-inch-palermo-refrigerator-pull-rk-international-ap-ph-6615\"><b>Palermo Appliance Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Palermo Collection CK-115 Cabinet Door Knob:\r\n<ul>\r\n<li>Length: 1-1/4\"</li>\r\n<li>Width: 1-3/16\"</li>\r\n<li>Projection: 1-13/32\"</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Swirl Design Palermo Cabinet Knob",
+                "description": "RK International CK-115, Swirl Design Palermo Cabinet Knob - The fanciful design of RK International's Palermo Collection Cabinet Knob will be sure to add a bit of whimsy to any space. This little knob is perfect for use in the kitchen, the bathroom, or even on the office desk drawers. The CK-115 Swirl Design Palermo Cabinet Knob is available in 6 finishes and comes packaged with all the necessary installation hardware.",
+                "keywords": "RK International CK-115, RKI-CK-115, RK International CK 115, Swirl Design Palermo Cabinet Knobs, Palermo Cabinet Door Knob, RK International Palermo Collections, fancy cabinet pulls, swirl cabinet hardware,"
+            },
+            "specifications": [
+                {
+                    "key": "Length",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Width",
+                    "value": "1-3/16\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-13/32\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "6"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "41466",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "38018",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "425080",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "29605",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "43356",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "445233",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Length: 1-1/4\"",
+                "Width: 1-3/16\"",
+                "Projection: 1-13/32\"",
+                "Select Finish: BE: Brushed English",
+                "Select Finish: VB: Valencia Bronze",
+                "Select Finish: RB: Oil Rubbed Bronze",
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: SNB: Satin Nickel",
+                "Select Finish: WN: Weathered Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BE: Brushed English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "VB: Valencia Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SNB: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "WN: Weathered Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

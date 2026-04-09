@@ -1,0 +1,178 @@
+{
+    "legacy_product_id": "855436",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Deco Triple Rocker Plate, Grandeur DECSWPLTR3",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-DECSWPLTR3",
+            "mpn": "GRA-DECSWPLTR3",
+            "price": "55.2",
+            "compare_at_price": "69.0",
+            "contractor_price": "55.2",
+            "shipping_weight": "1.0",
+            "tags": [
+                "GRA-DECSWPLTR3",
+                "Grandeur DECSWPLTR3",
+                "palm springs switch plates",
+                "stepped switch plates",
+                "Grandeur deco collections",
+                "mid-century modern switch plates",
+                "Deco Triple Rocker Covers",
+                "Deco Triple Rocker Plates",
+                "Deco Triple Toggle Switch Plate Covers",
+                "Grandeur Rocker Plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-DECSWPLTR3-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-DECSWPLTR3-525.jpg?v=1716426007"
+        },
+        "text": {
+            "description_html": "<b>Grandeur DECSWPLTR3, Deco Triple Toggle Switch Plate Cover</b>\r\n\r\n<p>\r\nThe Deco Triple Rocker Plate is available in a wide array of finishes, both traditional and modern for a look that will blend seamlessly into any home. This rocker switch plate cover has a retro 1920's design, perfect for any mid-century modern space. It comes packaged with the mounting hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur Rocker Plates:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 6-3/4\"</li>\r\n<li>Width: 5-1/8\"</li>\r\n<li>Projection: 5/16\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Deco Triple Rocker Plate",
+                "description": "The Deco Triple Rocker Plate is available in a wide array of finishes, both traditional and modern for a look that will blend seamlessly into any home. This rocker switch plate cover has a retro 1920's design, perfect for any mid-century modern space. It comes packaged with the mounting hardware.",
+                "keywords": "GRA-DECSWPLTR3, Grandeur DECSWPLTR3, palm springs switch plates, stepped switch plates, Grandeur deco collections, mid-century modern switch plates, Deco Triple Rocker Covers, Deco Triple Rocker Plates, Deco Triple Toggle Switch Plate Covers, Grandeur Rocker Plates,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "6-3/4\""
+                },
+                {
+                    "key": "Width",
+                    "value": "5-1/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "5/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Electrical Outlet &amp; Switch Plates",
+                    "sort": "66"
+                },
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "14"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "198824",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "261984",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "600224",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "40973",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "294822",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "237840",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "855450",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 6-3/4\"",
+                "Width: 5-1/8\"",
+                "Projection: 5/16\"",
+                "Select Finish: TB: Timeless Bronze",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: AP: Antique Pewter",
+                "Select Finish: ULB: Unlacquered Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ULB: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

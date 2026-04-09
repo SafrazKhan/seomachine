@@ -1,0 +1,109 @@
+{
+    "legacy_product_id": "843993",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Glynn Johnson Angle Jamb Bracket for 450 Series Overhead Stops",
+            "vendor": "Glynn-Johnson",
+            "status": "ARCHIVED",
+            "sku": "GLY-AJK45028",
+            "mpn": "GLY-AJK45028",
+            "price": "60.0",
+            "compare_at_price": "60.0",
+            "contractor_price": "60.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Glynn Johnson Angle Jamb Brackets",
+                "Glynn Johnson Angle Jamb Bracket for 450 Series Overhead Stops",
+                "Glynn Johnson overhead stop angle jamb brackets",
+                "GLY-AJK45028",
+                "Glynn Johnson AJK45028",
+                "Glynn Johnson 450J"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLY-450J-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLY-450J-5251.jpg?v=1716425976"
+        },
+        "text": {
+            "description_html": "<b>Glynn Johnson Angle Jamb Bracket for 450 Series Overhead Stop</b>\r\n\r\n<p>\r\nThis Glynn Johnson Angle Jamb Bracket is used on <a href=\"/products/glynn-johnson-450-series-medium-duty-surface-overhead-holder-stop\">450 Series Overhead Stops</a>. The Angle Jamb Bracket for hinge-side or flush transom mounting. The angle jamb bracket affixes to the standard jamb bracket.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Glynn Johnson Angle Jamb Bracket:\r\n<ul>\r\n<li>Length: 2-1/4\"</li>\r\n<li>Width: 1-1/4\"</li>\r\n<li>Thickness: 3/16\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Glynn Johnson Angle Jamb Bracket for 450 Series Overhead Stops",
+                "description": "This Glynn Johnson Angle Jamb Bracket is used on 450 Series Overhead Stops. The Angle Jamb Bracket for hinge-side or flush transom mounting. The angle jamb bracket affixes to the standard jamb bracket.",
+                "keywords": "Glynn Johnson Angle Jamb Brackets, Glynn Johnson Angle Jamb Bracket for 450 Series Overhead Stops, Glynn Johnson overhead stop angle jamb brackets, GLY-AJK45028, Glynn Johnson AJK45028, Glynn Johnson 450J"
+            },
+            "specifications": [
+                {
+                    "key": "Length",
+                    "value": "2-1/4\""
+                },
+                {
+                    "key": "Width",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Thickness",
+                    "value": "3/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Glynn-Johnson",
+                    "sort": "21"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "71498",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "71236",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "71570",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "154364",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "560878",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Length: 2-1/4\"",
+                "Width: 1-1/4\"",
+                "Thickness: 3/16\"",
+                "Select Finish: Aluminum Paint"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Aluminum Paint",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

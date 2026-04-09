@@ -1,0 +1,95 @@
+{
+    "legacy_product_id": "920686",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin Estates Extension Kit for Handlesets, Baldwin 5399.xxx.C",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-5399.xxx.C",
+            "mpn": "BAL-5399.xxx.C",
+            "price": "80.0",
+            "compare_at_price": "80.0",
+            "contractor_price": "80.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "BAL-5399.xxx.C",
+                "Baldwin Estates Extension Kit for Handlesets",
+                "Thick Door Kit for Baldwin Estates Handlesets",
+                "Baldwin 5399.xxx.C"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-5399.xxx.A-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-5399.xxx.A-525.jpg?v=1716426875"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 5399.xxx.C, Thick Door Kit for Baldwin Estates Handlesets with Emergency Egress</b>\r\n\r\n<p>\r\nThis is a Baldwin Estates extension kit for Emergency Egress handlesets to fit doors 2 inches and 2-1/4 inches thick.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Baldwin Estates Extension Kit for Handlesets",
+                "description": "This is a Baldwin Estates extension kit for Emergency Egress handlesets to fit doors 2 inches and 2-1/4 inches thick.",
+                "keywords": "BAL-5399.xxx.C, Baldwin Estates Extension Kit for Handlesets, Thick Door Kit for Baldwin Estates Handlesets, Baldwin 5399.xxx.C,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "34"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "749108",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "250724",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "761063",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "761045",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: BAL-5399.102.C: Oil Rubbed Bronze",
+                "Select Finish: BAL-5399.112.C: Venetian Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BAL-5399.102.C: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BAL-5399.112.C: Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

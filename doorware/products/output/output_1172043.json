@@ -1,0 +1,111 @@
+{
+    "legacy_product_id": "1172043",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "5190 Lever Minus Rose, Baldwin 5190.MR",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-5190.MR",
+            "mpn": "BAL-5190.MR",
+            "price": "127.2",
+            "compare_at_price": "159.0",
+            "contractor_price": "127.2",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Baldwin Estates Collection 5190 Levers",
+                "BAL-5190.MR",
+                "Baldwin 5190.MR"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-5190LMR-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-5190LMR-525.jpg?v=1716428764"
+        },
+        "text": {
+            "description_html": "<b>Baldwin Estates Collection 5190 Lever </b>\r\n\r\n<p>\r\nThis is a Baldwin 5190 Single Lever Less Rose.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Baldwin 5190 Lever:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Lever Length: 4\"</li>\r\n<li>Lever Projection: 2-2/5\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold as a single (1) lever without rose</i>\r\n</p>",
+            "seo": {
+                "title": "5190 Lever Minus Rose",
+                "description": "This is a Baldwin 5190 Single Lever Less Rose.",
+                "keywords": "Baldwin Estates Collection 5190 Levers, BAL-5190.MR, Baldwin 5190.MR"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "53"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "326018",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "186360",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1100954",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "234756",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 056: Lifetime Satin Nickel",
+                "Select Handing: Right Hand",
+                "Select Handing: Left Hand"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "056: Lifetime Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Right Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Right"
+                },
+                {
+                    "value": "Left Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Left"
+                }
+            ]
+        }
+    ]
+}

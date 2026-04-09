@@ -1,0 +1,161 @@
+{
+    "legacy_product_id": "857329",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "New York Double Rocker Switch Plate, Grandeur NYKSWPLTR2",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-NYKSWPLTR2",
+            "mpn": "GRA-NYKSWPLTR2",
+            "price": "33.99",
+            "compare_at_price": "42.0",
+            "contractor_price": "33.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Grandeur NYKSWPLTT2",
+                "GRA-NYKSWPLTT2 Double New York Rocker Light Switch Covers",
+                "New York Double Rocker Switch Plates",
+                "New York Double Rocker Switch Cover Plates",
+                "Grandeur New York Switch Covers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-NYKSWPLTR2-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-NYKSWPLTR2-525.jpg?v=1716426059"
+        },
+        "text": {
+            "description_html": "<b>Grandeur NYKSWPLTT2, New York Double Rocker Switch Cover Plate</b>\r\n\r\n<p>\r\nThis timeless switch plate has been a favorite for its clean, classic look. The New York Double Rocker Switch Plate is not defined by common design trends, being both traditional and contemporary in an elegant mix that makes it suitable for any room in nearly every household. The Grandeur made New York Switch Cover is available in a wide array of finishes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur New York Switch Cover:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 4-5/8\"</li>\r\n<li>Width: 4-5/8\"</li>\r\n<li>Projection: 5/16\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "New York Double Rocker Switch Plate",
+                "description": "This timeless switch plate has been a favorite for its clean, classic look. The New York Double Rocker Switch Plate is not defined by common design trends, being both traditional and contemporary in an elegant mix that makes it suitable for any room in nearly every household. The Grandeur made New York Switch Cover is available in a wide array of finishes.",
+                "keywords": "Grandeur NYKSWPLTT2, GRA-NYKSWPLTT2 Double New York Rocker Light Switch Covers, New York Double Rocker Switch Plates, New York Double Rocker Switch Cover Plates, Grandeur New York Switch Covers,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "4-5/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "4-5/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "5/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Electrical Outlet &amp; Switch Plates",
+                    "sort": "88"
+                },
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "44"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "857553",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "449259",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "823193",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "823010",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 4-5/8\"",
+                "Width: 4-5/8\"",
+                "Projection: 5/16\"",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: ULB: Unlacquered Brass",
+                "Select Finish: TB: Timeless Bronze",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: AP: Antique Pewter"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ULB: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

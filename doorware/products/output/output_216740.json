@@ -1,0 +1,242 @@
+{
+    "legacy_product_id": "216740",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Sunburst Decorative Door Knob, Brass Accents D05-K300",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "BRA-D05-K300",
+            "mpn": "BRA-D05-K300",
+            "price": "62.4",
+            "compare_at_price": "78.0",
+            "contractor_price": "62.4",
+            "shipping_weight": "3.0",
+            "tags": [
+                "BRA-D05-K300  Decorative Door Knobs",
+                "Brass Accents D05-K300 Sunburst Decorative Door Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BRA-D05-K300-decorative-knob_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BRA-D05-K300-decorative-knob_525.jpg?v=1716422120"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents D05-K300 Sunburst Decorative Door Knob</b>\r\n<p>\r\nThe Sunburst decorative door knob is unobtrusive but visually rewarding for people who notice fine detail. Simple elegance in a door knob design made popular in the 1930\"s. \r\n</p>\r\n<p>\r\n<B>Specifications</B> of Brass Accents D05-K300 Sunburst Decorative Door Knob\r\n<ul>\r\n<li>Rosette Diameter: 2-7/8\"</li>\r\n<li>Fits Standard 2-1/8\" Pre-Drilled Doors</li>\r\n<li>Backset: Optional 2-3/8\" or 2-3/4\"</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Available in 13 Finishes</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<B>Available Functions</B> Sunburst Decorative Door Knob\r\n<ul>\r\n<li>Single Dummy: For use as a pull or to match trim.</li>\r\n<li>Double Dummy: Stationary both sides of door</li>\r\n<li>Passage (Hall or Closet): For doors that don't need locking.</li>\r\n<li>Privacy (Bedroom or Bathroom): For doors that could need locking.</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Sunburst Decorative Door Knob, Brass Accents D05-K300",
+                "description": "",
+                "keywords": "BRA-D05-K300  Decorative Door Knobs, Brass Accents D05-K300 Sunburst Decorative Door Knobs,"
+            },
+            "specifications": [
+                {
+                    "key": "Rosette Diameter",
+                    "value": "2-7/8\""
+                },
+                {
+                    "key": "Backset",
+                    "value": "Optional 2-3/8\" or 2-3/4\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "BRA-discontinued-custom",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Rosette Diameter: 2-7/8\"",
+                "Backset: Optional 2-3/8\" or 2-3/4\"",
+                "Material: Solid Brass",
+                "Select Function: BRA-D05-K300S - Single Dummy",
+                "Select Function: BRA-D05-K300D - Double Dummy",
+                "Select Function: BRA-D05-K300PA - Passage (Hall or Closet)",
+                "Select Function: BRA-D05-K300PV - Privacy (Bedroom or Bathroom)",
+                "Select Finish: US3 - Polished Brass",
+                "Select Finish: US5 - Antique Brass",
+                "Select Finish: US26 - Polished Chrome",
+                "Select Finish: US19 - Weathered Black",
+                "Select Finish: 770 - Weathered Rust",
+                "Select Finish: US4 - Satin Brass",
+                "Select Finish: US10B - Oil Rubbed Bronze",
+                "Select Finish: US15 - Satin Nickel",
+                "Select Finish: US15A - Pewter",
+                "Select Finish: US11P - Venetian Bronze",
+                "Select Finish: 657 - Antique Copper",
+                "Select Finish: US14 - Polished Nickel",
+                "Select Finish: US22 - Verdigris",
+                "Select Backset: 2-3/8in. Backset",
+                "Select Backset: 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BRA-D05-K300S - Single Dummy",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRA-D05-K300D - Double Dummy",
+                    "price_impact": 62.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRA-D05-K300PA - Passage (Hall or Closet)",
+                    "price_impact": 62.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRA-D05-K300PV - Privacy (Bedroom or Bathroom)",
+                    "price_impact": 62.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3 - Polished Brass ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US5 - Antique Brass",
+                    "price_impact": 22.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26 - Polished Chrome",
+                    "price_impact": 22.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19 - Weathered Black",
+                    "price_impact": 22.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "770 - Weathered Rust",
+                    "price_impact": 22.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4 - Satin Brass",
+                    "price_impact": 22.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B - Oil Rubbed Bronze",
+                    "price_impact": 22.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15 - Satin Nickel",
+                    "price_impact": 29.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15A - Pewter",
+                    "price_impact": 29.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US11P - Venetian Bronze",
+                    "price_impact": 29.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "657 - Antique Copper",
+                    "price_impact": 29.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14 - Polished Nickel",
+                    "price_impact": 29.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US22 - Verdigris",
+                    "price_impact": 29.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

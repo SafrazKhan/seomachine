@@ -1,0 +1,99 @@
+{
+    "legacy_product_id": "775329",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Single Fin V Seal, Pemko S44D18",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "PEM-S44D18",
+            "mpn": "PEM-S44D18",
+            "price": "30.42",
+            "compare_at_price": "30.42",
+            "contractor_price": "30.42",
+            "shipping_weight": "5.0",
+            "tags": [
+                "18 Single Fin V Seals",
+                "Single Fin V Seals",
+                "Pemko S44D18",
+                "PEM-S44D18"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PEM-S44D18-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PEM-S44D18-525.jpg?v=1717106253"
+        },
+        "text": {
+            "description_html": "<b>Pemko S44D18, Dark Brown Silicone Single Fin V Seal</b>\r\n\r\n<p>\r\nPemko's Single Fin V Seal is built to withstand almost anything mother nature can throw at it. It will not deteriorate under normal exposure to water or sunlight. It can function in extreme high or low temperatures. Plus, it meets the requirements of Standard for the Installation of Smoke Door Assemblies and Other Opening Protectives.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Single Fin V Door Seal:\r\n<ul>\r\n<li>Finish and Material: Dark Brown Silicone</li>\r\n<li>Length: 18 Feet or 510 Feet</li>\r\n<li>Demonstrates extremely low closing force.</li>\r\n<li>Seal begins compressing at 5/16\". Compresses to seal up to a 1/16\" gap.</li>\r\n<li>SiliconSeal is extruded from high-temperature silicone; effective between -58°F and 450°F.</li>\r\n<li>Self-extinguishing and non-toxic. Unaffected by sunlight, ozone and ultraviolet rays.</li>\r\n<li>Impervious to fungus and mildew; will not deteriorate under normal exposure.</li>\r\n<li>Meets FAR 25.853 Airworthiness Standards for Compartment Interiors.</li>\r\n<li>Smoke tested in accordance with UBC 7-2 and UL 1784-01; meets the requirements of NFPA 105 \"Standard for the Installation of Smoke Door Assemblies and Other Opening Protectives\".</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</1>\r\n</p>",
+            "seo": {
+                "title": "Single Fin V Seal, Pemko S44D18",
+                "description": "Pemko S44D18, Single Fin V Seal - Pemko's Single Fin V Seal is built to withstand almost anything mother nature can throw at it. It will not deteriorate under normal exposure to water or sunlight. It can function in extreme high or low temperatures. Plus, it meets the requirements of Standard for the Installation of Smoke Door Assemblies and Other Opening Protectives.",
+                "keywords": "18 Single Fin V Seals, Single Fin V Seals, Pemko S44D18, PEM-S44D18"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Pemko",
+                    "sort": "21"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "232553",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "303733",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "431375",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Size: 18 Feet",
+                "Select Size: 21 Feet",
+                "Select Size: 510 Feet"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "18 Feet",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "21 Feet",
+                    "price_impact": 5.07,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "510 Feet",
+                    "price_impact": 826.38,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "legacy_product_id": "974190",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Bommer Horizontal Spring Hinge Cover Plates, Bommer 7811-11",
+            "vendor": "Bommer",
+            "status": "ARCHIVED",
+            "sku": "BOM-7811-11",
+            "mpn": "BOM-7811-11",
+            "price": "54.76",
+            "compare_at_price": "54.76",
+            "contractor_price": "54.76",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Bummer 7811-11 Trim cover plates",
+                "BOM-7811-11 for Bommer 7811 Floor Spring Hinges",
+                "Bommer 7813 Trim cover plates",
+                "Bommer Trim cover plates floor Hinges",
+                "Bommer 7813HD Trim cover plates",
+                "Bommer Horizontal Spring Hinges"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/bommer-7811-11_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/bommer-7811-11_525.jpg?v=1716427309"
+        },
+        "text": {
+            "description_html": "<b>Bommer 7811-11 Trim Cover Plate Set</b>\r\n<p>\r\nTrim cover plate set for use with <a href=\"/products/horizontal-floor-spring-hinge-set-with-hold-open-bommer-7811\"><b>Bommer 7811</b></a> and <a href=\"/products/horizontal-floor-spring-hinge-set-bommer-7813\"><b>Bommer 7813</b></a>.\r\n</p>\r\n<p>\r\nSet includes (2) side cover plates and the back cover plate. Also includes the mounting screws.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Bommer 7811-11 Trim Cover Plate Set\r\n<ul>\r\n<li>Material: Steel</li>\r\n<li>Side Plate Length: 9-3/4\"</li>\r\n<li>Side Plate Height: 2-19/32\"</li>\r\n<li>Side Plate Depth: 3/8\"</li>\r\n<li>Back Plate Width: 1-1/8\"</li>\r\n<li>Back Plate Height: 3-1/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n</p>\r\n<p><b>*Sold Individually. </b>\r\n</p>\r\n<p>\r\n<br>\r\n<br>\r\n<b>** This item is Discontinued. Use <a href=\"/products/floor-spring-hinge-cover-plate-deltana-dashcp\"><b>Deltana Cover Plates </b></a></b>\r\n</p>",
+            "seo": {
+                "title": "Bommer Horizontal Spring Hinge Cover Plates",
+                "description": "Bommer 7811-11 Trim cover plates for Bommer 7811, Bommer 7813 and Bommer 7813HD Horizontal Spring Hinges. Set includes (2) side plates and the back plate.",
+                "keywords": "Bummer 7811-11 Trim cover plates,  BOM-7811-11 for Bommer 7811 Floor Spring Hinges,  Bommer 7813 Trim cover plates, Bommer Trim cover plates floor Hinges, Bommer 7813HD Trim cover plates, Bommer Horizontal Spring Hinges,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Steel"
+                },
+                {
+                    "key": "Side Plate Length",
+                    "value": "9-3/4\""
+                },
+                {
+                    "key": "Side Plate Height",
+                    "value": "2-19/32\""
+                },
+                {
+                    "key": "Side Plate Depth",
+                    "value": "3/8\""
+                },
+                {
+                    "key": "Back Plate Width",
+                    "value": "1-1/8\""
+                },
+                {
+                    "key": "Back Plate Height",
+                    "value": "3-1/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Bommer Horizontal Spring Hinges",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "974161",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "685961",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "427702",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "974166",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "239667",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "446477",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Steel",
+                "Side Plate Length: 9-3/4\"",
+                "Side Plate Height: 2-19/32\"",
+                "Side Plate Depth: 3/8\"",
+                "Back Plate Width: 1-1/8\"",
+                "Back Plate Height: 3-1/4\"",
+                "Select Finish: 632: Bright Brass Clear Coated"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "632: Bright Brass Clear Coated",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

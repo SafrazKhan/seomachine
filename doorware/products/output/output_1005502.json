@@ -1,0 +1,93 @@
+{
+    "legacy_product_id": "1005502",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Omnia Lever Privacy Rose Kit, Omnia RKT/0.PR1",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-RKT/0.PR1",
+            "mpn": "OMN-RKT/0.PR1",
+            "price": "99.2",
+            "compare_at_price": "124.0",
+            "contractor_price": "99.2",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Omnia Privacy Rose Kit for Lever sets",
+                "Omnia Lever Privacy Rose Kit",
+                "Omnia RKT/0.PR1",
+                "OMN-RKT/0.PR1"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52593.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52593.gif?v=1717106410"
+        },
+        "text": {
+            "description_html": "<b>Omnia RKT/0.PR1, Privacy Rose Kit for Leversets</b>\r\n\r\n<p>\r\nThis is a Privacy Rose Kit for <a href=\"/collections/omnia-levers\">Omnia Leversets</a>.\r\n</p>",
+            "seo": {
+                "title": "Omnia Lever Privacy Rose Kit",
+                "description": "This is a Privacy Rose Kit for Omnia Lever Sets.",
+                "keywords": "Omnia Privacy Rose Kit for Lever sets, Omnia Lever Privacy Rose Kit, Omnia RKT/0.PR1, OMN-RKT/0.PR1,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "70"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Door Thickness: 1-3/4in. Door Thickness",
+                "Select Backset: 2-3/8in. Backset",
+                "Select Backset: 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1-3/4in. Door Thickness",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

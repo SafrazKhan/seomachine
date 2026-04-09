@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "953488",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Replacement Rubber Door Stop Bumper for UFBS138, Deltana RUBBERTIP-UFBS",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-RUBBERTIP-UFBS",
+            "mpn": "DEL-RUBBERTIP-UFBS",
+            "price": "3.97",
+            "compare_at_price": "5.29",
+            "contractor_price": "3.77",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Deltana RUBBERTIP-UFBS",
+                "Deltana UFBS138 Replacement Rubbers",
+                "Deltana RUBBERTIP-UFBS Replacement Rubber Door Stop bumpers",
+                "DEL-RUBBERTIP-UFBS"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-UFBSG-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-UFBSG-525.jpg?v=1716427230"
+        },
+        "text": {
+            "description_html": "<b>Deltana RUBBERTIP-UFBS, Deltana UFBS138 Replacement Rubber</b>\r\n\r\n<p>\r\nThis is a rubber replacement bumper for the <a href=\"/products/solid-brass-modern-square-door-stop-deltana-ufbs138\">Deltana UFBS138  Solid Brass Modern Square Door Stop</a>. It is available in Gray or Black rubber.\r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-UFBSG-specifications.gif?v=1704354737\" width\"356\" height=\"151\" border=\"0\" atl=\"Deltana RUBBERTIP-UFBS Specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b> for the Deltana RUBBERTIP-UFBS Replacement Rubber Door Stop Ring:\r\n<ul>\r\n<li>Outer Length: 1-1/4\" square</li>\r\n<li>Height: 3/8\"</li>\r\n<li>Thickness (Projection): 3/16\"</li>\r\n<li>Material: Optional Gray or Black Rubber</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold individually - NO RETURNS</b>\r\n<p>",
+            "seo": {
+                "title": "Replacement Rubber Door Stop Bumper for UFBS138",
+                "description": "This is a rubber replacement bumper for the Deltana UFBS138 Solid Brass Modern Square Door Stop. It is available in Gray or Black rubber.",
+                "keywords": "Deltana RUBBERTIP-UFBS, Deltana UFBS138 Replacement Rubbers, Deltana RUBBERTIP-UFBS Replacement Rubber Door Stop bumpers, DEL-RUBBERTIP-UFBS,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Deltana Door Stops and Door Bumpers",
+                    "sort": "109"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "498088",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "162593",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "879801",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "407752",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "657235",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "256159",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "578545",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Rubber Color: RUBBERTIP-UFBSG: Gray Rubber",
+                "Select Rubber Color: RUBBERTIP-UFBS: Black Rubber"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Rubber Color",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RUBBERTIP-UFBSG: Gray Rubber",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RUBBERTIP-UFBS: Black Rubber",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

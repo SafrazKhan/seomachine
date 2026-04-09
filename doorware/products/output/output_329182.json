@@ -1,0 +1,108 @@
+{
+    "legacy_product_id": "329182",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Adaptor Ring for Grade 1 Key-In-Levers, Don-Jo AR-335",
+            "vendor": "Don-Jo",
+            "status": "ARCHIVED",
+            "sku": "DJO-AR-335",
+            "mpn": "DJO-AR-335",
+            "price": "11.62",
+            "compare_at_price": "28.75",
+            "contractor_price": "11.62",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Don-Jo Polished Brass Adaptor Ring",
+                "DJO-AR-335",
+                "Don-Jo Adaptor Rings",
+                "Adaptor Ring for Grade 1 Key-In-Levers",
+                "DJO-AR335"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-AR335-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-AR335-525.jpg?v=1716423188"
+        },
+        "text": {
+            "description_html": "<b>Grade 1 Key-In-Lever Adaptor Ring, DJO-AR-335</b>\r\n\r\n<p>\r\nThe Don-Jo Grade 1 Lever Door Thickness Adaptor Ring is for use with commercial grade 1 key in levers that don't accommodate 1-3/8 inch thick doors. Just install 2 of these to help a lever that will normally fit a 1-3/4 inch thick door. By adding the extra space, a lever normally used for a thicker door can now be used on a thinner door.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b>of the Don-Jo Polished Brass Adaptor Ring:\r\n<ul>\r\n<li>Overall Diameter: 3.5\"</li>\r\n<li>Cut-out Diameter: 2.125\"</li>\r\n<li>Thickness: 1/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nSold Individually. If you are using to adjust a lever meant for 1-3/4\" thick doors to a door that is 1-3/8\" thick, you will need to buy 2.</b>\r\n</p>",
+            "seo": {
+                "title": "Adaptor Ring for Grade 1 Key-In-Levers, Don-Jo AR-335",
+                "description": "Don-Jo AR-335 Adaptor Ring - The Don-Jo Grade 1 Lever Door Thickness Adaptor Ring is for use with commercial grade 1 key in levers that don't accommodate 1-3/8 inch thick doors. Just install 2 of these to help a lever that will normally fit a 1-3/4 inch thick door. By adding the extra space, a lever normally used for a thicker door can now be used on a thinner door.\r\n",
+                "keywords": "Don-Jo Polished Brass Adaptor Ring, DJO-AR-335, Don-Jo Adaptor Rings, Adaptor Ring for Grade 1 Key-In-Levers, DJO-AR335,"
+            },
+            "specifications": [
+                {
+                    "key": "Overall Diameter",
+                    "value": "3.5\""
+                },
+                {
+                    "key": "Cut-out Diameter",
+                    "value": "2.125\""
+                },
+                {
+                    "key": "Thickness",
+                    "value": "1/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Custom Items",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "648251",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "317386",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "483098",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Overall Diameter: 3.5\"",
+                "Cut-out Diameter: 2.125\"",
+                "Thickness: 1/8\"",
+                "Select Finish: DJO-AR-335-630 - Brushed Stainless Steel",
+                "Select Finish: DJO-AR-335-605 - Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DJO-AR-335-630 - Brushed Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DJO-AR-335-605 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

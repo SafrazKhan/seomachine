@@ -1,0 +1,102 @@
+{
+    "legacy_product_id": "191066",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Friction Hold Open Arm Parallel Arm Bracket for American Eagle 3100, PDQ 999022",
+            "vendor": "PDQ",
+            "status": "ACTIVE",
+            "sku": "PDQ-999022",
+            "mpn": "PDQ-999022",
+            "price": "24.99",
+            "compare_at_price": "33.0",
+            "contractor_price": "22.28",
+            "shipping_weight": "0.5",
+            "tags": [
+                "PDQ-999022",
+                "PDQ-319022 Parallel Bracket for Hold Open Arms",
+                "American Eagle 319022",
+                "PDQ 319022 Friction Hold Open Arm Parallel Arm Bracket for American Eagle 3100 door closers",
+                "PDQ 99022 PAHO bracket"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AE-319022_525.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AE-319022_525.gif?v=1716421847"
+        },
+        "text": {
+            "description_html": "<b>PDQ Hold Open Arm Parallel Bracket for American Eagle 3100 Series</b>\r\n\r\n<p>\r\nFits <a href=\"/products/light-commercial-surface-mount-closer-pdq-3100-bcpa\"><b>American Eagle 3100</b></a> and <a href=\"/products/light-commercial-ada-compliant-surface-mount-closer-pdq-3101-bcpa\"><b>American Eagle 3101</b></a>  Door Closers with Friction Hold Open Arm. \r\n</p>\r\n\r\n<p><b>For use with <a href=\"/products/friction-hold-open-arm-for-american-eagle-3100-pdq-999002\">Friction Hold Open Closer Arm</a> Only</b>.  \r\n</p>\r\n\r\n<p>\r\nNot for use with <a href=\"/products/standard-duty-arm-for-american-eagle-3100-series-pdq-319003\">Standard Closer Arm</a>.  For Standard Closer Arm Parallel mount use <a href=\"/products/standard-parallel-arm-bracket-for-american-eagle-3100-pdq-999001\"><b>PDQ 999001 Parallel Arm Bracket</b></a>.\r\n</p>\r\n<p>\r\nParallel arm mounting brackets are used when the door closer is installed on the <b>Push Side</b> of the door.\r\n</p>\r\n<p>\r\nAvailable in Aluminum or Dark Bronze finish.\r\n</p>",
+            "seo": {
+                "title": "Friction Hold Open Arm Parallel Arm Bracket for American Eagle 3100",
+                "description": "American Eagle 319022 - Use for Parallel Arm mounting American Eagle 3100 series door closer with friction hold open arm. Available in Aluminum or Dark Bronze finish.",
+                "keywords": "PDQ-999022, PDQ-319022 Parallel Bracket for Hold Open Arms, American Eagle 319022, PDQ 319022 Friction Hold Open Arm Parallel Arm Bracket for American Eagle 3100 door closers, PDQ 99022 PAHO bracket,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "American Eagle 3100",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "190791",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "190658",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "190682",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "188548",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "188632",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 689: Aluminum",
+                "Select Finish: 695: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "689: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-319022-689"
+                },
+                {
+                    "value": "695: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-319022-695"
+                }
+            ]
+        }
+    ]
+}

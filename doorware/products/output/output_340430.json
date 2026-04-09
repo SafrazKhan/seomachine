@@ -1,0 +1,180 @@
+{
+    "legacy_product_id": "340430",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Double Cylinder Deadbolt, Brass Accents BRA-D09-D1520",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "BRA-D09-D1520",
+            "mpn": "BRA-D09-D1520",
+            "price": "26.4",
+            "compare_at_price": "33.0",
+            "contractor_price": "25.08",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Double Cylinder Deadbolt",
+                "Brass Accents BRA-D09-D1520"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Brass Accents Double Cylinder Deadbolt</b>\r\n<p>\r\nThe Brass Accents Double Cylinder Deadbolt is keyed on both sides.\r\n</p>\r\n\r\n<p>\r\nThese Deadbolts are made with high quality brass lock cylinders and trim. Plated in your choice of 14 finishes that are highly resistant to tarnishing.\r\n</p>\r\n<p>\r\n<b>Features</b> of Brass Accents BRA-D09-D1520 Double Cylinder Deadbolt\r\n<ul>\r\n<li>Adjustable backset for both standard 2-3/8\" and 2-3/4\"</li>\r\n<li>Fit standard pre-drilled doors</li>\r\n<li>Includes matching mounting hardware</li>\r\n<li>Easy to install</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Double Cylinder Deadbolt, Brass Accents BRA-D09-D1520",
+                "description": "Double Cylinder Deadbolt, Brass Accents BRA-D09-D1520",
+                "keywords": "Double Cylinder Deadbolt, Brass Accents BRA-D09-D1520"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Accessories",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: BRA-D09-D1510-US3 - Polished Brass",
+                "Select Finish: BRA-D09-D1510-US5 - Antique Brass",
+                "Select Finish: BRA-D09-D1510-US26 - Polished Chrome",
+                "Select Finish: BRA-D09-D1510-US19 - Weathered Black",
+                "Select Finish: BRA-D09-D1510-770 - Weathered Rust",
+                "Select Finish: BRA-D09-D1510-US4 - Satin Brass",
+                "Select Finish: BRA-D09-D1510-US10B - Oil Rubbed Bronze",
+                "Select Finish: BRA-D09-D1510-UNL - Unlacquered Brass",
+                "Select Finish: BRA-D09-D1510-US15 - Satin Nickel",
+                "Select Finish: BRA-D09-D1510-US15A - Pewter",
+                "Select Finish: BRA-D09-D1510-US11P - Venetian Bronze",
+                "Select Finish: BRA-D09-D1510-657 - Antique Copper",
+                "Select Finish: BRA-D09-D1510-US14 - Polished Nickel",
+                "Select Finish: BRA-D09-D1510-US22 - Verdigris",
+                "Select Finish: BRA-D09-D1510-Aged Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BRA-D09-D1510-US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRA-D09-D1510-US5 - Antique Brass",
+                    "price_impact": 7.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRA-D09-D1510-US26 - Polished Chrome",
+                    "price_impact": 7.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRA-D09-D1510-US19 - Weathered Black",
+                    "price_impact": 7.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRA-D09-D1510-770 - Weathered Rust",
+                    "price_impact": 7.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRA-D09-D1510-US4 - Satin Brass",
+                    "price_impact": 7.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRA-D09-D1510-US10B - Oil Rubbed Bronze",
+                    "price_impact": 7.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRA-D09-D1510-UNL - Unlacquered Brass",
+                    "price_impact": 7.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRA-D09-D1510-US15 - Satin Nickel",
+                    "price_impact": 11.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRA-D09-D1510-US15A - Pewter",
+                    "price_impact": 11.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRA-D09-D1510-US11P - Venetian Bronze",
+                    "price_impact": 11.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRA-D09-D1510-657 - Antique Copper",
+                    "price_impact": 11.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRA-D09-D1510-US14 - Polished Nickel",
+                    "price_impact": 11.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRA-D09-D1510-US22 - Verdigris",
+                    "price_impact": 11.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRA-D09-D1510-Aged Brass",
+                    "price_impact": 11.9,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "legacy_product_id": "1016128",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Acrylic Deco Design Door Pulls, Back to Back Pair,",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-PR-DECO-AF",
+            "mpn": "FII-PR-DECO-AF",
+            "price": "1311.4",
+            "compare_at_price": "1623.0",
+            "contractor_price": "1311.4",
+            "shipping_weight": "8.0",
+            "tags": [
+                "FII-PR-DECO-AF",
+                "Acrylic Deco Design Door Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-DECO-AF-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-DECO-AF-525.jpg?v=1716427690"
+        },
+        "text": {
+            "description_html": "<b>First Impressions PR-DECO-AF, Frosted Acrylic Deco Door Pull Back-to-Back Set</b>\r\n\r\n\r\n<p>\r\nThis back to back mounted pair of Deco Pulls features (2) frosted acrylic door pulls with hourglass mounts and tiered deco finials. The Acrylic Deco Design Door Pulls is packaged with a Back to Back mounting kit (2 door pulls bolted to each other - 1 door pull for each side of a door). \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the First Impressions PR-DECO-AF Frosted Acrylic Deco Door Pulls:\r\n<ul>\r\n<li>Pull Handle Material: Frosted Acrylic</li>\r\n<li>Pull Bracket and Finial Material: Solid Brass</li>\r\n<li>Pull Bracket and Finial Finish: Antique Brass</li>\r\n<li>Total Length: 48\"</li>\r\n<li>Pull Handle Diameter: 1-1/2\"</li>\r\n<li>Door Thickness: 1-3/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold as a Pair (2 door pull handles) with Back-to-Back mounting. <b>Custom Order. NO RETURNS.</b></i> \r\n</p>",
+            "seo": {
+                "title": "Acrylic Deco Design Door Pulls",
+                "description": "This back to back mounted pair of Deco Pulls features (2) frosted acrylic door pulls with hourglass mounts and tiered deco finials. The Acrylic Deco Design Door Pulls is packaged with a Back to Back mounting kit (2 door pulls bolted to each other - 1 door pull for each side of a door).",
+                "keywords": "FII-PR-DECO-AF, Acrylic Deco Design Door Pulls"
+            },
+            "specifications": [
+                {
+                    "key": "Pull Handle Material",
+                    "value": "Frosted Acrylic"
+                },
+                {
+                    "key": "Pull Bracket and Finial Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Pull Bracket and Finial Finish",
+                    "value": "Antique Brass"
+                },
+                {
+                    "key": "Total Length",
+                    "value": "48\""
+                },
+                {
+                    "key": "Pull Handle Diameter",
+                    "value": "1-1/2\""
+                },
+                {
+                    "key": "Door Thickness",
+                    "value": "1-3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Custom-Misc-Items",
+                    "sort": "125"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "212278",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "472379",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "237840",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "40973",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42944",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "855415",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "262951",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Pull Handle Material: Frosted Acrylic",
+                "Pull Bracket and Finial Material: Solid Brass",
+                "Pull Bracket and Finial Finish: Antique Brass",
+                "Total Length: 48\"",
+                "Pull Handle Diameter: 1-1/2\"",
+                "Door Thickness: 1-3/4\"",
+                "Select Door Material: Wood / Fiberglass",
+                "Select Door Material: Glass",
+                "Select Door Material: Metal"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Material",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Wood / Fiberglass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Glass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Metal",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

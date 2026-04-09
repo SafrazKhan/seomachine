@@ -1,0 +1,204 @@
+{
+    "legacy_product_id": "148872",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Fusion Traditional Solid Brass Deadbolt",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-100-F2,200-F2",
+            "mpn": "FUS-100-F2,200-F2",
+            "price": "59.25",
+            "compare_at_price": "74.0",
+            "contractor_price": "56.25",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Traditional Deadbolt fusion traditional deadbolt",
+                "deadbolt",
+                "single cylinder deadbolt",
+                "security deadbolt",
+                "door lock",
+                "door hardware",
+                "security door hardware",
+                "double cylinder deadbolt",
+                "security door bolt"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/100-F2_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/100-F2_525.jpg?v=1711365162"
+        },
+        "text": {
+            "description_html": "<b>Fusion Traditional Solid Brass Deadbolt<br><br>\r\n<br>\r\nAvailable in<br> \r\n<li>Single Cylinder.  Key outside. Turn Knob inside </li>\r\n<li>Double Cylinder. Key outside and inside</li><br>\r\n<br>\r\n<li>Solid Brass</li>\r\n<li>1\" Throw Bolt With Interior Roll Pins</li>\r\n<li>Heavy Duty Security Strike With 3\" Screws</li>\r\n<br>\r\n<br>Click below to choose FUNCTION, FINISH, KEYING and BACKSET then add to cart.",
+            "seo": {
+                "title": "Fusion Traditional Solid Brass Deadbolt",
+                "description": "Fusion Traditional Solid Brass Deadbolt\r\nAvailable in Single or Double Cylinder, Solid Brass, Heavy Duty Security Strike With 3  Screws ",
+                "keywords": "Traditional Deadbolt fusion traditional deadbolt, deadbolt, single cylinder deadbolt, security deadbolt, door lock, door hardware, security door hardware, double cylinder deadbolt, security door bolt"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion-MISC-Discontinued",
+                    "sort": "46"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Function: 100-F2 - Single Cylinder",
+                "Select Function: 200-F2 - Double Cylinder",
+                "Select Finish: PVD - Lifetime Brass",
+                "Select Finish: BRN - Brushed Nickel",
+                "Select Finish: ATP - Antique Pewter",
+                "Select Finish: ATC - Antique Copper",
+                "Select Finish: MDB - Medium Bronze",
+                "Select Finish: ORB - Oil Rubbed Bronze",
+                "Select Backset: 2 3/8in. Backset",
+                "Select Backset: 2 3/4in. Backset",
+                "Keying-Mortise: I Only Ordered One Lock",
+                "Keying-Mortise: Keyed Different",
+                "Keying-Mortise: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "100-F2 - Single Cylinder",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "100-F2"
+                },
+                {
+                    "value": "200-F2 - Double Cylinder",
+                    "price_impact": 9.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "200-F2"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PVD - Lifetime Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "PVD"
+                },
+                {
+                    "value": "BRN - Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "BRN"
+                },
+                {
+                    "value": "ATP - Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "ATP"
+                },
+                {
+                    "value": "ATC - Antique Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "ATC"
+                },
+                {
+                    "value": "MDB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "MDB"
+                },
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "ORB"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2 3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2"
+                },
+                {
+                    "value": "2 3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying-Mortise",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                }
+            ]
+        }
+    ]
+}

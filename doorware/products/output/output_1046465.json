@@ -1,0 +1,128 @@
+{
+    "legacy_product_id": "1046465",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Salvador 110 Lever with T Rose, Corbin Russwin TL3750S110T",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "CRS-TL3750S110T",
+            "mpn": "CRS-TL3750S110T",
+            "price": "114.0",
+            "compare_at_price": "114.0",
+            "contractor_price": "114.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Salvador 110 Lever with T Rose",
+                "Corbin Russwin TL3750S110T",
+                "CRS-TL3750S110T",
+                "Corbin Russwin Salvador 110 Lever with T Rose<"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CRS-TL3720110T-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CRS-TL3720110T-525.jpg?v=1717106434"
+        },
+        "text": {
+            "description_html": "<b>Corbin Russwin Salvador 110 Lever with T Rose</b>\r\n\r\n<p>\r\nThe Salvador 110 Lever with T Rose in satin nickel finish.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the 110 Leverset wit T Style Rosette:\r\n<ul>\r\n<li>Finish: 619 Satin Nickel</li>\r\n<li>Lever Length: 5-13/32\"</li>\r\n<li>Lever Projection: 2-19/32\"</li>\r\n<li>Rose Diameter: 2-3/4\"</li>\r\n<li>Door Thickness: 1-3/8\" to 1-3/4\"</li>\r\n<li>Backset: 2-3/4\" (70mm) backset standard; Optional: 2-3/8\" (60mm)</li>\r\n<li>Curved lip T-Strike.</li>\r\n<li>ANSI Standard 161 Door Prep</li>\r\n<li>Handed</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually. Special Ordered Item. <b>NO RETURNS</b></i>\r\n</p>",
+            "seo": {
+                "title": "Salvador 110 Lever with T Rose",
+                "description": "The Salvador 110 Lever with T Rose in satin nickel finish.",
+                "keywords": "Salvador 110 Lever with T Rose, Corbin Russwin TL3750S110T, CRS-TL3750S110T, Corbin Russwin Salvador 110 Lever with T Rose<"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Corbin Russwin",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "262466",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "919141",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "201259",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1032081",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "549603",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "163500",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Function: TL3750S110T: Single Dummy",
+                "Select Function: TL3720110T: Privacy",
+                "Select Handing (Required for Levers and Knobs): Right Hand",
+                "Select Handing (Required for Levers and Knobs): Left Hand"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TL3750S110T: Single Dummy",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TL3720110T: Privacy",
+                    "price_impact": 148.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing (Required for Levers and Knobs)",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Right Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Right"
+                },
+                {
+                    "value": "Left Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Left"
+                }
+            ]
+        }
+    ]
+}

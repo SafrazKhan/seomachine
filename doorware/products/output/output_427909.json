@@ -1,0 +1,110 @@
+{
+    "legacy_product_id": "427909",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Door Closer Drop Plate, Global DP-1045",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-DP-1045",
+            "mpn": "GLO-DP-1045",
+            "price": "30.62",
+            "compare_at_price": "43.75",
+            "contractor_price": "27.55",
+            "shipping_weight": "2.25",
+            "tags": [
+                "GLO-DP-1045-AL Door Closer Drop Plates",
+                "Global DP-1045 drop plates",
+                "storefront closer drop plates",
+                "storefront door closer drop plates",
+                "Global Door Controls TC400 drop plates",
+                "Global Door Controls TC500 drop plates",
+                "Global Door Controls TC511 drop plates",
+                "Global Door Controls TC512 drop plates",
+                "Global Door Controls TC411 drop plates",
+                "Global Door Controls TC412 drop plates",
+                "GLO-DP-1045-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-DP-1045_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-DP-1045_525.jpg?v=1716423990"
+        },
+        "text": {
+            "description_html": "<b>Door Closer Drop Plate</b>\r\n<p>\r\nUse on doors with narrow top door frames and doors with glass, when the glass interferes with closer mounting. Often used on metal framed glass store front doors. Also used to lower a door closer.  \r\n</p>\r\n\r\n<p>\r\nFor use with Global Door Controls door closer models, <a href=\"/products/tc411-ada-compliant-grade-1-tri-packed-door-closer\"><b>Global TC411</b></a>,  <a href=\"/products/tc412-grade-1-tri-packed-door-closer\"><b>Global TC412</b></a>,  <a href=\"/products/ada-compliant-full-cover-tri-packed-door-closer\"><b>Global TC511</b></a>,  <a href=\"/products/grade-1-full-cover-door-closer\"><b>Global TC512</b></a>,  <a href=\"/products/ada-compliant-commercial-grade-surface-mount-closer-american-eagle-5501-bcpa\"><b>PDQ 5501-BCPA</b></a>, <a href=\"#N/A\"><b>Hagar 5200</b></a>, Yale 3300, Doromatic SC80, Dorma 8600, Norton 800 or any door closer with a common 12\u001d\" x 3/4\" \u001d mounting hole pattern.\r\n</p>\r\n<p>\r\n<b>Specifications:</b> for Global DP-1045 Drop Plate\r\n<ul>\r\n<li>Total Length: 13\"</li>\r\n<li>Total Height: 3-5/8\"</li>\r\n<li>Thickness: 1/8\" </li>\r\n<li>Material: Steel </li>\r\n<li>Horizontal Mounting Holes: 12\"</li>\r\n<li>Vertical Mounting Holes: 3/4\"</li>\r\n<li>Packaged with installation screws</li>\r\n</ul>\r\n</p>\r\n<p><b>*Sold Individually.</b></p>",
+            "seo": {
+                "title": "Door Closer Drop Plate, Global DP-1045",
+                "description": "Global DP-1045 Drop Plate for door closer with a common 12 x 3/4 \u001d mounting hole pattern Use on doors with narrow top door frames and doors with glass, when the glass interferes with closer mounting. Often used on metal framed glass store front doors. Also used to lower a door closer.",
+                "keywords": "GLO-DP-1045-AL Door Closer Drop Plates, Global DP-1045 drop plates, storefront closer drop plates, storefront door closer drop plates, Global Door Controls TC400 drop plates, Global Door Controls TC500 drop plates, Global Door Controls TC511 drop plates, Global Door Controls TC512 drop plates, Global Door Controls TC411 drop plates, Global Door Controls TC412 drop plates, GLO-DP-1045-DU,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Door Closer Accessories",
+                    "sort": "4"
+                },
+                {
+                    "name": "Global TC200, TC400, TC500, TC600 Series",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "503145",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "619905",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "191074",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "15313",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "173224",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DP-1045-AL: Aluminum",
+                "Select Finish: DP-1045-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DP-1045-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DP-1045-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

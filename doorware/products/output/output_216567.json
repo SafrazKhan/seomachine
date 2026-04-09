@@ -1,0 +1,106 @@
+{
+    "legacy_product_id": "216567",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Oval Floral Doorbell Button, Fusion B-EL-D9",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-B-EL-D9",
+            "mpn": "FUS-B-EL-D9",
+            "price": "38.0",
+            "compare_at_price": "38.0",
+            "contractor_price": "28.5",
+            "shipping_weight": "2.0",
+            "tags": [
+                "FUS-B-EL-D9",
+                "fusion oval floral doorbells",
+                "fusion hardware B-EL-D9 floral doorbells",
+                "victorian doorbell buttons",
+                "ornate doorbell buttons",
+                "fusion d9 rose doorbell buttons",
+                "Oval Floral Doorbell Buttons"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-B-EL-D9_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-B-EL-D9_525.jpg?v=1711365208"
+        },
+        "text": {
+            "description_html": "<b>Fusion B-EL-D9, Floral Oval Doorbell Button</b>\r\n\r\n<p>\r\nThe old world styling of this doorbell button is beautiful. Made out of brass, the doorbell button rose features an intricate floral design and a lighted doorbell actuator.\r\n</p>\r\n\r\n<p>\r\n<b>Please Note</b> This is a replacement trim only. It comes packaged with lighted button, rosette, and installation screws. It DOES NOT include the chime.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Victorian Doorbell Button:\r\n<ul>\r\n<li>Rose Length: 3-7/8\"</li>\r\n<li>Rose Width: 2-1/2\"</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Includes lighted button.</li>\r\n<li>Packaged as a kit with matching finish installation screws and a lighted button.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<br><br>\r\n<b>** This item is discontinued. See available <a href=\"/collections/door-bell-buttons\">Door Bell Buttons</a>\r\n<br><br>\r\n</b>\r\n</p>",
+            "seo": {
+                "title": "Oval Floral Doorbell Button, Fusion B-EL-D9",
+                "description": "The old world styling of this doorbell button is beautiful. Made out of brass, the doorbell button rose features an intricate floral design and a lighted doorbell actuator.\r\n",
+                "keywords": "FUS-B-EL-D9, fusion oval floral doorbells, fusion hardware B-EL-D9 floral doorbells, victorian doorbell buttons, ornate doorbell buttons, fusion d9 rose doorbell buttons, Oval Floral Doorbell Buttons,"
+            },
+            "specifications": [
+                {
+                    "key": "Rose Length",
+                    "value": "3-7/8\""
+                },
+                {
+                    "key": "Rose Width",
+                    "value": "2-1/2\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Doorbells",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "89528",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "89562",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "148901",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "146479",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Rose Length: 3-7/8\"",
+                "Rose Width: 2-1/2\"",
+                "Material: Solid Brass",
+                "Select Finish: BRN - Brushed Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BRN - Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "legacy_product_id": "579553",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3/4 Inch Offset Pivot Set, Ives 7222xHSP28",
+            "vendor": "Ives",
+            "status": "ARCHIVED",
+            "sku": "7222xHSP28",
+            "mpn": "7222xHSP28",
+            "price": "200.0",
+            "compare_at_price": "247.0",
+            "contractor_price": "190.0",
+            "shipping_weight": "5.0",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Ives 7222xHSP28 Offset Door Pivot Set</b>\r\n<p>\r\nThese 3/4\" offset pivots are engineered for durability on doors weighing up to 200 pounds. Set includes top pivot and bottom pivot with installation hardware.  \r\n</p>\r\n<p>\r\nThe bottom pivot is mortised into the threshold and the doors bottom. Top pivot is mortised into the header and top of the door.\r\n</p>\r\n<p>\r\n<b>Specifications:</b> for 7222 Offset Door Pivot Set\r\n<ul>\r\n<li>Offset: 3/4\"</li>\r\n<li>Door Weight: Up to 200 lbs</li>\r\n<li>Finish: Sprayed Aluminum</li>\r\n<li><b>Handed - Must specify left hand door or right hand door when ordering</b></li>\r\n</ul>\r\n</p>\r\n<p>\r\n<b>*Important</b> When selecting <b>Door Hand</b> for this pivot hinge: \r\n<br>\r\n1. Stand on the <b>Push Side</b> of the door, facing the door. <br>\r\n2. If the \"Pivot Hinge\" is on your \"Left\", choose \"Left Hand Door\". <br>\r\n3. If the \"Pivot Hinge\" is on your \"Right\", choose \"Right Hand Door\". <br>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/closer-handing.gif?v=1704354510\"  width=\"410\" height=\"195\" border=\"0\"alt=\"door handing\">\r\n</p>",
+            "seo": {
+                "title": "3/4 Inch Offset Pivot Set, Ives 7222xHSP28",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Ives Discontinued or Special Order",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Door Hand: Right Hand",
+                "Select Door Hand: Left Hand"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Hand",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Right Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Left Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

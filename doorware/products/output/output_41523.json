@@ -1,0 +1,140 @@
+{
+    "legacy_product_id": "41523",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Jasper Vintage Finish Cabinet Pull, Omnia 9431/76",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9431/76",
+            "mpn": "OMN-9431/76",
+            "price": "12.83",
+            "compare_at_price": "17.1",
+            "contractor_price": "12.18",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9431/76 timeless cabinet pulls",
+                "solid brass cabinet pulls",
+                "fancy kitchen cabinet pulls",
+                "omnia vintage cabinet pulls",
+                "omn-9431/76",
+                "omn-9431 76",
+                "omn-9431",
+                "timeless brass pulls",
+                "vintage finish kitchen cabinet pulls Omnia 9431/76",
+                "solid brass drawer knobs",
+                "Omnia 9431/76 drawer knobs",
+                "Jasper Vintage Cabinet Pulls",
+                "Vintage Jasper Cabinet Pulls",
+                "Jasper Vintage Collection Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-9431v-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-9431v-525.jpg?v=1769507550"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9431/76, Jasper Vintage Collection Cabinet Pull</b>\r\n\r\n<p>\r\nMade of solid brass, this Jasper Vintage Collection Cabinet Pull is as beautiful to the eye as it is comfortable to the hand. It is available in 3 vintage finishes that mimics naturally weathered metal. The Jasper Cabinet Pull has 3 inch center to centers and a projection of 1-7/16 inches. It comes packaged with mounting hardware. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Vintage Jasper Cabinet Pull:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Length center to center: 3\"</li>\r\n<li>Projection: 1-7/16\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nWant a different finish? <a href=\"/products/jasper-cabinet-pull-omnia-9431-76\"><b>Omnia 9431/76 Jasper Cabinet Pull in other finishes.</b></a>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Jasper Vintage Cabinet Pull",
+                "description": "Made of solid brass, this Jasper Vintage Collection Cabinet Pull is as beautiful to the eye as it is comfortable to the hand. It is available in 3 vintage finishes that mimics naturally weathered metal. The Jasper Cabinet Pull has 3 inch center to centers and a projection of 1-7/16 inches. It comes packaged with mounting hardware. \r\n",
+                "keywords": "omnia 9431/76 timeless cabinet pulls, solid brass cabinet pulls, fancy kitchen cabinet pulls, omnia vintage cabinet pulls, omn-9431/76, omn-9431 76, omn-9431, timeless brass pulls, vintage finish kitchen cabinet pulls Omnia 9431/76, solid brass drawer knobs, Omnia 9431/76 drawer knobs, Jasper Vintage Cabinet Pulls, Vintage Jasper Cabinet Pulls, Jasper Vintage Collection Cabinet Pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Length center to center",
+                    "value": "3\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-7/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "217"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "41738",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "41768",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "42152",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "43291",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "43303",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "43339",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Length center to center: 3\"",
+                "Projection: 1-7/16\"",
+                "Select Finish: VI: Vintage Iron",
+                "Select Finish: VC: Vintage Copper",
+                "Select Finish: VB: Vintage Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "VI: Vintage Iron",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9431/76"
+                },
+                {
+                    "value": "VC: Vintage Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9431/76"
+                },
+                {
+                    "value": "VB: Vintage Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9431/76"
+                }
+            ]
+        }
+    ]
+}

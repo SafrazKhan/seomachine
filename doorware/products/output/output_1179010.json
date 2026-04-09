@@ -1,0 +1,88 @@
+{
+    "legacy_product_id": "1179010",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Emtek Passage Lever / Knob Extension Kit KT4-EXT-PASS",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-KT4-EXT-PASS",
+            "mpn": "EMT-KT4-EXT-PASS",
+            "price": "16.0",
+            "compare_at_price": "16.0",
+            "contractor_price": "16.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "EMT-KT4-EXT-PASS",
+                "Emtek Passage Lever / Knob Extension Kit KT4-EXT-PASS",
+                "Emtek Passage Lever  Extension Kits",
+                "Emtek Passage knob  Extension Kits",
+                "Passage Function Extension Kit"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525224.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525224.gif?v=1716428787"
+        },
+        "text": {
+            "description_html": "<b>Emtek KT4-EXT-PASS Passage Function Extension Kit</b>\r\n\r\n<p>\r\nThis is an extension kit for Emtek Passage Functions.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Emtek Passage Lever / Knob Extension Kit",
+                "description": "This is an extension kit for Emtek Deadbolts.",
+                "keywords": "EMT-KT4-EXT-PASS, Emtek Passage Lever / Knob Extension Kit KT4-EXT-PASS, Emtek Passage Lever  Extension Kits,  Emtek Passage knob  Extension Kits, Passage Function Extension Kit"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "32"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "761063",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "761590",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1053675",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "280864",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US10B: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

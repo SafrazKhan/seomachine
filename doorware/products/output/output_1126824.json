@@ -1,0 +1,172 @@
+{
+    "legacy_product_id": "1126824",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "TL7 Tubular Magnetic Latch, Inox TL771",
+            "vendor": "Inox",
+            "status": "ACTIVE",
+            "sku": "INX-TL771",
+            "mpn": "INX-TL771",
+            "price": "125.0",
+            "compare_at_price": "150.0",
+            "contractor_price": "125.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Inox TL7 Magnetic Tubular Latch For Swing Doors",
+                "TL7 Tubular Magnetic Latches",
+                "INX-TL771"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/INX-TL771-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/INX-TL771-525.jpg?v=1716428350"
+        },
+        "text": {
+            "description_html": "<b>Inox TL7 Magnetic Tubular Latch For Inox or Emtek Levers </b>\r\n\r\n<p>\r\nThe TL7 is a perfect choice for frameless and flush-to-wall doors. The TL7 magnetic latch is available in both 2-3/8 inch (60mm) and 2-3/4 inch (70mm) backsets. For passage, privacy, or half passage functions, TL7 latch, bolt, and strike incorporate neodymium rare earth magnets, the most powerful magnet available for commercial use with <a href=\"/collections/inox-leversets\"><b>Inox Levers</b></a> and <a href=\"/collections/emtek-leversets\"><b>Emtek Levers</b>.\r\n</a>This is a 28-degree retraction latch. \r\n\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "TL7 Tubular Magnetic Latch",
+                "description": "The TL7 is a perfect choice for frameless and flush-to-wall doors. The TL7 magnetic latch is available in both 2-3/8 inch (60mm) and 2-3/4 inch (70mm) backsetd. For passage, privacy, or half passage functions, TL7 latch, bolt, and strike incorporate neodymium rare earth magnets, the most powerful magnet available for commercial use with Inox and Emtek Levers. This is a 28-degree retraction latch.",
+                "keywords": "Inox TL7 Magnetic Tubular Latch For Swing Doors, TL7 Tubular Magnetic Latches, INX-TL771"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "INOX Miscellaneous",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "353918",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "164813",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "283615",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "984392",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "448488",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "256118",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US32D: Satin Stainless Steel",
+                "Select Finish: 19G: Graphite Black",
+                "Select Finish: 32: Polished Stainless Steel",
+                "Select Finish: 10B: Oil Rubbed Bronze",
+                "Select Finish: PVD4: PVD Satin Brass",
+                "Select Backset: TL76: 2-3/8in. Backset",
+                "Select Backset: TL77: 2-3/4in. Backset",
+                "Select Function: 1: Passage",
+                "Select Function: 2: Privacy"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US32D: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "19G: Graphite Black ",
+                    "price_impact": 6.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "32: Polished Stainless Steel",
+                    "price_impact": 6.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "10B: Oil Rubbed Bronze",
+                    "price_impact": 6.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PVD4: PVD Satin Brass",
+                    "price_impact": 6.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TL76: 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TL77: 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1: Passage",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2: Privacy",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

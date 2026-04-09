@@ -1,0 +1,185 @@
+{
+    "legacy_product_id": "561068",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Heavy Door Center Hung Top Pivot Hinge, ABH 0340",
+            "vendor": "ABH",
+            "status": "ACTIVE",
+            "sku": "ABH-0340",
+            "mpn": "ABH-0340",
+            "price": "97.6",
+            "compare_at_price": "122.0",
+            "contractor_price": "87.84",
+            "shipping_weight": "3.0",
+            "tags": [
+                "ABH-0340 heavy duty Center Hung Top Pivot Hinges",
+                "ABH 0340 heavy door center hung top pivot hinges",
+                "heavy duty top door hinges",
+                "ABH door hinges",
+                "heavy door hinges",
+                "ABH Mfg."
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ABH-0340-top-pivot_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ABH-0340-top-pivot_525.jpg?v=1716424510"
+        },
+        "text": {
+            "description_html": "<b>ABH 0340 Center Hung Top Pivot Hinge</b>\r\n<p>\r\nThis heavy duty center hung top pivot hinge is engineered for durability on heavy doors up to 500 lbs.  These are used standard with <a href=\"/products/heavy-door-center-hung-pivot-set-abh-0370\"><b>ABH 0370 Door Pivot Set</b></a>.  <a href=\"/site/department.cfm?id=519415\"><b>ABH Door Pivots</b></a> are Made in the USA to insure high quality. \r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ABH-0340-pivot_size.gif?v=1704354734\" width=\"600\" height=\"300\" border=\"0\" alt=\"ABH 0340 Center Hung Top Pivot Hinge Size\">\r\n</p>\r\n<p>\r\nSet includes heavy duty top pivot, dress plate for jamb portion of door and installation hardware. \r\n</p>\r\n<p>\r\n<b>Specifications:</b> for ABH 0340 Top Door Pivot\r\n<ul>\r\n<li>Door Weight: Up to 500 lbs</li>\r\n<li>Door Arm Length: 5-9/32\"</li>\r\n<li>Door Arm Thickness: 1/4\"</li>\r\n<li>Hinge Type: Full Mortise, Center Hung</li>\r\n<li>Walking beam type hinge</li>\r\n<li>Dress plate provided for jamb portion</li>\r\n<li><b>Non-Handed, Reversible </b></li>\r\n<li>BHMA/ANSI C06213/3520 (modified)</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/0340-template.pdf?v=1691093120\" target=\"new\"><b>ABH 0340 Installation Template (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n<p>\r\n<b>*Sold Individually. <br>\r\n**Top Door Pivot Only. <b>\r\n</p>",
+            "seo": {
+                "title": "Heavy Door Center Hung Top Pivot Hinge, ABH 0340",
+                "description": "ABH 0340 heavy duty center hung top pivot hinge is engineered for durability on heavy doors up to 500 lbs. Set includes top pivot with installation hardware. These are used standard with ABH 0370 center hung pivot set.",
+                "keywords": "ABH-0340 heavy duty Center Hung Top Pivot Hinges,  ABH 0340 heavy door center hung top pivot hinges, heavy duty top door hinges, ABH door hinges, heavy door hinges, ABH Mfg.,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Pivot Door Hinges",
+                    "sort": "57"
+                },
+                {
+                    "name": "ABH Door Pivots",
+                    "sort": "21"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "560922",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "7095",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "250130",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "174761",
+                    "sort": "12"
+                },
+                {
+                    "legacy_product_id": "560878",
+                    "sort": "13"
+                },
+                {
+                    "legacy_product_id": "560864",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "292724",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "212939",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "560776",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "560763",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "642933",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "560631",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "561209",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 0340-US32D: Satin Stainless Steel",
+                "Select Finish: 0340-US10B: Oil Rubbed Bronze",
+                "Select Finish: 0340-US3: Polished Brass",
+                "Select Finish: 0340-US32: Polished Stainless Steel",
+                "Select Finish: 0340-US4: Satin Brass",
+                "Select Finish: 0340-S1: Painted Aluminum",
+                "Select Finish: 0340-S2: Painted Brass",
+                "Select Finish: 0340-S5: Painted Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "0340-US32D: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "0340-US10B: Oil Rubbed Bronze",
+                    "price_impact": 24.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "0340-US3: Polished Brass",
+                    "price_impact": 29.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "0340-US32: Polished Stainless Steel",
+                    "price_impact": 29.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "0340-US4: Satin Brass",
+                    "price_impact": 24.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "0340-S1: Painted Aluminum",
+                    "price_impact": 24.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "0340-S2: Painted Brass",
+                    "price_impact": 24.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "0340-S5: Painted Dark Bronze",
+                    "price_impact": 24.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

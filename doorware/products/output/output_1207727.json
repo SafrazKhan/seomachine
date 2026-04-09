@@ -1,0 +1,134 @@
+{
+    "legacy_product_id": "1207727",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4 x 4 Raised Barrel Stainless Steel Hinge, RBF191",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "STA-RBF191",
+            "mpn": "STA-RBF191",
+            "price": "62.48",
+            "compare_at_price": "71.0",
+            "contractor_price": "62.48",
+            "shipping_weight": "1.2",
+            "tags": [
+                "STA-RBF191432DEL 4 x 4 Raised Barrel Stainless Steel Hinge",
+                "bent hinges",
+                "Raised Barrel hinges"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525252.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525252.gif?v=1717791563"
+        },
+        "text": {
+            "description_html": "<b>Stanley  4\" x 4\" Raised Barrel Stainless Steel Hinge with Plain Bearings</b>\r\n<p>\r\n\r\n<p>\r\nSpecial type <b>Raised Barrel Hinge</b>: The hinge pin and knuckle is moved away from the door frame via its bent hinge leaves. \r\n</p>\r\n\r\n<p>\r\nFitted with a high grade rust resistant, stainless steel pin. Utilizes template screw hole pattern for use with wood or metal doors.\r\n</p>\r\n\r\n\r\n\r\n<p>\r\n<b>Specifications</b> of the Stanley 4 x 4 Raised Barrel Stainless Steel Hinge:\r\n<ul>\r\n<li>Hinge Material: 304 Stainless Steel</li>\r\n<li>Finish: <b>Satin Stainless Steel</b></li>\r\n<li>Height: 4\"</li>\r\n<li>Width: 4\"</li>\r\n<li>Corners: Square</li>\r\n<li>Thickness: 0.129\" (Heavy Duty)</li>\r\n<li>Standard Template Hole Pattern</li>\r\n<li>Hinge Pin: Stainless Steel</li>\r\n<li>Hinge Type: Raised Barrel</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>* These hinges are normally special order 5-6 weeks to ship. \r\n</b>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually (1 door hinge)</i>\r\n</p>",
+            "seo": {
+                "title": "4 x 4 Raised Barrel Stainless Steel Hinge",
+                "description": "Stanley  4 x 4 Raised Barrel Stainless Steel Hinge with Plain Bearings: Special type Raised Barrel Hinge: The hinge pin and knuckle is moved away from the door frame via its bent hinge leaves.",
+                "keywords": "STA-RBF191432DEL 4 x 4 Raised Barrel Stainless Steel Hinge, bent hinges, Raised Barrel hinges"
+            },
+            "specifications": [
+                {
+                    "key": "Hinge Material",
+                    "value": "304 Stainless Steel"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Satin Stainless Steel"
+                },
+                {
+                    "key": "Height",
+                    "value": "4\""
+                },
+                {
+                    "key": "Width",
+                    "value": "4\""
+                },
+                {
+                    "key": "Corners",
+                    "value": "Square"
+                },
+                {
+                    "key": "Thickness",
+                    "value": "0.129\" (Heavy Duty)"
+                },
+                {
+                    "key": "Hinge Pin",
+                    "value": "Stainless Steel"
+                },
+                {
+                    "key": "Hinge Type",
+                    "value": "Raised Barrel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Stanley Best Security Solutions",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Hinge Material: 304 Stainless Steel",
+                "Finish: Satin Stainless Steel",
+                "Height: 4\"",
+                "Width: 4\"",
+                "Corners: Square",
+                "Thickness: 0.129\" (Heavy Duty)",
+                "Hinge Pin: Stainless Steel",
+                "Hinge Type: Raised Barrel",
+                "Select Handing and Swing: RH: Right Hand Inswing",
+                "Select Handing and Swing: RHR: Right Hand Outswing",
+                "Select Handing and Swing: LH: Left Hand Inswing",
+                "Select Handing and Swing: LHR: Left Hand Outswing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Handing and Swing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RH: Right Hand Inswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RHR: Right Hand Outswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LH: Left Hand Inswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LHR: Left Hand Outswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

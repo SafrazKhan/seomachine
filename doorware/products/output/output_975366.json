@@ -1,0 +1,87 @@
+{
+    "legacy_product_id": "975366",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Machine Screw for Bommer 3029-6 Double Acting Spring Hinge, Bommer F86230",
+            "vendor": "Bommer",
+            "status": "ARCHIVED",
+            "sku": "BOM-F86230",
+            "mpn": "BOM-F86230",
+            "price": "0.4",
+            "compare_at_price": "0.4",
+            "contractor_price": "0.4",
+            "shipping_weight": "0.05",
+            "tags": [
+                "Machine Screw for Bommer 3029-6 Double Acting Spring Hinges",
+                "Replacement Screws for 3029-6",
+                "Bommer F86230",
+                "BOM-F86230"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52578.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52578.gif?v=1716427311"
+        },
+        "text": {
+            "description_html": "<b>Bommer F86230, Machine Screw for Bommer 3029-6 Double Acting Spring Hinge</b>\r\n\r\n<p>\r\nThis is a replacement screw for <a href=\"/products/6-inch-mortise-type-double-acting-spring-hinge-pair-bommer-3029-6\">the Bommer 3029-6, 6 Inch Mortise Type Double Acting Spring Hinge</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Sold individually with a minimum of 125 individual screws.</b>\r\n</p>",
+            "seo": {
+                "title": "Machine Screw for Bommer 3029-6 Double Acting Spring Hinge",
+                "description": "This is a replacement screw for the Bommer 3029-6, 6 Inch Mortise Type Double Acting Spring Hinge.",
+                "keywords": "Machine Screw for Bommer 3029-6 Double Acting Spring Hinges, Replacement Screws for 3029-6, Bommer F86230, BOM-F86230,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Bommer Discontinued and Custom",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "86915",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "86871",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "200859",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "200882",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 601: Bright Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "601: Bright Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

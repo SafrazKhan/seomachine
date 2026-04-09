@@ -1,0 +1,43 @@
+{
+    "legacy_product_id": "158850",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Acorn Hardware Service Fee",
+            "vendor": "Acorn",
+            "status": "ARCHIVED",
+            "sku": "acorn-service-fee",
+            "mpn": "acorn-service-fee",
+            "price": "15.0",
+            "compare_at_price": "15.0",
+            "contractor_price": "15.0",
+            "shipping_weight": "0.0",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "Acorn Hardware service fee for Acorn products purchase of less than $200.00",
+            "seo": {
+                "title": "Acorn Hardware Service Fee",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

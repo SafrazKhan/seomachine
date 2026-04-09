@@ -1,0 +1,126 @@
+{
+    "legacy_product_id": "1044801",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Jaguar Edge Pull, RK International CP-559",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CP-559",
+            "mpn": "RKI-CP-559",
+            "price": "8.99",
+            "compare_at_price": "11.11",
+            "contractor_price": "8.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Jaguar Edge Pulls",
+                "Modern Flush Pulls",
+                "RKI-CP-559",
+                "RK International CP 559",
+                "RK International CP-559",
+                "modern edge pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-cp559-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-cp559-525.jpg?v=1716427876"
+        },
+        "text": {
+            "description_html": "<b>RK International CP 559, Modern Jaguar Edge Pull</b>\r\n\r\n<p>\r\nThe Jaguar Edge Pull is designed to mount on the backside of the cabinet. The lip hangs over the front of the door or drawer for a sleek finished look. This edge pull is available in satin nickel or polished chrome. It comes packaged with the mounting hardware. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the RK International Modern Flush Pull:\r\n<ul>\r\n<li>Length C.C.: 76mm </li>\r\n<li>Overall Length: 151mm</li>\r\n<li>Width: 30mm</li>\r\n<li>Projection: 19mm</li>\r\n<li>Comes packaged with installation screws.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Jaguar Edge Pull",
+                "description": "The Jaguar Edge Pull is designed to mount on the backside of the cabinet. The lip hangs over the front of the door or drawer for a sleek finished look. This edge pull is available in satin nickel or polished chrome. It comes packaged with the mounting hardware.",
+                "keywords": "Jaguar Edge Pulls, Modern Flush Pulls, RKI-CP-559, RK International CP 559, RK International CP-559, modern edge pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Length C.C.",
+                    "value": "76mm"
+                },
+                {
+                    "key": "Overall Length",
+                    "value": "151mm"
+                },
+                {
+                    "key": "Width",
+                    "value": "30mm"
+                },
+                {
+                    "key": "Projection",
+                    "value": "19mm"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Pulls and Flush Pulls",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "849595",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "198553",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "162119",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "40081",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "822693",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "142936",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Length C.C.: 76mm",
+                "Overall Length: 151mm",
+                "Width: 30mm",
+                "Projection: 19mm",
+                "Select Finish: PC: Polished Chrome",
+                "Select Finish: P: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PC: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

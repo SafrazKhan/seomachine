@@ -1,0 +1,161 @@
+{
+    "legacy_product_id": "42926",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:08:37.018622"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Octagon Cabinet Knob, Omnia 9146",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9146",
+            "mpn": "OMN-9146",
+            "price": "7.05",
+            "compare_at_price": "9.4",
+            "contractor_price": "6.7",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9146 chic solid brass cabinet knobs",
+                "chic cabinet knobs",
+                "solid brass kitchen cabinet knobs",
+                "simple brass cabinet knobs",
+                "decorative cabinet knobs",
+                "solid brass cabinet hardware",
+                "OMN-9146/30",
+                "OMN-9146/40",
+                "Octagon Cabinet Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-9146-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-9146-525.jpg?v=1716420837"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9146, Octagon Cabinet Knob</b>\r\n\r\n<p>\r\nUltra minamalistic in design, this cabinet door knob made by Omnia is sure to add a chic touch to your home. The most prominent trait of this cabinet knob is the modern octagon shape. The Octagon Cabinet Knob is available in two finishes, you will be sure to find just the right color to fit into your home decor.\r\n</p>\r\n\r\n <p>\r\n<b>Specifications</b> of the Octagon Cabinet Pull:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>9146/30</b>\r\n<ul>\r\n<li>Diameter: 1-3/16\"</li>\r\n<li>Projection: 7/8\"</li>\r\n</ul>\r\n<br>\r\n<b>9146/40</b>\r\n<ul>\r\n<li>Diameter: 1-9/16\"</li>\r\n<li>Projection: 1-1/16\"\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Octagon Cabinet Knob",
+                "description": "Ultra minamalistic in design, this cabinet door knob made by Omnia is sure to add a chic touch to your home. The most prominent trait of this cabinet knob is the modern octagon shape. The Octagon Cabinet Knob is available in two finishes, you will be sure to find just the right color to fit into your home decor.\r\n",
+                "keywords": "omnia 9146 chic solid brass cabinet knobs, chic cabinet knobs, solid brass kitchen cabinet knobs, simple brass cabinet knobs, decorative cabinet knobs, solid brass cabinet hardware, OMN-9146/30, OMN-9146/40, Octagon Cabinet Knobs,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "242"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "803706",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "194061",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "876902",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "879109",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "247904",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "328290",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "196241",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "21564",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "235637",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "199824",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "235072",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Select Size: 9146/30: 1-3/16in. Knob Diameter",
+                "Select Size: 9146/40: 1-9/16in. Knob Diameter",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US26: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "9146/30: 1-3/16in. Knob Diameter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9146/30"
+                },
+                {
+                    "value": "9146/40: 1-9/16in. Knob Diameter",
+                    "price_impact": 1.05,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9146/40"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US3"
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 1.28,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SB"
+                }
+            ]
+        }
+    ]
+}

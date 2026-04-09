@@ -1,0 +1,117 @@
+{
+    "legacy_product_id": "1170609",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Open Square Cabinet Knob, RK International CK-795",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-795",
+            "mpn": "RKI-CK-795",
+            "price": "7.99",
+            "compare_at_price": "10.12",
+            "contractor_price": "7.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Open Square Cabinet Door Knobs",
+                "Open Square Cabinet Knobs",
+                "RK International CK-795",
+                "RKI-CK-795",
+                "satin nickel cabinet hardware",
+                "modern style cabinet knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-CK795-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-CK795-525.jpg?v=1716428756"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-795, Open Square Cabinet Door Knob</b>\r\n\r\n<p>\r\nThe Open Square Knob was designed for use in modern kitchens where a unique cabinet knob is desired. This square cabinet knob is available in satin nickel and polished chrome finishes. The RK International CK-795 Open Square Cabinet Door Knob will make a statement on any kitchen cabinet.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Open Square Cabinet Knob:\r\n<ul>\r\n<li>Material: Zinc</li>\r\n<li>Diameter: 42mm square</li>\r\n<li>Projection: 27mm</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Open Square Cabinet Knob",
+                "description": "The Open Square Knob was designed for use in modern kitchens where a unique cabinet knob is desired. This square cabinet knob is available in satin nickel and polished chrome finishes. The RK International CK-795 Open Square Cabinet Door Knob will make a statement on any kitchen cabinet.",
+                "keywords": "Open Square Cabinet Door Knobs, Open Square Cabinet Knobs, RK International CK-795, RKI-CK-795, satin nickel cabinet hardware, modern style cabinet knobs,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Zinc"
+                },
+                {
+                    "key": "Diameter",
+                    "value": "42mm square"
+                },
+                {
+                    "key": "Projection",
+                    "value": "27mm"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "976915",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "379344",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "888764",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "238468",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1167466",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Zinc",
+                "Diameter: 42mm square",
+                "Projection: 27mm",
+                "Select Finish: PC: Polished Chrome",
+                "Select Finish: P: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PC: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

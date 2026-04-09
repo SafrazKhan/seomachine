@@ -1,0 +1,110 @@
+{
+    "legacy_product_id": "776218",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Global TC4361 Door Closer Arm, Global RA-4361",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-RA-4361",
+            "mpn": "GLO-RA-4361",
+            "price": "47.56",
+            "compare_at_price": "67.94",
+            "contractor_price": "42.8",
+            "shipping_weight": "1.5",
+            "tags": [
+                "GLO-RA-4361 door closer arms",
+                "Global RA-4361-AL",
+                "Global RA-4361-DU",
+                "Standard duty door closer arms",
+                "Global Door Controls TC4361 closer Arms",
+                "UL listed R15416 door closer arms",
+                "Global TC4361 Door Closer Arms",
+                "GLO-RA-4361-AL",
+                "GLO-RA-4361-DU",
+                "Global door controls RA4361 closer arms",
+                "UL R15416 430U door closer arm"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/global-RA-4361-AL_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/global-RA-4361-AL_525.jpg?v=1716425545"
+        },
+        "text": {
+            "description_html": "<b>Global TC4361 Standard Door Closer Arm</b>\r\n\r\n<p>\r\nStandard duty UL listed R15416 door closer arm for use with <a href=\"/products/ada-compliant-heavy-duty-door-closer-global-tc4361\"><b>Global Door Controls TC4361</b></a> (for 12 mm square closer shaft). Adjustable arm length. Available in 2 finishes of Aluminum or Dark Bronze .\r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b> for Global RA-4361 Door Closer Arm\r\n<ul>\r\n<li>Arm Length: 11\"</li>\r\n <li>Forearm Length: Min: 10\" Max: 16\"</li>\r\n<li>Shaft Mounting Hole: 12mm Square</li>\r\n<li>UL listed: R15416 430U (Door Closer Arm)</li>\r\n</ul>\r\n</p>\r\n<p><b>*Sold Individually.</b></p>",
+            "seo": {
+                "title": "Standard Door Closer Arm, Global RA-4361",
+                "description": "Global RA-4361 Standard duty door closer arm used with  Global Door Controls TC4361 door closers,  available in aluminum or dark bronze (duro) finish. UL listed: R15416 430U (Door Closer Arm)",
+                "keywords": "GLO-RA-4361 door closer arms, Global RA-4361-AL, Global RA-4361-DU, Standard duty door closer arms, Global Door Controls TC4361 closer Arms, UL listed R15416 door closer arms,, Global TC4361 Door Closer Arms, GLO-RA-4361-AL, GLO-RA-4361-DU, Global door controls RA4361 closer arms, UL R15416 430U door closer arm,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Global TC4361 Closer Accessories",
+                    "sort": "3"
+                },
+                {
+                    "name": "Door Closer Accessories",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "222898",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "222892",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "771097",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "264828",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "264861",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: RA-4361-AL: Aluminum",
+                "Select Finish: RA-4361-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RA-4361-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RA-4361-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

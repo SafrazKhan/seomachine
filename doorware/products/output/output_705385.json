@@ -1,0 +1,147 @@
+{
+    "legacy_product_id": "705385",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Deltana Grade 1 Latch, Deltana G1RL",
+            "vendor": "Deltana",
+            "status": "ARCHIVED",
+            "sku": "DEL-G1RL",
+            "mpn": "DEL-G1RL",
+            "price": "18.4",
+            "compare_at_price": "19.55",
+            "contractor_price": "18.4",
+            "shipping_weight": "0.3",
+            "tags": [
+                "Entry / Passage / Privacy Grade 1 Latches",
+                "Deltana Grade 1 Latches",
+                "DEL-G1RL",
+                "replacement latches for passage doors",
+                "replacement latches for privacy doors",
+                "replacement latches for entry doors",
+                "Deltana G1RLP275",
+                "Deltana G1RLE275",
+                "Deltana G1RLP238",
+                "Deltana G1RLE238",
+                "Deltana Grade 1 Latch for Entry",
+                "Passage",
+                "or Privacy Setss"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-G1RL-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-G1RL-525.jpg?v=1716425344"
+        },
+        "text": {
+            "description_html": "<b>Deltana Grade 1 Latch for Entry, Passage, or Privacy Sets</b>\r\n\r\n\r\n<p>\r\nThe Deltana Grade 1 Latch is a replacement latch for passage, privacy, or entry function commercial levers. Available in 2-3/8\" or 2-3/4\" backsets. Choose from polished brass or brushed chrome finishes.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Deltana Grade 1 Latch:\r\n<ul>\r\n<li>Available for passage, Privacy, or Entry sets.</li>\r\n<li>Latch Plate Overall Length: 2-1/4\"</li>\r\n<li>Latch Plate Length Center to Center: 1-5/8\"</li>\r\n<li>Latch Plate Width: 1-1/8\"</li>\r\n<li>Throw: 1/2\"</li>\r\n<li>Available in 2-3/8\" or 2-3/4\" backsets.</li>\r\n<li><a href=\"/specials/pdf/del/DEL-G1RL-specifications.pdf\" target=\"new\"><b>Deltana G1RL Specifications (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Deltana Grade 1 Latch, Deltana G1RL",
+                "description": "Deltana G1RL, Deltana Grade 1 Latch - The Deltana Grade 1 Latch is a replacement latch for passage, privacy, or entry function commercial levers. Available in 2-3/8 inch or 2-3/4 inch backsets. Choose from polished brass or brushed chrome finishes.",
+                "keywords": "Entry / Passage / Privacy Grade 1 Latches, Deltana Grade 1 Latches,  DEL-G1RL, replacement latches for passage doors, replacement latches for privacy doors, replacement latches for entry doors, Deltana G1RLP275, Deltana G1RLE275, Deltana G1RLP238, Deltana G1RLE238, Deltana Grade 1 Latch for Entry, Passage, or Privacy Setss,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Discontinued and Special Items",
+                    "sort": "34"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "164813",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "260609",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "275077",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "260741",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "331945",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Function and Backset: G1RLP238 - Passage / Privacy 2-3/8in. Backset",
+                "Select Function and Backset: G1RLP275 - Passage / Privacy 2-3/4in. Backset",
+                "Select Function and Backset: G1RLE238 - Entry 2-3/8in. Backset",
+                "Select Function and Backset: G1RLE275 - Entry 2-3/4in. Backset",
+                "Select Finish: U3 - Polished Brass",
+                "Select Finish: U26D - Brushed Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function and Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "G1RLP238 - Passage / Privacy 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "G1RLP275 - Passage / Privacy 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "G1RLE238 - Entry 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "G1RLE275 - Entry 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26D - Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "legacy_product_id": "317171",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Omnia Traditional Passage Surface Mount Rose, Omnia 671/01",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-671/01",
+            "mpn": "OMN-671/01",
+            "price": "20.0",
+            "compare_at_price": "25.0",
+            "contractor_price": "20.0",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Omnia Traditional Passage Surface Mount Rose Only OMN-671/01.3-US10B",
+                "OMN-671/01",
+                "Omnia 671/01",
+                "Replacement Surface Mount Traditional Passage Roses",
+                "Omnia Traditional Surface Mount Roses"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52550.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52550.gif?v=1716423066"
+        },
+        "text": {
+            "description_html": "<b>Omnia 671/01 Replacement Surface Mount Traditional Passage Rose</b>\r\n\r\n<p>\r\nThe Omnia Traditional Passage Surface Mount Rose comes packaged as the rose only. It does not include the lever, knob, etc.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> for the Omnia Traditional Surface Mount Rose:\r\n<ul>\r\n<li>Diameter: 2-5/8\"</li>\r\n<li>Projection: 1/2\"</li>\r\n<li>For commercial and residential use.</li>\r\n<li>Solid brass bonstruction.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nSpecial Order Item. <b>No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "Omnia Traditional Passage Surface Mount Rose",
+                "description": "Omnia Traditional Passage Surface Mount Rose. The Omnia Traditional Passage Surface Mount Rose comes packaged as the rose only. It does not include the lever, knob, etc.\r\n",
+                "keywords": "Omnia Traditional Passage Surface Mount Rose Only OMN-671/01.3-US10B, OMN-671/01, Omnia 671/01, Replacement Surface Mount Traditional Passage Roses, Omnia Traditional Surface Mount Roses,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "33"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "12149",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "616976",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "410183",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "353565",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US26D - Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26D - Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "legacy_product_id": "868387",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Beavertail Lever, Baldwin 5452V",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-5452V-MR",
+            "mpn": "BAL-5452V-MR",
+            "price": "63.9",
+            "compare_at_price": "71.0",
+            "contractor_price": "63.9",
+            "shipping_weight": "4.0",
+            "tags": [
+                "Baldwin Solid Brass Levers",
+                "Beavertail Levers",
+                "Baldwin 5452V",
+                "BAL-5452V",
+                "Baldwin Beavertail Lever Less Roses",
+                "Baldwin 5452V LMR",
+                "Baldwin 5452V RMR"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-5452V-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-5452V-525.jpg?v=1716426150"
+        },
+        "text": {
+            "description_html": "<b>Baldwin Beavertail Lever Less Rose</b>\r\n\r\n<p>\r\nForged from solid brass, this Baldwin made leverset is made with the old world tradition in mind. The Beavertail lever has an old-timey look that makes it an excellent choice for traditional and period style homes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Baldwin Estates Collection 5452V Lever:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Lever Length: 4.119\"</li>\r\n<li>Overall Projection: 2.279\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Packaged as (1) Lever minus rose</i>\r\n</p>",
+            "seo": {
+                "title": "Beavertail Lever",
+                "description": "Forged from solid brass, this Baldwin made leverset is made with the old world tradition in mind. The Beavertail lever has an old-timey look that makes it an excellent choice for traditional and period style homes.\r\n",
+                "keywords": "Baldwin Solid Brass Levers, Beavertail Levers, Baldwin 5452V, BAL-5452V, Baldwin Beavertail Lever Less Roses, Baldwin 5452V LMR, Baldwin 5452V RMR"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Lever Length",
+                    "value": "4.119\""
+                },
+                {
+                    "key": "Overall Projection",
+                    "value": "2.279\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Baldwin Discontinued",
+                    "sort": "174"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "400215",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "651961",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "324984",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "354726",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "617171",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "12644",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Lever Length: 4.119\"",
+                "Overall Projection: 2.279\"",
+                "Select Finish: 102 - Oil Rubbed Bronze",
+                "Select Handing: BAL-5452V-RMR - Right Handing",
+                "Select Handing: BAL-5452V-LMR - Left Handing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "102 - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BAL-5452V-RMR - Right Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BAL-5452V-LMR - Left Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

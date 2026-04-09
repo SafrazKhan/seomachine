@@ -1,0 +1,102 @@
+{
+    "legacy_product_id": "978157",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Split Finish Baldwin 5455V with 5048 Rose Minus Latch",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL5455V.050.MR-5148.050.I.-5455V.260.MR-5148",
+            "mpn": "BAL5455V.050.MR-5148.050.I.-5455V.260.MR-5148",
+            "price": "174.2",
+            "compare_at_price": "219.0",
+            "contractor_price": "174.2",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Split Finish Baldwin 5455V with 5048 Rose Minus Latch"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-5455V050260-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-5455V050260-525.jpg?v=1717106380"
+        },
+        "text": {
+            "description_html": "<b>Split Finish Baldwin 5455V with 5048 Rose Minus Latch</b>\r\n\r\n<p>\r\nThis is a split finish Lever Pair. Polished Chrome exterior finish and antique brass interior finish. Package includes (1) antique brass 5455V lever and traditional rose, (1) polished chrome 5455V lever and traditional rose, and (1) bore hole adapter.  DOES NOT INCLUDE LATCH\r\n</p>\r\n\r\n<p>\r\n<b>Special Ordered Item. No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "Split Finish Baldwin 5455V with 5048 Rose Minus Latch",
+                "description": "This is a split finish Lever Pair. Polished Chrome exterior finish and antique brass interior finish. Package includes (1) antique brass 5455V lever and traditional rose, (1) polished chrome 5455V lever and traditional rose, and (1) bore hole adapter.  DOES NOT INCLUDE LATCH",
+                "keywords": "Split Finish Baldwin 5455V with 5048 Rose Minus Latch"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "37"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "400246",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "185113",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "355638",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "649989",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "479230",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "907380",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Handing: Right Handing",
+                "Select Handing: Left Handing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Right Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Right"
+                },
+                {
+                    "value": "Left Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Left"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "legacy_product_id": "496176",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3-1/2 x 3-1/2 x 5/8 Radius Residential Steel Hinge, Fusion HNG-600",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-HNG-600",
+            "mpn": "FUS-HNG-600",
+            "price": "8.0",
+            "compare_at_price": "8.0",
+            "contractor_price": "6.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "FUS-HNG-600 3-1/2  x 5/8 Radius Residential Steel Hinges"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Fusion HNG-600 3-1/2\" x 3-1/2\" x 5/8\" Radius Residential Durable Steel  Hinge</b>\r\n\r\n<p>\r\nPackage includes one hinge, matching steel flathead, Phillips Drive #9 x 3/4\" wood screws. \r\n</p>\r\n<p>\r\nFitted with a high grade, removable, steel pin.\r\n Utilizes template screw hole pattern for use with wood or metal doors.\r\n</p>\r\n<p>\r\n<b>Specifications:</b>\r\n<ul>\r\n<li>Height: 3-1/2\"</li>\r\n<li>Width: 3-1/2\"</li>\r\n<li>Corners: 5/8\" Radius</li>\r\n<li>Thickness: 0.083\" (Residential)</li>\r\n<li>Standard Template Hole Pattern</li>\r\n<li>Hinge Pin:  Steel</li>\r\n<li>Wood Screws: #9 x 3/4\"</li>\r\n<li>Hinge Material: Durable Steel</li>\r\n<li>Available Finishes: 5</li>\r\n\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nWe offer 5 different finishes for this hinge, but no matter which finish you choose, the parts will still be <b>high quality durable steel</b>.\r\n</p>\r\n\r\n<p><b>*Sold individually*</b>\r\n</p>",
+            "seo": {
+                "title": "3-1/2 x 3-1/2 x 5/8 Radius Residential Steel Hinge, Fusion HNG-600",
+                "description": "Fusion HNG-600 - 3-1/2 x 3-1/2 x 5/8 Radius Steel Hinge. Residential 0.083 thick. Package includes one hinge, matching steel flathead, Phillips screws.",
+                "keywords": "FUS-HNG-600 3-1/2  x 5/8 Radius Residential Steel Hinges"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion-MISC-Discontinued",
+                    "sort": "67"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: FUS-HNG-600-ATC - Antique Copper",
+                "Select Finish: FUS-HNG-600-ATP - Antique Pewter",
+                "Select Finish: FUS-HNG-600-BRN - Brushed Nickel",
+                "Select Finish: FUS-HNG-600-ORB - Oil Rubbed Bronze",
+                "Select Finish: FUS-HNG-600-MDB - Medium Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FUS-HNG-600-ATC - Antique Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FUS-HNG-600-ATP - Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FUS-HNG-600-BRN - Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FUS-HNG-600-ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FUS-HNG-600-MDB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

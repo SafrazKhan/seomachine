@@ -1,0 +1,93 @@
+{
+    "legacy_product_id": "221494",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hold Open Cush-N-Stop Arm for LCN 4040 Series, LCN-4040XP3049CNS",
+            "vendor": "LCN",
+            "status": "ACTIVE",
+            "sku": "LCN-4040XP3049CNS",
+            "mpn": "LCN-4040XP3049CNS",
+            "price": "352.75",
+            "compare_at_price": "415.0",
+            "contractor_price": "335.11",
+            "shipping_weight": "4.0",
+            "tags": [
+                "LCN-4040-3049CNS LCN 4040 Series Hold Open Cush-N-Stop Arms",
+                "LCN-4040XP3049CNS Hold Open Cush-N-Stop Arm for LCN 4040 Series door closers",
+                "LCN 4040-3049CNS hold open arms",
+                "LCN door closer arms",
+                "LCN 4040XP Hold Open Cush-N-Stop Arms",
+                "LCN 4040XP Hold Open Arms"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LCN-4040-3049CNS_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LCN-4040-3049CNS_525.jpg?v=1716422157"
+        },
+        "text": {
+            "description_html": "<b>LCN Heavy Duty Hold Open Cush-N-Stop Arm</b>\r\n<p>\r\nCush-N-Stop arm with Hold Open for  <a href=\"/products/lcn-4040-super-smoothee-grade-1-door-closer\"><b>LCN 4040XP Door Closers</b></a>. \r\n</p>\r\n<p>\r\n<b>Parallel Arm Mount Only</b>\r\n</p>\r\n\r\n<p>Heavy duty rigid arm assembly and soffit plate with field reversible dead stop. \"T\" handle style hold open feature allows for easy on/off setting. \r\n</p>\r\n<p>\r\n Available in 2 finishes of Aluminum or Dark Bronze .\r\n</p>",
+            "seo": {
+                "title": "Hold Open Cush-N-Stop Arm for LCN 4040 Series, LCN-4040-3049CNS",
+                "description": "LCN 4040XP049CNS Cush-N-Stop arm with Hold Open for LCN 4040XP Series Style Closers.",
+                "keywords": "LCN-4040-3049CNS LCN 4040 Series Hold Open Cush-N-Stop Arms, LCN-4040XP3049CNS Hold Open Cush-N-Stop Arm for LCN 4040 Series door closers, LCN 4040-3049CNS hold open arms, LCN door closer arms, LCN 4040XP Hold Open Cush-N-Stop Arms, LCN 4040XP Hold Open Arms,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closer Parts",
+                    "sort": "21"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "221503",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "221512",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "221485",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 4040XP3049CNS-AL: Aluminum",
+                "Select Finish: 4040XP3049CNS-DKBRZ: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "4040XP3049CNS-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "4040XP3049CNS-DKBRZ: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

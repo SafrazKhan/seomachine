@@ -1,0 +1,116 @@
+{
+    "legacy_product_id": "519430",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:10:44.076663"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Thick Door Kit for Passage/Privacy Sets, Grandeur 82515x",
+            "vendor": "Grandeur",
+            "status": "ARCHIVED",
+            "sku": "GRA-82515x",
+            "mpn": "GRA-82515x",
+            "price": "45.6",
+            "compare_at_price": "57.0",
+            "contractor_price": "45.6",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Thick Door Kit for Passage/Privacy Sets",
+                "Grandeur 82515x"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Thick Door Kit for Passage/Privacy Sets, Grandeur 82515x</b>\r\n<p>Add to any Grandeur passage or privacy lever or knob set to fit doors up to 2.5\" thick.  Available in all 7 Grandeur finishes.</p>",
+            "seo": {
+                "title": "Thick Door Kit for Passage/Privacy Sets, Grandeur 82515x",
+                "description": "Thick Door Kit for Passage/Privacy Sets, Grandeur 82515x",
+                "keywords": "Thick Door Kit for Passage/Privacy Sets, Grandeur 82515x"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Grandeur Parts",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: GRA-825152 - Antique Pewter",
+                "Select Finish: GRA-825153 - Brushed Chrome",
+                "Select Finish: GRA-825154 - Lifetime Brass",
+                "Select Finish: GRA-825155 - Polished Brass",
+                "Select Finish: GRA-825156 - Satin Nickel",
+                "Select Finish: GRA-825157 - Timeless Bronze",
+                "Select Finish: GRA-825158 - Vintage Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GRA-825152 - Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-825153 - Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-825154 - Lifetime Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-825155 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-825156 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-825157 - Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-825158 - Vintage Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

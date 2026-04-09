@@ -1,0 +1,180 @@
+{
+    "legacy_product_id": "555527",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Double Ringed Cabinet Knob, RK International CK-708",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-708",
+            "mpn": "RKI-CK-708",
+            "price": "13.99",
+            "compare_at_price": "16.61",
+            "contractor_price": "13.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RKI-CK-708",
+                "RKI-CK-707",
+                "Simple Cabinet Knobs",
+                "Double Ringed Cabinet Knobs",
+                "Large Double Ringed Knob",
+                "Small Double Ringed Knobs",
+                "RK International CK-707",
+                "RK International CK-708",
+                "Simple Contoured Cabinet Knobs",
+                "classic cabinet knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-CK-708.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-CK-708.jpg?v=1716424426"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-708, Simple Beveled Cabinet Knob</b>\r\n\r\n<p>\r\nDespite, or because of, the Double Ringed Cabinet Knob's simple design it will surely be a beautiful addition to any cabinet. It is available in two sizes and 7 finishes. What is great about this cabinet hardware is that no matter which size or finish you choose, it will still look great, a simple classic for almost any style home.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International Ringed Cabinet Pulls:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes</b>\r\n<ul>\r\n<b>RKI-CK-708:</b>\r\n<ul>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-1/16\"</li>\r\n</ul>\r\n<br>\r\n<b>RKI-CK-707:</b>\r\n<ul>\r\n<li>Diameter: 1-1/2\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MUL-T-LOCK-TSR50_size.gif?v=1704354712\" width=\"586\" height=\"116\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Double Ringed Cabinet Knob",
+                "description": "RK International CK-708, Double Ringed Cabinet Knob - Despite, or because of, the Double Ringed Cabinet Knob's simple design it will surely be a beautiful addition to any cabinet. It is available in two sizes and 7 finishes. What is great about this cabinet hardware is that no matter which size or finish you choose, it will still look great, a simple classic for almost any style home.\r\n",
+                "keywords": "RKI-CK-708, RKI-CK-707, Simple Cabinet Knobs, Double Ringed Cabinet Knobs, Large Double Ringed Knob, Small Double Ringed Knobs, RK International CK-707, RK International CK-708, Simple Contoured Cabinet Knobs, classic cabinet knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "3"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "7297",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "42123",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "304259",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "42697",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42182",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Size: CK-708: 1-1/4in. Diameter",
+                "Select Size: CK-707: 1-1/2in. Diameter",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: VB: Valencia Bronze",
+                "Select Finish: RB: Oil Rubbed Bronze",
+                "Select Finish: SB: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "CK-708: 1-1/4in. Diameter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CK-707: 1-1/2in. Diameter",
+                    "price_impact": 5.36,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "VB: Valencia Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SB: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

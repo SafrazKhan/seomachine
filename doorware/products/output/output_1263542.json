@@ -1,0 +1,116 @@
+{
+    "legacy_product_id": "1263542",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Transitional Single Hook with Disc Rosette, Emtek 2909-09",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-2909-09",
+            "mpn": "EMT-2909-09",
+            "price": "48.99",
+            "compare_at_price": "60.0",
+            "contractor_price": "48.99",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Transitional Single Hook with Disc Rosette",
+                "Emtek 2909-09"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525358.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525358.gif?v=1769495188"
+        },
+        "text": {
+            "description_html": "<b>Emtek 2909-09, Transitional Single Hook with Disc Rosette</b>\r\n\r\n<p>\r\nThis versatile Transitional Single Robe Hook is not only great for holding robes, but it will also hold towels and even purses in a bathroom stall. The Wall Mounted Robe Hook is available in 6 popular finish colors to complement any decor. It is easy to install and comes packaged with all the necessary mounting hardware.</p>\r\n\r\n\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Modern Bathroom or Kitchen Towel Hook:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Total Projection: 2-7/8 \"</li>\r\n<li>Disc Rose Diameter: 2-1/2\"</li>\r\n<li>Disc Rose Projection: 3/8\"</li>\r\n\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Sold Individually.</b> Package includes: 1 robe hook and all necessary mounting hardware.\r\n</p>",
+            "seo": {
+                "title": "Transitional Single Hook with Disc Rosette, Emtek 2909-09",
+                "description": "This versatile Transitional Single Robe Hook is not only great for holding robes, but it will also hold towels and even purses in a bathroom stall. The Wall Mounted Robe Hook is available in 6 popular finish colors to complement any decor. It is easy to install and comes packaged with all the necessary mounting hardware.",
+                "keywords": "Transitional Single Hook with Disc Rosette, Emtek 2909-09"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Bathroom Accessories",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: US7: French Antique",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US14: Lifetime Polished Nickel",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US19: Flat Black",
+                "Select Finish: US26: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US7: French Antique",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Lifetime Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Flat Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

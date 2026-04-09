@@ -1,0 +1,155 @@
+{
+    "legacy_product_id": "756811",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3-3/4 Bore Hole Filler Plate, Don-Jo BF-135",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "DJO-BF-135",
+            "mpn": "DJO-BF-135",
+            "price": "10.4",
+            "compare_at_price": "13.0",
+            "contractor_price": "9.36",
+            "shipping_weight": "0.5",
+            "tags": [
+                "DJO-BF-135",
+                "fix door holes",
+                "3-3/4 Inch Bore Hole Filler Plates",
+                "3-3/4 Bore Hole Filler Plates",
+                "Don-Jo BF-135",
+                "door Hole Filler Plates",
+                "door hole covers",
+                "Don-Jo BF-135-PC",
+                "Don-Jo BF-135-BP",
+                "Don-Jo BF-135-CP",
+                "Don-Jo BF-135-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-BF135-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-BF135-525.jpg?v=1716425494"
+        },
+        "text": {
+            "description_html": "<b>3-3/4\" Bore Hole Filler Plate</b>\r\n\r\n<p>\r\nThis filler plate is 3-5/8\" diameter and covers a 3-3/4\" bore hole. Adjustable for doors up to 2-1/4\" thick.\r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-BF153-specifcations.gif?v=1704354651\" width=\"364\" height=\"213\" border=\"0\" alt=\"Don-Jo BF-135 Specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Don-Jo BF-135 Filler Plate:\r\n<ul>\r\n<li>Plate Outer Diameter: 3-5/8\"</li>\r\n<li>Plate Thickness: .060\"</li>\r\n<li>Maximum Door Thickness: 2-1/4\"</li>\r\n<li>Material: Steel</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold Individually. </b>\r\n</p>",
+            "seo": {
+                "title": "3-3/4 Bore Hole Filler Plate, Don-Jo BF-135",
+                "description": "Don-Jo BF-135, 3-3/4 Bore Hole Filler Plate - This filler plate is 3-5/8 inch diameter and covers a 3-3/4 inch bore hole. Adjustable for doors up to 2-1/4 inches thick.\r\n",
+                "keywords": "DJO-BF-135, fix door holes, 3-3/4 Inch Bore Hole Filler Plates, 3-3/4 Bore Hole Filler Plates, Don-Jo BF-135, door Hole Filler Plates, door hole covers, Don-Jo BF-135-PC, Don-Jo BF-135-BP, Don-Jo BF-135-CP, Don-Jo BF-135-DU,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Outer Diameter",
+                    "value": "3-5/8\""
+                },
+                {
+                    "key": "Plate Thickness",
+                    "value": ".060\""
+                },
+                {
+                    "key": "Maximum Door Thickness",
+                    "value": "2-1/4\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Steel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Latch Conversion and Filler Plates",
+                    "sort": "2"
+                },
+                {
+                    "name": "Door Latch Conversion and Filler Plates",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "435629",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "368922",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "520430",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "435615",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "368924",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "353918",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "519311",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Plate Outer Diameter: 3-5/8\"",
+                "Plate Thickness: .060\"",
+                "Maximum Door Thickness: 2-1/4\"",
+                "Material: Steel",
+                "Select Finish: PC: Primer",
+                "Select Finish: BP: Brass Plated",
+                "Select Finish: CP: Chrome Plated",
+                "Select Finish: DU: Duro (Dark Bronze)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PC: Primer",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BP: Brass Plated",
+                    "price_impact": 10.65,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CP: Chrome Plated",
+                    "price_impact": 10.65,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DU: Duro (Dark Bronze)",
+                    "price_impact": 3.3,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

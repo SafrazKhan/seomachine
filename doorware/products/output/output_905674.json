@@ -1,0 +1,187 @@
+{
+    "legacy_product_id": "905674",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Classic Clear Glass Cabinet Knob, Omnia 9955/32",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "OMN-9955/32",
+            "mpn": "OMN-9955/32",
+            "price": "32.0",
+            "compare_at_price": "40.0",
+            "contractor_price": "30.4",
+            "shipping_weight": "0.75",
+            "tags": [
+                "OMN-9955/32 Classic Clear Glass Cabinet Knob",
+                "Omnia 9955/32 Classic Glass Cabinet Knobs",
+                "contemporary cabinet knobs",
+                "decorative cabinet pulls",
+                "contemporary cabinet pulls",
+                "Omnia Prodigy 9566 Cabinet Knobs",
+                "traditional cabinet knobs",
+                "Classic cabinet knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omnia-9955-32_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/omnia-9955-32_525.jpg?v=1716426773"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9955/32, 1-1/4 Inch Clear Glass Cabinet Knob</b>\r\n\r\n<p>\r\nThis 1-1/4\" classic clear glass cabinet knob goes great with any door knobs in the <a href=\"/collections/omnia-prodigy-collection\">Omnia Prodigy Collection</a> and is a match for the <a href=\"/products/classic-beauty-clear-glass-knobset-omnia-955td\">Omnia 955 Door Knob</a>. It's classic traditional style is accented with 7 beautiful finish choices. It is great for use all over the house--not just on kitchen cabinets. Update your tired furniture by switching out old cabinet hardware for this new, traditional style. It can also be used on the bathroom cabinets. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Omnia 9955/32 Classic Clear Glass Cabinet Knob:\r\n<ul>\r\n<li>Mounting Base Material: Solid Brass</li>\r\n<li>Glass Knob Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-1/16\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<a href=\"/pages/omnia-finish-colors\"><img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MUL-T-LOCK-E08LE3_size.gif?v=1704442274\" width=\"600\" height=\"130\" border=\"0\" alt=\"Omnia Prodigy Finishes Diagram\"></a>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Classic Clear Glass Cabinet Knob",
+                "description": "Omnia 9955/32 - This 1-1/4 inch classic clear glass cabinet knob goes great with any door knobs in the Omnia Prodigy Collection and is a match for the Omnia 955 Door Knob. It's classic traditional style is accented with 7 beautiful finish choices. ",
+                "keywords": "OMN-9955/32 Classic Clear Glass Cabinet Knob, Omnia 9955/32 Classic Glass Cabinet Knobs, contemporary cabinet knobs, decorative cabinet pulls, contemporary cabinet pulls, Omnia Prodigy 9566 Cabinet Knobs, traditional cabinet knobs, Classic cabinet knobs,"
+            },
+            "specifications": [
+                {
+                    "key": "Mounting Base Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Glass Knob Diameter",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-1/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia Prodigy Collection",
+                    "sort": "103"
+                },
+                {
+                    "name": "Omnia Glass and Crystal Collection Cabinet Knobs",
+                    "sort": "8"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "1"
+                },
+                {
+                    "name": "Omnia Cabinet Knobs",
+                    "sort": "34"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "905671",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "42697",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "905503",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "478224",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "478275",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "354726",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "897876",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "476935",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "905601",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Mounting Base Material: Solid Brass",
+                "Glass Knob Diameter: 1-1/4\"",
+                "Projection: 1-1/16\"",
+                "Select Finish: US10B: Oil-Rubbed Bronze",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: US5: Antique Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil-Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

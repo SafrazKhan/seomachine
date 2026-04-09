@@ -1,0 +1,124 @@
+{
+    "legacy_product_id": "1154786",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3 Inch Celebration Cabinet Pull, Laurey 543",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "LAU-543",
+            "mpn": "LAU-543",
+            "price": "5.82",
+            "compare_at_price": "7.76",
+            "contractor_price": "5.53",
+            "shipping_weight": "1.0",
+            "tags": [
+                "3 Inch Celebration Cabinet Pulls",
+                "Laurey 543",
+                "3 Inch Celebration Pulls Pulls",
+                "classic cabinet hardware",
+                "simple cabinet hardware",
+                "3 Inch Traditional Cabinet Pulls",
+                "LAU-543",
+                "LAU-54339",
+                "Laurey 54339",
+                "Laurey 54366",
+                "LAU-54366",
+                "Laurey 54337",
+                "LAU-54337"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LAU-543-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-543-525.jpg?v=1716428518"
+        },
+        "text": {
+            "description_html": "<b>Laurey 543, 3 Inch Celebration Pull</b>\r\n\r\n\r\n<p>\r\nThe Celebration Cabinet Pull is a traditionally styled pull that has 3 inch mounting centers. This unassuming cabinet pull is great for kitchen cabinets and furniture. The 3 Inch Celebration Pull is available in a few popular finish color options. It comes packaged with the mounting hardware. \r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Laurey 3 Inch Traditional Cabinet Pull:\r\n<ul>\r\n<li>Material: Zinc</li>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 5\"</li>\r\n<li>Width: 1/2\"</li>\r\n<li>Projection: 1-1/4\"</li>\r\n<li>Packaged with 1\" long #8-32 screws and 1-1/2\"  long #8-32 screws.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Celebration Cabinet Pull",
+                "description": "The Celebration Cabinet Pull is a traditionally styled pull that has 3 inch mounting centers. This unassuming cabinet pull is great for kitchen cabinets and furniture. The 3 Inch Celebration Pull is available in a few popular finish color options. It comes packaged with the mounting hardware.",
+                "keywords": "3 Inch Celebration Cabinet Pulls, Laurey 543, 3 Inch Celebration Pulls Pulls, classic cabinet hardware, simple cabinet hardware, 3 Inch Traditional Cabinet Pulls, LAU-543, LAU-54339, Laurey 54339, Laurey 54366, LAU-54366, Laurey 54337, LAU-54337,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Laurey Cabinet Pulls",
+                    "sort": "105"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "327462",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1154716",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "553860",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1029692",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "354599",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "600195",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "558845",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: LAU-54339: Satin Chrome",
+                "Select Finish: LAU-54366: Oil Rubbed Bronze",
+                "Select Finish: LAU-54337: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LAU-54339: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-54339-SM.jpg?v=1774582202",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-54339-LG.jpg?v=1711366631"
+                },
+                {
+                    "value": "LAU-54366: Oil Rubbed Bronze",
+                    "price_impact": 1.19,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-54366-SM.jpg?v=1774582205",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-54366-LG.jpg?v=1711366631"
+                },
+                {
+                    "value": "LAU-54337: Polished Brass",
+                    "price_impact": 1.19,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-54337-SM.jpg?v=1774582208",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-54337-LG.jpg?v=1711366632"
+                }
+            ]
+        }
+    ]
+}

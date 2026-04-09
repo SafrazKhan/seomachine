@@ -1,0 +1,87 @@
+{
+    "legacy_product_id": "770545",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Colonial Electrical Outlet Cover Plate, Baldwin 4757",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-4757",
+            "mpn": "BAL-4757",
+            "price": "16.0",
+            "compare_at_price": "16.0",
+            "contractor_price": "16.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Colonial Duplex Electrical Plates",
+                "Baldwin 4757",
+                "BAL-4757",
+                "Colonial Electrical Outlet Cover Plates",
+                "Baldwin switch plates",
+                "electrical plug covers",
+                "electrical plug plates",
+                "single outlet plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-4757-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-4757-525.jpg?v=1716425539"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 4757, Colonial Duplex Electrical Plate</b>\r\n\r\n<p>\r\nThe Colonial Electrical Outlet Cover Plate has a stately look that is perfect for traditionally styled homes. I measures 3 inches wide and 5.125 inches high.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Duplex Colonial electrical plug plates\r\n<ul>\r\n<li>Height: 5.125\"</li>\r\n<li>Width: 3\"\r\n<li>Comes packaged with installation screws.\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Colonial Electrical Outlet Cover Plate, Baldwin 4757",
+                "description": "Baldwin 4757, Colonial Electrical Outlet Cover Plate - The Colonial Electrical Outlet Cover Plate has a stately look that is perfect for traditionally styled homes. I measures 3 inches wide and 5.125 inches high.",
+                "keywords": "Colonial Duplex Electrical Plates, Baldwin 4757, BAL-4757, Colonial Electrical Outlet Cover Plates, Baldwin switch plates, electrical plug covers, electrical plug plates, single outlet plates,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Home Decor",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "73383",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "421942",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "447492",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 260 -  Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "260 -  Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

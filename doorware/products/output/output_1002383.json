@@ -1,0 +1,135 @@
+{
+    "legacy_product_id": "1002383",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Emtek Privacy Latch, Emtek LC4-PRIV",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-LC4-PRIV",
+            "mpn": "EMT-LC4-PRIV",
+            "price": "17.99",
+            "compare_at_price": "17.99",
+            "contractor_price": "17.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Privacy Latch with Brass Nose Bolt",
+                "Emtek LC4-PRIV-M-237-B Emtek Privacy Latch",
+                "Emtek Privacy Set Latches",
+                "EMT-LC4-PRIV-M-237-B",
+                "Emtek backset",
+                "Emtek latches",
+                "EMT-LC4-PRIV-M-237-C",
+                "EMT-LC4-PRIV-M-275-C",
+                "EMT-LC4-PRIV-M-275-B"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-LC4-PRIV-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-LC4-PRIV-525.jpg?v=1717106405"
+        },
+        "text": {
+            "description_html": "<b>Emtek Privacy Latch</b>\r\n\r\n<p>\r\nReplacement Privacy function (bed or bath room) for use with <a href=\"/collections/emtek-leversets\"><b>Emtek Levers</b></a> and <a href=\"/collections/emtek-knobsets\"><b>Emtek Knobs</b></a>. Available in 2-3/8\" or 2-3/4\" backsets.\r\n</p>\r\n<p>\r\nAlso available: <a href=\"/products/emtek-passage-latch-emtek-lc4-pass\"><b>Emtek Passage Latch</b></a>\r\n</p>\r\n<p>\r\nReplacement Privacy Latch only. Does NOT include the strike plate, face plate, push pin or screws. \r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "Emtek Privacy Latch",
+                "description": "Replacement latch for use with Emtek Privacy Levers and Emtek Privacy Knobs. Available in 2-3/8 or 2-3/4 backsets.",
+                "keywords": "Privacy Latch with Brass Nose Bolt, Emtek LC4-PRIV-M-237-B Emtek Privacy Latch, Emtek Privacy Set Latches, EMT-LC4-PRIV-M-237-B, Emtek backset, Emtek latches, EMT-LC4-PRIV-M-237-C, EMT-LC4-PRIV-M-275-C, EMT-LC4-PRIV-M-275-B,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "937547",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "978840",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "999265",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "185625",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "223064",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "211877",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "306111",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Backset: LC4-PRIV-M-237: 2-3/8in. Backset",
+                "Select Backset: LC4-PRIV-M-275: 2-3/4in. Backset",
+                "Nose Bolt Finish: B: Brass",
+                "Nose Bolt Finish: C: Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LC4-PRIV-M-237: 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LC4-PRIV-M-275: 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Nose Bolt Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "B: Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "C: Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

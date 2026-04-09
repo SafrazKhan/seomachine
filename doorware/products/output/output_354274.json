@@ -1,0 +1,100 @@
+{
+    "legacy_product_id": "354274",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "2 3/8 Backset Deadlatch for Schlage AL Series, SCH-11-085",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-11-085",
+            "mpn": "SCH-11-085",
+            "price": "84.4",
+            "compare_at_price": "84.4",
+            "contractor_price": "84.4",
+            "shipping_weight": "0.25",
+            "tags": [
+                "2 3/8 backset Deadlatch for Schlage AL Series",
+                "SCH-11-085"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>2 3/8 backset Deadlatch for Schlage AL Series, SCH-11-085</b>\r\n<p>For use with Schlage Commercial AL series only.  2-3/8\" backset deadlatch with square faceplate.</p>",
+            "seo": {
+                "title": "2 3/8 Backset Deadlatch for Schlage AL Series, SCH-11-085",
+                "description": "2 3/8 backset Deadlatch for Schlage AL Series, SCH-11-085",
+                "keywords": "2 3/8 backset Deadlatch for Schlage AL Series, SCH-11-085"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "100"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: 605: Polished Brass",
+                "Select Finish: 609: Antique Brass",
+                "Select Finish: 612: Satin Bronze",
+                "Select Finish: 613: Oil Rubbed Bronze",
+                "Select Finish: 626: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "605: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "609: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "612: Satin Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "613: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

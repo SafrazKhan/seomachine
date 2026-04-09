@@ -1,0 +1,147 @@
+{
+    "legacy_product_id": "43161",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Sophisticated Cabinet Pull, Omnia 9416/51",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9416/51",
+            "mpn": "OMN-9416/51",
+            "price": "23.28",
+            "compare_at_price": "29.1",
+            "contractor_price": "22.11",
+            "shipping_weight": "0.25",
+            "tags": [
+                "omnia 9416/51 solid brass sophisticated cabinet pulls",
+                "solid brass cabinet pulls",
+                "modern kitchen cabinet pulls",
+                "contemporary cabinet door pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-9416-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/omn-9416-5251.jpg?v=1716420854"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9416/51 Solid Brass Sophisticated Cabinet Pulls</b>\r\n<p>This sophisticated cabinet pull is made of solid brass. It is contemporary in design, pairing modern shape with your choice of one of the 4 finishes. The lip of the cabinet knob is not only stylish, it is also comfortable to your hand--making the Omnia made Sophisticated Cabinet Knob one of the best choices if you are looking to add contemporary elegance that is both beautiful and functional to your home.</p>\r\n<p>Solid brass construction regardless of finish.</p>\r\n<p>\r\nOmnia's line of sophisticated cabinet hardware have been painstakingly crafted by artisans who understand that a beautiful design must be as comfortable to the hand as it is pleasing to the eyes.\r\n</p>\r\n<p><b>Specifications</b> of the Omnia 9416 Solid Brass Cabinet Pull:\r\n<ul>\r\n<li>Pull Length: 2\"</li>\r\n<li>Overall Base Length: 3-1/16\"</li>\r\n<li>Projection: 1\"</li></ul>\r\n</p>\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Sophisticated Cabinet Pull, Omnia 9416/51",
+                "description": "Omnia 9416/51 Solid Brass Sophisticated Cabinet Pull - This sophisticated cabinet pull is made of solid brass. It is contemporary in design, pairing modern shape with your choice of one of the 4 finishes. The lip of the cabinet knob is not only stylish, it is also comfortable to your hand--making the Omnia made Sophisticated Cabinet Knob one of the best choices if you are looking to add contemporary elegance that is both beautiful and functional to your home.",
+                "keywords": "omnia 9416/51 solid brass sophisticated cabinet pulls, solid brass cabinet pulls, modern kitchen cabinet pulls, contemporary cabinet door pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Pull Length",
+                    "value": "2\""
+                },
+                {
+                    "key": "Overall Base Length",
+                    "value": "3-1/16\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "62"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "41438",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "41438",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "42897",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "43017",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "237449",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "249536",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "247906",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "252419",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Pull Length: 2\"",
+                "Overall Base Length: 3-1/16\"",
+                "Projection: 1\"",
+                "Select Finish: US3 - Polished Brass",
+                "Select Finish: US26 - Polished Chrome",
+                "Select Finish: 684/3 - Black Chrome and Brass",
+                "Select Finish: US15 - Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9416/51-US3"
+                },
+                {
+                    "value": "US26 - Polished Chrome",
+                    "price_impact": 2.56,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9416/51-US26"
+                },
+                {
+                    "value": "684/3 - Black Chrome and Brass",
+                    "price_impact": 2.56,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9416/51-684/3"
+                },
+                {
+                    "value": "US15 - Satin Nickel",
+                    "price_impact": 2.56,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9416/51-US15"
+                }
+            ]
+        }
+    ]
+}

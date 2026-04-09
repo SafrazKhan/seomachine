@@ -1,0 +1,120 @@
+{
+    "legacy_product_id": "317386",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin Deadbolt Adaptor Rings",
+            "vendor": "Baldwin",
+            "status": "ACTIVE",
+            "sku": "BALD-8090",
+            "mpn": "BALD-8090",
+            "price": "30.0",
+            "compare_at_price": "30.0",
+            "contractor_price": "30.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "BALD-8090 Baldwin Deadbolt Adaptor Rings"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/8090_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/8090_525.jpg?v=1716423071"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 8090 Deadbolt Adaptor Rings</b>\r\n<p>\r\nFor use with Baldwin 8000 series single or double cylinder deadbolts. Use to install deadbolts that are prep for 1-5/8\" door bore hole, on a stardard 2-1/8\" door bore hole.  Trim ring diameter 2.5\" (64mm).\r\n</p>\r\n<p>\r\n*Sold as a pair (2 adaptor trim rings - for installing 1 deadbolt)\r\n</p>",
+            "seo": {
+                "title": "Baldwin Deadbolt Adaptor Rings",
+                "description": "For use with Baldwin single or double cylinder deadbolts. Use to install deadbolts that are prep for 1-5/8  door bore hole, on a stardard 2-1/8  door bore hole.",
+                "keywords": "BALD-8090 Baldwin Deadbolt Adaptor Rings,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "944781",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "944789",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "294714",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 003: Polished Brass",
+                "Select Finish: 102: Oil Rubbed Bronze",
+                "Select Finish: 112: Venetian Bronze",
+                "Select Finish: 260: Polished Chrome",
+                "Select Finish: 055: PVD Bright Nickel",
+                "Select Finish: 056: PVD Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "003: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "102: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "112: Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "260: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "055: PVD Bright Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "056: PVD Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

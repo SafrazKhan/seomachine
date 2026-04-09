@@ -1,0 +1,104 @@
+{
+    "legacy_product_id": "857110",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Modern Round Privacy Rose, Omnia 809/08",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-809/08",
+            "mpn": "OMN-809/08",
+            "price": "20.0",
+            "compare_at_price": "20.0",
+            "contractor_price": "20.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Modern Round Rosette Covers",
+                "Modern Round Roses",
+                "Omnia 809/08",
+                "OMN-809/08",
+                "Modern Round Rose Covers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52535.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52535.gif?v=1716426053"
+        },
+        "text": {
+            "description_html": "<b>Omnia 809/08, Modern Round Rose Cover</b>\r\n\r\n<p>\r\nA replacement Omnia 809/08 Modern Round Rose. This is a Rose cover only, does not include subrose.  \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Modern Round Rosette Cover:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter: 2-7/16\"</li>\r\n<li>Projection: 1/2\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nSpecial Order Item. <b>No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "Modern Round Rose",
+                "description": "A replacement Omnia 809/08 Modern Round Rose. This is a Rose cover only, does not include subrose.",
+                "keywords": "Modern Round Rosette Covers, Modern Round Roses, Omnia 809/08, OMN-809/08, Modern Round Rose Covers,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Diameter",
+                    "value": "2-7/16\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1/2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "53"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "593258",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "378801",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "566188",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "247906",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Diameter: 2-7/16\"",
+                "Projection: 1/2\"",
+                "Select Finish: OMN-809/08.26D - Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-809/08.26D - Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

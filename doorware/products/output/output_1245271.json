@@ -1,0 +1,122 @@
+{
+    "legacy_product_id": "1245271",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Lever Extension Flush Bolt, Rockwood 555-613",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "ROC-555-613",
+            "mpn": "ROC-555-613",
+            "price": "38.39",
+            "compare_at_price": "38.39",
+            "contractor_price": "38.39",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Lever Extension Flush Bolt",
+                "Rockwood 555-613"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ROC-555-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ROC-555-525.jpg?v=1769479826"
+        },
+        "text": {
+            "description_html": "<b>Lever Extension Flush Bolt, Rockwood 555-613</b>\r\n\r\n<p>\r\nThe brass 555 Lever Extension Flush Bolt is for use on select fire rated hollow metal swinging doors. This product fits ANSI A115 door and frame preparation, and is available with other size rods and an extra long bolt head.\r\n</p>\r\n\r\n\r\n\r\n<p>\r\n<b>Specifications</b> for the Rockwood 446-613 Floor Mounted Stop:\r\n<ul> \r\n<li>Finish: <b>Oil Rubbed Bronze</b></li>\r\n<li>Base Material: Bronze </li>\r\n<li>Faceplate Height: 6-3/4\"</li>\r\n<li>Faceplate Width: 1\"</li>\r\n<li>Bolt Throw: 3/4\"</li>\r\n<li>Bolt Head: 1-1/2\" adjustable</li>\r\n<li>Backset: 3/4\"</li>\r\n<li>Rod Length: 12\"</li>\r\n<li>Fastener: 8 ea. #8 x 3/4\" FH combo screws</li>\r\n\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Lever Extension Flush Bolt, Rockwood 555-613",
+                "description": "Lever Extension Flush Bolt, Rockwood 555-613",
+                "keywords": "Lever Extension Flush Bolt, Rockwood 555-613"
+            },
+            "specifications": [
+                {
+                    "key": "Finish",
+                    "value": "Oil Rubbed Bronze"
+                },
+                {
+                    "key": "Base Material",
+                    "value": "Bronze"
+                },
+                {
+                    "key": "Faceplate Height",
+                    "value": "6-3/4\""
+                },
+                {
+                    "key": "Faceplate Width",
+                    "value": "1\""
+                },
+                {
+                    "key": "Bolt Throw",
+                    "value": "3/4\""
+                },
+                {
+                    "key": "Bolt Head",
+                    "value": "1-1/2\" adjustable"
+                },
+                {
+                    "key": "Backset",
+                    "value": "3/4\""
+                },
+                {
+                    "key": "Rod Length",
+                    "value": "12\""
+                },
+                {
+                    "key": "Fastener",
+                    "value": "8 ea. #8 x 3/4\" FH combo screws"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Rockwood Accessories",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Finish: Oil Rubbed Bronze",
+                "Base Material: Bronze",
+                "Faceplate Height: 6-3/4\"",
+                "Faceplate Width: 1\"",
+                "Bolt Throw: 3/4\"",
+                "Bolt Head: 1-1/2\" adjustable",
+                "Backset: 3/4\"",
+                "Rod Length: 12\"",
+                "Fastener: 8 ea. #8 x 3/4\" FH combo screws",
+                "Select Rod Length: 12in. Rod Length",
+                "Select Rod Length: 24in. Rod Length"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Rod Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "12in. Rod Length",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "24in. Rod Length",
+                    "price_impact": 3.51,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

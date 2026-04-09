@@ -1,0 +1,51 @@
+{
+    "legacy_product_id": "239752",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Panic Devices",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "302-Panic-Devices",
+            "mpn": "302-Panic-Devices",
+            "price": "0.0",
+            "compare_at_price": "0.0",
+            "contractor_price": "0.0",
+            "shipping_weight": "0.0",
+            "tags": [
+                "Panic Devices",
+                "door exit devices",
+                "panic door hardware",
+                "panic bars",
+                "security bars",
+                "commercial panic hardware",
+                "exit bars"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/302-panic-hardware_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/302-panic-hardware_525.jpg?v=1717788687"
+        },
+        "text": {
+            "description_html": "<b>Panic Devices</b>\r\n<p>\r\nCommercial grade door exit devices, panic door hardware, panic bars, and security bars.</p>",
+            "seo": {
+                "title": "Panic Devices",
+                "description": "Commercial grade door exit devices, panic door hardware, panic bars, and security bars.",
+                "keywords": "Panic Devices, door exit devices, panic door hardware, panic bars, security bars, commercial panic hardware, exit bars,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

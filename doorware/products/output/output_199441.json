@@ -1,0 +1,84 @@
+{
+    "legacy_product_id": "199441",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "6 x 26 Solid Brass Door Kick Plates",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "KP-6-26",
+            "mpn": "KP-6-26",
+            "price": "59.95",
+            "compare_at_price": "75.9",
+            "contractor_price": "59.95",
+            "shipping_weight": "5.0",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Solid Brass (.050\" Thick)  6\" x  26\" Kick Plate\r\n</b>\r\n<p>Special order custom size. Allow 10 - 14 days to ship.\r\n</p>",
+            "seo": {
+                "title": "6 x 26 Solid Brass Door Kick Plates",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Custom Size Plates",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: 605: Polished Brass",
+                "Select Finish: 613: Oil Rubbed Bronze",
+                "Select Finish: 619: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "605: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "605"
+                },
+                {
+                    "value": "613: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "613"
+                },
+                {
+                    "value": "619: Satin Nickel",
+                    "price_impact": 31.73,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "619"
+                }
+            ]
+        }
+    ]
+}

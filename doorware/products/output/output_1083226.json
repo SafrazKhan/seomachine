@@ -1,0 +1,141 @@
+{
+    "legacy_product_id": "1083226",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Glacio 6-5/16 Inch Cabinet Pull, Amerock BP36656CG10",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "AME-BP36656CG10",
+            "mpn": "AME-BP36656CG10",
+            "price": "31.32",
+            "compare_at_price": "39.15",
+            "contractor_price": "31.32",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Glacio 6-5/16 Inch Cabinet Pulls",
+                "AME-BP36656CG10",
+                "Amerock BP36656CG10",
+                "Glass Glacio Cabinet Pulls",
+                "Amerock Glacio Cabinet Handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AME-BP36656CG10-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AME-BP36656CG10-525.jpg?v=1716428119"
+        },
+        "text": {
+            "description_html": "<b>Amerock BP53530G10, Glass Glacio Cabinet Pull</b>\r\n\r\n<p> \r\nThe Glacio 6-5/16 Inch Cabinet Pull features a clear glass grip and retro-looking mounts for a truly unique cabinet door pull. This Glass Glacio Cabinet Pull has a total length of 7-7/8 inces and a center to center length of 6-5/16 inches.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Amerock Glacio Cabinet Handle:\r\n<ul>\r\n<li>Material: Zinc and Glass</li>\r\n<li>Glass Color: Clear</li>\r\n<li>Length (center to center): 6-5/16\" (c.c.)</li>\r\n<li>Overall Length: 7-7/8\"</li>\r\n<li>Projection: 1-1/2\"</li>\r\n<li>Grip Width: 3/4\"</li>\r\n<li>Base Width: 5/8\" Square</li>\r\n<li>Hardware:  #8-32 x 1in LGTH T.H. Machine Screw</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Glacio 6-5/16 Inch Cabinet Pull",
+                "description": "The Glacio 6-5/16 Inch Cabinet Pull features a clear glass grip and retro-looking mounts for a truly unique cabinet door pull. This Glass Glacio Cabinet Pull has a total length of 7-7/8 inces and a center to center length of 6-5/16 inches.",
+                "keywords": "Glacio 6-5/16 Inch Cabinet Pulls, AME-BP36656CG10, Amerock BP36656CG10, Glass Glacio Cabinet Pulls, Amerock Glacio Cabinet Handles,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Zinc and Glass"
+                },
+                {
+                    "key": "Glass Color",
+                    "value": "Clear"
+                },
+                {
+                    "key": "Length (center to center)",
+                    "value": "6-5/16\" (c.c.)"
+                },
+                {
+                    "key": "Overall Length",
+                    "value": "7-7/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-1/2\""
+                },
+                {
+                    "key": "Grip Width",
+                    "value": "3/4\""
+                },
+                {
+                    "key": "Base Width",
+                    "value": "5/8\" Square"
+                },
+                {
+                    "key": "Hardware",
+                    "value": "#8-32 x 1in LGTH T.H. Machine Screw"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Amerock",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "780193",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "564398",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "905671",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "897876",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "385342",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "668707",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "1033433",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Material: Zinc and Glass",
+                "Glass Color: Clear",
+                "Length (center to center): 6-5/16\" (c.c.)",
+                "Overall Length: 7-7/8\"",
+                "Projection: 1-1/2\"",
+                "Grip Width: 3/4\"",
+                "Base Width: 5/8\" Square",
+                "Hardware: #8-32 x 1in LGTH T.H. Machine Screw",
+                "Select Finish: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

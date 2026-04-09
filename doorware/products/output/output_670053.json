@@ -1,0 +1,99 @@
+{
+    "legacy_product_id": "670053",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:10:26.274787"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "48 Inch Von Duprin 98 Series Panic Device",
+            "vendor": "Von Duprin",
+            "status": "ARCHIVED",
+            "sku": "VON-98LNL432D06-WH",
+            "mpn": "VON-98LNL432D06-WH",
+            "price": "1477.0",
+            "compare_at_price": "1681.0",
+            "contractor_price": "1477.0",
+            "shipping_weight": "10.0",
+            "tags": [
+                "48 Inch Von Duprin 98 Series Panic Devices",
+                "Von Duprin 98 Series 48 Inch Panic Devices",
+                "VON-98LNL432D06-WH",
+                "Von Duprin 98 Series 48 Inch Panic Device with 06 Levers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/98LNL-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/98LNL-525.jpg?v=1717106208"
+        },
+        "text": {
+            "description_html": "<b>Von Duprin 98 Series 48 Inch Panic Device with 06 Lever</b>\r\n\r\n<p>\r\nThe 48 Inch Von Duprin 98 Series Panic Device comes with everything you need for easy installation. It comes with the easy to maintain 06 Lever with a Round Rose. Drilled with weeping holes for exterior use on gates. This exit device has a night latch function, where the latch bolt is retracted by a key from the exterior; this means that it will always need a key to open the door from the outside. From the interior, the latch is retracted my the pushbar. It has a Satin Stainless Steel Finish. \r\n</p>\r\n\r\n<p>\r\n<b>Night Latch Function:</b> A key retracts latch bolt. Lever is rigid.\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Features and Specifications</b> for the Von Duprin 98 Series 48 Inch Panic Device:\r\n<ul>\r\n<li><b>Finish</b> Satin Stainless Steel</li>\r\n<li>Exterior Trim: 06 Lever with Round Rose</li>\r\n<li>Length: 48\"</li>\r\n<li>Device Centerline from Finished Floor: 39 11/16\" (1008 mm) with mullion</li>\r\n<li>Mechanism Case Dimensions: 2 1/4\" x 2 1/4\" (57mm x 57mm)</li>\r\n<li>Projection: Pushbar neutral – 3 13/16\" (97 mm) Pushbar depressed – 3 1/16\" (78 mm)</li>\r\n<li>Latch Bolt: Deadlocking, 3/4\" (19mm) throw</li>\r\n<li>Comes packaged with screw pack for 1 3/4\" (44mm) and 2 1/4\" (57mm) thick metal or wood doors.</li>\r\n<li>Drilled with weeping holes.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "48 Inch Von Duprin 98 Series Panic Device",
+                "description": "Von Duprin 98LNL432D06, 48 Inch Von Duprin 98 Series Panic Device - The 48 Inch Von Duprin 98 Series Panic Device comes with everything you need for easy installation. It comes with the easy to maintain 06 Lever with a Round Rose. Drilled with weeping holes for exterior use on gates. This exit device has a night latch function, where the latch bolt is retracted by a key from the exterior; this means that it will always need a key to open the door from the outside. From the interior, the latch is retracted my the pushbar. It has a Satin Stainless Steel Finish.",
+                "keywords": "48 Inch Von Duprin 98 Series Panic Devices, Von Duprin 98 Series 48 Inch Panic Devices, VON-98LNL432D06-WH, Von Duprin 98 Series 48 Inch Panic Device with 06 Levers,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Von Duprin",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "352110",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "354503",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "201696",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "301763",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "352282",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Handing: LHR - Left Hand Reverse",
+                "Select Handing: RHR - Right Hand Reverse"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LHR - Left Hand Reverse",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RHR - Right Hand Reverse",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

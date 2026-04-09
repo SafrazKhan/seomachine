@@ -1,0 +1,90 @@
+{
+    "legacy_product_id": "1141048",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Square Cylinder Collar, AHI 203",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-203",
+            "mpn": "AHI-203",
+            "price": "55.0",
+            "compare_at_price": "55.0",
+            "contractor_price": "55.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Square Mortise Cylinder Collar",
+                "AHI 203",
+                "AHI-203"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AHI-203-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-203-525.jpg?v=1716428392"
+        },
+        "text": {
+            "description_html": "<b>3/4 Inch Cylinder Collar</b>\r\n\r\n<p>\r\nThis is a cylinder collar with a 3/4 inch bore.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Square Cylinder Deadbolt Collar:\r\n<ul>\r\n<li>Material: Marine Grade 316 Stainless Steel</li>\r\n<li>Cylinder Bore Hole Diameter: 3/4''</li>\r\n<li>Length: 2-3/16\"</li>\r\n<li>Projection: 7/16\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold individually</i>\r\n</p>",
+            "seo": {
+                "title": "Square Cylinder Collar",
+                "description": "This is a cylinder collar with a 3/4 inch bore.",
+                "keywords": "Square Mortise Cylinder Collar, AHI 203, AHI-203,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "AHI Miscellaneous Parts",
+                    "sort": "33"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "193213",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "193220",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "460103",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "193837",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "931988",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: P22: Matte Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "P22: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

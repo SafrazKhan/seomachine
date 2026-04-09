@@ -1,0 +1,94 @@
+{
+    "legacy_product_id": "174105",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:11:10.129849"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "K005 Couture Custom Knob",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "K005",
+            "mpn": "K005",
+            "price": "136.5",
+            "compare_at_price": "182.0",
+            "contractor_price": "129.67",
+            "shipping_weight": "0.0",
+            "tags": [
+                "K005 Couture Custom Knob"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "K005 Couture Custom Knob",
+            "seo": {
+                "title": "K005 Couture Custom Knob",
+                "description": "K005 Couture Custom Knob",
+                "keywords": "K005 Couture Custom Knob"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: 003- Lifetime Brass",
+                "Select Function: K005.003.IDM",
+                "Select Function: K005.003.PASS",
+                "Select Function: K005.003.PRIV"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "003- Lifetime Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "003-"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "K005.003.IDM",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "K005.003.PASS",
+                    "price_impact": 81.75,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "K005.003.PRIV",
+                    "price_impact": 81.75,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

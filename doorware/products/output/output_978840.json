@@ -1,0 +1,139 @@
+{
+    "legacy_product_id": "978840",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Emtek Passage Latch, Emtek LC4-PASS",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-LC4-PASS",
+            "mpn": "EMT-LC4-PASS",
+            "price": "17.99",
+            "compare_at_price": "17.99",
+            "contractor_price": "17.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Emtek Passage Latches",
+                "Emtek Passage Set Latches",
+                "Emtek LC4-PASS-2375",
+                "Emtek LC4-PASS-275",
+                "EMT-LC4-PASS",
+                "Emtek Passage Latch",
+                "Emtek LC4-PASS door latch",
+                "EMT-LC4-PASS-M-237-B",
+                "Emtek backset",
+                "Emtek latches",
+                "EMT-LC4-PASS-M-237-C",
+                "EMT-LC4-PASS-M-275-C",
+                "EMT-LC4-PASS-M-275-B"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-LC4-PASS-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-LC4-PASS-525.jpg?v=1717106383"
+        },
+        "text": {
+            "description_html": "<b>Emtek Passage Latch</b>\r\n\r\n<p>\r\nReplacement Passage function (hall or closet) for use with <a href=\"/collections/emtek-leversets\"><b>Emtek Levers</b></a> and <a href=\"/collections/emtek-knobsets\"><b>Emtek Knobs</b></a>. Available in 2-3/8\" or 2-3/4\" backsets.\r\n</p>\r\n<p>\r\nAlso available: <a href=\"/products/emtek-privacy-latch-emtek-lc4-priv\"><b>Emtek Privacy Latch</b></a>\r\n</p>\r\n<p>\r\nReplacement Passage Latch only. Does NOT include the strike plate, face plate or screws. \r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "Emtek Passage Latch",
+                "description": "Replacement latch for use with Emtek Passage Levers and Emtek Passage Knobs. Available in 2-3/8 or 2-3/4 backsets.",
+                "keywords": "Emtek Passage Latches, Emtek Passage Set Latches, Emtek LC4-PASS-2375, Emtek LC4-PASS-275, EMT-LC4-PASS, Emtek Passage Latch, Emtek LC4-PASS door latch, EMT-LC4-PASS-M-237-B, Emtek backset, Emtek latches, EMT-LC4-PASS-M-237-C, EMT-LC4-PASS-M-275-C, EMT-LC4-PASS-M-275-B,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "937547",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "275077",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "198616",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "337756",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "223064",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "331945",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "1002383",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Backset: LC4-PASS-M-237: 2-3/8in. Backset",
+                "Select Backset: LC4-PASS-M-275: 2-3/4in. Backset",
+                "Nose Bolt Finish: B: Brass",
+                "Nose Bolt Finish: C: Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LC4-PASS-M-237: 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LC4-PASS-M-275: 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Nose Bolt Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "B: Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "C: Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

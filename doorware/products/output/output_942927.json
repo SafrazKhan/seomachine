@@ -1,0 +1,84 @@
+{
+    "legacy_product_id": "942927",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Privacy Latch for Brass Accent Knobsets, BRA-D09-C013G",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "BRA-D09-C013G",
+            "mpn": "BRA-D09-C013G",
+            "price": "39.0",
+            "compare_at_price": "39.0",
+            "contractor_price": "39.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Privacy Latch for Brass Accent Knobsets",
+                "BRA-D09-C013G",
+                "Brass Accent Door Latches",
+                "Brass Accents D09-C013G",
+                "Privacy Door Latch for Brass Accents Knobsets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BRA-D09-C013G-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BRA-D09-C013G-525.jpg?v=1716427041"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents D09-C013G, Privacy Door Latch for Brass Accents Knobsets</b>\r\n\r\n<p>\r\nThis is a replacement  Privacy Door Latch for <a href=\"/collections/decorative-door-knobs-and-levers\"><b>Brass Accents Knobs</b></a>. It has a 2-3/8 inch backset.\r\n</p>\r\n\r\n<p>\r\nSpecial Ordered Item. <b>No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "Latch for Brass Accent Knobsets",
+                "description": "This is a replacement Privacy Door Latch  for Brass Accents Knobs. It has a 2-3/8 inch backset.",
+                "keywords": "Privacy Latch for Brass Accent Knobsets, BRA-D09-C013G, Brass Accent Door Latches, Brass Accents D09-C013G,  Privacy Door Latch for Brass Accents Knobsets,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Accessories",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "353918",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "275077",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "227181",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: Polished Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

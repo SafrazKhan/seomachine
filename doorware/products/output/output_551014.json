@@ -1,0 +1,166 @@
+{
+    "legacy_product_id": "551014",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Palermo Cabinet Cup Pull, RK International CF-915",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CF-915",
+            "mpn": "RKI-CF-915",
+            "price": "21.99",
+            "compare_at_price": "26.73",
+            "contractor_price": "21.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "RK International CF 915",
+                "RKI-CF-915",
+                "RK International CF-915",
+                "Palermo Cabinet Pulls",
+                "Fancy Palermo Cabinet Door Pulls",
+                "RK International Palermo Collections",
+                "fancy cabinet pulls",
+                "swirl cabinet hardware",
+                "Palermo Swirl Cabinet Door Pulls",
+                "Palermo Cabinet Cup Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CF-915-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CF-915-525.jpg?v=1716424354"
+        },
+        "text": {
+            "description_html": "<b>RK International CF-915, Palermo Swirl Cabinet Door Pull</b>\r\n\r\n<p>\r\nThe swirl design of the Palermo Cabinet Cup Pull will add a bit of whimsy to any cabinet door. RK International's Palermo Collection is ornate without seeming dated. The CF-915 Palermo Swirl Cabinet Door Pull is available in 6 finishes including a beautiful polished nickel (pictured) and a stunning valencia bronze.\r\n</p>\r\n\r\n<p>\r\nAlso Available: \r\n<a href=\"/products/fancy-palermo-cabinet-door-pull-rk-international\"><b>Matching Palermo Cabinet Pull</b></a>, \r\n<a href=\"/products/swirl-design-palermo-cabinet-knob-rk-international-ck-115\"><b>Matching Palermo Round Cabinet Knob</b></a>, <a href=\"/products/rectangle-palermo-collection-cabinet-knob-rk-international-ck-116\"><b>Matching Palermo Rectangular Cabinet Knob</b></a>, and <a href=\"/products/12-inch-palermo-refrigerator-pull-rk-international-ap-ph-6615\"><b>Matching Palermo Appliance Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Palermo Collection CF-915 Cabinet Cup Pull:\r\n<ul>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 4-7/8\"</li>\r\n<li>Width: 1-5/8\"</li>\r\n<li>Projection: 1-7/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Palermo Cabinet Cup Pull",
+                "description": "RK International CF-915, Palermo Cabinet Cup Pull - The swirl design of the Palermo Cabinet Cup Pull will add a bit of whimsy to any cabinet door. RK International's Palermo Collection is ornate without seeming dated. The CF-915 Palermo Swirl Cabinet Door Pull is available in 6 finishes including a beautiful polished nickel and a stunning valencia bronze.",
+                "keywords": "RK International CF 915, RKI-CF-915,RK International CF-915, Palermo Cabinet Pulls, Fancy Palermo Cabinet Door Pulls, RK International Palermo Collections, fancy cabinet pulls, swirl cabinet hardware, Palermo Swirl Cabinet Door Pulls, Palermo Cabinet Cup Pulls"
+            },
+            "specifications": [
+                {
+                    "key": "Length c.c. (center to center)",
+                    "value": "3\""
+                },
+                {
+                    "key": "Overall Length",
+                    "value": "4-7/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "1-5/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-7/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Pulls and Flush Pulls",
+                    "sort": "7"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "43303",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "425080",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "7551",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "445233",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "29605",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "438312",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Length c.c. (center to center): 3\"",
+                "Overall Length: 4-7/8\"",
+                "Width: 1-5/8\"",
+                "Projection: 1-7/8\"",
+                "Select Finish: PNB: Polished Nickel",
+                "Select Finish: SNB: Satin Nickel",
+                "Select Finish: WN: Weathered Nickel",
+                "Select Finish: BE: Brushed English",
+                "Select Finish: VB: Valencia Bronze",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PNB: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SNB: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "WN: Weathered Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BE: Brushed English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "VB: Valencia Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

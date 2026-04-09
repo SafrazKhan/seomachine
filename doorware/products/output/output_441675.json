@@ -1,0 +1,100 @@
+{
+    "legacy_product_id": "441675",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Floral X Design Ceramic Cabinet Knob, Acorn PS8YP",
+            "vendor": "Acorn",
+            "status": "ARCHIVED",
+            "sku": "ACO-PS8YP",
+            "mpn": "ACO-PS8YP",
+            "price": "15.48",
+            "compare_at_price": "19.35",
+            "contractor_price": "14.71",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Acorn Large Square Yellow And Blue X Design Ceramic Knobs",
+                "Acorn Large Square Yellow And Teal X Design Ceramic Knobs",
+                "Acorn PS2YP",
+                "Acorn PS8YP",
+                "Hand Painted Floral X Design Ceramic Cabinet Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ACO-PS8YP-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-PS8YP-525.jpg?v=1716424016"
+        },
+        "text": {
+            "description_html": "<b>Acorn PS8YP, Hand Painted Floral \"X\" Design Ceramic Cabinet Knob</b>\r\n\r\n<p>\r\nA great way to add a pop of color to monochrome cabinets, the Floral \"X\" Design Ceramic Cabinet Knob by Acorn is available in either yellow and blue or yellow and teal. Both styles are hand painted on ceramic, making each one a little different, a little work or art. It measures 1-7/8\" square. It is easy to install using one screw on any cabinet door or drawer.\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of the Floral \"X\" Design Ceramic Cabinet Knob:\r\n<ul>\r\n<li>Length: 1-7/8\" squared</li>\r\n<li>Material: ceramic</li>\r\n<li>Each design is hand painted on ceramic.</li>\r\n<li>Package includes 1 knob and hardware for installation.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually. Due to the hand painted nature of this product, the colors will vary slightly.</i>\r\n</p>",
+            "seo": {
+                "title": "Floral X Design Ceramic Cabinet Knob, Acorn PS8YP",
+                "description": "Floral X Design Ceramic Cabinet Knob Acorn PS8YP - A great way to add a pop of color to monochrome cabinets, the Floral X Design Ceramic Cabinet Knob by Acorn is available in either yellow and blue or yellow and teal. Both styles are hand painted on ceramic, making each one a little different, a little work or art. It measures 1-7/8 inches square. It is easy to install using one screw on any cabinet door or drawer.",
+                "keywords": "Acorn Large Square Yellow And Blue X Design Ceramic Knobs, Acorn Large Square Yellow And Teal X Design Ceramic Knobs, Acorn PS2YP, Acorn PS8YP, Hand Painted Floral X Design Ceramic Cabinet Knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Acorn Discontinued",
+                    "sort": "18"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "441075",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "247857",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "41380",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "441658",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "176142",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Color: PS8YP - Yellow and Blue Ceramic Knob",
+                "Select Color: PS2YP - Yellow and Teal Ceramic Knob"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Color",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PS8YP - Yellow and Blue Ceramic Knob",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-PS8YP-sm.jpg?v=1736037589",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-PS2YP-lg.jpg?v=1711365474"
+                },
+                {
+                    "value": "PS2YP - Yellow and Teal Ceramic Knob",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-PS2YP-sm.jpg?v=1774584358",
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "legacy_product_id": "855062",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Deco Double Rocker Plate, Grandeur DECSWPLTR2",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-DECSWPLTR2",
+            "mpn": "GRA-DECSWPLTR2",
+            "price": "42.4",
+            "compare_at_price": "53.0",
+            "contractor_price": "42.4",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Deco Double Rocker Switch Plates",
+                "GRA-DECSWPLTR2",
+                "Deco Double Rocker Plates",
+                "Grandeur DECSWPLTR2",
+                "Grandeur Deco Double Rocker Light Switch Plate Covers",
+                "Nostalgic Warehouse Deco Switch Plate with double Rockers",
+                "palm springs switch plates",
+                "stepped switch plates",
+                "Grandeur deco collections",
+                "mid-century modern switch plates",
+                "electrical light switch plates",
+                "metal outlet covers",
+                "Double Rocker Solid Brass Plates",
+                "Double Rocker Covers",
+                "2 hole switch plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-DECSWPLTR2-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-DECSWPLTR2-525.jpg?v=1716425996"
+        },
+        "text": {
+            "description_html": "<b>Grandeur DECSWPLTR2, Deco Double Rocker Switch Plate</b>\r\n\r\n<p>\r\nThe Deco Double Rocker Plate is the perfect finishing touch for any mid-century modern home. It is available in 7 classically beautiful finishes. The Grandeur Deco Double Rocker Light Switch Plate Cover comes packaged with all the installation hardware you'll need to easily switch out those tacky plastic covers for something with a little more elegance. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur Deco Double Rocker Light Switch Plate Cover:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 4-7/8\"</li>\r\n<li>Width: 4-7/8\"</li>\r\n<li>Projection: 5/16\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Deco Double Rocker Plate",
+                "description": "The Deco Double Rocker Plate is the perfect finishing touch for any mid-century modern home. It is available in 7 classically beautiful finishes. The Grandeur Deco Double Rocker Light Switch Plates Cover comes packaged with all the installation hardware you'll need to easily switch out those tacky plastic covers for something with a little more elegance.",
+                "keywords": "Deco Double Rocker Switch Plates, GRA-DECSWPLTR2, \r\nDeco Double Rocker Plates, Grandeur DECSWPLTR2, Grandeur Deco Double Rocker Light Switch Plate Covers, Nostalgic Warehouse Deco Switch Plate with double Rockers, palm springs switch plates, stepped switch plates, Grandeur deco collections, mid-century modern switch plates, electrical light switch plates, metal outlet covers, Double Rocker Solid Brass Plates, Double Rocker Covers, 2 hole switch plates,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "4-7/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "4-7/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "5/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Electrical Outlet &amp; Switch Plates",
+                    "sort": "57"
+                },
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "42944",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "252798",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "855082",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "855415",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "261984",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "600224",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "294977",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "294822",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 4-7/8\"",
+                "Width: 4-7/8\"",
+                "Projection: 5/16\"",
+                "Select Finish: AP: Antique Pewter",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: SN :Satin Nickel",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: TB: Timeless Bronze",
+                "Select Finish: ULB: Unlacquered Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN :Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ULB: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

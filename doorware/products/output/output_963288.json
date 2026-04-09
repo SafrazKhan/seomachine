@@ -1,0 +1,92 @@
+{
+    "legacy_product_id": "963288",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Weslock Interconnect Deadbolt Latch, Weslock 14233X-SL",
+            "vendor": "Weslock",
+            "status": "ARCHIVED",
+            "sku": "WES-14233XA-SL",
+            "mpn": "WES-14233XA-SL",
+            "price": "24.0",
+            "compare_at_price": "24.0",
+            "contractor_price": "24.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Weslock 500 Unigard",
+                "1400 & 1300 Series Deadbolt Square Corner Latch on 2-3/4 inch Backsets",
+                "Weslock Interconnect Deadbolt Latches",
+                "Weslock Interconnect Deadbolt Latches",
+                "WES-latch"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/WES-14233XA-SL-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/WES-14233XA-SL-525.jpg?v=1716427261"
+        },
+        "text": {
+            "description_html": "<b>Weslock Interconnect Deadbolt Latch</b>\r\n\r\n<p>\r\nDeadbolt Square Corner Latch with 2-3/4 inch Backset for use with <b>Weslock Interconnected Unigard</b>.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Weslock Interconnect Deadbolt Latch",
+                "description": "Deadbolt Square Corner Latch with 2-3/4 inch Backset.",
+                "keywords": "Weslock 500 Unigard, 1400 & 1300 Series Deadbolt Square Corner Latch on 2-3/4 inch Backsets, Weslock Interconnect Deadbolt Latches,Weslock Interconnect Deadbolt Latches, WES-latch,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Westlock Parts and Accessories",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "335504",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "347250",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "347282",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "347294",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "161291",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: A: Antique Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "A: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

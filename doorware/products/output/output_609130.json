@@ -1,0 +1,51 @@
+{
+    "legacy_product_id": "609130",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Threaded Rosette",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-Threaded-rose",
+            "mpn": "FII-Threaded-rose",
+            "price": "20.0",
+            "compare_at_price": "27.0",
+            "contractor_price": "20.0",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Threaded Rosette",
+                "FII-Threaded-rose"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Threaded Rosette</b><p>Threaded rosette for door pull.   Priced individually</p>",
+            "seo": {
+                "title": "Threaded Rosette",
+                "description": "Threaded Rosette, FII-Threaded-rose",
+                "keywords": "Threaded Rosette, FII-Threaded-rose"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "First Impressions Miscellaneous Parts",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

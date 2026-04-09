@@ -1,0 +1,146 @@
+{
+    "legacy_product_id": "43176",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Urban Cabinet Pull, Omnia 9419",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9419",
+            "mpn": "OMN-9419",
+            "price": "13.92",
+            "compare_at_price": "17.4",
+            "contractor_price": "13.22",
+            "shipping_weight": "0.25",
+            "tags": [
+                "omnia 9419 urban cabinet pulls",
+                "solid brass urban cabinet pulls",
+                "contemporary omnia cabinet pulls",
+                "solid brass cabinet hardware",
+                "modern brass cabinet pulls",
+                "OMN-9419/64",
+                "OMN-9419/96"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-9419-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/omn-9419-525.jpg?v=1716420855"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9419 Solid Brass Urban Cabinet Pull</b>\r\n\r\n<p>\r\nUrban in design this new chic cabinet pull from Omnia features cone-shaped mounts combined with a very sleek handle.</p>\r\n\r\n<p>\r\nSolid brass construction regardless of finish.\r\n</p>\r\n\r\n<p>\r\nOmnia's line of sophisticated cabinet hardware have been painstakingly crafted by artisans who understand that a beautiful design must be as comfortable to the hand as it is pleasing to the eyes.\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 sizes:</b>\r\n<ul>\r\n<li><b>OMN-9419/64</b> - Length (center of mount to center of mount): 2-1/2\", Projection: 13/16\"</li>\r\n<li><b>OMN-9419/96</b> - Length (center of mount to center of mount): 3-3/4\", Projection: 1\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Urban Cabinet Pull, Omnia 9419",
+                "description": "Omnia 9419 Solid Brass Urban Cabinet Pulls - Urban in design this new chic cabinet pull from Omnia features cone-shaped mounts combined with a very sleek handle. Available in 3 finishes and 2 sizes.",
+                "keywords": "omnia 9419 urban cabinet pulls, solid brass urban cabinet pulls, contemporary omnia cabinet pulls, solid brass cabinet hardware, modern brass cabinet pulls, OMN-9419/64, OMN-9419/96,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "159"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "188488",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "196666",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "42944",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "12646",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42914",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "42677",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "40097",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Size: OMN-9419/64 - Length (center of mount to center of mount): 2-1/2in.",
+                "Select Size: OMN-9419/96 - Length (center of mount to center of mount): 3-3/4in.",
+                "Select Finish: US3 - Polished Brass",
+                "Select Finish: US26 - Polished Chrome",
+                "Select Finish: US26D - Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-9419/64 - Length (center of mount to center of mount): 2-1/2in. ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9419/64"
+                },
+                {
+                    "value": "OMN-9419/96 - Length (center of mount to center of mount): 3-3/4in.",
+                    "price_impact": 0.64,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9419/96"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US3"
+                },
+                {
+                    "value": "US26 - Polished Chrome",
+                    "price_impact": 3.2,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26"
+                },
+                {
+                    "value": "US26D - Satin Chrome",
+                    "price_impact": 3.2,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26D"
+                }
+            ]
+        }
+    ]
+}

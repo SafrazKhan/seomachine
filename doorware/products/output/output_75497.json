@@ -1,0 +1,122 @@
+{
+    "legacy_product_id": "75497",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:09:46.220286"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Bommer Industries 5\" x 4 1/2\" 5001-545 Brass Hinge",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "BOM-5001-545",
+            "mpn": "BOM-5001-545",
+            "price": "46.07",
+            "compare_at_price": "70.88",
+            "contractor_price": "43.77",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Bommer Industries 5\" x 4 1/2\" 5001-545 Full Mortise 5 Knuckle Brass Hinge bommer industries 5\" x 4 1/2\" 5001-545 brass hinge"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Bommer Industries 5\" x 4 1/2\" 5001-545 Brass Hinge\r\n<br>\r\n<br>\r\nHinges priced per each<br>\r\nSize: 5\" x 4 1/2\"<br>\r\nFull Mortise<br>\r\nStandard Weight<br>\r\nPlain Bearing<br>\r\nGauge: .146<br>\r\nNumber of Holes: 8<br>\r\nMachine Screws: 12-24 x 1/2<br>\r\nWood Screws: 12 x 1 1/4<br>\r\n<br>\r\n<a href=\"https://www.bommer.com/Images/Templates/5000-500-T.pdf\" target=\"popup\">click here</a> to view more product dimensions<br>\r\n<br>\r\nClick below to choose Finish",
+            "seo": {
+                "title": "Bommer Industries 5\" x 4 1/2\" 5001-545 Brass Hinge",
+                "description": "Bommer Industries 5 x 4 1/2 5001-545 Brass Hinge\r\n\r\n\r\nHinges priced per each\r\nSize: 5 x 4 1/2\r\nFull Mortise\r\nStandard Weight\r\nPlain Bearing\r\nGauge: .146\r\nNumber of Holes: 8\r\nMachine Screws: 12-24 x 1/2\r\nWood Screws: 12 x 1 1/4\r\n\r\n",
+                "keywords": "Bommer Industries 5\" x 4 1/2\" 5001-545 Full Mortise 5 Knuckle Brass Hinge bommer industries 5\" x 4 1/2\" 5001-545 brass hinge"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Bommer Brass Door Hinges",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: 605 - Bright Brass, Clear Coated",
+                "Select Finish: 606 - Satin Brass, Clear Coated",
+                "Select Finish: 612 - Satin Bronze, Clear Coated",
+                "Select Finish: 613 - Satin Bronze, Dark Oxidized, Oil Rubbed",
+                "Select Finish: 616 - Satin Bronze, Blackened, Satin Relieved, Clear Coated",
+                "Select Finish: 625 - Bright Chromium Plated",
+                "Select Finish: 626 - Satin Chromium Plated"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "605 - Bright Brass, Clear Coated",
+                    "price_impact": 14.51,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "605"
+                },
+                {
+                    "value": "606 - Satin Brass, Clear Coated",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "606"
+                },
+                {
+                    "value": "612 - Satin Bronze, Clear Coated",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "612"
+                },
+                {
+                    "value": "613 - Satin Bronze, Dark Oxidized, Oil Rubbed",
+                    "price_impact": 14.51,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "613"
+                },
+                {
+                    "value": "616 - Satin Bronze, Blackened, Satin Relieved, Clear Coated",
+                    "price_impact": 14.51,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "616"
+                },
+                {
+                    "value": "625 - Bright Chromium Plated",
+                    "price_impact": 14.51,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "625"
+                },
+                {
+                    "value": "626 - Satin Chromium Plated",
+                    "price_impact": 6.41,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "626"
+                }
+            ]
+        }
+    ]
+}

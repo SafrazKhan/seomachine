@@ -1,0 +1,122 @@
+{
+    "legacy_product_id": "1084778",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Adjustable Pocket Door Lock Receiver, Deltana SDAR325",
+            "vendor": "Deltana",
+            "status": "ARCHIVED",
+            "sku": "DEL-SDAR325",
+            "mpn": "DEL-SDAR325",
+            "price": "25.88",
+            "compare_at_price": "34.5",
+            "contractor_price": "24.59",
+            "shipping_weight": "1.0",
+            "tags": [
+                "3-1/4 x 2-1/4 Sliding Door Receivers",
+                "Adjustable Pocket Door Locks",
+                "Deltana SDAR325",
+                "DEL-SDAR325",
+                "Adjustable Pocket Door Lock Receiver"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-SDAR325-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SDAR325-525.jpg?v=1716428123"
+        },
+        "text": {
+            "description_html": "<b>Deltana SDAR325, Adjustable Pocket Door Lock Receiver</b>\r\n\r\n<p>\r\nThe Deltana SDAR325 is an adjustable pocket receiver. This design allows for face-to-face locking with our Privacy model SDLA325 to complete a double pocket door set.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Deltana SDAR325 Pocket Door Lock:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Height: 3-1/4\"</li>\r\n<li>Width: 2-1/4\"</li>\r\n<li>Door Thickness: Adjustable 1-3/8\" to 1-3/4\"</li>\r\n<li>Door Cutout: 2-3/4\" High by 1-3/4\" Deep </li>\r\n<li>Packaged with matching finish screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>",
+            "seo": {
+                "title": "Adjustable Pocket Door Lock Receiver",
+                "description": "The Deltana SDAR325 is an adjustable pocket receiver. This design allows for face-to-face locking with our Privacy model SDLA325 to complete a double pocket door set.",
+                "keywords": "3-1/4 x 2-1/4 Sliding Door Receivers, Adjustable Pocket Door Locks, Deltana SDAR325, DEL-SDAR325, Adjustable Pocket Door Lock Receiver,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Height",
+                    "value": "3-1/4\""
+                },
+                {
+                    "key": "Width",
+                    "value": "2-1/4\""
+                },
+                {
+                    "key": "Door Thickness",
+                    "value": "Adjustable 1-3/8\" to 1-3/4\""
+                },
+                {
+                    "key": "Door Cutout",
+                    "value": "2-3/4\" High by 1-3/4\" Deep"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "Discontinued and Special Items",
+                    "sort": "70"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "7499",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "7599",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "7512",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "759269",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "999020",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "989747",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Height: 3-1/4\"",
+                "Width: 2-1/4\"",
+                "Door Thickness: Adjustable 1-3/8\" to 1-3/4\"",
+                "Door Cutout: 2-3/4\" High by 1-3/4\" Deep",
+                "Select Finish: US15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

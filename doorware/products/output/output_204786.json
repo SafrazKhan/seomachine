@@ -1,0 +1,79 @@
+{
+    "legacy_product_id": "204786",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "AHI SIG Series 8MM Privacy Leverset Spindle",
+            "vendor": "AHI",
+            "status": "ACTIVE",
+            "sku": "AHI-SIG903",
+            "mpn": "AHI-SIG903",
+            "price": "19.2",
+            "compare_at_price": "24.0",
+            "contractor_price": "19.2",
+            "shipping_weight": "0.3",
+            "tags": [
+                "AHI-SIG903 8MM Privacy Leverset Spindles",
+                "AHI SIG Series 8MM Privacy Leverset Spindles",
+                "8 mm Spindles",
+                "8MM square spindles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SIG903-spindle_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SIG903-spindle_525.jpg?v=1717105767"
+        },
+        "text": {
+            "description_html": "<b>8MM Privacy Leverset Spindles</b>\r\n<p>For <a href=\"/collections/ahi-stainless-steel-levers\">AHI Stainless Steel Leversets</a> or other manufacture lever and knob sets that use an 8 mm square spindle.\r\n</p>\r\n<p>This is a split spindle used for Privacy (Bed or Bathroom) function. This spindle set has 3 pieces (2 square 8mm shafts connected with threaded rod).\r\n</p>\r\n<p><b>Available in 2 different lengths</b> of  106mm (3.93\") or 120mm (4.72\").\r\n\r\n</p>",
+            "seo": {
+                "title": "AHI SIG Series 8MM Privacy Leverset Spindle",
+                "description": "AHI SIG Series 8MM Privacy Leverset Spindle. Available in 2 different lengths of  106mm (3.93 ) or 120mm (4.72 ).",
+                "keywords": "AHI-SIG903 8MM Privacy Leverset Spindles, AHI SIG Series 8MM Privacy Leverset Spindles, 8 mm Spindles, 8MM square spindles,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "AHI Miscellaneous Parts",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "204778",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "158626",
+                    "sort": "2"
+                }
+            ],
+            "filter_options": [
+                "Select Length: AHI-SIG903/6060 - 120mm Long"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AHI-SIG903/6060 - 120mm Long",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

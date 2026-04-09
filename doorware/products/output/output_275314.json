@@ -1,0 +1,192 @@
+{
+    "legacy_product_id": "275314",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Latch Bolt for Baldwin Leversets",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BALD-549x",
+            "mpn": "BALD-549x",
+            "price": "60.0",
+            "compare_at_price": "60.0",
+            "contractor_price": "60.0",
+            "shipping_weight": "0.25",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/BALD-549x.525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BALD-549x.525.jpg?v=1711365237"
+        },
+        "text": {
+            "description_html": "<b>Latch Bolt for Baldwin Leversets</b>\r\n<p>\r\nLatch Bolts are for use with Baldwin Images interior leversets.  Available in Passage (Hall/Closet) or Privacy (Bed/Bath) function and in 2 3/8\" or 2 3/4\" backset.</p>\r\n<p>\r\n<b> Specifications of Baldwin 549x Latch Bolts</b>\r\n</p>\r\n<p>\r\n<ul>\r\n<li>Latch Bolts have a 0437\" (11mm) throw</li>\r\n<li>Latch Bolts are reversible with fixed fronts</li>\r\n<li>Can be used on beveled doors</li>\r\n<li>Supplied with 1\" (25mm) face plate</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Latch Bolt for Baldwin Leversets",
+                "description": "Latch Bolt for Baldwin Leversets.  Available in Passage or Privacy function in 2-3/8  or 2-3/4  backset.",
+                "keywords": ""
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Discontinued",
+                    "sort": "149"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: 030 - Polished Brass",
+                "Select Finish: 050 - Satin Brass and Black",
+                "Select Finish: 102 - Oil Rubbed Bronze",
+                "Select Finish: 112 - Venetian Bronze",
+                "Select Finish: 150 - Satin Nickel",
+                "Select Finish: 151 - Antique Nickel",
+                "Select Finish: 190 - Satin Black",
+                "Select Finish: 260 - Polished Chrome",
+                "Select Finish: 264 - Satin Chrome",
+                "Select Finish: 003 - Lifetime (PVD) Polished Brass",
+                "Select Finish: 055 - Lifetime (PVD) Polished Nickel",
+                "Select Finish: 056 - Lifetime (PVD) Satin Nickel",
+                "Select Function and Backset: 5497:  Passage Function, 2-3/8in. Backset",
+                "Select Function and Backset: 5497P:  Privacy Function, 2-3/8in. Backset",
+                "Select Function and Backset: 5498:  Passage Function, 2-3/4in. Backset",
+                "Select Function and Backset: 5498P:  Privacy Function, 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "030 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "050 - Satin Brass and Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "102 - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "112 - Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "150 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "151 - Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "190 - Satin Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "260 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "264 - Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "003 - Lifetime (PVD) Polished Brass",
+                    "price_impact": 9.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "055 - Lifetime (PVD) Polished Nickel",
+                    "price_impact": 9.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "056 - Lifetime (PVD) Satin Nickel",
+                    "price_impact": 9.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Function and Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "5497:  Passage Function, 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5497P:  Privacy Function, 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5498:  Passage Function, 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5498P:  Privacy Function, 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

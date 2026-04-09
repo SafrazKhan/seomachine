@@ -1,0 +1,124 @@
+{
+    "legacy_product_id": "875999",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1-1/4 Inch Mortise Cylinder with Yale Cam, Schlage Keyway",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-DL-CYLTA580CSDCAM-US26D",
+            "mpn": "GLO-DL-CYLTA580CSDCAM-US26D",
+            "price": "62.56",
+            "compare_at_price": "78.2",
+            "contractor_price": "34.78",
+            "shipping_weight": "0.5",
+            "tags": [
+                "GLO-DL-CYLTA580CSDCAM-US26D 1-1/4 Inch Mortise Cylinder Locks",
+                "1-1/4 Inch Mortise Lock Cylinder",
+                "Satin Chrome Mortise Cylinders",
+                "Lock commercial storefront doors",
+                "mortise lock storefront doors locks",
+                "Aluminum Door locks",
+                "aluminum glass Door locks",
+                "global mortise locks",
+                "global door controls locks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DL-CYLTA580CSDCAM-US26D_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DL-CYLTA580CSDCAM-US26D_525.jpg?v=1717106298"
+        },
+        "text": {
+            "description_html": "<b>1-1/4 Inch Mortise Lock Cylinder with Yale, Satin Chrome</b>\r\n<p>\r\n1-1/4\" length mortise cylinder with \"Standard Yale\" style cam.  Used on panic device for dogging and alarm control. For use with  <a href=\"/products/surface-mount-door-alarm-set-detex-eax-500mc65\"><b>DETEX EAX-500 Door Alarm</b></a>, <a href=\"/products/alarm-rim-device-detex-v40eb62836\"><b>DETEX V40EB62836 Alarm Exit Device</b></a>, <a href=\"/products/surface-mount-door-alarm-alarm-lock-pg21\"><b>Alarm Lock PG21 Door Alarm</b></a>, Monarch and Von Duprin panic devices. \r\n</p>\r\n\r\n<p>\r\nAlso available with Adams Rite A/R Cam  <a href=\"/products/1-1-4-inch-mortise-cylinder-lock\"><b>DL-CYLTA580CSKD-US26D</b></a>.\r\n</p>\r\n<p>\r\n<b>Specifications:</b> for DL-CYLTA580CSDCAM-US26D 1-1/4\" Mortise Lock Cylinder\r\n<ul>\r\n<li>Keyed Mortise Cylinder (threaded to screw into mortise lock body)</li>\r\n<li>Key Cylinder 6-pin Schlage \"C\" Keyway</li>\r\n<li>Cylinder Length: 1-1/4\"</li>\r\n<li>Cylinder Diameter: Standard 1-5/32\"</li>\r\n<li>Cam: Standard Yale Style</li>\r\n<li>Includes 3/16\" Stamped Trim Ring</a></li>\r\n<li>Includes 2 Keys</li>\r\n<li> Solid Brass Cylinder</li>\r\n<li>Finish: Satin Chrome</li>\r\n</ul>\r\n</p>\r\n\r\n<p><b>Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "1-1/4 Inch Mortise Cylinder with Yale Cam",
+                "description": "Global Door Controls DL-CYLTA580CSDCAM-US26D, 1-1/4 length mortise cylinder with Standard Yale style cam.  Used on panic device for dogging and alarm control. ",
+                "keywords": "GLO-DL-CYLTA580CSDCAM-US26D 1-1/4 Inch Mortise Cylinder Locks, 1-1/4 Inch Mortise Lock Cylinder, Satin Chrome Mortise Cylinders, Lock commercial storefront doors,  mortise lock storefront doors locks, Aluminum Door locks, aluminum glass Door locks, global mortise locks, global door controls locks,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Global Lock Sets",
+                    "sort": "17"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "829418",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "454732",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "875977",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "184782",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "874495",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "248979",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "832090",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "755745",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Keying: I only ordered one",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I only ordered one",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

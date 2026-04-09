@@ -1,0 +1,116 @@
+{
+    "legacy_product_id": "396555",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Round Beaded Doorbell Button, Fusion B-EL-B6",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-B-EL-B6",
+            "mpn": "FUS-B-EL-B6",
+            "price": "28.0",
+            "compare_at_price": "28.0",
+            "contractor_price": "21.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "FUS-B-EL-B6",
+                "fusion Beaded doorbells",
+                "fusion hardware B-EL-B6 Beaded doorbells",
+                "traditional doorbells",
+                "ornate doorbells",
+                "fusion B6 rose doorbells",
+                "Beaded Round Rose Doorbells",
+                "Round Beaded Doorbells",
+                "Beaded Round Rose Doorbell Buttons",
+                "Round Beaded Doorbell Buttons"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-B-EL-B6-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-B-EL-B6-525.jpg?v=1711365455"
+        },
+        "text": {
+            "description_html": "<b>Fusion B-EL-B6, Beaded Round Rose Doorbell Button</b>\r\n\r\n<p>\r\nThere are few doorbells that look as alluring and elegant as the Beaded Round Rose does; and the regal appearance. The Beaded Doorbell Button features a lighted doorbell actuator.\r\n</p>\r\n\r\n<p>\r\n<b>Please Note</b> This is a replacement trim only. It comes packaged with lighted button, rosette, and installation screws. It DOES NOT include the chime.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Classic Beaded Doorbell Fusion B6:\r\n<ul>\r\n<li>Rose Diameter: 2-5/8\"</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Includes lighted button.</li>\r\n<li>Packaged as a kit with matching finish installation screws and a lighted button.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<br><br>\r\n<b>** This item is Discontinued. See available <a href=\"/collections/door-bell-buttons\">Door Bells</a>.\r\n</b>\r\n<br><br>\r\n</p>",
+            "seo": {
+                "title": "Round Beaded Doorbell Button, Fusion B-EL-B6",
+                "description": "There are few doorbells that look as alluring and elegant as the Beaded Round Rose does; and the regal appearance. The Beaded Doorbell Button features a lighted doorbell actuator.\r\n",
+                "keywords": "FUS-B-EL-B6, fusion Beaded doorbells, fusion hardware B-EL-B6 Beaded doorbells, traditional doorbells, ornate doorbells, fusion B6 rose doorbells, Beaded Round Rose Doorbells, Round Beaded Doorbells,Beaded Round Rose Doorbell Buttons, Round Beaded Doorbell Buttons,"
+            },
+            "specifications": [
+                {
+                    "key": "Rose Diameter",
+                    "value": "2-5/8\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Doorbells",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "237960",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "46376",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "41729",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "355537",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "41068",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "66350",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "148936",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Rose Diameter: 2-5/8\"",
+                "Material: Solid Brass",
+                "Select Finish: ORB - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

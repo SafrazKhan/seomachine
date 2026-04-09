@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "630554",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Blue Ridge Hand Towel Ring, Fusion TR-T7",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-TR-T7",
+            "mpn": "FUS-TR-T7",
+            "price": "109.0",
+            "compare_at_price": "109.0",
+            "contractor_price": "81.75",
+            "shipping_weight": "4.0",
+            "tags": [
+                "Fusion Blue Ridge Trim Towel Rings",
+                "American Relic Series Blue Ridge Towel Rings",
+                "Wall Mounted Blue Ridge Hand Towel Rings",
+                "Fusion TR-T7",
+                "Blue Ridge Hand Towel Rings",
+                "FUS-TR-T7",
+                "traditional bathroom hardware",
+                "traditional bath towel rings"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-TR-T7-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-TR-T7-525.jpg?v=1711365515"
+        },
+        "text": {
+            "description_html": "<b>Fusion TR-T7, American Relic Series Blue Ridge Towel Ring</b>\r\n\r\n<p>\r\nThe Blue Ridge Hand Towel Ring is easy to install and comes packaged with all the necessary installation hardware. The wall mount is 2-2/4 inches wide and 4-1/4 inches tall. As part of Fusion's American Relic Collection, this towel ring exudes a traditional style perfect for restoration projects on historic homes. \r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/blue-ridge-towel-bar-fusion-tb-t7\"><b>Fusion TB-T7 Blue Ridge Towel Bar</b></a>, \r\n<a href=\"/products/blue-ridge-toilet-paper-holder-fusion-ph-t7\"><b>Fusion PH-T7  Blue Ridge Toilet Paper Holder</b></a>, \r\nand <a href=\"/products/blue-ridge-robe-hook-fusion-rh-t7\"><b>Fusion RH-T7 Blue Ridge Robe Hook</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Fusion Blue Ridge Trim Towel Ring:\r\n<ul>\r\n<li>Mount Width: 2-3/4\"</li>\r\n<li>Mount Length: 4-1/4\"</li>\r\n<li>Reversible to hang in either direction.</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Blue Ridge Hand Towel Ring, Fusion TR-T7",
+                "description": "Fusion TR-T7, Blue Ridge Hand Towel Ring - The Blue Ridge Hand Towel Ring is easy to install and comes packaged with all the necessary installation hardware. The wall mount is 2-2/4 inches wide and 4-1/4 inches tall. As part of Fusion's American Relic Collection, this towel ring exudes a traditional style perfect for restoration projects on historic homes.",
+                "keywords": "Fusion Blue Ridge Trim Towel Rings, American Relic Series Blue Ridge Towel Rings, Wall Mounted Blue Ridge Hand Towel Rings, Fusion TR-T7, Blue Ridge Hand Towel Rings, FUS-TR-T7, traditional bathroom hardware, traditional bath towel rings,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "385018",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "405051",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "12644",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "187070",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: ARP - Antique Relic Pewter",
+                "Select Finish: MRB - Medium Relic Bronze",
+                "Select Finish: DRB - Dark Relic Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ARP - Antique Relic Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MRB - Medium Relic Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DRB - Dark Relic Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

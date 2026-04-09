@@ -1,0 +1,161 @@
+{
+    "legacy_product_id": "670308",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Replacement Privacy Pin for Baldwin Estate Collection Knobs and Levers, Baldwin 5510.xxx.0030",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-5510xxx.0030",
+            "mpn": "BAL-5510xxx.0030",
+            "price": "20.0",
+            "compare_at_price": "20.0",
+            "contractor_price": "20.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "BAL-5510.xxx.0030 Baldwin Privacy Pin for Estate Collections",
+                "Replacement Privacy Pin for Baldwin Estate Collection Knobs and Levers",
+                "Baldwin 5510.xxx.0030",
+                "Baldwin privacy pin for knobs",
+                "baldwin privacy pin for levers",
+                "baldwin estates parts",
+                "Privacy Locking Pin",
+                "push pins",
+                "push locking pins",
+                "privacy pins"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-5510-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-5510-525.jpg?v=1716425217"
+        },
+        "text": {
+            "description_html": "<b>Baldwin Privacy Push Pin</b>\r\n\r\n<p>\r\nReplacement privacy locking pin for use with <a href=\"/collections/baldwin-estates-door-lever-sets\"></b>Baldwin Estate Collection Door Leversets</b></a>.  \r\n</p>\r\n\r\n<p>\r\n1.34\" long threaded push pin screws into a Privacy function (Bed or Bathroom) door latch.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Replacement Privacy Pin for Baldwin Estate Collection Knobs and Levers, Baldwin 5510.xxx.0030",
+                "description": "Baldwin 5510.xxx.0030, Replacement privacy locking pin for use with Baldwin Estate Collection Door Leversets. Threaded push pin screws into a Privacy function (Bed or Bathroom) door latch.",
+                "keywords": "BAL-5510.xxx.0030 Baldwin Privacy Pin for Estate Collections, Replacement Privacy Pin for Baldwin Estate Collection Knobs and Levers, Baldwin 5510.xxx.0030, Baldwin privacy pin for knobs, baldwin privacy pin for levers, baldwin estates parts, Privacy Locking Pin, push pins, push locking pins, privacy pins,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "27"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "342457",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "401280",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "328202",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "401346",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "327786",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 003 - Polished Brass",
+                "Select Finish: 050 - Satin Brass and Black",
+                "Select Finish: 060 - Satin Brass and Brown",
+                "Select Finish: 102 - Oil Rubbed Bronze",
+                "Select Finish: 112 - Venetian Bronze",
+                "Select Finish: 150 - Satin Nickel",
+                "Select Finish: 151 - Antique Nickel",
+                "Select Finish: 260 - Polished Chrome",
+                "Select Finish: 264 - Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "003 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "050 - Satin Brass and Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "060 - Satin Brass and Brown",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "102 - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "112 - Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "150 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "151 - Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "260 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "264 - Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

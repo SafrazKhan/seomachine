@@ -1,0 +1,118 @@
+{
+    "legacy_product_id": "901806",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Invisible Cabinet Door Hinge for 1/2 Inch Thick Doors, SOSS 101CUS",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "SOSS-101CUS",
+            "mpn": "SOSS-101CUS",
+            "price": "35.25",
+            "compare_at_price": "35.25",
+            "contractor_price": "35.25",
+            "shipping_weight": "2.0",
+            "tags": [
+                "SOSS 101CUS Invisible Hinges",
+                "Invisible Cabinet Door Hinge for 1/2 Inch Thick Doors",
+                "SOSS 101CUS",
+                "SOSS-101CUS",
+                "concealed door hinges",
+                "sash hinge",
+                "sosh hinge",
+                "sauce hinges",
+                "hidden door hinges",
+                "soss hidden hinges",
+                "SOSS 101 Invisible Hinges",
+                "Concealed Cabinet Door Hinges",
+                "Invisible Cabinet Door Hinge Pair"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SOSS-101CUS-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SOSS-101CUS-525.jpg?v=1716426687"
+        },
+        "text": {
+            "description_html": "<b>SOSS 101CUS, Invisible Cabinet Door Hinge Pair</b>\r\n\r\n<p>\r\nSOSS 101CUS hinges are for use on 1/2 inch thick wood doors or metal doors. Package includes one pair of hinges with matching finish #5x3/4 inch wood screws. When the door is closed, SOSS Invisible Hinges cannot be seen or tampered with. When opened, the riveted hinge pin is non-removable. The installed hinge is firmly anchored in a deep, full mortise, which assists the screws in supporting the door, assuring a stronger door hinge installation.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Concealed Cabinet Door Hinges:\r\n<ul>\r\n<li>For use on wood or metal doors.</li>\r\n<li>Hinges open a full 180°</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the SOSS 101 Invisible Hinges:\r\n<ul>\r\n<li>Hinge Material: High Strength Steel</li>\r\n<li>Total Height: 1-11/16\"</li>\r\n<li>Leaf Plate Width: 3/8\"</li>\r\n<li>Minimum Door Thickness: <b>1/2\" Thick Door</b></li>\r\n<li>Wood Screws: #5x3/4\" (3.5x19mm)</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SOSS-101CUS-specifcations.pdf?v=1704262359\" target=\"new\"><b>SOSS 101CUS Hinge Dimensions (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold In Pairs (2 Door Hinges)</b>\r\n</p>",
+            "seo": {
+                "title": "Invisible Cabinet Door Hinge for 1/2 Inch Thick Doors",
+                "description": "SOSS 101CUS hinges are for use on 1/2 inch thick wood doors or metal doors. Package includes one pair of hinges with matching finish #5x3/4 inch wood screws. When the door is closed, SOSS Invisible Hinges cannot be seen or tampered with. When opened, the riveted hinge pin is non-removable. The installed hinge is firmly anchored in a deep, full mortise, which assists the screws in supporting the door, assuring a stronger door hinge installation.",
+                "keywords": "SOSS 101CUS Invisible Hinges, Invisible Cabinet Door Hinge for 1/2 Inch Thick Doors, SOSS 101CUS, SOSS-101CUS, concealed door hinges, sash hinge, sosh hinge, sauce hinges, hidden door hinges, soss hidden hinges, SOSS 101 Invisible Hinges, Concealed Cabinet Door Hinges, Invisible Cabinet Door Hinge Pair,"
+            },
+            "specifications": [
+                {
+                    "key": "Hinge Material",
+                    "value": "High Strength Steel"
+                },
+                {
+                    "key": "Total Height",
+                    "value": "1-11/16\""
+                },
+                {
+                    "key": "Leaf Plate Width",
+                    "value": "3/8\""
+                },
+                {
+                    "key": "Minimum Door Thickness",
+                    "value": "1/2\" Thick Door"
+                },
+                {
+                    "key": "Wood Screws",
+                    "value": "#5x3/4\" (3.5x19mm)"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "SOSS",
+                    "sort": "40"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "777051",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "308181",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "485838",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Hinge Material: High Strength Steel",
+                "Total Height: 1-11/16\"",
+                "Leaf Plate Width: 3/8\"",
+                "Minimum Door Thickness: 1/2\" Thick Door",
+                "Wood Screws: #5x3/4\" (3.5x19mm)",
+                "Select Finish: US26D: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

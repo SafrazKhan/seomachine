@@ -1,0 +1,102 @@
+{
+    "legacy_product_id": "560550",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "36 Inch Residential Bumper Threshold, PEM-205Ax",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "PEM-205Ax",
+            "mpn": "PEM-205Ax",
+            "price": "19.35",
+            "compare_at_price": "21.5",
+            "contractor_price": "18.38",
+            "shipping_weight": "5.0",
+            "tags": [
+                "36 Inch Residential Bumper Threshold",
+                "PEM-205Ax"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/205Ax-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/205Ax-525.jpg?v=1717106147"
+        },
+        "text": {
+            "description_html": "<b>36 Inch Residential Bumper Threshold, PEM-205Ax</b><p>\r\nPemko's 36\" threshold is for outswinging residential doors.  It is ramped on interior and when closed, the door butts up to the vinyl bumper or pile insert on the exterior creating a high-dam barrier seal from the elements.\r\n</p><p>\r\nField sizable, non-handed. Powder coated finish.  Packaged with installation screws.\r\n</p>\r\n<p>\r\n<b>Specifications</b> for Pemko 205Ax Door Threshold\r\n<ul>\r\n<li>Length:  36\"</li>\r\n<li>Height: 3/4\"</li>\r\n<li>Width:  3-5/16\"</li>\r\n<li>Material: Aluminum</li>\r\n<li>Finish: Clear Powder Coated</li>\r\n<li>Available with pile or Thermo Seal insert</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "36 Inch Residential Bumper Threshold, PEM-205Ax",
+                "description": "36 Inch Residential Bumper Threshold, PEM-205Ax",
+                "keywords": "36 Inch Residential Bumper Threshold, PEM-205Ax"
+            },
+            "specifications": [
+                {
+                    "key": "Length",
+                    "value": "36\""
+                },
+                {
+                    "key": "Height",
+                    "value": "3/4\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3-5/16\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Aluminum"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Clear Powder Coated"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Pemko",
+                    "sort": "14"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Length: 36\"",
+                "Height: 3/4\"",
+                "Width: 3-5/16\"",
+                "Material: Aluminum",
+                "Finish: Clear Powder Coated",
+                "Select Insert: PEM-205AP - Aluminum with Gray Pile Insert",
+                "Select Insert: PEM-205AT - Aluminum with Black Thermo Seal Insert"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Insert",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PEM-205AP - Aluminum with Gray Pile Insert",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PEM-205AT - Aluminum with Black Thermo Seal Insert",
+                    "price_impact": 2.54,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

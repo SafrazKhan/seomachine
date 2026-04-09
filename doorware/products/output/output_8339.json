@@ -1,0 +1,76 @@
+{
+    "legacy_product_id": "8339",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "DSB4540B4 4 1/2 x 4 Solid Brass Hinge, Square Corners, 4 Ball Bearings",
+            "vendor": "Deltana",
+            "status": "ARCHIVED",
+            "sku": "DSB4540B4",
+            "mpn": "DSB4540B4",
+            "price": "63.8",
+            "compare_at_price": "85.07",
+            "contractor_price": "60.62",
+            "shipping_weight": "1.0",
+            "tags": [
+                "4 1/2 x 4",
+                "Solid Brass Hinge",
+                "Square Corners",
+                "Brass Hinge Ball  Bearings",
+                "DSB4540B4",
+                "4 1/2 x 4 Solid Brass Hinge",
+                "4 1/2 x 4  Brass Hinge 4 1/2\" x 4\" solid brass hinge",
+                "square corners",
+                "4 ball bearings dsb4540b4"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>DSB4540B4 Deltana 4 1/2\" x 4\" Solid Brass Hinge.</b>\r\n<p>\r\nSquare Corners, 4 Ball Bearings. 0.134\" thick (gauge). \r\n</p>\r\n<p>\r\nPackage includes a pair of hinges, matching solid brass flathead, Phillips screws and standard removable button tip finials. \r\n</p>\r\n<p>\r\nFitted with a high grade, removable, rust resistant, stainless steel pin.\r\n</p>\r\n<p>\r\nUtilizes template screw hole pattern for use with wood or metal doors.\r\n</p>\r\n<p>\r\nNo matter which finish you choose, the Hinge will still be <b>high quality solid brass</b>.\r\n</p>\r\n<p>\r\n<b>This item is discontinued. </b> Please use <a href=\"/products/4-1-2-x-4-solid-brass-hinge-with-2-ball-bearings-bommer-bb5001-454\"><b>Bommer  4-1/2 x 4  Brass Hinge</b></a>.\r\n<p>",
+            "seo": {
+                "title": "DSB4540B4 4 1/2 x 4 Solid Brass Hinge, Square Corners, 4 Ball Bearings",
+                "description": "4 1/2 x 4 Solid Brass Hinge, Square Corners, 4 Ball Bearings. 0.134 thick (gauge). Package includes a pair of hinges, matching solid brass flathead, Phillips screws and standard removable button tip finials. ",
+                "keywords": "4 1/2 x 4, Solid Brass Hinge,  Square Corners, Brass Hinge Ball  Bearings,  DSB4540B4,  4 1/2 x 4 Solid Brass Hinge, 4 1/2 x 4  Brass Hinge 4 1/2\" x 4\" solid brass hinge, square corners, 4 ball bearings dsb4540b4"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Discontinued and Special Items",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: DEL-DSB4540B4 - Brushed Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DEL-DSB4540B4 - Brushed Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DEL-DSB4540B4"
+                }
+            ]
+        }
+    ]
+}

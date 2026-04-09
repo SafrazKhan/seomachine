@@ -1,0 +1,108 @@
+{
+    "legacy_product_id": "1052358",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Crystal Parlour Crystal Lever with Classic Rosette, Nostalgic Warehouse 714166",
+            "vendor": "Grandeur",
+            "status": "ARCHIVED",
+            "sku": "GRA-714166",
+            "mpn": "GRA-714166",
+            "price": "71.25",
+            "compare_at_price": "95.0",
+            "contractor_price": "71.25",
+            "shipping_weight": "2.0",
+            "tags": [
+                "GRA-714166",
+                "Crystal Parlour Crystal Lever with Classic Rosettes",
+                "Parlour Lever with Classic Rose",
+                "Nostalgic Warehouse 714166",
+                "Grandeur/Nostalgic Warehouse Parlour Crystal Levers with Class Rosettes",
+                "Nostalgic Warehouse Parlour Crystal Lever with Rouse Roses"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-714166-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-714166-525.jpg?v=1716427906"
+        },
+        "text": {
+            "description_html": "<b>Grandeur/Nostalgic Warehouse Parlour Crystal Levers with Class Rosette</b>\r\n\r\n<p>\r\nFor new installations or restoration replacement Parlour crystal levers comes with the Classic Rosette.\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of Nostalgic Warehouse Parlour Crystal Lever with Rouse Rose:\r\n<ul>\r\n<li>Mounting Base Material: Solid Brass</li>\r\n<li>Lever Material: Crystal</li>\r\n<li>Lever Length: 4-3/8\"</li>\r\n<li>Lever Height: 1-1/4\"</li>\r\n<li>Concealed Screws</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Order Item, <b>NO Returns.</b>\r\n</p>",
+            "seo": {
+                "title": "Crystal Parlour Crystal Lever with Classic Rosette",
+                "description": "For new installations or restoration replacement Parlour crystal levers comes with the Classic Rosette.",
+                "keywords": "GRA-714166, Crystal Parlour Crystal Lever with Classic Rosettes, Parlour Lever with Classic Rose, Nostalgic Warehouse 714166, Grandeur/Nostalgic Warehouse Parlour Crystal Levers with Class Rosettes, Nostalgic Warehouse Parlour Crystal Lever with Rouse Roses,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Restoration Door Hardware",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "27529",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "729205",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "27330",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "729019",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "27655",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Function: Single Dummy",
+                "Select Finish: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Single Dummy",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

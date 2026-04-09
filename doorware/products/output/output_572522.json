@@ -1,0 +1,175 @@
+{
+    "legacy_product_id": "572522",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Oval Base Two-Prong Hook, RK International HK-5812",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-HK-5812",
+            "mpn": "RKI-HK-5812",
+            "price": "20.99",
+            "compare_at_price": "26.4",
+            "contractor_price": "20.99",
+            "shipping_weight": "0.25",
+            "tags": [
+                "4-3/8 Inch Oval Base Coat and Hat Hooks",
+                "Oval Base Two-Prong Hooks",
+                "RK International HK-5812",
+                "RKI-HK-5812",
+                "bathroom towel hooks",
+                "kitchen utensils hooks",
+                "cooking utensils hooks",
+                "purse hooks",
+                "coat and hat hooks",
+                "bathroom stall hooks",
+                "Oval Base Coat and Hat hooks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-HK-5812-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-HK-5812-525.jpg?v=1716424723"
+        },
+        "text": {
+            "description_html": "<b>RK International HK-5812, Oval Base Coat and Hat Hook</b>\r\n\r\n<p>\r\nLooking for a place to hang your hat? The Oval Base Two-Prong Hook can do that. It is easy to install and looks great even when its not holding your favorite hat, coat, or purse. Put a few in the bathroom for towels or screw in some by the stove for easy access to pot holders. Available in 7 finishes. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the 4-3/8 Inch Oval Base Coat and Hat Hook:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 4-3/4\"</li>\r\n<li>Mount Width: 1-1/4\"</li>\r\n<li>Projection: 3-3/4\"</li>\r\n<li>Packaged with matching finish screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/oil-bronze-crab.jpg?v=1704354545\" width=\"586\" height=\"116\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Oval Base Two-Prong Hook",
+                "description": "RK International HK-5812, Oval Base Two-Prong Hook - Looking for a place to hang your hat? The Oval Base Two-Prong Hook can do that. It is easy to install and looks great even when its not holding your favorite hat, coat, or purse. Put a few in the bathroom for towels or screw in some by the stove for easy access to pot holders. Available in 7 finishes.",
+                "keywords": "4-3/8 Inch Oval Base Coat and Hat Hooks, Oval Base Two-Prong Hooks, RK International HK-5812, RKI-HK-5812, bathroom towel hooks, kitchen utensils hooks, cooking utensils hooks, purse hooks, coat and hat hooks, bathroom stall hooks, Oval Base Coat and Hat hooks,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "4-3/4\""
+                },
+                {
+                    "key": "Mount Width",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "3-3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "RK International Home Accessories",
+                    "sort": "3"
+                },
+                {
+                    "name": "Coat and Hat Hooks",
+                    "sort": "53"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "13351",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "447055",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "7813",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "13357",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "383169",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "295573",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 4-3/4\"",
+                "Mount Width: 1-1/4\"",
+                "Projection: 3-3/4\"",
+                "Select Finish: RB: Oil Rubbed Bronze",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: B: Polished Brass",
+                "Select Finish: DN: Distressed Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

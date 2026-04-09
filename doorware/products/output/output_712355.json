@@ -1,0 +1,168 @@
+{
+    "legacy_product_id": "712355",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Victorian 10 Inch Flush Pull, Deltana FPV10225",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-FPV10225",
+            "mpn": "DEL-FPV10225",
+            "price": "84.35",
+            "compare_at_price": "112.47",
+            "contractor_price": "80.13",
+            "shipping_weight": "1.5",
+            "tags": [
+                "Victorian 10 Inch Flush Pulls",
+                "Deltana FPV10225",
+                "10 Victorian Flush Pulls",
+                "DEL-FPV10225",
+                "cup flush pulls",
+                "door flush door pulls",
+                "door flush pulls",
+                "pocket doors",
+                "handle for sliding door",
+                "sliding door handles",
+                "pocket door handle",
+                "pocket door pulls",
+                "Pocket Door Hardware",
+                "pocket door pulls",
+                "Large 7 Inch Pocket Door Flush Pulls",
+                "10 Ornate Victorian Sliding Door Flush Pulls",
+                "Victorian Barn Door Flush Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-FPV10225-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-FPV10225-525.jpg?v=1716425354"
+        },
+        "text": {
+            "description_html": "<b>Deltana FPV10225, 10\" Victorian Barn Door Flush Pull</b>\r\n\r\n<p>\r\nThis victorian style 10 inch flush pull is perfect for barn doors. It is easy to install and is a great way to add an ornate touch to any sliding door. Flush Pulls like this one can also be used on sliding barn doors, cabinet doors, closets, and pocket doors. It is available in 4 finishes including antique brass and oil-rubbed bronze.\r\n</p>\r\n\r\n<p>\r\nAlso Available in a <a href=\"/products/7-inch-victorian-flush-pull-deltana-fpv7178\">7\" Victorian Flush Pull</a>\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> for the 10\" Victorian Barn Door Hardware:\r\n<ul>\r\n<li>Length: 10\"</li>\r\n<li>Width: 2-1/4\"</li>\r\n<li>Cut-Out Width: 1-1/16\"</li>\r\n<li>Cut-Out Length: 6-3/8\"</li>\r\n<li>Projection: 5/16\"</li>\r\n<li>Mounts using 4 screws--2 on the top and 2 on the bottom.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-FPV10225-specifications.pdf?v=1704262323\" target=\"new\"><b>Deltana FPV10225 Dimensions Diagram (PDF)</a></b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually<i>\r\n</p>",
+            "seo": {
+                "title": "Victorian 10 Inch Flush Pull | Deltana FPV10225",
+                "description": "Deltana FPV10225, This victorian style 10 inch flush pull is perfect for barn doors. It is easy to install and is a great way to add an ornate touch to any sliding door. Flush Pulls like this one can also be used on sliding barn doors, cabinet doors, closets, and pocket doors. It is available in 4 finishes including antique brass and oil-rubbed bronze.",
+                "keywords": "Victorian 10 Inch Flush Pulls, Deltana FPV10225, 10 Victorian Flush Pulls, DEL-FPV10225, cup flush pulls, door flush door pulls,  door flush pulls, pocket doors, handle for sliding door, sliding door handles, pocket door handle, pocket door pulls, Pocket Door Hardware, pocket door pulls, Large 7 Inch Pocket Door Flush Pulls, 10 Ornate Victorian Sliding Door Flush Pulls, Victorian Barn Door Flush Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "Deltana Pocket Door Hardware",
+                    "sort": "20"
+                },
+                {
+                    "name": "Flush Pulls",
+                    "sort": "7"
+                },
+                {
+                    "name": "Pocket Door Hardware",
+                    "sort": "98"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "712336",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "37164",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "332170",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "545011",
+                    "sort": "12"
+                },
+                {
+                    "legacy_product_id": "172863",
+                    "sort": "13"
+                },
+                {
+                    "legacy_product_id": "591297",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "187049",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "76682",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "237708",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "542823",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "567542",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "37548",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "216123",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US15: Brushed Nickel",
+                "Select Finish: US15A: Antique Nickel",
+                "Select Finish: US5: Antique Brass",
+                "Select Finish: US10B: Oil-Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil-Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "legacy_product_id": "1148371",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin Reserve UL Listed Deadlatch for Keyed Entry Functions, Baldwin 8BR0308",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-8BR0308",
+            "mpn": "BAL-8BR0308",
+            "price": "30.0",
+            "compare_at_price": "30.0",
+            "contractor_price": "30.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Keyed Entry Baldwin Reserve Deadlatches",
+                "Baldwin Reserve Deadlatch for Keyed Entry Functions",
+                "Baldwin 8BR0304",
+                "BAL-8BR0304"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-8BR0308-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-8BR0308-525.jpg?v=1716428460"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 8BR0308 Reserve Keyed Entry UL Round Corner Adjustable Deadlatch</b>\r\n\r\n<p>\r\nDeadlatch for use with <a href=\"/collections/baldwin-reserve-knobs-and-levers\"><b>Baldwin Reserve keyed entry levers or door knobs</b></a>.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Baldwin Reserve UL Round Corner Adjustable Deadlatch Entry Sets:\r\n<ul>\r\n<li>Backset: Adjustable for 2-3/8 or 2-3/4</li>\r\n<li>Corners: Round</li>\r\n<li>UL Certified 20-minute rating</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Baldwin Reserve UL Deadlatch for Keyed Entry Functions,",
+                "description": "Deadlatch for use with Baldwin Reserve keyed entry levers or door knobs.",
+                "keywords": "Keyed Entry Baldwin Reserve Deadlatches, Baldwin Reserve Deadlatch for Keyed Entry Functions, Baldwin 8BR0304, BAL-8BR0304"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "49"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: 001: Lifetime Polished Brass",
+                "Select Finish: 003: Venetian Bronze",
+                "Select Finish: 004: Satin Nickel",
+                "Select Finish: 006: Polished Chrome",
+                "Select Finish: 007: Dark Bronze",
+                "Select Finish: 008: White Bronze",
+                "Select Finish: 009: Lifetime Polished Nickel",
+                "Select Finish: 010: Satin Black",
+                "Select Finish: 011: Lifetime Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "001: Lifetime Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "003: Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "004: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "006: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "007: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "008: White Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "009: Lifetime Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "010: Satin Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "011: Lifetime Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

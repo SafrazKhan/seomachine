@@ -1,0 +1,120 @@
+{
+    "legacy_product_id": "396644",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Shaker Rose Doorbell Button, Fusion B-EL-S8",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-B-EL-S8",
+            "mpn": "FUS-B-EL-S8",
+            "price": "38.0",
+            "compare_at_price": "38.0",
+            "contractor_price": "28.5",
+            "shipping_weight": "2.0",
+            "tags": [
+                "FUS-B-EL-S8",
+                "fusion B-EL-S8",
+                "Shaker Rose Doorbells",
+                "Shaker Doorbells",
+                "Old World Shaker Doorbells",
+                "traditional doorbell",
+                "Old World Shaker Doorbell Buttons",
+                "Shaker Rose Doorbell Buttons"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-B-EL-S8-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-B-EL-S8-525.jpg?v=1711365456"
+        },
+        "text": {
+            "description_html": "<b>Fusion B-EL-S8, Old World Shaker Doorbell Button</b>\r\n\r\n<p>\r\nThere is something unmistakably old world to the Shaker Rose Doorbell Button. Maybe its the timeless design, a rectangular with a inset groove along the edge. The Fusion made doorbell comes packaged with decorative trim plate, illuminated doorbell actuator, all all the necessary mounting screws. \r\n</p>\r\n\r\n<p>\r\n<b>Please Note</b> This is a replacement trim only. It comes packaged with lighted button, rosette, and installation screws. It DOES NOT include the chime.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Shaker Doorbell Fusion S8:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Length: 4-1/4\"</li>\r\n<li>Width: 2-1/2\"</li>\r\n<li>Projection:  3/8\"</li>\r\n<li>Includes lighted button.</li>\r\n<li>Packaged as a kit with matching finish installation screws and a lighted button.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<br><br>\r\n<b>** This item is discontinued. See available <a href=\"/collections/door-bell-buttons\">Door Bell Buttons</a></b>\r\n<br><br>\r\n</p>",
+            "seo": {
+                "title": "Shaker Rose Doorbell Button, Fusion B-EL-S8",
+                "description": "Fusion B-EL-S8, Old World Shaker Doorbell - There is something unmistakably old world to the Shaker Rose Doorbell. Maybe its the timeless design, a rectangular with a inset groove along the edge, or maybe it is the 5 traditional-looking finishes in which it is available. The Fusion made doorbell comes packaged with decorative trim plate, illuminated doorbell actuator, all all the necessary mounting screws.",
+                "keywords": "FUS-B-EL-S8, fusion B-EL-S8, Shaker Rose Doorbells, Shaker Doorbells, Old World Shaker Doorbells, traditional doorbell, Old World Shaker Doorbell Buttons, Shaker Rose Doorbell Buttons,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "4-1/4\""
+                },
+                {
+                    "key": "Width",
+                    "value": "2-1/2\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "3/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Doorbells",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "58611",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "327298",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "30222",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "303323",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "59391",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "396605",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Length: 4-1/4\"",
+                "Width: 2-1/2\"",
+                "Projection: 3/8\"",
+                "Select Finish: ORB - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

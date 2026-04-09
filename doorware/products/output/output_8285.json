@@ -1,0 +1,76 @@
+{
+    "legacy_product_id": "8285",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4 x 4-1/2 Solid Brass Hinge, Square Corners, DEL-DSB4045U10B",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-DSB4045U10B",
+            "mpn": "DEL-DSB4045U10B",
+            "price": "85.42",
+            "compare_at_price": "109.3",
+            "contractor_price": "77.88",
+            "shipping_weight": "1.0",
+            "tags": [
+                "DEL-DSB4045U10B",
+                "DSB4045",
+                "4 x 4 1/2 Solid Brass Hinge",
+                "Square Corners. 4 x 4 1/2  Brass Hinge",
+                "4 x 4 1/2  Hinge",
+                "4 inch x 4 1/2 inch",
+                "4 in. x 4 1/2 in.",
+                "4\" x 4 1/2\" solid brass hinge",
+                "square corners dsb4045u10b"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>4\" x 4 1/2\" Solid Brass Hinge.</b>\r\n<p>\r\nSquare Corners. 0.129\" thick (gauge). \r\n<p>\r\nPackage includes a pair of hinges, matching solid brass flathead, Phillips screws and standard removable button tip finials.\r\n<p>\r\nFitted with a high grade, removable, rust resistant, stainless steel pin.\r\n<p>\r\nUtilizes template screw hole pattern for use with wood or metal doors.\r\n<p>\r\nNo matter which finish you choose, the Hinge will still be <b>high quality solid brass</b>.\r\n<p>\r\nDon't forget to look at <a href=\"/collections/deltana-brass-hinge-finials&owner=10038\">Deltana's great decorative Finial tips</a> to spice up your hinges!\r\n<p>",
+            "seo": {
+                "title": "4 x 4-1/2 Solid Brass Hinge, Square Corners, DEL-DSB4045U10B",
+                "description": "4 x 4 1/2 Solid Brass Hinge, Square Corners. 0.129 thick (gauge). Package includes a pair of hinges, matching solid brass flathead, Phillips screws and standard removable button tip finials. ",
+                "keywords": "DEL-DSB4045U10B, DSB4045, 4 x 4 1/2 Solid Brass Hinge, Square Corners. 4 x 4 1/2  Brass Hinge, 4 x 4 1/2  Hinge, 4 inch x 4 1/2 inch, 4 in. x 4 1/2 in., \r\n 4\" x 4 1/2\" solid brass hinge, square corners dsb4045u10b"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Discontinued and Special Items",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: DEL-DSB4045U10B - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DEL-DSB4045U10B - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DEL-DSB4045U10B"
+                }
+            ]
+        }
+    ]
+}

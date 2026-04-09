@@ -1,0 +1,87 @@
+{
+    "legacy_product_id": "414293",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Kwikset Single Cylinder Thick Door Extension Kit",
+            "vendor": "Kwikset",
+            "status": "ACTIVE",
+            "sku": "KWI-81248",
+            "mpn": "KWI-81248",
+            "price": "15.0",
+            "compare_at_price": "15.0",
+            "contractor_price": "15.0",
+            "shipping_weight": "0.7",
+            "tags": [
+                "KWI-81248 Kwikset Lock Thick Door Extension Kit",
+                "Kwikset 81248 Single Cylinder Thick Door Extension Kit",
+                "Kwikset 980 single cylinder deadbolts",
+                "Kwikset 909 Smart Code deadbolts"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/KWI-81248-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/KWI-81248-525.jpg?v=1769507415"
+        },
+        "text": {
+            "description_html": "<b>Kwikset 81248 Single Cylinder Thick Door Extension Kit</b>\r\n<p>\r\nThis extension kit allows <a href=\"/products/grade-1-single-cylinder-deadbolt-kwikset-980-s\">Kwikset 980 single cylinder deadbolts</a> and <a href=\"/products/smart-code-keyless-touch-pad-lock-kwikset-909\">Kwikset 909 Smart Code deadbolts</a> be used on 2-1/4\" thick doors.\r\n</p>\r\n<p>\r\nKit includes extra long tail piece and screws.\r\n</p>\r\n<p>\r\n<b>*Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "Kwikset Single Cylinder Thick Door Extension Kit",
+                "description": "This extension kit allows Kwikset 980 single cylinder deadbolts and Kwikset 909 Smart Code deadbolts be used on 2-1/4 inch thick doors.",
+                "keywords": "KWI-81248 Kwikset Lock Thick Door Extension Kit, Kwikset 81248 Single Cylinder Thick Door Extension Kit, Kwikset 980 single cylinder deadbolts, Kwikset 909 Smart Code deadbolts"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Kwikset Parts",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "337830",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "164203",
+                    "sort": "2"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 003: Polished or Satin Chrome",
+                "Select Finish: 005: Venetian Bronze or Matte Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "003: Polished or Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "005: Venetian Bronze or Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

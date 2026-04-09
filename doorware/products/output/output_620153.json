@@ -1,0 +1,101 @@
+{
+    "legacy_product_id": "620153",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Streamline Closer Cover for Global TC400 Series, GLO-COV-411",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-COV-411",
+            "mpn": "GLO-COV-411",
+            "price": "9.2",
+            "compare_at_price": "13.8",
+            "contractor_price": "9.2",
+            "shipping_weight": "1.5",
+            "tags": [
+                "GLO-COV-411 Door Closer Cover for Global TC400 Series",
+                "GLO-COV-411-AL silver Door Closer Covers",
+                "GLO-COV-411-DU Dark Bronze Door Closer Covers",
+                "global COV-411-AL",
+                "global COV-411-DU",
+                "global TC411 door closers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/global-tc411-cover_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/global-tc411-cover_525.jpg?v=1716424985"
+        },
+        "text": {
+            "description_html": "<b>Global TC400 Series Door Closer Cover</b>\r\n\r\n<p>Streamline plastic cover for <a href=\"/products/tc411-ada-compliant-grade-1-tri-packed-door-closer\"><b>Global TC411</b></a> and <a href=\"/products/tc412-grade-1-tri-packed-door-closer\"><b>Global TC412</b></a>  door closers. \r\n</p>\r\n<p>Non Handed. \r\nAvailable in Aluminum or Dark Bronze finish. \r\n</p>",
+            "seo": {
+                "title": "Streamline Closer Cover for Global TC400 Series, GLO-COV-411",
+                "description": "Streamline plastic cover for Global TC411 and Global TC412 door closers. Available in Aluminum or Dark Bronze finish.",
+                "keywords": "GLO-COV-411 Door Closer Cover for Global TC400 Series, GLO-COV-411-AL silver Door Closer Covers, GLO-COV-411-DU Dark Bronze Door Closer Covers, global COV-411-AL, global COV-411-DU, global TC411 door closers,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Global TC200, TC400, TC500, TC600 Series",
+                    "sort": "19"
+                },
+                {
+                    "name": "Door Closer Accessories",
+                    "sort": "50"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "203826",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "285720",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "184036",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "191087",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: COV-411-AL: Aluminum",
+                "Select Finish: COV-411-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "COV-411-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "COV-411-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

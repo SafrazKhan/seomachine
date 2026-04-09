@@ -1,0 +1,93 @@
+{
+    "legacy_product_id": "371300",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Spiral Forged Black Iron Offset Pull, First Impressions 616-Black",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-616-Black",
+            "mpn": "FII-616-Black",
+            "price": "258.0",
+            "compare_at_price": "321.9",
+            "contractor_price": "244.65",
+            "shipping_weight": "10.0",
+            "tags": [
+                "FII-616-Black Spiral Forged Black Iron Offset Pulls",
+                "First Impressions 616-Black iron door pulls",
+                "First Impressions FII-616-Black iron door handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/616-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/616-525.jpg?v=1717105987"
+        },
+        "text": {
+            "description_html": "<b>First Impressions FII-616-Black Spiral Forged Black Iron Offset Pull</b>\r\n<p>\r\nFrom the \"Forged Iron Collection\" by First Impressions, this spiral black iron offset pull will compliment any decor.  Made from solid heavy black iron it will last a lifetime. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for First Impressions FII-616-Black Door Pull\r\n<ul>\r\n<li>Pull Length: 14-1/2\"</li>\r\n<li>Pull Handle Diameter: 1\"</li>\r\n<li>Overall Width with bracket 3\"</li> \r\n<li>Offset Center to Center 1-7/8\"</li> \r\n<li>Pull Material: Solid Forged Iron</li>\r\n<li><b>Black Iron Finish</b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nPackaged standard with surface mounting (screws to the door face with #8 screws).\r\n</p>\r\n<p>\r\n<b>*Sold individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Spiral Forged Black Iron Offset Pull, First Impressions 616-Black",
+                "description": "First Impressions FII-616-Black - From the Forged Iron Collection by First Impressions, this spiral black iron offset pull will compliment any decor.  Made from solid, heavy black iron it will last a lifetime.",
+                "keywords": "FII-616-Black Spiral Forged Black Iron Offset Pulls, First Impressions 616-Black iron door pulls, First Impressions FII-616-Black iron door handles,"
+            },
+            "specifications": [
+                {
+                    "key": "Pull Length",
+                    "value": "14-1/2\""
+                },
+                {
+                    "key": "Pull Handle Diameter",
+                    "value": "1\""
+                },
+                {
+                    "key": "Pull Material",
+                    "value": "Solid Forged Iron"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "70"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Pull Length: 14-1/2\"",
+                "Pull Handle Diameter: 1\"",
+                "Pull Material: Solid Forged Iron",
+                "Choose Mounting Option: Surface Mounted",
+                "Choose Mounting Option: Back to Back Mounted"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Choose Mounting Option",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Surface Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Back to Back Mounted",
+                    "price_impact": 35.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "legacy_product_id": "222877",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Heavy Duty Door Closer Arm, Global RA-4300-HD",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-RA-4300-HD",
+            "mpn": "GLO-RA-4300-HD",
+            "price": "64.65",
+            "compare_at_price": "92.36",
+            "contractor_price": "58.19",
+            "shipping_weight": "3.0",
+            "tags": [
+                "GLO-RA-4300-HD Heavy Duty Closer Arms",
+                "Heavy Duty Door Closer Arms",
+                "Global RA-4300-HD Heavy Duty Arm for TC4300 door closers",
+                "GLO-TC4300 arms",
+                "global RA-4300-HD-AL",
+                "global RA-4300-HD-AL==DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RA-4300-HD_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RA-4300-HD_525.jpg?v=1716422174"
+        },
+        "text": {
+            "description_html": "<b>Heavy Duty Door Closer Arm</b>\r\n<p>\r\nHeavy Duty arm for 4040 Series Style Closers. Fits <a href=\"/products/lcn-4040-series-replacement-ada-compliant-heavy-duty-door-closer-global-tc4300\"><b>Global TC4300 Door Closers</b></a> and <a href=\"/products/extra-heavy-duty-door-closer-deltana-dc40\"><b>Deltana DC40 Door Closers</b></a>. Can be used with any closer that has a  15mm Hexagon shaft (15 mm x 6 Sided).\r\n</p>\r\n<p><b>Parallel Arm Mount Only</b>\r\n</p>\r\n\r\n<p>Heavy duty rigid arm assembly and soffit plate that is parallel arm installed. Packaged with mounting hardware.\r\n</p>\r\n<p>\r\n Available in 2 finishes of Aluminum or Dark Bronze .\r\n</p>",
+            "seo": {
+                "title": "Heavy Duty Door Closer Arm, Global RA-4300-HD",
+                "description": "Global RA-4300-HD Heavy Duty Closer Arm for Global TC4300 Door Closers.",
+                "keywords": "GLO-RA-4300-HD Heavy Duty Closer Arms, Heavy Duty Door Closer Arms, Global RA-4300-HD Heavy Duty Arm for TC4300 door closers, GLO-TC4300 arms, global RA-4300-HD-AL, global RA-4300-HD-AL==DU,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Door Closer Accessories",
+                    "sort": "10"
+                },
+                {
+                    "name": "Global TC4300 Closer Accessories",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "203817",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "221509",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "221503",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "221515",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "221494",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: RA-4300-HD-AL: Aluminum",
+                "Select Finish: RA-4300-HD-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RA-4300-HD-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RA-4300-HD-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

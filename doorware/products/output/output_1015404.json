@@ -1,0 +1,162 @@
+{
+    "legacy_product_id": "1015404",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Steel Wood Screw 12 x 1, Bag of 600 Deltana SCWS1210",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-SCWS1210",
+            "mpn": "DEL-SCWS1210",
+            "price": "6.99",
+            "compare_at_price": "8.75",
+            "contractor_price": "6.64",
+            "shipping_weight": "0.05",
+            "tags": [
+                "DEL-SCWS1210",
+                "deltana SCWS1210",
+                "sSteel Wood Screw 10210U3",
+                "DEL-SCWS1210U4",
+                "DEL-SCWS1210U5",
+                "DEL-SCWS1210U10B",
+                "DEL-SCWS1210U1B",
+                "DEL-SCWS1210U15",
+                "DEL-SCWS1210U15A",
+                "DEL-SCWS1210U26",
+                "DEL-SCWS1210U26D"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-SCWS1210-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SCWS1210-525.jpg?v=1716427686"
+        },
+        "text": {
+            "description_html": "<b>Deltana SCWS1210,  #12 x 1\" Steel Wood Screw Bag of 600</b>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SCWS1210-specifications.gif?v=1704442293\" width=\"600\" height=\"213\" border=\"0\" alt=\"Deltana SCWS1210 #12 x 1 Inch Wood Screw\">\r\n</p>\r\n\r\n<p>\r\n<ul>\r\n<li>Material: Steel</li>\r\n<li>Screw Size: #12</li>\r\n<li>Length: 1.019\"</li>\r\n<li>Type: Wood Screw</li>\r\n<li>Head: Flat, Phillips Drive</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Steel Wood Screw 12 x 1, Bag of 600",
+                "description": "Deltana Steel Wood Screw #12 x 1\" available in 7 different finishes.  Sold in bag of 600.",
+                "keywords": "DEL-SCWS1210, deltana SCWS1210, sSteel Wood Screw 10210U3, DEL-SCWS1210U4, DEL-SCWS1210U5, DEL-SCWS1210U10B, DEL-SCWS1210U1B, DEL-SCWS1210U15, DEL-SCWS1210U15A, DEL-SCWS1210U26, DEL-SCWS1210U26D"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Machine and Wood Screws",
+                    "sort": "24"
+                },
+                {
+                    "name": "Installation Hardware",
+                    "sort": "15"
+                },
+                {
+                    "name": "Tools and Fasteners",
+                    "sort": "40"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "395131",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "154907",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "499437",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "6918",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "837847",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "282414",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "334190",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: U3: Polished Brass",
+                "Select Finish: U5: Antique Brass",
+                "Select Finish: U10B: Oil Rubbed Bronze",
+                "Select Finish: U15: Satin Nickel",
+                "Select Finish: U15A: Antique Nickel",
+                "Select Finish: U26:  Polished Chrome",
+                "Select Finish: U26D: Brushed Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26:  Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26D: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

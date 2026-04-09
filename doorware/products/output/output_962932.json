@@ -1,0 +1,91 @@
+{
+    "legacy_product_id": "962932",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Dorian Lever Interior Single Cylinder Handleset Trim, Kwikset 966DNL",
+            "vendor": "Kwikset",
+            "status": "ARCHIVED",
+            "sku": "KWI-966DNL",
+            "mpn": "KWI-966DNL",
+            "price": "67.5",
+            "compare_at_price": "67.5",
+            "contractor_price": "67.5",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Dorian Lever Interior Single Cylinder Handleset Trims",
+                "Single Cylinder Interior Trims",
+                "KWI-966DNL",
+                "Kwikset 966DNL"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/KWI-966DNL-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/KWI-966DNL-525.jpg?v=1716427260"
+        },
+        "text": {
+            "description_html": "<b>Kwikset 966DNL, Single Cylinder Dorian Replacement Interior Trim</b>\r\n\r\n<p>\r\nThis is a Interior Trim Replacement with Dorian Lever. The Dorian Lever Single Cylinder Interior Trim delivers elegant style by evoking a sense of the past. With traditional style, the Kwikset 966DNL Dorian Lever with Thumbturns is a great addition to classic homes.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Kwikset Dorian Lever Interior Trim  Set:\r\n<ul>\r\n<li>Rose Diameter: 2-5/8\"</li>\r\n<li>Lever Length: 3.75\"</li>\r\n<li>Lever Projection: 2-7/18\"</li>\r\n<li>Deadbolt to Latch Spacing: 5-1/2\" center to center</li>\r\n<li>Non-handed levers</li>\r\n<li>Concealed screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nSpecial Ordered Item. <b>No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "Dorian Lever Interior Single Cylinder Handleset Trim",
+                "description": "This is a Interior Trim Replacement with Dorian Lever. The Dorian Lever Single Cylinder Interior Trim delivers elegant style by evoking a sense of the past. With traditional style, the Kwikset 966DNL Dorian Lever with Thumbturns is a great addition to classic homes.",
+                "keywords": "Dorian Lever Interior Single Cylinder Handleset Trims, Single Cylinder Interior Trims, KWI-966DNL, Kwikset 966DNL"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Kwikset Parts",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "348544",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "10006",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "139520",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "10018",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "649911",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish ",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

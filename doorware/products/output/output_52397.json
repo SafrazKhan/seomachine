@@ -1,0 +1,180 @@
+{
+    "legacy_product_id": "52397",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Barcelona Dummy Handleset, Schlage JH193BAR",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-JH193BAR",
+            "mpn": "SCH-JH193BAR",
+            "price": "72.1",
+            "compare_at_price": "103.0",
+            "contractor_price": "68.5",
+            "shipping_weight": "15.0",
+            "tags": [
+                "Schlage Dexter Barcelona Handleset",
+                "schlage dexter handlests",
+                "barcelona handlesets  Barcelona dummy handlesets",
+                "schlage barcelona handle sets",
+                "SCH-JH193BAR",
+                "schlage jh193bar",
+                "barcelona schlage dexter handlesets",
+                "schlage jh series handlests"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/sch-bar-525 copy.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/sch-bar-525_20copy.jpg?v=1711365097"
+        },
+        "text": {
+            "description_html": "<b>Schlage JH Series Barcelona Handleset</b>\r\n\r\n<p>\r\nThe Barcelona has a classic oval design with elegant, curved lines; it features two small oval faces and a graceful sweeping handle. The two-piece design offers flexibility for doors with nonstandard hole locations while providing a subtle classic appearance for entranceways. A dummy handleset it is non-functional meaning that it does not latch or lock.\r\n</p>\r\n\r\n<p>\r\nDummy Handlesets are for looks only. They do not lock and do not latch. They are most often used as a pull or to match trim.\r\n</p>\r\n\r\n<p>\r\nAlso available matching: \r\n<a href=\"/products/barcelona-single-cylinder-handleset-schlage-jh60bar\"><b>Barcelona Single Cylinder Handleset</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of the Dexter Barcelona Handleset:\r\n<ul>\r\n<li>Material: Zinc-based material plated to match the finish you choose.</li>\r\n<li>Fits standard door preparations.</li>\r\n<li>5 year finish warranty.</li>\r\n<li>25 year mechanical warranty.</li>\r\n<li>Solid forged brass.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Schlage Barcelona Handleset:\r\n<ul>\r\n<li>Outside Handleset Length: 11-7/8\"</li>\r\n<li>Outside Handleset Projection: 2-7/16\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Dummy Handleset is non-functional</b>. Just for looks, it is used on inactive doors.\r\n</p>\r\n\r\n<p>\r\n<i>The inside trim will match the outside handleset's finish.</i>\r\n</p>",
+            "seo": {
+                "title": "Barcelona Dummy Handleset, Schlage JH193BAR",
+                "description": "Schlage JH193BAR Dexter Barcelona Handleset - The Barcelona has a classic oval design with elegant, curved lines; it features two small oval faces and a graceful sweeping handle. The two-piece design offers flexibility for doors with nonstandard hole locations while providing a subtle classic appearance for entranceways. A dummy handleset it is non-functional meaning that it does not latch or lock.",
+                "keywords": "Schlage Dexter Barcelona Handleset, schlage dexter handlests, barcelona handlesets  Barcelona dummy handlesets, schlage barcelona handle sets, SCH-JH193BAR, schlage jh193bar, barcelona schlage dexter handlesets, schlage jh series handlests,"
+            },
+            "specifications": [
+                {
+                    "key": "Outside Handleset Length",
+                    "value": "11-7/8\""
+                },
+                {
+                    "key": "Outside Handleset Projection",
+                    "value": "2-7/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Schlage Misc-Discontinued-Items",
+                    "sort": "33"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "155128",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "10010",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "139520",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "64548",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "9400",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "91236",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Outside Handleset Length: 11-7/8\"",
+                "Outside Handleset Projection: 2-7/16\"",
+                "Select Finish: 605 - Bright Brass",
+                "Select Finish: 609 - Antique Brass N/A for (MAR) Marin Lever",
+                "Select Finish: 619 - Satin Nickel",
+                "Select Inside Trim and Handing: CNA - Corona Knob",
+                "Select Inside Trim and Handing: MAR - Marin Lever (non-handed)",
+                "Select Inside Trim and Handing: TOR - Torino Lever (non-handed)",
+                "Select Inside Trim and Handing: LAS-RH - LaSalle Lever (Right Hand)",
+                "Select Inside Trim and Handing: LAS-LH - LaSalle Lever (Left Hand)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "605 - Bright Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "605"
+                },
+                {
+                    "value": "609 - Antique Brass N/A for (MAR) Marin Lever",
+                    "price_impact": 4.9,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "609"
+                },
+                {
+                    "value": "619 - Satin Nickel",
+                    "price_impact": 4.9,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "619"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Inside Trim and Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "CNA - Corona Knob",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/sch-cna-sm1.jpg?v=1774588135",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/sch-cna-lg1.jpg?v=1711365098",
+                    "sku_ref": "CNA"
+                },
+                {
+                    "value": "MAR - Marin Lever (non-handed)",
+                    "price_impact": 7.7,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/sch-mar-sm1.jpg?v=1774588135",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/sch-mar-lg1.jpg?v=1711365098",
+                    "sku_ref": "MAR"
+                },
+                {
+                    "value": "TOR - Torino Lever (non-handed)",
+                    "price_impact": 8.4,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/sch-tor-sm1.jpg?v=1774588135",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/sch-tor-lg1.jpg?v=1711365098",
+                    "sku_ref": "TOR"
+                },
+                {
+                    "value": "LAS-RH - LaSalle Lever (Right Hand)",
+                    "price_impact": 9.8,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/sch-las-lh-sm5.jpg?v=1774588135",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/sch-las-lh-lg5.jpg?v=1711365098",
+                    "sku_ref": "LAS"
+                },
+                {
+                    "value": "LAS-LH - LaSalle Lever (Left Hand)",
+                    "price_impact": 9.8,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/sch-las-rh-sm5.jpg?v=1774588135",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/sch-las-rh-lg5.jpg?v=1711365098"
+                }
+            ]
+        }
+    ]
+}

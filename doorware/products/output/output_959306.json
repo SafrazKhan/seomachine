@@ -1,0 +1,135 @@
+{
+    "legacy_product_id": "959306",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Door Saddle Threshold, Pemko 271D",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PEM-271D",
+            "mpn": "PEM-271D",
+            "price": "30.25",
+            "compare_at_price": "30.25",
+            "contractor_price": "30.25",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Pemko 271D Saddle Thresholds",
+                "Door Saddle Thresholds",
+                "PEM-271D"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PEM-271A43-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PEM-271A43-525.jpg?v=1717106373"
+        },
+        "text": {
+            "description_html": "<b>Pemko 271 Saddle Threshold</b>\r\n\r\n<p>\r\nThe Pemko Door Saddle Threshold is made from non rusting extruded aluminum. It meets ADA Barrier Free Requirements.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Pemko Door Threshold:\r\n<ul>\r\n<li>Material: Aluminum</li>\r\n<li>Finish: Dark Bronze Anodized</li>\r\n<li>Height: 1/4\"</li>\r\n<li>Width: 5\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nMeets <b>ADA Barrier Free Requirements</b>:\r\n<ul>\r\n<li>Overall height is no greater than 1/2\"</li>\r\n<li>A vertical rise no more than 1/4\" and/or change in elevation being beveled with a slope of 1:2</li>\r\n<li>Non-Skid/Pemkote – Meets the requirements of ASTM D 2047, UL 410, and Federal Specifications P-F-</li>\r\n<li>430C for high static coefficient of friction resulting in a slip resistance surface</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nSpecial Ordered Item. <b>No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "Door Saddle Threshold",
+                "description": "The Pemko Door Saddle Threshold is made from non rusting extruded aluminum. It meets ADA Barrier Free Requirements. The Finish is Dark Anodized.\r\n",
+                "keywords": "Pemko 271D Saddle Thresholds,  Door Saddle Thresholds, PEM-271D,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Aluminum"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Dark Bronze Anodized"
+                },
+                {
+                    "key": "Height",
+                    "value": "1/4\""
+                },
+                {
+                    "key": "Width",
+                    "value": "5\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Pemko",
+                    "sort": "25"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "232501",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "232553",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "232547",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "232492",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "238949",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Aluminum",
+                "Finish: Dark Bronze Anodized",
+                "Height: 1/4\"",
+                "Width: 5\"",
+                "Select Length: 24in. Length",
+                "Select Length: 36in. Length",
+                "Select Length: 43in. Length",
+                "Select Length: 48in. Length"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "24in. Length",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "36in. Length",
+                    "price_impact": 15.25,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "43in. Length",
+                    "price_impact": 30.25,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "48in. Length",
+                    "price_impact": 30.25,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

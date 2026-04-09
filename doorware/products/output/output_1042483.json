@@ -1,0 +1,126 @@
+{
+    "legacy_product_id": "1042483",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Fire and Smoke Door Seal, NGP 5050C",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "NGP-5050C",
+            "mpn": "NGP-5050C",
+            "price": "38.42",
+            "compare_at_price": "38.42",
+            "contractor_price": "38.42",
+            "shipping_weight": "2.0",
+            "tags": [
+                "NGP-5050C Fire and Smoke Door Seal",
+                "NGP 5050C-17 17 foot door seals"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/NGP-5050C_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/NGP-5050C_525.jpg?v=1717106426"
+        },
+        "text": {
+            "description_html": "<b>NGP-5050C, Silicone Bulb Fire and Smoke Door Seal</b>\r\n<p>\r\nPerimeter door seal kit, self-adhesive silicone gasket. Edge sealing system - Category \"G\" for 20 minute rated category B wood doors. \r\n<br>Smoke and draft control - Category \"H\" up to 3 hours Hollow Metal doors and up to 90 minutes Wood fire doors. \r\n</p>\r\n<p>\r\nField sizable, cut to fit. Easy installation - Door frame must be clean and free of debris. After cleaning just peel the protective film from the self-adhesive glue tape and stick to the door frame. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for NGP 5050C Door Seal\r\n<ul>\r\n<li>Width: 1/2\"</li>\r\n<li>Height: 1/4\"</li>\r\n<li>Color: Dark Charcoal</li>\r\n<li>Material: Silicone</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/5050C_cutsheet.pdf?v=1704262415\" target=\"new\"><b>NGP 5050C Cutsheet (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n<p>\r\nAvailable in 3 lengths:\r\n<ul>\r\n<li>17 Feet: for 3'0 x 7'0 doors</li>\r\n<li>21 Feet: for 4'0 x 8'0 doors</li>\r\n<li>25 Feet: for 8'0 x 8'0 pair of doors</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Fire and Smoke Door Seal, NGP 5050C",
+                "description": "Perimeter door seal kit, self-adhesive silicone gasket. Edge sealing system. Field sizable, cut to fit. Easy installation - Door frame must be clean and free of debris. After cleaning just peel the protective film from the self-adhesive glue tape and stick to the door frame. ",
+                "keywords": "NGP-5050C Fire and Smoke Door Seal, NGP 5050C-17 17 foot door seals,"
+            },
+            "specifications": [
+                {
+                    "key": "Width",
+                    "value": "1/2\""
+                },
+                {
+                    "key": "Height",
+                    "value": "1/4\""
+                },
+                {
+                    "key": "Color",
+                    "value": "Dark Charcoal"
+                },
+                {
+                    "key": "Material",
+                    "value": "Silicone"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "NGP Door Shoes, Bottoms and Sweeps",
+                    "sort": "17"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "991119",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1007320",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "232568",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Width: 1/2\"",
+                "Height: 1/4\"",
+                "Color: Dark Charcoal",
+                "Material: Silicone",
+                "Select Length: 5050C-17: 17 Feet",
+                "Select Length: 5050C-20: 20 Feet",
+                "Select Length: 5050C-21: 21 Feet",
+                "Select Length: 5050C-25: 25 Feet"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "5050C-17: 17 Feet",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5050C-20: 20 Feet",
+                    "price_impact": 6.46,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5050C-21: 21 Feet",
+                    "price_impact": 8.14,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5050C-25: 25 Feet",
+                    "price_impact": 16.27,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

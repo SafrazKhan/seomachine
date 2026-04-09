@@ -1,0 +1,103 @@
+{
+    "legacy_product_id": "191074",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Drop Plate for American Eagle 3100, PDQ 319009",
+            "vendor": "PDQ",
+            "status": "ACTIVE",
+            "sku": "PDQ-319009",
+            "mpn": "PDQ-319009",
+            "price": "59.99",
+            "compare_at_price": "80.0",
+            "contractor_price": "54.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "PDQ-319009 Drop Plate for American Eagle 3100  Closers",
+                "American Eagle 319009 Parallel Arm Drop Plate for American Eagle 3100 door closers",
+                "door closer drop plates",
+                "top jamb drop plates",
+                "PDQ 3100 closer parts",
+                "PDQ 3101 closer parts"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AE-319018_525.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AE-319018_525.gif?v=1716421849"
+        },
+        "text": {
+            "description_html": "<b>PDQ 319009 Drop Plate for American Eagle 3100</b>\r\n\r\n<p>\r\nFits <a href=\"/products/light-commercial-surface-mount-closer-pdq-3100-bcpa\"><b>American Eagle 3100</b></a> and <a href=\"/products/light-commercial-ada-compliant-surface-mount-closer-pdq-3101-bcpa\"><b>American Eagle 3101</b></a>  Door Closers. \r\n</p>\r\n<p>\r\nFor top jamb mount with limited overhead clearance or to provide clearance for a surface applied stop/holder. Also used for parallel arm mounting with a narrow top door rail.\r\n</p>\r\n<p>Can be used with any door closer that has a mounting pattern of:\r\n<br>Horizontal Mounting Holes: 9-1/6\"\r\n<br>Vertical Mounting Holes: 3/4\"\r\n</p>\r\n<p>\r\nAvailable in Aluminum or Dark Bronze finish.\r\n</p>",
+            "seo": {
+                "title": "Drop Plate for American Eagle 3100, PDQ 319009",
+                "description": "PDQ 319009 - Parallel Arm Drop Plate for American Eagle 3100 door closers. For top jamb mount with limited overhead clearance or to provide clearance for a surface applied stop/holder.",
+                "keywords": "PDQ-319009 Drop Plate for American Eagle 3100  Closers, American Eagle 319009 Parallel Arm Drop Plate for American Eagle 3100 door closers, door closer drop plates, top jamb drop plates, PDQ 3100 closer parts, PDQ 3101 closer parts,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "American Eagle 3100",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "191084",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "232302",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "269860",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "190791",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "191061",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 689: Aluminum",
+                "Select Finish: 695: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "689: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-319009-689"
+                },
+                {
+                    "value": "695: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-319009-695"
+                }
+            ]
+        }
+    ]
+}

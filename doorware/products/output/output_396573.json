@@ -1,0 +1,134 @@
+{
+    "legacy_product_id": "396573",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Blacksmith Doorbell Button, Fusion B-EL-E2",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-B-EL-E2",
+            "mpn": "FUS-B-EL-E2",
+            "price": "38.0",
+            "compare_at_price": "38.0",
+            "contractor_price": "28.5",
+            "shipping_weight": "2.0",
+            "tags": [
+                "FUS-B-EL-E2",
+                "Fusion B-El-E2",
+                "nfusion hardware navajo collections",
+                "Fusion E2 rose doorbells",
+                "southwestern design doorbells",
+                "solid brass doorbells",
+                "Southwest Blacksmith Rose Doorbells",
+                "Blacksmith Doorbells",
+                "Blacksmith Rose Doorbells",
+                "Blacksmith Doorbell Buttons",
+                "Southwest Blacksmith Rose Doorbell Buttons"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-D-E2-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-D-E2-525.jpg?v=1711365456"
+        },
+        "text": {
+            "description_html": "<b>Fusion B-EL-E2, Southwest Blacksmith Rose Doorbell Button</b>\r\n\r\n<p>\r\nNot only is the Blacksmith Doorbell Button aesthetically pleasing to the eye, but is easily transferred from the southwestern Navajo design for which it was was made to more modern homes as well. It is available in oil rubbed bronze, brushed nickel, and antique pewter finishes. It comes packaged with the mounting screws necessary as well as with a lighted doorbell actuator.\r\n</p>\r\n\r\n<p>\r\n<b>Please Note</b> This is a replacement trim only. It comes packaged with lighted button, rosette, and installation screws. It DOES NOT include the chime.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Navajo Southwestern Doorbell Fusion E2:\r\n<ul>\r\n<li>Rose Length: 4\"</li>\r\n<li>Rose Width: 2-3/4\"</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Includes lighted button.</li>\r\n<li>Packaged as a kit with matching finish installation screws and a lighted button.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Blacksmith Doorbell Button, Fusion B-EL-E2",
+                "description": "Fusion B-EL-E2, Southwest Blacksmith Rose Doorbell - Not only is the Blacksmith Doorbell Button aesthetically pleasing to the eye, but is easily transferred from the southwestern Navajo design for which it was was made to more modern homes as well. It is available in oil rubbed bronze, brushed nickel, and antique pewter finishes. It comes packaged with the mounting screws necessary as well as with a lighted doorbell actuator.\r\n",
+                "keywords": "FUS-B-EL-E2, Fusion B-El-E2,  nfusion hardware navajo collections, Fusion E2 rose doorbells, southwestern design doorbells, solid brass doorbells, Southwest Blacksmith Rose Doorbells, Blacksmith Doorbells, Blacksmith Rose Doorbells, Blacksmith Doorbell Buttons, Southwest Blacksmith Rose Doorbell Buttons,"
+            },
+            "specifications": [
+                {
+                    "key": "Rose Length",
+                    "value": "4\""
+                },
+                {
+                    "key": "Rose Width",
+                    "value": "2-3/4\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Doorbells",
+                    "sort": "16"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "395772",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "295149",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "33007",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "148962",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "216599",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "188420",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Rose Length: 4\"",
+                "Rose Width: 2-3/4\"",
+                "Material: Solid Brass",
+                "Select Finish: ORB - Oil Rubbed Bronze",
+                "Select Finish: BRN - Brushed Nickel",
+                "Select Finish: ATP - Antique Pewter"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRN - Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ATP - Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

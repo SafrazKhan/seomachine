@@ -1,0 +1,139 @@
+{
+    "legacy_product_id": "401948",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:10:05.365467"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Flat Push/Crash Bar, Hagar 127S",
+            "vendor": "Hagar",
+            "status": "ARCHIVED",
+            "sku": "HAG-127S",
+            "mpn": "HAG-127S",
+            "price": "153.0",
+            "compare_at_price": "187.0",
+            "contractor_price": "153.0",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Flat Push/Crash Bar",
+                "Hagar 127S"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Hagar Flat Push/Crash Bar, HAG-127S</b>\r\n<p>\r\nHagar flat push/crash bars are suitable for all framed glass storefront doors (aluminum, hollow metal or wood) where there is no projection on the door face.  Made of solid brass, bronze, aluminum or stainless steel, it is durable enough for the most demanding applications. \r\n</p>\r\n<p>\r\nThese 1.25\" wide push/crash bars are made to your specifications in any length up to 36\".  </p>\r\n<p><b>Features and Specifications:  </b>\r\n<ul>\r\n<li>Material:  Solid Brass, Stainless Steel, Bronze or Aluminum</li>\r\n<li>Bar Size:  3/8\" x 1-1/4\"</li>\r\n<li>Base:  1-1/4\" Square</li>\r\n<li>Projection:  3/4\"</li>\r\n<li>Fasteners:  1/4 x 20 FHMS</li>\r\n<li>Meets ANSI A156.6 for J501 Push Bar</li>\r\n</ul></p>",
+            "seo": {
+                "title": "Flat Push/Crash Bar, Hagar 127S",
+                "description": "Flat Push/Crash Bar, Hagar 127S",
+                "keywords": "Flat Push/Crash Bar, Hagar 127S"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Hager",
+                    "sort": "13"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: HAG-127S-US28 - Aluminum",
+                "Select Finish: HAG-127S-US32D - Satin Stainless",
+                "Select Finish: HAG-127S-US3 - Polished Brass",
+                "Select Finish: HAG-127S-US4 - Satin Brass",
+                "Select Finish: HAG-127S-US10 - Satin Bronze",
+                "Select Finish: HAG-127S-10B - Oil Rubbed Bronze",
+                "Select Finish: HAG-127S-US32 - Polished Stainless",
+                "Select Mounting Option: HAG-127S - Thru-Bolt Mounting",
+                "Select Mounting Option: HAG-127S - Surface Mounting"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "HAG-127S-US28 - Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "HAG-127S-US32D - Satin Stainless",
+                    "price_impact": 32.25,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "HAG-127S-US3 - Polished Brass",
+                    "price_impact": 44.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "HAG-127S-US4 - Satin Brass",
+                    "price_impact": 57.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "HAG-127S-US10 - Satin Bronze",
+                    "price_impact": 57.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "HAG-127S-10B - Oil Rubbed Bronze",
+                    "price_impact": 57.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "HAG-127S-US32 - Polished Stainless",
+                    "price_impact": 64.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Mounting Option",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "HAG-127S - Thru-Bolt Mounting",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "HAG-127S - Surface Mounting",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

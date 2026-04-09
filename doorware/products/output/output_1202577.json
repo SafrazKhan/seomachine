@@ -1,0 +1,69 @@
+{
+    "legacy_product_id": "1202577",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "5113 Lever Pair Minus Rose, Baldwin 5113.MR",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-5113.MR",
+            "mpn": "BAL-5113.MR",
+            "price": "209.0",
+            "compare_at_price": "262.0",
+            "contractor_price": "209.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Baldwin Estates Collection 5113 Levers",
+                "BAL-5113.MR",
+                "Baldwin 5113.MR"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-5113102-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-5113102-525.jpg?v=1711366749"
+        },
+        "text": {
+            "description_html": "<b>Baldwin Estates Collection 5113 Lever </b>\r\n\r\n<p>\r\nThis is a Baldwin 5113 Single Lever Less Rose.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Baldwin 5113 Lever:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Lever Length: 4.5\"</li>\r\n<li>Lever Projection: 3\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold as a pair (2) levers without rose</i>\r\n</p>",
+            "seo": {
+                "title": "5113 Lever Minus Rose",
+                "description": "This is a Baldwin 5113 Single Lever Less Rose.",
+                "keywords": "Baldwin Estates Collection 5113 Levers, BAL-5113.MR, Baldwin 5113.MR"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "56"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: 102: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "102: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

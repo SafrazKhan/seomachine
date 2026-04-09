@@ -1,0 +1,127 @@
+{
+    "legacy_product_id": "15183",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Door Alarm  Panic Device - Alarm Lock SirenLock 700",
+            "vendor": "Alarm Lock",
+            "status": "ACTIVE",
+            "sku": "ALA-700/SCH20022",
+            "mpn": "ALA-700/SCH20022",
+            "price": "519.06",
+            "compare_at_price": "633.0",
+            "contractor_price": "493.11",
+            "shipping_weight": "15.0",
+            "tags": [
+                "ALA-700/SCH20022  Alarm Lock SirenLock 700",
+                "Alarm Lock  Panic Alarm Deadbolt Device",
+                "exit alarm",
+                "alarm exit devices",
+                "exit bars",
+                "panic bars",
+                "exit alarm locks",
+                "emergency exit",
+                "Door Alarm  Panic Devices",
+                "siren door bars",
+                "Alarm Lock model 700/710  exit bars",
+                "panic device with alarms"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/alarm-lock-700_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/alarm-lock-700_525.jpg?v=1716420340"
+        },
+        "text": {
+            "description_html": "<b>Alarm Lock SirenLock 700 Touch Bar Panic Alarm Device\r\n</b>\r\n<p>\r\nThe Alarm Lock Sirenlock model 700 is a UL Listed panic alarm device.  It restricts unauthorized use of emergency exit doors by sounding blaring a 95db dual tone alarm when pushed, while still providing instant egress in emergencies.\r\n</p>\r\n<p>\r\nThe deadbolt and deadlatch meet relatching requirements.  Meets or exceeds UL, DFM, ADA, NYC housing requirements.  Non-handed surface installations on single or double doors.\r\n</p>\r\n<p>\r\nThe exit device touch bar is labeled \"ALARMED EMERGENCY EXIT\". \r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/handicap-logo.jpg?v=1704353001\" width=\"100\" height=\"98\" border=\"0\" alt=\"ADA Compliant Handicap Logo\">\r\n</p>\r\n<p>\r\n<b>Features and Specifications</b> for Alarm Lock Sirenlock 700\r\n<ul>\r\n<li>Blaring 95db dual tone siren</li>\r\n<li>Selectable  2 minute alarm cutoff or manual reset</li>\r\n<li>9V battery powered </li>\r\n<li>Audible low battery warning</li>\r\n<li>33\" for use on doors up to 36\" wide</li>\r\n<li>Non-handed</li>\r\n<li>ADA compliant</li>\r\n<li>Optional Brushed Aluminum or Dark Bronze finish</li>\r\n<li>Includes Schlage \"C\" keyway rim lock cylinder</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Sirenlock-specs.pdf?v=1691094955\" target=\"new\"><b>Alarm Lock Sirenlock 700 Specifications (PDF)</b></a></li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Door Alarm  Panic Device - Alarm Lock SirenLock 700",
+                "description": "Alarm Lock SirenLock model 700 series. The Alarm Lock Sirenlock model 700 is a UL Listed panic alarm device.  It restricts unauthorized use of emergency exit doors by sounding blaring a 95db dual tone alarm when pushed, while still providing instant egress in emergencies. Optional Brushed Aluminum or Dark Bronze finish.",
+                "keywords": "ALA-700/SCH20022  Alarm Lock SirenLock 700, Alarm Lock  Panic Alarm Deadbolt Device, exit alarm, alarm exit devices, exit bars, panic bars, exit alarm locks, emergency exit, Door Alarm  Panic Devices, siren door bars, Alarm Lock model 700/710  exit bars, panic device with alarms,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Panic Hardware",
+                    "sort": "42"
+                },
+                {
+                    "name": "Alarm Lock",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "15173",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "255567",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "834507",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "15322",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "260308",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "183501",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "201045",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "201073",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "713565",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: ALA-70028-33/SCH20022C626: Brushed Aluminum",
+                "Select Finish: ALA-700312-33/SCH20022C613: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ALA-70028-33/SCH20022C626: Brushed Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ALA-700312-33/SCH20022C613: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

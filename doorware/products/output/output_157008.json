@@ -1,0 +1,158 @@
+{
+    "legacy_product_id": "157008",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "7-1/2 Lion Door Knocker, Brass Accents A07-K5000",
+            "vendor": "BrassAccents",
+            "status": "ACTIVE",
+            "sku": "BRA-A07-K5000",
+            "mpn": "BRA-A07-K5000",
+            "price": "115.99",
+            "compare_at_price": "144.0",
+            "contractor_price": "109.44",
+            "shipping_weight": "3.0",
+            "tags": [
+                "A07-K5000",
+                "7 1/2 inch",
+                "7.5 inches large lion head door knockers",
+                "Brass Accents Lion Door Knockers",
+                "Victorian door knocker",
+                "brass lion door knockers",
+                "lion knocker",
+                "lion style door knocker",
+                "steampunk hardware",
+                "BRA-A07-K5000",
+                "7-1/2 Lion Door Knocker",
+                "Brass Accents A07-K5000",
+                "animal door knockers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BA-A07-K5000_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BA-A07-K5000_525.jpg?v=1716421497"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents A07-K5000, Solid Brass 7-1/2 High Large Lion Head Door Knocker</b>\r\n\r\n<p>\r\nThis is a gorgeous solid brass lion head door knocker was first popular in England during the Victorian Era. Its large 7-1/2\" size makes an imposing statement on any entry door.\r\n</p>\r\n\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance. Their products are hand finished in the USA. They are one of the world's leading crafters of cast-brass and hot-forged decorative brass hardware.\r\n</p>\r\n\r\n<p>\r\nClick here for <a href=\"/products/small-lion-door-knocker-brass-accents-a07-k5010\">Small Lion Head Door Knocker</a>\r\n</p>\r\n<p>\r\nClick here for <a href=\"/products/8-3-8-leo-door-knocker-brass-accents-a07-k5100\">Leo Door Knocker</a>\r\n</p>\r\n<p>\r\n<b>Specifications</b> of the Large Lion Head Door Knocker:\r\n<ul>\r\n<li>Height: 7-1/2\"</li>\r\n<li>Knocker Width: 3-7/8\"</li>\r\n<li>Plate Width: 4-3/4\"</li>\r\n<li>Mounting Centers: 3-3/4\"</li>\r\n<li>Max Thickness: 1-3/4\"</li>\r\n<li>Solid Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>",
+            "seo": {
+                "title": "7-1/2 Lion Door Knocker, Brass Accents A07-K5000",
+                "description": " Brass Accents A07-K5000, 7-1/2 Lion Door Knocker -- This is a gorgeous solid brass lion head door knocker was first popular in England during the Victorian Era. Its large 7-1/2 inch size makes an imposing statement on any entry door.\r\n",
+                "keywords": "A07-K5000, 7 1/2 inch, 7.5 inches large lion head door knockers, Brass Accents Lion Door Knockers, Victorian door knocker, brass lion door knockers, lion knocker, lion style door knocker, steampunk hardware, BRA-A07-K5000, 7-1/2 Lion Door Knocker, Brass Accents A07-K5000, animal door knockers,"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "7-1/2\""
+                },
+                {
+                    "key": "Knocker Width",
+                    "value": "3-7/8\""
+                },
+                {
+                    "key": "Plate Width",
+                    "value": "4-3/4\""
+                },
+                {
+                    "key": "Mounting Centers",
+                    "value": "3-3/4\""
+                },
+                {
+                    "key": "Max Thickness",
+                    "value": "1-3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knockers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knockers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-6",
+            "collections": [
+                {
+                    "name": "Brass Accents Door Knockers",
+                    "sort": "8"
+                },
+                {
+                    "name": "Door Knockers",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "240726",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "845792",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "29819",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "156875",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "143820",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "240765",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "143756",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "143420",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Height: 7-1/2\"",
+                "Knocker Width: 3-7/8\"",
+                "Plate Width: 4-3/4\"",
+                "Mounting Centers: 3-3/4\"",
+                "Max Thickness: 1-3/4\"",
+                "Select Finish: Antique Brass",
+                "Select Finish: Polished Brass",
+                "Select Finish: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

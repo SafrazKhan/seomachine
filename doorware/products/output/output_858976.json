@@ -1,0 +1,164 @@
+{
+    "legacy_product_id": "858976",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:09:29.557359"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Rope Rocker Switch Plate, Grandeur ROPSWPLTR1",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-ROPSWPLTR1",
+            "mpn": "GRA-ROPSWPLTR1",
+            "price": "28.99",
+            "compare_at_price": "35.5",
+            "contractor_price": "28.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Grandeur ROPSWPLTR1",
+                "GRA-ROPSWPLTR1 Rope Rocker Plates",
+                "Rope Rocker Switch Plates",
+                "Rope Rocker Light Switch Covers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-ROPSWPLTR1-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-ROPSWPLTR1-525.jpg?v=1716426090"
+        },
+        "text": {
+            "description_html": "<b>Grandeur ROPSWPLTR1, Rope Rocker Light Switch Cover</b>\r\n\r\n<p>\r\nThe Rope Rocker Switch Plate has a classic look that makes it a great choice for traditional spaces. The rope design has been a favorite for years for its simplistic elegance. The Rope Rocker Light Switch Cover is available in a wide selection of finishes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur Rope Rocker Plate Cover:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 5\"</li>\r\n<li>Width: 3-1/4\"</li>\r\n<li>Projection: 1/4\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Rope Rocker Switch Plate",
+                "description": "The Rope Rocker Switch Plate has a classic look that makes it a great choice for traditional spaces. The rope design has been a favorite for years for its simplistic elegance. The Rope Rocker Light Switch Cover is available in a wide selection of finishes.",
+                "keywords": "Grandeur ROPSWPLTR1, GRA-ROPSWPLTR1 Rope Rocker Plates, Rope Rocker Switch Plates, Rope Rocker Light Switch Covers,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "5\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3-1/4\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Electrical Outlet &amp; Switch Plates",
+                    "sort": "105"
+                },
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "59"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "235337",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "37956",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "858705",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "726913",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "38211",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 5\"",
+                "Width: 3-1/4\"",
+                "Projection: 1/4\"",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: AP: Antique Pewter",
+                "Select Finish: TB: Timeless Bronze",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: ULB: Unlacquered Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ULB: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

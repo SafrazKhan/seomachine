@@ -1,0 +1,139 @@
+{
+    "legacy_product_id": "1209342",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "PDQ GT Series Deadlatch",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PDQ-V91904-x21",
+            "mpn": "PDQ-V91904-x21",
+            "price": "69.0",
+            "compare_at_price": "115.0",
+            "contractor_price": "62.1",
+            "shipping_weight": "0.25",
+            "tags": [
+                "PDQ GT Series Deadlatch",
+                "PDQ V91904-721"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/V91904-721-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/V91904-721-525.jpg?v=1716428956"
+        },
+        "text": {
+            "description_html": "<b>Deadlatch for PDQ GT Series</b>\r\n<p>For use with <a href=\"/products/grade-1-commercial-door-levers-pdq-gt-series\"><b>PDQ GT Series Commercial Door Levers</b></a> . \r\n</p>\r\n<p>\r\nDeadlatches are used on all <b>Functions</b>  Available for either 2-3/8\" or 2-3/4\" backsets.\r\n</p>\r\n\r\n\r\n<p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "PDQ GT Series Deadlatch",
+                "description": "PDQ GT Series deadlatch for use with all functions available in 2-3/8\" or 2-3/4\" backsets.",
+                "keywords": "PDQ GT Series Deadlatch, PDQ V91904-721"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Misc Hardware",
+                    "sort": "39"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Backset: V91904-x21: 2-3/8in. Backset",
+                "Select Backset: V90904-x11: 2-3/4in. BS",
+                "Select Finish: 605: Polished Brass",
+                "Select Finish: 606: Satin Brass",
+                "Select Finish: 612: Satin Bronze",
+                "Select Finish: 613E: Dark Bronze",
+                "Select Finish: 622: Black",
+                "Select Finish: 625: Polished Chrome",
+                "Select Finish: 626: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "V91904-x21: 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "V90904-x11: 2-3/4in. BS",
+                    "price_impact": 7.2,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "605: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "606: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "612: Satin Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "613E: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "622: Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "625: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

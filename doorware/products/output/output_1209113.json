@@ -1,0 +1,132 @@
+{
+    "legacy_product_id": "1209113",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin Estates Deadlatch, Baldwin 5210",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-5210",
+            "mpn": "BAL-5210",
+            "price": "65.0",
+            "compare_at_price": "65.0",
+            "contractor_price": "65.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Baldwin Estates Deadlatch",
+                "Baldwin 5210"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-5210-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-5210-5251.jpg?v=1716428956"
+        },
+        "text": {
+            "description_html": "<b>Baldwin Estates Deadlatch, Baldwin 5210</b>\r\n\r\n<p>\r\nUniversal Deadlocking Latch for Baldwin Estates Keyed Entry Knobs and Levers.  Adjustable for 2-3/4\" or 2-3/8\" Backset.  Available in a wide array of finishes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of Baldwin 5210 Deadlatch:\r\n<ul>\r\n<li>Hub Rotation 28 degrees for easy turning</li>\r\n<li>Bolt Head features anti-friction insert for smooth operation</li>\r\n<li>Latches have a 1/2\" throw</li>\r\n<li>Latch Bolts are non-handed </li>\r\n<li>Fully adjustable fronts for use on beveled doors</li>\r\n\r\n<li>Supplied with 1\" (25mm) face plate</li>\r\n\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Baldwin Estates Deadlatch, Baldwin 5210",
+                "description": "Universal Deadlocking Latch for Baldwin Estates Keyed Entry Knobs and Levers.  Adjustable for 2-3/4\" or 2-3/8\" Backset.  Available in a wide array of finishes.",
+                "keywords": "Baldwin Estates Deadlatch, Baldwin 5210"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "58"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: 056: PVD Satin Nickel",
+                "Select Finish: 050: Satin Brass and Black",
+                "Select Finish: 102: Oil Rubbed Bronze",
+                "Select Finish: 112: Venetian Bronze",
+                "Select Finish: 190: Satin Black",
+                "Select Finish: 260: Polished Chrome",
+                "Select Finish: 044: PVD Satin Brass",
+                "Select Finish: 003: PVD Polished Brass",
+                "Select Finish: 055: PVD Polished Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "056: PVD Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "050: Satin Brass and Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "102: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "112: Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "190: Satin Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "260: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "044: PVD Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "003: PVD Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "055: PVD Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

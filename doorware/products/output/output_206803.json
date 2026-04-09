@@ -1,0 +1,157 @@
+{
+    "legacy_product_id": "206803",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Round Stainless Steel Flush Pull, AHI SIG716",
+            "vendor": "AHI",
+            "status": "ACTIVE",
+            "sku": "AHI-SIG716",
+            "mpn": "AHI-SIG716",
+            "price": "23.99",
+            "compare_at_price": "30.0",
+            "contractor_price": "23.99",
+            "shipping_weight": "0.25",
+            "tags": [
+                "AHI-SIG716 Stainless Round Flush Pulls",
+                "AHI SIG716 Round Stainless Steel Flush Pulls",
+                "AHI pocket door hardware",
+                "pocket door handles",
+                "recessed pulls",
+                "Contemporary Flush Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SIG716-flush-pull_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SIG716-flush-pull_525.jpg?v=1716421983"
+        },
+        "text": {
+            "description_html": "<b>AHI SIG716, Stainless Round Flush Pull</b>\r\n\r\n<p>\r\nThis Round Stainless Steel Flush Pull has concealed mounting screws for very clean appearing installation. A stainless steel flush pull, it is extremely resistant to corrosion, knocks, scratches and abrasion making it an ideal material for door hardware. It needs little looking after and does not degrade in appearance or function with use. For use on pocket doors, sliding doors, cabinet doors--any door where a \"flush with the door face\" pull is desired.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the AHI SIG716 Stainless Round Flush Pull:\r\n<ul>\r\n<li>Material: 1/16\" Thick Solid Stainless Steel</li>\r\n<li>Overall Diameter: 2.55\" (65 mm)</li>\r\n<li>Overall Depth: 1/2\" (14 mm)</li>\r\n<li>Projection off Door: 1/16\"</li>\r\n<li>Lip:  1/4\"</li>\r\n<li>Door Cutout Diameter: 2\" (50.8 mm)</li>\r\n<li>Door Cutout Depth: 7/16\" (13 mm)</li>\r\n<li>Packaged with mounting screws.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Round Stainless Steel Flush Pull",
+                "description": "AHI SIG716-630 Round Stainless Steel Flush Pull. - This 2-1/2 inch Diameter Round Satin Stainless Steel Flush Pull has concealed mounting screws for very clean appearing installation. A stainless steel flush pull, it is extremely resistant to corrosion, knocks, scratches and abrasion making it an ideal material for door hardware. It needs little looking after and does not degrade in appearance or function with use. For use on pocket doors, sliding doors, cabinet doors--any door where a flush with the door face pull is desired.",
+                "keywords": "AHI-SIG716 Stainless Round Flush Pulls, AHI SIG716 Round Stainless Steel Flush Pulls, AHI pocket door hardware, pocket door handles,  recessed pulls,  Contemporary Flush Pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "1/16\" Thick Solid Stainless Steel"
+                },
+                {
+                    "key": "Overall Diameter",
+                    "value": "2.55\" (65 mm)"
+                },
+                {
+                    "key": "Overall Depth",
+                    "value": "1/2\" (14 mm)"
+                },
+                {
+                    "key": "Projection off Door",
+                    "value": "1/16\""
+                },
+                {
+                    "key": "Lip",
+                    "value": "1/4\""
+                },
+                {
+                    "key": "Door Cutout Diameter",
+                    "value": "2\" (50.8 mm)"
+                },
+                {
+                    "key": "Door Cutout Depth",
+                    "value": "7/16\" (13 mm)"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "AHI Stainless Steel Pulls",
+                    "sort": "40"
+                },
+                {
+                    "name": "Pocket Door Hardware",
+                    "sort": "98"
+                },
+                {
+                    "name": "Flush Pulls",
+                    "sort": "8"
+                },
+                {
+                    "name": "AHI Sliding Door Hardware",
+                    "sort": "35"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "7551",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "194887",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "204714",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "206808",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "182568",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "10491",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "10503",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Material: 1/16\" Thick Solid Stainless Steel",
+                "Overall Diameter: 2.55\" (65 mm)",
+                "Overall Depth: 1/2\" (14 mm)",
+                "Projection off Door: 1/16\"",
+                "Lip: 1/4\"",
+                "Door Cutout Diameter: 2\" (50.8 mm)",
+                "Door Cutout Depth: 7/16\" (13 mm)",
+                "Select Finish: 630: Satin Stainless Steel",
+                "Select Finish: 629: Polished Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "630: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "629: Polished Stainless Steel",
+                    "price_impact": 6.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

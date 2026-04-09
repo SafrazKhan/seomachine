@@ -1,0 +1,99 @@
+{
+    "legacy_product_id": "1189506",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Stainless Steel 4.75 x 28 Push Plate, Don-Jo PP4.75x28",
+            "vendor": "Don-Jo",
+            "status": "ARCHIVED",
+            "sku": "DJO-PP4.75x28",
+            "mpn": "DJO-PP4.75x28",
+            "price": "63.5",
+            "compare_at_price": "63.5",
+            "contractor_price": "63.5",
+            "shipping_weight": "4.0",
+            "tags": [
+                "DJO-PP4.75x28-629",
+                "Polished Stainless Steel 4.75 x 28 Push Plates",
+                "Don-Jo PP4.75x28-630",
+                "4.75 x 28 Push Plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/special_order-52574.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/special_order-52574.jpg?v=1711366737"
+        },
+        "text": {
+            "description_html": "<b>Don-Jo 4.75 x 28 Push Plate</b>\r\n\r\n<p>\r\nCustom size 4.75\" x 28\" stainless steel commercial door push plate. Primarily used in restaurants, warehouses, factories and stores. Made in the USA from .050\" thick solid stainless steel. Packaged with mounting hardware for easy installation. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Don-Jo 4.75 x 28 Push Plate:\r\n<ul>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/kaba-simplex-902-size.gif?v=1704354717\" width=\"100\" height=\"72\" border=\"0\" align=\"right\" alt=\"Made in the USA\">\r\n<li>Plate Height: 28\"</li>\r\n<li>Plate Width: 4.75\"</li>\r\n<li>Plate Thickness: .050\" (1.2 mm)</li>\r\n<li>Material: Solid Stainless Steel </li>\r\n<li>Packaged with Mounting Screws.</li>\r\n\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold Individually</b> \r\n</p>",
+            "seo": {
+                "title": "Stainless Steel 4.75 x 28 Push Plate, Don-Jo PP4x26",
+                "description": "Don-Jo PP4.75x28, Stainless Steel 4.75 x 28 Push Plate - Custom size 4.75 x 28 stainless steel commercial door push plate. Primarily used in restaurants, warehouses, factories and stores. Made in the USA from .050 thick solid stainless steel. Packaged with mounting hardware for easy installation.",
+                "keywords": "DJO-PP4.75x28-629, Polished Stainless Steel 4.75 x 28 Push Plates, Don-Jo PP4.75x28-630, 4.75 x 28 Push Plates,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Height",
+                    "value": "28\""
+                },
+                {
+                    "key": "Plate Width",
+                    "value": "4.75\""
+                },
+                {
+                    "key": "Plate Thickness",
+                    "value": ".050\" (1.2 mm)"
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Stainless Steel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Custom Items",
+                    "sort": "97"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Plate Height: 28\"",
+                "Plate Width: 4.75\"",
+                "Plate Thickness: .050\" (1.2 mm)",
+                "Material: Solid Stainless Steel",
+                "Select Finish: 629: Polished Stainless Steel",
+                "Select Finish: 630: Satin Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "629: Polished Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "630: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "legacy_product_id": "1153920",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Conch Shell Cabinet Knob, Laurey 563",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "LAU-563",
+            "mpn": "LAU-563",
+            "price": "10.18",
+            "compare_at_price": "13.57",
+            "contractor_price": "10.18",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Conch Oceana Cabinet Knobs",
+                "Conch Cabinet Knobs",
+                "Conch Cabinet Knob",
+                "Conch Shell Cabinet Knobs",
+                "shell knobs",
+                "Laurey 563",
+                "LAU-563",
+                "Laurey 56360",
+                "Laurey 56326",
+                "Conch Drawer Pulls",
+                "beach hardware",
+                "Coastal hardware",
+                "Coastal Cabinet Hardware",
+                "Tropical Cabinet Knobs",
+                "beach Cabinet Knobs",
+                "coastal kitchen"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LAU-563-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-563-525.jpg?v=1716428497"
+        },
+        "text": {
+            "description_html": "<b>Laurey 563, Conch Oceana Cabinet Knob</b>\r\n\r\n<p>\r\nThe Conch Shell Cabinet Knob is perfect for use on end tables in your beachside home. The Conch Oceana Knob is whimsical with stunning attention to detail. This seashell cabinet knob is available in Antique Silver and Polished Chrome. It comes packaged with mounting hardware. \r\n</p>\r\n\r\n\r\n<p>\r\nThis cabinet knob is part of the <a href=\"//search?type=product&q=Laurey+Oceana\">Laurey Oceana Collection</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Laurey Conch Drawer Pulls:\r\n<ul>\r\n<li>Material: Zinc</li>\r\n<li>Length: 2-1/2\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n<li>Packaged with 1\" long #8-32 screw and 1-1/2\" long #8-32 screw.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Conch Shell Cabinet Knob",
+                "description": "The Conch Shell Cabinet Knob is perfect for use on end tables in your beachside home. The Conch Oceana Knob is whimsical with stunning attention to detail. This seashell cabinet knob is available in Antique Silver and Polished Chrome. It comes packaged with mounting hardware.",
+                "keywords": "Conch Oceana Cabinet Knobs, Conch Cabinet Knobs, Conch Cabinet Knob, Conch Shell Cabinet Knobs, shell knobs, Laurey 563, LAU-563, Laurey 56360, Laurey 56326, Conch Drawer Pulls, beach hardware, Coastal hardware, Coastal Cabinet Hardware, Tropical Cabinet Knobs, beach Cabinet Knobs, coastal kitchen"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Laurey Cabinet Knobs",
+                    "sort": "66"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "846167",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "239914",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "240037",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "553896",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "235667",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "553879",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: LAU-56360: Antique Silver",
+                "Select Finish: LAU-56326: Polished Crhome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LAU-56360: Antique Silver",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-56360-SM.jpg?v=1774582077",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-56360-LG.jpg?v=1711366621"
+                },
+                {
+                    "value": "LAU-56326: Polished Crhome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-56326-SM.jpg?v=1774582080",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-56326-LG.jpg?v=1711366622"
+                }
+            ]
+        }
+    ]
+}

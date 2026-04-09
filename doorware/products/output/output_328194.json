@@ -1,0 +1,131 @@
+{
+    "legacy_product_id": "328194",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Contemporary 6.5 Inch Rectangular Door Pull, First Impressions FII-60828",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-60828",
+            "mpn": "FII-60828",
+            "price": "97.0",
+            "compare_at_price": "125.0",
+            "contractor_price": "92.8",
+            "shipping_weight": "5.0",
+            "tags": [
+                "FII-60828  First Impressions International rectangular pulls",
+                "Contemporary rectangular Shaped Door Pulls",
+                "commercial door pulls",
+                "large door pulls",
+                "refrigerator door pulls",
+                "modern design pulls",
+                "6.5 Inches"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>First Impressions Contemporary 6.5\" x 3\" Rectangular Door Pull</b>\r\n<p>\r\nThese bold 6.5 inch pulls can be used for refrigerator doors, entry doors, commercial doors,  or shower doors, and are available back to back, thru-bolt or surface mounted.\r\n</p>\r\n<p>This Rectangular Door Pull is available in other sizes and finishes, <a href=\"/pages/contact\"><b>Contact Us</a></b> for more information.\r\n</p>\r\n<p>\r\nImpeccably crafted from high grade 1/2\" wide aluminum in your choice of 6 high quality, long lasting finish choices.\r\n</P>\r\n<p>\r\n<b>Specifications:</b> of First Impressions Rectangular Door Pull\r\n<ul>\r\n<li>Height: 6.5\"</li>\r\n<li>Width: 3\"</li>\r\n<li>Projection: 2\"</li>\r\n</ul>\r\n</p>\r\n<p>\r\nNote: This decorative door handle is handmade in the USA when you order it—allowing it to be custom designed to fit your specific door application, including <b>Other Lengths</b>. Unfortunately, because of the made-to-order nature of the door handle, it is <b>Not Returnable.</b> Please <a href=\"/pages/contact\">Contact Us</a> with your requirements or if you have any questions.\r\n</p>\r\n<p>\r\nPackaged Standard with Thrubolt mounting (Bolts thru the door). Optional Surface mounting or Back to Back mounting available (Pulls bolt to each other - Requires 2 door pulls).\r\n</p>\r\n<p>\r\n<b>*Sold individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Contemporary 6.5 Inch Rectangular Door Pull, First Impressions FII-60828",
+                "description": "First Impressions Octagon door pulls - These 6.5 inch pulls can be used for refrigerator doors, entry doors, commercial doors,  shower doors, and are available as back to back, thru-bolt or surface mounted in 6 different finish options. Other sizes also available.",
+                "keywords": "FII-60828  First Impressions International rectangular pulls,  Contemporary rectangular Shaped Door Pulls, commercial door pulls, large door pulls, refrigerator door pulls, modern design pulls, 6.5 Inches,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Custom-Misc-Items",
+                    "sort": "16"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: FII-60828-US15 - Satin Nickel",
+                "Select Finish: FII-60828-US26 - Polished Chrome",
+                "Select Finish: FII-60828-DB - Duro Bronze",
+                "Select Finish: FII-60828-US19 - Matte Black",
+                "Select Mounting Choice: Thrubolt Mounted",
+                "Select Mounting Choice: Surface Mounted",
+                "Select Mounting Choice: Back to Back Mounted (Requires 2 Pulls)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-60828-US15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-60828-US26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-60828-DB - Duro Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-60828-US19 - Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Mounting Choice",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Thrubolt Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Thrubolt"
+                },
+                {
+                    "value": "Surface Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Surface"
+                },
+                {
+                    "value": "Back to Back Mounted (Requires 2 Pulls)",
+                    "price_impact": 32.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Back"
+                }
+            ]
+        }
+    ]
+}

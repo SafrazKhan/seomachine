@@ -1,0 +1,86 @@
+{
+    "legacy_product_id": "1070002",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3 inch X 12 inch Plate, Rockwood 71A",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "ROC-71A",
+            "mpn": "ROC-71A",
+            "price": "44.0",
+            "compare_at_price": "55.0",
+            "contractor_price": "44.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Rockwood 71A 3 x 12 Push Plates",
+                "3 inch X 12 inch Plates",
+                "Rockwood 71AWSP"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RW-71AWSP-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RW-71AWSP-525.jpg?v=1716428047"
+        },
+        "text": {
+            "description_html": "<b>Rockwood 71A 3 x 12 Push Plate</b>\r\n\r\n<p>\r\n3\" x 12\" door push plate. Features four beveled edges. Made of stainless steel for longevity. Packaged with stainless steel mounting screws for easy installation.\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the 3\" X 12\" Push Plate:\r\n<ul>\r\n<li>Material: Stainless Steel</li>\r\n<li>Plate Height: 12\"</li>\r\n<li>Plate Width: 3\"</li>\r\n<li>Thickness: .62\"</li>\r\n<li>Packaged with Mounting Screws</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold individually.</i>\r\n</p>",
+            "seo": {
+                "title": "3 inch X 12 inch Plate",
+                "description": "3 inch x 12 inch door push plate. Features four beveled edges. Made of stainless steel for longevity. Packaged with stainless steel mounting screws for easy installation.",
+                "keywords": "Rockwood 71A 3 x 12 Push Plates, 3 inch X 12 inch Plates, Rockwood 71AWSP,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Rockwood Accessories",
+                    "sort": "100"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "556413",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "604324",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "862668",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "334110",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: WSP: White Suede Powder Coat"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "WSP: White Suede Powder Coat\t",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

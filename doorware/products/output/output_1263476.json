@@ -1,0 +1,99 @@
+{
+    "legacy_product_id": "1263476",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Roller Latch, Rockwood 591",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "ROC-591",
+            "mpn": "ROC-591",
+            "price": "87.13",
+            "compare_at_price": "87.13",
+            "contractor_price": "87.13",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Roller Latch",
+                "Rockwood 591"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ROC-591-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ROC-591-525.jpg?v=1769483415"
+        },
+        "text": {
+            "description_html": "<b>Rockwood 591, Roller Latch</b>\r\n\r\n<p>\r\nThe Rockwood cast brass 591 Roller Latch with ASA Strike features a solid nylon roller for durable, silent operation and simple adjustment for roller protection.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Rockwood 591 Roller Latch:\r\n<ul> \r\n<li>Material: Cast Brass</li>\r\n<li>Face Height: 3-3/8\"</li>\r\n<li>Face Width: 1\"</li>\r\n<li>Strike Height:  4-7/8\"</li>\r\n<li>Strike Width: 1-1/4\"</li>\r\n<li>Fastener: Body: 2 ea. #8 x 3/4\" FH combo screws Strike: 2 ea. #12 - 24 x 1/2\" FH MS</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually. Special ordered item. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Roller Latch, Rockwood 591",
+                "description": "The Rockwood cast brass 591 Roller Latch with ASA Strike features a solid nylon roller for durable, silent operation and simple adjustment for roller protection.",
+                "keywords": "Roller Latch, Rockwood 591"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Cast Brass"
+                },
+                {
+                    "key": "Face Height",
+                    "value": "3-3/8\""
+                },
+                {
+                    "key": "Face Width",
+                    "value": "1\""
+                },
+                {
+                    "key": "Strike Height",
+                    "value": "4-7/8\""
+                },
+                {
+                    "key": "Strike Width",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Fastener",
+                    "value": "Body: 2 ea. #8 x 3/4\" FH combo screws Strike: 2 ea. #12 - 24 x 1/2\" FH MS"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Rockwood Accessories",
+                    "sort": "11"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Material: Cast Brass",
+                "Face Height: 3-3/8\"",
+                "Face Width: 1\"",
+                "Strike Height: 4-7/8\"",
+                "Strike Width: 1-1/4\"",
+                "Fastener: Body: 2 ea. #8 x 3/4\" FH combo screws Strike: 2 ea. #12 - 24 x 1/2\" FH MS",
+                "Select Finish: 10B: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

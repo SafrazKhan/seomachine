@@ -1,0 +1,120 @@
+{
+    "legacy_product_id": "416920",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Emtek Modern Plate with Hermes Lever Patio Door Trim",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-15A",
+            "mpn": "EMT-15A",
+            "price": "297.0",
+            "compare_at_price": "297.0",
+            "contractor_price": "297.0",
+            "shipping_weight": "5.0",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-15A_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-15A_525.jpg?v=1717106005"
+        },
+        "text": {
+            "description_html": "<b>Emtek Modern Plate with Hermes Lever Patio Door Trim</b>\r\n<p>\r\nDoor Configuration #5.<br>\r\nEuropean Profile type Cylinder<br>\r\nTrim set for multi point patio door locks.\r\n</p>\r\n<p>\r\nModern Plate, Rectangular (1-1/2\" x 11\") with Hermes Lever\r\n interior and exterior. <br>\r\n<b>Oil Rubbed Bronze  Finish</b>\r\n</p>",
+            "seo": {
+                "title": "Emtek Modern Plate with Hermes Lever Patio Door Trim",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Patio Door Trim",
+                    "sort": "100"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Function: EMT-15A1-HER-US10B - European Cylinder Entry Set",
+                "Select Function: EMT-15A3-HER-US10B - Patio, Thumbturn Inside",
+                "Select Function: EMT-15A4-HER-US10B - Dummy, Operating Inside Lever",
+                "Select Door Handing & Door Swing: Left Hand Door, Out-swing",
+                "Select Door Handing & Door Swing: Left Hand Door, In-swing",
+                "Select Door Handing & Door Swing: Right Hand Door, Out-swing",
+                "Select Door Handing & Door Swing: Right Hand Door, In-swing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "EMT-15A1-HER-US10B - European Cylinder Entry Set",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "EMT-15A3-HER-US10B - Patio, Thumbturn Inside",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "EMT-15A4-HER-US10B - Dummy, Operating Inside Lever",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Handing & Door Swing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Left Hand Door, Out-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Left Hand Door, In-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Right Hand Door, Out-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Right Hand Door, In-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

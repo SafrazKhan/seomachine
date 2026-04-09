@@ -1,0 +1,150 @@
+{
+    "legacy_product_id": "566424",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Tapered Cabinet Door Handle, RK International CP-1622",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CP-1622",
+            "mpn": "RKI-CP-1622",
+            "price": "14.99",
+            "compare_at_price": "18.37",
+            "contractor_price": "14.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "RKI-CP-1622",
+                "Plain Tapered Pulls",
+                "Tapered Cabinet Door Handles",
+                "RK International CP-1622",
+                "traditional cabinet pulls",
+                "Traditional Cabinet Tapered Pulls",
+                "simple cabinet hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CP-1622-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CP-1622-525.jpg?v=1716424589"
+        },
+        "text": {
+            "description_html": "<b>RK International CP-1622, 3\" Tapered Cabinet Pull</b>\r\n\r\n<p>\r\nThe Tapered Cabinet Door Handle is simple yet beautiful. Its style is very current--with a finger on the pulse of contemporary design trends. Made by RK International, this plain tapered pull is available in 6 different finishes.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: <a href=\"/products/tapered-appliance-pull-rk-international-ap-ph-4804\"><b>12 Inch Tapered Door Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CP-1622 Traditional Tapered Cabinet Pull:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Length Overall: 3-15/16\"</li>\r\n<li>Width: 1/2\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Tapered Cabinet Door Handle",
+                "description": "RK International CP-1622, Tapered Cabinet Door Handle - The Tapered Cabinet Door Handle is simple yet beautiful. Its style is very current--with a finger on the pulse of contemporary design trends. Made by RK International, this plain tapered pull is available in 6 different finishes.",
+                "keywords": "RKI-CP-1622, Plain Tapered Pulls, Tapered Cabinet Door Handles, RK International CP-1622, traditional cabinet pulls, Traditional Cabinet Tapered Pulls, simple cabinet hardware,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "3"
+                },
+                {
+                    "name": "RK International Cabinet Pulls and Flush Pulls",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "42914",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "562068",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "565093",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "552950",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "559185",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "492170",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "558569",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "42152",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: B: Polished Brass",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

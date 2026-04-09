@@ -1,0 +1,162 @@
+{
+    "legacy_product_id": "974166",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Jamb Mounting Bracket for Bommer Horizontal Spring Hinges",
+            "vendor": "Bommer",
+            "status": "ARCHIVED",
+            "sku": "BOM-7805",
+            "mpn": "BOM-7805",
+            "price": "15.56",
+            "compare_at_price": "19.46",
+            "contractor_price": "14.01",
+            "shipping_weight": "1.5",
+            "tags": [
+                "Bommer 7805 jamb brackets",
+                "BOM-7805 for Bommer 7811 Floor Spring Hinges",
+                "Bommer 7813 jamb brackets",
+                "Bommer Jamb Bracket floor Hinges",
+                "Bommer 7813HD mounting brackets",
+                "Bommer Horizontal Spring Hinges"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/bommer-7805_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/bommer-7805_525.jpg?v=1716427306"
+        },
+        "text": {
+            "description_html": "<b>Bommer 7805, Jamb Mounting Bracket</b>\r\n<p>\r\nJamb mounting bracket for use with <a href=\"/products/horizontal-floor-spring-hinge-set-with-hold-open-bommer-7811\"><b>Bommer 7811</b></a>, <a href=\"/products/horizontal-floor-spring-hinge-set-bommer-7813\"><b>Bommer 7813</b></a> and <a href=\"/products/heavy-duty-floor-spring-hinge-set-bommer-7813hd\"><b>Bommer 7813HD</b></a> Horizontal Spring Hinges. Normally horizontal spring hinges are bolted to the floor. With this bracket you bolt the hinge to the bracket instead of the floor. The bracket is then screwed to the door jamb for support.\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> for Bommer 7805 Jamb Mounting Bracket\r\n<ul>\r\n<li>Material: Steel</li>\r\n<li>Length: 3-5/8\"</li>\r\n<li>Height: 2\"</li>\r\n<li>Width: 2-3/4\"</li>\r\n\r\n</ul>\r\n</p>\r\n\r\n</p>\r\n<p><b>*Sold Individually. </b>\r\n</p>",
+            "seo": {
+                "title": "Jamb Mounting Bracket for Bommer Horizontal Spring Hinges",
+                "description": "Jamb Mounting Bracket for Bommer 7811, Bommer 7813 and Bommer 7813HD Horizontal Spring Hinges. With this bracket you bolt the hinge to the bracket instead of the floor.  The bracket is screw to the door jamb.",
+                "keywords": "Bommer 7805 jamb brackets,  BOM-7805 for Bommer 7811 Floor Spring Hinges,  Bommer 7813 jamb brackets, Bommer Jamb Bracket floor Hinges, Bommer 7813HD mounting brackets, Bommer Horizontal Spring Hinges,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Steel"
+                },
+                {
+                    "key": "Length",
+                    "value": "3-5/8\""
+                },
+                {
+                    "key": "Height",
+                    "value": "2\""
+                },
+                {
+                    "key": "Width",
+                    "value": "2-3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Bommer Horizontal Spring Hinges",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "560922",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "371085",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "154364",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "560878",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "974161",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Steel",
+                "Length: 3-5/8\"",
+                "Height: 2\"",
+                "Width: 2-3/4\"",
+                "Select Finish: 600: Primed For Paint",
+                "Select Finish: 603: Zinc Plated",
+                "Select Finish: 632: Bright Brass, Clear Coated",
+                "Select Finish: 633: Satin Brass",
+                "Select Finish: 640: Oil Rubbed Bronze",
+                "Select Finish: 646: Satin Nickel",
+                "Select Finish: 652: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "600: Primed For Paint",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "603: Zinc Plated",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "632: Bright Brass, Clear Coated",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "633: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "640: Oil Rubbed Bronze ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "646: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "652: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

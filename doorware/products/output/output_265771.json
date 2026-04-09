@@ -1,0 +1,128 @@
+{
+    "legacy_product_id": "265771",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Springlatch for Weslock Interconnect Unigard Models",
+            "vendor": "Weslock",
+            "status": "ARCHIVED",
+            "sku": "WES-1465xxx",
+            "mpn": "WES-1465xxx",
+            "price": "15.9",
+            "compare_at_price": "15.9",
+            "contractor_price": "15.9",
+            "shipping_weight": "1.0",
+            "tags": [
+                "WES-1465xxx Replacement Latch Assembly for Weslock Unigard",
+                "Springlatch for Weslock Interconnect handlesets",
+                "Weslock Unigard latches",
+                "Weslock latches",
+                "door latches"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/weslock-springlatch-interconnect_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/weslock-springlatch-interconnect_525.jpg?v=1716422572"
+        },
+        "text": {
+            "description_html": "<b>Weslock Interconnect Unigard Springlatch</b>\r\n<p>\r\nSpringlatch for use with <b>Weslock Interconnected Unigard</b>  and 1300 Series Dual Keyed Handlesets only.\r\n</p>\r\n<p>\r\nNote: For non <b>Unigard</b> interconnect handlesets use: <a href=\"/products/deadlatch-for-weslock-interconnect-and-traditionale\"><b>Weslock Interconnected Deadlatch</b></a>.\r\n</p>\r\n<p>\r\nOptional 2-3/8\" or 2-3/4\" backsets (Not Adjustable).\r\n</p>\r\n<p>\r\nIncludes both square and radius corner faceplates.\r\n</p>",
+            "seo": {
+                "title": "Springlatch for Weslock Interconnect Unigard Models",
+                "description": "Deadlatch for use with Weslock Interconnected  Unigard models only. Optional 2-3/8 or 2-3/4 backsets (Not Adjustable). Includes both square and radius corner faceplates.",
+                "keywords": "WES-1465xxx Replacement Latch Assembly for Weslock Unigard, Springlatch for Weslock Interconnect handlesets, Weslock Unigard latches, Weslock latches, door latches,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Westlock Parts and Accessories",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "335504",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "185625",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "260621",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "260732",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Backset and Finish: 14652X4: 2-3/8in. Backset, Satin Brass",
+                "Select Backset and Finish: 14652XA: 2-3/8in. Backset, Antique Bras",
+                "Select Backset and Finish: 14652XD: 2-3/8in. Backset, Satin Chrome",
+                "Select Backset and Finish: 14656X4: 2-3/4in. Backset, Satin Brass",
+                "Select Backset and Finish: 14656XA: 2-3/4in. Backset, Antique Brass",
+                "Select Backset and Finish: 14656XD: 2-3/4in. Backset, Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset and Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "14652X4: 2-3/8in. Backset, Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "14652XA: 2-3/8in. Backset, Antique Bras",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "14652XD: 2-3/8in. Backset, Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "14656X4: 2-3/4in. Backset, Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "14656XA: 2-3/4in. Backset, Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "14656XD: 2-3/4in. Backset, Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

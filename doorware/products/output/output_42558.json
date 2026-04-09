@@ -1,0 +1,131 @@
+{
+    "legacy_product_id": "42558",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Ridged Stainless Steel Door Pull, Omnia 728/400",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-728/400",
+            "mpn": "OMN-728/400",
+            "price": "507.6",
+            "compare_at_price": "634.5",
+            "contractor_price": "482.22",
+            "shipping_weight": "2.0",
+            "tags": [
+                "OMN-728/400",
+                "Omnia 728/400 Stainless Steel Door Pulls",
+                "Polished Stainless steel pulls",
+                "brushed stainless Refrigerator pulls",
+                "modern appliance pulls",
+                "fridge handles",
+                "Refrigerator pulls",
+                "19-1/2 Inch Ridged Refrigerator Handles",
+                "sub-zero handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omnia-728.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/omnia-728.jpg?v=1716420823"
+        },
+        "text": {
+            "description_html": "<b>Omnia 728/400, 19-1/2 Inch Ridged Refrigerator Handle</b>\r\n\r\n<p>\r\nThe Ridged Stainless Steel Door Pull is perfect for refrigerators because its shape is great for getting a good grip, and that is important when dealing with the vacuum that some brands have. It is made out of stainless steel for a modern look. This appliance pull has a 19-1/2 inch length. Choose from satin or polished stainless steel finishes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Modern Ridged Stainless Steel Appliance Pull:\r\n<ul>\r\n<li>Material: <b>Stainless Steel</b></li>\r\n<li>Overall Length: 19-1/2</li>\r\n<li>Length (Center to Center) : 15-3/4\" </li>\r\n<li>Projection: 2-1/6\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nAvailable in 2 different Finishes:<br>\r\n<br>\r\nUS32D - Brushed Stainless Steel<br>\r\nUS32 - Polished Stainless Steel<br>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Ridged Stainless Steel Door Pull, Omnia 728/400",
+                "description": "Omnia 728/400, 19-1/2 Inch Stainless Steel Door Pull  - The Ridged Stainless Steel Door Pull is perfect for refrigerators because its shape is great for getting a good grip, and that is important when dealing with the vacuum that some brands have. It is made out of stainless steel for a modern look. This appliance pull has a 19-1/2 inch length. Choose from satin or polished stainless steel finishes.\r\n",
+                "keywords": "OMN-728/400, Omnia 728/400 Stainless Steel Door Pulls, Polished Stainless steel pulls, brushed stainless Refrigerator pulls, modern appliance pulls, fridge handles, Refrigerator pulls, 19-1/2 Inch Ridged Refrigerator Handles, sub-zero handles,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Stainless Steel"
+                },
+                {
+                    "key": "Overall Length",
+                    "value": "19-1/2"
+                },
+                {
+                    "key": "Length (Center to Center)",
+                    "value": "15-3/4\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "2-1/6\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "85"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "8508",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "8791",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "61726",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "211665",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "238468",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "238139",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Stainless Steel",
+                "Overall Length: 19-1/2",
+                "Length (Center to Center): 15-3/4\"",
+                "Projection: 2-1/6\"",
+                "Select Finish: US32D - Brushed Stainless Steel",
+                "Select Finish: US32 - Polished Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US32D - Brushed Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-728/400-US32D"
+                },
+                {
+                    "value": "US32 - Polished Stainless Steel",
+                    "price_impact": 76.08,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-728/400-US32"
+                }
+            ]
+        }
+    ]
+}

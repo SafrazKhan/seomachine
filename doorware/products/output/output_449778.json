@@ -1,0 +1,100 @@
+{
+    "legacy_product_id": "449778",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Nylon Washer for Omnia Lever/Knob Sets, Omnia 027",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "OMN-027",
+            "mpn": "OMN-027",
+            "price": "5.4",
+            "compare_at_price": "6.0",
+            "contractor_price": "5.13",
+            "shipping_weight": "0.2",
+            "tags": [
+                "Omani 027 Nylon Washer for Omnia Levers",
+                "Omnia Knob Sets",
+                "OMN-027 rose retainers",
+                "Omnia plastic threaded washers",
+                "Omnia Nylon Threaded Washers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omnia-027-nylon-washer_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/omnia-027-nylon-washer_525.jpg?v=1716424040"
+        },
+        "text": {
+            "description_html": "<b>Replacement Nylon Washer/Collar for Omnia Lever/Knob Sets</b>\r\n<p>\r\nThese are Nylon Threaded Washers that hold the rosettes onto the sub-rose. For use with <a href=\"/collections/omnia-levers\"><b>Omnia brass  Leversets</b></a> and <a href=\"/collections/omnia-knobs\"><b>Omnia brass Knobsets</b></a>. \r\n</p>\r\n<p>\r\n<b>*Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "Nylon Washer for Omnia Lever/Knob Sets, Omnia 027",
+                "description": "These are Nylon Threaded Washers that hold the rosettes onto the sub-rose. For use with Omnia brass  Leverets and Omnia brass Knobsets. ",
+                "keywords": "Omani 027 Nylon Washer for Omnia Levers, Omnia Knob Sets, OMN-027 rose retainers, Omnia plastic threaded washers, Omnia Nylon Threaded Washers"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "18"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "456427",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "297905",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "342457",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Color: 027-BLK: Black",
+                "Select Color: 027-GLD: Gold",
+                "Select Color: 027-SLVR: Silver"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Color",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "027-BLK: Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "027-GLD: Gold",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "027-SLVR: Silver",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

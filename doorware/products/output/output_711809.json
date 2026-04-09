@@ -1,0 +1,88 @@
+{
+    "legacy_product_id": "711809",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1-1/8 Inch Cylinder Ring, Don-Jo CR-2-NR",
+            "vendor": "Don-Jo",
+            "status": "ARCHIVED",
+            "sku": "DJO-CR-2-NR",
+            "mpn": "DJO-CR-2-NR",
+            "price": "3.4",
+            "compare_at_price": "4.25",
+            "contractor_price": "3.4",
+            "shipping_weight": "0.1",
+            "tags": [
+                "DJO-CR-2-NR",
+                "Don-Jo CR-2-NR",
+                "1-1/8 Inch Cylinder Rings",
+                "Cylinder Spacer Rings",
+                "Mortise Cylinder Spacer Rings",
+                "mortise trim rings"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-5255.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-5255.gif?v=1716425351"
+        },
+        "text": {
+            "description_html": "<b>Don-Jo CR-2-NR, 1-1/8 Inch Cylinder Ring</b>\r\n\r\n<p>\r\n1-1/4\" thick aluminum mortise cylinder trim /spacer rings.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Cylinder Spacer Ring:\r\n<ul>\r\n<li>Material: Aluminum</li>\r\n<li>Diameter: 1-1/8\"</li>\r\n<li>Thickness: 1-1/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "1-1/8 Inch Cylinder Ring, Don-Jo CR-2-NR",
+                "description": "Don-Jo CR-2-NR, 1-1/8 Inch Cylinder Ring - 1-1/4 inch thick aluminum mortise cylinder trim /spacer rings.",
+                "keywords": "DJO-CR-2-NR, Don-Jo CR-2-NR, 1-1/8 Inch Cylinder Rings, Cylinder Spacer Rings, Mortise Cylinder Spacer Rings, mortise trim rings,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Custom Items",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: BP - Brass Plated",
+                "Select Finish: CP - Chrome Plated",
+                "Select Finish: DU - Duro (Dark Bronze)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BP - Brass Plated",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CP - Chrome Plated",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DU - Duro (Dark Bronze)",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

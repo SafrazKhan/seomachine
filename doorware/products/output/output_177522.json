@@ -1,0 +1,50 @@
+{
+    "legacy_product_id": "177522",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Door Alarm Lock Data Transfer Module For Digital Locks AL-DTMIII",
+            "vendor": "Alarm Lock",
+            "status": "ARCHIVED",
+            "sku": "AL-DTMIII",
+            "mpn": "AL-DTMIII",
+            "price": "324.0",
+            "compare_at_price": "405.0",
+            "contractor_price": "307.0",
+            "shipping_weight": "0.0",
+            "tags": [
+                "AL-DTMIII Data Transfer Module For Digital Locks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AL-DTMIII-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AL-DTMIII-525.jpg?v=1717788417"
+        },
+        "text": {
+            "description_html": "<b>AL-DTMIII Data Transfer Module For Digital Locks</b>\r\n<br>\r\n<br>\r\nModule used to transfer program data from the PC to the lock and receive Audit Trail from the lock. This Audit Trail accessory can transfer program data for up to 200 locks.\r\n<br>",
+            "seo": {
+                "title": "Door Alarm Lock Data Transfer Module For Digital Locks AL-DTMIII",
+                "description": "AL-DTMIII Data Transfer Module For Digital Locks",
+                "keywords": "AL-DTMIII Data Transfer Module For Digital Locks"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Alarm Lock",
+                    "sort": "13"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

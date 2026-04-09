@@ -1,0 +1,162 @@
+{
+    "legacy_product_id": "389811",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Accent Lever Interior Trim Pack for Camelot Handleset",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-F59-ACC",
+            "mpn": "SCH-F59-ACC",
+            "price": "134.0",
+            "compare_at_price": "134.0",
+            "contractor_price": "134.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Accent Lever Interior Trim for Camelot Handleset"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525216.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525216.gif?v=1716423793"
+        },
+        "text": {
+            "description_html": "<b>Accent Lever Interior Trim for Camelot Handleset SCH-F59-ACC</b\r\n>",
+            "seo": {
+                "title": "Accent Lever Interior Trim Pack for Camelot Handleset",
+                "description": "Accent Lever Interior Trim for Camelot Handleset",
+                "keywords": "Accent Lever Interior Trim for Camelot Handleset"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "103"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: SCH-F59-ACC-605 - Bright Brass",
+                "Select Finish: SCH-F59-ACC-609 - Antique Brass",
+                "Select Finish: SCH-F59-ACC-613 - Oil Rubbed Bronze",
+                "Select Finish: SCH-F59-ACC-619 - Satin Nickel",
+                "Select Finish: SCH-F59-ACC-620 - Antique Pewter",
+                "Select Finish: SCH-F59-ACC-621 - Distressed Nickel",
+                "Select Finish: SCH-F59-ACC-622 - Matte Black",
+                "Select Finish: SCH-F59-ACC-625 - Bright Chrome",
+                "Select Finish: SCH-F59-ACC-626 - Satin Chrome",
+                "Select Finish: SCH-F59-ACC-716 - Aged Bronze",
+                "Select Handing: SCH-F59-ACC-RH - Right Hand",
+                "Select Handing: SCH-F59-ACC-LH - Left Hand"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SCH-F59-ACC-605 - Bright Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F59-ACC-609 - Antique Brass",
+                    "price_impact": 13.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F59-ACC-613 - Oil Rubbed Bronze",
+                    "price_impact": 28.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F59-ACC-619 - Satin Nickel",
+                    "price_impact": 13.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F59-ACC-620 - Antique Pewter",
+                    "price_impact": 16.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F59-ACC-621 - Distressed Nickel",
+                    "price_impact": 16.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F59-ACC-622 - Matte Black",
+                    "price_impact": 16.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F59-ACC-625 - Bright Chrome",
+                    "price_impact": 10.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F59-ACC-626 - Satin Chrome",
+                    "price_impact": 13.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F59-ACC-716 - Aged Bronze",
+                    "price_impact": 13.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SCH-F59-ACC-RH - Right Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F59-ACC-LH - Left Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

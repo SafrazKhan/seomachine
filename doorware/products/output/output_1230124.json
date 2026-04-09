@@ -1,0 +1,76 @@
+{
+    "legacy_product_id": "1230124",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "36-inch Surface Vertical Rod Panic Device, Deltana PDVR36",
+            "vendor": "Deltana",
+            "status": "ARCHIVED",
+            "sku": "DEL-PDVR36",
+            "mpn": "DEL-PDVR36",
+            "price": "440.44",
+            "compare_at_price": "586.5",
+            "contractor_price": "417.89",
+            "shipping_weight": "23.0",
+            "tags": [
+                "36-inch Surface Vertical Rod Panic Device",
+                "Deltana PDVR36"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-PDVR36-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-PDVR36-525.jpg?v=1769507943"
+        },
+        "text": {
+            "description_html": "<b>Deltana PDVR Surface Vertical Rod Panic Device</b>\r\n<p>Deltana's Surface Vertical Rod panic device is the perfect choice for double doors without mullions. Suitable for all doors (aluminum, hollow metal, or wood), durable enough for the most demanding applications.</p>\r\n<p>Theses vertical rod exit devices are <b>non-handed, reversible for right or left hand doors 30\" - 36\" wide</b>. \r\n</p>\r\n<p><b>Specifications: </b><ul>\r\n<li>Material: Extruded aluminum, steel, or stainless steel</li>\r\n<li>Latch: 3/4\" Throw Stainless Steel</li>\r\n<li>Deadlatch Bolt: 5/8\" Stainless Steel</li>\r\n<li>Backset: 2-3/4\" </li>\r\n<li>Strike: For 5/8\" stop plus shim for 1/2\" stop</li>\r\n<li>Projection: 2-1/2\" - 1-7/8\" dogged </li>\r\n<li>Door Thickness: 1-3/4\" standard</li>\r\n<li>Door Width: 36\", can be field sized to 30\"</li>\r\n<li>Mounting Height: Recommended installation at 40-5/16\" from finished floor to center line of push rail. </li>\r\n<li>Dogging: 1/4\" turn hex key</li></ul>",
+            "seo": {
+                "title": "36-inch Surface Vertical Rod Panic Device, Deltana PDVR36",
+                "description": "Deltana's Surface Vertical Rod panic device is the perfect choice for double doors without mullions. Suitable for all doors (aluminum, hollow metal, or wood), durable enough for the most demanding applications.",
+                "keywords": "36-inch Surface Vertical Rod Panic Device, Deltana PDVR36"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Panic Hardware",
+                    "sort": "70"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: DEL-PDVR36-AL: Aluminum",
+                "Select Finish: DEL-PDVR36-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DEL-PDVR36-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DEL-PDVR36-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

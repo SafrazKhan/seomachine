@@ -1,0 +1,135 @@
+{
+    "legacy_product_id": "250137",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Flush Door Bolt Extension Rod, Deltana EXTROD",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-EXTROD",
+            "mpn": "DEL-EXTROD",
+            "price": "4.96",
+            "compare_at_price": "6.61",
+            "contractor_price": "4.72",
+            "shipping_weight": "3.0",
+            "tags": [
+                "DEL-EXTROD Flush Door Bolt Extension Rods",
+                "Deltana EXTROD Extension Rods",
+                "DEL-12EXTROD",
+                "DEL-18EXTROD",
+                "DEL-24EXTROD",
+                "threaded rods",
+                "door bolt rods"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/flush-bolt-rods_525.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/flush-bolt-rods_525.gif?v=1717105838"
+        },
+        "text": {
+            "description_html": "<b>Deltana EXTROD, Flush Door Bolt Extension Rods</b>\r\n\r\n<p>\r\nThreaded rod are used with <a href=\"/products/solid-brass-extension-flush-bolts-12-18-and-24-inches-deltana-del-efb\"><b>Deltana Extension Flush Bolts</b></a>, <a href=\"/products/standard-store-front-door-flush-bolt-global-th1100-fb1\"><b>Aluminum Door Extension Flush Bolts</b></a> or any others that use a 1/4-20 threaded rod between the flip lever and door bolt. Available in 3 different lengths of 10-1/2\", 17-7/8\" or 24\". \r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-EXTROD.gif?v=1704354739\" width=\"600\" height=\"97\" border=\"0\" alt=\"Flush Door Bolt Extension Rod Specifications\">\r\n</p> \r\n\r\n<p>\r\n<b>Specifications</b> of the Deltana EXTROD Flush Door Bolt Extension Rod:\r\n<ul>\r\n<li>Available Length: 10-1/2\", 17-7/8\" or 24\"</li>\r\n<li>Rod Diameter: 1/4\" </li>\r\n<li>Threads per Inch: 20 </li>\r\n<li>Material: Steel</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EXTROD.pdf?v=1704262244\" target=\"new\"><b>Deltana EXTROD Dimensional  Diagram (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Flush Door Bolt Extension Rod, Deltana EXTROD",
+                "description": "Flush Door Bolt Extension Rods Deltana EXTROD - 1/4-20 threaded rods for use with Extension Flush Door Bolts. Available in 3 different lengths of 10-1/2, 17-7/8 or 24 inches. ",
+                "keywords": "DEL-EXTROD Flush Door Bolt Extension Rods, Deltana EXTROD Extension Rods, DEL-12EXTROD, DEL-18EXTROD , DEL-24EXTROD, threaded rods, door bolt rods,"
+            },
+            "specifications": [
+                {
+                    "key": "Available Length",
+                    "value": "10-1/2\", 17-7/8\" or 24\""
+                },
+                {
+                    "key": "Rod Diameter",
+                    "value": "1/4\""
+                },
+                {
+                    "key": "Threads per Inch",
+                    "value": "20"
+                },
+                {
+                    "key": "Material",
+                    "value": "Steel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Deltana Door Bolts and Security Door Guards",
+                    "sort": "61"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "6284",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "158903",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "158879",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "158906",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "162050",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "6263",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Available Length: 10-1/2\", 17-7/8\" or 24\"",
+                "Rod Diameter: 1/4\"",
+                "Threads per Inch: 20",
+                "Material: Steel",
+                "Select Rod Length: DEL-12EXTROD: 10-1/2in. Rod",
+                "Select Rod Length: DEL-18EXTROD: 17-7/8in. Rod",
+                "Select Rod Length: DEL-24EXTROD: 24in. Rod"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Rod Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DEL-12EXTROD: 10-1/2in. Rod",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DEL-18EXTROD: 17-7/8in. Rod",
+                    "price_impact": 0.86,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DEL-24EXTROD: 24in. Rod",
+                    "price_impact": 2.33,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "legacy_product_id": "1179845",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Utica Lever Interior Trim for Woodward Cylinder Handleset, Weslock 06204",
+            "vendor": "Weslock",
+            "status": "ARCHIVED",
+            "sku": "WES-06204",
+            "mpn": "WES-06204",
+            "price": "150.0",
+            "compare_at_price": "189.0",
+            "contractor_price": "150.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Interior Utica Lever for  Woodward or Belmont Handlesets",
+                "Weslock Single Cylinder Handleset Utica Lever Interior Trim",
+                "WES-06204",
+                "Weslock 06204"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/WES-06200-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/WES-06200-5251.jpg?v=1716428801"
+        },
+        "text": {
+            "description_html": "<b>Weslock Single Cylinder Handleset Utica Lever Interior Trim</b>\r\n\r\n<p>\r\nThis is a single cylinder interior time set to be used with the <a href=\"/products/modern-woodward-i-single-cylinder-handleset-weslock-6681-6200\">Weslock Woodward  Handleset</a>. It comes packaged as the interior trim only with the Utica Lever.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Interior Utica Lever for Woodward  Handlesets:\r\n<ul>\r\n<li>Length: 10-1/8\"</li>\r\n<li>Width: 2-3/4\"</li>\r\n<li>Projection: 2-3/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Special Ordered Item. NO RETURNS.</b>\r\n</p>",
+            "seo": {
+                "title": "Utica Lever Interior Trim for Woodward  Single Cylinder Handleset",
+                "description": "This is a single cylinder interior time set to be used with the Weslock Woodward  Handleset. It comes packaged as the interior trim only with the Utica Lever.",
+                "keywords": "Interior Utica Lever for  Woodward or Belmont Handlesets, Weslock Single Cylinder Handleset Utica Lever Interior Trim, WES-06204, Weslock 06204"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Discontinued Weslock",
+                    "sort": "49"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "609139",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "12436",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "26212",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "26076",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "990330",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: N: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "N: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

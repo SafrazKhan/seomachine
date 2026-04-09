@@ -1,0 +1,208 @@
+{
+    "legacy_product_id": "178143",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "2-3/4 Inch Decorative Reed Rosette, First Impressions BST03002R",
+            "vendor": "First Impressions",
+            "status": "ACTIVE",
+            "sku": "FII-BST03002R",
+            "mpn": "FII-BST03002R",
+            "price": "36.0",
+            "compare_at_price": "45.0",
+            "contractor_price": "34.2",
+            "shipping_weight": "0.3",
+            "tags": [
+                "FII-833RR Large Round Reed Rosettes",
+                "Large Decorative Reed Rosettes",
+                "First Impressions 833RR Round Reed Style Rosette for Door Pulls",
+                "Large Round Boston 3R Reed Rosettes",
+                "First Impressions BST03002R",
+                "FII-BST03002R"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-BST03r-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-BST03r-525.jpg?v=1716421694"
+        },
+        "text": {
+            "description_html": "<b>First Impressions BST03002R, Decorative Round Reed Rosette</b>\r\n\r\n<p>\r\nThis large 2-3/4\" round rosette can be added to door pulls to make them even more dramatic and decorative. They are supplied standard with <a href=\"/products/castle-door-pull-first-impressions-cst1rddrr\"><b>Decorative Reed Door Pull</b></a> and <a href=\"/products/traditional-rope-style-door-pull-fii-833p-30-us15\"><b>Decorative Rope Door Pull</b></a>. \r\n</p>\r\n\r\n<p>\r\nAvailable in many different finishes to compliment and match your door pulls. The highly detailed design is impeccably crafted from solid forged brass. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the First Impressions BST03002R Boston Reed Rosette:\r\n<ul>\r\n<li>Material: Solid Forged Brass</li>\r\n<li>Overall Diameter: 2-3/4\"</li>\r\n<li>Inside Hole Diameter: 3/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nA door pull typically has at least two mounting points, so you need to order a rosette for each mount point.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "Large Decorative Reed Rosette",
+                "description": "This large 2-3/4 inch round rosette can be added to door pulls to make them even more dramatic and decorative. Available in many different finishes to compliment and match your door pulls, the highly detailed design of the Large Decorative Reed Rosette is impeccably crafted from solid forged brass. ",
+                "keywords": "FII-833RR Large Round Reed Rosettes, Large Decorative Reed Rosettes, First Impressions 833RR Round Reed Style Rosette for Door Pulls, Large Round Boston 3R Reed Rosettes, First Impressions BST03002R, FII-BST03002R,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Forged Brass"
+                },
+                {
+                    "key": "Overall Diameter",
+                    "value": "2-3/4\""
+                },
+                {
+                    "key": "Inside Hole Diameter",
+                    "value": "3/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "First Impressions Door Pulls",
+                    "sort": "300"
+                },
+                {
+                    "name": "Cabinet and Furniture Pulls and Knobs",
+                    "sort": "2"
+                },
+                {
+                    "name": "Cabinet Knob and Pull Rosettes",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "247851",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "247857",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "247830",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "247809",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "247742",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "177058",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Forged Brass",
+                "Overall Diameter: 2-3/4\"",
+                "Inside Hole Diameter: 3/8\"",
+                "Select Finish: PLB: Polished Brass",
+                "Select Finish: SNB: Satin Brass",
+                "Select Finish: ATB: Antique Brass",
+                "Select Finish: AGB: Aged Brass",
+                "Select Finish: PLN: Polished Nickel",
+                "Select Finish: SNN: Satin Nickel",
+                "Select Finish: PLC: Polished Chrome",
+                "Select Finish: ORB: Oil Rubbed Bronze",
+                "Select Finish: MBK: Matte Black",
+                "Select Finish: DBZ: Duro Bronze",
+                "Select Finish: LTH: Lithonia"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PLB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Polished"
+                },
+                {
+                    "value": "SNB: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ATB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Antique"
+                },
+                {
+                    "value": "AGB: Aged Brass",
+                    "price_impact": 40.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PLN: Polished Nickel",
+                    "price_impact": 40.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SNN: Satin Nickel ",
+                    "price_impact": 40.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Satin"
+                },
+                {
+                    "value": "PLC: Polished Chrome",
+                    "price_impact": 40.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Polished"
+                },
+                {
+                    "value": "ORB: Oil Rubbed Bronze",
+                    "price_impact": 40.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Oil"
+                },
+                {
+                    "value": "MBK: Matte Black ",
+                    "price_impact": 40.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Satin"
+                },
+                {
+                    "value": "DBZ: Duro Bronze",
+                    "price_impact": 40.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Duro"
+                },
+                {
+                    "value": "LTH: Lithonia",
+                    "price_impact": 64.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

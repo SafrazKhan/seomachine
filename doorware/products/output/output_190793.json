@@ -1,0 +1,110 @@
+{
+    "legacy_product_id": "190793",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Heavy Duty Hold Open Arm for American Eagle 3100, PDQ 999016",
+            "vendor": "PDQ",
+            "status": "ACTIVE",
+            "sku": "PDQ-999016",
+            "mpn": "PDQ-999016",
+            "price": "145.99",
+            "compare_at_price": "194.0",
+            "contractor_price": "130.95",
+            "shipping_weight": "3.0",
+            "tags": [
+                "PDQ-999016",
+                "PDQ-319016 Heavy Duty Hold Open Closer Arms",
+                "American Eagle 319016 Heavy Duty Hold Open Arm for American Eagle 3100 series",
+                "PDQ 319016 Door saver arm",
+                "PDQ 999016 Parallel Hold Open Arms"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AE-319016_525.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AE-319016_525.gif?v=1711365193"
+        },
+        "text": {
+            "description_html": "<b>PDQ Door Saver, Heavy Duty Hold Open Arm</b>\r\n<p>\r\nFits <a href=\"/products/light-commercial-surface-mount-closer-pdq-3100-bcpa\"><b>American Eagle 3100</b></a> and  <a href=\"/products/light-commercial-ada-compliant-surface-mount-closer-pdq-3101-bcpa\"><b>American Eagle 3101</b></a> Door Closers. \r\n</p>\r\n<p><b>Parallel Arm Mount Only</b> Door closer must be mounted on the push side of the door.\r\n</p>\r\n<p>\r\nAlso available: <a href=\"/products/friction-hold-open-arm-for-american-eagle-3100-pdq-999002\"><b>PDQ Friction Hold Open Closer Arm</b></a>.\r\n</p>\r\n<p>Heavy duty rigid arm assembly and soffit plate with field reversible dead stop. Arm incorporates a thumb turn hold open function. Hold open function can be deactivated with thumb turn handle. \r\n</p>\r\n<p>\r\nBuilt in closer arm dead stop protects the closer, door and frame from damage when the door is swung open by the wind. The dead stop is reversible for use on left or right hand doors.\r\n</p>\r\n<p>\r\nAvailable in Aluminum or Dark Bronze finish.\r\n</p>",
+            "seo": {
+                "title": "Heavy Duty Hold Open Arm for American Eagle 3100",
+                "description": "PDQ American Eagle Door Saver  Heavy Duty Hold Open Arm for American Eagle 3100 series door closers, Parallel Arm Mount Only. Available in Aluminum or Dark Bronze finish.",
+                "keywords": "PDQ-999016, PDQ-319016 Heavy Duty Hold Open Closer Arms, American Eagle 319016 Heavy Duty Hold Open Arm for American Eagle 3100 series, PDQ 319016 Door saver arm, PDQ 999016 Parallel Hold Open Arms,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "American Eagle 3100",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "190791",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "190833",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "190257",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "222898",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "191061",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "191064",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "191074",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 689: Aluminum",
+                "Select Finish: 695: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "689: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-319016-689"
+                },
+                {
+                    "value": "695: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-319016-695"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "legacy_product_id": "572398",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4 x 4 x Square Corners Commercial Spring Hinge",
+            "vendor": "Global",
+            "status": "ARCHIVED",
+            "sku": "GLO-CPS4040-USP",
+            "mpn": "GLO-CPS4040-USP",
+            "price": "18.68",
+            "compare_at_price": "25.65",
+            "contractor_price": "17.73",
+            "shipping_weight": "1.0",
+            "tags": [
+                "GLO-CPS4545 4 Inch Commercial Spring Hinges",
+                "4 x 4 x Square Corners Commercial Spring Hinges",
+                "4 1/2 inch Spring Hinge",
+                "4 1/2 inches Single Action spring door hinges",
+                "UL Listed R18063 Fired Rated"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b> Commercial 4\" x 4\" x Square Corners Single Action Spring Hinge</b>\r\n<p>\r\n<p>\r\nPackaged  completed with One Single Action Spring Door Hinge, Allen Adjusting Wrench, Locking Pins,  plus #12 x 1-1/4\" Wood  Screws and #12- x 1/2\" Machine Screws.  Utilizes template screw hole pattern for use with wood or metal doors. \r\n</p>\r\n<p>\r\n<b>UL Listed</b> (R18063) Fired Rated. The included Allen Wrench Tool is use to adjust spring tension.  The Locking Pin holds the Spring in tension after it is set. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b> for Commercial Spring Door Hinge\r\n<ul>\r\n<li>Height: 4\"</li>\r\n<li>Width: 4\"</li>\r\n<li>Corners: Square Corners</li>\r\n<li>Thickness: 0.129\"</li>\r\n<li>Standard Template Hole Pattern</li>\r\n<li>Wood Screws: #12 x 1-1/4\"</li>\r\n<li>Machine Screws: #12-24 x 1/2\"</li>\r\n<li>Hinge Material: Durable Steel</li>\r\n<li>UL Listed, Fire Rated</li>\r\n<li>Available Finishes: 5</li>\r\n</ul>\r\n</p>\r\n\r\n<p><b>*Sold Individually. </b>\r\n</p>",
+            "seo": {
+                "title": "4 x 4 x Square Corners Commercial Spring Hinge",
+                "description": "Commercial Single Action Spring Hinge. 4 x 4 x Square Corners, 0.129 Thick (Gauge), Packaged complete with 1 Single Action Hinge, Allen Wrench, Locking Pins, Box with Wood  Screws and machine screws. Available in 5 different finishes.",
+                "keywords": "GLO-CPS4545 4 Inch Commercial Spring Hinges, 4 x 4 x Square Corners Commercial Spring Hinges, 4 1/2 inch Spring Hinge, 4 1/2 inches Single Action spring door hinges, UL Listed R18063 Fired Rated,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Global Discontinued",
+                    "sort": "26"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: GLO-CPS4040-USP - Primer",
+                "Select Finish: GLO-CPS4040-US26D - Satin Chrome",
+                "Select Finish: GLO-CPS4040-US4 - Brushed Brass",
+                "Select Finish: GLO-CPS4040-US3 - Polished Brass",
+                "Select Finish: GLO-CPS4040-US10B - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GLO-CPS4040-USP - Primer",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GLO-CPS4040-US26D - Satin Chrome",
+                    "price_impact": 0.45,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GLO-CPS4040-US4 - Brushed Brass",
+                    "price_impact": 0.45,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GLO-CPS4040-US3 - Polished Brass",
+                    "price_impact": 0.45,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GLO-CPS4040-US10B - Oil Rubbed Bronze",
+                    "price_impact": 0.45,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

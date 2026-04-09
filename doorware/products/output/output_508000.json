@@ -1,0 +1,199 @@
+{
+    "legacy_product_id": "508000",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1-1/2 Inch Diameter Teak Door Handle, First Impressions CFW-Teak1.5",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-CFW-Teak1.5",
+            "mpn": "FII-CFW-Teak1.5",
+            "price": "451.0",
+            "compare_at_price": "564.0",
+            "contractor_price": "428.55",
+            "shipping_weight": "15.0",
+            "tags": [
+                "FII-CFW-Teak1.5 1-1/2 Diameter Teak Door Handles",
+                "1.5 inch Teak door Handles",
+                "First Impressions CFW-Teak wood handles",
+                "First Impressions CF-W Teak wood handles",
+                "First Impressions  door Pulls",
+                "teak wood door handles",
+                "wooden door handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/cfw-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/cfw-525.jpg?v=1716424261"
+        },
+        "text": {
+            "description_html": "<b>First Impressions CFW-Teak1.5 1-1/2\" Diameter Teak Door  Handle</b>\r\n<p>\r\nFrom the new First Impressions <a href=\"/collections/wood-door-pulls\">Teak Wood collection</a> this 1-1/2\" diameter  door handle features the warmth and beauty of solid Teak wood. Hand made in the USA by the expert craftsmen at First Impressions International. \r\n</p>\r\n<p>\r\nTeak is used for these door pulls because of its hard, strong, durable characteristics. It is also resistant to insects and warping, even when exposed directly to harsh weather, making it the ideal choice for exterior doors.\r\n</p>\r\n<p>\r\nThe Teak handle is unstained in its natural color. Staining is not required. Great door pull handle for commercial doors or residential doors. \r\n</p>\r\n<p>\r\n<b>Specifications</b> for First Impressions CFW-Teak1.5 Teak  Door Handle\r\n<ul>\r\n<li>Pull Handle Diameter: 1-1/2\"</li>\r\n<li>Overall Length:  72\"</li>\r\n<li>Pull Handle Material: Solid Teak</li>\r\n<li>Mounting Bracket Material: Satin Stainless Steel</li>\r\n</ul>\r\n</p>\r\n<p>\r\n\r\n<p>\r\nNote: Hand made to order in the USA The Center to Center Mounting distance can be adjusted for your specific application.  Please <a href=\"/pages/contact\"><b>Contact Us</b></a> with your requirements.\r\n</p>\r\n<p>\r\nPackaged Standard with Thrubolt mounting (Bolts through the door). Optional Surface mounting or Back to Back mounting available (Pulls bolt to each other - Requires 2 door pulls).\r\n</p>\r\n<p>\r\n<b>*Sold individually.</b>\r\n</p>",
+            "seo": {
+                "title": "1-1/2 Inch Diameter Teak Door Handle, First Impressions CFW-Teak1.5",
+                "description": "First Impressions CFW-Teak1.5 1-1/2 Inch Diameter Teak  Door Handles.  From the new First Impressions Teak wood collection this contemporary styled appliance door handle features the warmth and beauty of solid Teak wood. Hand made in the USA by the expert craftsmen at First Impressions International. ",
+                "keywords": "FII-CFW-Teak1.5 1-1/2 Diameter Teak Door Handles, 1.5 inch Teak door Handles, First Impressions CFW-Teak wood handles, First Impressions CF-W Teak wood handles,  First Impressions  door Pulls, teak wood door handles, wooden door handles,"
+            },
+            "specifications": [
+                {
+                    "key": "Pull Handle Diameter",
+                    "value": "1-1/2\""
+                },
+                {
+                    "key": "Overall Length",
+                    "value": "72\""
+                },
+                {
+                    "key": "Pull Handle Material",
+                    "value": "Solid Teak"
+                },
+                {
+                    "key": "Mounting Bracket Material",
+                    "value": "Satin Stainless Steel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Custom-Misc-Items",
+                    "sort": "37"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Pull Handle Diameter: 1-1/2\"",
+                "Overall Length: 72\"",
+                "Pull Handle Material: Solid Teak",
+                "Mounting Bracket Material: Satin Stainless Steel",
+                "Select Door Material: Wood / Fiberglass",
+                "Select Door Material: Glass",
+                "Select Door Material: Metal",
+                "Select Mounting Choice: Thrubolt Mounted",
+                "Select Mounting Choice: Surface Mounted",
+                "Select Mounting Choice: Back to Back Mounted (Requires 2 Pulls)",
+                "Select Door Thickness Range: 1/4in. to 1/2in.",
+                "Select Door Thickness Range: 5/8in. to 1in.",
+                "Select Door Thickness Range: 1-1/8in. to 1-1/2in.",
+                "Select Door Thickness Range: 1-5/8in. to 2in.",
+                "Select Door Thickness Range: 2-1/8 to 2-1/2in.",
+                "Select Door Thickness Range: 2-5/8in. to 3in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Material",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Wood / Fiberglass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Glass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Metal",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Mounting Choice",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Thrubolt Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Thrubolt"
+                },
+                {
+                    "value": "Surface Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Surface"
+                },
+                {
+                    "value": "Back to Back Mounted (Requires 2 Pulls)",
+                    "price_impact": 32.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Back"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness Range",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1/4in. to 1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5/8in. to 1in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-1/8in. to 1-1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-5/8in. to 2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-1/8 to 2-1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-5/8in. to 3in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

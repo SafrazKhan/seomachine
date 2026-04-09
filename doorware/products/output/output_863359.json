@@ -1,0 +1,97 @@
+{
+    "legacy_product_id": "863359",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Salem Collection with Chancellor Lever, Brass Accents D07-L150x-CHN",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "BRA-D07-L150x-CHN",
+            "mpn": "BRA-D07-L150x-CHN",
+            "price": "120.0",
+            "compare_at_price": "149.0",
+            "contractor_price": "120.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Brass Accents D07-L150x-CHN",
+                "Chancellor Lever with Salem Rose",
+                "BRA-D07-L150x-CHN",
+                "Chancellor Leversets",
+                "Chancellor Lever with Salem Roses",
+                "scroll levers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BRA-BRA-D07-L150x-CHA-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BRA-BRA-D07-L150x-CHA-525.jpg?v=1716426138"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents D07-L150x-CHN, Passage Chancellor Leverset</b>\r\n\r\n<p>\r\nThe Salem Collection with Chancellor Lever is a passage lever, which means it latches but has no locking mechanism. Passage function levers are most often used on hall or closet doors. The graceful in the way the Chancellor Lever gently spirals gives the illusion of a continuous line from tip to rose, making this the perfect handle for traditional homes.\r\n</p>\r\n\r\n<p>\r\n<b>Passage (hall or closet):</b> For doors that don't need locking. Latches but does not lock.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Chancellor Lever with Salem Rose:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Lever Length: 3-7/8\"</li>\r\n<li>Rosette Diameter: 2-5/8\"</li>\r\n<li>Backset: 2\"</li>\r\n<li>Concealed mounting on Rosette</li>\r\n<li>Sold as complete set with all mounting hardware</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Salem Collection with Chancellor Lever",
+                "description": "The Salem Collection with Chancellor Lever is a passage lever, which means it latches but has no locking mechanism. Passage function levers are most often used on hall or closet doors. The graceful in the way the Chancellor Lever gently spirals gives the illusion of a continuous line from tip to rose, making this the perfect handle for traditional homes.",
+                "keywords": "Brass Accents D07-L150x-CHN, Chancellor Lever with Salem Rose, BRA-D07-L150x-CHN, Chancellor Leversets, Chancellor Lever with Salem Roses, scroll levers,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "BRA-discontinued-custom",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "178162",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "479277",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "167505",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "617171",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "649989",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "650803",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: Antique Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

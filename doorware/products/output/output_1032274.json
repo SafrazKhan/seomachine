@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "1032274",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "PDQ 5300 and 5500 Series Door Closer Drop Plate for Regular Arm, PDQ 559008",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PDQ-559008",
+            "mpn": "PDQ-559008",
+            "price": "47.18",
+            "compare_at_price": "58.98",
+            "contractor_price": "47.18",
+            "shipping_weight": "2.0",
+            "tags": [
+                "PDQ 5300 and 5500 Series Door Closer Drop Plate for Regular Arm",
+                "PDQ-559008",
+                "PDQ 559008",
+                "Drop Plate for PDQ 5300 and 5500 Series Door Closers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDQ-559008-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PDQ-559008-525.jpg?v=1716427785"
+        },
+        "text": {
+            "description_html": "<b>Drop Plate for PDQ 5300 and 5500 Series Door Closer</b>\r\n\r\n<p>\r\nFor use when mounting door closer on the <b>Pull Side</b> of a door. For use with a regular door closer arm. For use with PDQ's 5300 Series Door Closer and <a href=\"/products/ada-compliant-commercial-grade-surface-mount-closer-american-eagle-5501-bcpa\"><b>5500 Series Door Closer</b></a>.\r\n\r\n<p>\r\n<b>Specifications:</b> for PDQ 559008 Drop Plate\r\n<ul>\r\n<li>Total Length: 12-1/2\"</li>\r\n<li>Vertical Mounting Holes: 3/4\"</li>\r\n<li>Packaged with installation screws</li>\r\n</ul>\r\n</p>\r\n\r\n<p><i>Sold Individually.<i></p>",
+            "seo": {
+                "title": "PDQ 5300 and 5500 Series Door Closer Drop Plate for Regular Arm",
+                "description": "For use when mounting door closer on thePull Side of a door. For use with a regular door closer arm. For use with PDQ's 5100 Series Door Closer and 5500 Series Door Closer.\r\n",
+                "keywords": "PDQ 5300 and 5500 Series Door Closer Drop Plate for Regular Arm, PDQ-559008, PDQ 559008, Drop Plate for PDQ 5300 and 5500 Series Door Closers"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Door Closer Accessories",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "427909",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "232302",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "443653",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "264828",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "264861",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "619905",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "191074",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 689: Aluminum",
+                "Select Finish: 695: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "689: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "695: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

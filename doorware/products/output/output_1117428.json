@@ -1,0 +1,143 @@
+{
+    "legacy_product_id": "1117428",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Door Closer Friction Hold Open Arm, Global HOA-1245-N",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-HOA-1245-N",
+            "mpn": "GLO-HOA-1245-N",
+            "price": "67.2",
+            "compare_at_price": "96.0",
+            "contractor_price": "60.48",
+            "shipping_weight": "3.5",
+            "tags": [
+                "Door Closer Friction Hold Open Arm",
+                "Global HOA-1245-N Hold Open Arms",
+                "Global Door Controls HOA-1245 hold-open arms",
+                "11 mm square shaft",
+                "12mm shaft",
+                "7/16 inch shafts",
+                "friction type arms",
+                "Global Door Controls hold open arms",
+                "hold open closers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/HOA-1245-N_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/HOA-1245-N_525.jpg?v=1716428292"
+        },
+        "text": {
+            "description_html": "<b>Friction Type Hold-Open Arm Assembly</b>\r\n<p>\r\nStandard duty friction type hold-open door closer arm for regular, top jamb or parallel arm mounting.  Includes parallel mounting bracket.</p><p>\r\n<b>Note: </b>For Hold Open to function properly when regular or top jamb mounting the door closer, door must open a minimum of 90 degrees.\r\n</p>\r\n<p>\r\nFor use with Global Door Controls TC200 series, TC2200 series, TC400 series, TC500 series, TC600 series or any door closer with a 11mm square shaft.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> Global  HOA-1245N Hold Open Closer Arm\r\n<ul>\r\n<li>Arm Length: 12\"</li>\r\n<li>Forearm Length: Min: 10-1/4\" Max: 15-1/4\"</li>\r\n<li>Thread: 10mm 1.25</li>\r\n<li>Closer Shaft Mounting Hole: 11mm (7/16\")  Square</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Door Closer Friction Hold Open Arm, Global HOA-1245-N",
+                "description": "Global Door Controls HOA-1245-N - Global Door Controls Friction hold open door closer Arm, available in aluminum or dark bronze (duro) finish. Fits any closer with 11 mm square shaft. For regular, top jamb or parallel arm mounting.",
+                "keywords": "Door Closer Friction Hold Open Arm, Global HOA-1245-N Hold Open Arms, Global Door Controls HOA-1245 hold-open arms, 11 mm square shaft, 12mm shaft, 7/16 inch shafts, friction type arms, Global Door Controls hold open arms, hold open closers,"
+            },
+            "specifications": [
+                {
+                    "key": "Arm Length",
+                    "value": "12\""
+                },
+                {
+                    "key": "Forearm Length",
+                    "value": "Min: 10-1/4\" Max: 15-1/4\""
+                },
+                {
+                    "key": "Thread",
+                    "value": "10mm 1.25"
+                },
+                {
+                    "key": "Closer Shaft Mounting Hole",
+                    "value": "11mm (7/16\")  Square"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Commercial Door Closers",
+                    "sort": "105"
+                },
+                {
+                    "name": "Door Closer Accessories",
+                    "sort": "9"
+                },
+                {
+                    "name": "Global TC200, TC400, TC500, TC600 Series",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "222898",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "232302",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "233110",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "538718",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "285720",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "222892",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "221509",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Arm Length: 12\"",
+                "Forearm Length: Min: 10-1/4\" Max: 15-1/4\"",
+                "Thread: 10mm 1.25",
+                "Closer Shaft Mounting Hole: 11mm (7/16\")  Square",
+                "Select Finish: AL: Aluminum",
+                "Select Finish: DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AL"
+                },
+                {
+                    "value": "DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DU"
+                }
+            ]
+        }
+    ]
+}

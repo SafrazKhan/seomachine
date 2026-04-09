@@ -1,0 +1,141 @@
+{
+    "legacy_product_id": "22154",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Grade 2 Standard Duty Commercial Door Deadbolt DB2000 Tell Manufacturing",
+            "vendor": "Tell mfg",
+            "status": "ARCHIVED",
+            "sku": "TEL-DB2000",
+            "mpn": "TEL-DB2000",
+            "price": "31.95",
+            "compare_at_price": "71.0",
+            "contractor_price": "30.35",
+            "shipping_weight": "6.0",
+            "tags": [
+                "DB2000",
+                "Tell Manufacturing",
+                "Standard Duty",
+                "Commercial",
+                "Grade 2",
+                "Deadbolt db2000 tell manufacturing standard duty commercial grade 2 deadbolt"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>DB2000 Tell Manufacturing Standard Duty Commercial Grade 2 Deadbolt</b>\r\n<br>\r\n<br>\r\n*Certification: ANSI A156.5, Grade 2, 150,000 cycles <br>\r\n*Chassis: Tubular, steel <br>\r\n*Deadbolt: 1\" x 2-1/4\", square corner faceplate, 1\" housing diameter (stainless steel), 1\" throw, roller bar (added security for hacksaw or reciprocating blade cutting) <br>\r\n*Backset: Adjustable 2-3/8\" to 2-3/4\" <br>\r\n*Strike:  1-1/8\" x 2-3/4\", square corner faceplate<br>\r\n*Door Range: 1-3/8\" - 1-3/4\" <br>\r\n*Door Preparation: 2-1/8\" diameter for bore, 1\" diameter for bolt. Fits standard 161 door prep. <br>\r\n<br>\r\n<br>",
+            "seo": {
+                "title": "Grade 2 Standard Duty Commercial Door Deadbolt DB2000 Tell Manufacturing",
+                "description": "DB2000 Tell Manufacturing Standard Duty Commercial Grade 2 Deadbolt\r\n\r\nCertification: ANSI A156.5, Grade 2, 150,000 cycles \r\n\r\nChassis: Tubular, steel \r\n\r\nDeadbolt: 1 x 2-1/4, square corner faceplate, 1 housing diameter (stainless steel), 1 throw, roller bar (added security for hacksaw or reciprocating blade cutting) \r\n\r\nBackset: Adjustable 2-3/8 to 2-3/4 \r\n\r\nStrike:  1-1/8 x 2-3/4, square corner faceplate\r\n \r\nDoor Range: 1-3/8 - 1-3/4 \r\n\r\nDoor Preparation: 2-1/8 diameter for bore, 1 diameter for bolt. Fits standard 161 door prep. \r\n\r\n\r\nPlease ",
+                "keywords": "DB2000, Tell Manufacturing, Standard Duty, Commercial ,Grade 2, Deadbolt db2000 tell manufacturing standard duty commercial grade 2 deadbolt"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Tell mfg",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Function: TEL-DB2051 - Single Cylinder (keyed on one side, turnbolt on the other)",
+                "Select Function: TEL-DB2041 - Double Cylinder (keyed on both sides)",
+                "Select Finish: US32D - Stainless",
+                "Select Finish: US3 - Bright Brass",
+                "Keying (Select Keyed Alike or Keyed Different): Non Keyed",
+                "Keying (Select Keyed Alike or Keyed Different): Keyed Different",
+                "Keying (Select Keyed Alike or Keyed Different): Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TEL-DB2051 - Single Cylinder (keyed on one side, turnbolt on the other)",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "TEL-DB2051"
+                },
+                {
+                    "value": "TEL-DB2041 - Double Cylinder (keyed on both sides)",
+                    "price_impact": 7.65,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "TEL-DB2041"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US32D - Stainless",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US32D"
+                },
+                {
+                    "value": "US3 - Bright Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US3"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying (Select Keyed Alike or Keyed Different)",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Non Keyed",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Non"
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 4.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                }
+            ]
+        }
+    ]
+}

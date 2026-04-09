@@ -1,0 +1,240 @@
+{
+    "legacy_product_id": "1170101",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Knob by Knob & Lever by Lever Mortise Box, Emtek 3380",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-3380",
+            "mpn": "EMT-3380",
+            "price": "281.0",
+            "compare_at_price": "281.0",
+            "contractor_price": "281.0",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Knob by Knob & Lever by Lever Mortise Box",
+                "Emtek 3380",
+                "EMT-3380",
+                "Emtek Lever by Lever Mortise Box"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525205.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525205.gif?v=1716428753"
+        },
+        "text": {
+            "description_html": "<b>Emtek 3380 Knob by Knob & Lever by Lever Mortise Box</b>\r\n\r\n\r\n<p>\r\nEmtek 3380 Knob by Knob & Lever by Lever Mortise Box is an ANSI F20 Heavy Duty Lock Body which can be toggled to lock automatically upon closing the door. Choose 2-1/2 inch backset or 2-3/4 inch backset and handing. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Emtek Mortise Lock Body\r\n<ul>\r\n<li>Function: F20 Function</li>\r\n<li>Backset: 2-1/2\" or 2-3/4\"</li>\r\n<li>Handed</li>\r\n</ul>\r\n</p>\r\n\r\n<P>\r\n<i>Package includes face plate, trim plate, and strike plate. Mortise cylinder not included.</i>\r\n</p>",
+            "seo": {
+                "title": "Emtek Lever by Lever Mortise Box",
+                "description": "Emtek 3380 Knob by Knob & Lever by Lever Mortise Box is an ANSI F20 Heavy Duty Lock Body which can be toggled to lock automatically upon closing the door.",
+                "keywords": "Knob by Knob & Lever by Lever Mortise Box, Emtek 3380, EMT-3380, Emtek Lever by Lever Mortise Box"
+            },
+            "specifications": [
+                {
+                    "key": "Function",
+                    "value": "F20 Function"
+                },
+                {
+                    "key": "Backset",
+                    "value": "2-1/2\" or 2-3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "31"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "193220",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "460103",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "232931",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "184885",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Function: F20 Function",
+                "Backset: 2-1/2\" or 2-3/4\"",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US15A: Antique Nickel",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US7: French Antique",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: MB: Medium Bronze",
+                "Select Finish: TWB: Tumbled White Bronze",
+                "Select Backset: 2-1/2in. Backset",
+                "Select Backset: 2-3/4in. Backset",
+                "Select Door Handing & Door Swing: Left Hand Door, Out-swing",
+                "Select Door Handing & Door Swing: Left Hand Door, In-swing",
+                "Select Door Handing & Door Swing: Right Hand Door, Out-swing",
+                "Select Door Handing & Door Swing: Right Hand Door, In-swing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US7: French Antique",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MB: Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TWB: Tumbled White Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2-1/2in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Handing & Door Swing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Left Hand Door, Out-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Left Hand Door, In-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Right Hand Door, Out-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Right Hand Door, In-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "legacy_product_id": "194420",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Contemporary Stainless Steel Wall Mount Door Stop, AHI-SIG727",
+            "vendor": "AHI",
+            "status": "ACTIVE",
+            "sku": "AHI-SIG727",
+            "mpn": "AHI-SIG727",
+            "price": "31.99",
+            "compare_at_price": "45.0",
+            "contractor_price": "29.93",
+            "shipping_weight": "0.5",
+            "tags": [
+                "AHI SIG727 Contemporary Stainless Steel Wall Mount Door Stops",
+                "AHI-SIG727 2 inch stainless door stops",
+                "727/50",
+                "727/80",
+                "727"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AHI-SIG727_5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-SIG727_5251.jpg?v=1716421881"
+        },
+        "text": {
+            "description_html": "<b>Contemporary Stainless Steel Wall Mount Door Stop</b>\r\n\r\n<p>\r\nSolid stainless steel with black bumper tip. Easy to install. Remove the bumper tip and screw directly to a wood surface or to the included anchor. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the AHI SIG727 Contemporary Door Stops:\r\n<ul>\r\n<li>Material: Stainless Steel</li>\r\n<li>Base Diameter: 2\" (50 mm)</li>\r\n<li>Shaft Diameter: 7/8\" (22 mm)</li>\r\n<li>Bumper Tip: Black</li>\r\n<li>Packaged with Mounting Hardware</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nAvailable in 2 different lengths:\r\n<ul>\r\n<li>AHI-SIG727/50: Total Length: 2\" (50 mm)</li>\r\n<li>AHI-SIG727/85: Total Length: 3.3\" (85 mm)</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Contemporary Stainless Steel Wall Mount Door Stop, AHI-SIG727",
+                "description": "Available in 2 lengths in either polished of satin stainless finish. Contemporary Stainless Steel Wall Mount Door Stops.",
+                "keywords": "AHI SIG727 Contemporary Stainless Steel Wall Mount Door Stops, AHI-SIG727 2 inch stainless door stops, 727/50, 727/80, 727,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Stainless Steel"
+                },
+                {
+                    "key": "Base Diameter",
+                    "value": "2\" (50 mm)"
+                },
+                {
+                    "key": "Shaft Diameter",
+                    "value": "7/8\" (22 mm)"
+                },
+                {
+                    "key": "Bumper Tip",
+                    "value": "Black"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "AHI Stainless Steel Door Stops",
+                    "sort": "7"
+                },
+                {
+                    "name": "Door Stops, Bumpers, and Holders",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "196666",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "211711",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "211665",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "211713",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "7709",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "142697",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "196668",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "197076",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "196664",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Material: Stainless Steel",
+                "Base Diameter: 2\" (50 mm)",
+                "Shaft Diameter: 7/8\" (22 mm)",
+                "Bumper Tip: Black",
+                "Select Finish: 630: Satin Stainless Steel",
+                "Select Finish: 629: Polished Stainless Steel",
+                "Select Length: SIG727/50: Total Length 2in.",
+                "Select Length: SIG727/85: Total Length 3.3in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "630: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "629: Polished Stainless Steel",
+                    "price_impact": 3.2,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SIG727/50: Total Length 2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SIG727/85: Total Length 3.3in.",
+                    "price_impact": 3.2,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

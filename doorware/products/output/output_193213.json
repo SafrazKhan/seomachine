@@ -1,0 +1,122 @@
+{
+    "legacy_product_id": "193213",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Mortise Cylinder Security Guard",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-TH1100-CG1",
+            "mpn": "GLO-TH1100-CG1",
+            "price": "13.57",
+            "compare_at_price": "19.39",
+            "contractor_price": "12.21",
+            "shipping_weight": "0.25",
+            "tags": [
+                "GLO-TH1100-CG1 Mortise Cylinder Security Guard",
+                "Global TH1100-CG1 Lock Cylinder Anti Wrench Guards",
+                "mortise lock Anti-Wrench security Guards",
+                "Mortise Cylinder Security Guards",
+                "Adams Rite MS4030 Cylinder Guards"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-THii00-CG1_525.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-THii00-CG1_525.gif?v=1716421862"
+        },
+        "text": {
+            "description_html": "<b>Mortise Lock Cylinder Anti-Wrench Security Guard Set</b>\r\n<p>\r\nThis <a href=\"/collections/storefront-door-hardware\">store door hardware</a> anti-wrench lock cylinder security guard is used on aluminum storefront doors to protect the <a href=\"/products/1-inch-brass-mortise-cylinder-lock-for-storefront-door-th1100-bc\">mortise lock cylinders</a> from intrusion. \r\n</p>\r\n<p>\r\nHardened steel tapered ring protects lock cylinder from being twisted out with pipe wrench by thieves or vandals. Retaining snap ring prevents mortise cylinder from attempts to pry lock out. Replace for Adams Rite MS4030 Cylinder Guards. \r\n</p>\r\n<p>\r\n<a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/TH1100-CG1.pdf?v=1704262224\" target=\"new\"><b>Lock Cylinder Security Guard Specifications (PDF)</b></a>\r\n</p>\r\n<p>Package includes Lock Cylinder Guard Ring, Retaining Snap Ring and 2 Spacers (for use on aluminum frame doors with stile wall less than standard 1/8\" thick)\r\n<p>\r\nAvailable in aluminum or dark bronze finish.\r\n</p>",
+            "seo": {
+                "title": "Mortise Cylinder Security Guard",
+                "description": "Global TH1100-CG1 - Mortise Cylinder Security Guards. Hardened steel Anti-Wrench security guards for storefront door mortise lock cylinders.",
+                "keywords": "GLO-TH1100-CG1 Mortise Cylinder Security Guard, Global TH1100-CG1 Lock Cylinder Anti Wrench Guards, mortise lock Anti-Wrench security Guards, Mortise Cylinder Security Guards, Adams Rite MS4030 Cylinder Guards,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Store Front Door Hardware",
+                    "sort": "50"
+                },
+                {
+                    "name": "Store Door Hardware",
+                    "sort": "10"
+                },
+                {
+                    "name": "Door Security Guard Plates",
+                    "sort": "44"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "193220",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "184782",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "815295",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "192037",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "193687",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "194485",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "460103",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "212917",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: TH1100-CG1-AL: Aluminum",
+                "Select Finish: TH1100-CG1-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TH1100-CG1-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-TH1100-CG1-AL:"
+                },
+                {
+                    "value": "TH1100-CG1-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-TH1100-CG1-DU:"
+                }
+            ]
+        }
+    ]
+}

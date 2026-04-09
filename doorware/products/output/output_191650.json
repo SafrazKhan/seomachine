@@ -1,0 +1,109 @@
+{
+    "legacy_product_id": "191650",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Charleston Pocket Door Flush Pull, Baldwin 8571",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BALD-8571",
+            "mpn": "BALD-8571",
+            "price": "36.0",
+            "compare_at_price": "45.0",
+            "contractor_price": "34.2",
+            "shipping_weight": "0.5",
+            "tags": [
+                "BAL-8571",
+                "Pocket Door Charleston Flush Pulls",
+                "Baldwin 8571",
+                "Pocket Door Flush Pulls",
+                "flush door pulls",
+                "finger pulls",
+                "sliding pocket door pulls",
+                "pocket door hardware",
+                "flush pulls",
+                "pocket door pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-8571_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-8571_525.jpg?v=1716421853"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 8571, Solid Brass Charleston Pocket Door Flush Pulls</b>\r\n\r\n<p>\r\nMade by Baldwin the Charleston Sliding Pocket Door Pull is built to last out of forged brass. The Baldwin 8571 Pocket Door Pull can be used as a pocket door flush pull.\r\n</p>\r\n\r\n<p>\r\nWith every detail, Baldwin hardware sends a message of quality and style\u0014 throughout the life of your door. For an investment in your home that will last for many years to come.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Baldwin 8571 Charleston Pocket Door Flush Pull:\r\n<li>Total Height: 6-1/2\"</li>\r\n<li>Total Width: 2-1/2\"</li>\r\n<li>Total Depth:  1/4\"</li>\r\n<li>Door Cutout Depth:  3/16\"</li>\r\n<li>Projection:  1/16\"</li>\r\n<li>Door Cutout Height:  5-1/2\"</li>\r\n<li>Door Cutout Width:  1-3/4\"</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Package includes matching finish screws.</li>\r\n</p>\r\n\r\n<p>\r\n<b>Sold Individually</b> - Order 2 if you need one for each side of a pocket door. \r\n</p>\r\n\r\n <p>\r\n<br><br>\r\n<b><font color=red>This item is discontinued by Baldwin.</font></b>\r\n<br><br>\r\nSee available <a href=\"/collections/flush-pulls\"><b>Recessed Handles<b></a>\r\n</p>",
+            "seo": {
+                "title": "Charleston Pocket Door Flush Pull, Baldwin 8571",
+                "description": "Baldwin 8571 Charleston Pocket Door Flush Pull - Made by Baldwin the Charleston Sliding Pocket Door Pull is built to last out of forged brass. The Baldwin 8571 Pocket Door Pull can be used as a pocket door flush pull.\r\n",
+                "keywords": "BAL-8571, Pocket Door Charleston Flush Pulls, Baldwin 8571, Pocket Door Flush Pulls, flush door pulls, finger pulls, sliding pocket door pulls, pocket door hardware, flush pulls, pocket door pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "Baldwin Discontinued",
+                    "sort": "124"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "178546",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "202794",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "196241",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "201900",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "194887",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "7551",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 150 - Satin Nickel",
+                "Select Finish: 260 - Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "150 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "260 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

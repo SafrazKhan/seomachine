@@ -1,0 +1,91 @@
+{
+    "legacy_product_id": "410957",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "6 x 30 Kick Plate",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "KP-6x30",
+            "mpn": "KP-6x30",
+            "price": "79.0",
+            "compare_at_price": "87.0",
+            "contractor_price": "79.0",
+            "shipping_weight": "7.0",
+            "tags": [
+                "BA-Brass-6",
+                "Brass Accents 6 inch High Kick Plate brass accents",
+                "kick plates",
+                "brass kick plates",
+                "door plates",
+                "door kick plate",
+                "plate for door bottom",
+                "28 inch kick plate",
+                "28 inch kick plate",
+                "6 inches tall kick plate",
+                "32 inch kick plate",
+                "34 inch kick plate",
+                "36 inch kick plate",
+                "38 inch kick plate",
+                "42 inch kick plate",
+                "40 inch kick plate",
+                "kickplates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Solid Brass (.050\" Thick)  6\" High Kick Plate</b>\r\n\r\n<p>\r\nThese are made of Solid Brass and come with matching finish mounting screws. \r\n</p>\r\n\r\n<p>\r\n<i>\r\nKick Plates are typically the width of the door less 2 inches.  If your door is 32 inches wide you would install a 30 inch wide kick plate. Please measure each door for proper fit.</i>\r\n</b>\r\n\r\n</p>\r\n<p><b>Other great door kick plates available:</b><br>\r\n<a href=\"/products/8-inch-high-solid-brass-door-kick-plates\">8\" High Solid Brass</a> <br>\r\n<a href=\"/products/6-inch-high-stainless-steel-door-kick-plates\">6\" High Stainless Steel</a> <br>\r\n<a href=\"/products/8-inch-high-stainless-steel-door-kick-plates\">8\" High Stainless Steel</a> \r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>",
+            "seo": {
+                "title": "6 x 30 Kick Plate",
+                "description": "Solid Brass 6 Inch High Door Kick Plate - available in 8 lengths from 28  - 42 inches and 5 different finishes.",
+                "keywords": "BA-Brass-6, Brass Accents 6 inch High Kick Plate brass accents, kick plates, brass kick plates, door plates, door kick plate, plate for door bottom,  28 inch kick plate, 28 inch kick plate, 6 inches tall kick plate, 32 inch kick plate, 34 inch kick plate, 36 inch kick plate, 38 inch kick plate, 42 inch kick plate, 40 inch kick plate, kickplates,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Custom Size Plates",
+                    "sort": "19"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: 620: Antique Nickel",
+                "Select Finish: US3UNL: Un-lacquered Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "620: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3UNL: Un-lacquered Brass",
+                    "price_impact": 19.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

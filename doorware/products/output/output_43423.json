@@ -1,0 +1,119 @@
+{
+    "legacy_product_id": "43423",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Sleek Aluminum Cabinet Pull, Omnia AL405",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-AL405",
+            "mpn": "OMN-AL405",
+            "price": "11.1",
+            "compare_at_price": "13.9",
+            "contractor_price": "10.55",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Omnia AL405 Aluminum Door Pulls",
+                "omnia al-405 aluminum cabinet pulls",
+                "al405/76",
+                "al405/152",
+                "3 inch cabinet pull",
+                "6 inch cabinet pulls",
+                "modern cabinet hardware",
+                "traditional cabinet hardware",
+                "classic cabinet hardware",
+                "aluminum cabinet hardware omnia",
+                "cabinet handles aluminum",
+                "durable cabinet knobs",
+                "aluminum drawer pulls",
+                "sleek aluminum cabinet pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-brass-AL405_300x3351.jpg",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Omnia AL405 Sleek Aluminum Cabinet Hardware</b>\r\n<p>Aluminum (US28) finished, these sleek cabinet pulls are a great way to add a contemporary touch to your home. Aluminum is durable, light weigth, and easy to clean, ensuring that this Omnia made cabinet hardware will last for years to come and look beautiful while doing it. Available in either a 3 inch length or a 6 inch length, you will be sure to find just the right fit for your needs. </p>\r\n\r\n<p>\r\nOmnia's line of sophisticated Aluminum cabinet hardware have been painstakingly crafted by artisans who understand that a beautiful design must be as comfortable to the hand as it is pleasing to the eyes.\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<li><b>OMN-AL405/76</b> - Center to Center Mount Hole Spacing: 3\", Overall Length: 4-5/16\", Projection: 1\"</li>\r\n<li><b>OMN-AL405/152</b> - Center to Center Mount Hole Spacing: 6\", Overall Length: 9-7/16\", Projection: 1\"</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Sleek Aluminum Cabinet Pull, Omnia AL405",
+                "description": "Omnia AL405 Aluminum Door Pull - Aluminum (US28) finished, these sleek cabinet pulls are a great way to add a contemporary touch to your home. Aluminum is durable, light weigth, and easy to clean, ensuring that this Omnia made cabinet hardware will last for years to come and look beautiful while doing it. Available in either a 3 inch length or a 6 inch length, you will be sure to find just the right fit for your needs. ",
+                "keywords": "Omnia AL405 Aluminum Door Pulls, omnia al-405 aluminum cabinet pulls, al405/76, al405/152, 3 inch cabinet pull, 6 inch cabinet pulls, modern cabinet hardware, traditional cabinet hardware, classic cabinet hardware, aluminum cabinet hardware omnia, cabinet handles aluminum, durable cabinet knobs, aluminum drawer pulls, sleek aluminum cabinet pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "192454",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "192871",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "248136",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "260365",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42129",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "42141",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "42152",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Size: OMN-AL405/76 - Center to Center Hole Spacing: 3in.",
+                "Select Size: OMN-AL405/152 - Center to Center Hole Spacing: 6in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-AL405/76 - Center to Center Hole Spacing: 3in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-AL-405/76"
+                },
+                {
+                    "value": "OMN-AL405/152 - Center to Center Hole Spacing: 6in.",
+                    "price_impact": 4.1,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-AL-405/152"
+                }
+            ]
+        }
+    ]
+}

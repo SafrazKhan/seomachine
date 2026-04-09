@@ -1,0 +1,100 @@
+{
+    "legacy_product_id": "554170",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Holiday Safety Key for Fusion Double Cylinder Deadbolts, FUS-HOLI-KEY1",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-HOLI-KEY1",
+            "mpn": "FUS-HOLI-KEY1",
+            "price": "20.0",
+            "compare_at_price": "20.0",
+            "contractor_price": "15.2",
+            "shipping_weight": "0.2",
+            "tags": [
+                "Holiday Safety Key for Fusion Double Cylinder Deadbolts",
+                "FUS-HOLI-KEY1"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/holi-key1-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/holi-key1-525.jpg?v=1711365482"
+        },
+        "text": {
+            "description_html": "<b>Holiday Safety Key for Fusion Double Cylinder Deadbolts, FUS-HOLI-KEY1</b>\r\n<p>Fusion recommends a Holiday Key for use on all double cylinder deadbolts.  This clever little key turn is designed for use on the interior side of the double cylinder deadbolt when you are at home.  This provides quick and safe exit in case of fire or an emergency when the door is locked.  Before you leave and lock up the house, just take the Holiday Key out of the cylinder and stash it in a safe place until you return!  It's the best of both worlds; the security of a double cylinder deadbolt when you're away and the convenience and safety of a standard deadbolt when you're home.</p>",
+            "seo": {
+                "title": "Holiday Safety Key for Fusion Double Cylinder Deadbolts, FUS-HOLI-KEY1",
+                "description": "Holiday Safety Key for Fusion Double Cylinder Deadbolts, FUS-HOLI-KEY1",
+                "keywords": "Holiday Safety Key for Fusion Double Cylinder Deadbolts, FUS-HOLI-KEY1"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Deadbolts",
+                    "sort": "27"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: FUS-HOLI-KEY1-ATP - Antique Pewter",
+                "Select Finish: FUS-HOLI-KEY1-BRN - Brushed Nickel",
+                "Select Finish: FUS-HOLI-KEY1-MDB - Medium Bronze",
+                "Select Finish: FUS-HOLI-KEY1-ORB - Oil Rubbed Bronze",
+                "Select Finish: FUS-HOLI-KEY1-PVD - Lifetime Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FUS-HOLI-KEY1-ATP - Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FUS-HOLI-KEY1-BRN - Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FUS-HOLI-KEY1-MDB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FUS-HOLI-KEY1-ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FUS-HOLI-KEY1-PVD - Lifetime Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

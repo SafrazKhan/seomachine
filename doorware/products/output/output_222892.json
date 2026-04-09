@@ -1,0 +1,125 @@
+{
+    "legacy_product_id": "222892",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Heavy Duty Cushion Arm, Global RA-4361-3077CNS",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-RA-4361-3077CNS",
+            "mpn": "GLO-RA-4361-3077CNS",
+            "price": "55.29",
+            "compare_at_price": "78.98",
+            "contractor_price": "49.76",
+            "shipping_weight": "4.0",
+            "tags": [
+                "GLO-RA-1461-3077CNS Heavy Duty Door Saver Arms",
+                "Global TC1461 Door Closer Arms",
+                "Heavy Duty Cushion arms",
+                "cush-n-stop arms",
+                "Global door controls door closers arms",
+                "Global door controls TC4361 Heavy Duty Cushion Arms",
+                "Global RA-1461-3077CNS closer arms",
+                "GLO-RA-4361-3077CNS Cushion arms",
+                "Global TC4361 Door Closer Arms",
+                "Global TC201",
+                "Global TC411",
+                "Global TC412",
+                "Global TC511",
+                "Global TC512",
+                "Global TC611",
+                "Global TC612",
+                "global RA-4361-3077CNS-AL",
+                "global RA-4361-3077CNS-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RA-1461-3077CNS_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RA-1461-3077CNS_525.jpg?v=1716422177"
+        },
+        "text": {
+            "description_html": "<b>Heavy Duty Door Saver Arm - Cushion Arm</b>\r\n<p>\r\nCush-N-Stop arm for use with <a href=\"/products/ada-compliant-heavy-duty-door-closer-global-tc4361\"><b>Global TC4361</b></a>,  <a href=\"/products/tc201-global-grade-1-surface-mount-door-closer\"><b>Global TC201</b></a>, <a href=\"/products/tc411-ada-compliant-grade-1-tri-packed-door-closer\"><b>Global TC411</b></a>,  <a href=\"/products/tc412-grade-1-tri-packed-door-closer\"><b>Global TC412</b></a>,  <a href=\"/products/ada-compliant-full-cover-tri-packed-door-closer\"><b>Global TC511</b></a>,  <a href=\"/products/grade-1-full-cover-door-closer\"><b>Global TC512</b></a>, and <a href=\"/products/ada-compliant-grade-1-tri-packed-door-closer-global-tc611\"><b>Global TC611</b>.</a> \r\n</p>\r\n<p><b>Parallel Arm Mount Only</b>. (for 12 mm square closer shaft). \r\n</p>\r\n\r\n<p>Heavy duty rigid arm assembly and soffit plate with field reversible dead stop. Packaged with mounting hardware.\r\n</p>\r\n<p>\r\n Available in 2 finishes of Aluminum or Dark Bronze .\r\n</p>",
+            "seo": {
+                "title": "Heavy Duty Cushion Arm, Global RA-4361-3077CNS",
+                "description": "Global RA-4361-3077CNS Cush-N-Stop arm for  Global Door Controls TC4361 Door Closers (for 12 mm closer shaft).",
+                "keywords": "GLO-RA-1461-3077CNS Heavy Duty Door Saver Arms,  Global TC1461 Door Closer Arms, Heavy Duty Cushion arms, cush-n-stop arms, Global door controls door closers arms, Global door controls TC4361 Heavy Duty Cushion Arms, Global RA-1461-3077CNS closer arms, GLO-RA-4361-3077CNS Cushion arms, Global TC4361 Door Closer Arms, Global TC201, Global TC411, Global TC412, Global TC511, Global TC512, Global TC611, Global TC612, global RA-4361-3077CNS-AL, global RA-4361-3077CNS-DU,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Door Closer Accessories",
+                    "sort": "15"
+                },
+                {
+                    "name": "Global TC4361 Closer Accessories",
+                    "sort": "1"
+                },
+                {
+                    "name": "Global TC200, TC400, TC500, TC600 Series",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "222898",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "190658",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "190791",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "190255",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "203817",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "221515",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: RA-4361-3077CNS-AL: Aluminum",
+                "Select Finish: RA-4361-3077CNS-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RA-4361-3077CNS-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RA-4361-3077CNS-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "legacy_product_id": "261941",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Curved Stainless Steel Cabinet Knob, Acorn AZC200",
+            "vendor": "Acorn",
+            "status": "ACTIVE",
+            "sku": "ACO-AZC200",
+            "mpn": "ACO-AZC200",
+            "price": "14.96",
+            "compare_at_price": "18.7",
+            "contractor_price": "14.21",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Absolute Zero Collection Curved Stainless Steel Cabinet Knob",
+                "Acorn AZC-200",
+                "AZC 200",
+                "Stainless Steel kitchen Cabinet Knobs",
+                "Stainless Steel Cabinet Knobs",
+                "modern cabinet knobs",
+                "contemporary cabinet hardware",
+                "modern stainless steel cabinet hardware",
+                "ACO-AZC200",
+                "acorn AZC200",
+                "Stainless Steel Zero Gravity Cabinet Knob"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ACO-AZC-200.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-AZC-200.jpg?v=1716422521"
+        },
+        "text": {
+            "description_html": "<p>\r\n<b>Acorn AZC200, Stainless Steel Zero Gravity Cabinet Knob</b>\r\n</p> \r\n\r\n<p>\r\nThis curved stainless steel cabinet knob, merges traditional design with a modern look. Available in brushed or polished stainless steel, this beautifully crafted cabinet knob relies on its ultra modern shape to tell the story of sophistication and culture of your home. What is great about this Acorn made knob is that it is able to ease effortlessly from decor to decor without looking out of place--making it a great addition to contemporary style homes as well as more traditional styles. Not only is this cabinet knob a great way to update your existing cabinets, it will be able to withstand many years of changing fashions ensuring that it will look great for as long as the quality holds up; and since it is carefully crafted out of stainless steel, you can be assured that it will take a very long time indeed.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Acorn Absolute Zero Collection Curved Stainless Steel Cabinet Knob:\r\n<ul>\r\n<li>Material: Solid Stainless Steel</li>\r\n<li>Diameter: 1-1/8\"</li>\r\n<li>Projection: 1\"</li>\r\n<li>Available in polished stainless steel or brushed stainless steel.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Curved Stainless Steel Cabinet Knob, Acorn AZC200",
+                "description": "Acorn AZC200 Absolute Zero Collection Curved Stainless Steel Cabinet Knob - Available in brushed or polished stainless steel, this beautifully crafted cabinet knob relies on its ultra modern shape to tell the story of sophistication and culture of your home. What is great about this Acorn made knob is that it is able to ease effortlessly from decor to decor without looking out of place--making it a great addition to contemporary style homes as well as more traditional styles. Not only is this cabinet knob a great way to update your existing cabinets, it will be able to withstand many years of changing fashions ensuring that it will look great for as long as the quality holds up; and since it is carefully crafted out of stainless steel, you can be assured that it will take a very long time indeed.",
+                "keywords": "Absolute Zero Collection Curved Stainless Steel Cabinet Knob, Acorn AZC-200, AZC 200, Stainless Steel kitchen Cabinet Knobs, Stainless Steel Cabinet Knobs, modern cabinet knobs, contemporary cabinet hardware, modern stainless steel cabinet hardware, ACO-AZC200, acorn AZC200, Stainless Steel Zero Gravity Cabinet Knob,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Stainless Steel"
+                },
+                {
+                    "key": "Diameter",
+                    "value": "1-1/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "2"
+                },
+                {
+                    "name": "Acorn Modern Stainless Steel Cabinet Knobs and Pulls",
+                    "sort": "8"
+                },
+                {
+                    "name": "Acorn Cabinet Knobs",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "43313",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "262594",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "43017",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "198824",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "237840",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "41759",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "43124",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "44125",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "255998",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "43327",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Stainless Steel",
+                "Diameter: 1-1/8\"",
+                "Projection: 1\"",
+                "Select Finish: BRU: Brushed Stainless Steel",
+                "Select Finish: POL: Polished Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BRU: Brushed Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "POL: Polished Stainless Steel",
+                    "price_impact": 3.52,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

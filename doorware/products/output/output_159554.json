@@ -1,0 +1,211 @@
+{
+    "legacy_product_id": "159554",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "8 inch High Solid Brass Door Kick Plates",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "KP-Brass-8",
+            "mpn": "KP-Brass-8",
+            "price": "139.99",
+            "compare_at_price": "176.07",
+            "contractor_price": "126.77",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Brass Accents 8 inch High Kick Plates",
+                "brass accents",
+                "kick plates",
+                "brass kick plates",
+                "door plates",
+                "door kick plate",
+                "plate for door bottom",
+                "28 inch kick plate",
+                "28 inch kick plate",
+                "8 inches tall kick plate",
+                "32 inch kick plate",
+                "34 inch kick plate",
+                "36 inch kick plate",
+                "38 inch kick plate",
+                "42 inch kick plate",
+                "40 inch kick plate",
+                "kick plates",
+                "KP-Brass-8 don-jo kick plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/8-brass-kickplate-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/8-brass-kickplate-525.jpg?v=1716421509"
+        },
+        "text": {
+            "description_html": "<b>Solid Brass (.050\" Thick)  8\" High Door Kick Plates\r\n</b>\r\n<p>\r\nThese are made of .050\" Thick Solid Brass and come with matching finish mounting screws. 8 Inch Tall door kick plates are available in 8 different lengths from 28\" - 42\" and 3 different high quality finishes.\r\n</p>\r\n<p>\r\n<i>\r\nKick Plates are typically the width of the door less 2 inches.  If your door is 36 inches wide you would install a 34 inch wide kick plate. Please measure each door for proper fit.</i>\r\n</p>\r\n<p><b>Other Door Kick Plates Available:</b><br>\r\n<a href=\"/products/6-inch-high-solid-brass-door-kick-plates\">6\" High Solid Brass</a><br> \r\n<a href=\"/products/6-inch-high-stainless-steel-door-kick-plates\">6\" High Stainless Steel</a> <br>\r\n<a href=\"/products/8-inch-high-stainless-steel-door-kick-plates\">8\" High Stainless Steel</a>\r\n</p>\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>\r\n<br>",
+            "seo": {
+                "title": "8 inch High Solid Brass Door Kick Plates",
+                "description": "Solid Brass 8 Inches High Door Kick Plate - available in 8 lengths from 28  - 42 inches and 4 different finishes.",
+                "keywords": "Brass Accents 8 inch High Kick Plates,  brass accents, kick plates, brass kick plates, door plates, door kick plate, plate for door bottom,  28 inch kick plate, 28 inch kick plate, 8 inches tall kick plate, 32 inch kick plate, 34 inch kick plate, 36 inch kick plate, 38 inch kick plate, 42 inch kick plate, 40 inch kick plate, kick plates, KP-Brass-8 don-jo kick plates,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Kick Plates",
+                    "sort": "3"
+                },
+                {
+                    "name": "Door Kick Plates",
+                    "sort": "2"
+                },
+                {
+                    "name": "Don-Jo Push Plates and Kick Plates",
+                    "sort": "42"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "163823",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "162238",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "142025",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "142057",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "200807",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 605: Polished Brass",
+                "Select Finish: 613: Oil Rubbed Bronze",
+                "Select Finish: 619: Satin Nickel",
+                "Select Size: 8in. x 28in.",
+                "Select Size: 8in. x 30in.",
+                "Select Size: 8in. x 32in.",
+                "Select Size: 8in. x 34in.",
+                "Select Size: 8in. x 36in.",
+                "Select Size: 8in. x 38in.",
+                "Select Size: 8in. x 40in.",
+                "Select Size: 8in. x 42in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "605: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "605"
+                },
+                {
+                    "value": "613: Oil Rubbed Bronze",
+                    "price_impact": 9.14,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "613"
+                },
+                {
+                    "value": "619: Satin Nickel",
+                    "price_impact": 31.99,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "619"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "8in. x 28in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "8\""
+                },
+                {
+                    "value": "8in. x 30in.",
+                    "price_impact": 10.06,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "8\""
+                },
+                {
+                    "value": "8in. x 32in.",
+                    "price_impact": 20.11,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "8\""
+                },
+                {
+                    "value": "8in. x 34in.",
+                    "price_impact": 30.17,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "8\""
+                },
+                {
+                    "value": "8in. x 36in.",
+                    "price_impact": 40.25,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "8\""
+                },
+                {
+                    "value": "8in. x 38in.",
+                    "price_impact": 50.3,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "8\""
+                },
+                {
+                    "value": "8in. x 40in.",
+                    "price_impact": 60.36,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "8\""
+                },
+                {
+                    "value": "8in. x 42in.",
+                    "price_impact": 70.42,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "8\""
+                }
+            ]
+        }
+    ]
+}

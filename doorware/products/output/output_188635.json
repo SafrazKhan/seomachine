@@ -1,0 +1,109 @@
+{
+    "legacy_product_id": "188635",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Global TC300 Parallel Arm Mount Bracket LD, Global PAB-1003",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-PAB-1003",
+            "mpn": "GLO-PAB-1003",
+            "price": "6.84",
+            "compare_at_price": "9.78",
+            "contractor_price": "6.31",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Parallel Arm Mount Bracket LD",
+                "Global PAB-1003",
+                "GLO-PAB-1003-AL",
+                "GLO-PAB-1003-DU",
+                "Global TC300 series parallel brackets",
+                "Global TC300 Parallel Arm Mount Bracket",
+                "global PAB-1003-AL",
+                "global PAB-1003-AL"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PAB-1003_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PAB-1003_525.jpg?v=1716421822"
+        },
+        "text": {
+            "description_html": "<b>Global TC300 Series Parallel Arm Mount Bracket, Light Duty</b>\r\n\r\n<p>\r\nFor use with <a href=\"/products/tc300-series-grade-3-small-surface-mount-door-closer\"><b>Global Door Controls TC300 series door closer</b></a>. Can be used with any surface mounted closer where the arm Shoe has a 1-3/4\" Center to Center hole pattern. Light duty with 3 header mounting holes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b>\r\n<li>Length: 3-7/8\"</li>\r\n <li>Width at Header Mount: 2-3/8\"</li>\r\n <li>Shoe Mount Holes: 1-3/4\" Center to Center</li>\r\n<li>1/8\" Thick Steel</li>\r\n</p>",
+            "seo": {
+                "title": "Parallel Arm Mount Bracket LD, Global PAB-1003",
+                "description": "Global PAB-1003 -  Light Duty Parallel Arm Mount Bracket for Global TC300 series surface mounted door closers,  available in aluminum or dark bronze (duro) finish.",
+                "keywords": "Parallel Arm Mount Bracket LD, Global PAB-1003, GLO-PAB-1003-AL, GLO-PAB-1003-DU,  Global TC300 series parallel brackets, Global TC300 Parallel Arm Mount Bracket, global PAB-1003-AL, global PAB-1003-AL"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Door Closer Accessories",
+                    "sort": "20"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "188632",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "188623",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "233110",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "285720",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "443955",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "777807",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: PAB-1003-AL: Aluminum",
+                "Select Finish: PAB-1003-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PAB-1003-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-PAB-1003-AL"
+                },
+                {
+                    "value": "PAB-1003-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-PAB-1003-DU"
+                }
+            ]
+        }
+    ]
+}

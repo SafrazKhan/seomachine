@@ -1,0 +1,92 @@
+{
+    "legacy_product_id": "1134511",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "End Cap for 6200 Series Panic Device, PDQ 629035-01",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PDQ-629035-01",
+            "mpn": "PDQ-629035-01",
+            "price": "300.0",
+            "compare_at_price": "300.0",
+            "contractor_price": "300.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "PDQ 629035-01",
+                "PDQ-629035-01",
+                "End Cap for 6200 Series Panic Devices",
+                "6200 Series End Caps",
+                "PDQ 6200 End Cap"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDQ-629035-01-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PDQ-629035-01-525.jpg?v=1716428373"
+        },
+        "text": {
+            "description_html": "<b>PDQ 6200 End Cap</b>\r\n\r\n<p>\r\nThis is an endcap for use with all <a href=\"/products/heavy-duty-rim-exit-device-for-30-36-inch-door-pdq-6300r\"><b>PDQ Series 6200 Panic Devices</b></a>.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually. </i>\r\n</p>",
+            "seo": {
+                "title": "End Cap for 6200 Series Panic Device",
+                "description": "This is an endcap for use with all PDQ Series 6200 Panic Devices.",
+                "keywords": "PDQ 629035-01, PDQ-629035-01, End Cap for 6200 Series Panic Devices, 6200 Series End Caps, PDQ 6200 End Cap"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Misc Hardware",
+                    "sort": "32"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "255567",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "256131",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "255604",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "947229",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1081096",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 630: Satin Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "630: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

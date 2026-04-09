@@ -1,0 +1,127 @@
+{
+    "legacy_product_id": "1179318",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Small Florian Cabinet Knob, RK International CK-746",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-746",
+            "mpn": "RKI-CK-746",
+            "price": "15.84",
+            "compare_at_price": "19.8",
+            "contractor_price": "15.05",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RK International CK-746",
+                "Small Florian Knobs",
+                "Small Florian Cabinet Knobs",
+                "RKI-CK-746",
+                "RKI Small Florian Knobs",
+                "floral cabinet knobs",
+                "modern floral knobs",
+                "RK International Florian Cabinet Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-CK746-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-CK746-525.jpg?v=1716428796"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-746, Small Florian Knob</b>\r\n\r\n<p>\r\nThe Small Florian Cabinet Knob has a subtle floral shape that is as modern as it is beautiful. The RKI Small Florian Knob is available in satin brass, valencia bronze, polished nickel, and satin nickel finishes. \r\n</p>\r\n\r\n<p>\r\nAlso Available:<a href=\"/products/florian-cabinet-pull-series-rk-international-cp-845\"><b>Matching Florian Cabinet Pull</b></a> and \r\n<a href=\"/products/florian-appliance-pull-rk-international-ap-ph-8845\"><b>Florian Appliance Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International Florian Cabinet Knob:\r\n<ul>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Small Florian Cabinet Knob",
+                "description": "The Small Florian Cabinet Knob has a subtle floral shape that is as modern as it is beautiful. The RKI Small Florian Knob is available in satin brass, valencia bronze, polished nickel, and satin nickel finishes.",
+                "keywords": "RK International CK-746, Small Florian Knobs, Small Florian Cabinet Knobs, RKI-CK-746, RKI Small Florian Knobs, floral cabinet knobs, modern floral knobs,  RK International Florian Cabinet Knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "41380",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "565567",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1105575",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1153410",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "41271",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "551820",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "568704",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: SN: Polished Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: SB: Satin Brass",
+                "Select Finish: VB: Valencia Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SB: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "VB: Valencia Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

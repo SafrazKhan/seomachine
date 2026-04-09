@@ -1,0 +1,86 @@
+{
+    "legacy_product_id": "1183522",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-06T12:55:25.131953"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Cross Bar for ED-301 Panic Device, Imperial USA ED-ROD301",
+            "vendor": "Global",
+            "status": "ARCHIVED",
+            "sku": "IMP-ED-ROD301",
+            "mpn": "IMP-ED-ROD301",
+            "price": "40.25",
+            "compare_at_price": "40.25",
+            "contractor_price": "40.25",
+            "shipping_weight": "7.0",
+            "tags": [
+                "Cross Bar for ED-301 Panic Device",
+                "Imperial USA ED-ROD301",
+                "IMP-ED-ROD301"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525228.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525228.gif?v=1711366732"
+        },
+        "text": {
+            "description_html": "<b>Imperial USA ED-ROD301 Cross Bar for ED-301 Panic Device</b>\r\n\r\n<p>\r\nThis is a repalmcent Cross Bar for a <a href=\"/products/36-inch-or-less-grade-2-exit-device-global-ed-301\">ED-301 Panic Device</a> for doors  up to 48 inches wide. Field sizable. Made from 1\" diameter round steel.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Cross Bar for ED-301 Panic Device",
+                "description": "this is a repalmcent Cross Bar for a ED-301 Panic Device for doors  up to 48 inches wide. Field sizable.",
+                "keywords": "Cross Bar for ED-301 Panic Device, Imperial USA ED-ROD301, IMP-ED-ROD301,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Global Discontinued",
+                    "sort": "56"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "892043",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "875924",
+                    "sort": "2"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: AL: Aluminum",
+                "Select Finish: DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

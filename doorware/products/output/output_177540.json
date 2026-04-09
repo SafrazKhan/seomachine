@@ -1,0 +1,197 @@
+{
+    "legacy_product_id": "177540",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Floor Spring Hinge Cover Plate, Deltana DASHCP",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-DASHCP",
+            "mpn": "DEL-DASHCP",
+            "price": "27.38",
+            "compare_at_price": "36.51",
+            "contractor_price": "26.01",
+            "shipping_weight": "1.0",
+            "tags": [
+                "DEL-DASHCP Floor Spring Hinge Cover Plates",
+                "Deltana DASH95 spring hinge plates",
+                "door plates",
+                "horizontal floor spring hinges",
+                "horizontal hinge plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/deltana-DASH95CP_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/deltana-DASH95CP_525.jpg?v=1716421682"
+        },
+        "text": {
+            "description_html": "<b>Deltana DASHCP, Floor Spring Hinge Cover Plates</b>\r\n\r\n<p>\r\nSolid brass cover plates for floor spring hinges. These screw to the door face at the bottom of the door to hide the cutout for a horizontal floor spring hinge.  \r\n</p>\r\n\r\n<p>\r\nFits <a href=\"/products/floor-spring-hinge-set-deltana-dash95\"><b>Deltana DASH95 Floor Spring Hinge</b></a> and other manufacture's hinges.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Deltana DASHCP Floor Spring Hinge Cover Plate:\r\n<ul>\r\n<li>Plate Length: 9-3/4\"</li>\r\n<li>Plate Height: 2-5/8\"</li>\r\n<li>Plate Depth: 3/8\"</li>\r\n<li>Material: Solid Brass</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-DASHCP-specifications.pdf?v=1691095331\"><b>Deltana DASHCP Specifications (PDF)</a></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually (1 Plate)</i>\r\n</p>",
+            "seo": {
+                "title": "Floor Spring Hinge Cover Plate, Deltana DASHCP",
+                "description": "Deltana DASHCP Floor Spring Hinge Cover Plates. Solid brass cover plates for Deltana floor spring hinge. Fits Deltana DASH95 Floor Spring Hinge and other manufactures hinges.",
+                "keywords": "DEL-DASHCP Floor Spring Hinge Cover Plates, Deltana DASH95 spring hinge plates, door plates, horizontal floor spring hinges, horizontal hinge plates,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Length",
+                    "value": "9-3/4\""
+                },
+                {
+                    "key": "Plate Height",
+                    "value": "2-5/8\""
+                },
+                {
+                    "key": "Plate Depth",
+                    "value": "3/8\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Deltana Spring Door Hinges",
+                    "sort": "16"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "8970",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "427702",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "446477",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "159529",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "326660",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "560922",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Plate Length: 9-3/4\"",
+                "Plate Height: 2-5/8\"",
+                "Plate Depth: 3/8\"",
+                "Material: Solid Brass",
+                "Select Finish: U3: Polished Brass",
+                "Select Finish: U4: Brushed Brass",
+                "Select Finish: U5: Antique Brass",
+                "Select Finish: U10B: Oil Rubbed Bronze",
+                "Select Finish: U15: Satin Nickel",
+                "Select Finish: U15A: Antique Nickel",
+                "Select Finish: U19: Matte Black",
+                "Select Finish: U26: Polished Chrome",
+                "Select Finish: U26D: Brushed Chrome",
+                "Select Finish: USP: Primer",
+                "Select Finish: CR003: PVD Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U4: Brushed Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26D: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "USP: Primer",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CR003: PVD Polished Brass",
+                    "price_impact": 1.99,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

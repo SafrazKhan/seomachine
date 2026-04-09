@@ -1,0 +1,121 @@
+{
+    "legacy_product_id": "1177291",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1/2 Inch x 3-3/4 Inch Aluminum & Vinyl Bumper Seal Threshold, NGP 8135V",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "NGP-8135V",
+            "mpn": "NGP-8135V",
+            "price": "114.0",
+            "compare_at_price": "114.0",
+            "contractor_price": "114.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "1/2 Inch x 3-3/4 Inch Aluminum & Vinyl Bumper Seal Threshold",
+                "NGP 8135V",
+                "NGP-8135V"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/NGP-8135V-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/NGP-8135V-525.jpg?v=1717106642"
+        },
+        "text": {
+            "description_html": "<b>NGP 8135V 1/2 Inch x 3-3/4 Inch Aluminum & Vinyl Bumper Seal Threshold</b>\r\n\r\n<p>\r\nThis is a National Guard 8135V Aluminum Bumper Threshold with Vinyl Seal.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for National Guard 8135V Door Threshold\r\n<ul>\r\n<li>Height: 1/2\"</li>\r\n<li>Width: 3-3/4\"</li>\r\n<li>Material: Aluminum</li>\r\n<li>Smooth top</li>\r\n<li>Typical wall thickness .115\"</li>\r\n<li>Screws: #10 x 1-1/2\" FH zinc plated  screws included.</li>\r\n<li>Finish: Mill Aluminum</li>\r\n<li>Vinyl Color: Gray</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Standards and Building Code Certifications:</b>\r\n<ul>\r\n<li>CERTIFIED by UL to CAN/ULC-S104 and ANSI/UL10B, complies with NFPA 80 and NFPA 252 for application to Hollow Metal fire doors rated up to 3 Hrs., and Wood fire doors rated up to 90 minutes.</li>\r\n<li>POSITIVE PRESSURE - CERTIFIED by UL to ANSI/UL10C, complies with IBC, NFPA 80 and NFPA 252 for application to Hollow Metal fire doors rated up to 3 Hrs., and Wood fire doors rated up to 90 minutes.</li>\r\n<li>ANSI/BHMA CERTIFIED. Certified thresholds comply with American National Standard for Thresholds ANSI/BHMA A156.21 1,000 lb. load test and are listed in the BHMA Certified Products Directory.</li>\r\n<li>AIR INFILTRATION TESTED to ASTM E283, Standard Test Method for Determining Rate of Air Leakage Through Exterior Windows, Curtain Walls, and Doors.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. No Returns.</i>\r\n</p>",
+            "seo": {
+                "title": "1/2 Inch x 3-3/4 Inch Aluminum & Vinyl Bumper Seal Threshold",
+                "description": "This is a National Guard 8135V Aluminum Bumper Threshold with Vinyl Seal.",
+                "keywords": "1/2 Inch x 3-3/4 Inch Aluminum & Vinyl Bumper Seal Threshold, NGP 8135V, NGP-8135V"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "1/2\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3-3/4\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Aluminum"
+                },
+                {
+                    "key": "Screws",
+                    "value": "#10 x 1-1/2\" FH zinc plated  screws included."
+                },
+                {
+                    "key": "Finish",
+                    "value": "Mill Aluminum"
+                },
+                {
+                    "key": "Vinyl Color",
+                    "value": "Gray"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "National Guard Disc Custom Special",
+                    "sort": "14"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "992045",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "992019",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "991119",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1009563",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "232492",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Height: 1/2\"",
+                "Width: 3-3/4\"",
+                "Material: Aluminum",
+                "Screws: #10 x 1-1/2\" FH zinc plated  screws included.",
+                "Finish: Mill Aluminum",
+                "Vinyl Color: Gray",
+                "Select Length: 60in. Length"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "60in. Length",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "legacy_product_id": "1176921",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Impresa Knob Interior Trim for Lexington Single Cylinder Handleset, Weslock 01401-I",
+            "vendor": "Weslock",
+            "status": "ARCHIVED",
+            "sku": "WES-01401-I",
+            "mpn": "WES-01401-I",
+            "price": "87.2",
+            "compare_at_price": "109.0",
+            "contractor_price": "87.2",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Interior Impresa Knob  for  Woodward or Belmont Handlesets",
+                "Weslock Single Cylinder Handleset Impresa Knob Interior Trim",
+                "WES-01401-I",
+                "Weslock 01401-I"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/WES-01401-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/WES-01401-525.jpg?v=1716428784"
+        },
+        "text": {
+            "description_html": "<b>Weslock Single Cylinder Handleset Impresa Knob Interior Trim</b>\r\n\r\n<p>\r\nThis is a single cylinder interior time set to be used with the <a href=\"/products/interconnected-lexington-handleset-weslock-1444-1400\">Weslock Lexington Interconnected Handleset</a>. It comes packaged as the interior trim only with the Impresa Knob.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Interior Impresa Knob for the Lexington Interconnected Handleset:\r\n<ul>\r\n<li>Length: 6\"</li>\r\n<li>Width: 3-1/8\"\"</li>\r\n<li>Knob Diameter: 2-3/16\"</li>\r\n<li>Knob Projection: 2-1/8\"\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Special Ordered Item. NO RETURNS.</b>\r\n</p>",
+            "seo": {
+                "title": "Impresa Knob Interior Trim for Lexington Interconnected Single Cylinder Handleset",
+                "description": "This is a single cylinder interior time set to be used with the Weslock Lexington Interconnected Handleset. It comes packaged as the interior trim only with the Impresa Knob.",
+                "keywords": "Interior Impresa Knob  for  Woodward or Belmont Handlesets, Weslock Single Cylinder Handleset Impresa Knob Interior Trim, WES-01401-I, Weslock 01401-I"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Discontinued Weslock",
+                    "sort": "46"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "12650",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "964577",
+                    "sort": "2"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: A: Antique Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "A: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

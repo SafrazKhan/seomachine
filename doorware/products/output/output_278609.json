@@ -1,0 +1,148 @@
+{
+    "legacy_product_id": "278609",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Cylinder Collar Spacer for 8000 Series Deadbolts, BAL-8297",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-8297",
+            "mpn": "BAL-8297",
+            "price": "31.0",
+            "compare_at_price": "31.0",
+            "contractor_price": "31.0",
+            "shipping_weight": "0.2",
+            "tags": [
+                "Cylinder Collar Spacer for 8000 Series Deadbolts",
+                "BAL-8297"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/special_order-525123.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/special_order-525123.jpg?v=1716422676"
+        },
+        "text": {
+            "description_html": "<b>Cylinder Collar Spacer for Baldwin 8000 Series Deadbolts for 1-3/8\" Door, BAL-8297</b>\r\n<p>Used for installing deadbolt on 1-3/8\" doors.  Always used under Cylinder Collar.  Two rings are required for double cylinder functions,   one ring is required for cylinder/turn piece functions.  Finished to match deadbolt cylinder collar.</p>\r\n<p><b>* SOLD INDIVIDUALLY *</p></b>",
+            "seo": {
+                "title": "Cylinder Collar Spacer for 8000 Series Deadbolts, BAL-8297",
+                "description": "Cylinder Collar Spacer for 8000 Series Deadbolts, BAL-8297",
+                "keywords": "Cylinder Collar Spacer for 8000 Series Deadbolts, BAL-8297"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: 003- Lifetime (PVD) Polished Brass",
+                "Select Finish: 050- Satin Brass and Black",
+                "Select Finish: 102- Oil Rubbed Bronze",
+                "Select Finish: 112- Venetian Bronze",
+                "Select Finish: 150- Satin Nickel",
+                "Select Finish: 151- Antique Nickel",
+                "Select Finish: 190- Satin Black",
+                "Select Finish: 260- Polished Chrome",
+                "Select Finish: 264- Satin Chrome",
+                "Select Finish: 055- Lifetime (PVD) Polished Nickel",
+                "Select Finish: 056- Lifetime (PVD) Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "003- Lifetime (PVD) Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "050- Satin Brass and Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "102- Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "112- Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "150- Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "151- Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "190- Satin Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "260- Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "264- Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "055- Lifetime (PVD) Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "056- Lifetime (PVD) Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

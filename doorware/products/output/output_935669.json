@@ -1,0 +1,200 @@
+{
+    "legacy_product_id": "935669",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4 Inch Pocket Door Edge Pull, Emtek 2221",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-2221",
+            "mpn": "EMT-2221",
+            "price": "19.99",
+            "compare_at_price": "25.0",
+            "contractor_price": "19.99",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Emtek 2221 Pocket Door Edge Pulls",
+                "Emtek 2221 edge pulls",
+                "solid brass edge pulls",
+                "pocket door pulls",
+                "pull for edge of doors",
+                "sliding door pulls",
+                "emtek Pocket Door Hardware",
+                "EMT-2221",
+                "4 Inch Pocket Door Edge Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-2221-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-2221-525.jpg?v=1716426970"
+        },
+        "text": {
+            "description_html": "<b>Emtek 2221, Solid Brass Pocket Door Pull</b>\r\n\r\n<p>\r\nThis door pull installs in the edge of the door to pull a sliding door out of its pocket. The Solid Brass Pocket Door Pull is a spring loaded pull lever so it automatically returns to a position that is flush with the plate when released. The 4 Inch Pocket Door Edge Pull measures 4 inches high by 3/4 inches wide. Its narrow width allows for installation on narrow or standard 1-3/8 inch wide doors.  \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Emtek 2221 Door Edge Pull:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Height: 4\"</li>\r\n<li>Width: 3/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "4 Inch Pocket Door Edge Pull",
+                "description": "This door pull installs in the edge of the door to pull a sliding door out of its pocket. The Solid Brass Pocket Door Pull is a spring loaded pull lever so it automatically returns to a position that is flush with the plate when released. The 4 Inch Pocket Door Edge Pull measures 4 inches high by 3/4 inches wide. Its narrow width allows for installation on narrow or standard 1-3/8 inch wide doors.  \r\n",
+                "keywords": "Emtek 2221 Pocket Door Edge Pulls,  Emtek 2221 edge pulls, solid brass edge pulls, pocket door pulls,pull for edge of doors, sliding door pulls, emtek Pocket Door Hardware, EMT-2221, 4 Inch Pocket Door Edge Pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Height",
+                    "value": "4\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "Emtek Sliding Door Hardware",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "7586",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "196232",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "247016",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "274088",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "6284",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "6406",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "280864",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Height: 4\"",
+                "Width: 3/4\"",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US15A: Antique Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: US7: French Antique",
+                "Select Finish: MB: Medium Bronze",
+                "Select Finish: TWB: Tumbled White Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US7: French Antique",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MB: Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TWB: Tumbled White Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

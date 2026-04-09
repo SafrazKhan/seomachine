@@ -1,0 +1,170 @@
+{
+    "legacy_product_id": "856248",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Triple Egg and Dart Toggle Switch Plate, Grandeur EADSWPLTT3",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-EADSWPLTT3",
+            "mpn": "GRA-EADSWPLTT3",
+            "price": "46.99",
+            "compare_at_price": "58.5",
+            "contractor_price": "46.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Triple Egg and Dart Toggle Switch Plates",
+                "Egg and Dart Triple Toggle Covers",
+                "Grandeur EADSWPLTT3",
+                "neo-classical switch plates",
+                "ornate switch plates",
+                "french colonial switch Plates",
+                "retro switch plates",
+                "GRA-EADSWPLTT3",
+                "French Colonial Triple Egg and Dart Toggle Light Switch Plates",
+                "Grandeur Egg & Dart Toggle Covers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-EADSWPLTT3-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-EADSWPLTT3-525.jpg?v=1716426029"
+        },
+        "text": {
+            "description_html": "<b>Grandeur EADSWPLTT3, French Colonial Egg and Dart Triple Toggle Light Switch Plate</b>\r\n\r\n<p>\r\nThe Triple Egg and Dart Toggle Switch Plate has a beautiful, traditional design that is perfectly suited for both historic homes and more modern ones simply from the finish color you select. The more authentic finishes such as antique pewter bring out the French Colonial look, making it a great restoration piece. Contemporary finishes like the bright chrome (shown) updates its look to fit into today's design trends. The Egg and Dart Triple Toggle Cover comes packaged with all the necessary mounting hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur Egg & Dart Toggle Cover:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 4-7/8\"</li>\r\n<li>Width: 6-3/4\"</li>\r\n<li>Projection: 3/8\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Triple Egg and Dart Toggle Switch Plate",
+                "description": "The Triple Egg and Dart Toggle Switch Plate has a beautiful, traditional design that is perfectly suited for both historic homes and more modern ones simply from the finish color you select. The more authentic finishes such as antique pewter bring out the French Colonial look, making it a great restoration piece. Contemporary finishes like the bright chrome updates its look to fit into today's design trends. The Egg and Dart Triple Toggle Cover comes packaged with all the necessary mounting hardware.",
+                "keywords": "Triple Egg and Dart Toggle Switch Plates, Egg and Dart Triple Toggle Covers, Grandeur EADSWPLTT3, neo-classical switch plates, ornate switch plates, french colonial switch Plates, retro switch plates, GRA-EADSWPLTT3, French Colonial Triple Egg and Dart Toggle Light Switch Plates, Grandeur Egg & Dart Toggle Covers,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "4-7/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "6-3/4\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "3/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Electrical Outlet &amp; Switch Plates",
+                    "sort": "111"
+                },
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "28"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "855664",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "728152",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "725171",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "855806",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "856045",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 4-7/8\"",
+                "Width: 6-3/4\"",
+                "Projection: 3/8\"",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: AP: Antique Pewter",
+                "Select Finish: TB: Timeless Bronze",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: ULB: Unlacquered Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ULB: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

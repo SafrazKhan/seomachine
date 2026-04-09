@@ -1,0 +1,132 @@
+{
+    "legacy_product_id": "948857",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Track for LCN 4040XPT Series with Hold Open Clip and Bumper, LCN 4040XPT-3038HB",
+            "vendor": "LCN",
+            "status": "ARCHIVED",
+            "sku": "LCN-4040XPT-3038HB",
+            "mpn": "LCN-4040XPT-3038HB",
+            "price": "125.0",
+            "compare_at_price": "125.0",
+            "contractor_price": "125.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Track for LCN 4040 Series with Hold Open Clip and Bumper",
+                "LCN-4040XPT-3038HB"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52573.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52573.gif?v=1716427115"
+        },
+        "text": {
+            "description_html": "<b>LCN-4040XPT-3038HB, Track for LCN 4040 Closer</b>\r\n\r\n<p>\r\nThis is the replacement track for <a href=\"/products/lcn-super-smoothee-track-arm-door-closer-lcn-4040xpt\"><b>LCN 4040XPT Grade 1 Door Closer</b></a>. It includes hold open clip and bumper.  \r\n</p>\r\n\r\n<p><b>*Sold Individually</b></p>",
+            "seo": {
+                "title": "Track for LCN 4040XPT  Series with Hold Open Clip and Bumper",
+                "description": "This is the replacement track for LCN 4040XPT Grade 1 Door Closer. It includes hold open clip and bumper.",
+                "keywords": "Track for LCN 4040 Series with Hold Open Clip and Bumper, LCN-4040XPT-3038HB"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closer Parts",
+                    "sort": "104"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "499842",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "15351",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "71772",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "499860",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "347705",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "173111",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "15313",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "175952",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: (AL) - Aluminum",
+                "Select Finish: (DKBRZ) - Dark Bronze",
+                "Add hold open roller wheel?: No Thanks",
+                "Add hold open roller wheel?: LCN-4040XPT-3034H - Yes Add Hold Open Roller Wheel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "(AL) - Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "(DKBRZ) - Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Add hold open roller wheel? ",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "No Thanks",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LCN-4040XPT-3034H - Yes Add Hold Open Roller Wheel",
+                    "price_impact": 25.65,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

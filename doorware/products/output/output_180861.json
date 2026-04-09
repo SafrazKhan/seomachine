@@ -1,0 +1,132 @@
+{
+    "legacy_product_id": "180861",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "LCN 2014 Concealed Door Closer",
+            "vendor": "LCN",
+            "status": "ACTIVE",
+            "sku": "LCN-2014",
+            "mpn": "LCN-2014",
+            "price": "868.0",
+            "compare_at_price": "1085.0",
+            "contractor_price": "824.6",
+            "shipping_weight": "14.0",
+            "tags": [
+                "LCN-2014 Concealed Door Closers",
+                "LCN 2010 Series Head Frame Mounted Concealed Door Closers",
+                "store front door closers",
+                "LCN Concealed Overhead Door Closers",
+                "LCN 2014 closers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LCN-2010-series-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LCN-2010-series-525.jpg?v=1717105673"
+        },
+        "text": {
+            "description_html": "<b>LCN Concealed Overhead Door Closers</b>\r\n<p>\r\nThe Concealed LCN 2014 is designed to mount in the door frame. \r\nThis heavy duty door closer is designed to provide complete concealment.\r\n</p>\r\n<p>\r\nThe single lever arm and roller assembly provide smooth, quiet door control. This is a handed closer with a spring size 4 and Aluminum finish.\r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/kaba-5000-size.gif?v=1704354507\" width=\"600\" height=\"250\" border=\"0\" alt=\"LCN 2014 closer dimensions\">\r\n</p>\r\n<p>\r\nThe LCN 2014 designed for  Exterior Doors 30\" - 36\" and Interior Doors 38\" - 48\"\r\n</p>\r\n<p><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/2010.pdf?v=1704262219\" target=\"new\"><b>LCN 2014 Installation Diagram (PDF).</b></a>\r\n</P>\r\n\r\n<p>\r\nThis Handed door closer is UL and ULC listed for self-closing doors without hold-open and comes with a 15 year warranty.\r\nTested and certified under ANSI Standard A156.4, <b>Grade 1</b>.\r\n</p>\r\n<p>\r\nPackaged complete with door closer, mounting bracket, closer arm, track, roller and installation screws.\r\n</p>\r\n<p>\r\n<b>*Important</b> When selecting <b>Door Hand</b> for this door closer:  \r\n<br>\r\n1. Stand on the <b>Push Side</b> of the door, facing the door. <br>\r\n2. If the \"Pivot Hinge\" is on your \"Left\", choose \"Left Hand Door\". <br>\r\n3. If the \"Pivot Hinge\" is on your \"Right\", choose \"Right Hand Door\". <br>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/closer-handing.gif?v=1704354510\"  width=\"410\" height=\"195\" border=\"0\"alt=\"door handing\">\r\n</p>",
+            "seo": {
+                "title": "LCN 2014 Concealed Door Closer",
+                "description": "LCN 2010 Series Concealed Door Closers.   Frame Mounted Concealed Overhead Door Closer for exterior doors up to 36 inches and interior doors up to 48 inches wide. ",
+                "keywords": "LCN-2014 Concealed Door Closers, LCN 2010 Series Head Frame Mounted Concealed Door Closers, store front door closers, LCN Concealed Overhead Door Closers, LCN 2014 closers,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closers",
+                    "sort": "9"
+                },
+                {
+                    "name": "Door Closers",
+                    "sort": "61"
+                },
+                {
+                    "name": "Commercial Door Closers",
+                    "sort": "29"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "71765",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "196107",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "15357",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "180789",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "180802",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "15351",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "71772",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "140413",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "195864",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "175952",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "196107",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Door Hand: LCN-2014-LH: Left Hand Door",
+                "Select Door Hand: LCN-2014-RH: Right Hand Door"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Hand",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LCN-2014-LH: Left Hand Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LCN-2014-RH: Right Hand Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

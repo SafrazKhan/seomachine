@@ -1,0 +1,93 @@
+{
+    "legacy_product_id": "21980",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Design Hardware 316R Door Closer with Replacement Plate",
+            "vendor": "Design Hardware",
+            "status": "ARCHIVED",
+            "sku": "DES-316R",
+            "mpn": "DES-316R",
+            "price": "123.2",
+            "compare_at_price": "176.0",
+            "contractor_price": "110.88",
+            "shipping_weight": "10.0",
+            "tags": [
+                "DES-316R",
+                "316r design hardware door closers",
+                "surface mounted",
+                "non-handed",
+                "mounting plate",
+                "back check",
+                "through bolts",
+                "closer drop plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/dh-316r-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/dh-316r-525.jpg?v=1716420410"
+        },
+        "text": {
+            "description_html": "<b>316R Design Hardware Aluminum Door Closer</b>\r\n<p>\r\nDesign Hardware offers you solutions proven to fit every application from the heaviest use to the most prestigious and even the aesthetically pleasing. You will find their high quality products in residential and commercial projects around the world.\r\n</p>\r\n<p>\r\n<b>316R Design Hardware Specs:</b>\r\n</p>\r\n<p>\r\n<ul>\r\n<li>Meets ANSI A156.4 Grade 1 Standards.\r\n<li>UL Listed, Non Handed</li>\r\n<li>Adjustable Spring Power 1 to 6 for <a href=\"/pages/ada-compliant\">ADA compliance</a>.</li>\r\n<li>Includes Patented Mounting Plate that can replace a wide variety of door closers without drilling new holes in the door.</li>\r\n<li>Heavy Duty Aluminum Closer Body</li>\r\n<li>Back Check Control standard.</li>\r\n<li>Latch Speed & Sweep Controls.</li>\r\n<li><b>Parallel Arm Bracket Included.</b></li>\r\n<li>Through Bolts 1 3/4\".</li>\r\n<li>Wood and Machine screw fasteners.</li>\r\n<li>Molded Cover included.</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<b>\r\nInstallation Guide: <a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/316Rseries_install.pdf?v=1704262176\" target=\"new\">Click here to download. (PDF).</a></b>\r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/handicap-logo.jpg?v=1704353001\">\r\n</p>",
+            "seo": {
+                "title": "Design Hardware 316R Door Closer with Replacement Plate",
+                "description": "316R Aluminum Door Closer.\r\nMeets ANSI A156.4. Grade 1 Standards.\r\nUL Listed. Non Handed. Adjustable Spring Power 1 to 6. Includes Patented Mounting Plate that can replace a Wide variety of door closers without drilling. Heavy Duty Aluminum Closer Body. Back Check Control. standard\r\nLatch Speed & Sweep Controls.\r\nParallel Arm Bracket Included. Through Bolts 1 3/4 Wood and Machine screw fasteners .Molded Cover included.\r\n\r\n\r\n\r\n",
+                "keywords": "DES-316R, 316r design hardware door closers, surface mounted, non-handed, mounting plate, back check, through bolts, closer drop plates,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Design Hardware Door Closers",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "159554",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "144751",
+                    "sort": "2"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DES-316R-AL Aluminum Finish",
+                "Select Finish: DES-316R-BZ Bronze Finish"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DES-316R-AL Aluminum Finish",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DES-316R-AL"
+                },
+                {
+                    "value": "DES-316R-BZ Bronze Finish",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DES-316R-BZ"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "legacy_product_id": "1215908",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Arched Rose with Rope Lever Interior Handleset Trim, Emtek 8108RL-INT",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-8108RL-INT",
+            "mpn": "EMT-8108RL-INT",
+            "price": "99.0",
+            "compare_at_price": "99.0",
+            "contractor_price": "99.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Arched Rose with Rope Lever Interior Handleset Trim",
+                "Emtek 8108RL-INT"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525266.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525266.gif?v=1769504672"
+        },
+        "text": {
+            "description_html": "<b>Emtek 8108RL-INT, Arched Rose with Rope Lever Interior Handleset Trim </b>\r\n\r\n<p>\r\nThis is replacement interior trim for Emtek Tubular Handlesets.  It is the interior rose and lever only and does not include the top deadbolt or the exterior handleset.\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of the Arched Rose with Rope Lever Interior Handleset Trim:\r\n<ul>\r\n<li>Fits standard door cut outs (2-1/8\" pre-drilled doors).</li>\r\n<li>Lever is surface mounted (rosette screws to the door's face).</li>\r\n<li>Solid brass lever and trim rose.</li>\r\n<li>Sold as interior side lever portion only</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Rope Lever and Arched Rose:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Lever Length: 4-7/16\"</li>\r\n<li>Lever Projection: 2-7/8\"</li>\r\n<li>Clearance: 1-1/8\"</li>\r\n<li>Rose Height: 4-3/8\"</li>\r\n<li>Rose Width: 2-9/16\"</li>\r\n<li>Door Thickness: 1-1/4 - 3\"</li>\r\n<li><b>Finish: French Antique</b></li>\r\n</ul>\r\n</p>\r\n\r\n\r\n\r\n<p>\r\nLevers are Handed. <a href=\"/pages/how-to-order-door-hardware\"><b>Handing Guide</b></a>\r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-7-finish.jpg?v=1704354517\" width=\"600\" height=\"115\" border=\"0\" alt=\"Emtek Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "Arched Rose with Rope Lever Interior Handleset Trim",
+                "description": "Arched Rose with Rope Lever Interior Handleset Trim, Emtek 8108RL-INT",
+                "keywords": "Arched Rose with Rope Lever Interior Handleset Trim, Emtek 8108RL-INT"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Lever Length",
+                    "value": "4-7/16\""
+                },
+                {
+                    "key": "Lever Projection",
+                    "value": "2-7/8\""
+                },
+                {
+                    "key": "Clearance",
+                    "value": "1-1/8\""
+                },
+                {
+                    "key": "Rose Height",
+                    "value": "4-3/8\""
+                },
+                {
+                    "key": "Rose Width",
+                    "value": "2-9/16\""
+                },
+                {
+                    "key": "Door Thickness",
+                    "value": "1-1/4 - 3\""
+                },
+                {
+                    "key": "Finish",
+                    "value": "French Antique"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Custom and Special Orders",
+                    "sort": "33"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Material: Brass",
+                "Lever Length: 4-7/16\"",
+                "Lever Projection: 2-7/8\"",
+                "Clearance: 1-1/8\"",
+                "Rose Height: 4-3/8\"",
+                "Rose Width: 2-9/16\"",
+                "Door Thickness: 1-1/4 - 3\"",
+                "Finish: French Antique",
+                "Select Door Thickness: 1-1/4in. - 2in. Door Thickness",
+                "Select Door Thickness: 2in. - 2-1/2in. Door Thickness",
+                "Select Door Thickness: 2-1/2in. - 3in. Door Thickness",
+                "Select Handing: RH: Right Handing",
+                "Select Handing: LH: Left Handing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1-1/4in. - 2in. Door Thickness",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2in. - 2-1/2in. Door Thickness",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-1/2in. - 3in. Door Thickness",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RH: Right Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LH: Left Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

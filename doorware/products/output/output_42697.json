@@ -1,0 +1,182 @@
+{
+    "legacy_product_id": "42697",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Daphne Cabinet Knob, Omnia 9102/30",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "OMN-9102/30",
+            "mpn": "OMN-9102/30",
+            "price": "19.2",
+            "compare_at_price": "24.0",
+            "contractor_price": "18.24",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9102 classic cabinet knobs",
+                "solid brass cabinet knobs",
+                "kitchen cabinet knobs",
+                "omnia cabinet knobs",
+                "omn-9102/25",
+                "omn-9102/30",
+                "omn-9102/40",
+                "classic kitchen cabinet knobs Omnia 9102",
+                "solid brass drawer knobs",
+                "Omnia 9102 drawer pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-9102-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-9102-525.jpg?v=1716420827"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9102/30, Solid Brass Daphne Cabinet Knob</b>\r\n\r\n<p>\r\nThis Omnia made Daphne Cabinet Knob is classically styled with ripples. All 5 of the finishes grant the knob a sophistication that is reflected in the solid brass construction. The Daphne Cabinet Knob is 1-3/16 inches in diameter with a 1-1/8 inch projection.\r\n</p>\r\n\r\n<p>\r\nAlso available: <a href=\"/products/daphne-vintage-finish-cabinet-knob-omnia-9102-30\"><b>Vintage Finish Daphne Cabinet Knob</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Omnia 9102 Daphne Cabinet Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter: 1-3/16\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold individually.</i>\r\n</p>",
+            "seo": {
+                "title": "Daphne Cabinet Knob,",
+                "description": "This Omnia made Daphne Cabinet Knob is classically styled with ripples. All 5 of the finishes grant the knob a sophistication that is reflected in the solid brass construction. The Daphne Cabinet Knob is 1-3/16 inches in diameter with a 1-1/8 inch projection.\r\n",
+                "keywords": "omnia 9102 classic cabinet knobs, solid brass cabinet knobs, kitchen cabinet knobs, omnia cabinet knobs, omn-9102/25, omn-9102/30, omn-9102/40, classic kitchen cabinet knobs Omnia 9102, solid brass drawer knobs, Omnia 9102 drawer pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Diameter",
+                    "value": "1-3/16\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-1/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia Decorative Collection Cabinet Knobs And Pulls",
+                    "sort": "32"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "3"
+                },
+                {
+                    "name": "Omnia Cabinet Knobs",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "589489",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "42954",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "38126",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "917020",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "42897",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "204447",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42914",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "295381",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "42677",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "38235",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "41418",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Diameter: 1-3/16\"",
+                "Projection: 1-1/8\"",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US10B: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US3"
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26"
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US14"
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US15"
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US10B"
+                }
+            ]
+        }
+    ]
+}

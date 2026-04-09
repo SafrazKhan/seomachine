@@ -1,0 +1,101 @@
+{
+    "legacy_product_id": "1012156",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Augusta Classroom Lever for Yale 2100 Panic Device, Yale AU446F",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "YAL-AU446F",
+            "mpn": "YAL-AU446F",
+            "price": "133.9",
+            "compare_at_price": "188.0",
+            "contractor_price": "133.9",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Augusta Classroom Lever for Yale 2100 Panic Device",
+                "Yale AU446F"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/YAL-AU446F-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/YAL-AU446F-525.jpg?v=1717106417"
+        },
+        "text": {
+            "description_html": "<b>Yale AU446F, Classroom Function Augusta Lever for Yale 2100 Panic Device</b>\r\n\r\n<p>\r\nThis heavy duty Classroom Function Lever is for use with Yale 2100 Series Panic Devices.\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of the Yale AU446F Augusta Lever Keyed Classroom Function:\r\n<ul>\r\n<li>Finish: Satin Chrome</li>\r\n<li>Classroom Function (ANSI F08) - Outside lever locked and unlocked by a key.</li>\r\n<li>Lock Cylinder: Standard Schlage C Keyway</li>\r\n<li>ADA Compliant</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Augusta Classroom Lever for Yale 2100 Panic Device",
+                "description": "This heavy duty Classroom Function Lever is for use with Yale 2100 Series Panic Devices.",
+                "keywords": "Augusta Classroom Lever for Yale 2100 Panic Device, Yale AU446F,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Yale Custom and Special Orders",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "310471",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "351816",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "291640",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "256109",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Keying: Only Ordered One Lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "legacy_product_id": "185320",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Schlage A-Series Latch, 2-3/8 or 2-3/4 Backsets",
+            "vendor": "Schlage-Commercial",
+            "status": "ARCHIVED",
+            "sku": "SCH-A-Latch",
+            "mpn": "SCH-A-Latch",
+            "price": "99.58",
+            "compare_at_price": "99.58",
+            "contractor_price": "99.58",
+            "shipping_weight": "0.5",
+            "tags": [
+                "SCH-A-Latch",
+                "Schlage A-Series Latch",
+                "2-3/8 or 2-3/4 Backsets",
+                "2-3/8 backsets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Schlage A-Series Latch</b>\r\n<p>\r\nThese latches fit Schlage A-Series door knobs and levers. Available for 2-3/8\" and 2-3/4\" Backsets.  For Passage, Privacy (Springlatch) or Keyed Entry (Deadlatch) functions in 4 different finish choices. \r\n</p>",
+            "seo": {
+                "title": "Schlage A-Series Latch, 2-3/8 or 2-3/4 Backsets",
+                "description": "Schlage A-Series Latch, 2-3/8 backset or 2-3/4 Backset. Available for Privacy, passage and all key entry functions.",
+                "keywords": "SCH-A-Latch, Schlage A-Series Latch, 2-3/8 or 2-3/4 Backsets, 2-3/8 backsets,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Misc-Discontinued-Items",
+                    "sort": "65"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Function and Backset: SCH-11069 - Passage 2-3/8in. Backset",
+                "Select Function and Backset: SCH-11116 - Passage 2-3/4in. Backset",
+                "Select Function and Backset: SCH-11069 - Privacy 2-3/8in. Backset",
+                "Select Function and Backset: SCH-11116 - Privacy 2-3/4in. Backset",
+                "Select Function and Backset: SCH-11068 - Keyed Entry 2-3/8in. Backset",
+                "Select Function and Backset: SCH-11096 - Keyed Entry 2-3/4in. Backset",
+                "Select Finish: 605 - Polished Brass",
+                "Select Finish: 612 - Satin Bronze",
+                "Select Finish: 613 - Oil Rubbed bronze",
+                "Select Finish: 626 - Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function and Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SCH-11069 - Passage 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SCH-11069"
+                },
+                {
+                    "value": "SCH-11116 - Passage 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SCH-11116"
+                },
+                {
+                    "value": "SCH-11069 - Privacy 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SCH-11069"
+                },
+                {
+                    "value": "SCH-11116 - Privacy 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SCH-11116"
+                },
+                {
+                    "value": "SCH-11068 - Keyed Entry 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SCH-11068"
+                },
+                {
+                    "value": "SCH-11096 - Keyed Entry 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SCH-11096"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "605 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "605"
+                },
+                {
+                    "value": "612 - Satin Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "612"
+                },
+                {
+                    "value": "613 - Oil Rubbed bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "613"
+                },
+                {
+                    "value": "626 - Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "626"
+                }
+            ]
+        }
+    ]
+}

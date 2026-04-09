@@ -1,0 +1,117 @@
+{
+    "legacy_product_id": "1043103",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Greenwich Single Cylinder Handleset, Schlage SCH-FC60GRW",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-FC60GRW",
+            "mpn": "SCH-FC60GRW",
+            "price": "232.8",
+            "compare_at_price": "291.0",
+            "contractor_price": "232.8",
+            "shipping_weight": "10.0",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Schlage FC60GRW, Arts & Crafts Inspired Single Cylinder Handleset</b>\r\n\r\n<p>\r\n<b>Features</b> of the Schlage Greenwich Handleset:\r\n<ul>\r\n<li>ANSI A156.36 Grade 1 commercial.</li>\r\n<li>Residential standard certification: ANSI/BHMA 156.40 residential grade AAA.</li>\r\n<li>Easy installation.</li>\r\n<li>Guaranteed to fit all standard door preparations.</li>\r\n<li>C keyway comes packaged with 2 keys.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Single Cylinder Greenwich Handleset:\r\n<ul>\r\n<li>Door Thickness: 1-5/8\" to 2-1/4\"</li>\r\n<li>Backset: will fit 2-3/8\" or 2-3/4\"</li>\r\n<li>5-1/2\" center to center deadbolt to latch spacing</li>\r\n<li>Adjustable throughbolt can move up and down 1-1/2\" to fit a variety of pre-existing holes</li>\r\n<li>Interior Trim: Broadway Lever with Kinsler Trim</li>\r\n<li>Finish: Matte Black</li>\r\n<li>Lock and finish come with limited lifetime warranty.</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Greenwich Single Cylinder Handleset, Schlage SCH-FC60GRW",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": [
+                {
+                    "key": "Door Thickness",
+                    "value": "1-5/8\" to 2-1/4\""
+                },
+                {
+                    "key": "Backset",
+                    "value": "will fit 2-3/8\" or 2-3/4\""
+                },
+                {
+                    "key": "Interior Trim",
+                    "value": "Broadway Lever with Kinsler Trim"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Matte Black"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Misc-Discontinued-Items",
+                    "sort": "50"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Door Thickness: 1-5/8\" to 2-1/4\"",
+                "Backset: will fit 2-3/8\" or 2-3/4\"",
+                "Interior Trim: Broadway Lever with Kinsler Trim",
+                "Finish: Matte Black",
+                "Keying: Only ordered one lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike",
+                "Select Finish: Matte Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Only ordered one lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

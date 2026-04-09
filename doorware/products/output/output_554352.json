@@ -1,0 +1,127 @@
+{
+    "legacy_product_id": "554352",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Contoured Cabinet Knob, RK International CK-414",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-414",
+            "mpn": "RKI-CK-414",
+            "price": "8.99",
+            "compare_at_price": "11.22",
+            "contractor_price": "8.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "French Contoured Cabinet Door Knobs",
+                "French Contoured Knobs",
+                "Contoured Cabinet Knobs",
+                "RKI-CK-414",
+                "RK International CK-414",
+                "Chic Contoured Cabinet Knobs",
+                "black cabinet hardware",
+                "chrome cabinet hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-414-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-414-525.jpg?v=1716424417"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-414, Chic Contoured Cabinet Knob</b>\r\n\r\n<p> \r\nA truly beautiful piece of cabinet hardware is not made with a superfluous amount of gaudy design. A truly beautiful cabinet knob is chic in its simplicity. The Contoured Cabinet Knob is available in black nickel (pictured), polished chrome, and polished brass finishes. We like the black nickel finish the best for its uniqueness and its stylish appeal but both of the other available finishes add their own beauty. The CK-414 Cabinet Knob has a 1-1/4 inch diameter. It is easy to install and comes packaged with all the necessary installation hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-414  Cabinet Hardware:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 9/16\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Contoured Cabinet Knob",
+                "description": "RK International CK-414, Contoured Cabinet Knob - A truly beautiful piece of cabinet hardware is not made with a superfluous amount of gaudy design. A truly beautiful cabinet knob is chic in its simplicity. The Contoured Cabinet Knob is available in black nickel, polished chrome, and polished brass finishes. We like the black nickel finish the best for its uniqueness and its stylish appeal but both of the other available finishes add their own beauty. The CK-414 Cabinet Knob has a 1-1/4 inch diameter. It is easy to install and comes packaged with all the necessary installation hardware.",
+                "keywords": "French Contoured Cabinet Door Knobs, French Contoured Knobs, Contoured Cabinet Knobs, RKI-CK-414, RK International CK-414,  Chic Contoured Cabinet Knobs, black cabinet hardware, chrome cabinet hardware,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "8"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "43085",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "121036",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "10361",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "43042",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "40081",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "822693",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "592578",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "383597",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: N: Black Nickel",
+                "Select Finish: C: Polished Chrome",
+                "Select Finish: B: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "N: Black Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "C: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

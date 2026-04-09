@@ -1,0 +1,117 @@
+{
+    "legacy_product_id": "209025",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Drive In Adjustable Deadlatch, DoralLock DLE23875",
+            "vendor": "Deltana",
+            "status": "ARCHIVED",
+            "sku": "DOR-DLE23875",
+            "mpn": "DOR-DLE23875",
+            "price": "8.05",
+            "compare_at_price": "8.05",
+            "contractor_price": "8.05",
+            "shipping_weight": "0.25",
+            "tags": [
+                "DOR-DLE23875 Drive In  Entry Latch",
+                "Drive In Adjustable Deadlatch",
+                "DoralLock DLE23875 latch"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DOR-DLE23875_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DOR-DLE23875_525.jpg?v=1716422016"
+        },
+        "text": {
+            "description_html": "<b>DoralLock DLE23875, Drive In Adjustable Deadlatch</b>\r\n\r\n<p>\r\nAdjustable backset drive in deadlatch for DoralLock entry locksets. \r\n</p>\r\n\r\n<p>\r\nAlso available: <a href=\"/products/drive-in-adjustable-latch-dorallock-dlp23875\">DoralLock Drive In Adjustable Latch for Passage and Privacy</a>\r\n</p>\r\n\r\n<p>\r\nAdjustable for a 2-3/8\" or 2-3/4\" backset.\r\n</p>\r\n\r\n<p>\r\n<b>For keyed entry functions only.</b>\r\n</p>",
+            "seo": {
+                "title": "Drive In Adjustable Deadlatch, DoralLock DLE23875",
+                "description": "This DoralLock drive in deadlatch is for entry locksets. It is adjustable for 2-3/8 inch or 2-3/4 inch backsets.",
+                "keywords": "DOR-DLE23875 Drive In  Entry Latch, Drive In Adjustable Deadlatch, DoralLock DLE23875 latch,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "DoralLock Discontinued Misc",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: DOR-DLE23875U10B - Oil Rubbed Bronze",
+                "Select Finish: DOR-DLE23875U15 - Satin Nickel",
+                "Select Finish: DOR-DLE23875U15A - Antique Nickel",
+                "Select Finish: DOR-DLE23875U26 - Polished Chrome",
+                "Select Finish: DOR-DLE23875U26D - Brushed Chrome",
+                "Select Finish: DOR-DLE23875U5 - Antique Brass",
+                "Select Finish: DOR-DLE23875CR003 - PVD Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DOR-DLE23875U10B - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DOR-DLE23875U15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DOR-DLE23875U15A - Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DOR-DLE23875U26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DOR-DLE23875U26D - Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DOR-DLE23875U5 - Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DOR-DLE23875CR003 - PVD Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

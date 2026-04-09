@@ -1,0 +1,166 @@
+{
+    "legacy_product_id": "143885",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Brass Traditional Door Knocker With Eye Viewer, Brass Accents A07-K6551",
+            "vendor": "BrassAccents",
+            "status": "ACTIVE",
+            "sku": "BRA-A07-K6551",
+            "mpn": "BRA-A07-K6551",
+            "price": "61.99",
+            "compare_at_price": "77.0",
+            "contractor_price": "58.52",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Urn Tip Door Knocker With Peepholes",
+                "Solid Brass Traditional Door Knocker With Eye Viewers",
+                "Brass Accents A07-K6551",
+                "BRA-A07-K6551",
+                "viewer knocker",
+                "knocker with viewer",
+                "door viewer",
+                "peepholes",
+                "peek holes",
+                "peep holes",
+                "Traditional Style Door Knocker With Security Peephole"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BA-A07-K6551_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BA-A07-K6551_525.jpg?v=1716421401"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents A07-K6551, Traditional Style Door Knocker With Security Peephole</b>\r\n\r\n<p>\r\nThe Solid Brass Traditional Door Knocker With Eye Viewer features a classic Urn Tip design making it great for colonial style homes. It is made out of solid brass, so you can be sure that it will stand the test of time. Besides looking beautiful, this traditional front door knocker also features an peephole built right in, so you can safely see who is at your door, before you open it.\r\n</p>\r\n\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance. Their products are \r\nhand finished in the USA. They are one of the world's leading crafters of cast-brass and hot-forged decorative brass hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Traditional Door Knocker With Peephole\r\n<ul>\r\n<li>Height: 6\"</li>\r\n<li>Width: 3\"</li>\r\n<li>Mounting Centers: 3-15/16\"</li>\r\n<li>Max Thickness: 1-1/8\"</li>\r\n<li>Solid Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>",
+            "seo": {
+                "title": "Solid Brass Traditional Door Knocker With Eye Viewer, Brass Accents A07-K6551",
+                "description": "Brass Accents A07-K6551, Solid Brass Traditional Door Knocker With Eye Viewer -- The Solid Brass Traditional Door Knocker With Eye Viewer features a classic Urn Tip design making it great for colonial style homes. It is made out of solid brass, so you can be sure that it will stand the test of time. Besides looking beautiful, this traditional front door knocker also features an peephole built right in, so you can safely see who is at your door, before you open it.\r\n",
+                "keywords": "Urn Tip Door Knocker With Peepholes, Solid Brass Traditional Door Knocker With Eye Viewers, Brass Accents A07-K6551, BRA-A07-K6551, viewer knocker, knocker with viewer, door viewer, peepholes, peek holes, peep holes, Traditional Style Door Knocker With Security Peephole"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "6\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3\""
+                },
+                {
+                    "key": "Mounting Centers",
+                    "value": "3-15/16\""
+                },
+                {
+                    "key": "Max Thickness",
+                    "value": "1-1/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knockers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knockers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-6",
+            "collections": [
+                {
+                    "name": "Brass Accents Door Knockers",
+                    "sort": "12"
+                },
+                {
+                    "name": "Door Knockers",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "156727",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "10355",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "750570",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "207557",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "207665",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "207570",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "6543",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "1070320",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "76695",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Height: 6\"",
+                "Width: 3\"",
+                "Mounting Centers: 3-15/16\"",
+                "Max Thickness: 1-1/8\"",
+                "Select Finish: Antique Brass",
+                "Select Finish: Polished Brass",
+                "Select Finish: Satin Nickel",
+                "Select Finish: Venetian Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Antique"
+                },
+                {
+                    "value": "Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Polished"
+                },
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Satin"
+                },
+                {
+                    "value": "Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

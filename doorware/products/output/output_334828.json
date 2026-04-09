@@ -1,0 +1,76 @@
+{
+    "legacy_product_id": "334828",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Parcel Door Replacement for 562 Parcel Locker, Bommer F562-9-2-R-628",
+            "vendor": "Bommer",
+            "status": "ARCHIVED",
+            "sku": "BOM-F562-9-2-R-628",
+            "mpn": "BOM-F562-9-2-R-628",
+            "price": "164.1",
+            "compare_at_price": "258.72",
+            "contractor_price": "164.1",
+            "shipping_weight": "12.0",
+            "tags": [
+                "Parcel Door Replacement for 562 Parcel Locker",
+                "Bommer F562-9-2-R-628"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/special_order-52530.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/special_order-52530.jpg?v=1717105932"
+        },
+        "text": {
+            "description_html": "<b>P2 Parcel Door Replacement for 562 Parcel Locker</b>\r\n\r\n<p>Parcel doors are available either blank or engraved with one letter  for use with Bommer Model 562 Front Loading Postal Unit\r\n\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Bommer Mailbox Labels:\r\n<ul>\r\n<li>Material: 1/8\" Thick Alminum</li>\r\n<li>Width: 12-1/2\"</li>\r\n<li>Height: 10-1/2\"</li>\r\n<li>Finish: Clear Anodized Aluminum</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Special Order Item - NO RETURNS</b>\r\n</p>",
+            "seo": {
+                "title": "Parcel Door Replacement for 562 Parcel Locker, Bommer F562-9-2-R-628",
+                "description": "Parcel Door Replacement for 562 Parcel Locker, Bommer F562-9-2-R-628",
+                "keywords": "Parcel Door Replacement for 562 Parcel Locker, Bommer F562-9-2-R-628"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Bommer Postal Specialties",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Add Optional Locking Mechanism: No, Thanks",
+                "Add Optional Locking Mechanism: Locking Mechanism"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Add Optional Locking Mechanism",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "No, Thanks",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Locking Mechanism",
+                    "price_impact": 68.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "legacy_product_id": "1156677",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Brickell Stainless Steel Cabinet Pull, MNG 889",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "MNG-889",
+            "mpn": "MNG-889",
+            "price": "15.66",
+            "compare_at_price": "20.88",
+            "contractor_price": "15.66",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Brickell Cabinet Pulls",
+                "Modern Brickell Pulls",
+                "MNG 889",
+                "MNG-889",
+                "MNG 88902",
+                "MNG 88903",
+                "MNG 88904",
+                "MNG 88301 Satin stainless steel cabinet pulls",
+                "Modern Brickell Cabinet Pulls",
+                "stainless steel cabinet pulls",
+                "Stainless Steel Brickell Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MNG-889-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-889-525.jpg?v=1717106620"
+        },
+        "text": {
+            "description_html": "<b>MNG 889, Modern Brickell Cabinet Pull</b>\r\n\r\n<p>\r\nThe Stainless Steel Brickell Cabinet Pull is a modern handle that comes with all the perks of sleek design. The first of these is a desirable modern look that will update any kitchen. The second being ease of care. The Modern Brickell Cabinet Pull comes in a durable satin stainless finish. The Brickell Stainless Steel Pull comes packaged with the mounting hardware. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the MNG Brickell Collection:\r\n<ul>\r\n<li>Base Material: Stainless Steel  </li>\r\n<li>Finish: Satin Stainless Steel</li>\r\n<li>Packaged with 1\" long #8-32 screws and 1-1/2\"  long #8-32 screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 4 Lengths:</b>\r\n<ul>\r\n<b>MNG 88901</b>\r\n<ul>\r\n<li>Length c.c. (center to center): 3-3/4\"</li>\r\n<li>Overall Length: 4\"</li>\r\n<li>Projection: 1-3/8\"</li>\r\n<li>Width: 3/4\"</li>\r\n</ul>\r\n<br>\r\n<b>MNG 88902</b>\r\n<ul>\r\n<li>Length c.c. (center to center): 5\"</li>\r\n<li>Overall Length: 5-1/2\"</li>\r\n<li>Projection: 1-3/8\"</li>\r\n<li>Width: 3/4\"</li>\r\n</ul>\r\n<br>\r\n<b>MNG 88903</b>\r\n<ul>\r\n<li>Length c.c. (center to center): 6-1/4\"</li>\r\n<li>Overall Length: 6-1/2\"</li>\r\n<li>Projection: 1-3/8\"</li>\r\n<li>Width: 3/4\"</li>\r\n</ul>\r\n<br>\r\n<b>MNG 88904</b>\r\n<ul>\r\n<li>Length c.c. (center to center): 7-1/2\"</li>\r\n<li>Overall Length: 8\"</li>\r\n<li>Projection: 1-3/8\"</li>\r\n<li>Width: 3/4\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i> \r\n</p>",
+            "seo": {
+                "title": "Stainless Steel Brickell Cabinet Pull",
+                "description": "The Stainless Steel Brickell Cabinet Pull is a modern handle that comes with all the perks of sleek design. The first of these is a desirable modern look that will update any kitchen. The second being ease of care. The Modern Brickell Cabinet Pull comes in a durable satin stainless finish. The Brickell Stainless Steel Pull comes packaged with the mounting hardware.",
+                "keywords": "Brickell Cabinet Pulls, Modern Brickell Pulls, MNG 889, MNG-889, MNG 88902, MNG 88903, MNG 88904, MNG 88301 Satin stainless steel cabinet pulls, Modern Brickell Cabinet Pulls, stainless steel cabinet pulls, Stainless Steel Brickell Cabinet Pulls"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "6"
+                },
+                {
+                    "name": "MNG Cabinet Hardware",
+                    "sort": "15"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "328788",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "934987",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "949636",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "799186",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "799221",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "904670",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "1056331",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Size: MNG 88901: Length c.c. 3-3/4in.",
+                "Select Size: MNG 88902: Length c.c. 5in.",
+                "Select Size: MNG 88903: Length c.c. 6-1/4in.",
+                "Select Size: MNG 88904: Length c.c. 7-1/2in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MNG 88901: Length c.c. 3-3/4in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": " MNG 88902: Length c.c. 5in.",
+                    "price_impact": 1.22,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MNG 88903: Length c.c. 6-1/4in.",
+                    "price_impact": 2.46,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": " MNG 88904: Length c.c. 7-1/2in.",
+                    "price_impact": 3.71,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

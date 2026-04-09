@@ -1,0 +1,69 @@
+{
+    "legacy_product_id": "1154265",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "SMARTair Wireless HUB Router, Mul-T-Lock SMA-W-HUB-V3",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "MTL-SMA-W-HUB-V3",
+            "mpn": "MTL-SMA-W-HUB-V3",
+            "price": "1004.0",
+            "compare_at_price": "1004.0",
+            "contractor_price": "1004.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "SMARTair Wireless HUB Router",
+                "Mul-T-Lock SMA-W-HUB-V3",
+                "MTL-SMA-W-HUB-V3"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MTL-SMA-W-HUB-V3-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MTL-SMA-W-HUB-V3-525.jpg?v=1717791401"
+        },
+        "text": {
+            "description_html": "<b>Mul-T-Lock SMA-W-HUB-V3, SMARTair Wireless HUB</b>\r\n\r\n<p>\r\nThe SMARTair Wireless HUB is the link between SMARTair Software (TS1000) and the RF module in the SMARTair Wireless escutcheons, wall readers and knob cylinders. \r\n</p>\r\n\r\n<p>\r\nThe SMARTair Wireless HUB receives information about changes and updates from the SMARTair software and transmits it to the SMARTair Wireless escutcheons, wall readers and knob cylinders. Audit trail details are sent in the reverse direction, from the SMARTair escutcheons, wall reader and knob cylinders to the software.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the SMARTair Wireless HUB:\r\n<ul>\r\n<li>Up to 30 escutcheons/wall readers can communicate with one hub</li>\r\n<li>Up to 100 HUBs in one system</li>\r\n<li>RF Module frequency: 868 MHz or 915 MHz</li>\r\n<li>TCP/IP connection to the PC network. Default details: IP address - 192.168.1.10; Subnet mask - 255.255.255.0; Gateway - 192.168.1.0</li>\r\n<li>Operating temperature: from 0°C to 60°C</li>\r\n<li>Humidity: 10%-90%, no condensing</li>\r\n<li>Power: 12 VDC or 230/110 VAC</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "SMARTair Wireless HUB Router",
+                "description": "The SMARTair Wireless HUB is the link between SMARTair Software (TS1000) and the RF module in the SMARTair Wireless escutcheons, wall readers and knob cylinders.",
+                "keywords": "SMARTair Wireless HUB Router, Mul-T-Lock SMA-W-HUB-V3, MTL-SMA-W-HUB-V3"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Mul-T-Lock SMARTair",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "705942",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "490464",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "218012",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1143691",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

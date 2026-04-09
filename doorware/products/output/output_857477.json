@@ -1,0 +1,92 @@
+{
+    "legacy_product_id": "857477",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Omnia 935 Prodigy Knob Pair",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-935",
+            "mpn": "OMN-935",
+            "price": "41.0",
+            "compare_at_price": "41.0",
+            "contractor_price": "41.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Omnia 935 Knob",
+                "OMN-935",
+                "omnia prodigy collections",
+                "solid brass door knobs",
+                "Omnia Standard door knobs",
+                "modern knobs",
+                "Modern Knob Pair",
+                "Omnia 935 Prodigy Knob Pair",
+                "Omnia 935 Prodigy Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-935-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-935-525.jpg?v=1716426065"
+        },
+        "text": {
+            "description_html": "<b>Omnia 935, Modern Knob Pair</b>\r\n\r\n<p>\r\nThis is a pair of Omnia 935 Modern Knobs. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Omnia 935 Modern Knob:\r\n<ul>\r\n<li>Knob Diameter: 2-3/8\"</li>\r\n<li>Knob Projection: 2-3/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold as a Pair (2 Knobs)</i>\r\n</p>",
+            "seo": {
+                "title": "Omnia 935 Prodigy Knob",
+                "description": "This is a pair of Omnia 935 Modern Knobs.",
+                "keywords": "Omnia 935 Knob, OMN-935, omnia prodigy collections, solid brass door knobs, Omnia Standard door knobs, modern knobs, Modern Knob Pair, Omnia 935 Prodigy Knob Pair, Omnia 935 Prodigy Knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "54"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "681920",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "681990",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "682019",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "681945",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US26D - Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26D - Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

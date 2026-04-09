@@ -1,0 +1,216 @@
+{
+    "legacy_product_id": "992992",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "12 Inch Clearwater Door Handle with 1 Inch Diameter, First Impressions CLW01-Custom",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-CLW01-Custom",
+            "mpn": "FII-CLW01-Custom",
+            "price": "418.2",
+            "compare_at_price": "524.04",
+            "contractor_price": "418.2",
+            "shipping_weight": "5.0",
+            "tags": [
+                "12 Inch Clearwater Hand Chiseled Acrylic Door Handle with 1 Inch Diameter",
+                "1 Inch Square Clearwater Pulls",
+                "Clearwater Acrylic Door Pulls",
+                "FII-CLW01-Custom",
+                "First Impressions CLW01-Custom"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-CLW01012-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-CLW01012-525.jpg?v=1716427520"
+        },
+        "text": {
+            "description_html": "<b>First Impressions CLW01-Custom, 12 Inch Clearwater Hand Chiseled Acrylic Door Handle with 1 Inch Diameter</b>\r\n\r\n<p>\r\nThis custom made Clearwater Pull is made from hand chiseled clear acrylic. It has a 12 Inch overall length with a 1 Inch square diameter grip. This acrylic door pull can be surface mounted, thru-bolt mounted, or back-to-back mounted. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> for the First Impressions CLW01 Acrylic Door Pull:\r\n<ul>\r\n<li>Pull Handle Material: Hand Chiseled Clear Acrylic</li>\r\n<li>Total Length: 12\"</li>\r\n<li>Center to Center Mount: 8\"</li>\r\n<li>Pull Handle Diameter: 1\" square</li>\r\n<li>Total Projection: 3\"</li>\r\n<li>Clearance: 1-1/2\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>When Selecting a Mounting Hardware:</b>\r\n<ul>\r\n<li><b>Thru-Bolted Mounting:</b> Pull bolts through the door.</li>\r\n<li><b>Surface Mounting:</b> Pull screws to the face of the door.</li>\r\n<li><b>Back-to-Back Mounting:</b> Pulls bolt to each other through the door. <b>Requires 2 pulls</b>.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold individually (1 door pull handle). If you order Back-to-Back Mounting please Order 2 Pulls.</i>\r\n</p>\r\n\r\n<p>\r\n<b>Custom item. No Returns.</b>\r\n</p>",
+            "seo": {
+                "title": "1 Inch Square Clearwater Pull",
+                "description": "This custom made Clearwater Pull is made from hand chiseled clear acrylic. It has a 12 Inch overall length with a 1 Inch square diameter grip. This acrylic door pull can be surface mounted, thru-bolt mounted, or back-to-back mounted.",
+                "keywords": "12 Inch Clearwater Hand Chiseled Acrylic Door Handle with 1 Inch Diameter, 1 Inch Square Clearwater Pulls, Clearwater Acrylic Door Pulls, FII-CLW01-Custom,  First Impressions CLW01-Custom,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Custom-Misc-Items",
+                    "sort": "124"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "801375",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "551150",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "551201",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "801317",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "801297",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "830434",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Bracket Finish: SNN: Satin Nickel",
+                "Select Door Thickness Range: 1/4in. to 1/2in.",
+                "Select Door Thickness Range: 5/8in. to 1in.",
+                "Select Door Thickness Range: 1-1/8in. to 1-1/2in.",
+                "Select Door Thickness Range: 1-5/8in. to 2in.",
+                "Select Door Thickness Range: 2-1/8 to 2-1/2in.",
+                "Select Door Thickness Range: 2-5/8in. to 3in.",
+                "Select Door Material: Wood / Fiberglass",
+                "Select Door Material: Glass",
+                "Select Door Material: Metal",
+                "Select Mounting Choice: Thrubolt Mounted",
+                "Select Mounting Choice: Surface Mounted",
+                "Select Mounting Choice: Back to Back Mounted (Requires 2 Pulls)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Bracket Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SNN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness Range",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1/4in. to 1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5/8in. to 1in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-1/8in. to 1-1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-5/8in. to 2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-1/8 to 2-1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-5/8in. to 3in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Material",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Wood / Fiberglass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Glass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Metal",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Mounting Choice",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Thrubolt Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Thrubolt"
+                },
+                {
+                    "value": "Surface Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Surface"
+                },
+                {
+                    "value": "Back to Back Mounted (Requires 2 Pulls)",
+                    "price_impact": 32.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Back"
+                }
+            ]
+        }
+    ]
+}

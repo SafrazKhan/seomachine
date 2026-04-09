@@ -1,0 +1,99 @@
+{
+    "legacy_product_id": "598611",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Weslock Thick Door Kit for Traditionale Collection, 0200x",
+            "vendor": "Weslock",
+            "status": "ARCHIVED",
+            "sku": "WES-0200x",
+            "mpn": "WES-0200x",
+            "price": "20.0",
+            "compare_at_price": "25.0",
+            "contractor_price": "19.0",
+            "shipping_weight": "0.1",
+            "tags": [
+                "This extension kit allows for the Traditionale Collection to fit up to a 2-1/4 inch thick door"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/special_order-19565.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/special_order-19565.jpg?v=1716424820"
+        },
+        "text": {
+            "description_html": "<b>Weslock Thick Door Kit for Traditionale Collection</b>\r\n<p>Extra thick door kit for Traditionale Collection entry handles, 371 deadbolts, and passage sets.  For doors up to 2-1/4\" thick.</p>",
+            "seo": {
+                "title": "Weslock Thick Door Kit for Traditionale Collection, 0200x",
+                "description": "This extension kit allows for the Weslock Traditionale Collection to fit up to a 2-1/4 inch thick door",
+                "keywords": "This extension kit allows for the Traditionale Collection to fit up to a 2-1/4 inch thick door"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Westlock Parts and Accessories",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: WES-0200x1 - Oil Rubbed Bronze",
+                "Select Finish: WES-0200x2 - Black",
+                "Select Finish: WES-0200x3 - Polished Brass",
+                "Select Finish: WES-0200xA - Antique Brass",
+                "Select Finish: WES-0200x15 - Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "WES-0200x1 - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "WES-0200x2 - Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "WES-0200x3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "WES-0200xA - Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "WES-0200x15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

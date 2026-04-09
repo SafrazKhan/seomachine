@@ -1,0 +1,118 @@
+{
+    "legacy_product_id": "1157164",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Beacon Hill Cabinet Knob, MNG 190",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "MNG-190",
+            "mpn": "MNG-190",
+            "price": "10.31",
+            "compare_at_price": "13.74",
+            "contractor_price": "10.31",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Beacon Hill Cabinet Knobs",
+                "Beacon Hill Knobs",
+                "MNG-190",
+                "MNG-19014",
+                "MNG-19028",
+                "MNG 19014",
+                "MNG 19028",
+                "Beacon Hill Knob for Cabinets",
+                "restoration hardware",
+                "traditional cabinet hardware",
+                "transitional cabinet hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MNG-190-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-190-525.jpg?v=1716428557"
+        },
+        "text": {
+            "description_html": "<b>MNG 190, Beacon Hill Knob for Cabinets</b>\r\n\r\n<p>\r\nThe Beacon Hill Cabinet Knob lets its style shine through. This quiet fancy cabinet knob is sure to add elegance to your cabinets. It ha is available in satin nickel and polished nickel finishes. The Beacon Hill Knob for Cabinets comes packaged with the mounting hardware. \r\n</p>\r\n\r\n<p>\r\nThis cabinet knob is part of the <a href=\"//search?type=product&q=MNG+Beacon+Hill\">MNG Beacon Hill Collection</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the MNG 190 Beacon Hill Knob:\r\n<ul>\r\n<li>Base Material: Zinc </li>\r\n<li>Length: 1-1/4\" square</li>\r\n<li>Projection: 1\"</li>\r\n<li>Packaged with 1\" long #8-32 screw and 1-1/2\" long #8-32 screw.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i> \r\n</p>",
+            "seo": {
+                "title": "Beacon Hill Cabinet Knob",
+                "description": "The Beacon Hill Cabinet Knob lets its style shine through. This quiet fancy cabinet knob is sure to add elegance to your cabinets. It ha is available in satin nickel and polished nickel finishes. The Beacon Hill Knob for Cabinets comes packaged with the mounting hardware.",
+                "keywords": "Beacon Hill Cabinet Knobs, Beacon Hill Knobs, MNG-190, MNG-19014, MNG-19028, MNG 19014, MNG 19028, Beacon Hill Knob for Cabinets, restoration hardware, traditional cabinet hardware, transitional cabinet hardware,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "17"
+                },
+                {
+                    "name": "MNG Cabinet Hardware",
+                    "sort": "23"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1156997",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1157012",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "585448",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "563048",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "66225",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "12646",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "1036340",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MNG-19014: Polished Nickel",
+                "Select Finish: MNG-19028: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MNG-19014: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-19014-SM.jpg?v=1774582373",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-19014-LG.jpg?v=1711366643"
+                },
+                {
+                    "value": "MNG-19028: Satin Nickel",
+                    "price_impact": 0.16,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-19028-SM.jpg?v=1774582376",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-19028-LG.jpg?v=1711366643"
+                }
+            ]
+        }
+    ]
+}

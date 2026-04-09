@@ -1,0 +1,92 @@
+{
+    "legacy_product_id": "1181765",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "ADA Mortise Cylinder Brass Thumbturn, GMS M114TA-AR",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "GMS-M114TA-AT",
+            "mpn": "GMS-M114TA-AT",
+            "price": "35.1",
+            "compare_at_price": "35.1",
+            "contractor_price": "35.1",
+            "shipping_weight": "1.0",
+            "tags": [
+                "GMS-M114TA 1-1/4 ADA T-Turns",
+                "ADA Mortise Cylinder Brass Thumbturns",
+                "GMS M114TA-AR"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GMS-M114TA-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GMS-M114TA-525.jpg?v=1716428808"
+        },
+        "text": {
+            "description_html": "<b>GMS-M114TA, 1-1/4\" ADA T-Turn</b>\r\n\r\n<p>\r\nStorefront door mortise (threaded) Thumbturn for Adams Rite style Mortise Deadbolts. \r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> for Mortise Thumbturn\r\n<ul>\r\n<li>1-1/4\" Body Length</li>\r\n<li>Adams Rite A/R Cam (MS Series Cam)</li>\r\n<li>Material: Solid Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special ordered Item. <b>NO RETURNS</b></i>\r\n</p>",
+            "seo": {
+                "title": "ADA Mortise Cylinder Brass Thumbturn",
+                "description": "Storefront door mortise (threaded) Thumbturn for Adams Rite style Mortise Deadbolts.",
+                "keywords": "GMS-M114TA 1-1/4 ADA T-Turns, ADA Mortise Cylinder Brass Thumbturns, GMS M114TA-AR,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "GMS",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "532868",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "491233",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "184797",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "193392",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Select Finish: 26D: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

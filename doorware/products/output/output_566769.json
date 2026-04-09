@@ -1,0 +1,130 @@
+{
+    "legacy_product_id": "566769",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Twist Bail Cabinet Pull with Flower Mounts, RK International CP-3709",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CP-3709",
+            "mpn": "RKI-CP-3709",
+            "price": "25.99",
+            "compare_at_price": "32.45",
+            "contractor_price": "25.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Rope Bail Pull with Clover Ends",
+                "Twist Bail Cabinet Pull with Flower Mounts",
+                "RK International CP-3709",
+                "RKI-CP-3709",
+                "Rope Bail Pull with Floral Ends",
+                "floral cabinet pulls",
+                "flower cabinet hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CP-3709-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CP-3709-525.jpg?v=1716424602"
+        },
+        "text": {
+            "description_html": "<b>RK International CP-3709, Rope Bail Pull with Floral Ends</b>\r\n\r\n<p>\r\nThe Twist Bail Cabinet Pull with Flower Mounts has a romantic feel. The floral mounts are great for adding the perfect finishing touch to any space. This pull has a 3 inch center to center and is available in 5 finishes. Comes packaged with mounting screws.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CP-3709 Traditional Twisted Pull with Flower Mounts:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 4-1/4\"</li>\r\n<li>Width: 1/2\"</li>\r\n<li>Projection: 3/4\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MUL-T-LOCK-G55G1_size.gif?v=1704354738\" width=\"600\" height=\"146\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Twist Bail Cabinet Pull with Flower Mounts",
+                "description": "RK International CP-3709, Twist Bail Cabinet Pull with Flower Mounts - The Twist Bail Cabinet Pull with Flower Mounts has a romantic feel. The floral mounts are great for adding the perfect finishing touch to any space. This pull has a 3 inch center to center and is available in 5 finishes. Comes packaged with mounting screws.\r\n",
+                "keywords": "Rope Bail Pull with Clover Ends, Twist Bail Cabinet Pull with Flower Mounts, RK International CP-3709, RKI-CP-3709, Rope Bail Pull with Floral Ends, floral cabinet pulls, flower cabinet hardware"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Pulls and Flush Pulls",
+                    "sort": "5"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "41380",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "551820",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "565567",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "37122",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "41271",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

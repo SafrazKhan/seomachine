@@ -1,0 +1,150 @@
+{
+    "legacy_product_id": "536942",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1 Inch Mortise Cylinder, Omnia 801/01",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-801/01",
+            "mpn": "OMN-801/01",
+            "price": "55.0",
+            "compare_at_price": "55.0",
+            "contractor_price": "55.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "1 Inch Mortise Cylinder",
+                "Omnia 801/01"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN801-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN801-5251.jpg?v=1716424292"
+        },
+        "text": {
+            "description_html": "<b>Omnia 1 Inch Mortise Lock Cylinder, OMN-801/01</b>\r\n<p>1\" Mortise Lock Cylinder threaded to screw into any standard mortise case.  </p>\r\n\r\n<p>\r\n<b>Specifications:</b> for 1\"Mortise Lock Cylinder\r\n<ul>\r\n<li>Keyed Mortise Cylinder (threaded to screw into mortise lock body)</li>\r\n<li>Key Cylinder 5-pin Schlage \"C\" Keyway</li>\r\n<li>1\" Body Length</li>\r\n<li>Standard 1-5/32\" Diameter</li>\r\n<li>Includes 2 Keys</li>\r\n<li> Solid Brass Cylinder</b>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "1 Inch Mortise Cylinder, Omnia 801/01",
+                "description": "1 Inch Mortise Cylinder, Omnia 801/01",
+                "keywords": "1 Inch Mortise Cylinder, Omnia 801/01"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "37"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US26D: Brushed Chrome",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US32D: Satin Stainless Steel",
+                "Keying: I only ordered one",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26D: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US32D: Satin Stainless Steel ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I only ordered one",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "I"
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                }
+            ]
+        }
+    ]
+}

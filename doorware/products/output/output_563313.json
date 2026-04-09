@@ -1,0 +1,113 @@
+{
+    "legacy_product_id": "563313",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T16:09:59.049444"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Traditional Cabinet Pull with White Porcelain, RK International CP-11",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CP-11",
+            "mpn": "RKI-CP-11",
+            "price": "16.99",
+            "compare_at_price": "20.79",
+            "contractor_price": "16.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "3 Traditional White Porcelain Pulls",
+                "3 inch Traditional White Porcelain Pulls",
+                "traditional cabinet knobs",
+                "classic cabinet hardware",
+                "porcelain hardware",
+                "cp-11"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CP-11-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CP-11-525.jpg?v=1716424538"
+        },
+        "text": {
+            "description_html": "<b>RK International CP-11, 3\" Traditional White Porcelain Pull</b>\r\n\r\n<p>\r\nThere is something so romantic about porcelain. After all, it is a symbol of beauty and elegance. RK International's Traditional Cabinet Pull with White Porcelain has a 3 inch center to center and is available with oil rubbed bronze, satin nickel, or polished brass finish accents. Add classic beauty to your home with these cabinet door pulls.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching <a href=\"/products/white-porcelain-cabinet-knob-rk-international-ck-515\"><b>Traditional Cabinet Knob with White Porcelain</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CP-11 Porcelain Middle Cabinet Pull:\r\n<ul>\r\n<li>Material: Brass with Porcelain</li>\r\n<li>Porcelain Color: White</li>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 3-5/8\"</li>\r\n<li>Width: 9/16\"</li>\r\n<li>Projection: 1-1/4\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Traditional Cabinet Pull with White Porcelain",
+                "description": "RK International CP-11, Traditional Cabinet Pull with White Porcelain - There is something so romantic about porcelain. After all, it is a symbol of beauty and elegance. RK International's Traditional Cabinet Pull with White Porcelain has a 3 inch center to center and is available with oil rubbed bronze, satin nickel, or polished brass finish accents. Add classic beauty to your home with these cabinet door pulls.",
+                "keywords": "3 Traditional White Porcelain Pulls, 3 inch Traditional White Porcelain Pulls, traditional cabinet knobs, classic cabinet hardware, porcelain hardware, cp-11"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Pulls and Flush Pulls",
+                    "sort": "7"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "554095",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "26935",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "554384",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "27128",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "253857",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: PW: Satin Nickel",
+                "Select Finish: BW: Polished Brass",
+                "Select Finish: RBW: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PW: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BW: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RBW: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "legacy_product_id": "678748",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Elbow Catch, Don-Jo 1590",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "DJO-1590",
+            "mpn": "DJO-1590",
+            "price": "8.0",
+            "compare_at_price": "10.0",
+            "contractor_price": "7.2",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Don-Jo 1590 Elbow Catches",
+                "Elbow Catches",
+                "DonJo 1590",
+                "Light Weight Door Elbow Catches",
+                "DJO-1590",
+                "window locks",
+                "cabinets locks",
+                "furniture locks",
+                "Elbow Latches",
+                "Don-Jo 1590-605",
+                "Don-Jo 1590-626",
+                "Don-Jo 1590-625"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-1590-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-1590-525.jpg?v=1716425232"
+        },
+        "text": {
+            "description_html": "<b>Don-Jo 1590, Elbow Latch</b>\r\n\r\n<p>\r\nThis Elbow Catch is an easy to install and simple way to secure one light weight door of a double door set commonly found on dressers, cabinets, window shutters, and many other places throughout your home. One door uses the elbow catch to secure the door and the second door is secured by a friction latch, magnetic latch, or cam lock.  To open both doors you first open the door without the elbow catch, then reach in behind the door to release the elbow catch.  The latch is made of cast aluminum. Choose from polished brass, polished chrome or satin chrome finishes.\r\n</p>\r\n\r\n<p align=\"center\">\r\n\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-1590-specifications.gif?v=1704354638\" width=\"392\" height=\"160\" border=\"0\" alt=\"Don-jo 1590 Elbow Catch Specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Don-Jo 1590 Elbow Catch:\r\n<ul>\r\n<li>Material: Cast Aluminum</li>\r\n<li>Mount Width: .6\"</li>\r\n<li>Height: 1.333\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Elbow Catch, Don-Jo 1590",
+                "description": "Don-Jo 1590, Elbow Catch - This Elbow Catch is an easy to install and simple way to secure light-weight doors found on dressers, cabinets, window shutters, and many other places throughout your home. It is made of cast aluminum. Choose from polished brass, polished chrome or satin chrome finishes.\r\n",
+                "keywords": "Don-Jo 1590 Elbow Catches, Elbow Catches, DonJo 1590, Light Weight Door Elbow Catches, DJO-1590, window locks, cabinets locks, furniture locks, Elbow Latches, Don-Jo 1590-605, Don-Jo 1590-626, Don-Jo 1590-625"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Cabinet Locks and Catches",
+                    "sort": "10"
+                },
+                {
+                    "name": "Don-Jo Door Bolts",
+                    "sort": "10"
+                },
+                {
+                    "name": "Window and Door Catches",
+                    "sort": "30"
+                },
+                {
+                    "name": "Door Hooks, Bolts, Latches, and Locks",
+                    "sort": "30"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "647774",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "279510",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "704188",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "450349",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "448184",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "7709",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "450364",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "30416",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "208656",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 1590-605: Polished Brass",
+                "Select Finish: 1590-625: Polished Chrome",
+                "Select Finish: 1590-626: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1590-605: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1590-625: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1590-626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

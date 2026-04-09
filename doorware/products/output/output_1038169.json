@@ -1,0 +1,173 @@
+{
+    "legacy_product_id": "1038169",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Bezier Cabinet Pull, Emtek 86412",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-86412",
+            "mpn": "EMT-86412",
+            "price": "11.2",
+            "compare_at_price": "14.0",
+            "contractor_price": "10.64",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Emtek 86412",
+                "Modern Bezier Cabinet Handles",
+                "Bezier Cabinet Pulls",
+                "Emtek Bezier Pulls",
+                "EMT-86412",
+                "Emtek 86413",
+                "Emtek 86414"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86412-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86412-525.jpg?v=1716427833"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86412, Modern Bezier Cabinet Handle</b>\r\n\r\n<p>\r\nFinally ready to make your kitchen a space you actually want to spend time in again? The Bezier Cabinet Pull is a fairly easy way to add chicness and style to one of the most used rooms in your home. This Modern Bezier Cabinet Handle is available in 3 sizes and some of the sleekest finish colors available. Each kitchen cabinet pull comes packaged beautifully with the installation hardware.  \r\n</p>\r\n\r\n<p>\r\nAlso Available Matching <a href=\"/products/bezier-cabinet-knob-emtek-86410\"><b>Bezier Cabinet Knob</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Emtek Bezier Cabinet Door Pull:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86412-specifications.pdf?v=1704262413\" target=\"new\"><b>Emtek Bezier Cabinet Pull Specifications (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 3 Sizes:</b>\r\n<ul>\r\n<b>86412:</b>\r\n<ul>\r\n<li>Length c.c.: 3-1/2\"</li>\r\n<li>Overall Length: 4-1/8\"</li>\r\n<li>Projection: 1\"</li>\r\n</ul>\r\n<br>\r\n<b>86413:</b>\r\n<ul>\r\n<li>Length c.c.: 4\"</li>\r\n<li>Overall Length: 4-3/4\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n</ul>\r\n<br>\r\n<b>86414:</b>\r\n<ul>\r\n<li>Length c.c.: 6\"</li>\r\n<li>Overall Length: 6-3/4\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Bezier Cabinet Pull",
+                "description": "Finally ready to make your kitchen a space you actually want to spend time in again? The Bezier Cabinet Pull is a fairly easy way to add chicness and style to one of the most used rooms in your home. This Modern Bezier Cabinet Handle is available in 3 sizes and some of the sleekest finish colors available. Each kitchen cabinet pull comes packaged beautifully with the installation hardware.",
+                "keywords": "Emtek 86412, Modern Bezier Cabinet Handles, Bezier Cabinet Pulls, Emtek Bezier Pulls, EMT-86412, Emtek 86413, Emtek 86414,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Discontinued",
+                    "sort": "28"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "262466",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "262459",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1037443",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "320415",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "66439",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "867031",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "383569",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "445088",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "614111",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Size: 86412: 3-1/2in. c.c.",
+                "Select Size: 86413: 4in. c.c.",
+                "Select Size: 86414: 6in. c.c.",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "86412: 3-1/2in. c.c.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "86413: 4in. c.c.",
+                    "price_impact": 0.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "86414: 6in. c.c.",
+                    "price_impact": 2.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "legacy_product_id": "488653",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "LCN Model 5030 Series Store Front Concealed Door Closer",
+            "vendor": "LCN",
+            "status": "ACTIVE",
+            "sku": "LCN-5030",
+            "mpn": "LCN-5030",
+            "price": "1349.6",
+            "compare_at_price": "1687.0",
+            "contractor_price": "1282.12",
+            "shipping_weight": "10.0",
+            "tags": [
+                "LCN-503x LCN Model 5030 Overhead Concealed Closers",
+                "lcn 5033",
+                "lcn 5034",
+                "lcn 5035",
+                "Heavy Duty Store Front Concealed Door Closers",
+                "LCN 5030 Series Store Front overhead closers",
+                "Concealed over head Closers",
+                "LCN Concealed Door Closers",
+                "aluminum door closers",
+                "LCN PACER",
+                "LCN 1038G",
+                "ul listed"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LCN-5030-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LCN-5030-525.jpg?v=1769491137"
+        },
+        "text": {
+            "description_html": "<b>Heavy Duty Store Front Concealed Door Closer</b>\r\n<p>\r\nThe concealed 5030 Series PACER® is a heavy duty closer designed to fit in a narrow, minimum 1-3/4˝ aluminum transom.\r\nThe double lever arm provides superior door control and the choice of finishes and arm functions meet virtually all\r\narchitectural requirements.\r\n</p>\r\n\r\n<p>The LCN 5030 Series is available in 3 different spring sizes:\r\n<br>\r\n<ul>\r\n<li><b>LCN-5033 - Size 3</b> for Exterior Doors 28\" - 30\" and Interior Doors 34\" - 38\"</li>\r\n<li><b>LCN-5034 - Size 4</b> for Exterior Doors 30\" - 36\" and Interior Doors 38\" - 48\"</li>\r\n<li><b>LCN-5035 - Size 5</b> for Exterior Doors 36\" - 42\" and Interior Doors 48\" - 54\"</li>\r\n\r\n</ul>\r\n</p>\r\n<p>\r\nThis Handed door closer is UL and ULC listed for self-closing doors without hold-open.\r\nTested and certified under ANSI Standard A156.4, <b>Grade 1</b>.\r\n</p>\r\n\r\n<p>\r\nAvailable in Aluminum and Dark Bronze finish.\r\n</p>\r\n<p>\r\nPackaged complete with closer mounting plate, double lever arm and mounting hardware.\r\n</p>\r\n<p>\r\n<b>*Important</b> When selecting <b>Door Hand</b> for this door closer:  \r\n<br>\r\n1. Stand on the <b>Push Side</b> of the door, facing the door. <br>\r\n2. If the \"Pivot Hinge\" is on your \"Left\", choose \"Left Hand Door\". <br>\r\n3. If the \"Pivot Hinge\" is on your \"Right\", choose \"Right Hand Door\". <br>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/closer-handing.gif?v=1704354510\"  width=\"410\" height=\"195\" border=\"0\"alt=\"door handing\">\r\n</p>",
+            "seo": {
+                "title": "LCN Model 5030 Series Store Front Concealed Door Closer",
+                "description": "LCN 5030 Series, the PACER. Heavy Duty Store Front Concealed Door Closers. Available in Aluminum and Dark Bronze finish and 3 different spring sizes.",
+                "keywords": "LCN-503x LCN Model 5030 Overhead Concealed Closers, lcn 5033, lcn 5034, lcn 5035, Heavy Duty Store Front Concealed Door Closers, LCN 5030 Series Store Front overhead closers, Concealed over head Closers, LCN Concealed Door Closers, aluminum door closers, LCN PACER, LCN 1038G, ul listed"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closers",
+                    "sort": "10"
+                },
+                {
+                    "name": "Door Closers",
+                    "sort": "61"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "71765",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "180802",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "499842",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "15351",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "71772",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Closer Spring Size and Finish: LCN-5033-AL - Size 3 - Aluminum",
+                "Select Closer Spring Size and Finish: LCN-5033-DKBRZ - Size 3 - Dark Bronze",
+                "Select Closer Spring Size and Finish: LCN-5034-AL - Size 4 - Aluminum",
+                "Select Closer Spring Size and Finish: LCN-5035-AL - Size 5 - Aluminum",
+                "Select Closer Spring Size and Finish: LCN-5035-DKBRZ - Size 5 - Dark Bronze",
+                "Select Door Hand: LCN-503x-LH:: Left Hand Door",
+                "Select Door Hand: LCN-503x-RH:: Right Hand Door"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Closer Spring Size and Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LCN-5033-AL - Size 3 - Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LCN-5033-DKBRZ - Size 3 - Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LCN-5034-AL - Size 4 - Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LCN-5035-AL - Size 5 - Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LCN-5035-DKBRZ - Size 5 - Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Hand",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LCN-503x-LH:: Left Hand Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LCN-503x-RH:: Right Hand Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

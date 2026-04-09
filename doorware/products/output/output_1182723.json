@@ -1,0 +1,108 @@
+{
+    "legacy_product_id": "1182723",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "BL Lever and WT Escutcheon Mortise Trim, Sargent 7904-WTBL",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "SAR-OS/IS-7904-WTBL",
+            "mpn": "SAR-OS/IS-7904-WTBL",
+            "price": "477.9",
+            "compare_at_price": "531.0",
+            "contractor_price": "477.9",
+            "shipping_weight": "0.0",
+            "tags": [
+                "SAR-OS/IS-7904",
+                "Sargent BL Lever and WT Escutcheon Mortise Trim"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525227.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525227.gif?v=1711366730"
+        },
+        "text": {
+            "description_html": "<b>Sargent 7900 Storeroom Mortise Trim BL Lever and WT Escutcheon</b>\r\n\r\n<p>\r\nThis is Mortise Trim for a Sargent 7900 Series Storeroom Mortise Box.\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>Final Sale</b>\r\n</p>",
+            "seo": {
+                "title": "Sargent BL Lever and WT Escutcheon Mortise Trim",
+                "description": "This is Mortise Trim for a Sargent 7900 Series Storeroom Mortise Box.",
+                "keywords": "SAR-OS/IS-7904, Sargent BL Lever and WT Escutcheon Mortise Trim"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Sargent",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1026437",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "193837",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "193863",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "248979",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Interior or Exterior: Interior: IS-7904-26D",
+                "Select Interior or Exterior: Exterior: OS-7904-26D",
+                "Select Finish: 26D: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Interior or Exterior",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Interior: IS-7904-26D",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Exterior: OS-7904-26D",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

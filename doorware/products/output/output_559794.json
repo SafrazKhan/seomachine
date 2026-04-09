@@ -1,0 +1,146 @@
+{
+    "legacy_product_id": "559794",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Modern Rod Cabinet Knob, RK International CK-4214",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-4214",
+            "mpn": "RKI-CK-4214",
+            "price": "12.99",
+            "compare_at_price": "15.95",
+            "contractor_price": "12.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RKI-CK-4214",
+                "Solid Swirl Rob Cabinet Knobs",
+                "Modern Rod Cabinet Knobs",
+                "RK International CK-4214",
+                "modern cabinet knobs",
+                "RK International solid swirl rob knobs",
+                "hardware",
+                "modern cabinet knobs",
+                "contemporary cabinet pulls",
+                "Ridged Cylinder Cabinet Knobs",
+                "retro cabinet knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-4214-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-4214-525.jpg?v=1716424478"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-4214, Ridged Cylinder Cabinet Knob</b>\r\n\r\n<p>\r\nThe ridged design of this Modern Rod Cabinet Knob is very sleek, making this cabinet hardware the perfect accent to contemporary homes. It is available in 5 beautiful two-toned finishes, all of which highlight the unique design element of this modern cabinet pull.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-4214 Swirl Rob Cabinet Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length (across top): 1-1/4\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-4214-finishes.jpg?v=1704354523\" width=\"600\" height=\"195\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Modern Rod Cabinet Knob",
+                "description": "RK International CK-4214, Modern Rod Cabinet Knob - The ridged design of this Modern Rod Cabinet Knob is very sleek, making this cabinet hardware the perfect accent to contemporary homes. It is available in 5 beautiful two-toned finishes, all of which highlight the unique design element of this modern cabinet pull.",
+                "keywords": "RKI-CK-4214, Solid Swirl Rob Cabinet Knobs, Modern Rod Cabinet Knobs, RK International CK-4214, modern cabinet knobs, RK International solid swirl rob knobs, hardware, modern cabinet knobs, contemporary cabinet pulls, Ridged Cylinder Cabinet Knobs, retro cabinet knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "2"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "352581",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "237721",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "261995",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "180262",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42735",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "39910",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "368346",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "42152",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: CB: Polished Chrome with Brass",
+                "Select Finish: PWB: Satin Nickel with Brass",
+                "Select Finish: BRB: Oil Rubbed Bronze with Brass",
+                "Select Finish: CN: Black Nickel with Chrome",
+                "Select Finish: NB: Black Nickel with Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "CB: Polished Chrome with Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PWB: Satin Nickel with Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRB: Oil Rubbed Bronze with Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CN: Black Nickel with Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "NB: Black Nickel with Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

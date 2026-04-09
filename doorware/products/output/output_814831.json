@@ -1,0 +1,51 @@
+{
+    "legacy_product_id": "814831",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Strip and Powdercoat, Lithonia",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-LTH",
+            "mpn": "FII-LTH",
+            "price": "100.0",
+            "compare_at_price": "100.0",
+            "contractor_price": "100.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Strip and Powdercoat",
+                "Lithonia"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/special_order-52514.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/special_order-52514.jpg?v=1717790293"
+        },
+        "text": {
+            "description_html": "<b>Strip and Powdercoat, Lithonia</b>\r\n\r\n<p>Cost to finish match deadbolt to pull finish.</p>",
+            "seo": {
+                "title": "Strip and Powdercoat, Lithonia",
+                "description": "Strip and Powdercoat, Lithonia",
+                "keywords": "Strip and Powdercoat, Lithonia"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "First Impressions Miscellaneous Parts",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

@@ -1,0 +1,155 @@
+{
+    "legacy_product_id": "630225",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Blue Ridge Towel Bar, Fusion TB-T7",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-TB-T7",
+            "mpn": "FUS-TB-T7",
+            "price": "149.0",
+            "compare_at_price": "149.0",
+            "contractor_price": "104.3",
+            "shipping_weight": "7.0",
+            "tags": [
+                "Fusion bathroom accessories",
+                "Fusion American Relic Series",
+                "Traditional bathroom hardware",
+                "Traditional bathroom towel bars",
+                "hand towel bars",
+                "bathroom towel hooks",
+                "bath towel bars",
+                "Blue Ridge Towel Bar",
+                "Fusion TB-T7",
+                "FUS-TB-T7",
+                "Stepped Rose Blue Ridge Collection Towel Bars",
+                "Blue Ridge Wall Mounted Towel Bars",
+                "American Relic Series Blue Ridge Towel Bar"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-TB-T7-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-TB-T7-525.jpg?v=1711365515"
+        },
+        "text": {
+            "description_html": "<b>Fusion TB-T7, American Relic Series Blue Ridge Towel Bar</b>\r\n\r\n<p>\r\nWhat bathroom is complete without a place to hang your towel? With the Blue Ridge Towel Bar made by Fusion, adding rustic style is easy. This towel bar comes packaged with all the necessary installation hardware. It is available in an 18 inch, 24 inch and a 30 inch size. Choose from antique relic pewter, medium relic bronze, or dark rustic bronze finishes.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/blue-ridge-hand-towel-ring-fusion-tr-t7\"><b>Fusion TR-T7 Blue Ridge Towel Ring</b></a>, \r\n<a href=\"/products/blue-ridge-toilet-paper-holder-fusion-ph-t7\"><b>Fusion PH-T7  Blue Ridge Toilet Paper Holder</b></a>, \r\nand <a href=\"/products/blue-ridge-robe-hook-fusion-rh-t7\"><b>Fusion RH-T7 Blue Ridge Robe Hook</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 sizes:</b>\r\n<ul>\r\n<b>TB-1-T7</b>\r\n<ul>\r\n<li>Length: 18\"</li>\r\n<li>Mount Width: 2-3/4\"</li>\r\n<li>Mount Length: 4-1/4\"</li>\r\n</ul>\r\n\r\n<br>\r\n\r\n<b>TB-2-T7</b>\r\n<ul>\r\n<li>Length: 24\"</li>\r\n<li>Mount Width: 2-3/4\"</li>\r\n<li>Mount Length: 4-1/4\"</li>\r\n</ul>\r\n\r\n<br>\r\n\r\n<b>TB-3-T7</b>\r\n<ul>\r\n<li>Length: 30\"</li>\r\n<li>Mount Width: 2-3/4\"</li>\r\n<li>Mount Length: 4-1/4\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Blue Ridge Towel Bar, Fusion TB-T7",
+                "description": "Fusion TB-T7 Blue Ridge Towel Bar - What bathroom is complete without a place to hang your towel? With the Blue Ridge Towel Bar made by Fusion, adding rustic style is easy. This towel bar comes packaged with all the necessary installation hardware. It is available in an 18 inch, 24 inch and a 30 inch size. Choose from antique relic pewter, medium relic bronze, or dark rustic bronze finishes.",
+                "keywords": "Fusion bathroom accessories, Fusion American Relic Series, Traditional bathroom hardware, Traditional bathroom towel bars,  hand towel bars, bathroom towel hooks, bath towel bars, Blue Ridge Towel Bar, Fusion TB-T7, FUS-TB-T7, Stepped Rose Blue Ridge Collection Towel Bars, Blue Ridge Wall Mounted Towel Bars, American Relic Series Blue Ridge Towel Bar"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "562087",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "396514",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "379482",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "566851",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "405898",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "31431",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "378508",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: ARP - Antique Relic Pewter",
+                "Select Finish: MRB - Medium Relic Bronze",
+                "Select Finish: DRB - Dark Relic Bronze",
+                "Select Size: TB-1-T7 - 18in. Towel Bar",
+                "Select Size: TB-2-T7 - 24in. Towel Bar",
+                "Select Size: TB-3-T7 - 30in. Towel Bar"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ARP - Antique Relic Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MRB - Medium Relic Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DRB - Dark Relic Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TB-1-T7 - 18in. Towel Bar",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB-2-T7 - 24in. Towel Bar",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB-3-T7 - 30in. Towel Bar",
+                    "price_impact": 10.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

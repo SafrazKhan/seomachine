@@ -1,0 +1,91 @@
+{
+    "legacy_product_id": "1081751",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4 inch Swing Clear Hinge, Stanley F2484",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "STN-F2484",
+            "mpn": "STN-F2484",
+            "price": "45.0",
+            "compare_at_price": "45.0",
+            "contractor_price": "45.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "4 inch Swing Clear Hinge",
+                "Stanley F2484",
+                "5 Knuckle Full Mortise Swing Clear Hinges",
+                "STN-F2484"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/STN-F2484-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/STN-F2484-525.jpg?v=1716428111"
+        },
+        "text": {
+            "description_html": "<b>Stanley F2484, 5 Knuckle Full Mortise Swing Clear Hinge</b>\r\n\r\n<p>\r\nThe 4 inch Swing Clear Hinge is used to create a maximum amount of clear opening in a doorway. This is often used to satifisy ADA requirements. The 5 Knuckle Full Mortise Swing Clear Hinge has a template hole pattern. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Standard Weight Plain Bearing Swing Clear Full Mortise Hinge:\r\n<ul>\r\n<li>Material: Steel</li>\r\n<li>Length of Joint: 4\"</li>\r\n<li>Thickness: .130\"</li>\r\n<li>Screws: 8-12 X 1-1/4 Flat Head Wood Screws.</li>\r\n<li>Equipped with easily seated non-rising pins.</li>\r\n<li>Reversible flush tips and pins.</li>\r\n<li> Ideal for remodeling or new construction.</li>\r\n<li>Available for full mortise application on square edge doors only.</li>\r\n<li> Designed to replace existing 3-1/2\" (89mm) or 4\" (102mm) hinges or Swing Clear openings (some modification of preparation may be required for residential use).</li>\r\n<li>Designed to swing doors completely clear of the opening when door is opened 95°</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold as a Pair (2 Hinges)</i>\r\n</p>",
+            "seo": {
+                "title": "4 inch Swing Clear Hinge",
+                "description": "The 4 inch Swing Clear Hinge is used to create a maximum amount of clear opening in a doorway. This is often used to satifisy ADA requirements. The 5 Knuckle Full Mortise Swing Clear Hinge has a template hole pattern.",
+                "keywords": "4 inch Swing Clear Hinge, Stanley F2484, 5 Knuckle Full Mortise Swing Clear Hinges, STN-F2484,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Stanley Best Security Solutions",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "216616",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "376786",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "357167",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "191704",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "8694",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US4: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

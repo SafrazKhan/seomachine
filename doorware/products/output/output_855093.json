@@ -1,0 +1,181 @@
+{
+    "legacy_product_id": "855093",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Deco Outlet Cover, Grandeur DECSWPLTD",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-DECSWPLTD",
+            "mpn": "GRA-DECSWPLTD",
+            "price": "28.8",
+            "compare_at_price": "36.0",
+            "contractor_price": "28.8",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Deco Electrical Outlet Cover Plates",
+                "Deco Outlet Covers",
+                "Deco Outlet Plates",
+                "Grandeur Deco Double Outlet Cover: GRA-DECSWPLTD",
+                "Grandeur DECSWPLTD",
+                "Nostalgic Warehouse Deco Switch Plate with Outlet",
+                "palm springs switch plates",
+                "stepped switch plates",
+                "Grandeur deco collections",
+                "mid-century modern switch plates",
+                "Double Solid Brass outlet Plates",
+                "2 hole outlet plates",
+                "electrical outlet plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-DECSWPLTD-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-DECSWPLTD-525.jpg?v=1716425998"
+        },
+        "text": {
+            "description_html": "<b>Grandeur DECSWPLTD, Deco Electrical Outlet Cover Plate</b>\r\n\r\n<p>\r\nThe Deco Outlet Cover is made out of solid brass with an appealing retro style that will be sure to add both character and mid-century modern flair to any space. Any decorator knows that it's the finishing touches that make a room's decor feel complete, and this Deco Electrical Outlet Cover Plate with the stepped design is the perfect way to complete a room. It is available in a wide array of classic finishes. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur Deco Double Outlet Cover:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 4-7/8\"</li>\r\n<li>Width: 3\"</li>\r\n<li>Projection: 5/16\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Deco Outlet Cover",
+                "description": "The Deco Outlet Cover is made out of solid brass with an appealing retro style that will be sure to add both character and mid-century modern flair to any space. Any decorator knows that it's the finishing touches that make a room's decor feel complete, and this Deco Electrical Outlet Cover Plate with the stepped design is the perfect way to complete a room. It is available in a wide array of classic finishes.",
+                "keywords": "Deco Electrical Outlet Cover Plates, Deco Outlet Covers, Deco Outlet Plates, Grandeur Deco Double Outlet Cover: GRA-DECSWPLTD, Grandeur DECSWPLTD, Nostalgic Warehouse Deco Switch Plate with Outlet, palm springs switch plates, stepped switch plates, Grandeur deco collections, mid-century modern switch plates, Double Solid Brass outlet Plates, 2 hole outlet plates, electrical outlet plates,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "4-7/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "5/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Electrical Outlet &amp; Switch Plates",
+                    "sort": "60"
+                },
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "561002",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "42944",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "561016",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "855082",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "261984",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "600224",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "294977",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 4-7/8\"",
+                "Width: 3\"",
+                "Projection: 5/16\"",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: ULB: Unlacquered Brass",
+                "Select Finish: TB: Timeless Bronze",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: AP: Antique Pewter"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ULB: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

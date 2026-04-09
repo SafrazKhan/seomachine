@@ -1,0 +1,167 @@
+{
+    "legacy_product_id": "859836",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Victorian Quad Outlet Plate, Grandeur VICSWPLTD2",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-VICSWPLTD2",
+            "mpn": "GRA-VICSWPLTD2",
+            "price": "39.99",
+            "compare_at_price": "50.0",
+            "contractor_price": "39.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Grandeur ROPSWPLTD2",
+                "GRA-ROPSWPLTD2",
+                "Double Victorian Outlet Cover Plates",
+                "Victorian Quad Outlet Plates",
+                "Double Electrical Socket Covers",
+                "Grandeur Victorian Outlet Covers",
+                "Ornate Outlet plate covers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-VICSWPLTD2-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-VICSWPLTD2-525.jpg?v=1716426103"
+        },
+        "text": {
+            "description_html": "<b>Grandeur VICSWPLTD2, Victorian Double Electrical Socket Cover</b>\r\n\r\n<p>\r\nThe Victorian Quad Outlet Plate is fancy enough to catch eyes even in the most posh of homes. Its ornate design is highlighted by the beautiful finish choices, making it a real show stopper. The Double Victorian Outlet Cover Plate has 4 cutouts to accommodate electrical sockets. It comes packaged with matching screws for easy installation.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur Victorian Outlet Cover:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Height: 5-3/8\"</li>\r\n<li>Width: 6-1/4\"</li>\r\n<li>Projection: 1/2\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Victorian Quad Outlet Plate",
+                "description": "The Victorian Quad Outlet Plate is fancy enough to catch eyes even in the most posh of homes. Its ornate design is highlighted by the beautiful finish choices, making it a real show stopper. The Double Victorian Outlet Cover Plate has 4 cutouts to accommodate electrical sockets. It comes packaged with matching screws for easy installation.",
+                "keywords": "Grandeur ROPSWPLTD2, GRA-ROPSWPLTD2, Double Victorian Outlet Cover Plates, Victorian Quad Outlet Plates, Double Electrical Socket Covers, Grandeur Victorian Outlet Covers, Ornate Outlet plate covers,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Height",
+                    "value": "5-3/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "6-1/4\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1/2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Electrical Outlet &amp; Switch Plates",
+                    "sort": "117"
+                },
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "66"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "859869",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "237870",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "156724",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "172863",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "859918",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Height: 5-3/8\"",
+                "Width: 6-1/4\"",
+                "Projection: 1/2\"",
+                "Select Finish: AP: Antique Pewter",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: ULB: Unlacquered Brass",
+                "Select Finish: TB: Timeless Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ULB: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "legacy_product_id": "1114105",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin Mortise Lock Body, Baldwin 6320",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-6320",
+            "mpn": "BAL-6320",
+            "price": "475.0",
+            "compare_at_price": "475.0",
+            "contractor_price": "475.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Baldwin Mortise Lock Body",
+                "Baldwin 6320",
+                "Baldwin Residential Entry Mortise Lock Body",
+                "BAL-6320"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525163.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525163.gif?v=1716428265"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 6320, Baldwin Residential Entry Mortise Lock Body</b>\r\n\r\n<p>\r\nThis is a entrance function Baldwin mortise lock body. Choose 2.5 inch backset or 2.75 inch backset.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Baldwin Entry Mortise Lock Body:\r\n<ul>\r\n<li>Backset: 2.5\" or 2.75\"</li>\r\n<li>Lever Strength</li>\r\n<li>Handed</li>\r\n<li>1\" (25mm) throw Deadbolt with saw-proof inserts</li>\r\n<li>Residential Entry</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Baldwin Mortise Lock Body",
+                "description": "This is a entrance function Baldwin mortise lock body. Choose 2.5 inch backset or 2.75 inch backset.",
+                "keywords": "Baldwin Mortise Lock Body, Baldwin 6320, Baldwin Residential Entry Mortise Lock Body, BAL-6320"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "45"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "337261",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "233075",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "184882",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "330372",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "369177",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 150: Satin Nickel",
+                "Select Finish: 112: Venetian Bronze",
+                "Select Backset: 2.5in. Backset",
+                "Select Backset: 2.75” Backset",
+                "Select Door Handing & Door Swing: Right Hand Door, Out-Swing",
+                "Select Door Handing & Door Swing: Right Hand Door, In-Swing",
+                "Select Door Handing & Door Swing: Left Hand Door, Out-Swing",
+                "Select Door Handing & Door Swing: Left Hand Door, In-Swing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "150: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "112: Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2.5in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2.75” Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Handing & Door Swing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Right Hand Door, Out-Swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Right Hand Door, In-Swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Left Hand Door, Out-Swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Left Hand Door, In-Swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

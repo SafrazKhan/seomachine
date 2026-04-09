@@ -1,0 +1,91 @@
+{
+    "legacy_product_id": "1181371",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Standard Perimeter Gasketing, Pemko 303-APK",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "PEM-303-APK",
+            "mpn": "PEM-303-APK",
+            "price": "48.55",
+            "compare_at_price": "53.95",
+            "contractor_price": "48.55",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Standard Perimeter Gasketing",
+                "Pemko 303-APK",
+                "PEM-303-APK",
+                "Pemko Standard Perimeter Gasketing"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PEM-303APK-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PEM-303APK-525.jpg?v=1717106646"
+        },
+        "text": {
+            "description_html": "<b>Pemko 303 Standard Perimeter Gasketing</b>\r\n\r\n<p>\r\nCategory J gaskets for use with listed steel frames and/or classified steel covered composite, hollow metal doors rated up to and including 3 hours; wood and plastic covered composite doors rated up to and including 1-1/2 hours; and wood core doors rated for 20 minutes.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Pemko Standard Perimeter Gasketing:\r\n<ul>\r\n<li>Material: Anodized Aluminum</li>\r\n<li>Color: Mill Finish Aluminum with Gray PemkoPrene insert</li>\r\n<li>Width: 1/4” (6.4 mm)</li>\r\n<li>Profile Height: 7/8” (22.2 mm)</li>\r\n<li>Total height with insert: 1-1/8” (28.6 mm)</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special ordred item. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Standard Perimeter Gasketing",
+                "description": "Category J gaskets for use with listed steel frames and/or classified steel covered composite, hollow metal doors rated up to and including 3 hours; wood and plastic covered composite doors rated up to and including 1-1/2 hours; and wood core doors rated for 20 minutes.",
+                "keywords": "Standard Perimeter Gasketing, Pemko 303-APK, PEM-303-APK,  Pemko Standard Perimeter Gasketing"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Pemko",
+                    "sort": "37"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "232547",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "228988",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "969097",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "969119",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "968792",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Size: PEM-303APK-36X84: 36in. x 84in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PEM-303APK-36X84: 36in. x 84in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

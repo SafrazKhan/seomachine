@@ -1,0 +1,132 @@
+{
+    "legacy_product_id": "232544",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "48 Inch Vinyl  Blade Door Sweep",
+            "vendor": "Door Controls",
+            "status": "ACTIVE",
+            "sku": "DC-YDB103xV-48",
+            "mpn": "DC-YDB103xV-48",
+            "price": "15.9",
+            "compare_at_price": "20.0",
+            "contractor_price": "15.1",
+            "shipping_weight": "5.0",
+            "tags": [
+                "DC-YDB103xV-48 48 Inch  Door Sweeps",
+                "48 Inch Vinyl  Blade Door Sweeps",
+                "commercial door sweeps",
+                "commercial bug sweeps",
+                "door stoppers",
+                "DC-YDB103CV-48 door sweeps",
+                "DC-YDB103DV-48 dark bronze door seals",
+                "NGP 97V-48",
+                "NGP 97VDKB-48"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DC-YDB103xV-48_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DC-YDB103xV-48_525.jpg?v=1716422221"
+        },
+        "text": {
+            "description_html": "<b>48\" Vinyl Blade Door Sweep</b>\r\n<p>\r\nDoor Sweeps help seal the doors bottom specially if there is a gap. It features 1\" single vinyl blade to fill large door gaps. These can help save energy, lowering heating and AC costs.\r\n</p>\r\n\r\n<p>\r\nAlso available: <a href=\"/products/36-inch-vinyl-blade-door-sweep\"><b>36\" Door Sweep</b></a>\r\n</p>\r\n<p>\r\nField sizable for doors 36-1/2\" to 48\" wide. Powder coated non-rusting aluminum blade housing with drip guard. Packaged with installation screws.\r\n</p>\r\n<p>\r\n<b>Specifications</b> for DC-YDB103xV-48 Door Sweep\r\n<ul>\r\n<li>Vinyl Blade Height: 1\"</li>\r\n<li>Total Height: 1-7/8\"</li>\r\n<li>Vinyl Blade Length: 48\"</li>\r\n</ul>\r\n</p>\r\n<p>\r\nAvailable in Aluminum or Dark Bronze finish.\r\n</p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "48 Inch Vinyl  Blade Door Sweep",
+                "description": "DC-YDB103xV-48 48 Inch Vinal Blade Door Sweep. Door Sweeps help seal the doors bottom specially if there is a gap.   Field sizable for doors 36-1/2  to 48 inches wide. Powder coated non-rusting aluminum blade housing with drip guard. Packaged with installation screws.",
+                "keywords": "DC-YDB103xV-48 48 Inch  Door Sweeps, 48 Inch Vinyl  Blade Door Sweeps, commercial door sweeps, commercial bug sweeps, door stoppers, DC-YDB103CV-48 door sweeps, DC-YDB103DV-48 dark bronze door seals, NGP 97V-48, NGP 97VDKB-48"
+            },
+            "specifications": [
+                {
+                    "key": "Vinyl Blade Height",
+                    "value": "1\""
+                },
+                {
+                    "key": "Total Height",
+                    "value": "1-7/8\""
+                },
+                {
+                    "key": "Vinyl Blade Length",
+                    "value": "48\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Door Controls",
+                    "sort": "7"
+                },
+                {
+                    "name": "Door Sweeps, Seals and Thresholds",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "228988",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "232550",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "228975",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "232492",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "187554",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "187550",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "208174",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Vinyl Blade Height: 1\"",
+                "Total Height: 1-7/8\"",
+                "Vinyl Blade Length: 48\"",
+                "Select Finish: YDB103CV-48: Aluminum",
+                "Select Finish: YDB103DV-48: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "YDB103CV-48: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "YDB103DV-48: Dark Bronze",
+                    "price_impact": 8.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

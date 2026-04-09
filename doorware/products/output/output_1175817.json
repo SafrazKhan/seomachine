@@ -1,0 +1,78 @@
+{
+    "legacy_product_id": "1175817",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Schlage 38-016 Bore Hole Adapter Kit",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-38-016",
+            "mpn": "SCH-38-016",
+            "price": "43.74",
+            "compare_at_price": "43.74",
+            "contractor_price": "43.74",
+            "shipping_weight": "0.1",
+            "tags": [
+                "Schlage 38-016 Adapter Ring Kit for Double Cylinders",
+                "Schlage 38-016 Bore Hole Adapter Kit",
+                "Adapter Ring Kit for Double Cylinder Locks with 2-1/8 Bore Hole"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAN-38-016-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAN-38-016-525.jpg?v=1716428778"
+        },
+        "text": {
+            "description_html": "<b>Schlage 38-016 Adapter Ring Kit for Double Cylinder</b>\r\n\r\n<p>\r\nFor use with <a href=\"/products/gate-lock-double-cylinder-schlage-b252pd\"><b>Schlage B252PD  Double Cylinder Gate Locks</b></a>. Adapter Ring Kit for Double Cylinder Locks with 2-1/8\" Bore Hole.\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i> \r\n</p>",
+            "seo": {
+                "title": "Schlage 38-016 Bore Hole Adapter Kit",
+                "description": "For use with Schlage B252PD  Double Cylinder Gate Locks. Adapter Ring Kit for Double Cylinder Locks with 2-1/8 inch Bore Hole.",
+                "keywords": "Schlage 38-016 Adapter Ring Kit for Double Cylinders, Schlage 38-016 Bore Hole Adapter Kit, Adapter Ring Kit for Double Cylinder Locks with 2-1/8 Bore Hole,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "108"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "248479",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "248460",
+                    "sort": "2"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 605: Bright Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "605: Bright Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

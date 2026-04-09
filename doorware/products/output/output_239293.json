@@ -1,0 +1,133 @@
+{
+    "legacy_product_id": "239293",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Apollo Solid Brass Push Plate, Brass Accents A04-P5230",
+            "vendor": "BrassAccents",
+            "status": "ACTIVE",
+            "sku": "BRA-A04-P5230",
+            "mpn": "BRA-A04-P5230",
+            "price": "126.4",
+            "compare_at_price": "158.0",
+            "contractor_price": "120.08",
+            "shipping_weight": "4.99",
+            "tags": [
+                "BRA-A04-P5230 Decorative 3-5/8 x 18 Push Plates",
+                "Decorative  Push Plates",
+                "Brass Accents Apollo Push Plates",
+                "Brass Accents A04-P5230 Solid Brass Apollo Push Plate 3-5/8 x 18",
+                "Brass Accents Renaissance Collection door hardware sets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BRA-A04-P5230-apollo-plate_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BRA-A04-P5230-apollo-plate_525.jpg?v=1716422338"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents Decorative Apollo Push Plate 3-5/8\" Wide x 18\" High</b>\r\n\r\n<p>\r\nThis decorative push plate is from the Brass Accents Renaissance Collection. Highly detailed solid cast brass styled in Italian Renaissance, popular around the turn of last century.\r\n</p>\r\n\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance, hand finished in the USA. They are one of the worlds leading crafters of decorative hot-forged  and cast brass door hardware.\r\n</p>\r\n\r\n<p>\r\nAlso available: <b>Matching <a href=\"/products/apollo-solid-brass-pull-plate-brass-accents-a04-p5231\">Decorative Apollo Pull Plate</a>\r\n</b>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for  Brass Accents A04-P5230 Decorative Apollo Push Plate\r\n<ul>\r\n<li>Plate Width: 3-5/8\"</li>\r\n<li>Plate Height: 18\"</li>\r\n<li>Material: Cast Brass</li>\r\n<li><b>Finish Warranty: 10 Years</b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nComes complete with matching finish mounting screws for easy installation. \r\n</p>",
+            "seo": {
+                "title": "Apollo Solid Brass Push Plate, Brass Accents A04-P5230",
+                "description": "Brass Accents A04-P5230 Decorative Apollo Push Plate. This decorative push plate is from the Brass Accents Renaissance Collection. Highly detailed solid cast brass styled in Italian  Renaissance, popular around the turn of last century. Comes complete with matching finish mounting screws for easy installation. Hand rubbed and finished in the USA with a 10 year warranty.",
+                "keywords": "BRA-A04-P5230 Decorative 3-5/8 x 18 Push Plates, Decorative  Push Plates, Brass Accents Apollo Push Plates, Brass Accents A04-P5230 Solid Brass Apollo Push Plate 3-5/8 x 18, Brass Accents Renaissance Collection door hardware sets,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Width",
+                    "value": "3-5/8\""
+                },
+                {
+                    "key": "Plate Height",
+                    "value": "18\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Cast Brass"
+                },
+                {
+                    "key": "Finish Warranty",
+                    "value": "10 Years"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Decorative Door Pull and Push Plates",
+                    "sort": "56"
+                },
+                {
+                    "name": "Pull & Push Plates",
+                    "sort": "15"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "239778",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "141956",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "142057",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "141924",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "143772",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "143788",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "142094",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "239296",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "239776",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Plate Width: 3-5/8\"",
+                "Plate Height: 18\"",
+                "Material: Cast Brass",
+                "Finish Warranty: 10 Years",
+                "Select Finish: Antique Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

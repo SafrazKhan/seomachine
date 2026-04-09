@@ -1,0 +1,109 @@
+{
+    "legacy_product_id": "875188",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Replacement Half-Round Simple Knob with Rosette, Omnia 442/07.26/671/07",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-442/07.26/671/07",
+            "mpn": "OMN-442/07.26/671/07",
+            "price": "59.0",
+            "compare_at_price": "59.0",
+            "contractor_price": "59.0",
+            "shipping_weight": "4.0",
+            "tags": [
+                "Omnia 442 Simple Replacement Knob and Rosettes",
+                "Solid Brass Half-Round Replacement Door Knobs",
+                "Half-Round Simple Knobs",
+                "Omnia 442/07.26/671/07",
+                "OMN-442/07.26/671/07",
+                "Replacement Half-Round Door Knob and Rosettes"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/442.07.26.671.07-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/442.07.26.671.07-525.jpg?v=1716426216"
+        },
+        "text": {
+            "description_html": "<b>Omnia 442, Replacement Half-Round Door Knob and Rosette</b>\r\n\r\n<p>\r\nSimple in design, this Omnia made door knob is both elegant and timeless. What is best about this 2-1/8\" diameter knob is that it will never go out of style--a simple classic with a durable solid brass interior, it will look beautiful no matter how many times you change the room's decor around it. The Half-Round Simple Knob is a replacement set. It comes packaged with the knob and rose only and does not include a spindle or latch. \r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> for the Omnia 442 Simple Replacement Knob and Rosette:\r\n<ul>\r\n<li>Knob Diameter: 2-1/8\"</li>\r\n<li>Knob Projection: 2-1/2\"</li>\r\n<li>Rose Diameter: 2-5/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. No Returns.</i>\r\n</p>",
+            "seo": {
+                "title": "Half-Round Simple Knob",
+                "description": "Simple in design, this Omnia made door knob is both elegant and timeless. What is best about this 2-1/8 inch diameter knob is that it will never go out of style--a simple classic with a durable solid brass interior, it will look beautiful no matter how many times you change the room's decor around it. The Half-Round Simple Knob is a replacement set. It comes packaged with the knob and rose only and does not include a spindle or latch. \r\n",
+                "keywords": "Omnia 442 Simple Replacement Knob and Rosettes, Solid Brass Half-Round Replacement Door Knobs, Half-Round Simple Knobs, Omnia 442/07.26/671/07, OMN-442/07.26/671/07, Replacement Half-Round Door Knob and Rosettes"
+            },
+            "specifications": [
+                {
+                    "key": "Knob Diameter",
+                    "value": "2-1/8\""
+                },
+                {
+                    "key": "Knob Projection",
+                    "value": "2-1/2\""
+                },
+                {
+                    "key": "Rose Diameter",
+                    "value": "2-5/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "170"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "289840",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "477558",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "558806",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "29811",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "442872",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Knob Diameter: 2-1/8\"",
+                "Knob Projection: 2-1/2\"",
+                "Rose Diameter: 2-5/8\"",
+                "Select Finish: OMN-442/07.26/671/07.26 - Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-442/07.26/671/07.26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

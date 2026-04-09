@@ -1,0 +1,110 @@
+{
+    "legacy_product_id": "631118",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Round Mount River Rock Towel Ring, Fusion TR-A6",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-TR-A6",
+            "mpn": "FUS-TR-A6",
+            "price": "109.0",
+            "compare_at_price": "109.0",
+            "contractor_price": "81.75",
+            "shipping_weight": "4.0",
+            "tags": [
+                "Bronze Round Radius Hand Towel Rings",
+                "Fusion TR-A6",
+                "Round Mount River Rock Towel Rings",
+                "traditional bathroom hardware",
+                "traditional bath towel rings",
+                "River Rock Hand Towel Ring with Round Mounts",
+                "FUS-TR-A6"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-TR-A6-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-TR-A6-525.jpg?v=1711365516"
+        },
+        "text": {
+            "description_html": "<b>Fusion TR-A6, River Rock Hand Towel Ring with Round Mounts</b>\r\n\r\n<p>\r\nLooking for a finishing touch that will really elevate your bathroom's overall style? Then the Round Mount River Rock Towel Ring is for you. Not to be cheesy, but this towel ring is a great way to add traditional beauty without aging your space. We've all seen that bathroom hardware that is supposed to be classic yet screams 1989. Made by Fusion, the TR-A6 River Rock Hand Towel Ring with Round Mounts is a shining example of how simplicity can be beautiful as well as timeless. Choose from medium bronze or dark bronze finishes.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/round-mount-bronze-towel-bar-fusion-tb-a6\"><b>Fusion TB-A6 Bronze River Rock Towel Bar</b></a>, \r\n<a href=\"/products/river-rock-round-mount-toilet-paper-holder-fusion-ph-a6\"><b>Fusion PH-A6 Bronze River Rock Toilet Paper Holder</b></a>, and <a href=\"/products/bronze-river-rock-rope-hook-with-round-mount-fusion-rh-a6\"><b>Fusion RH-A6 Bronze River Rock Robe Hook</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Bronze Round Radius Hand Towel Ring:\r\n<ul>\r\n<li>Mount Diameter: 3\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Round Mount River Rock Towel Ring, Fusion TR-A6",
+                "description": "Fusion TR-A6Round Mount River Rock Towel Ring - Looking for a finishing touch that will really elevate your bathroom's overall style? Then the Round Mount River Rock Towel Ring is for you. Not to be cheesy, but this towel ring is a great way to add traditional beauty without aging your space. We've all seen that bathroom hardware that is supposed to be classic yet screams 1989. Made by Fusion, the TR-A6 River Rock Hand Towel Ring with Round Mounts is a shining example of how simplicity can be beautiful as well as timeless. Choose from medium bronze or dark bronze finishes.",
+                "keywords": "Bronze Round Radius Hand Towel Rings, Fusion TR-A6, Round Mount River Rock Towel Rings,  traditional bathroom hardware, traditional bath towel rings, River Rock Hand Towel Ring with Round Mounts, FUS-TR-A6"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "384990",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "383122",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "478275",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "31459",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "31452",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "542415",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "405420",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MXB - Medium Bronze",
+                "Select Finish: DKB - Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MXB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DKB - Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

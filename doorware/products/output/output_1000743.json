@@ -1,0 +1,79 @@
+{
+    "legacy_product_id": "1000743",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-06T12:55:19.606096"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "LCN 2016 Concealed Door Closer",
+            "vendor": "LCN",
+            "status": "ARCHIVED",
+            "sku": "LCN-2016",
+            "mpn": "LCN-2016",
+            "price": "841.0",
+            "compare_at_price": "841.0",
+            "contractor_price": "841.0",
+            "shipping_weight": "14.0",
+            "tags": [
+                "LCN-2016 Concealed Door Closers",
+                "LCN 2010 Series Head Frame Mounted Concealed Door Closers",
+                "store front door closers",
+                "LCN Concealed Overhead Door Closers",
+                "LCN 2016 closers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LCN-2016_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LCN-2016_525.jpg?v=1717106407"
+        },
+        "text": {
+            "description_html": "<b>LCN Concealed Overhead Door Closers</b>\r\n<p>\r\nThe Concealed LCN 2016 is designed to mount in the door frame. \r\nThis heavy duty door closer is designed to provide complete concealment.\r\n</p>\r\n<p>\r\nThe single lever arm and roller assembly provide smooth, quiet door control. This is a handed closer with a spring size 6 and Aluminum finish.\r\n</p>\r\n<!-- <p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/kaba-5000-size.gif?v=1704354507\" width=\"600\" height=\"250\" border=\"0\" alt=\"LCN 2014 closer dimensions\">\r\n</p> -->\r\n<p>\r\nThe LCN 2016 designed for  Exterior Doors  36\" - 48\". <b>Dark Bronze</b> finish.\r\n</p>\r\n<p><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/2010.pdf?v=1704262219\" target=\"new\"><b>LCN 2016 Installation Diagram (PDF).</b></a>\r\n</P>\r\n\r\n<p>\r\nThis Handed door closer is UL and ULC listed for self-closing doors without hold-open and comes with a 15 year warranty.\r\nTested and certified under ANSI Standard A156.4, <b>Grade 1</b>.\r\n</p>\r\n<p>\r\nPackaged complete with door closer, mounting bracket, closer arm, track, roller and installation screws.\r\n</p>\r\n<p>\r\n<b>*Important</b> When selecting <b>Door Hand</b> for this door closer:  \r\n<br>\r\n1. Stand on the <b>Push Side</b> of the door, facing the door. <br>\r\n2. If the \"Pivot Hinge\" is on your \"Left\", choose \"Left Hand Door\". <br>\r\n3. If the \"Pivot Hinge\" is on your \"Right\", choose \"Right Hand Door\". <br>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/closer-handing.gif?v=1704354510\"  width=\"410\" height=\"195\" border=\"0\"alt=\"door handing\">\r\n</p>",
+            "seo": {
+                "title": "LCN 2016 Concealed Door Closer",
+                "description": "LCN 2010 Series Concealed Door Closers.   Frame Mounted Concealed Overhead Door Closer for exterior doors up to 42 inches and interior doors up to 48 inches wide.",
+                "keywords": "LCN-2016 Concealed Door Closers, LCN 2010 Series Head Frame Mounted Concealed Door Closers, store front door closers, LCN Concealed Overhead Door Closers, LCN 2016 closers,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "LCN Discontinued",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Door Hand: LCN-2016-LH: Left Hand Door",
+                "Select Door Hand: LCN-2016-RH: Right Hand Door"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Hand",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LCN-2016-LH: Left Hand Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LCN-2016-RH: Right Hand Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

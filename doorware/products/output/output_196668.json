@@ -1,0 +1,137 @@
+{
+    "legacy_product_id": "196668",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Stainless Steel Modern Dome Floor Mount Door Stop, AHI-SIG730",
+            "vendor": "AHI",
+            "status": "ACTIVE",
+            "sku": "AHI-SIG730",
+            "mpn": "AHI-SIG730",
+            "price": "27.99",
+            "compare_at_price": "40.0",
+            "contractor_price": "26.6",
+            "shipping_weight": "0.4",
+            "tags": [
+                "AHI SIG730 Modern Floor Mount Dome Style Door Stops",
+                "Stainless Door Hardware. Stainless Steel Modern Dome Floor Mount Door Stop",
+                "AHI-SIG730 stainless Dome stops",
+                "730-630",
+                "730",
+                "sig730"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AHI-SIG730-stainless-dome-stop_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-SIG730-stainless-dome-stop_525.jpg?v=1716421905"
+        },
+        "text": {
+            "description_html": "<b>Modern Stainless Steel Dome Door Stop</b>\r\n\r\n<p>\r\nThe solid stainless steel with large black bumper face is easy to install. It has concealed mounting for a sleek installation. Available in your choice of soft <b>Satin Stainless Steel</b> or bright <b>Polished Stainless Steel</b> finish. This modern dome style floor mount door stop from AHI, a leader in Stainless Door Hardware includes all necessary mounting hardware. For use in residential and commercial applications.\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-SIG730_size.jpg?v=1704354766\" width=\"600\" height=\"250\" border=\"0\" alt=\"AHI SIG730 Modern Dome Door Stop Size\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the AHI SIG730 Stainless Steel Dome Door Stop:\r\n<ul>\r\n<li>Material: 304 Stainless Steel</li>\r\n<li>Height at Bumper: 1\" (25 mm)</li>\r\n<li>Diameter: 1-7/8\" (47.2 mm)</li>\r\n<li>Packaged with mounting hardware.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SIG730.pdf?v=1691093349\" target=\"new\"><b>AHI SIG730 Dimensions (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Stainless Steel Modern Dome Floor Mount Door Stop, AHI-SIG730",
+                "description": "AHI SIG730 Solid stainless steel with large black bumper face. Easy to install. Concealed mounting for a sleek installation. Available in your choice of soft Satin Stainless Steel or bright Polished Stainless Steel finish. This modern dome style floor mount door stop from AHI, a leader in Stainless Door Hardware includes all necessary mounting hardware. ",
+                "keywords": "AHI SIG730 Modern Floor Mount Dome Style Door Stops, Stainless Door Hardware. Stainless Steel Modern Dome Floor Mount Door Stop, AHI-SIG730 stainless Dome stops, 730-630, 730, sig730,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "304 Stainless Steel"
+                },
+                {
+                    "key": "Height at Bumper",
+                    "value": "1\" (25 mm)"
+                },
+                {
+                    "key": "Diameter",
+                    "value": "1-7/8\" (47.2 mm)"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "AHI Stainless Steel Door Stops",
+                    "sort": "5"
+                },
+                {
+                    "name": "Door Stops, Bumpers, and Holders",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "222135",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "162598",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "6712",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "38629",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "196662",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "197076",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "196664",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "142852",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "142676",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Material: 304 Stainless Steel",
+                "Height at Bumper: 1\" (25 mm)",
+                "Diameter: 1-7/8\" (47.2 mm)",
+                "Select Finish: 630: Satin Stainless Steel",
+                "Select Finish: 629: Polished Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "630: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "629: Polished Stainless Steel",
+                    "price_impact": 2.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

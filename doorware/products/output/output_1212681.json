@@ -1,0 +1,93 @@
+{
+    "legacy_product_id": "1212681",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin R052 Estate Rose, Pair, Baldwin R052",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-R052",
+            "mpn": "BAL-R052",
+            "price": "129.6",
+            "compare_at_price": "162.0",
+            "contractor_price": "123.12",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Baldwin Estates Collection R033 Rosettes",
+                "Baldwin R033 Estate Rose",
+                "BAL-R033",
+                "Baldwin R033 Round Roses"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-R052-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-R052-525.jpg?v=1769499159"
+        },
+        "text": {
+            "description_html": "<b>Baldwin Estates Collection Rose Pair, Baldwin R052</b>\r\n\r\n<p>\r\nThis is a Pair of Baldwin R052 Estate Rosettes. The R033 Rose is 5.25 inches high and 2.63 inches wide and has a straight edge.  It is designed to conceal 2.125 inch pre-drilled door bore hole. The Baldwin Estates Collection R052 Rosette is made out of solid forged brass.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Baldwin R033 Rectangular Beveled Rose:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Rose Height: 5.25\"</li>\r\n<li>Rose Width: 2.63\"</li>\r\n<li>Designed to conceal 2-1/8\" pre-bored doors</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold as a pair (2)</i>\r\n</p>",
+            "seo": {
+                "title": "Baldwin R052 Estate Rose, Pair",
+                "description": "This is a Pair of Baldwin R052 Estate Rosettes. The R033 Rose is 5.25 inches high and 2.63 inches wide and has a straight edge.  It is designed to conceal 2.125 inch pre-drilled door bore hole. The Baldwin Estates Collection R052 Rosette is made out of solid forged brass.",
+                "keywords": "Baldwin Estates Collection R033 Rosettes, Baldwin R033 Estate Rose, BAL-R033, Baldwin R033 Round Roses"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "60"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: 190: Matte Black",
+                "Select Function: R052PS: Passage",
+                "Select Function: R052PV: Privacy"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "190: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "R052PS: Passage",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "R052PV: Privacy",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

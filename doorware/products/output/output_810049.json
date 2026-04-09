@@ -1,0 +1,128 @@
+{
+    "legacy_product_id": "810049",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "PDQ Best Small Format Interchangeable Cylinder",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PDQ-I5206-8-1-A",
+            "mpn": "PDQ-I5206-8-1-A",
+            "price": "97.8",
+            "compare_at_price": "125.0",
+            "contractor_price": "97.8",
+            "shipping_weight": "1.0",
+            "tags": [
+                "PDQ-I5206-8-1-A",
+                "PDQ Best Small Format Interchangeable Cylinders",
+                "Best Small Format IC Cylinders"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDQ-I5206-8-1-A-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PDQ-I5206-8-1-A-525.jpg?v=1711365619"
+        },
+        "text": {
+            "description_html": "<b>PDQ I5206-8-1-A, Best Small Format IC Cylinder</b>\r\n\r\n<p>\r\nThe PDQ I5206-8-1-A is a small format interchangeable cylinder that is compatible with Best Small Format IC Products. It is a 6-pin cylinder.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the I5206-8-1-A Best Small Format Interchangeable Cylinder:\r\n<ul>\r\n<li>6 pin cylinder</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "PDQ Best Small Format Interchangeable Cylinder",
+                "description": "The PDQ I5206-8-1-A is a small format interchangeable cylinder that is compatible with Best Small Format IC Products. It is a 6-pin cylinder.",
+                "keywords": "PDQ-I5206-8-1-A, PDQ Best Small Format Interchangeable Cylinders, Best Small Format IC Cylinders,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Misc Hardware",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "194308",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "194255",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "198107",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "413959",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Keying: Only Ordered One Lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike",
+                "Select Finish: 606: Satin Brass",
+                "Select Finish: 626: Brushed Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Only"
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 8.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "606: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "626: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

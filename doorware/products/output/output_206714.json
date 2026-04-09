@@ -1,0 +1,231 @@
+{
+    "legacy_product_id": "206714",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "AHI Stainless Steel  Leverset SIG109/206",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-SIG109xx/206",
+            "mpn": "AHI-SIG109xx/206",
+            "price": "114.0",
+            "compare_at_price": "114.0",
+            "contractor_price": "114.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "AHI-SIG109",
+                "AHI SIG109 Stainless Steel Leversets",
+                "satin stainless steel levers",
+                "AHI hardware satin stainless door levers",
+                "AHI-SIG109xx/206 rose",
+                "flush rose leversets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>AHI SIG109 Stainless Steel Leversets with 206 Flush Rose</b>\r\n<p>\r\n All stainless steel levers in PVD coated finishes. Extremely resistant to corrosion, knocks, scratches and abrasion making it an ideal material for door hardware. It needs little looking after and does not degrade in appearance or function with use.\r\n</p>\r\n<p>\r\nLever Style: SIG109<br>\r\nFlush Rose: SIG206<br>\r\nAdjustable Door thickness 1 3/8\" to 2\"<br>\r\nDoes NOT Fit standard 2-1/8\" door cut outs<br>\r\nAll Levers meet <a href=\"/pages/ada-compliant\">Americans with Disabilities Act (ADA)</a><br>\r\n\r\n<p>\r\nWhen choosing a function:\r\n</p>\r\n<p>\r\n<ul>\r\n<li>Single Dummy: For use as a pull or to match trim.</li>\r\n<li>Double Dummy: Stationary both sides of door</li>\r\n<li>Passage (Hall or Closet): For doors that don't need locking.</li>\r\n<li>Privacy (Bedroom or Bathroom): For doors that could need locking. Includes privacy inside thumbturn bolt and exterior emergency release plate.</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<b>Note: Single Dummy is Handed</b>. All other functions are non-handed. <a href=\"/pages/how-to-order-door-hardware\"><b>Handing Guide</b></a>\r\n</p>\r\n<br>",
+            "seo": {
+                "title": "AHI Stainless Steel  Leverset SIG109/206",
+                "description": "AHI SIG109 Stainless Steel Leversets with 206 Flush Rose. All stainless steel levers in PVD coated finishes.",
+                "keywords": "AHI-SIG109, AHI SIG109 Stainless Steel Leversets, satin stainless steel levers, AHI hardware satin stainless door levers, AHI-SIG109xx/206 rose, flush rose leversets,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "AHI-Discontinued-and-Custom",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Function: SDLH - Single Dummy,  Left Hand",
+                "Select Function: SDRH - Single Dummy,  Right Hand",
+                "Select Function: DD - Double Dummy",
+                "Select Function: PA - Passage (Hall or Closet)",
+                "Select Function: PV - Privacy with Turn Bolt",
+                "Select Finish: P13 - PVD Oil Rubbed Bronze, Light",
+                "Select Finish: P14 - PVD Polished Oil Rubbed Bronze, Light",
+                "Select Finish: P22 - PVD Satin Black",
+                "Select Finish: P23 - PVD Polished Black",
+                "Select Finish: P29 - PVD Polished Stainless Steel",
+                "Select Finish: P30 - PVD Satin Stainless Steel",
+                "Select Finish: P32 - PVD Polished Brass",
+                "Select Finish: P33 - PVD Satin Brass",
+                "Select Finish: P37 - PVD Polished Bronze",
+                "Select Finish: P39 - PVD Satin Bronze",
+                "Select Finish: P40 - PVD Oil Rubbed Bronze, Dark",
+                "Select Finish: P41 - PVD Polished Oil Rubbed Bronze, Dark",
+                "Select Finish: P60 - PVD Polished Copper",
+                "Select Finish: P61 - PVD Satin Copper",
+                "Select Finish: P13/P29 - Split Finish PVD Oil Rubbed Bronze/Polished Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SDLH - Single Dummy,  Left Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SDRH - Single Dummy,  Right Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DD - Double Dummy",
+                    "price_impact": 112.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PA - Passage (Hall or Closet)",
+                    "price_impact": 156.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PV - Privacy with Turn Bolt",
+                    "price_impact": 412.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "P13 - PVD Oil Rubbed Bronze, Light",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P14 - PVD Polished Oil Rubbed Bronze, Light",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P22 - PVD Satin Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P23 - PVD Polished Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P29 - PVD Polished Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P30 - PVD Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P32 - PVD Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P33 - PVD Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P37 - PVD Polished Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P39 - PVD Satin Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P40 - PVD Oil Rubbed Bronze, Dark",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P41 - PVD Polished Oil Rubbed Bronze, Dark",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P60 - PVD Polished Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P61 - PVD Satin Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P13/P29 - Split Finish PVD Oil Rubbed Bronze/Polished Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

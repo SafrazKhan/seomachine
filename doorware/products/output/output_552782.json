@@ -1,0 +1,109 @@
+{
+    "legacy_product_id": "552782",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Harvest Cabinet Pull, RK International CP-411",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CP-411",
+            "mpn": "RKI-CP-411",
+            "price": "16.99",
+            "compare_at_price": "20.46",
+            "contractor_price": "16.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Corn Cob Cabinet Pulls",
+                "Corn Cabinet Pulls",
+                "RK International CP-411",
+                "RKI-CP-411",
+                "country decor",
+                "Harvest Cabinet Pull"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CP-411-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CP-411-525.jpg?v=1716424391"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-411, Harvest Cabinet Pull</b>\r\n\r\n<p>\r\nRK International captures the feel of the country with its Harvest Cabinet Pull. It is available in polished brass, oil rubbed bronze, and satin nickel finishes. The CK-411 cabinet pull comes packaged with all the necessary installation hardware.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching <a href=\"/products/corn-cabinet-knob-rk-international-ck-211\"><b>CK-211 Harvest Cabinet Knob</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-411 Harvest Cabinet Pull:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 4-3/8\"</li>\r\n<li>Width: 15/16\"</li>\r\n<li>Projection: 1\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Harvest Cabinet Pull",
+                "description": "RK International CP-411, Harvest Cabinet Pull - RK International captures the feel of the country with its Harvest Cabinet Pull. It is available in oil rubbed bronze, polished brass, and satin nickel finishes. The CK-411 cabinet pull comes packaged with all the necessary installation hardware.",
+                "keywords": "Corn Cob Cabinet Pulls, Corn Cabinet Pulls, RK International CP-411, RKI-CP-411, country decor, Harvest Cabinet Pull"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Pulls and Flush Pulls",
+                    "sort": "9"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "12103",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "41380",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "438727",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "29827",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: B: Polished Brass",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

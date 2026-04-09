@@ -1,0 +1,145 @@
+{
+    "legacy_product_id": "1010846",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Villa Lever with Rectangular Rose Trim Set, Baldwin TR-5141-R033",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-TR-5141-R033",
+            "mpn": "BAL-TR-5141-R033",
+            "price": "107.2",
+            "compare_at_price": "134.0",
+            "contractor_price": "107.2",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Baldwin 5141-R033 Trim Sets",
+                "Baldwin Trim Only Villa 5141 Lever with R033 Rose",
+                "Villa Lever with Rectangular Rose Trim Sets",
+                "Baldwin TR-5141-R033",
+                "Baldwin Trim Set 5141 Leverset and R033 Roses",
+                "BAL-TR-5141-R033"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-TR-5141-R033-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-TR-5141-R033-525.jpg?v=1716427663"
+        },
+        "text": {
+            "description_html": "<b>Baldwin Trim Only Villa 5141 Lever with R033 Rose</b>\r\n\r\n<p>\r\nThis is a trim set. Package includes 5141 Lever and R033 Rose. It does not include a latch or spindle. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Baldwin 5141-R033 Trim Set:\r\n<ul>\r\n<li>R033 Rose Height: 3.225\"</li>\r\n<li>R033 Rose Width: 2.75\"</li>\r\n<li>Lever Length: 4.6\"</li>\r\n<li>Overall Projection: 2.8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Villa Lever with Rectangular Rose Trim Set",
+                "description": "This is a trim set. Package includes 5141 Lever and R033 Rose. It does not include a latch or spindle.",
+                "keywords": "Baldwin 5141-R033 Trim Sets, Baldwin Trim Only Villa 5141 Lever with R033 Rose, Villa Lever with Rectangular Rose Trim Sets, Baldwin TR-5141-R033, Baldwin Trim Set 5141 Leverset and R033 Roses, BAL-TR-5141-R033,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Baldwin Discontinued",
+                    "sort": "157"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "478054",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "355638",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "238373",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "882695",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "147567",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "895588",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Function: 5141/R033PS: Passage",
+                "Select Function: 5141/R033PV: Privacy",
+                "Select Finish: 190: Satin Black",
+                "Select Handing: Right Handing",
+                "Select Handing: Left Handing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "5141/R033PS: Passage",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": " 5141/R033PV: Privacy",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "190: Satin Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Right Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Right"
+                },
+                {
+                    "value": "Left Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Left"
+                }
+            ]
+        }
+    ]
+}

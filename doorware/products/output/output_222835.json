@@ -1,0 +1,119 @@
+{
+    "legacy_product_id": "222835",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Thumb Lift Handleset for Panic Device, Global TH1100-TPED-AL",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-TH1100-TPED-AL",
+            "mpn": "GLO-TH1100-TPED-AL",
+            "price": "151.34",
+            "compare_at_price": "216.2",
+            "contractor_price": "136.21",
+            "shipping_weight": "4.0",
+            "tags": [
+                "GLO-TH1100-TPED-AL Panic Device Outside Handlesets",
+                "Thumb Lift Handleset for Panic Devices",
+                "Global TH1100-TPED rim cylinder handlesets",
+                "Global Series TH1100EDTBAR outside trim"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/TH1100-TPED-AL_5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/TH1100-TPED-AL_5251.jpg?v=1769479684"
+        },
+        "text": {
+            "description_html": "<b>Thumb Lift Handleset for Global Series TH1100EDTBAR</b>\r\n<p>\r\nThis is a Entry Function (with thumb lift) Handleset (key locks and unlocks thumb lift) for Global <a href=\"/products/30-to-36-inch-wide-door-touch-bar-rim-exit-device-th1100edtbar\"><b>TH1100EDTBAR Touch Bar Rim Exit Devices</b></a>,  <a href=\"/products/grade-1-commercial-exit-device-for-30-36-inch-door-pdq-4200r\"><b>PDQ 4200 Rim Exit Device</b></a> and other manufactures <a href=\"/collections/panic-devices\"><b>Panic Devices</b></a>.\r\n</p>\r\n<p>\r\nPackaged with lock cylinder, mounting hardware, instructions, and 2 keys.\r\n</p>\r\n<p>\r\n<b>Features</b> for Global TH1100-TPED-AL Thumb Lift  Handleset \r\n<ul>\r\n<li>Function: Entry - Key locks and unlocks the thumb lift. When unlocked pushing the thumb lift down unlatches the exit device for opening door from exterior.</li>\r\n<li>Finish: Aluminum</li>\r\n<li>Handle Plate Height: 12-1/4\"</li>\r\n<li>Handle Plate Width: 3\"</li>\r\n<li>Pull Height: 6\"</li>\r\n<li>Pull Projection: 1-5/8\"</li>\r\n<li>Supplied with Schlage \"C\" Keyway Lock Cylinder</li>\r\n<li>Supplied with 2 keys</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Thumb Lift Handleset for Panic Device, Global TH1100-TPED-AL",
+                "description": "Global TH1100-TPED-AL rim cylinder handlesets.  This is a Entry Function (with thumb lift) Handleset (key locks and unlocks thumb lift) for Global TH1100EDTBAR Touch Bar Rim Exit Devices. Packaged with rim lock cylinder, mounting hardware, instructions, and 2 keys.",
+                "keywords": "GLO-TH1100-TPED-AL Panic Device Outside Handlesets, Thumb Lift Handleset for Panic Devices, Global TH1100-TPED rim cylinder handlesets,  Global Series TH1100EDTBAR outside trim,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Global Panic Hardware",
+                    "sort": "40"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "250724",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "832047",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "222660",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "247325",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "250676",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "251181",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "241487",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "222609",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Keying: I only ordered one",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I only ordered one",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

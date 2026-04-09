@@ -1,0 +1,100 @@
+{
+    "legacy_product_id": "413122",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Thick Door Kit for Schlage F Series Handlesets, SCH-61-075",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-61-075",
+            "mpn": "SCH-61-075",
+            "price": "25.0",
+            "compare_at_price": "30.0",
+            "contractor_price": "25.0",
+            "shipping_weight": "0.2",
+            "tags": [
+                "Thick Door Kit for Schlage F Series Handlesets",
+                "SCH-61-075"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Thick Door Kit for Schlage F Series Handlesets, SCH-61-075</b>\r\n<p>For use with Schlage F Series Handlesets for doors from 2\" to 2.25\" thick.</p>",
+            "seo": {
+                "title": "Thick Door Kit for Schlage F Series Handlesets, SCH-61-075",
+                "description": "Thick Door Kit for Schlage F Series Handlesets, SCH-61-075",
+                "keywords": "Thick Door Kit for Schlage F Series Handlesets, SCH-61-075"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Schlage Handleset",
+                    "sort": "48"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: SCH-61-075-605 - Polished Brass",
+                "Select Finish: SCH-61-075-609 - Antique Brass",
+                "Select Finish: SCH-61-075-613 - Oil Rubbed Bronze or Aged Bronze",
+                "Select Finish: SCH-61-075-619 - Satin Nickel",
+                "Select Finish: SCH-61-075-626 - Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SCH-61-075-605 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-61-075-609 - Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-61-075-613 - Oil Rubbed Bronze or Aged Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-61-075-619 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-61-075-626 - Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

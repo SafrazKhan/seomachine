@@ -1,0 +1,115 @@
+{
+    "legacy_product_id": "827932",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Floor Dome Stop, Ives FS436",
+            "vendor": "Ives",
+            "status": "ARCHIVED",
+            "sku": "IVES-FS436",
+            "mpn": "IVES-FS436",
+            "price": "5.9",
+            "compare_at_price": "5.9",
+            "contractor_price": "5.9",
+            "shipping_weight": "0.25",
+            "tags": [
+                "1 Inch Floor Door Stops",
+                "Floor Dome Stops",
+                "Ives FS436",
+                "Floor dome stoppers",
+                "low profile dome door stops",
+                "IVES-FS436"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/IVES-FS436-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/IVES-FS436-525.jpg?v=1716425906"
+        },
+        "text": {
+            "description_html": "<b>Ives FS436, Dome Door Stop</b>\r\n\r\n<p>\r\nTypically dome door stops are used in commercial buildings such as schools, shopping malls and offices. This Ives FS436  Floor Dome Stop has a base height of only 3/16\" so it will clear the bottom of most doors. The Low Profile Dome Floor Door Stop comes packaged with mounting hardware. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Low Profile Dome Door Stop:\r\n<ul>\r\n<li>Overall Height: 1”</li>\r\n<li>Base Height: 3/16”</li>\r\n<li>Base Width: 1-3/4”</li>\r\n<li>Base Length: 2”</li>\r\n<li>Rubber Color: Grey</li>\r\n<li>Packaged with wood screw and plastic anchor.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i> Special Ordered Item. <b>No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "Floor Dome Stop",
+                "description": "Typically dome door stops are used in commercial buildings such as schools, shopping malls and offices. This Ives FS436  Floor Dome Stop has a base height of only 3/16 inches so it will clear the bottom of most doors. The Low Profile Dome Floor Door Stop comes packaged with mounting hardware.",
+                "keywords": "1 Inch Floor Door Stops, Floor Dome Stops, Ives FS436, Floor dome stoppers, low profile dome door stops, IVES-FS436"
+            },
+            "specifications": [
+                {
+                    "key": "Overall Height",
+                    "value": "1”"
+                },
+                {
+                    "key": "Base Height",
+                    "value": "3/16”"
+                },
+                {
+                    "key": "Base Width",
+                    "value": "1-3/4”"
+                },
+                {
+                    "key": "Base Length",
+                    "value": "2”"
+                },
+                {
+                    "key": "Rubber Color",
+                    "value": "Grey"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Ives",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "239914",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "560922",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "162598",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "6712",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Overall Height: 1”",
+                "Base Height: 3/16”",
+                "Base Width: 1-3/4”",
+                "Base Length: 2”",
+                "Rubber Color: Grey",
+                "Select Finish: US4 - Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US4 - Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "legacy_product_id": "1204515",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Extended Button Tip for Brass Hinges, Deltana HPSS70",
+            "vendor": "Deltana",
+            "status": "ARCHIVED",
+            "sku": "DEL-HPSS70",
+            "mpn": "DEL-HPSS70",
+            "price": "5.81",
+            "compare_at_price": "5.81",
+            "contractor_price": "5.81",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Extended Button Tip for Brass Hinges",
+                "Deltana HPSS70"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-HPSS-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-HPSS-525.jpg?v=1711366753"
+        },
+        "text": {
+            "description_html": "<b>Extended Button Tip for Brass Hinges, Deltana HPSS70</b>\r\n<p>\r\nThe extended tip has a longer neck that allows the installation of a hinge pin stop in between. Available in 12 finishes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Deltana HPSS70\r\n<ul>\r\n<li>Height: 5/8\"</li>\r\n<li>Screw Diameter: 1/4\"\"</li>\r\n<li>Head Diameter: 1/2\"</li>\r\n<li>Material: Brass</li>\r\n<li>Available Finishes: 12</li>\r\n<li>Packaged with Mounting Hardware</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Extended Button Tip for Brass Hinges, Deltana HPSS70",
+                "description": "Extended Button Tip for Brass Hinges, Deltana HPSS70",
+                "keywords": "Extended Button Tip for Brass Hinges, Deltana HPSS70"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "5/8\""
+                },
+                {
+                    "key": "Screw Diameter",
+                    "value": "1/4\"\""
+                },
+                {
+                    "key": "Head Diameter",
+                    "value": "1/2\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Available Finishes",
+                    "value": "12"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Deltana Door Stops and Door Bumpers",
+                    "sort": "202"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Height: 5/8\"",
+                "Screw Diameter: 1/4\"\"",
+                "Head Diameter: 1/2\"",
+                "Material: Brass",
+                "Available Finishes: 12",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US3-UNL: Unlacquered Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3-UNL: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

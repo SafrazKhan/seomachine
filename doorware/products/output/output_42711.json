@@ -1,0 +1,195 @@
+{
+    "legacy_product_id": "42711",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Egg Cabinet Knob, Omnia 9105/35",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "OMN-9105/35",
+            "mpn": "OMN-9105/35",
+            "price": "17.6",
+            "compare_at_price": "22.0",
+            "contractor_price": "16.72",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9105 simple cabinet knobs",
+                "solid brass egg cabinet knobs",
+                "kitchen cabinet knobs",
+                "omnia cabinet knobs",
+                "omn-9105/30",
+                "omn-9105/35",
+                "egg brass knobs",
+                "egg shaped kitchen cabinet knobs Omnia 9105",
+                "solid brass drawer knobs",
+                "Simple Omnia 9105 drawer pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-9105-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-9105-525.jpg?v=1716420829"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9105/35, Solid Brass Egg Cabinet Knob</b>\r\n\r\n<p>\r\nMade of solid brass, this egg shaped cabinet knob is a simple yet elegant way to add a modern accent to any home. This knob is sure to blend in seamlessly with any decor. Choose from a wide selection of traditional finishes. The Egg Cabinet Knob is comes with the installation hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Egg Cabinet Door Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter: 1-3/8\"</li>\r\n<li>Projection: 1-1/2\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Egg Cabinet Knob",
+                "description": "Made of solid brass, this egg shaped cabinet knob is a simple yet elegant way to add a modern accent to any home. This knob is sure to blend in seamlessly with any decor. Choose from a wide selection of traditional finishes. The Egg Cabinet Knob is comes with the installation hardware.\r\n",
+                "keywords": "omnia 9105 simple cabinet knobs, solid brass egg cabinet knobs, kitchen cabinet knobs, omnia cabinet knobs, omn-9105/30, omn-9105/35, egg brass knobs, egg shaped kitchen cabinet knobs Omnia 9105, solid brass drawer knobs, Simple Omnia 9105 drawer pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Diameter",
+                    "value": "1-3/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-1/2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia Decorative Collection Cabinet Knobs And Pulls",
+                    "sort": "10"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "2"
+                },
+                {
+                    "name": "Omnia Cabinet Knobs",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "560718",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "43280",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "43161",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "185113",
+                    "sort": "12"
+                },
+                {
+                    "legacy_product_id": "477071",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "42944",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "43303",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "37917",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "43085",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "255250",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "824146",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "38039",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Diameter: 1-3/8\"",
+                "Projection: 1-1/2\"",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US26D: Satin Chrome",
+                "Select Finish: US3: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US10B"
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US14"
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US15"
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26"
+                },
+                {
+                    "value": "US26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26D"
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US3"
+                }
+            ]
+        }
+    ]
+}

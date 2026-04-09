@@ -1,0 +1,119 @@
+{
+    "legacy_product_id": "216588",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "St. Charles Doorbell Buttons, Fusion B-EL-E5",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-B-EL-E5",
+            "mpn": "FUS-B-EL-E5",
+            "price": "28.0",
+            "compare_at_price": "28.0",
+            "contractor_price": "21.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "FUS-B-EL-E5",
+                "Fusion B-EL-E5 St. Charles doorbells",
+                "saint charles design doorbells",
+                "fleur-de-lis designs",
+                "fusion hardware st. charles collections",
+                "solid brass doorbells",
+                "Fusion hardware e5 rose doorbells",
+                "St. Charles Doorbell Buttons",
+                "Fleur-De-Lis Doorbell Buttons"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-B-EL-E5_5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-B-EL-E5_5251.jpg?v=1711365209"
+        },
+        "text": {
+            "description_html": "<b>Fusion B-EL-E5, Fleur-De-Lis Doorbell Buttons</b>\r\n\r\n<p>\r\nFeaturing the Fleur-De-Lis made famous by the French monarch Louis V11, the Fusion made St. Charles Doorbell Button is crafted out of solid brass.\r\n</p>\r\n\r\n<p>\r\n<b>Please Note</b> This is a replacement trim only. It comes packaged with lighted button, rosette, and installation screws. It DOES NOT include the chime.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the St. Charles Collection Doorbell Fusion E5:\r\n<ul>\r\n<li>Rose Diameter: 2-3/4\"</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Includes lighted button.</li>\r\n<li>Packaged as a kit with matching finish installation screws and a lighted button.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<br><br><br>\r\n<b>** This item is  discontinued. </b>\r\n<br><br><br>\r\n</p>",
+            "seo": {
+                "title": "St. Charles Doorbell Buttons, Fusion B-EL-E5",
+                "description": "St. Charles Doorbell Fusion B-EL-E5 - Featuring the Fleur-De-Lis made famous by the French monarch Louis V11, the Fusion made St. Charles Doorbell Button is crafted out of solid brass. It comes packaged with a lighted doorbell actuator and is available in oil rubbed bronze, antique pewter, or medium bronze finishes.\r\n",
+                "keywords": "FUS-B-EL-E5, Fusion B-EL-E5 St. Charles doorbells, saint charles design doorbells, fleur-de-lis designs, fusion hardware st. charles collections, solid brass doorbells, Fusion hardware e5 rose doorbells, St. Charles Doorbell Buttons,  Fleur-De-Lis Doorbell Buttons,"
+            },
+            "specifications": [
+                {
+                    "key": "Rose Diameter",
+                    "value": "2-3/4\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Doorbells",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "148845",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "148918",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "141721",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "141705",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "216590",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "209101",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "32770",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "32951",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Rose Diameter: 2-3/4\"",
+                "Material: Solid Brass",
+                "Select Finish: ORB - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

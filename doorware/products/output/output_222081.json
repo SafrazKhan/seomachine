@@ -1,0 +1,117 @@
+{
+    "legacy_product_id": "222081",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Drive In Adjustable Latch, DoralLock DLP23875",
+            "vendor": "Doralock",
+            "status": "ARCHIVED",
+            "sku": "DOR-DLP23875",
+            "mpn": "DOR-DLP23875",
+            "price": "7.0",
+            "compare_at_price": "7.0",
+            "contractor_price": "7.0",
+            "shipping_weight": "0.25",
+            "tags": [
+                "DOR-DLP23875",
+                "Adjustable backset drive in latch for DoralLock passage or privacy sets",
+                "DoralLock DLP23875 drive in latches"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DOR-DLP23875_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DOR-DLP23875_525.jpg?v=1716422166"
+        },
+        "text": {
+            "description_html": "<b>DoralLock DLP23875 Drive In Adjustable Door Latch</b>\r\n\r\n<p>\r\nAdjustable backset drive in latch for <a href=\"/collections/deltana-levers-knobs-and-locks\"><b>DoralLock</b></a> passage (hall or closet doors) and privacy (bedroom or bathroom) sets.\r\n</p>\r\n\r\n<p>\r\nAlso available: <a href=\"/products/drive-in-adjustable-deadlatch-dorallock-dle23875\">DoralLock Drive In Adjustable Deadlatch for Entry Lockset</a>\r\n</p>\r\n\r\n<p>\r\nAdjustable a for 2-3/8\" or 2-3/4\" backset.\r\n</p>\r\n\r\n<p>\r\n<b>For passage and privacy functions only.</b>\r\n</p>",
+            "seo": {
+                "title": "Drive In Adjustable Latch, DoralLock DLP23875",
+                "description": "DoralLock DLP23875 Drive In Adjustable Door Latch - This DoralLock drive in latch for passage or privacy sets is adjustable for 2-3/8 inch or 2-3/4 inch backsets.",
+                "keywords": "DOR-DLP23875, Adjustable backset drive in latch for DoralLock passage or privacy sets, DoralLock DLP23875 drive in latches,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "DoralLock Discontinued Misc",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: DOR-DLP23875U10B - Oil Rubbed Bronze",
+                "Select Finish: DOR-DLP23875U15 - Satin Nickel",
+                "Select Finish: DOR-DLP23875U15A - Antique Nickel",
+                "Select Finish: DOR-DLP23875U26 - Polished Chrome",
+                "Select Finish: DOR-DLP23875U26D - Bushed Chrome",
+                "Select Finish: DOR-DLP23875U5 - Antique Brass",
+                "Select Finish: DOR-DLP23875CR003 - PVD Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DOR-DLP23875U10B - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DOR-DLP23875U15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DOR-DLP23875U15A - Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DOR-DLP23875U26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DOR-DLP23875U26D - Bushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DOR-DLP23875U5 - Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DOR-DLP23875CR003 - PVD Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "legacy_product_id": "487373",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "6 Inch Center to Center Square Back to Back Pull, Pair, SDQ-600",
+            "vendor": "SGS",
+            "status": "ACTIVE",
+            "sku": "SGS-SDQ-600",
+            "mpn": "SGS-SDQ-600",
+            "price": "72.0",
+            "compare_at_price": "90.0",
+            "contractor_price": "64.8",
+            "shipping_weight": "3.0",
+            "tags": [
+                "SGS-SDQ-600",
+                "SGS-SDQ600",
+                "Structured Glass Solutions SDQ-600",
+                "modern shower door handles",
+                "modern pulls",
+                "glass door pulls",
+                "6 Inch Square Glass Door Pulls",
+                "6 Inch Square Back to Back Pulls",
+                "6-3/4 Inch Modern Square Shower Door Handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SGS-SDQ-600-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SGS-SDQ-600-525.jpg?v=1716424230"
+        },
+        "text": {
+            "description_html": "<b>6-3/4 Inch Modern Square Shower Door Handle</b>\r\n\r\n<p>\r\nThe modern appearance of this handleset comes from the clean, sharp lines and right angles. The 6\" Square Back to Back Pull is made of 3/4\" square tubing. A pair of handles, it comes with back to back mounting that is great for glass doors such as shower doors. Available in polished chrome, brushed nickel, or oil rubbed bronze finishes.\r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-5037N-finish.jpg?v=1704354680\" width=\"308\" height=\"456\" border=\"0\" alt=\"SDQ-600 6 Inch Center to Center Square Pull Specifications\">\r\n</p>\r\n\r\n<p>\r\nAlso Available: Longer <a href=\"/products/8-inch-center-to-center-square-back-to-back-pulls-pair-sdq-800\"><b>8 Inch Center to Center Square Back to Back Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Modern Square Pull:\r\n<ul>\r\n<li>Overall Length: 6-3/4\"</li>\r\n<li>Length: 6\" center to center</li>\r\n<li>Tubing Diameter: 3/4\" Square Tubing</li>\r\n<li>Overall Projection: 2-5/16\"</li>\r\n<li>Clearance: 1-5/8\"</li>\r\n<li>Hole in Glass Diameter: 1/2\" (12 mm) Minimum</li>\r\n<li>Back-to-back mounting for Glass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold as a pair (2 pulls) for Glass Door</i>\r\n</p>",
+            "seo": {
+                "title": "6 Inch Center to Center Square Back to Back Pull, Pair, SDQ-600",
+                "description": "6 Inch Square Back to Back Pull, SDQ-600 - The modern appearance of this handleset comes from the clean, sharp lines and right angles. The 6 inch Square Back to Back Pull is made of 3/4 inch square tubing. A pair of handles, it comes with back to back mounting that is great for glass doors such as shower doors. Available in polished chrome, brushed nickel, or oil rubber bronze finishes.",
+                "keywords": "SGS-SDQ-600, SGS-SDQ600, Structured Glass Solutions SDQ-600, modern shower door handles, modern pulls, glass door pulls, 6 Inch Square Glass Door Pulls, 6 Inch Square Back to Back Pulls, 6-3/4 Inch Modern Square Shower Door Handles"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Glass Shower Door Pulls",
+                    "sort": "51"
+                },
+                {
+                    "name": "Structure Glass Solutions Door Pulls",
+                    "sort": "4"
+                },
+                {
+                    "name": "Door Pulls",
+                    "sort": "80"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "464104",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "42954",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "384156",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "384180",
+                    "sort": "12"
+                },
+                {
+                    "legacy_product_id": "239669",
+                    "sort": "13"
+                },
+                {
+                    "legacy_product_id": "565367",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "565381",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "247950",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "320415",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "273645",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "288203",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "284749",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "231547",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US15: Brushed Nickel",
+                "Select Finish: US10B: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 12.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

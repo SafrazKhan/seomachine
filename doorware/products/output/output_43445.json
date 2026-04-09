@@ -1,0 +1,123 @@
+{
+    "legacy_product_id": "43445",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Simple Aluminum Cabinet Pull Omnia AL409",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-AL409",
+            "mpn": "OMN-AL409",
+            "price": "28.5",
+            "compare_at_price": "35.6",
+            "contractor_price": "27.0",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Omnia AL409 Aluminum Door Pulls",
+                "omnia al409 aluminum door pulls",
+                "al409/127",
+                "al409/190",
+                "al409/318",
+                "modern cabinet hardware",
+                "traditional cabinet hardware",
+                "classic cabinet hardware",
+                "aluminum cabinet hardware omnia",
+                "cabinet handles aluminum",
+                "durable cabinet knobs",
+                "aluminum drawer pulls",
+                "sleek aluminum cabinet pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-brass-AL409_300x3351.jpg",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Omnia AL409 Sleek Simple Aluminum Cabinet Hardware</b>\r\n\r\n<p>\r\nAluminum (US28) finished, these sleek cabinet pulls are a great way to add a contemporary touch to your home. Aluminum is durable, lightweight, and easy to clean, ensuring that this Omnia made cabinet hardware will last for years to come and look beautiful while doing it. Available in  5 inch,  7-1/2 inch, or  12-1/2 inch lengths, you will be sure to find just the right fit for your needs. \r\n</p>\r\n\r\n<p>\r\nOmnia's line of sophisticated Aluminum cabinet hardware have been painstakingly crafted by artisans who understand that a beautiful design must be as comfortable to the hand as it is pleasing to the eyes.\r\n</p>\r\n\r\n<p>\r\n<b>Available in 3 Sizes:</b>\r\n<ul>\r\n<li><b>OMN-AL409/127</b> - Center to Center Mount Hole Spacing: 5\", Overall Length: 5-1/2\", Projection: 1-7/16\"</li>\r\n<li><b>OMN-AL409/190</b> - Center to Center Mount Hole Spacing: 7-1/2\", Overall Length: 8\", Projection: 1-7/16\"</li>\r\n<li><b>OMN-AL409/318</b> - Center to Center Mount Hole Spacing: 12-1/2\", Overall Length: 12-5/8\", Projection: 1-7/16\"</li>\r\n\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Simple Aluminum Cabinet Pull Omnia AL409",
+                "description": "Omnia AL409 Aluminum Door Pull - Aluminum (US28) finished, these sleek cabinet pulls are a great way to add a contemporary touch to your home. Aluminum is durable, lightweight, and easy to clean, ensuring that this Omnia made cabinet hardware will last for years to come and look beautiful while doing it. Available in  5 inch,  7-1/2 inch, or  12-1/2 inch lengths, you will be sure to find just the right fit for your needs. ",
+                "keywords": "Omnia AL409 Aluminum Door Pulls, omnia al409 aluminum door pulls, al409/127, al409/190, al409/318, modern cabinet hardware, traditional cabinet hardware, classic cabinet hardware, aluminum cabinet hardware omnia, cabinet handles aluminum, durable cabinet knobs, aluminum drawer pulls, sleek aluminum cabinet pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "11"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "228664",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "192859",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "247902",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "187972",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "43017",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "42141",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Size: OMN-AL-409/127 - Center to Center Hole Spacing: 5in.",
+                "Select Size: OMN-AL-409/190 - Center to Center Hole Spacing: 7-1/2in.",
+                "Select Size: OMN-AL-409/318 - Center to Center Hole Spacing: 12-1/2in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-AL-409/127 - Center to Center Hole Spacing: 5in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-AL-409/127"
+                },
+                {
+                    "value": "OMN-AL-409/190 - Center to Center Hole Spacing: 7-1/2in.",
+                    "price_impact": 2.25,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-AL-409/190"
+                },
+                {
+                    "value": "OMN-AL-409/318 - Center to Center Hole Spacing: 12-1/2in.",
+                    "price_impact": 6.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-AL-409/318"
+                }
+            ]
+        }
+    ]
+}

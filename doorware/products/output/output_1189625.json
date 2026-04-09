@@ -1,0 +1,113 @@
+{
+    "legacy_product_id": "1189625",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Kinney Cabinet Knob, TOP-TK900",
+            "vendor": "Top Knobs",
+            "status": "ARCHIVED",
+            "sku": "TOP-TK900",
+            "mpn": "TOP-TK900",
+            "price": "8.35",
+            "compare_at_price": "8.35",
+            "contractor_price": "8.35",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Top Knobs TK900 modern cabinet knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/TOP-TK900-BSN-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/TOP-TK900-BSN-525.jpg?v=1711366737"
+        },
+        "text": {
+            "description_html": "<b>Top Knobs TK900, Kinney Cabinet Knob</b>\r\n\r\n<p>\r\nThe Kinney Cabinet Knob will add a modern accent to any cabinet door. It is available in 6 complimentary finishes -- Ash Gray, Brushed Satin Nickel, Flat Black, Honey Bronze, Polished Chrome, and Polished Nickel.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Kinney Cabinet Door Knob:\r\n<ul>\r\n<li>Diameter: 1-1/8\"      </li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Kinney Cabinet Knob",
+                "description": "The Kinney Cabinet Knob will add a modern accent to any cabinet door. It is available in many finishes all of which grant very contemporary looks. The Top Knobs Kinney Cabinet Knob is available in 1-1/8 inch diameter, 1-1/4 inch diameter, and 1-1/2 inch diameter sizes.",
+                "keywords": "Top Knobs TK900 modern cabinet knobs"
+            },
+            "specifications": [
+                {
+                    "key": "Diameter",
+                    "value": "1-1/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Top Knobs Cabinet Knobs",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Diameter: 1-1/8\"",
+                "Select Finish: BSN: Brushed Satin Nickel",
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: BLK: Flat Black",
+                "Select Finish: PC: Polished Chrome",
+                "Select Finish: HB: Honey Bronze",
+                "Select Finish: AG: Ash Gray"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BSN: Brushed Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BLK: Flat Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PC: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "HB: Honey Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AG: Ash Gray",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

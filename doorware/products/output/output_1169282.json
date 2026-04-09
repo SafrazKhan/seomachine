@@ -1,0 +1,228 @@
+{
+    "legacy_product_id": "1169282",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Select Knurled Cabinet Knob, Emtek 86655CCKKNK",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-86655CCKKNK",
+            "mpn": "EMT-86655CCKKNK",
+            "price": "18.99",
+            "compare_at_price": "23.0",
+            "contractor_price": "18.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Emtek Select Knurled Conical Cabinet Knobs",
+                "EMT-86655CCKKNK",
+                "Select Knurled Cabinet Knobs",
+                "Emtek 86655CCKKNK",
+                "Select Knurled Cabinet Knob"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86655-CKK-KNK-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86655-CKK-KNK-525.jpg?v=1716428736"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86655CCKKNK, Select Knurled Cabinet Knob</b>\r\n\r\n<p>\r\nThe Select Knurled Cabinet Knob is perfect for modern homes. This kitchen cabinet knob is 1-1/4 inches in diameter with a 1 inch projection the stem and knob top are mix-and-match so you can choose a finish combination that you love--whether that be matching or contrasting finish colors. \r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-8665-Specifications.gif?v=1704354766\" width=\"599\" height=\"279\" border=\"0\" atl=\"Emtek Select Cabinet Knob Specifications\">\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> of the Emtek Select Knurled Conical Cabinet Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Comes packaged with installation screws.</li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Base: 3/8\"</li>\r\n<li>Projection: 1\"</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\nEmtek proudly announces the BRAND NEW SATIN COPPER FINISH with this kitchen cabinet knob design.\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86655-CCK-KNK-Finishes.jpg?v=1704354772\" width=\"600\" height=\"114\" border=\"0\" alt=\"Emtek Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "Select Knurled Cabinet Knob",
+                "description": "The Select Cabinet Knob is perfect for modern homes. This kitchen cabinet knob is 1-1/4 inches in diameter with a 1 inch projection the stem and knob top are mix-and-match so you can choose a finish combination that you love--whether that be matching or contrasting finish colors.",
+                "keywords": "Emtek Select Knurled Conical Cabinet Knobs, EMT-86655CCKKNK, Select Knurled Cabinet Knobs, Emtek 86655CCKKNK,  Select Knurled Cabinet Knob"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Diameter",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Base",
+                    "value": "3/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Cabinet Hardware",
+                    "sort": "25"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "824146",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1150460",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1095032",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "234756",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1068754",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "1168162",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Diameter: 1-1/4\"",
+                "Base: 3/8\"",
+                "Projection: 1\"",
+                "Select Stem Finish: CCKSCU: Satin Copper",
+                "Select Stem Finish: CCKUS14: Polished Nickel",
+                "Select Stem Finish: CCKUS19: Matte Black",
+                "Select Stem Finish: CCKUS26: Polished Chrome",
+                "Select Stem Finish: CCKUS15: Satin Nickel",
+                "Select Stem Finish: CCKUS4: Satin Brass",
+                "Select Stem Finish: CCKUS10B: Oil Rubbed Bronze",
+                "Select Knob Finish: KNKSCU: Satin Copper",
+                "Select Knob Finish: KNKUS14: Polished Nickel",
+                "Select Knob Finish: KNKUS19: Matte Black",
+                "Select Knob Finish: KNKUS26: Polished Chrome",
+                "Select Knob Finish: KNKUS15: Satin Nickel",
+                "Select Knob Finish: KNKUS4: Satin Brass",
+                "Select Knob Finish: KNKUS10B: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Stem Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "CCKSCU: Satin Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CCKUS14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CCKUS19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CCKUS26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CCKUS15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CCKUS4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CCKUS10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Knob Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "KNKSCU: Satin Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KNKUS14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KNKUS19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KNKUS26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KNKUS15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KNKUS4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KNKUS10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

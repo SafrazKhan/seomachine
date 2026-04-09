@@ -1,0 +1,142 @@
+{
+    "legacy_product_id": "161625",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "AHI-409 Stainless Steel Heavy Duty Door Pull",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-409",
+            "mpn": "AHI-409",
+            "price": "195.0",
+            "compare_at_price": "260.0",
+            "contractor_price": "185.25",
+            "shipping_weight": "10.0",
+            "tags": [
+                "AHI-409 Stainless Steel Heavy Duty Door Pull",
+                "stainless steel pull",
+                "heavy duty door pull",
+                "pull for glass door",
+                "back to back mounting pull",
+                "door pulls",
+                "door pull",
+                "stainless steel door pull"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/sig409-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/sig409-525.jpg?v=1717105633"
+        },
+        "text": {
+            "description_html": "<b>AHI-409 Stainless Steel Heavy Duty Door Pull<br>\r\n<br>\r\nHeavy Duty Stainless Steel Pull. Extremely resistant to corrosion, knocks, scratches and abrasion making it an ideal material for door hardware. It needs little looking after and does not degrade in appearance. Back to Back Mounting for Glass, Steel and Metal Doors. Sold as complete set with all mounting hardware.<br>\r\n<br>\r\nFinish: Satin Stainless Steel<br> \r\n<br>\r\nSizes:\r\n<li>409-355 High 14\"  Projection 3\"</li> \r\n<li>409-610 High 24\"  Projection 3\"</li>\r\n<br> \r\nSelect Size, Door Thickness Range and Quantity,  then add to Cart",
+            "seo": {
+                "title": "AHI-409 Stainless Steel Heavy Duty Door Pull",
+                "description": "AHI-409 Heavy Duty Round Stock Stainless Steel Pull. For Glass, Steel and Metal Doors. Back to back mounting to fit a wide range of door thickness. Available in 2 sizes\r\n",
+                "keywords": "AHI-409 Stainless Steel Heavy Duty Door Pull, stainless steel pull, heavy duty door pull, pull for glass door, back to back mounting pull, door pulls, door pull, stainless steel door pull"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "AHI-Discontinued-and-Custom",
+                    "sort": "20"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Size: 409-355 14in. H 3in. P",
+                "Select Size: 409- 610 24in. H 3in. P",
+                "Select Door Thickness Range: 1/4in. to 1/2in.",
+                "Select Door Thickness Range: 5/8in. to 1in.",
+                "Select Door Thickness Range: 1-1/8in. to 1-1/2in.",
+                "Select Door Thickness Range: 1-5/8in. to 2in.",
+                "Select Door Thickness Range: 2-1/8in. to 2-1/2in.",
+                "Select Door Thickness Range: 2-1/2in. to 3in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "409-355 14in. H 3in. P",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "409-355"
+                },
+                {
+                    "value": "409- 610 24in. H 3in. P",
+                    "price_impact": 165.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "409-"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness Range",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1/4in. to 1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "1/2\""
+                },
+                {
+                    "value": "5/8in. to 1in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2"
+                },
+                {
+                    "value": "1-1/8in. to 1-1/2in. ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "3"
+                },
+                {
+                    "value": "1-5/8in. to 2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-1/8in. to 2-1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-1/2in. to 3in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

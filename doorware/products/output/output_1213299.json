@@ -1,0 +1,103 @@
+{
+    "legacy_product_id": "1213299",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Emtek Tubular Pocket Door Privacy Latch, Emtek LC6-TUBPKTLATCH",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-LC6-TUBPKTLATCH",
+            "mpn": "EMT-LC6-TUBPKTLATCH",
+            "price": "26.99",
+            "compare_at_price": "26.99",
+            "contractor_price": "26.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Privacy Latch for pocket door lock",
+                "Emtek LC6-TUBPKTLATCH Emtek Privacy Latch",
+                "Emtek Privacy Set Latches",
+                "Emtek latches"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-LC6-TUBPKT-.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-LC6-TUBPKT.jpg?v=1769482354"
+        },
+        "text": {
+            "description_html": "<b>Emtek Privacy Latch</b>\r\n\r\n<p>\r\nReplacement 2-3/8\" backset latch for use with Emtek Tubular Pocket Door Privacy Locks. Available in Polished Brass or Polished Chrome finishes.\r\n</p>\r\n\r\n<p>\r\nReplacement 2-3/8\" Backset Pocket Door Privacy Latch only. Does NOT include the strike plate, face plate, or screws. \r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "Emtek Tubular Pocket Door Privacy Latch",
+                "description": "Replacement latch for use with Emtek Tubular Pocket Door Privacy Locks. Available in Polished Brass or Polished Chrome finishes.",
+                "keywords": "Privacy Latch for pocket door lock, Emtek LC6-TUBPKTLATCH Emtek Privacy Latch, Emtek Privacy Set Latches, Emtek latches,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1150828",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "999251",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "999020",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1150830",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "999265",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "999057",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: EMT-LC6-TUBPKTLATCH-US3: Polished Brass",
+                "Select Finish: EMT-LC6-TUBPKTLATCH-US26: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "EMT-LC6-TUBPKTLATCH-US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "EMT-LC6-TUBPKTLATCH-US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

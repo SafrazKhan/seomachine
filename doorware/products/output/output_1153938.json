@@ -1,0 +1,118 @@
+{
+    "legacy_product_id": "1153938",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Swirled Seashell Cabinet Knob, Laurey 565",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "LAU-565",
+            "mpn": "LAU-565",
+            "price": "8.49",
+            "compare_at_price": "11.32",
+            "contractor_price": "8.49",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Swirled Seashell Cabinet Knobs",
+                "Swirled Seashell Oceana Knobs",
+                "Swirl Oceana Knobs",
+                "shell knobs",
+                "Laurey 565",
+                "LAU-565",
+                "Laurey 56560",
+                "Laurey 56526",
+                "Conch Drawer Pulls",
+                "beach hardware",
+                "Coastal hardware",
+                "Coastal Cabinet Hardware",
+                "Tropical Cabinet Knobs",
+                "beach Cabinet Knobs",
+                "coastal kitchen"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LAU-565-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-565-525.jpg?v=1716428498"
+        },
+        "text": {
+            "description_html": "<b>Laurey 565, Seashell Oceana Cabinet Knob</b>\r\n\r\n<p>\r\nThe Swirled Seashell Cabinet Knob is available in polished chrome and antique silver finishes. This Swirl Oceana Knob is a great addition to beachside homes. This whimsical shell cabinet knob comes packaged with the mounting hardware. \r\n</p>\r\n\r\n\r\n<p>\r\nThis cabinet knob is part of the <a href=\"//search?type=product&q=Laurey+Oceana\">Laurey Oceana Collection</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Laurey Seashell Drawer Pulls:\r\n<ul>\r\n<li>Material: Zinc</li>\r\n<li>Diameter: 1-5/8\"</li>\r\n<li>Projection: 1\"</li>\r\n<li>Packaged with 1\" long #8-32 screw and 1-1/2\" long #8-32 screw.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Swirled Seashell Cabinet Knob",
+                "description": "The Swirled Seashell Cabinet Knob is available in polished chrome and antique silver finishes. This Swirl Oceana Knob is a great addition to beachside homes. This whimsical shell cabinet knob comes packaged with the mounting hardware. \r\n",
+                "keywords": "Swirled Seashell Cabinet Knobs, Swirled Seashell Oceana Knobs, Swirl Oceana Knobs, shell knobs, Laurey 565, LAU-565, Laurey 56560, Laurey 56526, Conch Drawer Pulls, beach hardware, Coastal hardware, Coastal Cabinet Hardware, Tropical Cabinet Knobs, beach Cabinet Knobs, coastal kitchen"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Laurey Cabinet Knobs",
+                    "sort": "67"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "846155",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "732669",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1153920",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "213962",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "240037",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "846619",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "553896",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: LAU-56526: Polished Chrome",
+                "Select Finish: LAU-56560: Antique Silver"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LAU-56526: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-56526-SM.jpg?v=1774582083",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-56526-LG.jpg?v=1711366622"
+                },
+                {
+                    "value": "LAU-56560: Antique Silver",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-56560-SM.jpg?v=1774582086",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-56560-LG.jpg?v=1711366622"
+                }
+            ]
+        }
+    ]
+}

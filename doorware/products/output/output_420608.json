@@ -1,0 +1,85 @@
+{
+    "legacy_product_id": "420608",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Cover for American Eagle 5100 Series Closers, PDQ 559006",
+            "vendor": "PDQ",
+            "status": "ACTIVE",
+            "sku": "PDQ-559006",
+            "mpn": "PDQ-559006",
+            "price": "33.99",
+            "compare_at_price": "45.0",
+            "contractor_price": "30.38",
+            "shipping_weight": "1.0",
+            "tags": [
+                "PDQ-559006 American Eagle 5100 Series Closer Covers",
+                "Streamline Cover for American Eagle 5100 Series Closers",
+                "PDQ 519006 door closer covers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>PDQ 559006 Door Closer Cover</b>\r\n\r\n<p>Plastic cover for <a href=\"/products/commercial-ada-compliant-full-cover-surface-mount-closer-american-eagle-5100\"><b>American Eagle 5101</b></a> and <a href=\"/products/grade-1-polished-brass-door-closer-pdq-5101-bcpa-605\"><b>American Eagle 5101-605 Polished Brass Door Closer</b></a>. \r\n</p>\r\n<p>Non Handed (reversible for left or right hand doors). <br>\r\nAluminum, Dark Bronze or Polished Brass\r\n</p>",
+            "seo": {
+                "title": "Cover for American Eagle 5100 Series Closers",
+                "description": "American Eagle 559006 - Cover for American Eagle 5100 Series Closers. Available in Aluminum, Dark Bronze or Polished Brass finish.",
+                "keywords": "PDQ-559006 American Eagle 5100 Series Closer Covers, Streamline Cover for American Eagle 5100 Series Closers, PDQ 519006 door closer covers,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "American Eagle 5100",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: 689: Aluminum",
+                "Select Finish: 695: Dark Bronze",
+                "Select Finish: 605: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "689: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "695: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "605: Polished Brass",
+                    "price_impact": 33.75,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

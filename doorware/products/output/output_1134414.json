@@ -1,0 +1,144 @@
+{
+    "legacy_product_id": "1134414",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "12 Inch Back to Back Ladder Pulls, Pair, BDPR-H1200",
+            "vendor": "SGS",
+            "status": "ACTIVE",
+            "sku": "SGS-BDPR-H1200",
+            "mpn": "SGS-BDPR-H1200",
+            "price": "104.99",
+            "compare_at_price": "133.0",
+            "contractor_price": "99.75",
+            "shipping_weight": "5.0",
+            "tags": [
+                "SGS-BDPR-H1200-US15",
+                "SGS-BDPR-H1200-US26",
+                "SGS-BDPR-H1200-US10B",
+                "12 Inch Back to Back Ladder Pulls",
+                "barn door handles",
+                "barn door pulls",
+                "back-to-back pulls",
+                "contemporary pulls",
+                "door handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/H1200-barn-door-pulls_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/H1200-barn-door-pulls_525.jpg?v=1716428372"
+        },
+        "text": {
+            "description_html": "<b>12 Inch Back to Back Ladder Pulls</b>\r\n\r\n<p>\r\n12\" contemporary design back to back mounted ladder pulls are great for barn doors. They are available in Brushed Nickel, Polished Chrome and Oil Rubbed Bronze finishes. The sharp, clean lines of this pull handle that give it a modern feel. It has a 8\" center to center mounting.  Made out of 3/4\" diameter round tubing for doors 1-1/8\" to 2\" thick.\r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/12-inch-barn-door-pulls-specifications.gif?v=1704354712\" width=\"220\" height=\"455\" border=\"0\" alt=\"12 Inch Back to Back Ladder Pulls\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the 12 Inch Back to Back Ladder Pulls:\r\n<ul>\r\n<li>Tubing Diameter: 3/4\" (19 mm) Round</li>\r\n<li>Overall Length: 12\" (305 mm)</li>\r\n<li>Length: 8\" center to center (203 mm)</li>\r\n<li>Inner Contact Tubing: 5/6\" (16 mm)</li>\r\n<li>Overall Projection: 2-1/4\"</li>\r\n<li>Clearance: 1-1/2\"</li>\r\n<li>Door Thickness: 1-1/8\" to 2\" Thick Door</li>\r\n<li>Back-to-back mounting.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold as a pair (2 pulls).</i>\r\n</p>",
+            "seo": {
+                "title": "12 Inch Back to Back Ladder Pulls, Pair, BDPR-H1200",
+                "description": "12 inch contemporary design back to back mounted ladder pulls are great for barn doors. They are available in Brushed Nickel, Polished Chrome and Oil Rubbed Bronze finishes. The sharp, clean lines of this pull handle that give it a modern feel. ",
+                "keywords": "SGS-BDPR-H1200-US15, SGS-BDPR-H1200-US26, SGS-BDPR-H1200-US10B, 12 Inch Back to Back Ladder Pulls, barn door handles, barn door pulls, back-to-back pulls, contemporary pulls, door handles,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Modern and Transitional Door Pulls",
+                    "sort": "3"
+                },
+                {
+                    "name": "Structure Glass Solutions Door Pulls",
+                    "sort": "13"
+                },
+                {
+                    "name": "Barn Door Hardware",
+                    "sort": "11"
+                },
+                {
+                    "name": "New Hardware",
+                    "sort": "161"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "861736",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "835140",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "823730",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "217002",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "563431",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "563041",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "486738",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "1089533",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "1123285",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "229137",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US15: Brushed Nickel",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US10B: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 29.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

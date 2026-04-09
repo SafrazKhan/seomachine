@@ -1,0 +1,120 @@
+{
+    "legacy_product_id": "354144",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Pull Plate Trim for Exit Device, PDQ 4-P-02",
+            "vendor": "PDQ",
+            "status": "ACTIVE",
+            "sku": "PDQ-4-P-02",
+            "mpn": "PDQ-4-P-02",
+            "price": "27.75",
+            "compare_at_price": "37.0",
+            "contractor_price": "24.98",
+            "shipping_weight": "1.0",
+            "tags": [
+                "PDQ-429PUN Exit Device Pull Plates",
+                "PDQ-4-P-02 blank pull plate for bore holes",
+                "panic bar accessories",
+                "crash bar accessories",
+                "exit device accessories",
+                "PDQ 4200 series exterior trim",
+                "PDQ 4200 series exterior trim",
+                "Panic Device Non-Locking Door plates",
+                "PDQ 429PUN pull plate trim"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDQ-429PUN_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PDQ-429PUN_525.jpg?v=1716423361"
+        },
+        "text": {
+            "description_html": "<b>Exit Device Pull Plate</b>\r\n<p>\r\nThis pull plate is suitable for all Wide and Medium  Stile Doors \r\n(aluminum framed, hollow metal, or wood).  For use on door's exterior with <a href=\"/collections/panic-devices\"><b>Panic Device Hardware</b></a>.  Covers a standard 2-1/8\" bore hole door prep. Old Item# PDQ-429PUN\r\n</p>\r\n<p>\r\nFor use with PDQ <a href=\"/products/grade-1-commercial-exit-device-for-30-36-inch-door-pdq-4200r\"><b>4200R Rim Exit Device</b></a>, <a href=\"/products/grade-1-commercial-exit-device-for-38-48-inch-door-pdq-4200ra\"><b>4200RA Rim Exit Device</b></a>, <a href=\"/products/grade-1-commercial-vertical-rod-exit-device-for-30-36-inch-door-pdq-4200v\"><b>4200V Vertical Rod Exit Device</b></a> and <a href=\"/products/grade-1-commercial-vertical-rod-exit-device-for-38-48-inch-door-pdq-4200va\"><b>4200VA  Vertical Rod Exit Device</b></a>.\r\n</p>\r\n<p>\r\n<p>\r\nThis pull plate is used when installing a Panic Device on doors with  2-1/8\" pre drilled bore holes.  where an exterior door pull is desired for entry if the panic device is dogged. Can also be used on Non pre drilled doors. \r\n</p>\r\n</p>\r\n<p>\r\nPackaged with mounting hardware.\r\n</p>\r\n<p>\r\n<b>Features</b> for PDQ 4-P-02 Pull Plate\r\n<ul>\r\n<li>Pull Plate Height: 8\"</li>\r\n<li>Pull Plate Width: 3\"</li>\r\n<li>Pull Projection: 1-1/8\"</li>\r\n<li>Includes Sex Bolts</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/429PUN.pdf?v=1704262276\" target=\"new\"><b>PDQ 4-P-02 Installation Template & Instructions (PDF)</b></a></li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Pull Plate Trim for Exit Device, PDQ 4-P-02",
+                "description": "PDQ 4-P-02 Pull plate for Exit Devices. Used to cover a pre drilled bore hole. This pull plate is used when installing a Panic Device on doors with pre drilled bore holes where an exterior door pull is desired for entry if the panic device is dogged.",
+                "keywords": "PDQ-429PUN Exit Device Pull Plates, PDQ-4-P-02 blank pull plate for bore holes, panic bar accessories, crash bar accessories, exit device accessories, PDQ 4200 series exterior trim, PDQ 4200 series exterior trim,  Panic Device Non-Locking Door plates, PDQ 429PUN pull plate trim,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "PDQ Exit Devices",
+                    "sort": "16"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "351908",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "352110",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "352282",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "351730",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "251181",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "239667",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "248644",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "353329",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "248628",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 4-P-02-689: Aluminum",
+                "Select Finish: 4-P-02-695: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "4-P-02-689: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "4-P-02-695: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

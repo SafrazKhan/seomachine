@@ -1,0 +1,114 @@
+{
+    "legacy_product_id": "443955",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Parallel Mount Bracket, Global PAB-4300",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-PAB-4300",
+            "mpn": "GLO-PAB-4300",
+            "price": "7.73",
+            "compare_at_price": "11.04",
+            "contractor_price": "6.96",
+            "shipping_weight": "0.5",
+            "tags": [
+                "GLO-PAB-4300 Parallel Arm Mount Brackets",
+                "Global PAB-4300-AL",
+                "Global PAB-4300-DU",
+                "door closer parallel brackets",
+                "Global Door Controls TC4300",
+                "heavy duty Parallel Arm brackets",
+                "closer Arm Parallel Mount Brackets",
+                "Global PAB-4361",
+                "Global Door Controls TC4361 parallel brackets",
+                "Global PAB-4300-AL",
+                "Global PAB-4300-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-PAB-4300_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-PAB-4300_525.jpg?v=1716424026"
+        },
+        "text": {
+            "description_html": "<b>Global TC4300 Parallel Arm Mount Bracket</b>\r\n\r\n<p>\r\nFor use with <a href=\"/products/lcn-4040-series-replacement-ada-compliant-heavy-duty-door-closer-global-tc4300\"><b>Global Door Controls TC4300</b></a>, <a href=\"/products/ada-compliant-heavy-duty-door-closer-global-tc4361\"><b>Global Door Controls TC4361</b></a> and <a href=\"/products/extra-heavy-duty-door-closer-deltana-dc40\"><b>Deltana DC40</b></a> <a href=\"/products/global-tc4300-door-closer-arm-global-ra-4300\">standard closer arm</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b> for Global PAB-4300 Parallel Arm Mount Bracket\r\n<ul>\r\n<li>Length: 4\"</li>\r\n <li>Width at Header Mount: 4\"</li>\r\n <li>Arm Mount Holes: 1-15/16\" Center to Center</li>\r\n<li>3/16\" Thick Steel</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Parallel Mount Bracket, Global PAB-4300",
+                "description": "Parallel Arm Mount Bracket used with  Global TC4300 and Deltana DC40 door closers,  available in aluminum or dark bronze (duro) finish.",
+                "keywords": "GLO-PAB-4300 Parallel Arm Mount Brackets, Global PAB-4300-AL, Global PAB-4300-DU, door closer parallel brackets, Global Door Controls TC4300,  heavy duty Parallel Arm brackets, closer Arm Parallel Mount Brackets,  Global PAB-4361, Global Door Controls TC4361 parallel brackets, Global PAB-4300-AL, Global PAB-4300-DU,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Global TC4300 Closer Accessories",
+                    "sort": "9"
+                },
+                {
+                    "name": "Door Closer Accessories",
+                    "sort": "20"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "188548",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "443646",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "443653",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "285720",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "15351",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "188632",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: PAB-4300-AL: Aluminum",
+                "Select Finish: PAB-4300-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PAB-4300-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PAB-4300-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

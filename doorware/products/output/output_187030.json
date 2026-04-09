@@ -1,0 +1,174 @@
+{
+    "legacy_product_id": "187030",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Prairie Solid Brass 3-1/2 x 12 Push Plate, Grandeur PSHPRA",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-PSHPRA",
+            "mpn": "GRA-PSHPRA",
+            "price": "86.4",
+            "compare_at_price": "110.0",
+            "contractor_price": "86.4",
+            "shipping_weight": "4.0",
+            "tags": [
+                "GRAND-PSHPRA",
+                "GRA-PSHPRA Grandeur prairie Push Plates",
+                "Grandeur PSHPRA prairie push plates",
+                "king push plates",
+                "grandeur push plates",
+                "butler push plates",
+                "door push plates",
+                "3 1/2 x 12 Solid Brass push plates",
+                "3.5 inches 12 inches",
+                "Grandeur pushplates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-PSHPRA-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-PSHPRA-525.jpg?v=1716421775"
+        },
+        "text": {
+            "description_html": "<b>Grandeur PSHPRA, Prairie Solid Brass 3-1/2\" x 12\" Push Plate</b>\r\n\r\n<p>\r\nMeasuring 12\" high and 3-1/2\" wide, the Prairie Push Plate is cast in high quality brass and offered in your choice of 4 different beautiful finishes. The simple, flowing lines are modeled from designs often found in grassland states. Everything about this pushplate says simplistic beauty--a look, no doubt, that will stay popular for many years to come. This push plate is packaged with matching finish mounting screws for easy installation. \r\n</p>\r\n\r\n<p>\r\nClick here to see the entire <a href=\"/collections/grandeur-decorative\"><b>Grandeur Nostalgic Warehouse Collection</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur Prairie Push Plate:\r\n<ul>\r\n<li>Width: 3-1/2\"</li>\r\n<li>Height: 12\"</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Available Finishes: 5</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose on the outside, it will still be brass material on the inside.\r\n</p>",
+            "seo": {
+                "title": "Prairie Solid Brass 3-1/2 x 12 Push Plate, Grandeur PSHPRA",
+                "description": "Prairie Solid Brass 3-1/2\" x 12\" Push Plate, Grandeur PSHPRA - Measuring 12 inches high and 3-1/2 inches wide, the Prairie Push Plate is cast in high quality brass and offered in your choice of 4 different beautiful finishes. The simple, flowing lines are modeled from designs often found in grassland states. Everything about this pushplate says simplistic beauty--a look, no doubt, that will stay popular for many years to come. This push plate is packaged with matching finish mounting screws for easy installation. ",
+                "keywords": "GRAND-PSHPRA, GRA-PSHPRA Grandeur prairie Push Plates, Grandeur PSHPRA prairie push plates, king push plates, grandeur push plates, butler push plates, door push plates, 3 1/2 x 12 Solid Brass push plates, 3.5 inches 12 inches, Grandeur pushplates,"
+            },
+            "specifications": [
+                {
+                    "key": "Width",
+                    "value": "3-1/2\""
+                },
+                {
+                    "key": "Height",
+                    "value": "12\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Available Finishes",
+                    "value": "5"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Pull & Push Plates",
+                    "sort": "60"
+                },
+                {
+                    "name": "Grandeur Push Plates",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "142057",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "187039",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "187036",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "187033",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "142078",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "6007",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Width: 3-1/2\"",
+                "Height: 12\"",
+                "Material: Solid Brass",
+                "Available Finishes: 5",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: OB: Oil Rubbed Bronze",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: AP: Antique Pewter",
+                "Select Finish: TB: Timeless Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "OB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "legacy_product_id": "692204",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4 x 33 Push Plate, Don-Jo PP4x33",
+            "vendor": "Don-Jo",
+            "status": "ARCHIVED",
+            "sku": "DJO-PP4x33",
+            "mpn": "DJO-PP4x33",
+            "price": "80.0",
+            "compare_at_price": "100.0",
+            "contractor_price": "80.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "4 x 32 Push Plates",
+                "Don-Jo PP4x32",
+                "DJO-PP4x32",
+                "Door Push Plate 4 x 32"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-PP4x32-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-PP4x32-525.jpg?v=1716425299"
+        },
+        "text": {
+            "description_html": "<b>Don-Jo 4 x 33 Push Plate</b>\r\n\r\n<p>\r\nThe 4 x 33 Push Plate is made my Don-Jo in the USA. It is made out of solid brass .050 thick for long-lasting durability. It comes packaged with mounting hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Don-Jo Door Push Plate 4\" x 33\":\r\n<ul>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/kaba-simplex-902-size.gif?v=1704354717\" width=\"100\" height=\"72\" border=\"0\" align=\"right\" alt=\"Made in the USA\">\r\n<li>Plate Width: 4\"</li>\r\n<li>Plate Height: 33\"</li>\r\n<li>Plate Thickness: .050\" (1.2 mm)</li>\r\n<li>Material: Solid Brass </li>\r\n<li>Packaged with Mounting Screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "4 x 33 Push Plate, Don-Jo PP4x33",
+                "description": "Don-Jo PP4x32, 4 x 32 Push Plates - The 4 x 32 Push Plate is made my Don-Jo in the USA. It is made out of solid brass .050 thick for long-lasting durability. It comes packaged with mounting hardware.",
+                "keywords": "4 x 32 Push Plates, Don-Jo PP4x32, DJO-PP4x32, Door Push Plate 4 x 32,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Width",
+                    "value": "4\""
+                },
+                {
+                    "key": "Plate Height",
+                    "value": "33\""
+                },
+                {
+                    "key": "Plate Thickness",
+                    "value": ".050\" (1.2 mm)"
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Don-Jo Custom Items",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "334417",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "334428",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "306533",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Plate Width: 4\"",
+                "Plate Height: 33\"",
+                "Plate Thickness: .050\" (1.2 mm)",
+                "Material: Solid Brass",
+                "Select Finish: 619 - Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "619 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

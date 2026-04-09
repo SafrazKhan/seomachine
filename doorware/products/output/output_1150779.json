@@ -1,0 +1,187 @@
+{
+    "legacy_product_id": "1150779",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Entry Function Mortise Set with SIG110 Lever and 203 Square Trim, AHI AA48-110-203-203CC-C1250-255",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-AA48-110-203-203CC-C1250-255",
+            "mpn": "AHI-AA48-110-203-203CC-C1250-255",
+            "price": "640.0",
+            "compare_at_price": "855.0",
+            "contractor_price": "640.0",
+            "shipping_weight": "7.0",
+            "tags": [
+                "American Mortise Lock Sapporo Lever Sets",
+                "Stainless Steel Sapporo Leverset with 2-7/16 Inch Round Roses",
+                "AHI-SIG104/201-AA1756",
+                "AHI SIG104/201-AA1756",
+                "AHI SIG104/201-AA1724",
+                "AHI Mortise Set with 104 Lever ad 201 Round Rosettes"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AHI-AA48-110-203-203CC-C1250-255-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-AA48-110-203-203CC-C1250-255-525.jpg?v=1716428466"
+        },
+        "text": {
+            "description_html": "<b>Entry Function Mortise Set with SIG110 Lever and 203 Square Trim</b>\r\n\r\n<p>\r\nThis is an Entry Function Mortise Set with SIG110 Lever and 203 Square Trim.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the AHI Mortise Set with 110 Lever ad 203 Square Rosette:\r\n<ul>\r\n<li>Function: Entry</li>\r\n<li>Grade: ANSI Grade 3</li>\r\n<li>Lever Length: 4-15/16\" (126 mm)</li>\r\n<li>Lever Projection: 2-1/4\" (57 mm)</li>\r\n<li>Rose for Lever Length: 2-1/2\" (64 mm) squared</li>\r\n<li>Rose for Lever Thickness: 3/8\" (10 mm)</li>\r\n<li>Deadbolt Length: 2-1/2\" square</li>\r\n<li>Deadbolt Projection: 1/2\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "Entry Function Mortise Set with SIG110 Lever and 203 Square Trim",
+                "description": "This is an Entry Function Mortise Set with SIG110 Lever and 203 Square Trim.",
+                "keywords": "American Mortise Lock Sapporo Lever Sets, Stainless Steel Sapporo Leverset with 2-7/16 Inch Round Roses, AHI-SIG104/201-AA1756, AHI SIG104/201-AA1756, AHI SIG104/201-AA1724, AHI Mortise Set with 104 Lever ad 201 Round Rosettes,"
+            },
+            "specifications": [
+                {
+                    "key": "Function",
+                    "value": "Entry"
+                },
+                {
+                    "key": "Grade",
+                    "value": "ANSI Grade 3"
+                },
+                {
+                    "key": "Lever Length",
+                    "value": "4-15/16\" (126 mm)"
+                },
+                {
+                    "key": "Lever Projection",
+                    "value": "2-1/4\" (57 mm)"
+                },
+                {
+                    "key": "Rose for Lever Length",
+                    "value": "2-1/2\" (64 mm) squared"
+                },
+                {
+                    "key": "Rose for Lever Thickness",
+                    "value": "3/8\" (10 mm)"
+                },
+                {
+                    "key": "Deadbolt Length",
+                    "value": "2-1/2\" square"
+                },
+                {
+                    "key": "Deadbolt Projection",
+                    "value": "1/2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "AHI-Discontinued-and-Custom",
+                    "sort": "90"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "463658",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1144675",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "892340",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Function: Entry",
+                "Grade: ANSI Grade 3",
+                "Lever Length: 4-15/16\" (126 mm)",
+                "Lever Projection: 2-1/4\" (57 mm)",
+                "Rose for Lever Length: 2-1/2\" (64 mm) squared",
+                "Rose for Lever Thickness: 3/8\" (10 mm)",
+                "Deadbolt Length: 2-1/2\" square",
+                "Deadbolt Projection: 1/2\"",
+                "Select Finish: 629: Polished Stainless Steel",
+                "Select Door Thickness: 1-3/4in. Thick Door",
+                "Select Handing: Right Hand Door, Out-Swing",
+                "Keying (Select Keyed Different or Keyed Alike): I only ordered one",
+                "Keying (Select Keyed Different or Keyed Alike): Keyed Different",
+                "Keying (Select Keyed Different or Keyed Alike): Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "629: Polished Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1-3/4in. Thick Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Right Hand Door, Out-Swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying (Select Keyed Different or Keyed Alike)",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I only ordered one",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 8.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

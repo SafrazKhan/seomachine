@@ -1,0 +1,96 @@
+{
+    "legacy_product_id": "1048388",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin Latch for Reserve Handleset, Baldwin 8BR0305",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-8BR0305",
+            "mpn": "BAL-8BR0305",
+            "price": "26.0",
+            "compare_at_price": "26.0",
+            "contractor_price": "26.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Baldwin Latch for Reserve Handlesets",
+                "Baldwin 8BR0305",
+                "BAL-8BR0305",
+                "Baldwin 8BR0305 Reserve Replacement Handleset Latches",
+                "Baldwin Plain Latch for Reserve Handlesets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-8BR0305-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-8BR0305-525.jpg?v=1716427899"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 8BR0305 Reserve Replacement Handleset Latch</b>\r\n\r\n<p>\r\n6 way adjustable plain latch for use with <a href=\"/collections/baldwin-reserve-handlesets\"><b>Baldwin Reserve Handlesets</b></a>.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Baldwin Latch for Reserve Handleset",
+                "description": "6 way adjustable plain latch for use with Baldwin Reserve Handlesets.",
+                "keywords": "Baldwin Latch for Reserve Handlesets, Baldwin 8BR0305, BAL-8BR0305, Baldwin 8BR0305 Reserve Replacement Handleset Latches, Baldwin Plain Latch for Reserve Handlesets"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "43"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "650357",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "294714",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "650254",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "435615",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "283615",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "649911",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 007: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "007: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

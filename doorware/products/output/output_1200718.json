@@ -1,0 +1,134 @@
+{
+    "legacy_product_id": "1200718",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Back-to-Back 36 Inch Modern Offset Pulls, Pair, Deltana SSPOBB36",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-SSPOBB36",
+            "mpn": "DEL-SSPOBB36",
+            "price": "267.38",
+            "compare_at_price": "356.5",
+            "contractor_price": "254.01",
+            "shipping_weight": "12.0",
+            "tags": [
+                "Back-to-Back 36 Inch Modern Offset Pulls",
+                "Pair",
+                "Deltana SSPOBB36"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-SSPOBB36-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SSPOBB36-525.jpg?v=1711366747"
+        },
+        "text": {
+            "description_html": "<b>Deltana SSPOBB36, 36 Inch Modern Offset <a>Stainless Steel Back-to-Back Door Pull Set</b>\r\n\r\n<p>\r\nThe Back-to-Back 36\" Modern Offset Pulls have an overall length of 36 inches and a 1.5 inch grip. This pair of stainless steel handles comes packaged as a complete set, including 2 pulls and the mounting hardware to install them on wood, fiberglass, metal, or glass doors. The Modern Offset Stainless Steel Back-to-Back Door Pull Set is available in 2 finishes: brushed stainless steel, or matte black. No matter which finish you choose, the base will be constructed of high-quality stainless for a lasting and modern look.\r\n</p> \r\n\r\n<p>\r\nPackaged with Back to Back mounting (2 door pulls bolted to each other - 1 door pull for each side of a door). Includes rosettes to securely tighten the door pulls to the door. \r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SPOBB36-specifications.gif?v=1704354515\" width=\"600\" height=\"175\" border=\"0\" align=\"center\" atl=\"Deltana SSPOBB36 Specifications\">\r\n</p>\r\n\r\n\r\n\r\n<p>\r\n<b>Specifications</b> of the Deltana Square Stainless Steel Handle Back to Back Pair:\r\n<ul>\r\n<li>Material: Stainless Steel</li>\r\n<li>Total Length: 36\"</li>\r\n<li>Center to Center: 34.5\"</li>\r\n<li>Pull Handle Face: 1.5\" </li>\r\n<li>Pull Handle Thickness: 1\" </li>\r\n<li>Offset: 4\"</li>\r\n<li>Door Thickness: for doors up to 3\" thick</li>\r\n<li>Includes installation hardware required for glass, fiberglass, wood, and metal doors.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SSPOBB36-specifications.pdf?v=1718159600\"><b>Deltana SSPOBB36 Dimensions Diagram (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold as a Pair (2 Door Pulls) with Back to Back mounting</b>.\r\n</p>",
+            "seo": {
+                "title": "Back-to-Back 36 Inch Contemporary Pulls",
+                "description": "The Back-to-Back 36 Inch Modern Offset Pulls have an overall length of 36 inches and a 1.5 inch grip. This pair of stainless steel handles comes packaged as a complete set, including 2 pulls and the mounting hardware to install them on wood, metal, or glass doors.  The Modern Offset Stainless Steel Back-to-Back Door Pull Set is available in 2 finishes: brushed stainless steel, or matte black. No matter which finish you choose, the base will be constructed of high-quality stainless for a lasting and modern look.",
+                "keywords": "Back-to-Back 36 Inch Modern Offset Pulls, Pair, Deltana SSPOBB36"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Stainless Steel"
+                },
+                {
+                    "key": "Total Length",
+                    "value": "36\""
+                },
+                {
+                    "key": "Center to Center",
+                    "value": "34.5\""
+                },
+                {
+                    "key": "Pull Handle Face",
+                    "value": "1.5\""
+                },
+                {
+                    "key": "Pull Handle Thickness",
+                    "value": "1\""
+                },
+                {
+                    "key": "Offset",
+                    "value": "4\""
+                },
+                {
+                    "key": "Door Thickness",
+                    "value": "for doors up to 3\" thick"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Deltana Push Plates And Door Pulls",
+                    "sort": "28"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "861523",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "861552",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1052828",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1055315",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1056025",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Stainless Steel",
+                "Total Length: 36\"",
+                "Center to Center: 34.5\"",
+                "Pull Handle Face: 1.5\"",
+                "Pull Handle Thickness: 1\"",
+                "Offset: 4\"",
+                "Door Thickness: for doors up to 3\" thick",
+                "Select Finish: US32D: Brushed Stainless",
+                "Select Finish: US19: Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US32D: Brushed Stainless",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

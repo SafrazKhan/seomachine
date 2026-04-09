@@ -1,0 +1,92 @@
+{
+    "legacy_product_id": "1179602",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Coat and Hat Hook, Baldwin 0782",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-0782",
+            "mpn": "BAL-0782",
+            "price": "29.6",
+            "compare_at_price": "37.0",
+            "contractor_price": "29.6",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Coat and Hat Hooks",
+                "Baldwin 0782 Costume Hooks",
+                "Baldwin 0782",
+                "Baldwin 0782 Estate Coat & Hat Hooks",
+                "ESTATE PORTFOLIO\r\n0782 COAT & HAT HOOKs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-0782-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-0782-525.jpg?v=1716428799"
+        },
+        "text": {
+            "description_html": "<p>Baldwin 0782 Estate Coat & Hat Hook</b>\r\n\r\n<p>\r\nThe Coat and Hat Hook can be used anywhere where the organization that a hook can provide is desired. A stunning finish over sanded brass brings a sense of history to country looks and a sense of drama to more contemporary designs. The Custom Hook is perfect behind any door or in any room in the home.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Estate Collection Bathroom Hook:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Dimensions: 2.188\" x 2.5\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n\r\n<p>\r\n<b>Sold Individually.</b> Package includes: 1 hook and all necessary mounting screws.\r\n</p>",
+            "seo": {
+                "title": "Coat and Hat Hook",
+                "description": "The Coat and Hat Hook can be used anywhere where the organization that a hook can provide is desired. A stunning finish over sanded brass brings a sense of history to country looks and a sense of drama to more contemporary designs. The Custom Hook is perfect behind any door or in any room in the home.",
+                "keywords": "Coat and Hat Hooks, Baldwin 0782 Costume Hooks, Baldwin 0782, Baldwin 0782 Estate Coat & Hat Hooks, ESTATE PORTFOLIO\r\n0782 COAT & HAT HOOKs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Home Decor",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "281717",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "447163",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "978542",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "7813",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "187070",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 190: Satin Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "190: Satin Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

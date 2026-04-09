@@ -1,0 +1,129 @@
+{
+    "legacy_product_id": "647785",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Angle Guard Plate, Don-Jo AP-34",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "DJO-AP-34",
+            "mpn": "DJO-AP-34",
+            "price": "3.7",
+            "compare_at_price": "4.62",
+            "contractor_price": "3.33",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Don-Jo AP-34",
+                "Angle Guard Plates",
+                "Door Flip Guard Plates",
+                "Door Flip Guard Angle Plates",
+                "DJO-AP-34",
+                "Angle Guard Plate for Flip Locks",
+                "Angle Guard Plate for Flip Locks",
+                "angel Guard Plate for Flip Locks",
+                "Door Flip Guard angle Plates",
+                "angle Guard Plates",
+                "Don-Jo AP-34-605",
+                "Don-Jo AP-34-626",
+                "Don-Jo AP-34-625",
+                "Door Flip Guard Protection Plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-AP-34-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-AP-34-525.jpg?v=1716425103"
+        },
+        "text": {
+            "description_html": "<b>Don-Jo AP-34, Door Flip Guard Angle Plate</b>\r\n\r\n<p>\r\nThe Angle Guard Plate is used to protect the corner of the door for when a <a href=\"/products/6-15-security-flip-guard-don-jo-1603\">door flip guard arm</a> is left in the open position. Choose from polished brass, polished chrome, or satin chrome finishes.\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-AP-34-specifications.gif?v=1704354577\" width=\"593\" height=\"181\" border=\"0\" alt=\"Don-Jo AP-34 specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Angle Guard Plate for Flip Locks:\r\n<ul>\r\n<li>Length: 1.25\"</li>\r\n<li>Width: .500\"</li>\r\n<li>Thickness: .040\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Angle Guard Plate, Don-Jo AP-34",
+                "description": "Don-Jo AP-34 Angle Guard Plate - The Angle Guard Plate is used to protect the corner of a door for when a door flip guard arm is left in the open position. Choose from polished brass, polished chrome, or satin chrome finishes.",
+                "keywords": "Don-Jo AP-34, Angle Guard Plates, Door Flip Guard Plates, Door Flip Guard Angle Plates, DJO-AP-34, Angle Guard Plate for Flip Locks, Angle Guard Plate for Flip Locks, angel Guard Plate for Flip Locks, Door Flip Guard angle Plates, angle Guard Plates, Don-Jo AP-34-605, Don-Jo AP-34-626, Don-Jo AP-34-625, Door Flip Guard Protection Plates,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Door Bolts",
+                    "sort": "13"
+                },
+                {
+                    "name": "Door Bolts",
+                    "sort": "66"
+                },
+                {
+                    "name": "Hospitality Hardware",
+                    "sort": "6"
+                },
+                {
+                    "name": "Don-Jo Hospitality Hardware",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "7684",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "376654",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "647774",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "378981",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "23261",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: AP-34-626: Satin Chrome",
+                "Select Finish: AP-34-625: Polished Chrome",
+                "Select Finish: AP-34-605: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AP-34-626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP-34-625: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP-34-605: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

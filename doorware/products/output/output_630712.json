@@ -1,0 +1,156 @@
+{
+    "legacy_product_id": "630712",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Southern Manor Towel Bar, Fusion TB-T9",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-TB-T9",
+            "mpn": "FUS-TB-T9",
+            "price": "149.0",
+            "compare_at_price": "149.0",
+            "contractor_price": "104.3",
+            "shipping_weight": "7.0",
+            "tags": [
+                "American Relic Series Southern Manor Towel Bars",
+                "Fusion TB-T9",
+                "TB-1-T9 18 inch towel bar",
+                "TB-2-T9 24 inch towel bar",
+                "TB-3-T9 30 inch towel bar",
+                "Ahwahnee Towel Bars",
+                "Southern Manor Towel Bars",
+                "Fusion bathroom accessories",
+                "Fusion American Relic Series",
+                "Traditional bathroom hardware",
+                "Traditional bathroom towel bars",
+                "hand towel bars",
+                "bathroom towel hooks",
+                "bath towel bars"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-TB-T9-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-TB-T9-525.jpg?v=1711365516"
+        },
+        "text": {
+            "description_html": "<b>Fusion TB-T9, American Relic Series Southern Manor Towel Bar</b>\r\n\r\n<p>\r\nWith true southern style, this towel bar brings a touch of the country life to your bathroom with a quiet elegance. The Southern Manor Towel Bar is available in 3 sizes: 18 inch, 24 inch, and 30 inch. Choose from antique relic pewter, medium relic bronze, or dark rustic bronze finishes.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/southern-manor-towel-ring-fusion-tr-t9\"><b>Southern Manor Towel Ring</b></a>, <a href=\"/products/southern-manor-toilet-paper-holder-fusion-ph-t9\"><b>Southern Manor Toilet Tissue Holder</b></a>, and <a href=\"/products/southern-manor-robe-hook-fusion-rh-t9\"><b>Souther Manor Robe Hook</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 sizes:</b>\r\n<ul>\r\n<b>TB-1-T9</b>\r\n<ul>\r\n<li>Length: 18\"</li>\r\n<li>Mount Width: 2-3/4\"</li>\r\n<li>Mount Length: 3-1/2\"</li>\r\n<li>Mount Projection: 1/2\"</li>\r\n</ul>\r\n\r\n<br>\r\n\r\n<b>TB-2-T9</b>\r\n<ul>\r\n<li>Length: 24\"</li>\r\n<li>Mount Width: 2-3/4\"</li>\r\n<li>Mount Length: 3-1/2\"</li>\r\n<li>Mount Projection: 1/2\"</li>\r\n</ul>\r\n\r\n<br>\r\n\r\n<b>TB-3-T9</b>\r\n<ul>\r\n<li>Length: 30\"</li>\r\n<li>Mount Width: 2-3/4\"</li>\r\n<li>Mount Length: 3-1/2\"</li>\r\n<li>Mount Projection: 1/2\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Southern Manor Towel Bar, Fusion TB-T9",
+                "description": "Fusion TB-T9 Southern Manor Towel Bar - With true southern style, this towel bar brings a touch of the country life to your bathroom with a quiet elegance. The Southern Manor Towel Bar is available in 3 sizes: 18 inch, 24 inch, and 30 inch. Choose from antique relic pewter, medium relic bronze, or dark rustic bronze finishes.",
+                "keywords": "American Relic Series Southern Manor Towel Bars, Fusion TB-T9, TB-1-T9 18 inch towel bar, TB-2-T9 24 inch towel bar, TB-3-T9 30 inch towel bar, Ahwahnee Towel Bars, Southern Manor Towel Bars, Fusion bathroom accessories, Fusion American Relic Series, Traditional bathroom hardware, Traditional bathroom towel bars, hand towel bars, bathroom towel hooks, bath towel bars,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "384850",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "383169",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "384084",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "239669",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "600206",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "379158",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "378508",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DRB - Dark Relic Bronze",
+                "Select Finish: MRB - Medium Relic Bronze",
+                "Select Finish: ARP - Antique Relic Pewter",
+                "Select Size: TB-1-T9 - 18in. Towel Bar",
+                "Select Size: TB-2-T9 - 24in. Towel Bar",
+                "Select Size: TB-3-T9 - 30in. Towel Bar"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DRB - Dark Relic Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MRB - Medium Relic Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ARP - Antique Relic Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TB-1-T9 - 18in. Towel Bar",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB-2-T9 - 24in. Towel Bar",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB-3-T9 - 30in. Towel Bar",
+                    "price_impact": 10.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

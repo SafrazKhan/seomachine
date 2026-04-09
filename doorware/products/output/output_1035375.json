@@ -1,0 +1,142 @@
+{
+    "legacy_product_id": "1035375",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Silver Carbon Fiber Bin Pull, Emtek 86374",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-86374",
+            "mpn": "EMT-86374",
+            "price": "28.8",
+            "compare_at_price": "36.0",
+            "contractor_price": "27.36",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Silver Carbon Fiber Bin Pulls",
+                "Emtek 86374",
+                "Carbon Fiber Silver Bin Pulls",
+                "Emtek 863745",
+                "Silver Carbon Fiber Cabinet Bin Pulls",
+                "Emtek Carbon Fiber Bin Pull in Silvers",
+                "EMT-86374",
+                "EMT-86375"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86374-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86374-525.jpg?v=1716427795"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86374, Silver Carbon Fiber Cabinet Bin Pull</b>\r\n\r\n<p>\r\nEmtek's Carbon Fiber Silver Bin Pull is a modern addition to any kitchen remodel. It is available in satin nickel or polished chrome with a silver carbon fiber insert. This Silver Carbon Fiber Bin Pull is available in 2 sizes: 3 inches and 4 inches. It comes packaged with the mounting hardware. \r\n</p>\r\n\r\n<p>\r\nAlso Available Matching <a href=\"/products/silver-carbon-fiber-cabinet-knob-emtek-86370\"> <b>Silver Carbon Fiber Cabinet Knob</b></a> and <a href=\"/products/carbon-fiber-silver-bar-cabinet-pull-emtek-86385\"><b>Silver Carbon Fiber Cabinet Pull</b></a> \r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Emtek Carbon Fiber Bin Pull in Silver:\r\n<ul>\r\n<li>Material: Carbon Fiber and Brass</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86374-specifications.pdf?v=1704262411\" target=\"new\"><b>Emtek Carbon Fiber Silver Bin Pull Specifications (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>EMT-86374:</b>\r\n<ul>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 3-3/8\"</li>\r\n<li>Projection: 1\"</li>\r\n</ul>\r\n<br>\r\n<b>EMT-86375:</b>\r\n<ul>\r\n<li>Length c.c. (center to center): 4\"</li>\r\n<li>Overall Length: 4-3/8\"</li>\r\n<li>Projection: 1\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Silver Carbon Fiber Bin Pull",
+                "description": "Emtek's Carbon Fiber Silver Bin Pull is a modern addition to any kitchen remodel. It is available in satin nickel or polished chrome with a silver carbon fiber insert. This Silver Carbon Fiber Bin Pull is available in 2 sizes: 3 inches and 4 inches. It comes packaged with the mounting hardware.",
+                "keywords": "Silver Carbon Fiber Bin Pulls, Emtek 86374, Carbon Fiber Silver Bin Pulls, Emtek 863745, Silver Carbon Fiber Cabinet Bin Pulls, Emtek Carbon Fiber Bin Pull in Silvers, EMT-86374, EMT-86375,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Cabinet Hardware",
+                    "sort": "300"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1035280",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "889819",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "121036",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "196241",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "652496",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "70740",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "352535",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "890294",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "592419",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Size: 86374: 3in. c.c.",
+                "Select Size: 86375: 4in. c.c.",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US26: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "86374: 3in. c.c.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "86375: 4in. c.c.",
+                    "price_impact": 8.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

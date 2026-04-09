@@ -1,0 +1,234 @@
+{
+    "legacy_product_id": "540269",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin Estates Mortise Privacy Bolt, BAL-041xLTP",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-041xLTP",
+            "mpn": "BAL-041xLTP",
+            "price": "84.0",
+            "compare_at_price": "105.0",
+            "contractor_price": "84.0",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Baldwin Estates Mortise Privacy Bolt",
+                "BAL-041xLTP"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0418-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/0418-525.jpg?v=1716424301"
+        },
+        "text": {
+            "description_html": "<b>Baldwin Estates Mortise Privacy Bolt, BAL-041xLTP</b>\r\n<p>Baldwin Estates mortise privacy bolt for use with optional turnpiece.  Available in 14 finishes with 2-3/8\" or 2-3/4\" backsets.</p>\r\n<p><b>Specifications</b> of Baldwin Mortise Privacy Bolt:\r\n<ul><li>Material:  Solid Brass with steel housing</li>\r\n<li>Throw:  .593\"</li>\r\n<li>Faceplate:  1\" wide x 2.25\" high</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Baldwin Estates Mortise Privacy Bolt, BAL-041xLTP",
+                "description": "Baldwin Estates Mortise Privacy Bolt, BAL-041xLTP",
+                "keywords": "Baldwin Estates Mortise Privacy Bolt, BAL-041xLTP"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass with steel housing"
+                },
+                {
+                    "key": "Throw",
+                    "value": ".593\""
+                },
+                {
+                    "key": "Faceplate",
+                    "value": "1\" wide x 2.25\" high"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "21"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Material: Solid Brass with steel housing",
+                "Throw: .593\"",
+                "Faceplate: 1\" wide x 2.25\" high",
+                "Select Backset: 0418LTP: 2-3/8in. Backset",
+                "Select Backset: 0413LTP: 2-3/4in. Backset",
+                "Select Finish: 003 – PVD Polished Brass",
+                "Select Finish: 031 – Non-Lacquered Brass",
+                "Select Finish: 033 – Vintage Brass",
+                "Select Finish: 040 – Satin Brass",
+                "Select Finish: 050 – Satin Brass & Black",
+                "Select Finish: 060 – Satin Brass & Brown",
+                "Select Finish: 102 – Oil Rubbed Bronze",
+                "Select Finish: 112 – Venetian Bronze",
+                "Select Finish: 150 – Satin Nickel",
+                "Select Finish: 151 – Antique Nickel",
+                "Select Finish: 190 – Satin Black",
+                "Select Finish: 260 – Polished Chrome",
+                "Select Finish: 264 – Satin Chrome",
+                "Select Turnpiece: 6732",
+                "Select Turnpiece: 6734",
+                "Select Turnpiece: 6756"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "0418LTP: 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "0413LTP: 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "003 – PVD Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "031 – Non-Lacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "033 – Vintage Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "040 – Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "050 – Satin Brass & Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "060 – Satin Brass & Brown",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "102 – Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "112 – Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "150 – Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "151 – Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "190 – Satin Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "260 – Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "264 – Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Turnpiece",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "6732",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/6756.jpg?v=1774584073",
+                    "image_lg": null
+                },
+                {
+                    "value": "6734",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/6734.jpg?v=1774584068",
+                    "image_lg": null
+                },
+                {
+                    "value": "6756",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/6756-1.jpg?v=1774584071",
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

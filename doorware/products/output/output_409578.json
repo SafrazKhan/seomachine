@@ -1,0 +1,163 @@
+{
+    "legacy_product_id": "409578",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Grande Victorian with Bellagio Lever Handleset, Interior Half, GRA-GVCBEL",
+            "vendor": "Grandeur",
+            "status": "ARCHIVED",
+            "sku": "GVCBEL",
+            "mpn": "GVCBEL",
+            "price": "127.5",
+            "compare_at_price": "170.0",
+            "contractor_price": "127.5",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Grande Victorian with Bellagio Lever Handleset Interior Half",
+                "GRA-GVCBEL"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Grande Victorian with Bellagio Lever Handleset, Interior Half, Grandeur GVCBEL</b>\r\n<p>Bellagio lever interior trim package for Grande Victorian Handleset.</p>",
+            "seo": {
+                "title": "Grande Victorian with Bellagio Lever Handleset, Interior Half, GRA-GVCBEL",
+                "description": "Grande Victorian with Bellagio Lever Handleset Interior Half, GRA-GVCBEL",
+                "keywords": "Grande Victorian with Bellagio Lever Handleset Interior Half, GRA-GVCBEL"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Grandeur Parts",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Function: Single Cylinder Handleset",
+                "Select Function: Dummy Handleset",
+                "Select Handing: GRA-GVCBEL-LH - Left hand",
+                "Select Handing: GRA-GVCBEL-RH - Right Hand",
+                "Select Finish: VB: Vintage Brass",
+                "Select Finish: AP: Antique Pewter",
+                "Select Finish: LB: Lifetime Polished Brass",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: TB: Timeless Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Single Cylinder Handleset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Single"
+                },
+                {
+                    "value": "Dummy Handleset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GRA-GVCBEL-LH - Left hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-GVCBEL-RH - Right Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "VB: Vintage Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LB: Lifetime Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

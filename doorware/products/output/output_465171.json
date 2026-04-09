@@ -1,0 +1,96 @@
+{
+    "legacy_product_id": "465171",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin Pre-Drilled Door Adaptor, BAL-6504.009",
+            "vendor": "Baldwin",
+            "status": "ACTIVE",
+            "sku": "BAL-6504.009",
+            "mpn": "BAL-6504.009",
+            "price": "24.0",
+            "compare_at_price": "24.0",
+            "contractor_price": "24.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Baldwin Pre-Drilled Door Adaptor",
+                "BAL-6504.009 sub-rose",
+                "Baldwin parts",
+                "Baldwin 6502009 adaptor",
+                "BAL 6504.009"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/6502-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/6502-525.jpg?v=1717106097"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 6504.009 2-1/8\" Pre-Drilled Door Adaptor</b>\r\n\r\n<p>\r\nThe Baldwin Pre-Drilled Door Adaptor is for used on 2-1/8\" pre-bored doors. Works with full dummy, passage and privacy functions. Must use 2-5/8\" diameter or larger rosette or escutcheon to cover this Baldwin Pre Drilled Door Adaptor. Not for use with keyed entry knobs or keyed entry levers.\r\n</p>\r\n\r\n<p>\r\n<b>Choose Adaptor Type</b> \r\n<ul>\r\n<li><b>6504.009 Spring Assisted Adaptor for Levers:</b> for use with  <a href=\"/collections/baldwin-estates-door-lever-sets\"><b>Baldwin Estates Levers</b></a>. We recommend you use the 6504.009 adaptor on heavier levers when using a lever strength latch.</li>\r\n\r\n<li><b>6503.009 Standard Adaptor:</b> for use with <a href=\"/collections/baldwin-estates-door-knob-sets\"><b>Baldwin Estates Knobs</b></a> and lighter Estates levers. Works with both knob & lever strength latches.</li>\r\n</ul>\r\n<p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Baldwin Pre-Drilled Door Adaptor, BAL-6504.009",
+                "description": "Baldwin 6504.009 - Retrofits adaptor for 2-1/8 inch pre-bored doors. For use with Baldwin Estates Knobs or Baldwin Estates Levers installation. Works with full dummy, passage and privacy functions. ",
+                "keywords": "Baldwin Pre-Drilled Door Adaptor, BAL-6504.009 sub-rose, Baldwin parts, Baldwin 6502009 adaptor, BAL 6504.009"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "368922",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "368924",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "984380",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "297905",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Choose Adaptor Type: 6504.009 Spring Assisted Adaptor",
+                "Choose Adaptor Type: 6503.009 Standard Adaptor"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Choose Adaptor Type",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "6504.009 Spring Assisted Adaptor",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "6503.009 Standard Adaptor",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

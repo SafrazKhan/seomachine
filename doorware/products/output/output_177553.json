@@ -1,0 +1,238 @@
+{
+    "legacy_product_id": "177553",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:08:58.145751"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Contemporary  Rope Door Pull, FII-2002P",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-2002P",
+            "mpn": "FII-2002P",
+            "price": "298.0",
+            "compare_at_price": "375.0",
+            "contractor_price": "285.0",
+            "shipping_weight": "6.0",
+            "tags": [
+                "first impressions 2002P door pulls",
+                "glass shower door pulls",
+                "modern style  rope pulls",
+                "Contemporary  Rope Door Pulls",
+                "FII-2002P12",
+                "FII-2002P18",
+                "FII-2002P24"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/50050.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/50050.jpg?v=1716421684"
+        },
+        "text": {
+            "description_html": "<b>FII-2002P First Impressions Contemporary Rope Style Door Pull.</b>\r\n<p>\r\nThis door pull can be used in many applications, and is designed to bring a level of bold style to glass shower door or entry door. \r\n</p>\r\n<p>\r\nOther uses would be an entry door pull or for large Kitchen cabinets. It is very high quality, and very versatile. \r\n</p>\r\n<p>Also available: <a href=\"/products/contemporary-rope-appliance-pull-fii-cf2002p\"><b>Contemporary Rope Refrigerator Door Pull</b></a>\r\n</p>\r\n<p>\r\nThis door pull is available in 3 different standard lengths.<br>\r\n<b>\r\nFII-2002P12: Total Length 12\", Center to Center Mount - 11-1/16\"<br>\r\nFII-2002P18: Total Length 18\" , Center to Center Mount - 17\"<br>\r\nFII-2002P24: Total Length 24\" , Center to Center Mount - 23\"<br>\r\n</b>\r\n</p>\r\n<p>\r\nIt has a 1\" diameter thickness.\r\n<br>\r\nSold individually.\r\n</p>",
+            "seo": {
+                "title": "Contemporary  Rope Door Pull, FII-2002P",
+                "description": "First Impressions 2002P Contemporary  Rope Door Pulls. Updated twist on a Rope Style door pull. These new contemporary pulls are available in 3 different lengths of 12 inches, 18 inches and 24 inches in you choice of 10 finish colors.",
+                "keywords": "first impressions 2002P door pulls, glass shower door pulls,  modern style  rope pulls, Contemporary  Rope Door Pulls, FII-2002P12, FII-2002P18, FII-2002P24,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "37"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "184240",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "43313",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "177047",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "248095",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "212269",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "178546",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "188488",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "234394",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Length: FII-2002P12: Total Length 12in.",
+                "Select Length: FII-2002P18: Total Length 18in.",
+                "Select Length: FII-2002P24: Total Length 24in.",
+                "Select Finish: US10B - Oil Rubbed Bronze",
+                "Select Finish: US3 - Polished Brass",
+                "Select Finish: US5 - Antique Brass",
+                "Select Finish: DB - Duro Bronze",
+                "Select Finish: US15- Satin Nickel",
+                "Select Finish: US26 - Polished Chrome",
+                "Select Finish: US19 - Gloss Black",
+                "Select Finish: US1B - Satin Black",
+                "Select Mounting Choice: Thrubolt Mounted",
+                "Select Mounting Choice: Surface Mounted",
+                "Select Mounting Choice: Back to Back Mounted (Requires 2 Pulls)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-2002P12: Total Length 12in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "FII-2002P12:"
+                },
+                {
+                    "value": "FII-2002P18: Total Length 18in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "FII-2002P18:"
+                },
+                {
+                    "value": "FII-2002P24: Total Length 24in. ",
+                    "price_impact": 25.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "FII-2002P24:"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US10B"
+                },
+                {
+                    "value": "US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US3"
+                },
+                {
+                    "value": "US5 - Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US5"
+                },
+                {
+                    "value": "DB - Duro Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DB"
+                },
+                {
+                    "value": "US15- Satin Nickel",
+                    "price_impact": 25.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US15-"
+                },
+                {
+                    "value": "US26 - Polished Chrome",
+                    "price_impact": 25.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26"
+                },
+                {
+                    "value": "US19 - Gloss Black",
+                    "price_impact": 25.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US19"
+                },
+                {
+                    "value": "US1B - Satin Black",
+                    "price_impact": 25.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US1B"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Mounting Choice",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Thrubolt Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Thrubolt"
+                },
+                {
+                    "value": "Surface Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Surface"
+                },
+                {
+                    "value": "Back to Back Mounted (Requires 2 Pulls)",
+                    "price_impact": 32.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Back"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "legacy_product_id": "1228532",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Nashville Knobset, Baldwin 5068/5010",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-5068/5010",
+            "mpn": "BAL-5068/5010",
+            "price": "356.0",
+            "compare_at_price": "445.0",
+            "contractor_price": "338.2",
+            "shipping_weight": "7.0",
+            "tags": [
+                "Nashville Knobset",
+                "Baldwin 5068/5010"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525297.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525297.gif?v=1769502099"
+        },
+        "text": {
+            "description_html": "<b>Baldwin Estates Collection Nashville Knobset with 5010 Rosette, Baldwin 5068/50105002</b>\r\n\r\n<p>The classic design of this 2-3/8 inch diameter knob allows it to look beautiful in almost any setting. Concealed mounting means that the sleek look is not interrupted by unsightly screws; and because it is made by Baldwin out of solid brass, you know that it is made with attention to both style and quality. This knobset will fit 1-3/8 inch and 1-3/4 inch door thicknesses with an optional backset for 2-3/8 inches or 2-3/4 inches.</p>\r\n\r\n\r\n<p>\r\n<b>Features</b> of the Baldwin 5000 Classic Knobset:\r\n<ul>\r\n<li>Concealed mounting to hide unsightly installation screws.</li>\r\n<li>Forged from solid brass for maximum strength and durability.</li>\r\n<li>28 degree latch rotation</li>\r\n<li>Heavy duty latch bolts springs.</li>\r\n<li>Latches are reversible for all door conditions.</li>\r\n<li>Latches include standard full lip strike.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Nashville Knob:\r\n<ul>\r\n<li>Rose Diameter: 2\" - <b>will NOT cover standard 2-1/8\" bore</b></li>\r\n<li>Knob Diameter: 2-3/8\"</li>\r\n<li>Overall Projection: 2-7/16\"</li>\r\n<li>Backset: choose either 2-3/8\" or 2-3/4\"</li>\r\n<li>Door Thickness: adjustable for 1-3/8\" and 1-3/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>When Selecting a Function:</b>\r\n<ul>\r\n<li><b>Half Dummy:</b> A surfaced mounted, non-working, smooth knob. Non-locking and non-latching trim for one side of door. This inactive pull is usually used to match trim. </li>\r\n<li><b>Full Dummy:</b> A surfaced mounted, non-working, smooth knob. Non-locking and non-latching trim for both sides of door. These inactive pulls are usually used to match trim.</li>\r\n<li><b>Passage (hall or closet):</b> Latches but does not lock. The latch is activated by turning the either of the two knobs.</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Nashville Knobset, Baldwin 5068/5010",
+                "description": "The classic design of this 2-3/8 inch diameter knob allows it to look beautiful in almost any setting. Concealed mounting means that the sleek look is not interrupted by unsightly screws; and because it is made by Baldwin out of solid brass, you know that it is made with attention to both style and quality. This knobset will fit 1-3/8 inch and 1-3/4 inch door thicknesses with an optional backset for 2-3/8 inches or 2-3/4 inches.",
+                "keywords": "Nashville Knobset, Baldwin 5068/5010"
+            },
+            "specifications": [
+                {
+                    "key": "Rose Diameter",
+                    "value": "2\" - will NOT cover standard 2-1/8\" bore"
+                },
+                {
+                    "key": "Knob Diameter",
+                    "value": "2-3/8\""
+                },
+                {
+                    "key": "Overall Projection",
+                    "value": "2-7/16\""
+                },
+                {
+                    "key": "Backset",
+                    "value": "choose either 2-3/8\" or 2-3/4\""
+                },
+                {
+                    "key": "Door Thickness",
+                    "value": "adjustable for 1-3/8\" and 1-3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Estates Door Knob Sets",
+                    "sort": "114"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Rose Diameter: 2\" - will NOT cover standard 2-1/8\" bore",
+                "Knob Diameter: 2-3/8\"",
+                "Overall Projection: 2-7/16\"",
+                "Backset: choose either 2-3/8\" or 2-3/4\"",
+                "Door Thickness: adjustable for 1-3/8\" and 1-3/4\"",
+                "Select Finish: 102: Oil Rubbed Bronze",
+                "Select Function: Passage",
+                "Select Backset: 2-3/8in. backset",
+                "Select Backset: 2-3/4in. backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "102: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Passage",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2-3/8in. backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-3/4in. backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

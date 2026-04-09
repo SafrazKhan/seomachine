@@ -1,0 +1,143 @@
+{
+    "legacy_product_id": "165179",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4041 Series Door Closer Parallel Mount Drop Plate, DP4041P",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-DP4041P",
+            "mpn": "DEL-DP4041P",
+            "price": "45.84",
+            "compare_at_price": "61.12",
+            "contractor_price": "43.55",
+            "shipping_weight": "1.5",
+            "tags": [
+                "DEL-DP4041P Drop Plate For DC-40 Series Door Closers",
+                "Deltana Drop Plate parallel Arm Installation",
+                "LCN 4041 Series Door Closer Parallel Mount Drop Plates",
+                "Deltana DC40 door closers",
+                "DEL-DP4041P-AL",
+                "DEL-DP4041P-DURO",
+                "DEL-DP4041P-GOLD"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DP4041P-525x586.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DP4041P-525x586.jpg?v=1716421567"
+        },
+        "text": {
+            "description_html": "<b>Parallel Mount Drop Plate</b>\r\n\r\n<p>\r\nUse when Parallel Mounting (Mounting on the push side of an outswing door). For use with <a href=\"/products/lcn-4040-super-smoothee-grade-1-door-closer\"><b>LCN 4041</b></a>, <a href=\"/products/lcn-4040-series-replacement-ada-compliant-heavy-duty-door-closer-global-tc4300\"><b>Global TC4300</b></a> or <a href=\"/products/extra-heavy-duty-door-closer-deltana-dc40\"><b>Deltana DC40</b></a> door closers.\r\n</p>\r\n\r\n<p>\r\nAlso available: <a href=\"/products/4041-series-door-closer-drop-plate-dp4041s\"><b>Regular Mount Drop Plate</b></a>.\r\n</p>\r\n\r\n<p>\r\nUse on outswing doors with narrow top door frames and doors with glass, when the glass interferes with closer mounting. Often used on metal framed glass store front doors. Also used to lower a door closer up to 1-1/2\".\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "4041 Series Door Closer Parallel Mount Drop Plate, DP4041P",
+                "description": "Drop Plate for Parallel Arm Installation. Use when Parallel Mounting (Mounting on the push side of an outswing door). For use  with LCN 4041, Global TC4300 or Deltana DC40 door closers.",
+                "keywords": "DEL-DP4041P Drop Plate For DC-40 Series Door Closers, Deltana Drop Plate parallel Arm Installation, LCN 4041 Series Door Closer Parallel Mount Drop Plates, Deltana DC40 door closers, DEL-DP4041P-AL, DEL-DP4041P-DURO, DEL-DP4041P-GOLD"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Commercial Door Closers",
+                    "sort": "101"
+                },
+                {
+                    "name": "Door Closers",
+                    "sort": "100"
+                },
+                {
+                    "name": "Deltana Door Closers",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "222883",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "222877",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "203817",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "200497",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "200494",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "226454",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "232302",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "184039",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "15345",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DURO: Dark Bronze",
+                "Select Finish: AL: Aluminum",
+                "Select Finish: GOLD: Gold Paint",
+                "Select Finish: WHITE: White"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DURO: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DP4041P-AL"
+                },
+                {
+                    "value": "GOLD: Gold Paint",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "WHITE: White",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

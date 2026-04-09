@@ -1,0 +1,121 @@
+{
+    "legacy_product_id": "990969",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "High Security Lock Cylinder with MT5+ Keyway, Mul-T-Lock MT5+-KIDKW",
+            "vendor": "Mul-T-Lock",
+            "status": "ARCHIVED",
+            "sku": "MTL-MT5+-KIDKW",
+            "mpn": "MTL-MT5+-KIDKW",
+            "price": "177.06",
+            "compare_at_price": "177.06",
+            "contractor_price": "177.06",
+            "shipping_weight": "1.0",
+            "tags": [
+                "MT5+ High Security Lock Cylinders",
+                "High Security Lock Cylinder with MT5+ Keyways",
+                "Mul-T-Lock MT5+-KIDKW",
+                "MTL-MT5+-KIDKW"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MTL-MT5+-KIDKW-13-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MTL-MT5_-KIDKW-13-525.jpg?v=1716427494"
+        },
+        "text": {
+            "description_html": "<b>Mul-T-Lock MT5+ High Security Lock Cylinder for Kwikset </b>\r\n\r\n<p>\r\nThis high security lock cylinder fits <a href=\"/collections/kwikset-locks\"><b>Kwikset Single Cylinder Deadbolts</b></a> including Kwikset Titian and Baldwin Reserve deadbolts with a Kwikset keyway. Does NOT fit door knobs, door levers, or double cylinder locks. \r\n</p>\r\n\r\n<p>\r\nHigh security Mul-T-Lock lock cylinders are designed with pick and drill resistance. Hardened steel inserts are strategically placed in sensitive areas to resist against drilling attempts. Specific parts are reinforced with some of the strongest materials available to resist tampering and forced entry. The MT5+ combines protective elements to create a double or triple locking mechanism to provide the highest levels of locking security. The plus in MT5+ is a powerful side bar locking mechanism, which interacts with unique horizontal finger pins for extra protection.\r\n</p>\r\n\r\n<p>\r\nSupplied standard with 1 owner key card and 2 keys per cylinder. MUL-T-LOCK's cylindrical locks are designed to provide superior door protection with uncompromised key control. The Key Card owner is the person allowed to have the keys duplicated.\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> for the Mul-T-Lock MT5+ High Security Lock Cylinder:\r\n<ul>\r\n<li>Drill and Pick Resistance Lock Cylinder</li>\r\n<li>Bump Proof Design</li>\r\n<li>2 Keys per Lock</li>\r\n<li>MUL-T-LOCK's Patented Interactive Key Control System</li>\r\n<li>Limited Lifetime Mechanical Warranty</li>\r\n<li><b>For Kwikset Single Cylinder Handlesets and Deadbolts</b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nIf ordering multiple locks you can have them Key Alike (use the same key) or Keyed Different (different keys for each lock). You can also order <a href=\"/products/cut-keys-for-mul-t-lock-locksets-and-padlocks\"><b>Extra Mul-T-Lock Keys</b></a>  if more than 2 are required.\r\n</p>",
+            "seo": {
+                "title": "High Security Lock Cylinder with MT5+ Keyway",
+                "description": "High security Mul-T-Lock lock cylinders are designed with pick and drill resistance. Hardened steel inserts are strategically placed in sensitive areas to resist against drilling attempts. Specific parts are reinforced with some of the strongest materials available to resist tampering and forced entry. The MT5+ combines protective elements to create a double or triple locking mechanism to provide the highest levels of locking security. The plus in MT5+ is a powerful side bar locking mechanism, which interacts with unique horizontal finger pins for extra protection.",
+                "keywords": "MT5+ High Security Lock Cylinders, High Security Lock Cylinder with MT5+ Keyways, Mul-T-Lock MT5+-KIDKW, MTL-MT5+-KIDKW,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Mul-T-Lock Accessories",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "70668",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "70139",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "70171",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "348381",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 13: Oil Rubbed Bronze",
+                "Keying: Only Ordered One Lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "13: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Only"
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 8.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                }
+            ]
+        }
+    ]
+}

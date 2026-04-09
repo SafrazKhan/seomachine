@@ -1,0 +1,143 @@
+{
+    "legacy_product_id": "631086",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Round Mount Bronze Towel Bar, Fusion TB-A6",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-TB-A6",
+            "mpn": "FUS-TB-A6",
+            "price": "149.0",
+            "compare_at_price": "149.0",
+            "contractor_price": "104.3",
+            "shipping_weight": "7.0",
+            "tags": [
+                "River Rock Round Radius Towel Bars",
+                "Fusion TB-A6",
+                "Round Mount Bronze Towel Bars",
+                "FUS-TB-A6",
+                "Traditional bathroom hardware",
+                "Traditional bathroom towel bars",
+                "hand towel bars",
+                "bathroom towel hooks",
+                "bath towel bars",
+                "Fusion TB-1-A6 18 inch towel bar",
+                "Fusion TB-2-A6 24 inch towel bar",
+                "Fusion TB-3-A6 30 inch towel bar",
+                "Bronze Round Radius Towel Bars"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-TB-A6-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-TB-A6-525.jpg?v=1711365516"
+        },
+        "text": {
+            "description_html": "<b>Fusion TB-A6, Bronze Round Radius Towel Bar</b>\r\n\r\n<p>\r\nThe Round Mount Bronze Towel Bar is available in either medium bronze or dark bronze. It comes packaged with all the necessary mounting hardware. Choose from an 18 inch, 24 inch, or 30 inch size. This traditionally styled towel bar is great for any space. It will add a classic touch that is both timeless and beautiful.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/round-mount-river-rock-towel-ring-fusion-tr-a6\"><b>Fusion TR-A6 Bronze River Rock Towel Ring</b></a>, \r\n<a href=\"/products/river-rock-round-mount-toilet-paper-holder-fusion-ph-a6\"><b>Fusion PH-A6 Bronze River Rock Toilet Paper Holder</b></a>, and <a href=\"/products/bronze-river-rock-rope-hook-with-round-mount-fusion-rh-a6\"><b>Fusion RH-A6 Bronze River Rock Robe Hook</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 sizes:</b>\r\n<ul>\r\n<b>TB-1-A6</b>\r\n<ul>\r\n<li>Length: 18\"</li>\r\n<li>Mount Diameter: 3\"</li>\r\n</ul>\r\n\r\n<br>\r\n\r\n<b>TB-2-A6</b>\r\n<ul>\r\n<li>Length: 24\"</li>\r\n<li>Mount Diameter: 3\"</li>\r\n</ul>\r\n\r\n<br>\r\n\r\n<b>TB-3-A6</b>\r\n<ul>\r\n<li>Length: 30\"</li>\r\n<li>Mount Diameter: 3\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Round Mount Bronze Towel Bar, Fusion TB-A6",
+                "description": "Fusion TB-A6, Round Mount Bronze Towel Bar -  The Round Mount Bronze Towel Bar is available in either medium bronze or dark bronze. It comes packaged with all the necessary mounting hardware. Choose from an 18 inch, 24 inch, or 30 inch size. This traditionally styled towel bar is great for any space. It will add a classic touch that is both timeless and beautiful.",
+                "keywords": "River Rock Round Radius Towel Bars, Fusion TB-A6, Round Mount Bronze Towel Bars, FUS-TB-A6, Traditional bathroom hardware, Traditional bathroom towel bars, hand towel bars, bathroom towel hooks, bath towel bars, Fusion TB-1-A6 18 inch towel bar, Fusion TB-2-A6 24 inch towel bar, Fusion TB-3-A6 30 inch towel bar, Bronze Round Radius Towel Bars,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "379317",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "379482",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "380602",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "454337",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "460815",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "385185",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MXB - Medium Bronze",
+                "Select Finish: DKB - Dark Bronze",
+                "Select Size: TB-1-A6 - 18in. Towel Bar",
+                "Select Size: TB-2-A6 - 24in. Towel Bar",
+                "Select Size: TB-3-A6 - 30in. Towel Bar"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MXB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DKB - Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TB-1-A6 - 18in. Towel Bar",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB-2-A6 - 24in. Towel Bar",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB-3-A6 - 30in. Towel Bar",
+                    "price_impact": 10.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "legacy_product_id": "738329",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Mortise Lock Body, Omnia 1800/8",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-1800/8",
+            "mpn": "OMN-1800/8",
+            "price": "315.0",
+            "compare_at_price": "315.0",
+            "contractor_price": "315.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Mortise Lock Body",
+                "OMN-1800/8"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Mortise Lock Body, OMN-1800/8</b>\r\n\r\n<p>\r\nMortise lock body for Omnia mortise lock sets with levers.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Omnia Mortise Lock Body:\r\n<ul>\r\n<li>Backset: 2-1/2\"</li>\r\n<li>Spindle: 8mm</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>When Selecting a Function:</b>\r\n<ul>\r\n<li><b>Passage (Hall / Closet):</b> Latchbolt operates by lever from either side.</li>\r\n<li><b>Privacy (Bathroom / Bedroom):</b> Latchbolt operates by lever from either side. Deadbolt by turnpiece inside and emergency key outside. Turning inside lever will retract both deadbolt and latchbolt at the same time.</li>\r\n<li><B>Single Cylinder Entry:</b> Latchbolt operates by lever from either side except when outside trim is locked by stop-button; then opens by key outside, by lever inside. Deadbolt activated by key outside and by turnpiece inside. </li>\r\n<li><b>Double Cylinder Entry:</b>  Latchbolt operates by lever from either side except when outside trim is locked by stop-button; then opens by key outside, by lever inside. Deadbolt activated only by key from either side. </li>\r\n<li><b>Panic Proof Entry:</b> Latchbolt operates by lever from either side except when outside trim is locked by stop-button. Deadbolt activated by key outside and by turnpiece inside. Turning inside lever will retract both deadbolt and latchbolt at the same time.</li>\r\n<li><b>Storeroom:</b> Latchbolt operates by lever inside and by key outside. The outside lever is rigid. Auxiliary latchbolt deadlocks latchbolt.</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Omnia Mortise Lock Body",
+                "description": "Mortise Lock Body, OMN-1800/8",
+                "keywords": "Mortise Lock Body, OMN-1800/8"
+            },
+            "specifications": [
+                {
+                    "key": "Backset",
+                    "value": "2-1/2\""
+                },
+                {
+                    "key": "Spindle",
+                    "value": "8mm"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "46"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Backset: 2-1/2\"",
+                "Spindle: 8mm",
+                "Select Function: Passage (Hall / Closet): N",
+                "Select Function: Privacy (Bathroom / Bedroom): L",
+                "Select Function: Single Cylinder Entry: A",
+                "Select Function: Panic Proof Entry: F",
+                "Select Function: Storeroom: EW",
+                "Select Door Handing & Door Swing: LHR: Left Hand Door, Out-swing",
+                "Select Door Handing & Door Swing: LH: Left Hand Door, In-swing",
+                "Select Door Handing & Door Swing: RHR: Right Hand Door, Out-swing",
+                "Select Door Handing & Door Swing: RH: Right Hand Door, In-swing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Passage (Hall / Closet): N",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Privacy (Bathroom / Bedroom): L",
+                    "price_impact": 48.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Single Cylinder Entry: A",
+                    "price_impact": 48.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Panic Proof Entry: F",
+                    "price_impact": 57.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Storeroom: EW",
+                    "price_impact": 48.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Handing & Door Swing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LHR: Left Hand Door, Out-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LH: Left Hand Door, In-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RHR: Right Hand Door, Out-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RH: Right Hand Door, In-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "legacy_product_id": "569187",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Decorative Leaf Cabinet Rose, RK International BP-489",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-BP-489",
+            "mpn": "RKI-BP-489",
+            "price": "7.99",
+            "compare_at_price": "9.68",
+            "contractor_price": "7.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Leaf and Berries Cabinet Knob Rosettes",
+                "Decorative Leaf Cabinet Roses",
+                "RK International BP-489",
+                "RKI-BP-489",
+                "RK International flat decorative leaf knob backplates",
+                "Leaf and Berries Cabinet roses",
+                "nature hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BP-490-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BP-490-525.jpg?v=1716424660"
+        },
+        "text": {
+            "description_html": "<b>RK International BP-489, Leaf and Berries Cabinet Knob Rosette</b>\r\n\r\n<p>\r\nThe Decorative Leaf Cabinet Rose can be used with almost any cabinet pull. Its design is subtle, and really gives the impression of the natural world. A great finishing touch to any space, the Leaf and Berries Cabinet Backplate is available in two sizes and 6 finishes including the very popular satin nickel and oil rubbed bronze.\r\n</p>\r\n\r\n<p>\r\nUse with matching: <a href=\"/products/decorative-leaf-cabinet-knob-rk-international-ck-761\"><b>Decorative Leaf Cabinet Knob</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes</b>\r\n<ul>\r\n<b>RKI-BP-489:</b>\r\n<ul>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 3/16\"</li>\r\n</ul>\r\n<br>\r\n<b>RKI-BP-490:</b>\r\n<ul>\r\n<li>Diameter: 1-1/2\"</li>\r\n<li>Projection: 1/4\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MUL-T-LOCK-TSR25_size.gif?v=1704354575\" width=\"600\" height=\"133\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Decorative Leaf Cabinet Rose",
+                "description": "RK International BP-489 Decorative Leaf Cabinet Rose - The Decorative Leaf Cabinet Rose can be used with almost any cabinet pull. Its design is subtle, and really gives the impression of the natural world. A great finishing touch to any space, the Leaf and Berries Cabinet Backplate is available in two sizes and 6 finishes including the very popular satin nickel and oil rubbed bronze.\r\n",
+                "keywords": "Leaf and Berries Cabinet Knob Rosettes, Decorative Leaf Cabinet Roses, RK International BP-489, RKI-BP-489, RK International flat decorative leaf knob backplates, Leaf and Berries Cabinet roses, nature hardware,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knob and Pull Rosettes",
+                    "sort": "10"
+                },
+                {
+                    "name": "Cabinet Knob and Pull Rosettes",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "552490",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "142882",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "552469",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "552926",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "176121",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Size: BP-489: 1-1/4in. Diameter",
+                "Select Size: BP-490: 1-1/2in. Diameter",
+                "Select Finish: RB: Oil Rubbed Bronze",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: PN: Polished Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BP-489: 1-1/4in. Diameter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BP-490: 1-1/2in. Diameter ",
+                    "price_impact": 0.48,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

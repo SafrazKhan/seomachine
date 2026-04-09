@@ -1,0 +1,109 @@
+{
+    "legacy_product_id": "990296",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Omnia D11752 Interior Escutcheon Only",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-8055/0C",
+            "mpn": "OMN-8055/0C",
+            "price": "98.0",
+            "compare_at_price": "98.0",
+            "contractor_price": "98.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Omnia D11752 Escutcheon Backplates",
+                "Omnia D11752 Escutcheon Only",
+                "OMN-8055/0C",
+                "Omnia 8055/0C",
+                "Omnia D11752 Single Cylinder Escutcheon Backplates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-80550C-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-80550C-525.jpg?v=1716427468"
+        },
+        "text": {
+            "description_html": "<b>Omnia D11752 Single Cylinder Interior Escutcheon Backplate</b>\r\n\r\n<p>\r\nThis is a replacement interior backplate for the <a href=\"/products/simple-lever-entryset-omnia-d11752\">Omnia D11752 Simple Lever Entryset</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Omnia D11752 Interior Escutcheon Backplate:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Height: 10-5/8\"</li>\r\n<li>Width: 2-3/8\"</li>\r\n<li>Bore Hole Spacing: 5-1/2\" Center to Center</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>No Returns.</b></i>\r\n</p>",
+            "seo": {
+                "title": "Omnia D11752 Escutcheon Only",
+                "description": "This is a replacement backplate for the Omnia D11752 Simple Lever Entryset.",
+                "keywords": "Omnia D11752 Escutcheon Backplates, Omnia D11752 Escutcheon Only, OMN-8055/0C, Omnia 8055/0C, Omnia D11752 Single Cylinder Escutcheon Backplates,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Height",
+                    "value": "10-5/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "2-3/8\""
+                },
+                {
+                    "key": "Bore Hole Spacing",
+                    "value": "5-1/2\" Center to Center"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "69"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "233768",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "40864",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "233634",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "478875",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Height: 10-5/8\"",
+                "Width: 2-3/8\"",
+                "Bore Hole Spacing: 5-1/2\" Center to Center",
+                "Select Finish: US26: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

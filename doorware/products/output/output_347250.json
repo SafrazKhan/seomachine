@@ -1,0 +1,118 @@
+{
+    "legacy_product_id": "347250",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T16:10:07.770962"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Door Knob Drive-in Deadlatch for Weslock",
+            "vendor": "Weslock",
+            "status": "ARCHIVED",
+            "sku": "WES-12728",
+            "mpn": "WES-12728",
+            "price": "16.5",
+            "compare_at_price": "16.5",
+            "contractor_price": "16.5",
+            "shipping_weight": "0.5",
+            "tags": [
+                "WES-12728 Weslock Door Knob Deadlatch",
+                "weslock entry latches",
+                "Door Latches for Weslock Molton Bronze Series",
+                "Elegance Series",
+                "Traditional Collection Weslock deadlatch",
+                "tube latches",
+                "tubular latches",
+                "weslock parts",
+                "Weslock Drive-in Deadlatch",
+                "Weslock Drive-in latches",
+                "Weslock 600 series latch"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/weslock-12728_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/weslock-12728_525.jpg?v=1716423258"
+        },
+        "text": {
+            "description_html": "<b>Drive-in Deadlatch for Weslock Entry Door Knobs</b>\r\n<p>\r\nDrive-in type Deadlatch for Weslock Keyed Entry <b>Door Knobs</b>. Deadlatches are used with doors knobs that have a lock cylinder in the knob.\r\n</p>\r\n<p>\r\nAlso available: <a href=\"/products/door-knob-drive-in-springlatch-for-weslock\">Weslock Drive-in Spring Latch</a> for Passage or Privacy function door knobs.\r\n</p>\r\n<p>\r\nWeslock 600 Series.  For use with <a href=\"/collections/weslock-molten-bronze-collection\">Weslock Molton Bronze Collection</a>, <a href=\"/collections/weslock-elegance-collection\">Weslock Elegance Collection</a> and <a href=\"/collections/weslock-traditionale-collection\">Weslock Traditionale Collection</a>, <b>Door Knobs</b> (not door levers) and <b>Entry Handles with Door Knobs</b>.\r\n</p>\r\n<p>\r\n<b>*Note: </b>If you have a Weslock keyed entry Door Lever use, <a href=\"/products/door-lever-drive-in-deadlatch-for-weslock\">Weslock Door Lever Drive-in Deadlatch</a>.\r\n</p>\r\n<p>\r\nAdjustable  for both 2-3/8\" and 2-3/4\" backsets. <br>\r\nDrive-in type latch (*Does NOT use a faceplate).\r\n</p>",
+            "seo": {
+                "title": "Door Knob Drive-in Deadlatch for Weslock",
+                "description": "Drive-in type keyed Entry Function Door Knob latch for Weslock - Fit Weslock Molton Bronze Series, Elegance Series and Traditional Collection. Deadlatch for entry doors knobs with a lock cylinder.",
+                "keywords": "WES-12728 Weslock Door Knob Deadlatch, weslock entry latches,  Door Latches for Weslock Molton Bronze Series, Elegance Series, Traditional Collection Weslock deadlatch, tube latches, tubular latches, weslock parts, Weslock Drive-in Deadlatch, Weslock Drive-in latches, Weslock 600 series latch,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Westlock Parts and Accessories",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "337810",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "347256",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "292653",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "347294",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "223087",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "251183",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 12728X1: Oil Rubbed Bronze",
+                "Select Finish: 12728X4: Brushed Brass",
+                "Select Finish: 12728XD: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "12728X1: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "12728X4: Brushed Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "12728XD: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

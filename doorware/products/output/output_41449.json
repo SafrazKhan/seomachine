@@ -1,0 +1,148 @@
+{
+    "legacy_product_id": "41449",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Lorabelle Vintage Finish Cabinet Knob, Omnia 9141/30",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "OMN-9141/30-V",
+            "mpn": "OMN-9141/30-V",
+            "price": "19.2",
+            "compare_at_price": "24.0",
+            "contractor_price": "18.24",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9141 classic cabinet knobs",
+                "solid brass cabinet knobs",
+                "kitchen cabinet knobs",
+                "omnia vintage cabinet knobs",
+                "omn-9141/30",
+                "omn-9141/40",
+                "vintage brass knobs",
+                "classic kitchen cabinet knobs Omnia 9141",
+                "solid brass drawer knobs",
+                "Omnia 9141 drawer pulls",
+                "Simple Vintage Cabinet Knobs",
+                "Lorabelle Vintage Cabinet Knobs",
+                "Lorabelle Vintage Finish Cabinet Knobs",
+                "Vintage Collection Lorabelle Cabinet Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-9141v-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-9141v-525.jpg?v=1716420791"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9141, Vintage Collection Lorabelle Cabinet Knob</b>\r\n\r\n<p>\r\nThis vintage-style knob emulates the classic elegance of days gone by. Few designs rival this knob's quiet nod to Victorian design while still maintaining modern quality that can only be expected of solid brass cabinet pulls. The 3 finishes only add to the old world styling of the Lorabelle Vintage Finish Cabinet Knob by mimicking the texture of naturally weathered metal.\r\n</p>\r\n\r\n<p>\r\nAlso available the <a href=\"/products/lorabelle-cabinet-knob-omnia-9141-30\"><b>Omnia 42914 Lorabelle Cabinet Knob</b></a> in other finishes and other <a href=\"/collections/omnia-cabinet-hardware\"><b>Omnia Vintage Collection Cabinet Knobs</b></a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Simple Cabinet Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter: 1-3/16\"</li>\r\n<li>Projection: 1\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Lorabelle Vintage Finish Cabinet Knob",
+                "description": "This vintage-style knob emulates the classic elegance of days gone by. Few designs rival this knob's quiet nod to Victorian design while still maintaining modern quality that can only be expected of solid brass cabinet pulls. The 3 finishes only add to the old world styling of the Lorabelle Vintage Finish Cabinet Knob by mimicking the texture of naturally weathered metal.\r\n",
+                "keywords": "omnia 9141 classic cabinet knobs, solid brass cabinet knobs, kitchen cabinet knobs, omnia vintage cabinet knobs, omn-9141/30, omn-9141/40, vintage brass knobs, classic kitchen cabinet knobs Omnia 9141, solid brass drawer knobs, Omnia 9141 drawer pulls, Simple Vintage Cabinet Knobs, Lorabelle Vintage Cabinet Knobs, Lorabelle Vintage Finish Cabinet Knobs, Vintage Collection Lorabelle Cabinet Knobs,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Diameter",
+                    "value": "1-3/16\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia Vintage Collection Cabinet Knobs And Pulls",
+                    "sort": "3"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "10"
+                },
+                {
+                    "name": "Omnia Cabinet Knobs",
+                    "sort": "31"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "41410",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "42677",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "41438",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "42711",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42944",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "43017",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Diameter: 1-3/16\"",
+                "Projection: 1\"",
+                "Select Finish: VI: Vintage Iron",
+                "Select Finish: VC: Vintage Copper",
+                "Select Finish: VB: Vintage Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "VI: Vintage Iron",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "VI"
+                },
+                {
+                    "value": "VC: Vintage Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "VC"
+                },
+                {
+                    "value": "VB: Vintage Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "VB"
+                }
+            ]
+        }
+    ]
+}

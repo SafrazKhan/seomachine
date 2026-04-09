@@ -1,0 +1,123 @@
+{
+    "legacy_product_id": "191064",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Standard Parallel Arm Bracket for American Eagle 3100, PDQ 999001",
+            "vendor": "PDQ",
+            "status": "ACTIVE",
+            "sku": "PDQ-999001",
+            "mpn": "PDQ-999001",
+            "price": "16.99",
+            "compare_at_price": "22.0",
+            "contractor_price": "14.85",
+            "shipping_weight": "0.5",
+            "tags": [
+                "PDQ-999001",
+                "PDQ-319001 Parallel Arm Bracket for American Eagle 3100 closers",
+                "American Eagle 319001",
+                "PDQ 999001 Standard Parallel Arm Bracket for American Eagle 3100 series door closers",
+                "door closer parallel brackets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AE-319001_525.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AE-319001_525.gif?v=1711365194"
+        },
+        "text": {
+            "description_html": "<b>PDQ American Eagle Parallel Arm Bracket for American Eagle 3100</b>\r\n\r\n<p>\r\nFits <a href=\"/products/light-commercial-surface-mount-closer-pdq-3100-bcpa\"><b>American Eagle 3100</b></a> and <a href=\"/products/light-commercial-ada-compliant-surface-mount-closer-pdq-3101-bcpa\"><b>American Eagle 3101</b></a>  Door Closers. Can be used with an door closer arm with  a 3/8\" diameter pivot joint.\r\n</p>\r\n\r\n<p>\r\nAlso available: <a href=\"/products/friction-hold-open-arm-parallel-arm-bracket-for-american-eagle-3100-pdq-999022\"><b>Hold Open Arm Parallel  Bracket</b></a>.\r\n</p>\r\n<p><b>For use with <a href=\"/products/standard-duty-arm-for-american-eagle-3100-series-pdq-319003\">Standard Door Closer Arms</a> Only</b>. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for American Eagle Parallel Arm Bracket\r\n<ul>\r\n<li>Max Width: 3-1/2\"</li>\r\n<li>Length: 4-3/4\"</li>\r\n<li>Thickness: 1/8\"</li>\r\n<li>Pivot Pin Diameter: 3/8\"</li>\r\n</ul>\r\n</p>\r\n<p>\r\nAvailable in Aluminum or Dark Bronze finish.\r\n</p>",
+            "seo": {
+                "title": "Standard Parallel Arm Bracket for American Eagle 3100",
+                "description": "PDQ Parallel Arm mounting American Eagle 3100 series door closer. Available in Aluminum or Dark Bronze finish.",
+                "keywords": "PDQ-999001, PDQ-319001 Parallel Arm Bracket for American Eagle 3100 closers, American Eagle 319001, PDQ 999001 Standard Parallel Arm Bracket for American Eagle 3100 series door closers, door closer parallel brackets,"
+            },
+            "specifications": [
+                {
+                    "key": "Max Width",
+                    "value": "3-1/2\""
+                },
+                {
+                    "key": "Length",
+                    "value": "4-3/4\""
+                },
+                {
+                    "key": "Thickness",
+                    "value": "1/8\""
+                },
+                {
+                    "key": "Pivot Pin Diameter",
+                    "value": "3/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "American Eagle 3100",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "191066",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "190791",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "190682",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "188548",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "188632",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Max Width: 3-1/2\"",
+                "Length: 4-3/4\"",
+                "Thickness: 1/8\"",
+                "Pivot Pin Diameter: 3/8\"",
+                "Select Finish: 689: Aluminum",
+                "Select Finish: 695: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "689: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-319001-689"
+                },
+                {
+                    "value": "695: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-319001-695"
+                }
+            ]
+        }
+    ]
+}

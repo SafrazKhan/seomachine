@@ -1,0 +1,142 @@
+{
+    "legacy_product_id": "249536",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Modern Cube Cabinet Knob, First Impressions CUBE-100",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-CUBE-100",
+            "mpn": "FII-CUBE-100",
+            "price": "45.9",
+            "compare_at_price": "54.9",
+            "contractor_price": "43.6",
+            "shipping_weight": "0.5",
+            "tags": [
+                "FII-CUBE-100 Modern Cube Cabinet Knobs",
+                "First Impressions CUBE-100 1 inch Modern Cube Cabinet Knob"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-cube-cabinet-knob_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-cube-cabinet-knob_525.jpg?v=1716422420"
+        },
+        "text": {
+            "description_html": "<b>First Impressions 1 Inch Modern Cube Cabinet Knob</b>\r\n<p>\r\nVery modern designed cabinet knob made of 1\" cubed solid brass by First Impressions, a leader manufacture in  contemporary pulls. Truly eye catching modern appearance. \r\n</p>\r\n<p>\r\nThis is a brand <b>New Design</b> - <b>Limited Supply!</b>\r\n</p>\r\n<p>\r\nTo keep the ultra modern appearance of this cube knob, please note that the corners are sharp and crisp, and the manufacture does not recommend  installing this item around small children. \r\n</p>\r\n<p>\r\n<b>Specifications</b> for First Impressions CUBE-100  Modern Cube Cabinet Knob\r\n<ul>\r\n<li>Projection: 1-5/8\"</li>\r\n<li>Diameter: 1\" Cube</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Finish: Your choice of <b>Satin Nickel</b> or <b>Polished Chrome</b></li> \r\n</ul>\r\n</p>\r\n<p>\r\nPackaged with mounting screws for a standard 3/4\"  thick cabinet door panel or drawer.\r\n</p>\r\n<p>\r\n<b>*Sold individually.\r\n</b>\r\n</p>",
+            "seo": {
+                "title": "Modern Cube Cabinet Knob, First Impressions CUBE-100",
+                "description": "First Impressions CUBE-100 1 Inch Modern Cube Cabinet Knob. Very modern designed cabinet knob made of 1 inch cubed solid brass by First Impressions, a leading manufacturer in  contemporary pulls. Truly eye catching modern appearance. ",
+                "keywords": "FII-CUBE-100 Modern Cube Cabinet Knobs, First Impressions CUBE-100 1 inch Modern Cube Cabinet Knob,"
+            },
+            "specifications": [
+                {
+                    "key": "Projection",
+                    "value": "1-5/8\""
+                },
+                {
+                    "key": "Diameter",
+                    "value": "1\" Cube"
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Your choice of Satin Nickel or Polished Chrome"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "47"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "185115",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "42123",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "379344",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "211711",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "231561",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "352581",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "254232",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "352535",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "238391",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "247906",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "42735",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Projection: 1-5/8\"",
+                "Diameter: 1\" Cube",
+                "Material: Solid Brass",
+                "Finish: Your choice of Satin Nickel or Polished Chrome",
+                "Select Finish: FII-CUBE-100-US26 - Polished Chrome",
+                "Select Finish: FII-CUBE-100-US15 - Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-CUBE-100-US26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-CUBE-100-US15 - Satin Nickel",
+                    "price_impact": 2.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

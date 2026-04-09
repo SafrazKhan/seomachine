@@ -1,0 +1,92 @@
+{
+    "legacy_product_id": "1217846",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Explore Hardware Tubular Replacement  Latch, AHI-LUX-LATCH",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-LUX-LATCH",
+            "mpn": "AHI-LUX-LATCH",
+            "price": "30.0",
+            "compare_at_price": "30.0",
+            "contractor_price": "30.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Explore Hardware Tubular Replacement  Latch",
+                "AHI-LUX-LATCH"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525272.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525272.gif?v=1769502739"
+        },
+        "text": {
+            "description_html": "<b>AHI-LUX-LATCH Explore Hardware Tubular Replacement  Latch </b>\r\n\r\n<p>\r\nThis tubular latch is specifically for <a href=\"/site/department.cfm?id=1095121\">AHI Explore Hardware Lever and Knob Sets</a> \r\n</p>\r\n\r\n<p>\r\nIt is available for 2 3/8\" or 2 3/4\" backsets. For both Passage and Privacy functions. \r\n</p>\r\n\r\n<p>\r\n<b>When Selecting a Function:</b>\r\n<ul>\r\n<li>Passage (Hall or Closet): For doors that don't need locking.</li>\r\n<li>Privacy (Bedroom or Bathroom): For doors that could need locking.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>To determine Backset: Measure from the center of the backplate or bore hole, to the edge of the door. </i>\r\n</p>",
+            "seo": {
+                "title": "Explore Hardware Tubular Replacement  Latch, AHI-LUX-LATCH",
+                "description": "Replacement tubular latch for Explore Hardware leversets.  Available in 2 3/8 and 2 3/4 backsets for both Passage and Privacy functions.",
+                "keywords": "Explore Hardware Tubular Replacement  Latch, AHI-LUX-LATCH"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "AHI Miscellaneous Parts",
+                    "sort": "36"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Function and Backset: LUX238PA: Passage (Hall or Closet) with  2-3/8in. Backset",
+                "Select Function and Backset: LUX234PA: Passage (Hall or Closet) with 2-3/4in. Backset",
+                "Select Function and Backset: LUX238PR: Privacy (Bedroom or Bathroom) with  2-3/8in. Backset",
+                "Select Function and Backset: LUX234PR: Privacy (Bedroom or Bathroom) with  2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function and Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LUX238PA: Passage (Hall or Closet) with  2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LUX234PA: Passage (Hall or Closet) with 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LUX238PR: Privacy (Bedroom or Bathroom) with  2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LUX234PR: Privacy (Bedroom or Bathroom) with  2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

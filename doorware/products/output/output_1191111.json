@@ -1,0 +1,206 @@
+{
+    "legacy_product_id": "1191111",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Ipe Offset Door Pull, First Impressions LKE150060IPEFALMGK",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-LKE150060IPEFALMGK",
+            "mpn": "FII-LKE150060IPEFALMGK",
+            "price": "688.0",
+            "compare_at_price": "860.0",
+            "contractor_price": "688.0",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Ipe Offset Door Pull",
+                "First Impressions LKE150060IPEFALMGK"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-L2Teak-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-L2Teak-5251.jpg?v=1711366739"
+        },
+        "text": {
+            "description_html": "<b>First Impressions LKE150060IPEFALMGK, 1-1/2\" Diameter Ipe Offset Door Pull</b>\r\n\r\n<p>\r\nThe Ipe Offset Door Pull is from First Impression's Lewis Collection which features ipe wood and your choice of beautiful finishes for the brackets. The LKE150FAL Offset Wood Pull is 60\" long and can be thru-bolt mounted, surface mounted, or back-to back mounted. \r\n</p>\r\n\r\n\r\n\r\n<p>\r\n<b>Specifications</b> for the First Impressions Lewis Wood Door Handle:\r\n<ul>\r\n<li>Pull Handle Material: Solid Ipe</li>\r\n<li>Pull Bracket Material: Aluminum</li>\r\n<li>Pull Length: 60\"</li>\r\n<li>Pull Diameter: 1.50\"</li>\r\n<li>Total Projection: 3-1/2\"</li>\r\n<li>Clearance: 1.84\"</li>\r\n<li>Pull Finish: Matte Black Powdercoat</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\nNote: This wood door handle is handmade in the USA when you order it—allowing it to be custom designed to fit your specific door application, including <b>Other Lengths</b>. Unfortunately, because of the made-to-order nature of the door handle, it is <b>Not Returnable.</b> Please <a href=\"/pages/contact\">Contact Us</a> with your requirements or if you have any questions.\r\n</p>\r\n\r\n<p>\r\n<b>When Selecting a Mounting Hardware:</b>\r\n<ul>\r\n<li><b>Thru-Bolted Mounting:</b> Pull bolts through the door.</li>\r\n<li><b>Surface Mounting:</b> Pull screws to the face of the door.</li>\r\n<li><b>Back-to-Back Mounting:</b> Pulls bolt to each other through the door. <b>Requires 2 pulls</b>.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold individually (1 door pull handle). If you order Back-to-Back Mounting please Order 2 Pulls.</i>\r\n</p>",
+            "seo": {
+                "title": "Ipe Offset Door Pull",
+                "description": "The Ipe Offset Door Pull is from First Impression's Lewis Collection which features ipe wood for the handle and beautiful finishes for the brackets.",
+                "keywords": "Ipe Offset Door Pull, First Impressions LKE150060IPEFALMGK"
+            },
+            "specifications": [
+                {
+                    "key": "Pull Handle Material",
+                    "value": "Solid Ipe"
+                },
+                {
+                    "key": "Pull Bracket Material",
+                    "value": "Aluminum"
+                },
+                {
+                    "key": "Pull Length",
+                    "value": "60\""
+                },
+                {
+                    "key": "Pull Diameter",
+                    "value": "1.50\""
+                },
+                {
+                    "key": "Total Projection",
+                    "value": "3-1/2\""
+                },
+                {
+                    "key": "Clearance",
+                    "value": "1.84\""
+                },
+                {
+                    "key": "Pull Finish",
+                    "value": "Matte Black Powdercoat"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Wood Door Pulls",
+                    "sort": "38"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Pull Handle Material: Solid Ipe",
+                "Pull Bracket Material: Aluminum",
+                "Pull Length: 60\"",
+                "Pull Diameter: 1.50\"",
+                "Total Projection: 3-1/2\"",
+                "Clearance: 1.84\"",
+                "Pull Finish: Matte Black Powdercoat",
+                "Select Mounting Choice: Thru-Bolt Mounted",
+                "Select Mounting Choice: Surface Mounted",
+                "Select Mounting Choice: Back-to-Back Mounted (Requires 2 Pulls)",
+                "Select Door Material: Wood / Fiberglass",
+                "Select Door Material: Glass",
+                "Select Door Material: Metal",
+                "Select Door Thickness Range: 1/4in. to 1/2in.",
+                "Select Door Thickness Range: 5/8in. to 1in.",
+                "Select Door Thickness Range: 1-1/8in. to 1-1/2in.",
+                "Select Door Thickness Range: 1-5/8in. to 2in.",
+                "Select Door Thickness Range: 2-1/8 to 2-1/2in.",
+                "Select Door Thickness Range: 2-5/8in. to 3in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Mounting Choice",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Thru-Bolt Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Surface Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Back-to-Back Mounted (Requires 2 Pulls)",
+                    "price_impact": 30.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Material",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Wood / Fiberglass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Glass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Metal",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness Range",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1/4in. to 1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5/8in. to 1in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-1/8in. to 1-1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-5/8in. to 2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-1/8 to 2-1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-5/8in. to 3in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

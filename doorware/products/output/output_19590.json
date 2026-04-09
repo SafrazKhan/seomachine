@@ -1,0 +1,80 @@
+{
+    "legacy_product_id": "19590",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Design Hardware 73 Door Closer with Parallel Arm",
+            "vendor": "Design Hardware",
+            "status": "ARCHIVED",
+            "sku": "DES-73",
+            "mpn": "DES-73",
+            "price": "49.0",
+            "compare_at_price": "70.0",
+            "contractor_price": "44.11",
+            "shipping_weight": "10.0",
+            "tags": [
+                "DES-73",
+                "Design Hardware 73 door closers",
+                "surface mounted adjustable latch speed",
+                "parallel arms"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Design Hardware 73 Door Closer</b>\r\n<p>\r\nDesign Hardware offers you solutions proven to fit every application from the heaviest use to the most prestigious and even the aesthetically pleasing. You will find their high quality products in residential and commercial projects around the world.\r\n</p>\r\n<p>\r\n<b>73 Design Hardware Specs:</b>\r\n</p>\r\n<p>\r\n<ul>\r\n<li>UL Listed, Non Handed.</li>\r\n<li>Size 3, for use on 100 -145 lb door.</li>\r\n<li>Aluminum and Dark Bronze painted finishes.</li>\r\n<li>Latch Speed & Sweep Controls.</li>\r\n<li>Closer body 2 3/8\" projection.</li>\r\n<li>Includes Wood and Machine screw fasteners.</li>\r\n<li><b>Parallel Arm Bracket included</b></li>\r\n</ul>\r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/73series.jpg?v=1704442259\">\r\n</p>",
+            "seo": {
+                "title": "Design Hardware 73 Door Closer with Parallel Arm",
+                "description": "Design Hardware 73 Door Closer.\r\nUL Listed. Non Handed. Size 3.\r\nFor use on 100 145 lb door.\r\nAluminum and Dark Bronze painted finishes. Latch Speed & Sweep Controls.\r\nCloser body 2 3/8 projection. Wood and Machine screw fasteners. Parallel Arm Bracket included. ",
+                "keywords": "DES-73, Design Hardware 73 door closers, surface mounted adjustable latch speed, parallel arms,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Design Hardware Door Closers",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: DES-73AL - Aluminum Finish",
+                "Select Finish: DES-73BZ - Bronze Finish"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DES-73AL - Aluminum Finish",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DES-73AL"
+                },
+                {
+                    "value": "DES-73BZ - Bronze Finish",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DES-73BZ"
+                }
+            ]
+        }
+    ]
+}

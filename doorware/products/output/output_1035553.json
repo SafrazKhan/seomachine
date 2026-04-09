@@ -1,0 +1,164 @@
+{
+    "legacy_product_id": "1035553",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Sandcast Bronze Bin Pull, Emtek 86051",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-86051",
+            "mpn": "EMT-86051",
+            "price": "23.99",
+            "compare_at_price": "30.0",
+            "contractor_price": "23.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Emtek 86051",
+                "Rustic Sandcast Bronze Cup Pulls",
+                "Emtek 86050",
+                "Sandcast Bronze Bin Pulls",
+                "Rustic Cabinet Cup Pulls",
+                "EMT-86051",
+                "EMT-86050",
+                "rustic modern cabinet hardware."
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86051-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86051-525.jpg?v=1716427797"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86051, Rustic Sandcast Bronze Cup Pull</b>\r\n\r\n<p>\r\nThe Sandcast Bronze Bin Pull is made of sandcast bronze and so, each piece is different where the mold had its own characteristics and these details give it a rustic feel that accentuates it's beauty. The Rustic Sandcast Bronze Cup Pull is available in flat black bronze, medium bronze, and white bronze finishes. Choose from 3 inch or 4 inch lengths. Each kitchen drawer cup pull comes packaged with the mounting hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Emtek Sandcast Bronze Bin Pull:\r\n<ul>\r\n<li>Material: Sandcast Bronze</li>\r\n<li>Comes packaged with installation screws.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86051-specifications.pdf?v=1704262411\"><b>Emtek Sandcast Bronze Bin Pull Dimensions Diagram (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>EMT-86051:</b>\r\n<ul>\r\n<li>Length center to center: 3\"</li>\r\n<li>Overall Length: 3-3/8\"</li>\r\n<li>Height: 1-1/2\"</li>\r\n<li>Projection: 1\"</li>\r\n</ul>\r\n<br>\r\n<b>EMT-86050:</b>\r\n<ul>\r\n<li>Length center to center: 4\"</li>\r\n<li>Overall Length: 4-1/2\"</li>\r\n<li>Height: 1-5/8\"</li>\r\n<li>Projection: 1\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-sandcast-finish.jpg?v=1704354510\" width=\"570\" height=\"191\" border=\"0\" alt=\"Emtek Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "Sandcast Bronze Bin Pull",
+                "description": "The Sandcast Bronze Bin Pull is made of sandcast bronze and so, each piece is different where the mold had its own characteristics and these details give it a rustic feel that accentuates it's beauty. The Rustic Sandcast Bronze Cup Pull is available in flat black bronze, medium bronze, and white bronze finishes. Choose from 3 inch or 4 inch lengths. Each kitchen drawer cup pull comes packaged with the mounting hardware.",
+                "keywords": "Emtek 86051, Rustic Sandcast Bronze Cup Pulls, Emtek 86050, Sandcast Bronze Bin Pulls, Rustic Cabinet Cup Pulls, EMT-86051, EMT-86050, rustic modern cabinet hardware."
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Sandcast Bronze"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Cabinet Hardware",
+                    "sort": "33"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "942633",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "884332",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "939474",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "901287",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "652726",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "901507",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "562087",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "942685",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "892703",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "884532",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Material: Sandcast Bronze",
+                "Select Size: 86051: 3in. c.c.",
+                "Select Size: 86050: 4in. c.c.",
+                "Select Finish: FB: Flat Black Bronze Patina",
+                "Select Finish: MB: Medium Bronze Patina",
+                "Select Finish: TWB: Tumbled White Bronze Patina"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "86051: 3in. c.c.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "86050: 4in. c.c.",
+                    "price_impact": 9.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FB: Flat Black Bronze Patina",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MB: Medium Bronze Patina",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TWB: Tumbled White Bronze Patina",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

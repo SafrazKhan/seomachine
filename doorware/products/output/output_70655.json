@@ -1,0 +1,92 @@
+{
+    "legacy_product_id": "70655",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Mul-T-Lock #18 E-Series Extra Heavy Duty Padlock With 23/32 Shackle",
+            "vendor": "Mul-T-Lock",
+            "status": "ARCHIVED",
+            "sku": "KW-E18HE1",
+            "mpn": "KW-E18HE1",
+            "price": "275.0",
+            "compare_at_price": "275.0",
+            "contractor_price": "275.0",
+            "shipping_weight": "1.5",
+            "tags": [
+                "E18-H",
+                "KW-E18HE1",
+                "KW-E18",
+                "Mul-T-Lock #18 E-Series Padlocks",
+                "23/32  inch Shackle locks",
+                "High Guard padlocks",
+                "mul-t-lock e-series",
+                "heavy duty padlocks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Mul-T-Lock #18 E-Series Extra Heavy Duty Padlock With 23/32\" Shackle And High Guard </b>\r\n<p>\r\nThe E-Series Line of MUL-T-LOCK Heavy Duty Padlocks is designed to offer the Highest Level of Padlock Protection available in the market today. All E-Series Padlocks are made of Boron Alloy, and can uphold to the most determined attempts of physical abuse. They are available with or without a Shackle Guard for extra protection. E-Series Padlocks are also available in Sliding Bolt Configuration (SBE) for superior shackle protection. When looking for the Ultimate in High Security Padlock Protection, the MUL-T-LOCK'S E-Series line of padlocks is your answer.</p>\r\n<p>\r\n<a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/E-Series_high.pdf?v=1704262190\" target=\"new\"><b>E-Series High Guard Specifications Diagram (PDF)</b></a>\r\n</p>\r\n<!-- <p>\r\nOther size E-Series Padlocks also available:<br>\r\n<a href=\"/products/mul-t-lock-8-e-series-heavy-duty-padlock-with-5-16-diameter-shackle\"><b>#8 E-Series With 5/16 Shackle</b></a><br>\r\n<a href=\"/products/mul-t-lock-11-e-series-heavy-duty-padlock-with-7-16-diameter-shackle\"><b>#11 E-Series With 7/16 Shackle</b></a><br>\r\n<a href=\"/products/mul-t-lock-14-e-series-extra-heavy-duty-padlock-with-9-16-shackle\"><b>#14 E-Series With 9/16 Shackle</b></a><br>\r\n\r\n</p> -->\r\n\r\n<p>\r\n<b>Features:\r\n<ul>\r\n<li>Hardened Boron Alloy Shackle, 23/32\" Diameter</li>\r\n<li>Hardened Boron Alloy Body</li>\r\n<li>Drill and Pick Resistant Cylinder</li>\r\n<li>MUL-T-LOCK's Patented Interactive Key Control System</li>\r\n<li>Limited Lifetime Mechanical Warranty</li>\r\n</ul>\r\n</b>\r\n</p>\r\n<p>If you are purchasing multiple Mul-T-Lock padlocks we can key them Alike or key them Different</p>",
+            "seo": {
+                "title": "Mul-T-Lock #18 E-Series Extra Heavy Duty Padlock With 23/32 Shackle",
+                "description": "KW-E18HE1 Mul-T-Lock #18 E-Series Extra Heavy Duty Padlock With 23/32 Shackle And High Guard. \r\n\r\nThe E-Series Line of MUL-T-LOCK Heavy Duty Padlocks is designed to offer the Highest Level of Padlock Protection available in the market today. All E-Series Padlocks are made of Boron Alloy, and can uphold to the most determined attempts of physical abuse. They are available with or without a Shackle Guard for extra protection. E-Series Padlocks are also available in Sliding Bolt Configuration (SBE) for superior shackle protection. When looking for the Ultimate in High Security Padlock Protection, the MUL-T-LOCK'S E-Series line of padlocks is your answer.\r\n\r\nFeatures:\r\nHardened Boron Alloy Shackle, and Body\r\nDrill and Pick Resistant Cylinder\r\nMUL-T-LOCK's Patented Interactive® Key Control System\r\nLimited Lifetime Mechanical Warranty",
+                "keywords": "E18-H, KW-E18HE1, KW-E18, Mul-T-Lock #18 E-Series Padlocks,  23/32  inch Shackle locks,   High Guard padlocks,  mul-t-lock e-series,  heavy duty padlocks,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Mul-T-Lock Discontinued",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Keying-Mortise: I Only Ordered One Lock",
+                "Keying-Mortise: Keyed Different",
+                "Keying-Mortise: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Keying-Mortise",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                }
+            ]
+        }
+    ]
+}

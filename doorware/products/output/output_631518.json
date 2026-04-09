@@ -1,0 +1,106 @@
+{
+    "legacy_product_id": "631518",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "River Rock Bronze Oval Towel Ring, Fusion TR-C6",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-TR-C6",
+            "mpn": "FUS-TR-C6",
+            "price": "109.0",
+            "compare_at_price": "109.0",
+            "contractor_price": "81.75",
+            "shipping_weight": "4.0",
+            "tags": [
+                "River Rock Bronze Oval Towel Rings",
+                "Fusion TR-C6",
+                "Oval Mount Towel Rings",
+                "FUS-TR-C6",
+                "traditional bathroom hardware",
+                "traditional bath towel rings",
+                "River Rock Hand Towel Ring with Oval Mounts"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-TR-C6-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-TR-C6-525.jpg?v=1711365518"
+        },
+        "text": {
+            "description_html": "<b>Fusion TR-C6, River Rock Hand Towel Ring with Oval Mounts</b>\r\n\r\n<p>\r\nEasy to install, this River Rock Bronze Oval Towel Ring comes packaged with all the necessary mounting hardware. This hand towel holder is great next to the bathroom sink. As part of Fusion's River Rock Collection, it features a simplistic, yet beautiful design and rich finishes. Choose from either medium bronze or dark bronze finishes.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"https://door-hardware-inc.myshopify.com/products/traditional-oval-mount-towel-bar-fusion-tb-c6\"><b>Fusion TB-C6 River Rock Towel Bar</b></a>, <a href=\"https://door-hardware-inc.myshopify.com/products/river-rock-bronze-oval-robe-hook-fusion-rh-c6\"><b>Fusion RH-C6 River Rock Robe Hook</b></a>, and <a href=\"https://door-hardware-inc.myshopify.com/products/oval-mount-toilet-tissue-holder-fusion-ph-c6\"><b>Fusion PH-C6 River Rock Toilet Paper Holder</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Bronze Scalloped Hand Towel Ring:\r\n<ul>\r\n<li>Mount Width: 3\"</li>\r\n<li>Mount Length: 4-1/2\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "River Rock Bronze Oval Towel Ring, Fusion TR-C6",
+                "description": "Fusion TR-C6 River Rock Bronze Oval Towel Ring - Easy to install, this River Rock Bronze Oval Towel Ring comes packaged with all the necessary mounting hardware. This hand towel holder is great next to the bathroom sink. As part of Fusion's River Rock Collection, it features a simplistic, yet beautiful design and rich finishes. Choose from either medium bronze or dark bronze finishes.",
+                "keywords": "River Rock Bronze Oval Towel Rings, Fusion TR-C6, Oval Mount Towel Rings, FUS-TR-C6, traditional bathroom hardware, traditional bath towel rings, River Rock Hand Towel Ring with Oval Mounts"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "24"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "383122",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "41858",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "447055",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "41108",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "31431",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "303323",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MXB - Medium Bronze",
+                "Select Finish: DKB - Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MXB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DKB - Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

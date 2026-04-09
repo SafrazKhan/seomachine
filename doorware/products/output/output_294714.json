@@ -1,0 +1,237 @@
+{
+    "legacy_product_id": "294714",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin Estates Interior Latch, BAL-55xx",
+            "vendor": "Baldwin",
+            "status": "ACTIVE",
+            "sku": "BAL-55xx",
+            "mpn": "BAL-55xx",
+            "price": "108.0",
+            "compare_at_price": "108.0",
+            "contractor_price": "108.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Baldwin Estates Interior Latch",
+                "BAL-55xx baldwin door latches",
+                "Baldwin 5510",
+                "Baldwin 5523",
+                "Baldwin 5520",
+                "Baldwin 5523",
+                "Baldwin 5510.xxx.P",
+                "Baldwin 5523.xxx.P",
+                "Baldwin 5520.xxx.P",
+                "Baldwin 5523.xxx.P",
+                "baldwin backsets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Baldwin Estates Interior Latch</b>\r\n\r\n<p>\r\nLatches for use with <a href=\"/collections/baldwin-estates-door-lever-sets\"><b>Baldwin Estates Levers</b></a> or <a href=\"/collections/baldwin-estates-door-knob-sets\"><b>Baldwin Estates Knobs</b></a> sets.  Available in Passage (Hall/Closet) or Privacy (Bed/Bath) function and in 2 3/8\" or 2 3/4\" backset.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of Baldwin 55xx Latches:\r\n<ul>\r\n<li>Hub Rotation 28 degrees for easy turning</li>\r\n<li>Bolt Head features anti-friction insert for smooth operation</li>\r\n<li>Latches have a 1/2\" throw</li>\r\n<li>Latch Bolts are non-handed </li>\r\n<li>Fully adjustable fronts for use on beveled doors</li>\r\n<li>Lever strength latches manufactured with heavy duty springs</li>\r\n<li>Supplied with 1\" (25mm) face plate</li>\r\n<li>Includes Standard Box T-Strike</li>\r\n<li>Includes Wood Fasteners and Template</li>\r\n<li>Includes Dust Box - 55100</li>\r\n<li>Includes 3.5\" Spindle</li>\r\n<li>Privacy Button included with Privacy Latches</li>\r\n</ul>\r\n</p>\r\n\r\n<p><b>For doors thicker than 1 3/4\" or use with escutcheon plates, a longer spindle is needed</b></p>",
+            "seo": {
+                "title": "Baldwin Estates Interior Latch, BAL-55xx",
+                "description": "Latches for use with Baldwin Estates Levers or Baldwin Estates Knobs sets.  Available in Passage (Hall/Closet) or Privacy (Bed/Bath) function and in 2 3/8 or 2 3/4  backset.",
+                "keywords": "Baldwin Estates Interior Latch, BAL-55xx baldwin door latches, Baldwin 5510, Baldwin 5523, Baldwin 5520, Baldwin 5523, Baldwin 5510.xxx.P, Baldwin 5523.xxx.P, Baldwin 5520.xxx.P, Baldwin 5523.xxx.P, baldwin backsets,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "944781",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "340092",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "275077",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "227181",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 003: PVD Polished Brass",
+                "Select Finish: 033: Vintage Brass",
+                "Select Finish: 050: Satin Brass and Black",
+                "Select Finish: 060: Satin Brass and Brown",
+                "Select Finish: 102: Oil Rubbed Bronze",
+                "Select Finish: 112: Venetian Bronze",
+                "Select Finish: 190: Satin Black",
+                "Select Finish: 260: Polished Chrome",
+                "Select Finish: 055: PVD Polished Nickel",
+                "Select Finish: 056: PVD Satin Nickel",
+                "Select Function and Backset: 5510: Knob-Strength Passage Latch, 2-3/8in. Backset",
+                "Select Function and Backset: 5513: Lever-Strength Passage Latch, 2-3/8in. Backset",
+                "Select Function and Backset: 5520: Knob-Strength Passage Latch, 2-3/4in. Backset",
+                "Select Function and Backset: 5523: Lever-Strength Passage Latch, 2-3/4in. Backset",
+                "Select Function and Backset: 5510.xxx.P: Knob-Strength Privacy Latch, 2-3/8in. Backset",
+                "Select Function and Backset: 5513.xxx.P: Lever-Strength Privacy Latch, 2-3/8in. Backset",
+                "Select Function and Backset: 5520.xxx.P: Knob-Strength Privacy Latch, 2-3/4in. Backset",
+                "Select Function and Backset: 5523.xxx.P: Lever-Strength Privacy Latch, 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "003: PVD Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "033: Vintage Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "050: Satin Brass and Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "060: Satin Brass and Brown",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "102: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "112: Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "190: Satin Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "260: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "055: PVD Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "056: PVD Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Function and Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "5510: Knob-Strength Passage Latch, 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5513: Lever-Strength Passage Latch, 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5520: Knob-Strength Passage Latch, 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5523: Lever-Strength Passage Latch, 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5510.xxx.P: Knob-Strength Privacy Latch, 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5513.xxx.P: Lever-Strength Privacy Latch, 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5520.xxx.P: Knob-Strength Privacy Latch, 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5523.xxx.P: Lever-Strength Privacy Latch, 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

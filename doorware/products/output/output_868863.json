@@ -1,0 +1,202 @@
+{
+    "legacy_product_id": "868863",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "First Impression Pull Refinishing Service",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-REFINISH",
+            "mpn": "FII-REFINISH",
+            "price": "339.2",
+            "compare_at_price": "424.0",
+            "contractor_price": "339.2",
+            "shipping_weight": "0.0",
+            "tags": [
+                "First Impression Pull Refinishing Service"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52541.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52541.gif?v=1716426155"
+        },
+        "text": {
+            "description_html": "<b>First Impression Refinishing Service</b>\r\n\r\n<p>\r\nRefinishing charge for First Impressions wrap around brackets.\r\n</p>",
+            "seo": {
+                "title": "First Impression Pull Refinishing Service",
+                "description": "Refinishing charge for First Impressions wrap around brackets.",
+                "keywords": "First Impression Pull Refinishing Service"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Custom-Misc-Items",
+                    "sort": "117"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: PLB: Polished Brass",
+                "Select Finish: SNB: Satin Brass",
+                "Select Finish: ATB: Antique Brass",
+                "Select Finish: ABG: Aged Brass",
+                "Select Finish: PNN: Polished Nickel",
+                "Select Finish: SNN: Satin Nickel",
+                "Select Finish: PLC: Polished Chrome",
+                "Select Finish: SNC: Satin Chrome",
+                "Select Finish: PWR: Pewter",
+                "Select Finish: MBK: Matte Black",
+                "Select Finish: VNB: Venetian Bronze",
+                "Select Finish: ORB: Oil Rubbed Bronze",
+                "Select Finish: DBZ: Durobronze",
+                "Select Finish: LTH: Lithonia",
+                "Select Finish: PSS: Polished Stainless Steel",
+                "Select Size: 18 Inch",
+                "Select Size: 24 Inch"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PLB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SNB: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ATB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ABG: Aged Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PNN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SNN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PLC: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SNC: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PWR: Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MBK: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "VNB: Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ORB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DBZ: Durobronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LTH: Lithonia",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PSS: Polished Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "18 Inch",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "24 Inch",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

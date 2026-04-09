@@ -1,0 +1,166 @@
+{
+    "legacy_product_id": "857592",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "New York Triple Toggle Plate, Grandeur NYKSWPLTT3",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-NYKSWPLTT3",
+            "mpn": "GRA-NYKSWPLTT3",
+            "price": "46.99",
+            "compare_at_price": "58.5",
+            "contractor_price": "46.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "New York Triple Toggle Light Switch Covers",
+                "GRA-NYKSWPLTT3",
+                "New York Triple Toggle Plates",
+                "Grandeur NYKSWPLTT3",
+                "New York Triple Toggle Switch Plates",
+                "Grandeur New York Toggle Switch Plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-NYKSWPLTT3-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-NYKSWPLTT3-525.jpg?v=1716426077"
+        },
+        "text": {
+            "description_html": "<b>Grandeur NYKSWPLTT3, New York Triple Toggle Light Switch Cover</b>\r\n\r\n<p>\r\nThe New York Triple Toggle Plate is a great way to update your space. The classic look of the New York Triple Toggle Switch Plate has a timelessness that means that it can fit into both traditional or contemporary homes. It is available in a wide selection of finishes and comes packaged with all the necessary mounting hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur New York Toggle Switch Plate:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 4-5/8\"</li>\r\n<li>Width: 6-1/4\"</li>\r\n<li>Projection: 5/16\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "New York Triple Toggle Plate",
+                "description": "The New York Triple Toggle Plate is a great way to update your space. The classic look of the New York Triple Toggle Switch Plate has a timelessness that means that it can fit into both traditional or contemporary homes. It is available in a wide selection of finishes and comes packaged with all the necessary mounting hardware.",
+                "keywords": "New York Triple Toggle Light Switch Covers, GRA-NYKSWPLTT3, New York Triple Toggle Plates, Grandeur NYKSWPLTT3, New York Triple Toggle Switch Plates, Grandeur New York Toggle Switch Plates,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "4-5/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "6-1/4\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "5/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Electrical Outlet &amp; Switch Plates",
+                    "sort": "98"
+                },
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "52"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "857553",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "857246",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "449259",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "857581",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "823010",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 4-5/8\"",
+                "Width: 6-1/4\"",
+                "Projection: 5/16\"",
+                "Select Finish: AP: Antique Pewter",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: TB: Timeless Bronze",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: ULB: Unlacquered Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ULB: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

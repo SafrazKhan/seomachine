@@ -1,0 +1,137 @@
+{
+    "legacy_product_id": "192947",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Wire Style Solid Cast Bronze Appliance Pull, Hamilton AP-112",
+            "vendor": "Hamilton",
+            "status": "ARCHIVED",
+            "sku": "HAMI-AP-112",
+            "mpn": "HAMI-AP-112",
+            "price": "130.75",
+            "compare_at_price": "163.44",
+            "contractor_price": "124.25",
+            "shipping_weight": "5.0",
+            "tags": [
+                "HAMI-AP-112",
+                "AP-112-15",
+                "AP-112-18",
+                "AP-112-24",
+                "AP-112-30",
+                "Wire Style Solid Cast Bronze Appliance Pulls",
+                "Hamilton AP-112 appliance pulls",
+                "hamilton bronze appliance pulls",
+                "hamilton drawer pulls",
+                "hamilton 112 series",
+                "hamilton sinkler appliance handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/hamilton-ap-112_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/hamilton-ap-112_525.jpg?v=1717105729"
+        },
+        "text": {
+            "description_html": "<b>Wire Style Solid Cast Bronze Appliance Pull</b>\r\n<p>Traditional Style pull for your refrigerator or other appliances, cast in solid bronze with high quality craftsmanship. Available in lengths of 15\", 18\", 24\", and 30\". It features circular mounts.</p>\r\n\r\n<p>\r\nThe Hamilton AP-112 pulls are packaged standard for Thrubolt Mounting for a Refrigerator/Appliance panel.\r\n</p>\r\n\r\n<p>\r\nLarge \"vacuum\" sealed doors such as the those found on Sub Zero refrigerators are recommended to have 18\" or longer pulls installed to effectively pull open it.\r\n</p>\r\n\r\n<p>\r\n<b>Available in 4 lengths:</b>\r\n<ul>\r\n<li><b>AP-112-15-BP:</b>  Center to Center Hole Spacing: 15\" </li>\r\n<li><b>AP-112-18-BP:</b>  Center to Center Hole Spacing: 18\" </li>\r\n<li><b>AP-112-24-BP:</b>  Center to Center Hole Spacing: 24\" </li>\r\n<li><b>AP-112-30-BP:</b>  Center to Center Hole Spacing: 30\" </li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the bronze appliance pulls:\r\n<ul>\r\n<li>Projection: 2-1/8\"</li>\r\n<li>Pull Diameter: 5/8\"</li>\r\n<li>Bronze Patina finish over Solid Cast Bronze</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AP-112.pdf?v=1704262224\" target=\"new\"><b>Hamilton AP-112 Specifications (PDF)</b></a></li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Wire Style Solid Cast Bronze Appliance Pull, Hamilton AP-112",
+                "description": "Hamilton AP-112 - Wire Style pull for your refrigerator or other appliance, cast in solid bronze with high quality craftsmanship. Available in lengths of 15 inches, 18 inches, 24 inches and 30 inches.",
+                "keywords": "HAMI-AP-112, AP-112-15, AP-112-18, AP-112-24, AP-112-30, Wire Style Solid Cast Bronze Appliance Pulls, Hamilton AP-112 appliance pulls, hamilton bronze appliance pulls, hamilton drawer pulls, hamilton 112 series, hamilton sinkler appliance handles,"
+            },
+            "specifications": [
+                {
+                    "key": "Projection",
+                    "value": "2-1/8\""
+                },
+                {
+                    "key": "Pull Diameter",
+                    "value": "5/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Hamilton Discontinued",
+                    "sort": "55"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "192866",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "192864",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "192950",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "29524",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "192922",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Projection: 2-1/8\"",
+                "Pull Diameter: 5/8\"",
+                "Select Pull Length: AP-112-15-BP: Center to Center Hole Spacing: 15in.",
+                "Select Pull Length: AP-112-18-BP: Center to Center Hole Spacing: 18in.",
+                "Select Pull Length: AP-112-24-BP: Center to Center Hole Spacing: 24in.",
+                "Select Pull Length: AP-112-30-BP: Center to Center Hole Spacing: 30in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Pull Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AP-112-15-BP: Center to Center Hole Spacing: 15in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "HAM-AP-112-15-BP:"
+                },
+                {
+                    "value": "AP-112-18-BP: Center to Center Hole Spacing: 18in.",
+                    "price_impact": 33.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "HAM-AP-112-18-BP:"
+                },
+                {
+                    "value": "AP-112-24-BP: Center to Center Hole Spacing: 24in.",
+                    "price_impact": 82.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "HAM-AP-112-24-BP:"
+                },
+                {
+                    "value": "AP-112-30-BP: Center to Center Hole Spacing: 30in.",
+                    "price_impact": 131.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "HAM-AP-112-30-BP:"
+                }
+            ]
+        }
+    ]
+}

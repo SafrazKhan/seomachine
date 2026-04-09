@@ -1,0 +1,132 @@
+{
+    "legacy_product_id": "254232",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Modern Cube Shower Door Knobs, Pair, First Impressions SD-CUBE-100",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-SD-CUBE-100",
+            "mpn": "FII-SD-CUBE-100",
+            "price": "143.84",
+            "compare_at_price": "179.8",
+            "contractor_price": "136.65",
+            "shipping_weight": "1.0",
+            "tags": [
+                "FII-SD-CUBE-100 Modern Cube Shower Door Knobs",
+                "Modern Square Shower Door Knobs",
+                "First Impressions SD-CUBE-100 small square shower door knobs",
+                "1 inch square  Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-SD-CUBE-100_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-SD-CUBE-100_525.jpg?v=1716422482"
+        },
+        "text": {
+            "description_html": "<b>First Impressions 1 Inch Modern Cube Shower Door Knobs</b>\r\n<p>\r\nVery modern designed glass shower  knobs made of 1\" cubed solid brass by First Impressions, a leader manufacture in  contemporary pulls. Truly eye catching modern appearance. \r\n</p>\r\n<p>\r\nThis is a brand <b>New Design</b> - <b>Limited Supply!</b>\r\n</p>\r\n<p>\r\nTo keep the ultra modern appearance of this cube knob, please note that the corners are sharp and crisp, and the manufacture does not recommend  installing this item around small children. \r\n</p>\r\n<p>\r\n<b>Specifications</b> for First Impressions SD-CUBE-100  Shower Door Knob\r\n<ul>\r\n<li>Projection: 1-5/8\"</li>\r\n<li>Diameter: 1\" Cube</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Finish: Your choice of <b>Satin Nickel</b> or <b>Polished Chrome</b></li> \r\n</ul>\r\n</p>\r\n<p>\r\nPackaged with 2 knobs and includes all the hardware for back to back mounting (pulls hook to each other) on 1/4\" to 1/2\" thick glass shower doors.\r\n</p>\r\n<p>\r\n<b>*Sold as a Pair (2 Pull Knobs)</b>\r\n</p>",
+            "seo": {
+                "title": "Modern Cube Shower Door Knobs, Pair, First Impressions SD-CUBE-100",
+                "description": "First Impressions SD-CUBE-100 - First Impressions 1 inch modern square glass shower knobs. Sold as a pair in Polished Chrome or Satin Nickel finish.",
+                "keywords": "FII-SD-CUBE-100 Modern Cube Shower Door Knobs, Modern Square Shower Door Knobs, First Impressions SD-CUBE-100 small square shower door knobs, 1 inch square  Knobs,"
+            },
+            "specifications": [
+                {
+                    "key": "Projection",
+                    "value": "1-5/8\""
+                },
+                {
+                    "key": "Diameter",
+                    "value": "1\" Cube"
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Your choice of Satin Nickel or Polished Chrome"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "46"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "249536",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "212269",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "213918",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "211711",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "231547",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "213065",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "238391",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "247906",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Projection: 1-5/8\"",
+                "Diameter: 1\" Cube",
+                "Material: Solid Brass",
+                "Finish: Your choice of Satin Nickel or Polished Chrome",
+                "Select Finish: FII-SD-CUBE-100-US26 - Polished Chrome",
+                "Select Finish: FII-SD-CUBE-100-US15 - Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-SD-CUBE-100-US26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-SD-CUBE-100-US15 - Satin Nickel",
+                    "price_impact": 5.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

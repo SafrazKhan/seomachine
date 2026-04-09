@@ -1,0 +1,120 @@
+{
+    "legacy_product_id": "1175618",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "2.75 x 1.75  Full Lip Stainless Steel Strike Plate",
+            "vendor": "Don-Jo",
+            "status": "ARCHIVED",
+            "sku": "DJO-STRIKE-2.75x1.75",
+            "mpn": "DJO-STRIKE-2.75x1.75",
+            "price": "57.0",
+            "compare_at_price": "57.0",
+            "contractor_price": "57.0",
+            "shipping_weight": "0.1",
+            "tags": [
+                "2.75 x 1.75  full lip Stainless Steel Strike Plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525217.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525217.gif?v=1716428775"
+        },
+        "text": {
+            "description_html": "<b>Full Lip Strike Plate</b>\r\n\r\n<p>\r\nCustom sized steel door latch Full Lip strike plate. Packaged with #9 x 3/4\" wood screws for easy installation. \r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> for the Don-Jo Full Lip Strike Plate:\r\n<ul>\r\n<li>Material: Stainless Steel</li>\r\n<li>Total Length: 1.75\"</li>\r\n<li>Base Height: 2.75\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Custom item. Final Sale</b>\r\n</p>",
+            "seo": {
+                "title": "2.75 x 1.75  Full Lip Stainless Steel Strike Plate",
+                "description": "Custom sized steel door latch full lip strike plate. Packaged with #9 x 3/4 wood screws for easy installation.",
+                "keywords": "2.75 x 1.75  full lip Stainless Steel Strike Plates"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Stainless Steel"
+                },
+                {
+                    "key": "Total Length",
+                    "value": "1.75\""
+                },
+                {
+                    "key": "Base Height",
+                    "value": "2.75\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Custom Items",
+                    "sort": "88"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "955085",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "955126",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "327689",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Material: Stainless Steel",
+                "Total Length: 1.75\"",
+                "Base Height: 2.75\"",
+                "Select Finish: 630: Satin Stainless Steel",
+                "Select Finish: DU: Dark Bronze",
+                "Select Finish: 622: Black",
+                "Select Finish: BP: Brass Plate"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "630: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "622: Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BP: Brass Plate",
+                    "price_impact": 47.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

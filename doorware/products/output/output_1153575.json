@@ -1,0 +1,103 @@
+{
+    "legacy_product_id": "1153575",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Transitional 5 Inch Cabinet Pull, Laurey 519",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "LAU-519",
+            "mpn": "LAU-519",
+            "price": "8.45",
+            "compare_at_price": "11.26",
+            "contractor_price": "8.03",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Laurey 519",
+                "5 Inch Transitional Cabinet Pulls",
+                "Transitional 5 Inch Cabinet Pulls",
+                "Nantucket 128mm Pulls",
+                "Laurey nantucket cabinet pulls",
+                "Laurey 51906",
+                "Laurey 51920",
+                "Laurey 51939"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LAU-519-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-519-525.jpg?v=1716428488"
+        },
+        "text": {
+            "description_html": "<b>Laurey 519, 5 Inch Transitional Cabinet Pull</b>\r\n\r\n\r\n<p>\r\nThe Transitional 5 Inch Cabinet Pull will look great in almost any home decor setting. Its sleek style is great for modern kitchen remodels while its mounts give it a classic feel. Transitional Cabinet Hardware makes choosing a cabinet pull easy because no matter how your style might change with time, you can be sure that your kitchen cabinet knobs will look great for years to come. The 5 Inch Transitional Cabinet Pull will come in the finish color you choose and packaged with the mounting hardware. \r\n</p>\r\n\r\n<p>\r\nThis cabinet pull is part of the <a href=\"//search?type=product&q=Laurey+Nantucket\">Laurey Nantucket Collection</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Laurey Transitional Cabinet Pull:\r\n<ul>\r\n<li>Material: Steel</li>\r\n<li>Length c.c. (center to center): 5\"</li>\r\n<li>Overall Length: 6-1/2\"</li>\r\n<li>Width: 1/4\"</li>\r\n<li>Projection: 1-3/8\"</li>\r\n<li>Packaged with 1\" long #8-32 screws and 1-1/2\"  long #8-32 screws.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Transitional 5 Inch Cabinet Pull",
+                "description": "The Transitional 5 Inch Cabinet Pull will look great in almost any home decor setting. Its sleek style is great for modern kitchen remodels while its mounts give it a classic feel. Transitional Cabinet Hardware makes choosing a cabinet pull easy because no matter how your style might change with time, you can be sure that your kitchen cabinet knobs will look great for years to come. The 5 Inch Transitional Cabinet Pull will come in the finish color you choose and packaged with the mounting hardware.",
+                "keywords": "Laurey 519, 5 Inch Transitional Cabinet Pulls, Transitional 5 Inch Cabinet Pulls, Nantucket 128mm Pulls, Laurey nantucket cabinet pulls, Laurey 51906, Laurey 51920, Laurey 51939,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Laurey Cabinet Pulls",
+                    "sort": "96"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "882695",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1148960",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1095032",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1054809",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1145745",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: LAU-51939: Satin Nickel",
+                "Select Finish: LAU-51920: Matte Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LAU-51939: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-51939-SM.jpg?v=1774582044",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-51939-LG.jpg?v=1711366619"
+                },
+                {
+                    "value": "LAU-51920: Matte Black",
+                    "price_impact": 0.24,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-51920-SM.jpg?v=1774582047",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-51920-LG.jpg?v=1711366620"
+                }
+            ]
+        }
+    ]
+}

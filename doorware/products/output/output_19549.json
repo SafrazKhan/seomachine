@@ -1,0 +1,112 @@
+{
+    "legacy_product_id": "19549",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Design Hardware 316 High Performance Door Closer",
+            "vendor": "Design Hardware",
+            "status": "ARCHIVED",
+            "sku": "DES-316",
+            "mpn": "DES-316",
+            "price": "162.5",
+            "compare_at_price": "182.45",
+            "contractor_price": "162.5",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Design Hardware 316 High Performance Door Closers",
+                "adjustable 1 - 6 spring size closers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Design Hardware 316 High Performance Door Closer</b>\r\n<p>High performance tri-packed door closer for regular, topjamb or parallel arm mounting. Standard 12\" horizontal by 3/4\" vertical mounting pattern. \r\n</p>\r\n*Meets ANSI A156.4 Grade 1 Standards<br><br>\r\n*UL Listed<br><br>\r\n*Non Handed<br><br>\r\n*Adjustable Spring Power from size 1 to 6<br><br>\r\n*Heavy Duty Aluminum Closer Body<br><br>\r\n*Back Check Control standard<br><br>\r\n*Latch Speed & Sweep Speed Control<br><br>\r\n*Aluminum and Dark Bronze painted finishes<br><br>\r\n*Parallel Arm Bracket Included<br><br>\r\n*Through Bolts included<br><br>\r\n*Wood and Machine screw fasteners<br><br>\r\n*Molded Cover included<br><br>\r\n</p>\r\n<p>\r\n<b>\r\nInstallation Guide: <a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/316series_install.pdf?v=1704262176\" target=\"new\">Click here to download. (PDF).</a></b>\r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/handicap-logo.jpg?v=1704353001\">\r\n</p>\r\n\r\n<p>\r\nClick below to choose the different options:\r\n</p>",
+            "seo": {
+                "title": "Design Hardware 316 High Performance Door Closer",
+                "description": "Design Hardware 316 High Performance tri-packed Door Closer. ADA compliant, adjustable 1 - 6 spring size, non-handed with moulded cover.",
+                "keywords": "Design Hardware 316 High Performance Door Closers, adjustable 1 - 6 spring size closers,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Design Hardware Door Closers",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: DES-316AL - Aluminum Finish",
+                "Select Finish: DES-316BZ - Bronze Finish",
+                "Select Hold Open Option: No Thanks",
+                "Select Hold Open Option: 316AL Hold Open Arm in Aluminum Finish",
+                "Select Hold Open Option: 316BZ Hold Open Arm in Bronze Finish"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DES-316AL - Aluminum Finish",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DES-316AL"
+                },
+                {
+                    "value": "DES-316BZ - Bronze Finish",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DES-316BZ"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Hold Open Option",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "No Thanks",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "No"
+                },
+                {
+                    "value": "316AL Hold Open Arm in Aluminum Finish",
+                    "price_impact": 20.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "316AL"
+                },
+                {
+                    "value": "316BZ Hold Open Arm in Bronze Finish",
+                    "price_impact": 20.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "316BZ"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "legacy_product_id": "43431",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Contemporary Aluminum Cabinet Pull, Omnia AL406",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-AL406",
+            "mpn": "OMN-AL406",
+            "price": "15.6",
+            "compare_at_price": "19.5",
+            "contractor_price": "14.8",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Omnia AL406 Aluminum Door Pulls",
+                "omnia al406 contemporary aluminum cabinet pulls",
+                "al406/89",
+                "al406/152",
+                "al406/229",
+                "modern cabinet hardware",
+                "aluminum cabinet hardware omnia",
+                "cabinet handles aluminum",
+                "durable cabinet knobs",
+                "aluminum drawer pulls",
+                "sleek aluminum cabinet pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-brass-AL406_300x3351.jpg",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Omnia AL406 Aluminum Cabinet Pull</b>\r\n<p>\r\nWith its streamlined design, this aluminum pulls brings a strikingly modern touch to any cabinet door or drawer. Available in 3-1/2 inch, 6 inch, and 9 inch lengths. For more than 40 years, Omnia has painstakingly adhered to the standards quality that has become synonymous with their name. The beautiful aluminum (US28) finish only adds to the allure. The shape of this cabinet pull is not only stylish, it is also comfortable to the hand--making the Omnia made Contemporary Cabinet Knob one of the best choices if you are looking to add modern elegance that is both beautiful and functional.\r\n</p>\r\n<p>\r\nOmnia's line of sophisticated Aluminum cabinet hardware have been painstakingly crafted by artisans who understand that a beautiful design must be as comfortable to the hand as it is pleasing to the eyes.\r\n</p>\r\n<p>\r\n<b>Available in 3 Sizes:</b>\r\n<ul>\r\n<li><b>OMN-AL406/89</b> - Center to Center Mount Hole Spacing: 3-1/2\", Overall Length: 5-1/2\", Projection: 1-3/16\"</li>\r\n<li><b>OMN-AL406/152</b> - Center to Center Mount Hole Spacing: 6\", Overall Length: 8\", Projection: 1-3/16\"</li>\r\n<li><b>OMN-AL406/229</b> - Center to Center Mount Hole Spacing: 9\", Overall Length: 12-5/8\", Projection: 1-3/16\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<br><br><b>*This item is Discontinued</b><br>\r\n</p>",
+            "seo": {
+                "title": "Contemporary Aluminum Cabinet Pull, Omnia AL406",
+                "description": "Omnia AL406 Aluminum Door Pull - With its streamlined design, this aluminum pulls brings a strikingly modern touch to any cabinet door or drawer. Available in 3-1/2 inch, 6 inch, and 9 inch lengths. For more than 40 years, Omnia has painstakingly adhered to the standards quality that has become synonymous with their name. The beautiful aluminum (US28) finish only adds to the allure. The shape of this cabinet pull is not only stylish, it is also comfortable to the hand--making the Omnia made Contemporary Cabinet Knob one of the best choices if you are looking to add modern elegance that is both beautiful and functional.",
+                "keywords": "Omnia AL406 Aluminum Door Pulls, omnia al406 contemporary aluminum cabinet pulls, al406/89, al406/152, al406/229,  modern cabinet hardware, aluminum cabinet hardware omnia, cabinet handles aluminum, durable cabinet knobs, aluminum drawer pulls, sleek aluminum cabinet pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "247902",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "247904",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "213065",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "187972",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "247906",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "42129",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Size: OMN-AL406/89 - Center to Center Hole Spacing: 3-1/2in.",
+                "Select Size: OMN-AL406/152 - Center to Center Hole Spacing: 6in.",
+                "Select Size: OMN-AL406/229 - Center to Center Hole Spacing: 9in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-AL406/89 - Center to Center Hole Spacing: 3-1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-AL-406/89"
+                },
+                {
+                    "value": "OMN-AL406/152 - Center to Center Hole Spacing: 6in.",
+                    "price_impact": 0.9,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-AL-406/152"
+                },
+                {
+                    "value": "OMN-AL406/229 - Center to Center Hole Spacing: 9in.",
+                    "price_impact": 6.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-AL-406/229"
+                }
+            ]
+        }
+    ]
+}

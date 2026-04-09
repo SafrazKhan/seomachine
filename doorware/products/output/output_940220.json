@@ -1,0 +1,198 @@
+{
+    "legacy_product_id": "940220",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4-1/2 x 4-1/2 x Square Corners Solid Brass Hinge, Pair, Emtek 96215",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-96215",
+            "mpn": "EMT-96215",
+            "price": "70.56",
+            "compare_at_price": "70.56",
+            "contractor_price": "70.56",
+            "shipping_weight": "2.1",
+            "tags": [
+                "4-1/2 x 4-1/2 x Square Corners Solid Brass Hinge",
+                "Pair",
+                "Emtek 96215"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/96215-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/96215-525.jpg?v=1716427004"
+        },
+        "text": {
+            "description_html": "<b>Emtek 96215, 4-1/2\" x 4-1/2\" Solid Brass Hinge</b>\r\n\r\n<p>\r\nPackage includes a pair of hinges (2), matching solid brass flathead, Phillips Drive #12 x 1-1/4\" wood screws screws and standard removable button tip finials. \r\n</p>\r\n\r\n<p>\r\nFitted with a high grade, removable, rust resistant, stainless steel pin. Utilizes template screw hole pattern for use with wood or metal doors.\r\n</p>\r\n\r\n\r\n\r\n<p>\r\n<b>Specifications</b> of the 4-1/2 Inch Solid Brass Hinges:\r\n<ul>\r\n<li>Hinge Material: Solid Brass</li>\r\n<li>Height: 4-1/2\"</li>\r\n<li>Width: 4-1/2\"</li>\r\n<li>Corners: Square</li>\r\n<li>Thickness: 0.13\"</li>\r\n<li>Standard Template Hole Pattern</li>\r\n<li>Hinge Pin: Stainless Steel</li>\r\n<li>Wood Screws: #12 x 1-1/4\"</li>\r\n</a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nWe offer different <a href=\"/pages/emtek-finish-colors\">finishes</a> for this hinge, but no matter which finish you choose, the parts will still be <b>High Quality Solid Brass</b>.\r\n</p>\r\n\r\n\r\n\r\n\r\n<p>\r\n<b>Sold in Pairs (2 Hinges)</b>\r\n</p>",
+            "seo": {
+                "title": "4-1/2 x 4-1/2 x Square Corners Solid Brass Hinge, Pair, Emtek 96215",
+                "description": "Emtek 96215- 4-1/2 x 4-1/2 Solid Brass Hinge. 0.13 thick. Available with square corners only. Package includes a pair of hinges, matching solid brass flathead, Phillips screws and standard removable button tip finials.",
+                "keywords": "4-1/2 x 4-1/2 x Square Corners Solid Brass Hinge, Pair, Emtek 96215"
+            },
+            "specifications": [
+                {
+                    "key": "Hinge Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Height",
+                    "value": "4-1/2\""
+                },
+                {
+                    "key": "Width",
+                    "value": "4-1/2\""
+                },
+                {
+                    "key": "Corners",
+                    "value": "Square"
+                },
+                {
+                    "key": "Thickness",
+                    "value": "0.13\""
+                },
+                {
+                    "key": "Hinge Pin",
+                    "value": "Stainless Steel"
+                },
+                {
+                    "key": "Wood Screws",
+                    "value": "#12 x 1-1/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Emtek Hinges",
+                    "sort": "99"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "8824",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "978114",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "61757",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "143157",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "61937",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Hinge Material: Solid Brass",
+                "Height: 4-1/2\"",
+                "Width: 4-1/2\"",
+                "Corners: Square",
+                "Thickness: 0.13\"",
+                "Hinge Pin: Stainless Steel",
+                "Wood Screws: #12 x 1-1/4\"",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: US7: French Antique",
+                "Select Finish: US10B:Oil Rubbed Bronze",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US15A: Antique Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US3NL: Unlacquered Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US7: French Antique",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B:Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3NL: Unlacquered Polished Brass",
+                    "price_impact": 44.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

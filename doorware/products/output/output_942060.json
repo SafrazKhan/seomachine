@@ -1,0 +1,216 @@
+{
+    "legacy_product_id": "942060",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Half Height Lockable Door Pull, Rockwood LP3301DBD",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "ROC-LP3301DBD",
+            "mpn": "ROC-LP3301DBD",
+            "price": "2510.69",
+            "compare_at_price": "2510.69",
+            "contractor_price": "2510.69",
+            "shipping_weight": "6.0",
+            "tags": [
+                "ROC-LP3301DBD",
+                "Half Height Lockable Door Pulls",
+                "Rockwood Half Height LP3301 Pulls",
+                "Rockwood LP3301"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ROW-LP3301-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ROW-LP3301-525.jpg?v=1716427031"
+        },
+        "text": {
+            "description_html": "<b>Rockwood LP3301DBD, 51\" Modern Locking Door Pull</b>\r\n\r\n<p>\r\nThe Half Height Lockable Door Pull mounts from the center of the door to the ground, covering half the height of the door. This Rockwood Half Height LP3301 Pull is lockable and locks into the threshold. The bolt is concealed in the pull for a clean, streamlined look and is operated by a key from the outside and a turn piece from the inside. Mounts to glass, wood, and metal doors.\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ROC-LP3301-specifications.gif?v=1774586816\" width=\"245\" height=\"301\" border=\"0\" alt=\"ROC-LP3301 Size\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Rockwood Half Height LP3301 Pull:\r\n<ul>\r\n<li>Pull Material: Brass</li>\r\n<li>Total Length: 51\"</li>\r\n\r\n<li>Handle Diameter: 1-1/4\"</li>\r\n<li>Door Thickness: 1/2\"</li>\r\n<li>Bolt location: 2\" from face of door to center line of bolt</li>\r\n<li>Bolt has 13/16\" travel with fine adjustment</li>\r\n<li>Cylinder type: Yale</li>\r\n<li>Mounts to glass, metal, and wood doors</li>\r\n<li>Non-handed</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. NOT Returnable</i>\r\n</p>",
+            "seo": {
+                "title": "Half Height Lockable Door Pull",
+                "description": "The Half Height Lockable Door Pull mounts from the center of the door to the ground, covering half the height of the door. This Rockwood Half Height LP3301 Pull is lockable and bolts into the threshold. It is operated by a key from the outside and a turn piece from the inside. ",
+                "keywords": "ROC-LP3301DBD, Half Height Lockable Door Pulls, Rockwood Half Height LP3301 Pulls, Rockwood LP3301,"
+            },
+            "specifications": [
+                {
+                    "key": "Pull Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Total Length",
+                    "value": "51\""
+                },
+                {
+                    "key": "Handle Diameter",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Door Thickness",
+                    "value": "1/2\""
+                },
+                {
+                    "key": "Bolt location",
+                    "value": "2\" from face of door to center line of bolt"
+                },
+                {
+                    "key": "Cylinder type",
+                    "value": "Yale"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Rockwood Door Pulls",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "360469",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "803738",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "380384",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "412619",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "193687",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Pull Material: Brass",
+                "Total Length: 51\"",
+                "Handle Diameter: 1-1/4\"",
+                "Door Thickness: 1/2\"",
+                "Bolt location: 2\" from face of door to center line of bolt",
+                "Cylinder type: Yale",
+                "Select Finish: 605: Polished Brass",
+                "Select Finish: 606: Satin Brass",
+                "Select Door Thickness Range: 1/4in. to 1/2in.",
+                "Select Door Thickness Range: 5/8in. to 1in.",
+                "Select Door Thickness Range: 1-1/8in. to 1-1/2in.",
+                "Select Door Thickness Range: 1-5/8in. to 2in.",
+                "Select Door Thickness Range: 2-1/8 to 2-3/8in.",
+                "Select Door Thickness Range: 2-1/2in. to 3in.",
+                "Select Door Material: Metal",
+                "Select Door Material: Wood / Fiberglass",
+                "Select Door Material: Glass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "605: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "606: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness Range",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1/4in. to 1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5/8in. to 1in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-1/8in. to 1-1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-5/8in. to 2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-1/8 to 2-3/8in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-1/2in. to 3in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Material",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Metal",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Wood / Fiberglass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Glass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

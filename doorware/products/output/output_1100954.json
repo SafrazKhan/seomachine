@@ -1,0 +1,162 @@
+{
+    "legacy_product_id": "1100954",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Modern Cabinet Backplate for Knobs, Emtek 86921",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-86921",
+            "mpn": "EMT-86921",
+            "price": "7.99",
+            "compare_at_price": "9.0",
+            "contractor_price": "7.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Modern Rosette for Cabinet Knobs",
+                "Emtek 86921",
+                "Emtek Cabinet Knob Backplates",
+                "Modern Cabinet Backplate for Knobs",
+                "Rosette for Cabinet Knobs",
+                "Emtek 86921"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86921-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86921-525.jpg?v=1716428216"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86921, Modern Rosette for Cabinet Knobs</b>\r\n\r\n<p>\r\nThe Modern Cabinet Backplate for Knobs is the perfect finishing touch. From kitchen cabinets to furniture pieces, this cabinet knob rosette will add that extra detail that really makes a space pop. The Modern Rosette for Cabinet Knobs 4 inches x 1 inch and will work with many <a href=\"/collections/emtek-cabinet-hardware\">Emtek Cabinet Knobs</a>. The Modern Cabinet Backplates is available in all the contemporary finishes.\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86921-installed.jpg?v=1704354577\" width=\"337\" height=\"222\" border=\"0\" align=\"right\" alt=\"Emtek 86921 Installed\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Emtek Cabinet Knob Backplate:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Total Length: 4\"</li>\r\n<li>Total Height: 1\"</li>\r\n<li>Depth: 1/8\"</li>\r\n<li>Package includes (1) backplate.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86921-speicifcations.pdf?v=1704262425\"><b>Emtek Modern Cabinet Backplate for Knobs Dimensions Diagram (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-modern-5-Finishes.jpg?v=1704354501\" width=\"511\" height=\"111\" border=\"0\" alt=\"Emtek Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "Modern Cabinet Backplate for Knobs",
+                "description": "The Modern Cabinet Backplate for Knobs is the perfect finishing touch. From kitchen cabinets to furniture pieces, this cabinet Knob rosette will add that extra detail that really makes a space pop. The Modern Rosette for Cabinet Handles is available in a few sizes and will work with most Emtek Cabinet Knobs. The Modern Cabinet Backplates is available in all the contemporary finishes.",
+                "keywords": "Modern Rosette for Cabinet Knobs, Emtek 86921, Emtek Cabinet Knob Backplates, Modern Cabinet Backplate for Knobs, Rosette for Cabinet Knobs, Emtek 86921"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Total Length",
+                    "value": "4\""
+                },
+                {
+                    "key": "Total Height",
+                    "value": "1\""
+                },
+                {
+                    "key": "Depth",
+                    "value": "1/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Cabinet Hardware",
+                    "sort": "121"
+                },
+                {
+                    "name": "Cabinet Knob and Pull Rosettes",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1095032",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "760835",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "121036",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "925619",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1029661",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "918589",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Total Length: 4\"",
+                "Total Height: 1\"",
+                "Depth: 1/8\"",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US4: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "legacy_product_id": "254430",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "AHI Dummy Spindle for 206 Flush Rose",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-206-Rose-Spindle",
+            "mpn": "AHI-206-Rose-Spindle",
+            "price": "16.0",
+            "compare_at_price": "16.0",
+            "contractor_price": "16.0",
+            "shipping_weight": "0.1",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>AHI Dummy Spindle</b>\r\n<p>Dummy Spindle for use with AHI SIG 206 flush rose</p>\r\n<p>\r\n<b>*Special order item.</b>\r\n</p>",
+            "seo": {
+                "title": "AHI Dummy Spindle for 206 Flush Rose",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "AHI-Discontinued-and-Custom",
+                    "sort": "11"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

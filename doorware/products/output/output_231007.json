@@ -1,0 +1,48 @@
+{
+    "legacy_product_id": "231007",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Clear Powder Coat Finish",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "BRA-PCF",
+            "mpn": "BRA-PCF",
+            "price": "10.0",
+            "compare_at_price": "10.0",
+            "contractor_price": "10.0",
+            "shipping_weight": "0.0",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Clear Powder Coat Finish</b>\r\n<p>Surcharge for clear powder coat finish for Brass Accents product.\r\n</p>\r\n<p><b>10 Year Garantee</b>\r\n</p>",
+            "seo": {
+                "title": "Clear Powder Coat Finish",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Custom Size Plates",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

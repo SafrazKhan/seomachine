@@ -1,0 +1,97 @@
+{
+    "legacy_product_id": "189005",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Round Cup Flush Pulls 1-1/2 Inches, IVES 225B",
+            "vendor": "Ives",
+            "status": "ARCHIVED",
+            "sku": "IVES-225B",
+            "mpn": "IVES-225B",
+            "price": "35.0",
+            "compare_at_price": "35.0",
+            "contractor_price": "35.0",
+            "shipping_weight": "0.1",
+            "tags": [
+                "IVES-225B",
+                "Round Cup Flush Pulls 1-1/2 Inches",
+                "IVES 225B",
+                "flush cup pulls",
+                "solid brass round flush pulls",
+                "door flush pulls",
+                "pocket doors",
+                "handle for sliding door",
+                "sliding door handles",
+                "pocket door handle",
+                "pocket door pulls",
+                "Pocket Door Hardware."
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Wrought Brass Round Flush Pulls, IVES-225B</b>\r\n<p>\r\nThese round cup flush pulls install in the face of the door to pull door open and close.\r\n</p>\r\n\r\n<p>\r\nDimensions: \r\n<li>Overall Pull Diameter: 1-3/4\"</li>\r\n<li>Inside Cup Diameter: 1-1/2\"</li>\r\n<li>Cup Depth: 3/8\"</li>\r\n<li>Solid Brass</li>\r\n</p>\r\n<p>Sold Individually.\r\n</p>\r\n<br>\r\n<p>\r\n<b>** This item is discontinued. </b><br><br>\r\n<a href=\"/products/2-inch-round-cup-pull-omnia-9595-50\"><b>Omnia's Solid Brass Round Cup Pull, 9595/50</b></a>, is available with same inside cup/cutout diameter. \r\n</p>\r\n<br>\r\n<br>",
+            "seo": {
+                "title": "Round Cup Flush Pulls 1-1/2 Inches, IVES 225B",
+                "description": "IVES 225B Round Cup Flush Pulls 1-1/2 Inches. 1-3/4 inches overall diameter, 1-1/2 inches inside cup diameter. Wrought Brass Round Flush Pulls for sliding doors.",
+                "keywords": "IVES-225B, Round Cup Flush Pulls 1-1/2 Inches, IVES 225B, flush cup pulls,  solid brass round flush pulls, door flush pulls, pocket doors, handle for sliding door, sliding door handles, pocket door handle, pocket door pulls, Pocket Door Hardware."
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "Ives Discontinued or Special Order",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: IVES-225B3 - Polished Brass",
+                "Select Finish: IVES-225B15 - Satin Nickel",
+                "Select Finish: IVES-225B26 - Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "IVES-225B3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "IVES-225B3"
+                },
+                {
+                    "value": "IVES-225B15 - Satin Nickel",
+                    "price_impact": 0.28,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "IVES-225B15"
+                },
+                {
+                    "value": "IVES-225B26 - Polished Chrome",
+                    "price_impact": 0.45,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "IVES-225B26"
+                }
+            ]
+        }
+    ]
+}

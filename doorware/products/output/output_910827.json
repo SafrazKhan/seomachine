@@ -1,0 +1,91 @@
+{
+    "legacy_product_id": "910827",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Mortise Lock Body, Omnia 1500/A",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-1500/A",
+            "mpn": "OMN-1500/A",
+            "price": "328.0",
+            "compare_at_price": "328.0",
+            "contractor_price": "328.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Mortise Lock Body",
+                "Handleset Mortise Lock Body",
+                "Omnia 1500/A",
+                "OMN-1500/A"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52558.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52558.gif?v=1717106337"
+        },
+        "text": {
+            "description_html": "<b>Omnia 1500/A, Handleset Mortise Lock Body </b>\r\n\r\n<p>\r\nMortise lock body for Omnia double cylinder handleset with thumb lift exterior and knob interior. Does not include faceplate. The Handleset by Knob Mortise Lock Body has a 2-1/2 inch backset.\r\n</p>\r\n\r\n<p>\r\nSpecial ordered item. No Returns.\r\n</p>",
+            "seo": {
+                "title": "Mortise Lock Body",
+                "description": "Mortise lock body for Omnia handleset with thumb lift exterior and knob interior. Does not include faceplate. The Handleset Mortise Lock Body has a 2-1/2 inch backset.",
+                "keywords": "Mortise Lock Body, Handleset Mortise Lock Body, Omnia 1500/A, OMN-1500/A,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "62"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "12438",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "9215",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "815295",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Handing: OMN-1500/A.RH - Right Hand",
+                "Select Handing: OMN-1500/A.LH - Left Hand"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-1500/A.RH - Right Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "OMN-1500/A.LH - Left Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

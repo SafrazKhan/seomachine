@@ -1,0 +1,174 @@
+{
+    "legacy_product_id": "1217174",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Steel Wood Screw 12 x 3/4, Bag of 1000, Deltana SCWS1275",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-SCWS1275",
+            "mpn": "DEL-SCWS1275",
+            "price": "224.99",
+            "compare_at_price": "300.0",
+            "contractor_price": "213.75",
+            "shipping_weight": "0.05",
+            "tags": [
+                "DEL-SCWS1275",
+                "deltana SCWS1275",
+                "Steel Wood Screw 10275U3",
+                "DEL-SCWS1275U1B",
+                "DEL-SCWS1275U5",
+                "DEL-SCWS1275U10B",
+                "DEL-SCWS1275USPW",
+                "DEL-SCWS1275U15",
+                "DEL-SCWS1275U15A",
+                "DEL-SCWS1275U26",
+                "DEL-SCWS1275U26D"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-SCWS1275-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SCWS1275-525.jpg?v=1769501645"
+        },
+        "text": {
+            "description_html": "<b>Deltana SCWS1275,  #12 x 3/4\" Steel Wood Screw, Bag of 1000</b>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SCWS1275-specifications.gif?v=1774586582\" width=\"600\" height=\"213\" border=\"0\" alt=\"Deltana SCWS1210 #12 x 1 Inch Wood Screw\">\r\n</p>\r\n\r\n<p>\r\n<ul>\r\n<li>Material: Steel</li>\r\n<li>Screw Size: #12</li>\r\n<li>Length: .725\"</li>\r\n<li>Type: Wood Screw</li>\r\n<li>Head: Flat, Phillips Drive</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Steel Wood Screw 12 x 3/4, Bag of 1000",
+                "description": "Deltana Steel Wood Screw #12 x 3/4\" available in 9 different finishes.",
+                "keywords": "DEL-SCWS1275, deltana SCWS1275, Steel Wood Screw 10275U3, DEL-SCWS1275U1B, DEL-SCWS1275U5, DEL-SCWS1275U10B, DEL-SCWS1275USPW, DEL-SCWS1275U15, DEL-SCWS1275U15A, DEL-SCWS1275U26, DEL-SCWS1275U26D"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Installation Hardware",
+                    "sort": "17"
+                },
+                {
+                    "name": "Machine and Wood Screws",
+                    "sort": "23"
+                },
+                {
+                    "name": "Tools and Fasteners",
+                    "sort": "42"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "576446",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "154907",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "837847",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "282414",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1015404",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "334190",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: SCWS1275U1B: Black",
+                "Select Finish: SCWS1275U3: Polished Brass",
+                "Select Finish: SCWS1275U5: Antique Brass",
+                "Select Finish: SCWS1275U10B: Oil Rubbed Bronze",
+                "Select Finish: SCWS1275UU15: Satin Nickel",
+                "Select Finish: SCWS1275U15A: Antique Nickel",
+                "Select Finish: SCWS1275U26: Polished Chrome",
+                "Select Finish: SCWS1275U26D: Satin Chrome",
+                "Select Finish: SCWS1275UUSPW: Prime Coat White"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SCWS1275U1B: Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCWS1275U3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCWS1275U5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCWS1275U10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCWS1275UU15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCWS1275U15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCWS1275U26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCWS1275U26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCWS1275UUSPW: Prime Coat White",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

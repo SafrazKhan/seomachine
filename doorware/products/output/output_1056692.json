@@ -1,0 +1,188 @@
+{
+    "legacy_product_id": "1056692",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Modern Square Cabinet Knob, Deltana KS125",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-KS125",
+            "mpn": "DEL-KS125",
+            "price": "25.01",
+            "compare_at_price": "33.35",
+            "contractor_price": "23.76",
+            "shipping_weight": "1.0",
+            "tags": [
+                "DEL-KS125",
+                "Modern Square Cabinet Knobs",
+                "Deltana KS125",
+                "1-1/4 Inch Square Modern Cabinet Knobs",
+                "1-1/4 Square Cabinet Knobs",
+                "modern kitchen cabinet knobs",
+                "transitional cabinet hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-KS125-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-KS125-525.jpg?v=1716427999"
+        },
+        "text": {
+            "description_html": "<b>Deltana KS125, 1-1/4\" Square Cabinet Knob</b>\r\n\r\n<p>\r\nThe Modern Square Cabinet Knob is 1-1/4 inches square. It is available in a wide array of contemporary finish colors. The 1-1/4 Square Cabinet Knob comes packaged with the mounting hardware. Its modern design is great for any kitchen remodel. \r\n</p>\r\n\r\n<p align=\"left\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-KS125-specifications.gif?v=1704354610\" width=\"600\" height=\"226\" border=\"0\" alt=\"Deltana KS125 Cabinet Pull Size\">\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> for the Deltana KS125 Cabinet Knob:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Face Length: 1-1/4\" square</li>\r\n<li>Total Projection: 1-1/4\"</li>\r\n<li>Mount Width: 5/8\" square</li>\r\n<li>Mount Projection: 3/4\"</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-KS125-specifications.pdf?v=1704262417\" target=\"new\"><b>Deltana KS125 Dimensional Diagram (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Modern Square Cabinet Knob",
+                "description": "The Modern Square Cabinet Knob is 1-1/4 inches square. It is available in a wide array of contemporary finish colors. The 1-1/4 Square Cabinet Knob comes packaged with the mounting hardware. Its modern design is great for any kitchen remodel.",
+                "keywords": "DEL-KS125, Modern Square Cabinet Knobs, Deltana KS125, 1-1/4 Inch Square Modern Cabinet Knobs, 1-1/4 Square Cabinet Knobs, modern kitchen cabinet knobs,  transitional cabinet hardware,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Face Length",
+                    "value": "1-1/4\" square"
+                },
+                {
+                    "key": "Total Projection",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Mount Width",
+                    "value": "5/8\" square"
+                },
+                {
+                    "key": "Mount Projection",
+                    "value": "3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "41"
+                },
+                {
+                    "name": "Deltana Cabinet Hardware",
+                    "sort": "57"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "315517",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "234756",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "976915",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "562759",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "890294",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "238391",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "438510",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "900199",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "396635",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Face Length: 1-1/4\" square",
+                "Total Projection: 1-1/4\"",
+                "Mount Width: 5/8\" square",
+                "Mount Projection: 3/4\"",
+                "Select Finish: U19: Matte Black",
+                "Select Finish: U10B: Oil Rubbed Bronze",
+                "Select Finish: U4: Satin Brass",
+                "Select Finish: U14: Polished Nickel",
+                "Select Finish: U15: Satin Nickel",
+                "Select Finish: U26: Polished Chrome",
+                "Select Finish: U26D: Brushed Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26D: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

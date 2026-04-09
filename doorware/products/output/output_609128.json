@@ -1,0 +1,130 @@
+{
+    "legacy_product_id": "609128",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Back to Back Hardware for First Impressions Door Pulls",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-B2B Hardware",
+            "mpn": "FII-B2B Hardware",
+            "price": "80.0",
+            "compare_at_price": "100.0",
+            "contractor_price": "80.0",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Back to Back Hardware for First Impressions Door Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Back to Back Hardware for First Impressions Door Pulls</b><p>Back to Back Hardware for First Impressions Door Pulls.  Back to back set for one door pull</p>",
+            "seo": {
+                "title": "Back to Back Hardware for First Impressions Door Pulls",
+                "description": "Back to Back Hardware for First Impressions Door Pulls",
+                "keywords": "Back to Back Hardware for First Impressions Door Pulls"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "First Impressions Miscellaneous Parts",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Door Material: Wood or Metal",
+                "Select Door Material: Glass",
+                "Select Door Thickness Range: 1/4in. to 1/2in.",
+                "Select Door Thickness Range: 5/8in. to 1in.",
+                "Select Door Thickness Range: 1-1/8in. to 1-1/2in.",
+                "Select Door Thickness Range: 1-5/8in. to 2in.",
+                "Select Door Thickness Range: 2-1/8 to 2-1/2in.",
+                "Select Door Thickness Range: 2-5/8in. to 3in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Material ",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Wood or Metal",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Glass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness Range",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1/4in. to 1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5/8in. to 1in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-1/8in. to 1-1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-5/8in. to 2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-1/8 to 2-1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-5/8in. to 3in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

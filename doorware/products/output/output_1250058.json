@@ -1,0 +1,76 @@
+{
+    "legacy_product_id": "1250058",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3/4 Inch Offset Intermediate Pivot, Rixson M19",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "RIX-M19",
+            "mpn": "RIX-M19",
+            "price": "432.2",
+            "compare_at_price": "540.54",
+            "contractor_price": "432.2",
+            "shipping_weight": "4.0",
+            "tags": [
+                "3/4 Inch Offset Intermediate Pivot",
+                "Rixson M19"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525337.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525337.gif?v=1769495612"
+        },
+        "text": {
+            "description_html": "<b>Rixson M19 Commercial Intermediate Door Pivot Set</b>\r\n\r\n<p>\r\nThese 3/4\" offset intermediate pivots are engineered for durability for use on standard commercial doors. Set includes intermediate pivot with installation hardware. \r\n</p>\r\n\r\n\r\n\r\n\r\n<p>\r\n<b>Specifications:</b> for Rixson M19 Intermediate Door Pivot\r\n<ul>\r\n<li>Offset: 3/4\"</li>\r\n<li>Hinge Leaf Height: 5\"</li>\r\n<li>Hinge Leaf Width: 1-1/8\"</li>\r\n<li>Hinge Type: Full Mortise</li>\r\n<li><b>Finish: Satin Chrome</b></li>\r\n<li>Supplied with wood and machine screws</li>\r\n<li><b>Handed - Must specify left hand door or right hand door when ordering</b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Important</b> When selecting <b>Door Hand</b> for this pivot hinge: \r\n<br>\r\n1. Stand on the <b>Push Side</b> of the door, facing the door. <br>\r\n2. If the \"Pivot Hinge\" is on your \"Left\", choose \"Left Hand Door\". <br>\r\n3. If the \"Pivot Hinge\" is on your \"Right\", choose \"Right Hand Door\". <br>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/closer-handing.gif?v=1704354510\"  width=\"410\" height=\"195\" border=\"0\"alt=\"door handing\">\r\n</p>",
+            "seo": {
+                "title": "3/4 Inch Offset Intermediate Pivot",
+                "description": "These 3/4\" offset intermediate pivots are engineered for durability for use on standard commercial doors. Set includes intermediate pivot with installation hardware. ",
+                "keywords": "3/4 Inch Offset Intermediate Pivot, Rixson M19"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Rixson",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Door Hand: Left Hand Door",
+                "Select Door Hand: Right Hand Door"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Hand",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Left Hand Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Right Hand Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

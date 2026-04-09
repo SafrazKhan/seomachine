@@ -1,0 +1,117 @@
+{
+    "legacy_product_id": "750907",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Square Mortise Privacy Bolt, Baldwin 6733/0423",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-6733/0423",
+            "mpn": "BAL-6733/0423",
+            "price": "108.0",
+            "compare_at_price": "135.0",
+            "contractor_price": "108.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "BAL-6733/0423",
+                "Square Mortise Privacy Bolts",
+                "Baldwin 6733/0423"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-6733-0423-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-6733-0423-525.jpg?v=1716425481"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 6733/0423,  Modern Mortise Privacy Bolt</b>\r\n\r\n<p>\r\nThe Square Mortise Privacy Bolt will fit doors up to 3 inches thick with backsets of either 2-3/8 inches or 2-3/4 inches. The square design makes it a great choice for modern homes. This Modern Mortise Privacy Bolt comes with an emergency key and key hole cover. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Modern Square Privacy Bolt:\r\n<ul>\r\n<li>Length: 2\" square</li>\r\n<li>Rose Projection: .03\"</li>\r\n<li>Backset: choose either 2-3/8\" or 2-3/4\"</li>\r\n<li>Comes with emergency key and key hole cover.</li>\r\n<li>Will fit up to 3\" door.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Square Mortise Privacy Bolt, Baldwin 6733/0423",
+                "description": "Baldwin 6733/0423, Square Mortise Privacy Bolts - The Square Mortise Privacy Bolt will fit doors up to 3 inches thick with backsets of either 2-3/8 inches or 2-3/4 inches. The square design makes it a great choice for modern homes. This Modern Mortise Privacy Bolt comes with an emergency key and key hole cover.",
+                "keywords": "BAL-6733/0423, Square Mortise Privacy Bolts, Baldwin 6733/0423,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Baldwin Discontinued",
+                    "sort": "116"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "305103",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "617002",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "273997",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "247906",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "652480",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "287166",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 260 - Polished Chrome",
+                "Select Backset: 2-3/8in. Backset",
+                "Select Backset: 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "260 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

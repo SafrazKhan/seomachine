@@ -1,0 +1,121 @@
+{
+    "legacy_product_id": "193220",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Mortise Cylinder Spacer Ring, GLO-TH1100-TR1",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-TH1100-TR1",
+            "mpn": "GLO-TH1100-TR1",
+            "price": "7.99",
+            "compare_at_price": "7.99",
+            "contractor_price": "5.04",
+            "shipping_weight": "0.1",
+            "tags": [
+                "Global TH1100-TR1 Mortise Cylinder Trim Ring",
+                "GLO-TH1100-TR",
+                "3/16 inch mortise lock cylinder spacer rings",
+                "mortise lock spacers",
+                "tr-1 Mortise Cylinder Spacer Rings",
+                "mortise trim rings",
+                "Global TH1100-TR1-AL",
+                "Global TH1100-TR1-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-TH1100-TR1_525.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-TH1100-TR1_525.gif?v=1716421863"
+        },
+        "text": {
+            "description_html": "<b>Mortise Cylinder Spacer Ring</b>\r\n\r\n<p>\r\n<b>3/16\" thick</b> extruded aluminum mortise cylinder trim /spacer rings.\r\n</p>\r\n<p>\r\n<a href=\"/collections/storefront-door-hardware\"><b>Store Door Hardware</b></a>  for use with mortise lock cylinders and \r\n<a href=\"/products/storefront-door-mortise-cylinder-brass-thumbturn-th1100-bt\"><b>mortise thumb turns</b></a>. Can be used with \r\n<a href=\"/products/1-inch-brass-mortise-cylinder-lock-for-storefront-door-th1100-bc\"><b>Brass Mortise Lock Cylinders</b></a> and <a href=\"/products/1-inch-zinc-mortise-cylinder-lock-th1100-zc\"><b>Zinc Mortise Cylinders</b></a>.\r\n</p> \r\n<p>\r\nThese spacers can be used in conjunction with <a href=\"/products/mortise-cylinder-security-guard\"><b>Mortise Cylinder Security Guards</b></a> when additional spacing is required.\r\n</p>\r\n<p>\r\nAvailable in aluminum or dark bronze finish. \r\n</p>",
+            "seo": {
+                "title": "Mortise Cylinder Spacer Ring, GLO-TH1100-TR1",
+                "description": "Global TH1100-TR1 - Mortise Cylinder Trim Ring. 3/16 inch mortise lock cylinder spacer rings available in aluminum or dark bronze.",
+                "keywords": "Global TH1100-TR1 Mortise Cylinder Trim Ring, GLO-TH1100-TR, 3/16 inch mortise lock cylinder spacer rings, mortise lock spacers, tr-1 Mortise Cylinder Spacer Rings, mortise trim rings, Global TH1100-TR1-AL, Global TH1100-TR1-DU,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Store Front Door Hardware",
+                    "sort": "50"
+                },
+                {
+                    "name": "Store Door Hardware",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "460103",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "184782",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "193377",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "246919",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "239752",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "184797",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "193669",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "184825",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: TH1100-TR1-AL: Aluminum",
+                "Select Finish: TH1100-TR1-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TH1100-TR1-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-TH1100-TR1:"
+                },
+                {
+                    "value": "TH1100-TR1-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-TH1100-TR1:"
+                }
+            ]
+        }
+    ]
+}

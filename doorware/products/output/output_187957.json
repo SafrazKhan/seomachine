@@ -1,0 +1,130 @@
+{
+    "legacy_product_id": "187957",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Designer White Light Commercial/Residential Small Surface Mount Door Closer, TC300 Series",
+            "vendor": "Global",
+            "status": "ARCHIVED",
+            "sku": "GLO-TC30x-WH",
+            "mpn": "GLO-TC30x-WH",
+            "price": "51.69",
+            "compare_at_price": "80.21",
+            "contractor_price": "45.94",
+            "shipping_weight": "6.0",
+            "tags": [
+                "GLO-TC30x-WH",
+                "painted white light commercial door closers",
+                "white Residential door closers",
+                "white closers",
+                "small door closers",
+                "small white door closers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/white-door-closer-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/white-door-closer-525.jpg?v=1717105719"
+        },
+        "text": {
+            "description_html": "<b>Designer White Light Commercial Door Closer</b>\r\n<p>\r\nGlobal Series TC30x-WH  Designer White  Door Closers are an economically priced door \r\ncloser for use on interior or lightweight exterior door applications. \r\nIts compact design has the features and appearance of a full size closer but requires less space on a door for \r\ninstallation, and provides complete functionality.\r\n</p>\r\n<p>The TC300 Series are commonly used on projects that specify multiple interior closers to address job conditions and budget concerns. \r\nThey are an excellent choice for hotels, condominiums, apartment complex and single-family residences.\r\n\r\n</p>\r\n<p>\r\nThese Painted White Door Closers are non handed and can be \r\nmounted on regular or top jamb  installations. \r\nThey fit 6-3/8\" x 3/4\" mounting hole pattern and packaged complete with wood and machine screws.\r\n</p>\r\n<p>\r\n<b>Features</b> for TC300 Series White Door Closer \r\n<ul>\r\n<li>Adjustable closing speed</li>\r\n<li>Adjustable latching speed</li>\r\n<li>Aluminum Alloy Shell</li>\r\n<li>Closer Body Length: 7\"</li>\r\n<li>Horizontal Mounting Holes: 6-3/8\"</li>\r\n<li>Vertical Mounting Holes: 3/4\"</li>\r\n<li>Non Handed</li>\r\n<li>Grade 3 Certified</li>\r\n<li>10 Year Warranty</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nAvailable in 2 Spring Tensions: Light #2,  and Heavy #4.\r\n</p>\r\n\r\n<p>\r\n<b>\r\nSpecifications</b> for GLO-TC302-WH  <b>Light #2: </b>\r\n<ul>\r\n<li>Maximum Door Weight: 137 lbs</li>\r\n<li>Maximum Door Size: 32\" interior</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>\r\nSpecifications</b> for GLO-TC304-WH  <b>Heavy #4: </b>\r\n<ul>\r\n<li>Maximum Door Weight: 243 lbs</li>\r\n<li>Maximum Door Size: 44\" interior / 36\" exterior</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Designer White Light Commercial/Residential Small Surface Mount Door Closer, TC300 Series",
+                "description": "Designer White Light Commercial or Residential Small Surface Mount Door Closer. These painted white light commercial door closers offer a full variety of features which allow adjustment to meet the varied conditions of almost any light door control installation.",
+                "keywords": "GLO-TC30x-WH, painted white light commercial door closers, white Residential door closers, white closers, small door closers, small white door closers,"
+            },
+            "specifications": [
+                {
+                    "key": "Maximum Door Weight",
+                    "value": "137 lbs"
+                },
+                {
+                    "key": "Maximum Door Size",
+                    "value": "32\" interior"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Global Discontinued",
+                    "sort": "30"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "15335",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "173138",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "166738",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "236650",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "194308",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "262110",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "21564",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "15147",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "166715",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Maximum Door Weight: 137 lbs",
+                "Maximum Door Size: 32\" interior",
+                "Select Closer Spring Tension: GLO-TC302-WH - Light #2",
+                "Select Closer Spring Tension: GLO-TC304-WH - Heavy #4"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Closer Spring Tension",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GLO-TC302-WH - Light #2",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-TC302-WH"
+                },
+                {
+                    "value": "GLO-TC304-WH - Heavy #4",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-TC304-WH"
+                }
+            ]
+        }
+    ]
+}

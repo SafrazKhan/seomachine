@@ -1,0 +1,115 @@
+{
+    "legacy_product_id": "312143",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Modern Square Polished Chrome Door Pull, First Impressions FII-3225-300-US15",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-3225-300-US26",
+            "mpn": "FII-3225-300-US26",
+            "price": "140.0",
+            "compare_at_price": "180.0",
+            "contractor_price": "140.0",
+            "shipping_weight": "4.0",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>First Impressions 3225/300-US26 Modern Square Polished Chrome Door Handles</b>\r\n<p>\r\n<p>\r\nThis modern designed 1\" x 1\" square  door pull is constructed of durable non rusting aluminum and finished  in  <b>Polished Chrome</b>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of First Impressions 3225/300\r\n<ul>\r\n<li>Total Length: 300 mm ( 11-13/16\" )</li>\r\n<li>Mounting Center to Center: 200 mm ( 7-7/8\" )</li>\r\n<li>Pull Width: 1\" Square</li>\r\n<li>Projection: 2\"</li>\r\n<li>Material: Non Rusting Aluminum</li>\r\n<li>Finishes: Polished Chrome</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold each (1 Door Pull)</b>\r\n</p>",
+            "seo": {
+                "title": "Modern Square Polished Chrome Door Pull, First Impressions FII-3225-300-US15",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": [
+                {
+                    "key": "Total Length",
+                    "value": "300 mm ( 11-13/16\" )"
+                },
+                {
+                    "key": "Mounting Center to Center",
+                    "value": "200 mm ( 7-7/8\" )"
+                },
+                {
+                    "key": "Pull Width",
+                    "value": "1\" Square"
+                },
+                {
+                    "key": "Projection",
+                    "value": "2\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Non Rusting Aluminum"
+                },
+                {
+                    "key": "Finishes",
+                    "value": "Polished Chrome"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Total Length: 300 mm ( 11-13/16\" )",
+                "Mounting Center to Center: 200 mm ( 7-7/8\" )",
+                "Pull Width: 1\" Square",
+                "Projection: 2\"",
+                "Material: Non Rusting Aluminum",
+                "Finishes: Polished Chrome",
+                "Select Mounting Choice: Thrubolt Mounted",
+                "Select Mounting Choice: Surface Mounted",
+                "Select Mounting Choice: Back to Back Mounted (Requires 2 Pulls)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Mounting Choice",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Thrubolt Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Thrubolt"
+                },
+                {
+                    "value": "Surface Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Surface"
+                },
+                {
+                    "value": "Back to Back Mounted (Requires 2 Pulls)",
+                    "price_impact": 32.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Back"
+                }
+            ]
+        }
+    ]
+}

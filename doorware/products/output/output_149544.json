@@ -1,0 +1,185 @@
+{
+    "legacy_product_id": "149544",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:08:49.887718"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Weslock Hudson Knob",
+            "vendor": "Weslock",
+            "status": "ARCHIVED",
+            "sku": "WES-hudson",
+            "mpn": "WES-hudson",
+            "price": "7.0",
+            "compare_at_price": "10.0",
+            "contractor_price": "6.3",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Weslock Hudson Knob",
+                "hudson knob",
+                "weslock knob",
+                "cheap door knob",
+                "cheap knob",
+                "low cost knob"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Weslock Hudson Knob</B><br>\r\n<br>\r\n<P><B> Knob Features and Benefits</B><UL>\r\n<LI>5-pin Cylinder with special keying capabilities</LI>\r\n<LI>Tubular design meeting Grade 3 lock standards</LI>\r\n<LI>Turn button locking in knob</LI>\r\n<LI>Non-concealed installation screws</LI></UL></P>\r\n<P><B>Specifications</B><UL>\r\n<LI>Adjustable Latches 2 3/8\" or 2 3/4\" with fixed radius faceplate </LI>\r\n<LI>Fits doors prepared with 2 1/8\" cross hole and 1\" edge hole</LI>\r\n<LI>Adjusts to door thinkness from 1 3/8\" to 2\" </LI></UL></P>\r\n<P><B>Warranty</B><UL>\r\n<LI>Limited 10 year Mechanical Warranty</LI>\r\n<LI>Limited 3 year Finish Warranty</LI>\r\n<BR>\r\n<p>\r\nWhen choosing a function:\r\n</p>\r\n<p>\r\n<ul>\r\n<li>Keyed Entry: Use when a keyed lock is needed.</li>\r\n<li>Privacy (Bedroom or Bathroom): For doors that could need locking.</li>\r\n<li>Passage (Hall or Closet): For doors that don't need locking.</li>\r\n<li>Dummy: For use as a pull or to match trim.</li>\r\n</ul>\r\n</p>\r\n<BR>\r\n<br><BR>\r\nClick below to choose finish and knob function.</B>\r\n<br>",
+            "seo": {
+                "title": "Weslock Hudson Knob",
+                "description": "Weslock Hudson Knob low cost door knob cheap door knob\r\n\r\nAdjustable backset for 2 3/8 or 2 3/4. ",
+                "keywords": "Weslock Hudson Knob, hudson knob, weslock knob, cheap door knob, cheap knob, low cost knob,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Weslock Reliant Collection",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Function: 105 - Dummy",
+                "Select Function: 100 - Passage (hall & closet)",
+                "Select Function: 110 - Privacy (bed & bath)",
+                "Select Function: 140 - Keyed Entry",
+                "Select Finish: 3 - Polished Brass",
+                "Select Finish: A - Antique Brass",
+                "Select Finish: D - Satin Chrome",
+                "Select Finish: N - Satin Nickel",
+                "Keying: Non Keyed",
+                "Keying: I Only Ordered One",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "105 - Dummy",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "105"
+                },
+                {
+                    "value": "100 - Passage (hall & closet)",
+                    "price_impact": 6.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "100"
+                },
+                {
+                    "value": "110 - Privacy (bed & bath)",
+                    "price_impact": 7.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "110"
+                },
+                {
+                    "value": "140 - Keyed Entry",
+                    "price_impact": 13.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "140"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "3"
+                },
+                {
+                    "value": "A - Antique Brass",
+                    "price_impact": 0.62,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "A"
+                },
+                {
+                    "value": "D - Satin Chrome",
+                    "price_impact": 1.3,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "D"
+                },
+                {
+                    "value": "N - Satin Nickel",
+                    "price_impact": 1.3,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "N"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Non Keyed",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "non"
+                },
+                {
+                    "value": "I Only Ordered One",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "different"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "alike"
+                }
+            ]
+        }
+    ]
+}

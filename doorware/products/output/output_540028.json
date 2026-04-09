@@ -1,0 +1,292 @@
+{
+    "legacy_product_id": "540028",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin Estate Solid Brass Traditional Rosettes, BAL-50xx",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-50xx",
+            "mpn": "BAL-50xx",
+            "price": "47.0",
+            "compare_at_price": "47.0",
+            "contractor_price": "47.0",
+            "shipping_weight": "0.2",
+            "tags": [
+                "Baldwin Estate Traditional Rosettes",
+                "BAL-5002",
+                "5017",
+                "5048",
+                "5148"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/5002-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/5002-525.jpg?v=1716424298"
+        },
+        "text": {
+            "description_html": "<b>Baldwin Estates Solid Brass Traditional Rosettes</B><p>\r\nTraditional styled rosettes that pair with any of the Baldwin Estates line of brass levers or knobs.  Available in three sizes and many finishes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> Traditional Rosette:\r\n<ul>\r\n<li>Material:  Solid Brass</li>\r\n<li>Packaged with black finish mounting wood screws.</li>\r\n<li>For exterior and interior use.</li>\r\n<li>Lifetime No-Rust Warranty!</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available Sizes:</b>\r\n<ul>\r\n<b>5002</b>\r\n<ul>\r\n<li>Diameter:  1.75\"</li>\r\n<li><b>Will not cover standard 2-1/8\" bore</b></li>\r\n<li>Only available as dummy or passage</li>\r\n</ul>\r\n<br>\r\n<b>5017</b>\r\n<ul>\r\n<li>Diameter:  2.25\"\"</li>\r\n<li>Only available as dummy or passage</li>\r\n</ul>\r\n<br>\r\n<b>5048, 5148</b>\r\n<ul>\r\n<li>Diameter:  2.625\"</li>\r\n<li>Available as dummy, passage or privacy</li>\r\n</ul>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Baldwin Estate Solid Brass Traditional Rosettes, BAL-50xx",
+                "description": "Baldwin Estate Traditional Rosettes, BAL-50xx",
+                "keywords": "Baldwin Estate Traditional Rosettes, BAL-5002, 5017, 5048, 5148"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Discontinued",
+                    "sort": "166"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Select Finish: 003 – PVD Polished Brass",
+                "Select Finish: 031 – Non-Lacquered Brass",
+                "Select Finish: 033 – Vintage Brass",
+                "Select Finish: 040 – Satin Brass",
+                "Select Finish: 050 – Satin Brass & Black",
+                "Select Finish: 060 – Satin Brass & Brown",
+                "Select Finish: 102 – Oil Rubbed Bronze",
+                "Select Finish: 112 – Venetian Bronze",
+                "Select Finish: 150 – Satin Nickel",
+                "Select Finish: 151 – Antique Nickel",
+                "Select Finish: 190 – Satin Black",
+                "Select Finish: 260 – Polished Chrome",
+                "Select Finish: 264 – Satin Chrome",
+                "Select Size and Function: 5002.xxx.I - 1.75in. Passage half pair",
+                "Select Size and Function: 5002.xxx.IDM - 1.75in. Dummy half pair",
+                "Select Size and Function: 5002.xxx - 1.75in. Passage pair",
+                "Select Size and Function: 5002.xxx.FD - 1.75in. Dummy pair",
+                "Select Size and Function: 5017.xxx.I - 2.25in. Passage half pair",
+                "Select Size and Function: 5017.xxx.IDM - 2.25in. Dummy half pair",
+                "Select Size and Function: 5017.xxx.FD - 2.25in. Dummy pair",
+                "Select Size and Function: 5017.xxx - 2.25in. Passage pair",
+                "Select Size and Function: 5048.xxx.I - 2.625in. Passage half pair",
+                "Select Size and Function: 5048.xxxIDM - 2.625in. Dummy half pair",
+                "Select Size and Function: 5048.xxx - 2.625in. Passage pair",
+                "Select Size and Function: 5048.xxx.FD - 2.625in. Dummy pair",
+                "Select Size and Function: 5148.xxx.I - 2.625in. Privacy half pair",
+                "Select Size and Function: 5148.xxx - 2.625in. Privacy pair"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "003 – PVD Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "031 – Non-Lacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "033 – Vintage Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "040 – Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "050 – Satin Brass & Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "060 – Satin Brass & Brown",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "102 – Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "112 – Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "150 – Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "151 – Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "190 – Satin Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "260 – Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "264 – Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Size and Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "5002.xxx.I - 1.75in. Passage half pair",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5002.xxx.IDM - 1.75in. Dummy half pair",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5002.xxx - 1.75in. Passage pair",
+                    "price_impact": 14.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5002.xxx.FD - 1.75in. Dummy pair",
+                    "price_impact": 14.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5017.xxx.I - 2.25in. Passage half pair",
+                    "price_impact": 3.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5017.xxx.IDM - 2.25in. Dummy half pair",
+                    "price_impact": 3.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5017.xxx.FD - 2.25in. Dummy pair",
+                    "price_impact": 29.7,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5017.xxx - 2.25in. Passage pair",
+                    "price_impact": 29.7,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5048.xxx.I - 2.625in. Passage half pair",
+                    "price_impact": 6.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5048.xxxIDM - 2.625in. Dummy half pair",
+                    "price_impact": 6.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5048.xxx - 2.625in. Passage pair",
+                    "price_impact": 35.1,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5048.xxx.FD - 2.625in. Dummy pair",
+                    "price_impact": 35.1,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5148.xxx.I - 2.625in. Privacy half pair",
+                    "price_impact": 6.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5148.xxx - 2.625in. Privacy pair",
+                    "price_impact": 35.1,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

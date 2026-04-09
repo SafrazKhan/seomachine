@@ -1,0 +1,65 @@
+{
+    "legacy_product_id": "1102699",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Construction Change Key, PDQ 102404-00",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PDQ-102404-00",
+            "mpn": "PDQ-102404-00",
+            "price": "11.0",
+            "compare_at_price": "11.0",
+            "contractor_price": "11.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Construction Change Keyes",
+                "PDQ 102404-00",
+                "PDQ-102404-00"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525154.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525154.gif?v=1717791084"
+        },
+        "text": {
+            "description_html": "<b>PDQ Construction Change Key</b>\r\n\r\n<p>\r\nThis is a Construction Change Key for use with a <a href=\"/products/construction-keyed-interchangeable-cylinder-pdq-i5206\">PDQ I5206 Construction Keyed Interchangeable Cylinder</a>. \r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Construction Change Key",
+                "description": "This is a Construction Change Key for use with a PDQ I5206 Construction Keyed Interchangeable Cylinder.",
+                "keywords": "Construction Change Keyes, PDQ 102404-00, PDQ-102404-00"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Misc Hardware",
+                    "sort": "27"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "293236",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "299763",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "305929",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

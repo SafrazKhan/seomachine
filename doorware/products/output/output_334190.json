@@ -1,0 +1,198 @@
+{
+    "legacy_product_id": "334190",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Steel Wood Screw 12 x 1-1/4, Bag of 600, Deltana SCWS12125",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-SCWS12125",
+            "mpn": "DEL-SCWS12125",
+            "price": "134.99",
+            "compare_at_price": "180.0",
+            "contractor_price": "128.25",
+            "shipping_weight": "0.05",
+            "tags": [
+                "DEL-SCWS12125 12 x 1-1/4 screws",
+                "Deltana SCWS1215 Wood Screws #12 x 1 1/4  wood screws",
+                "number 12 screw for hinges",
+                "12 x 1-1/4  Wood ScrewS",
+                "door hinge screws",
+                "DEL-SCWS12125U10B",
+                "DEL-SCWS12125U15",
+                "DEL-SCWS12125U15A",
+                "DEL-SCWS12125U26",
+                "DEL-SCWS12125U26D",
+                "DEL-SCWS12125U1B",
+                "DEL-SCWS12125U3",
+                "DEL-SCWS12125U5"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-SCWS12125_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SCWS12125_525.jpg?v=1716423203"
+        },
+        "text": {
+            "description_html": "<b>Deltana SCWS12125 - #12 x 1-1/4\"  Steel Wood Screw</b>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/deltana-SCWS12125_size.gif?v=1704354737\" width=\"580\" height=\"200\" border=\"0\" alt=\"deltana SCWS12125  #12 wood screw\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> \r\n<ul>\r\n<li>Screw Size: #12</li>\r\n<li>Length: 1-1/4\"</li>\r\n<li>Screw Type: Wood Screw</li>\r\n<li>Head: Flat, Phillips Drive</li>\r\n<li>Material: Steel</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nAvailable in 8 different finishes.\r\n</p>",
+            "seo": {
+                "title": "Steel Wood Screw 12 x 1-1/4, Bag of 600, Deltana SCWS12125",
+                "description": "Deltana SCWS12125 -  Wood Screw #12 x 1-1/4 inches long. Available in 8 different finishes.  Sold in bags of 25, 50, 100, or 500.",
+                "keywords": "DEL-SCWS12125 12 x 1-1/4 screws, Deltana SCWS1215 Wood Screws #12 x 1 1/4  wood screws, number 12 screw for hinges, 12 x 1-1/4  Wood ScrewS, door hinge screws, DEL-SCWS12125U10B,  DEL-SCWS12125U15,  DEL-SCWS12125U15A, DEL-SCWS12125U26, DEL-SCWS12125U26D, DEL-SCWS12125U1B, DEL-SCWS12125U3, DEL-SCWS12125U5"
+            },
+            "specifications": [
+                {
+                    "key": "Screw Size",
+                    "value": "#12"
+                },
+                {
+                    "key": "Length",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Screw Type",
+                    "value": "Wood Screw"
+                },
+                {
+                    "key": "Head",
+                    "value": "Flat, Phillips Drive"
+                },
+                {
+                    "key": "Material",
+                    "value": "Steel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Machine and Wood Screws",
+                    "sort": "25"
+                },
+                {
+                    "name": "Installation Hardware",
+                    "sort": "16"
+                },
+                {
+                    "name": "Tools and Fasteners",
+                    "sort": "41"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "837847",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "282414",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "154907",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "200882",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "154882",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "327516",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "292724",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Screw Size: #12",
+                "Length: 1-1/4\"",
+                "Screw Type: Wood Screw",
+                "Head: Flat, Phillips Drive",
+                "Material: Steel",
+                "Select Finish: U15: Satin Nickel",
+                "Select Finish: U10B: Oil Rubbed Bronze",
+                "Select Finish: U1B: Matte Black",
+                "Select Finish: U15A: Antique Nickel",
+                "Select Finish: U26: Polished Chrome",
+                "Select Finish: U26D: Satin Chrome",
+                "Select Finish: U3: Polished Brass",
+                "Select Finish: U5: Antique Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U1B: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

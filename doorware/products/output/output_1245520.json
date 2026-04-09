@@ -1,0 +1,131 @@
+{
+    "legacy_product_id": "1245520",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Salvador 110 Lever with T Rose Mortise Lockset, Corbin Russwin ML2000",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "CRS-ML2000",
+            "mpn": "CRS-ML2000",
+            "price": "1649.0",
+            "compare_at_price": "1649.0",
+            "contractor_price": "1649.0",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Salvador 110 Lever with T Rose Mortise Lockset",
+                "Corbin Russwin ML2000"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525323.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525323.gif?v=1769499796"
+        },
+        "text": {
+            "description_html": "<b>Salvador 110 Lever with T Rose Mortise Lockset, Corbin Russwin ML2000</b>\r\n\r\n<p>\r\nThe ML2000 Series is an ANSI/BHMA Grade 1 mortise lock designed to meet the rigors of high-traffic, abusive environments. Constructed of heavy-gauge steel with unique, patented features and a full range of trim and functions including status indicators and Motorized Electric Latch Retraction (MELR), the versatility and reliability of this lock complement any application.\r\n</p>\r\n<p>Status indicator options offer a unique and highly visible window design and provides clarity on the locked/unlocked status of a door. Available for use with a wide range of trim options and with a variety of functions, the mortise lock status indicators are versatile for any application.</p>\r\n\r\n<p><b>Specifications for</b> Corbin Russwin ML2000 Series Mortise Lockset</p>\r\n<ul>\r\n<li>ANSI/BHMA A156.13, Series 1000, Operational and Security Grade 1</li>\r\n<li>UL-cUL Listed for use on fire doors having a rating up to and including 3-hoursUL-cUL Listed for use on fire doors having a rating up to and including 3-hours</li>\r\n<li>Americans with Disabilities Act (ADA) Compliant</li>\r\n<li>Backset Depth (Standard): 2 3/4\"</li>\r\n<li>Cylinder Format: Conventional, Large Format, Small Format</li>\r\n<li>Cylinder Pins: 6 pin, 7 pin</li>\r\n<li>Door Thickness (Standard): 1 3/4\"</li>\r\n<li>Handing: Field Reversible</li>\r\n<li>Latchbolt Throw: 3/4\"</li>\r\n<li>Strike Type: ANSI Curved Lip</li>\r\n\r\n\r\n<li><b>Oil Rubbed Bronze Finish</b></li>\r\n</ul></p>",
+            "seo": {
+                "title": "Salvador 110 Lever with T Rose Mortise Lockset, Corbin Russwin ML2000",
+                "description": "The ML2000 Series is a heavy-duty mortise lock designed for high-security applications. Enhance its functionality with our innovative Status Indicators, featuring a large, clear window that instantly displays whether a door is locked or unlocked. The versatile design seamlessly integrates with your existing hardware, providing an easy and effective way to improve access control and peace of mind.",
+                "keywords": "Salvador 110 Lever with T Rose Mortise Lockset, Corbin Russwin ML2000"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Corbin Russwin",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Function: CRS-ML2060110T613M17M19VSA134: Privacy with Indicator",
+                "Select Function: CRS-ML2057110T613M17SS078CT7B: Storeroom",
+                "Select Function: CRS-ML2050: Dummy",
+                "Select Function: CRS-ML2051: Office Lock",
+                "Select Handing: RH: Right Hand Inswing",
+                "Select Handing: RHR: Right Hand Outswing",
+                "Select Handing: LH: Left Hand Inswing",
+                "Select Handing: LHR: Left Hand Outswing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "CRS-ML2060110T613M17M19VSA134: Privacy with Indicator",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CRS-ML2057110T613M17SS078CT7B: Storeroom",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CRS-ML2050: Dummy",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CRS-ML2051: Office Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RH: Right Hand Inswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RHR: Right Hand Outswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LH: Left Hand Inswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LHR: Left Hand Outswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

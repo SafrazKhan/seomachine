@@ -1,0 +1,150 @@
+{
+    "legacy_product_id": "600206",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Traditional 2 Inch Ring Pull, Field Enterprises RPW-200",
+            "vendor": "Field Enterprise",
+            "status": "ACTIVE",
+            "sku": "FEI-RPW-200",
+            "mpn": "FEI-RPW-200",
+            "price": "35.88",
+            "compare_at_price": "46.0",
+            "contractor_price": "34.09",
+            "shipping_weight": "1.0",
+            "tags": [
+                "2 Inch Wire Ring Pulls",
+                "Traditional 2 Inch Ring Pull",
+                "Field Enterprises RPW-200",
+                "Field Enterprises RPW200",
+                "Field Enterprises RPW 200",
+                "dresser drawer pulls",
+                "furniture ring pulls",
+                "closet door pulls",
+                "Field Enterprises round ring pulls",
+                "RPW200 Wire Ring Pulls",
+                "Small Traditional Ring Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FEI-RSW200-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FEI-RSW200-525.jpg?v=1716424837"
+        },
+        "text": {
+            "description_html": "<b>Field Enterprises RPW-200, Small Traditional Ring Pull</b>\r\n\r\n<p>\r\nAlthough essentially traditional in design, this 2 Inch Wire Ring Pull has a square mount that adds a bit of the unexpected. The Traditional 2 Inch Ring Pull is great for small drawers and doors like those found in kitchens, on bathroom vanities, and on furniture. It is easy to install with the included screw. Available in 5 finishes. \r\n</p>\r\n\r\n<p>\r\nAlso Available: Smaller <a href=\"/products/traditional-3-inch-ring-pull-field-enterprises-rpw-300\">Traditional 3\" Ring Pull</a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RPW200 Wire Ring Pull:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Overall Diameter: 2\"</li>\r\n<li>Grip Cutout: 1-11-32\"</li>\r\n<li>Projection: 7/8\"</li>\r\n<li>Mount Length: 1/2\" square</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Traditional 2 Inch Ring Pull, Field Enterprises RPW-200",
+                "description": "Field Enterprises RPW-200, Traditional 2 Inch Ring Pull -- Although essentially traditional in design, this 2 Inch Wire Ring Pull has a square mount that adds a bit of the unexpected. The Traditional 2 Inch Ring Pull is great for small drawers and doors like those found in kitchens, on bathroom vanities, and on furniture. It is easy to install with the included screw. Available in 5 finishes.",
+                "keywords": "2 Inch Wire Ring Pulls, Traditional 2 Inch Ring Pull, Field Enterprises RPW-200, Field Enterprises RPW200, Field Enterprises RPW 200, dresser drawer pulls, furniture ring pulls, closet door pulls, Field Enterprises round ring pulls, RPW200 Wire Ring Pulls, Small Traditional Ring Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Field Enterprises Cabinet Hardware",
+                    "sort": "10"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "600163",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "600107",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "194877",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "591778",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "289927",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "41523",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "30222",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "476670",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "955085",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US26: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

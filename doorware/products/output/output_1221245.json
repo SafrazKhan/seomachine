@@ -1,0 +1,97 @@
+{
+    "legacy_product_id": "1221245",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "36 Inch Latching Panic Bumper Threshold, Pemko 2746X292AFGPK-36",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "PEM-2746X292AFGPK-36",
+            "mpn": "PEM-2746X292AFGPK-36",
+            "price": "198.72",
+            "compare_at_price": "198.72",
+            "contractor_price": "198.72",
+            "shipping_weight": "5.0",
+            "tags": [
+                "36 Inch Latching Panic Bumper Threshold",
+                "PEM-2746X292AFGPK-36"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PEM-2746x292-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PEM-2746x292-525.jpg?v=1769495755"
+        },
+        "text": {
+            "description_html": "<b>36 Inch Latching Panic Bumper Threshold</b>\r\n\r\n<p>\r\nThe Pemko 36 Inch Latching Panic Bumper Threshold is made from non rusting extruded aluminum and meets ADA Barrier Free Requirements.  It features a 6\" Half Saddle portion on one side paired with a 1-5/8\" w x 1/2\" h bumper seal with PemkoPrene (PK) insert on the other. Enhancing thermal performance, a black rigid polypropylene key between these extrusions acts as a thermal break (FG-Frost Guard), minimizing the transfer of hot and cold temperatures.\r\n</p>\r\n<table width=\"100\" align=\"right\">\r\n<tr>\r\n<td>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/handicap-logo.jpg?v=1704353001\" width=\"100\" height=\"98\" border=\"0\" alt=\"ADA Compliant Handicap Logo\">\r\n</td>\r\n</tr>\r\n</table>\r\n<p>\r\n<b>Specifications</b> for Pemko Door Threshold\r\n<ul>\r\n<li>Material: Aluminum</li>\r\n\r\n<li>Length: 36\"</li>\r\n<li>Height: 1/2\"</li>\r\n<li>Width: 8-9/16\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>ADA Barrier Free Requirements</b>:\r\n<ul>\r\n<li>Overall height is no greater than 1/2\"</li>\r\n<li>A vertical rise no more than 1/4\" and/or change in elevation being beveled with a slope of 1:2</li>\r\n</ul>\r\n</p>\r\n<p>\r\n <b>Features and Certifications</b>:\r\n<ul>\r\n<li>Rigid polypropylene key between extrusions provides thermal break</li>\r\n<li>UL 10C positive pressure</li>\r\n<li>UL 4L10 listed</li>\r\n<li>ANSI/BHMA A117.1</li>\r\n<li>ANSI/BHMA A156.21 Thresholds</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nCustom Item. <b>No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "36 Inch Latching Panic Bumper Threshold",
+                "description": "The Pemko 36 Inch V Latching Panic Bumper Threshold is made from non rusting extruded aluminum. It meets ADA Barrier Free Requirements. The finish is Mill Finish Aluminum.",
+                "keywords": "36 Inch Latching Panic Bumper Threshold, PEM-2746X292AFGPK-36"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Aluminum"
+                },
+                {
+                    "key": "Length",
+                    "value": "36\""
+                },
+                {
+                    "key": "Height",
+                    "value": "1/2\""
+                },
+                {
+                    "key": "Width",
+                    "value": "8-9/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Pemko",
+                    "sort": "41"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Material: Aluminum",
+                "Length: 36\"",
+                "Height: 1/2\"",
+                "Width: 8-9/16\"",
+                "Select Finish: A: Mill Finish Aluminum",
+                "Select Finish: D: Dark Bronze Anodized Aluminum"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "A: Mill Finish Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "D: Dark Bronze Anodized Aluminum",
+                    "price_impact": 55.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

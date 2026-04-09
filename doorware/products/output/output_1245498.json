@@ -1,0 +1,138 @@
+{
+    "legacy_product_id": "1245498",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:11:17.731469"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Motor Drive Electrified Narrow Backset Mortise Lock, Accurate M8800ULEAE",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "ACC-M8800ULEAE",
+            "mpn": "ACC-M8800ULEAE",
+            "price": "1678.0",
+            "compare_at_price": "1678.0",
+            "contractor_price": "1678.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Motor Drive Electrified Narrow Backset Mortise Lock",
+                "Accurate M8800ULEAE"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ACC-M8800E-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACC-M8800E-525.jpg?v=1769478662"
+        },
+        "text": {
+            "description_html": "<b>Motor Drive Electrified Narrow Backset Mortise Lock, Accurate M8800ULEAE </b>\r\n<p>All the advantages of motorized access control, now available for narrow door stiles making design possibilities endless. This product includes improved flexibility, AE functionality, longer life, costs less per year, low power requirement, and is trusted with numerous other manufacturers.</p>\r\n<p><b>Specifications for</b> Accurate Motor Drive Electrified Mortise Lock Body</p>\r\n<ul>\r\n<li>Door Thickness 1-3/4\" minimum</li>\r\n<li>1-1/2\", 1-3/4\", 2\", 2-1/4\" backsets standard</li>\r\n<li>For door stiles 3\" or wider.</li>\r\n<li>Heavy gauge, plated steel case (15/16\" thick)</li>\r\n<li>Adjustable bevel brass, bronze, or stainless steel armor front, finished as required.</li>\r\n<li>Brass latch bolt, anti-friction type, 3/4\" throw</li>\r\n<li>Brass deadbolt, 1\" throw</li>\r\n<li>4-7/8\" ASA Strike</li>\r\n<li>Hubs available in different sizes to be compatible with various trim</li>\r\n<LI>Key Cylinder (by others) will override electronics to retract latch bolt.\r\n</LI>\r\n<li>12-24V AC/DC (11V - 30V Operating Range</li>\r\n<li>250mA MAX Inrush</li>\r\n<li>10mA MAX Holding</li>\r\n<li>Non-polarized Leads</li>\r\n<li>Includes AE Authorized Egress</li>\r\n<li>Thumb Turn Hub: 3/16\" (5mm) on the diamond</li>\r\n<li>Brass, stainless steel or oil rubbed bronze dust box</li>\r\n<li>1-1/4\" Wide Faceplate</li>\r\n<li><b>Oil Rubbed Bronze Finish</b></li>\r\n</ul></p>",
+            "seo": {
+                "title": "Motor Drive Electrified Narrow Backset Mortise Lock, Accurate M8800ULEAE",
+                "description": "All the advantages of motorized access control, now available for narrow door stiles making design possibilities endless. This product includes improved flexibility, AE functionality, longer life, costs less per year, low power requirement, and is trusted with numerous other manufacturers.",
+                "keywords": "Motor Drive Electrified Narrow Backset Mortise Lock, Accurate M8800ULEAE"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Accurate Lock & Hardware",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Function: ACC-M8859ULEAE: Storeroom",
+                "Select Backset: 1-1/2in. Backset",
+                "Select Backset: 1-3/4in. Backset",
+                "Select Backset: 2in.  Backset",
+                "Select Handing: RH: Right Hand Inswing",
+                "Select Handing: RHR: Right Hand Outswing",
+                "Select Handing: LH: Left Hand Inswing",
+                "Select Handing: LHR: Left Hand Outswing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ACC-M8859ULEAE: Storeroom",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1-1/2in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2in.  Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RH: Right Hand Inswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RHR: Right Hand Outswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LH: Left Hand Inswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LHR: Left Hand Outswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

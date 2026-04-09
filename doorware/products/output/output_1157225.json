@@ -1,0 +1,128 @@
+{
+    "legacy_product_id": "1157225",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "90mm European Cylinder, INOX CYEU-4545TK",
+            "vendor": "Inox",
+            "status": "ARCHIVED",
+            "sku": "INX-CYEU-4545TK",
+            "mpn": "INX-CYEU-4545TK",
+            "price": "58.0",
+            "compare_at_price": "58.0",
+            "contractor_price": "58.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Euro Double Profile Cylinder",
+                "90mm European Cylinder",
+                "INOX CYEU-4545TK",
+                "European Double Profile Cylinder"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/INX-CYEU-4545TK-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/INX-CYEU-4545TK-525.jpg?v=1716428558"
+        },
+        "text": {
+            "description_html": "<p>INOX CYEU-4545TK, European Double Profile Cylinder</p>\r\n\r\n<p>\r\nThe 90mm European Cylinder measures 45 mm on the thumbturn side of the cylinder and 45 mm on the key side of the cylinder. It is made out of solid brass.  \r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> of the INOX CYEU Series European Cylinder:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Schlage C keyway.</li>\r\n<li>Thumbturn Length: 31 mm</li>\r\n<li>Thumbturn Width: 14.5 mm</li>\r\n<li>Thumbturn Projection: 24.5 mm</li>\r\n<li>Thumbturn Side Cylinder Length: 45mm</li>\r\n<li>Key Side Cylinder Length: 45mm</li>\r\n<li>European Cylinder Length: 90mm</li>\r\n<li>Door Thickness: 2-1/4\" - 2-1/2\"</li>\r\n<li>Includes 1 breakable machine screw to fix cylinder to multipoint lock case with backset up to 2-3/4\"</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "90mm European Cylinder",
+                "description": "The 90mm European Cylinder measures 45 mm on the thumbturn side of the cylinder and 45 mm on the key side of the cylinder. It is made out of solid brass.",
+                "keywords": "Euro Double Profile Cylinder, 90mm European Cylinder, INOX CYEU-4545TK, European Double Profile Cylinder"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Thumbturn Length",
+                    "value": "31 mm"
+                },
+                {
+                    "key": "Thumbturn Width",
+                    "value": "14.5 mm"
+                },
+                {
+                    "key": "Thumbturn Projection",
+                    "value": "24.5 mm"
+                },
+                {
+                    "key": "Thumbturn Side Cylinder Length",
+                    "value": "45mm"
+                },
+                {
+                    "key": "Key Side Cylinder Length",
+                    "value": "45mm"
+                },
+                {
+                    "key": "European Cylinder Length",
+                    "value": "90mm"
+                },
+                {
+                    "key": "Door Thickness",
+                    "value": "2-1/4\" - 2-1/2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "INOX Miscellaneous",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "266574",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "301722",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "363590",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "192037",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Thumbturn Length: 31 mm",
+                "Thumbturn Width: 14.5 mm",
+                "Thumbturn Projection: 24.5 mm",
+                "Thumbturn Side Cylinder Length: 45mm",
+                "Key Side Cylinder Length: 45mm",
+                "European Cylinder Length: 90mm",
+                "Door Thickness: 2-1/4\" - 2-1/2\"",
+                "Select Finish: US15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

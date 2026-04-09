@@ -1,0 +1,147 @@
+{
+    "legacy_product_id": "184039",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:09:38.145716"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Door Closer Friction Hold Open Arm, Global HOA-1245",
+            "vendor": "Global",
+            "status": "ARCHIVED",
+            "sku": "GLO-HOA-1245",
+            "mpn": "GLO-HOA-1245",
+            "price": "69.0",
+            "compare_at_price": "69.0",
+            "contractor_price": "69.0",
+            "shipping_weight": "3.5",
+            "tags": [
+                "GLO-HOA-1245 Door Closer Hold Open Arms",
+                "Door Closer Friction Hold Open Arms",
+                "Global Door Controls HOA-1245 hold-open arms",
+                "12 mm square shaft",
+                "12mm shaft",
+                "1/2 inch shafts",
+                "friction type arms",
+                "Global Door Controls hold open arms",
+                "hold open closers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/HOA-1245-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/HOA-1245-525.jpg?v=1716421730"
+        },
+        "text": {
+            "description_html": "<b>Friction Type Hold-Open Arm Assembly</b>\r\n<p>\r\nStandard duty friction type hold-open door closer arm for regular, top jamb or parallel arm mounting. <br>\r\n<b>Note: </b>For Hold Open to function properly when regular or top jamb mounting the door closer, door must open a minimum of 90 degrees.\r\n</p>\r\n<p>\r\nFor use with Global Door Controls TC200 series, TC2200 series, TC400 series, TC500 series, TC600 series or any door closer with a 12mm square shaft.\r\n</p>\r\n<p>\r\n<b>Specifications</b> Global  HOA-1245 Hold Open Closer Arm\r\n<ul>\r\n<li>Arm Length: 12\"</li>\r\n<li>Forearm Length: Min: 10-1/4\" Max: 15-1/4\"</li>\r\n<li>Thread: 10mm 1.25</li>\r\n<li>Closer Shaft Mounting Hole: 12mm Square</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<br><br><br>\r\n<b>**This item is Discontinued. Use <a href=\"/products/door-closer-friction-hold-open-arm-global-hoa-1245-n\">Global HOA-1245-N Hold Open Arm</a></b>\r\n<br><br><br>\r\n</p>",
+            "seo": {
+                "title": "Door Closer Friction Hold Open Arm, Global HOA-1245",
+                "description": "Global Door Controls HOA-1245 - Friction hold open door closer Arm, available in aluminum or dark bronze (duro) finish. Fits any closer with 12 mm square shaft. For regular, top jamb or parallel arm mounting.",
+                "keywords": "GLO-HOA-1245 Door Closer Hold Open Arms, Door Closer Friction Hold Open Arms, Global Door Controls HOA-1245 hold-open arms, 12 mm square shaft, 12mm shaft, 1/2 inch shafts, friction type arms, Global Door Controls hold open arms, hold open closers,"
+            },
+            "specifications": [
+                {
+                    "key": "Arm Length",
+                    "value": "12\""
+                },
+                {
+                    "key": "Forearm Length",
+                    "value": "Min: 10-1/4\" Max: 15-1/4\""
+                },
+                {
+                    "key": "Thread",
+                    "value": "10mm 1.25"
+                },
+                {
+                    "key": "Closer Shaft Mounting Hole",
+                    "value": "12mm Square"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Global Discontinued",
+                    "sort": "53"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "232302",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "195862",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "188623",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "15322",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "15147",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "173138",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "173090",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "195858",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "195860",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "195856",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Arm Length: 12\"",
+                "Forearm Length: Min: 10-1/4\" Max: 15-1/4\"",
+                "Thread: 10mm 1.25",
+                "Closer Shaft Mounting Hole: 12mm Square",
+                "Select Finish: AL: Aluminum",
+                "Select Finish: DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AL"
+                },
+                {
+                    "value": "DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DU"
+                }
+            ]
+        }
+    ]
+}

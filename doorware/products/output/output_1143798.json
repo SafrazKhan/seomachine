@@ -1,0 +1,86 @@
+{
+    "legacy_product_id": "1143798",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Emtek Tubular Handlesets Extension Kit KT4-EXTTUBSGL",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-KT4-EXTTUBSGL",
+            "mpn": "EMT-KT4-EXTTUBSGL",
+            "price": "16.0",
+            "compare_at_price": "16.0",
+            "contractor_price": "16.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Emtek Tubular Handlesets Extension Kit KT4-EXTTUBSG",
+                "EMT-KT4-EXTTUBSGL",
+                "Emtek KT4-EXTTUBSG Tubular Handlesets Extension Kit"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525186.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525186.gif?v=1716428451"
+        },
+        "text": {
+            "description_html": "<b>Emtek KT4-EXTTUBSG Tubular Handlesets Extension Kit</b>\r\n\r\n<p>\r\nThis is an extension kit for <a href=\"/collections/emtek-tubular-handlesets\"><b>Emtek Tubular Handlesets</b></a> for a door thicknesses of 2-1/8\".\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Emtek Tubular Handlesets Extension Kit",
+                "description": "This is an extension kit for Emtek Tubular Handlesets.",
+                "keywords": "Emtek Tubular Handlesets Extension Kit KT4-EXTTUBSG, EMT-KT4-EXTTUBSGL, Emtek KT4-EXTTUBSG Tubular Handlesets Extension Kit"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "30"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "761063",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "761045",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1053675",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1068929",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: FBS: Flat Black Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FBS: Flat Black Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

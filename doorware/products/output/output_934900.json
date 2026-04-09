@@ -1,0 +1,50 @@
+{
+    "legacy_product_id": "934900",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Emtek Back to Back Mounting Screws",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "BTB-Screw",
+            "mpn": "BTB-Screw",
+            "price": "5.0",
+            "compare_at_price": "5.0",
+            "contractor_price": "5.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Back to Back Mounting"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/special_order-52531.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/special_order-52531.jpg?v=1717790547"
+        },
+        "text": {
+            "description_html": "<b>Emtek Back to Back Mounting Screws</b>\r\n<p>Back to back mounting screws for Emtek door pulls\r\n</p>",
+            "seo": {
+                "title": "Emtek Back to Back Mounting Screws",
+                "description": "Back to Back Mounting",
+                "keywords": "Back to Back Mounting"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Discontinued",
+                    "sort": "30"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

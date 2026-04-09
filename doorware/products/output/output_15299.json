@@ -1,0 +1,154 @@
+{
+    "legacy_product_id": "15299",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "TC2201 Global Grade 3 Surface Mounted Door Closer",
+            "vendor": "Global",
+            "status": "ARCHIVED",
+            "sku": "GLO-TC2201",
+            "mpn": "GLO-TC2201",
+            "price": "96.22",
+            "compare_at_price": "121.04",
+            "contractor_price": "84.72",
+            "shipping_weight": "10.0",
+            "tags": [
+                "TC2200",
+                "Series",
+                "Door  Closer",
+                "glo-tc2201",
+                "Global Door Controles TC2201 overhead closer",
+                "door closers",
+                "store front door closers",
+                "surface mounted door closers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>TC2201 Global Door Controls Surface Mount Door Closer</b>\r\n<p>\r\nGlobal Series TC2201 Door Closer is an economically priced door \r\ncloser for use on both exterior and interior doors in commercial and storefront applications. \r\nThey fit a common 9 1/6\" x 3/4\" mounting hole pattern and packaged complete with wood and machine screws.\r\n</p>\r\n<p>\r\nGlobal Series TC2201 Door Closers are non handed and, for standard non-hold open or hold open applications. They can be \r\nmounted on regular and top jamb installations. An optional mounting bracket is available for parallel installations.\r\n</p>\r\n<p>Also available: <a href=\"/products/surface-mounted-ada-compliant-door-closer-global-tc2201ada\"><b>ADA Compliant Closer Size 1-4</b></a></p>\r\n<p>\r\n<p>\r\nThe TC2201 offering adjustable spring power sizes 2 - 5 for use on doors up to 243 pounds.\r\n</p>\r\n\r\n\r\n<p>\r\n<b>\r\nSpecifications and Features:</b>\r\n<ul>\r\n<li>Adjustable closing speed</li>\r\n<li>Adjustable latching speed</li>\r\n<li>Adjustable back check</li>\r\n<li>Aluminum Alloy Shell</li>\r\n<li>Closer Body Length: 9 7/8\"</li>\r\n<li>Horizontal Mounting Holes: 9 1/16\"</li>\r\n<li>Vertical Mounting Holes: 3/4\"</li>\r\n<li>Maximum Door Weight: 243 lbs</li>\r\n<li>Maximum Door Size: 48\" interior / 42\" exterior</li>\r\n<li>Spring Size: 2-5</li>\r\n<li>Non Handed</li>\r\n<li>Grade 3</li>\r\n<li>10 Year Warranty</li>\r\n<li>UL 10C  Approved</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<i>NOTE: the standard arm shown in the upper right product image is included.</i>\r\n</p>\r\n<p>\r\nIf desired, you can add an optional <a href=\"/collections/global-tc200-tc400-tc500-tc600-series\">Parallel Arm Bracket PAB-2200  - AND / OR  - Optional Hold Open Arm HOA-1245</a> below.\r\n</p>\r\n<p>\r\n<a href=\"/collections/global-tc200-tc400-tc500-tc600-series\"><img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/global-tc2200-arms.jpg?v=1704354566\" width=\"450\" height=\"150\" border=\"0\" alt=\"Door Closer Accessories Arms\"></a>\r\n</p>",
+            "seo": {
+                "title": "TC2201 Global Grade 3 Surface Mounted Door Closer",
+                "description": "Global Door Controles TC2201 - The TC2201 Door Closer is an economically priced door \r\ncloser for use on both exterior and interior doors in commercial and storefront applications with a power size 2-2. \r\nThey fit a common 9 1/6 x 3/4 mounting hole pattern and packaged complete with wood and machine screws.",
+                "keywords": "TC2200, Series, Door  Closer, glo-tc2201, Global Door Controles TC2201 overhead closer, door closers, store front door closers, surface mounted door closers,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Global Discontinued",
+                    "sort": "11"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "181024",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "208374",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "71327",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "70909",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "173090",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "173111",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "173123",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Closer Options: GLO-TC2201 - None",
+                "Select Closer Options: GLO-TC2201-PAB - With Parallel Arm Bracket",
+                "Select Closer Options: GLO-TC2201-HO - With Hold Open Arm",
+                "Select Closer Options: GLO-TC2201-HO-PAB - With Hold Open & Parallel Bracket",
+                "Select Finish: DU - Dark Bronze",
+                "Select Finish: AL - Aluminum"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Closer Options",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GLO-TC2201 - None",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-TC2201"
+                },
+                {
+                    "value": "GLO-TC2201-PAB - With Parallel Arm Bracket",
+                    "price_impact": 5.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-TC2201-PAB1245"
+                },
+                {
+                    "value": "GLO-TC2201-HO - With Hold Open Arm",
+                    "price_impact": 18.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-TC2201-HO"
+                },
+                {
+                    "value": "GLO-TC2201-HO-PAB - With Hold Open & Parallel Bracket",
+                    "price_impact": 28.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-TC2201-HO-PAB-1245"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DU - Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AL - Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

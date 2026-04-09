@@ -1,0 +1,152 @@
+{
+    "legacy_product_id": "547923",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "8 x 1.25 Inch Mortise Filler Plate, Don-Jo EF-86",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "DJO-EF-86",
+            "mpn": "DJO-EF-86",
+            "price": "8.6",
+            "compare_at_price": "10.75",
+            "contractor_price": "7.74",
+            "shipping_weight": "0.5",
+            "tags": [
+                "DJO-EF-86 Mortise Lock Filler Plates",
+                "door edge filler plates",
+                "mortise filler plates",
+                "Don-Jo EF-86 Mortise Lock Filler Plates",
+                "don-jo ef86 plates",
+                "8 x 1.25 Inch Mortise Filler Plates",
+                "donjo EF-86-PC door plates",
+                "86 Cut Out Mortise Filler Plates",
+                "Don-Jo EF-86-PC",
+                "Don-Jo EF-86-CP",
+                "Don-Jo EF-86-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-EF-86-mortise-plate_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-EF-86-mortise-plate_525.jpg?v=1716424345"
+        },
+        "text": {
+            "description_html": "<b>Don-Jo EF-86, Mortise Lock Filler Plate</b>\r\n\r\n<p>\r\nThis filler plate allows for the conversion from an 86 cut out (standard mortise lock). Used for residential or commercial doors to cover the area where a mortise lock box was removed. Packaged with 2 installation screws.\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/don-jo-EF-86_size.gif?v=1704354558\" width=\"600\" height=\"300\" border=\"0\" alt=\"Don-Jo EF-86 mortise filler plate size\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Don-Jo EF-86 Mortise Filler Plate:\r\n<ul>\r\n<li>Plate Height: 8\"</li>\r\n<li>Plate Width: 1-1/4\"</li>\r\n<li>Plate Thickness: 3/16\"</li>\r\n<li>Material: Steel</li>\r\n<li>Fasteners: 2 each #12-24 x 1/2\" Flat Head Machine Screws</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EF-86.pdf?v=1704262308\" target=\"new\"><b>Don-Jo EF-86 Filler Plate Dimensions (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold Individually. </b>\r\n</p>",
+            "seo": {
+                "title": "8 x 1.25 Inch Mortise Filler Plate, Don-Jo EF-86",
+                "description": "Don-Jo EF-86 Mortise Lock Filler Plate. 8 x 1-1/4 mortise lock filler plate. Used for residential or commercial  doors to cover the door area where a mortise lock was removed from the door. ",
+                "keywords": "DJO-EF-86 Mortise Lock Filler Plates, door edge filler plates, mortise filler plates, Don-Jo EF-86 Mortise Lock Filler Plates, don-jo ef86 plates, 8 x 1.25 Inch Mortise Filler Plates, donjo EF-86-PC door plates, 86 Cut Out Mortise Filler Plates, Don-Jo EF-86-PC, Don-Jo EF-86-CP, Don-Jo EF-86-DU"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Height",
+                    "value": "8\""
+                },
+                {
+                    "key": "Plate Width",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Plate Thickness",
+                    "value": "3/16\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Steel"
+                },
+                {
+                    "key": "Fasteners",
+                    "value": "2 each #12-24 x 1/2\" Flat Head Machine Screws"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Latch Conversion and Filler Plates",
+                    "sort": "12"
+                },
+                {
+                    "name": "Door Latch Conversion and Filler Plates",
+                    "sort": "17"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "369161",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "369177",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "369243",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "232931",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "460815",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "248979",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "481441",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Plate Height: 8\"",
+                "Plate Width: 1-1/4\"",
+                "Plate Thickness: 3/16\"",
+                "Material: Steel",
+                "Fasteners: 2 each #12-24 x 1/2\" Flat Head Machine Screws",
+                "Select Finish: PC: Primer",
+                "Select Finish: CP: Chrome Plated",
+                "Select Finish: DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PC: Primer",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CP: Chrome Plated",
+                    "price_impact": 13.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DU: Dark Bronze",
+                    "price_impact": 7.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

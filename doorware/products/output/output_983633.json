@@ -1,0 +1,82 @@
+{
+    "legacy_product_id": "983633",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Faceplate for 5000 Electric Strike, HES 501",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "HES-501",
+            "mpn": "HES-501",
+            "price": "32.0",
+            "compare_at_price": "40.0",
+            "contractor_price": "32.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Faceplate for 5000 Electric Strikes",
+                "HES-501",
+                "HES 501"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/HES-501613-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/HES-501613-525.jpg?v=1716427392"
+        },
+        "text": {
+            "description_html": "<b>HES 501, Faceplate for 5000 Electric Strike</b>\r\n\r\n<p>\r\nThis is a Faceplate for 5000 Electric Strike for use with cylindrical locksets in ANSI metal jambs. ANSI/BHMA Numbers: #E09321, #E09322, #E09323.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the HES Faceplate for 5000 Electric Strike:\r\n<li>ANSI/BHMA Numbers: #E09321, #E09322, #E09323</li>\r\n<li>Square Corner</li>\r\n<li>Flat Faceplate</li>\r\n<li>Height: 4-7/8\"</li>\r\n<li>Width: 1-1/4\"</li>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Faceplate for 5000 Electric Strike",
+                "description": "This is a Faceplate for 5000 Electric Strike for use with cylindrical locksets in ANSI metal jambs. ANSI/BHMA Numbers: #E09321, #E09322, #E09323.",
+                "keywords": "Faceplate for 5000 Electric Strikes, HES-501,  HES 501,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "HES Electric Strikes",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "716472",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "716359",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "193837",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 613: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "613: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

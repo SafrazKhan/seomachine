@@ -1,0 +1,189 @@
+{
+    "legacy_product_id": "239935",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Gothic Decorative Push Plate, Brass Accents A04-P5600",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "BRA-A04-P5600",
+            "mpn": "BRA-A04-P5600",
+            "price": "158.4",
+            "compare_at_price": "198.0",
+            "contractor_price": "150.48",
+            "shipping_weight": "4.0",
+            "tags": [
+                "BRA-A04-P5600 Decorative Gothic Push Plates",
+                "Decorative  Push Plates",
+                "Brass Accents Gothic Push Plates",
+                "Brass Accents A04-P5600 Solid Brass Decorative Gothic Push Plate 3-3/8 x 16",
+                "Brass Accents Renaissance Collection door hardware sets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BRA-A04-P5600-gothic-plate_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BRA-A04-P5600-gothic-plate_525.jpg?v=1716422347"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents Decorative Gothic Push Plate 3-3/8\" Wide x 16\" High</b>\r\n\r\n<p>\r\nThis decorative Gothic push plate from the Brass Accents Renaissance Collection. Highly detailed solid cast brass styled in a German Gothic design, popular around 1910.\r\n</p>\r\n\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance, hand finished in the USA. They are one of the worlds leading crafters of decorative hot-forged  and cast brass door hardware.\r\n</p>\r\n\r\n<p>\r\nAlso available: <b>Matching <a href=\"/products/gothic-decorative-pull-plate-brass-accents-a04-p5601\">Decorative Gothic Pull Plate</a>\r\n</b>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Brass Accents A04-P5600 Decorative Gothic Push Plate:\r\n<ul>\r\n<li>Plate Width: 3-3/8\"</li>\r\n<li>Plate Height: 16\"</li>\r\n<li>Material: Cast Brass</li>\r\n<li><b>Finish Warranty: 10 Years</b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nComes complete with matching finish mounting screws for easy installation. Hand rubbed and finished in the USA with a 10 year warranty.\r\n</p>",
+            "seo": {
+                "title": "Gothic Decorative Push Plate, Brass Accents A04-P5600",
+                "description": "Brass Accents A04-P5600 - This decorative Gothic push plate from the Brass Accents Renaissance Collection. Highly detailed solid cast brass styled in a German Gothic design, popular around 1910.",
+                "keywords": "BRA-A04-P5600 Decorative Gothic Push Plates, Decorative  Push Plates, Brass Accents Gothic Push Plates, Brass Accents A04-P5600 Solid Brass Decorative Gothic Push Plate 3-3/8 x 16, Brass Accents Renaissance Collection door hardware sets,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Width",
+                    "value": "3-3/8\""
+                },
+                {
+                    "key": "Plate Height",
+                    "value": "16\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Cast Brass"
+                },
+                {
+                    "key": "Finish Warranty",
+                    "value": "10 Years"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Decorative Door Pull and Push Plates",
+                    "sort": "103"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "239293",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "239778",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "239938",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "141705",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "141876",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "177058",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "13160",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "141924",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "141993",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "143756",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Plate Width: 3-3/8\"",
+                "Plate Height: 16\"",
+                "Material: Cast Brass",
+                "Finish Warranty: 10 Years",
+                "Select Finish: Polished Brass",
+                "Select Finish: Antique Brass",
+                "Select Finish: Aged Brass",
+                "Select Finish: Matte Black",
+                "Select Finish: Satin Nickel",
+                "Select Finish: Satin Brass",
+                "Select Finish: Oil Rubbed Bronze",
+                "Select Finish: Venetian Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Aged Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

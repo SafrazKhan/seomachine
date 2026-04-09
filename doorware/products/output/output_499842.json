@@ -1,0 +1,105 @@
+{
+    "legacy_product_id": "499842",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "LCN 4040 Closer Cover",
+            "vendor": "LCN",
+            "status": "ACTIVE",
+            "sku": "LCN-4040XP72",
+            "mpn": "LCN-4040XP72",
+            "price": "40.5",
+            "compare_at_price": "40.5",
+            "contractor_price": "40.5",
+            "shipping_weight": "3.0",
+            "tags": [
+                "LCN-4040-72 LCN 4040XP Door Closer Cover",
+                "LCN 4040-72 LCN 4040 Super Smoothee door closers",
+                "LCN 4040XP72 closer covers",
+                "LCN-4040XP72 closer covers",
+                "4040XP72AL",
+                "4040XP72DKB"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LCN-4040-cover_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LCN-4040-cover_525.jpg?v=1716424255"
+        },
+        "text": {
+            "description_html": "<b>LCN 4040 Door Closer Cover</b>\r\n\r\n<p>Full sized plastic cover for <a href=\"/products/lcn-4040-super-smoothee-grade-1-door-closer\"><b>LCN 4040XP Super Smoothee door closers</b></a> . \r\n</p>\r\n<p>Non Handed. <br>\r\nAvailable in Aluminum or Dark Bronze finish. \r\n</p>",
+            "seo": {
+                "title": "LCN 4040 Closer Cover",
+                "description": "LCN 4040XP72 Full sized plastic cover for LCN 4040XP Super Smoothee door closers. Available in Aluminum or Dark Bronze finish.",
+                "keywords": "LCN-4040-72 LCN 4040XP Door Closer Cover, LCN 4040-72 LCN 4040 Super Smoothee door closers, LCN 4040XP72 closer covers, LCN-4040XP72 closer covers, 4040XP72AL, 4040XP72DKB"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closer Parts",
+                    "sort": "100"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "420608",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "750570",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "620153",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "203826",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "285720",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "191087",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 4040XP72AL: Aluminum",
+                "Select Finish: 4040XP72DKB: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "4040XP72AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "4040XP72DKB: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

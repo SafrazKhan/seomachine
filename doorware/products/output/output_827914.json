@@ -1,0 +1,96 @@
+{
+    "legacy_product_id": "827914",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "2-1/2 Inch Convex Wall Bumper, Ives WS407CVX",
+            "vendor": "Ives",
+            "status": "ARCHIVED",
+            "sku": "IVES-WS407CVX",
+            "mpn": "IVES-WS407CVX",
+            "price": "4.1",
+            "compare_at_price": "4.1",
+            "contractor_price": "4.1",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Ives Convex Wall Stops",
+                "2-1/2 Inch Convex Wall Bumpers",
+                "Ives WS407CVX",
+                "IVES-WS407CVX",
+                "Brass Convex Rubber Wall Bumper"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/IVES-WS407CVX-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/IVES-WS407CVX-525.jpg?v=1716425904"
+        },
+        "text": {
+            "description_html": "<b>Ives WS407CVX, Convex Rubber Wall Bumper</b>\r\n\r\n<p>\r\nThis 2-1/2 Inch Convex Wall Bumper is made by Ives. By mounting the door stop on the wall, and centering it where the door knob makes contact, you can protect both the wall and the knob. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Convex Rubber Wall Bumper:\r\n<ul>\r\n<li>Base Diameter: 2-1/2”</li>\r\n<li>Base Thickness: 3/8”</li>\r\n<li>Overall Projection: 1”</li>\r\n<li>Packaged with screw and drywall anchor.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i> Special Ordered Item <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "2-1/2 Inch Convex Wall Bumper",
+                "description": "This 2-1/2 Inch Convex Wall Bumper is made by Ives. By mounting the door stop on the wall, and centering it where the door knob makes contact, you can protect both the wall and the knob.",
+                "keywords": "Ives Convex Wall Stops, 2-1/2 Inch Convex Wall Bumpers, Ives WS407CVX, IVES-WS407CVX, Brass Convex Rubber Wall Bumper"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Ives",
+                    "sort": "11"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "428553",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "576347",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "6905",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "6918",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US4 - Satin Brass",
+                "Select Finish: US26D - Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US4 - Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26D - Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "legacy_product_id": "1066604",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Omnia Urn Tip Solid Brass Hinge Finial",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-URN-TIP",
+            "mpn": "OMN-URN-TIP",
+            "price": "3.25",
+            "compare_at_price": "3.25",
+            "contractor_price": "3.25",
+            "shipping_weight": "0.25",
+            "tags": [
+                "OMN-URN-TIP",
+                "Omnia Urn Tip Solid Brass Finials",
+                "Omnia Solid Brass Urn Finial",
+                "Omnia Urn Tip Solid Brass Hinge Finial"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-URN_TIP-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-URN_TIP-525.jpg?v=1716428032"
+        },
+        "text": {
+            "description_html": "<b>Omnia Solid Brass Urn Finial</b>\r\n\r\n<p>\r\nAn easy screw-on installation makes this hinge finial an effortless way to add the finishing details that help turn a house into a beautiful home. The Urn Finial is made by Omnia out of durable solid brass so you know it will last through years of continuous use.\r\n</p>\r\n\r\n<p>\r\nHinge finials (tips) are packaged and sold individually. Order 2 per hinge, if you want finials on both the top and bottom of the hinge. For use with not Brass Door Hinges.\r\n</p>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Omnia Urn Tip Solid Brass Hinge Finial",
+                "description": "An easy screw-on installation makes this hinge finial an effortless way to add the finishing details that help turn a house into a beautiful home. The Urn finial is made by Omnia out of durable solid brass so you know it will last through years of continuous use.",
+                "keywords": "OMN-URN-TIP, Omnia Urn Tip Solid Brass Finials, Omnia Solid Brass Urn Finial, Omnia Urn Tip Solid Brass Hinge Finial,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "250"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "290235",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "8459",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "563654",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "903066",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US3: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

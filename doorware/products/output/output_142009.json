@@ -1,0 +1,141 @@
+{
+    "legacy_product_id": "142009",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Trafalgar Rope Solid Brass Pull And Plate, Brass Accents A06-P0251",
+            "vendor": "BrassAccents",
+            "status": "ACTIVE",
+            "sku": "BRA-A06-P0251",
+            "mpn": "BRA-A06-P0251",
+            "price": "112.99",
+            "compare_at_price": "141.0",
+            "contractor_price": "112.99",
+            "shipping_weight": "4.0",
+            "tags": [
+                "BRA-A06-P0251 Decorative 2-1/2 x 10-1/2 Door Pull Plates",
+                "Decorative Push Plates",
+                "Brass Accents trafalgar Pull Plates",
+                "A06-P0251 Solid Brass trafalgar Pull Plate 2-1/2 x 10-1/2",
+                "Brass Accents Renaissance Collection door hardware sets",
+                "decorative door pulls",
+                "door pull handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/A06-P0251-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/A06-P0251-5251.jpg?v=1716421348"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents Decorative Trafalgar Rope Door Pull Plate 2-3/4\" Wide x 11\" High</b>\r\n\r\n<p>\r\nThis dramatic cathedral arched rope plate, done in the Georgian style is a reproduction of the Elsley twisted rope plate c. 1880. \r\n</p>\r\n\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance, hand finished in the USA. They are one of the worlds leading crafters of decorative hot-forged  and cast brass door hardware.\r\n</p>\r\n\r\n<p>\r\nAlso Available: <b><a href=\"/products/trafalgar-rope-solid-brass-push-plate-brass-accent-a06-p0250\">Trafalgar Rope Push Plate</a></b>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Trafalgar Brass Accents A06-P0251 Decorative Pull Plate\r\n<ul>\r\n<li>Plate Width: 2-3/4\"</li>\r\n<li>Plate Height: 11\"</li>\r\n<li>Pull Length: 6\"</li>\r\n<li>Pull Handle Projection: 2.5\"</li>\r\n<li>Material: Cast Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nComes complete with matching finish mounting screws for easy installation.\r\n</p>",
+            "seo": {
+                "title": "Trafalgar Rope Solid Brass Pull And Plate, Brass Accents A06-P0251",
+                "description": "Brass Accents A06-P0251 Trafalgar Rope Push Plate 2-1/2 x 10-1/2 . This dramatic cathedral arched rope plate, done in the Georgian style is a reproduction of the Elsley twisted rope plate c. 1880. \r\n",
+                "keywords": "BRA-A06-P0251 Decorative 2-1/2 x 10-1/2 Door Pull Plates, Decorative Push Plates, Brass Accents trafalgar Pull Plates, A06-P0251 Solid Brass trafalgar Pull Plate 2-1/2 x 10-1/2, Brass Accents Renaissance Collection door hardware sets, decorative door pulls, door pull handles,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Width",
+                    "value": "2-3/4\""
+                },
+                {
+                    "key": "Plate Height",
+                    "value": "11\""
+                },
+                {
+                    "key": "Pull Length",
+                    "value": "6\""
+                },
+                {
+                    "key": "Pull Handle Projection",
+                    "value": "2.5\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Cast Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Pull & Push Plates",
+                    "sort": "20"
+                },
+                {
+                    "name": "Decorative Door Pull and Push Plates",
+                    "sort": "19"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "143788",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "195685",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "157008",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "142041",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "142078",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "143869",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "195651",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "6712",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "141924",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Plate Width: 2-3/4\"",
+                "Plate Height: 11\"",
+                "Pull Length: 6\"",
+                "Pull Handle Projection: 2.5\"",
+                "Material: Cast Brass",
+                "Select Finish: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Oil"
+                }
+            ]
+        }
+    ]
+}

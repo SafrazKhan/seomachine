@@ -1,0 +1,88 @@
+{
+    "legacy_product_id": "922745",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Classic 1-3/4 Inch Diameter Knob Minus Rose, Pair, Baldwin 5030.MR",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-5030.MR",
+            "mpn": "BAL-5030.MR",
+            "price": "246.0",
+            "compare_at_price": "246.0",
+            "contractor_price": "246.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Baldwin 5030 Classic Knob Pair",
+                "Baldwin Estates 5030.MR Minus Roses",
+                "Classic 1-3/4 Inch Diameter Knob Minus Rose",
+                "Baldwin 5030.MR",
+                "BAL-5030.MR"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-5030.060.MR-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-5030.060.MR-525.jpg?v=1716426882"
+        },
+        "text": {
+            "description_html": "<b>Baldwin Estates Collection 5030 Knob </b>\r\n\r\n<p>\r\nThe classic design of this 1-3/4 inch diameter knob allows it to look beautiful in almost any setting. Made by Baldwin out of solid brass, you know that it is made with attention to both style and quality. This is a knob pair packaged without Rosettes.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Baldwin 5030 Classic Knob Pair:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Knob Diameter: 1-3/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Classic 1-3/4 Inch Diameter Knob Minus Rose",
+                "description": "The classic design of this 1-3/4 inch diameter knob allows it to look beautiful in almost any setting. Made by Baldwin out of solid brass, you know that it is made with attention to both style and quality. This is a knob pair packaged without Rosettes.",
+                "keywords": "Baldwin 5030 Classic Knob Pair, Baldwin Estates 5030.MR Minus Roses, Classic 1-3/4 Inch Diameter Knob Minus Rose, Baldwin 5030.MR, BAL-5030.MR,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "35"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "327462",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "289840",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "477558",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "558806",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 060 - Satin Brass with Brown"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish ",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "060 - Satin Brass with Brown",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

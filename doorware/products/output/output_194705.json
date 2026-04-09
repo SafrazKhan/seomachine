@@ -1,0 +1,76 @@
+{
+    "legacy_product_id": "194705",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "6-Inch Rustic Sand Cast Bronze Appliance Pull, Fusion GRB-908",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "GRB-908",
+            "mpn": "GRB-908",
+            "price": "63.0",
+            "compare_at_price": "79.0",
+            "contractor_price": "60.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "6-Inch Rustic Sand Cast Bronze Appliance Pulls",
+                "Fusion GRB-908 rustic design bronze Refrigerator pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRB-908_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRB-908_525.jpg?v=1716421886"
+        },
+        "text": {
+            "description_html": "<b>Fusion GRB-908 6-Inch Rustic Sand Cast Bronze Refrigerator/Appliance Pulls</b>\r\n<p>This 6 inch appliance pull is crafted using sand casting with <b>solid bronze</b> for a true rustic appearance. Fusion hardware famous for their high quality craftmanship and distinctive designs at affordable prices.\r\n</p>\r\n<p>6\" center to center mounting. \r\n<br>Packaged with appliance panel mounting screws. \r\n</p>\r\n<p>\r\n<br>Available in Medium Bronze or Dark Bronze finish.\r\n</p>",
+            "seo": {
+                "title": "6-Inch Rustic Sand Cast Bronze Appliance Pull, Fusion GRB-908",
+                "description": "Fusion GRB-908 6-Inch Rustic Sand Cast Bronze Appliance Pulls. Available in Medium Bronze or Dark Bronze finish.",
+                "keywords": "6-Inch Rustic Sand Cast Bronze Appliance Pulls, Fusion GRB-908 rustic design bronze Refrigerator pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Fusion-MISC-Discontinued",
+                    "sort": "36"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: GRB-908-MDB: Medium Bronze",
+                "Select Finish: GRB-908-DKB: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GRB-908-MDB: Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRB-908-DKB: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

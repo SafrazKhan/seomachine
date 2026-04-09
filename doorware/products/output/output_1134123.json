@@ -1,0 +1,102 @@
+{
+    "legacy_product_id": "1134123",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Mortise Faceplate for 7035/N Passage Pocket Door Set, Omnia 1230FPN",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-1230FPN",
+            "mpn": "OMN-1230FPN",
+            "price": "25.0",
+            "compare_at_price": "25.0",
+            "contractor_price": "25.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "OMN-1230FPN",
+                "Mortise Faceplate for 7035/N Passage Pocket Door Set",
+                "Omnia 1230FPN",
+                "Faceplate for Omnia 7035/N"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525177.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525177.gif?v=1716428371"
+        },
+        "text": {
+            "description_html": "<b>Mortise Faceplate for 7035/N Passage Pocket Door Set,</b>\r\n\r\n<p>\r\nThis is a Replacement Mortise  Faceplate for use with the <a href=\"/products/7-inch-pocket-door-passage-set-omnia-7035-n\">Omnia 7035/N 7 Inch Pocket Door Passage Set</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Faceplate for Omnia 7035/N:\r\n<ul>\r\n<li>Length: 5-1/2”</li>\r\n<li>Width: 1\"</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Mortise Faceplate for 7035/N Passage Pocket Door Set,",
+                "description": "This is a Replacement Mortise  Faceplate for use with the Omnia 7035/N 7 Inch Pocket Door Passage Set.",
+                "keywords": "OMN-1230FPN, Mortise Faceplate for 7035/N Passage Pocket Door Set, Omnia 1230FPN, Faceplate for Omnia 7035/N"
+            },
+            "specifications": [
+                {
+                    "key": "Length",
+                    "value": "5-1/2”"
+                },
+                {
+                    "key": "Width",
+                    "value": "1\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "106"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "930135",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "930181",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1123146",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "930163",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "643667",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Length: 5-1/2”",
+                "Width: 1\"",
+                "Select Finish: US26D: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

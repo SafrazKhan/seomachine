@@ -1,0 +1,205 @@
+{
+    "legacy_product_id": "763566",
+    "sync_state": {
+        "needs_update": true,
+        "sync_status": "in_progress",
+        "last_synced": "2026-04-03T16:10:28.407243"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Aluminum Store Door Push Bar Up to 36 Inches, Don-Jo 147",
+            "vendor": "Don-Jo",
+            "status": "ARCHIVED",
+            "sku": "DJO-147-xx",
+            "mpn": "DJO-147-xx",
+            "price": "98.0",
+            "compare_at_price": "98.0",
+            "contractor_price": "98.0",
+            "shipping_weight": "7.0",
+            "tags": [
+                "DJO-147-xx",
+                "Solid Aluminum Store Door Push Bar Up to 36 Inches",
+                "Solid Aluminum Push Bar"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-147-628_52512.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-147-628_52512.jpg?v=1716425522"
+        },
+        "text": {
+            "description_html": "<b>Solid Aluminum Push Bar</b>\r\n\r\n<p>\r\nThis Solid Aluminum Store Door Push Bar is custom made to order to fit your specific needs. It is available in lengths up to 36 inches.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Don-Jo 147 Push Bar:\r\n<ul>\r\n<li>Material: Solid Aluminum </li>\r\n<li>Push Bar Diameter: 1\"</li>\r\n<li>Projection 2-1/2”</li>\r\n<li>Clearance 1-1/2”</li>\r\n<li>ANSI J501</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>When Selecting a Mounting Hardware:</b>\r\n<ul>\r\n<li><b>Thru-Bolted Mounting:</b> Pull bolts through the door.</li>\r\n<li><b>Surface Mounting:</b> Pull screws to the face of the door.</li>\r\n<li><b>Back-to-Back Mounting:</b> Pulls bolt to each other through the door. <b>Requires 2 pulls</b>.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nMade to order. <b>NOT Returnable.</b> \r\n</p>",
+            "seo": {
+                "title": "Solid Aluminum Store Door Push Bar Up to 36 Inches",
+                "description": "",
+                "keywords": "DJO-147-xx, Solid Aluminum Store Door Push Bar Up to 36 Inches, Solid Aluminum Push Bar,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Aluminum"
+                },
+                {
+                    "key": "Push Bar Diameter",
+                    "value": "1\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Don-Jo Custom Items",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Material: Solid Aluminum",
+                "Push Bar Diameter: 1\"",
+                "Select Finish: 628 - Satin Aluminum",
+                "Select Finish: 313 - Duro Bronze",
+                "Select Center to Center: DJO-147-26-7/8-628: 26-7/8in. center to center",
+                "Select Center to Center: DJO - 147-28: 28in. center to center",
+                "Select Center to Center: DJO - 147-32: 32in. center to center",
+                "Select Center to Center: DJO - 147-33: 33in. center to center",
+                "Select Center to Center: DJO - 147-33-1/2: 33-1/2in. center to center",
+                "Select Center to Center: DJO - 147-39: 39in. center to center",
+                "Select Mounting Choice: Thrubolt Mounted",
+                "Select Mounting Choice: Surface Mounted",
+                "Select Mounting Choice: Back to Back Mounted (Requires 2 Pulls)",
+                "Select Door Material: Metal",
+                "Select Door Material: Wood / Fiberglass",
+                "Select Door Material: Glass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "628 - Satin Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "313 - Duro Bronze",
+                    "price_impact": 9.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Center to Center",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DJO-147-26-7/8-628: 26-7/8in. center to center",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DJO - 147-28: 28in. center to center",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DJO - 147-32: 32in. center to center",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DJO - 147-33: 33in. center to center",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DJO - 147-33-1/2: 33-1/2in. center to center",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DJO - 147-39: 39in. center to center",
+                    "price_impact": 15.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Mounting Choice",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Thrubolt Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Surface Mounted",
+                    "price_impact": 10.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Back to Back Mounted (Requires 2 Pulls)",
+                    "price_impact": 10.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Material",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Metal",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Wood / Fiberglass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Glass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

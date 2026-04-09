@@ -1,0 +1,185 @@
+{
+    "legacy_product_id": "37624",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Omnia Ornate Collection Leverset OMN-572/00",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-572/00",
+            "mpn": "OMN-572/00",
+            "price": "60.8",
+            "compare_at_price": "76.0",
+            "contractor_price": "57.76",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Omnia Ornate Collection",
+                "Leverset Number 572",
+                "omnia ornate",
+                "brass collection",
+                "leverset number 572",
+                "OMN-572/00",
+                "572/00"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Omnia Ornate Collection Leverset Number OMN-572/00</b>\r\n<p>\r\nFor more than 40 years, Omnia's line of products are designed to enhance any setting where a modern, sophisticated look is desired. Every piece is strong and durable, made from premium grade material and coupled with interior components that prove worthy of Omnia's exceptional standards. \r\n</p>\r\n<p>\r\n<ul>\r\n<li>Lever length: 5\". Projection: 2 9/16\"</li>\r\n<li>Will fit 2 1/8\" bore</li>\r\n<li>For commercial and residential use</li>\r\n<li>2 3/8\" or 2 3/4\" Backset</li>\r\n<li>Solid Brass Construction</li>\r\n<li>Concealed screw rose 2 5/8\" covers 2 1/8\" hole.</li>\r\n<li>All Levers meet <a href=\"/pages/ada-compliant\">Americans with Disabilities Act (ADA)</a></li>\r\n</ul>\r\n</p>\r\n<p>\r\n<ul>\r\n<li>Tubular Latch Specs</li>\r\n<li>All dimensions are standard to fit existing bores for easy replacement installations.</li>\r\n<li>Tough, non rusting materials are used throughout.</li>\r\n<li>Critical interior parts are made of brass</li>\r\n<li>28 degrees rotation to retract latch.</li>\r\n\r\n</ul>\r\n</p>\r\n<p>\r\nWhen choosing a function:\r\n</p>\r\n<p>\r\n<ul>\r\n<li>Single Dummy: For use as a pull or to match trim.</li>\r\n<li>Privacy (Bedroom or Bathroom): For doors that could need locking.</li>\r\n<li>Double (Pair) Dummy: Stationary both sides of door</li>\r\n<li>Passage (Hall or Closet): For doors that don't need locking.</li>\r\n</ul>\r\n</p>\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>\r\n<br>",
+            "seo": {
+                "title": "Omnia Ornate Collection Leverset OMN-572/00",
+                "description": "Omnia Ornate Collection Leverset Number 572\r\nProjection x Length   \r\n 2-9/16 x 5\r\nClick below to choose the different options. OMN-572/00",
+                "keywords": "Omnia Ornate Collection, Leverset Number 572, omnia ornate, brass collection, leverset number 572, OMN-572/00, 572/00,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Function: 572/00 - SD - Single Dummy",
+                "Select Function: 572/00 - PR - Privacy",
+                "Select Function: 572/00 - PD - Pair Dummy",
+                "Select Function: 572/00 - PA - Passage",
+                "Select Finish: OMN-572/00 - US3 - Polished Brass",
+                "Select Finish: OMN-572/00 - SB - Shaded Bronze",
+                "Select Backset: 2-3/8in. Backset",
+                "Select Backset: 2-3/4in. Backset",
+                "Select Door Thickness: 1-3/8in. Door Thickness",
+                "Select Door Thickness: 1-3/4in. Door Thickness",
+                "Select Door Thickness: 2in. Door Thickness"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "572/00 - SD - Single Dummy",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SD"
+                },
+                {
+                    "value": "572/00 - PR - Privacy",
+                    "price_impact": 93.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "PR"
+                },
+                {
+                    "value": "572/00 - PD - Pair Dummy",
+                    "price_impact": 59.2,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "PD"
+                },
+                {
+                    "value": "572/00 - PA - Passage",
+                    "price_impact": 82.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "PA"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-572/00 - US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US3"
+                },
+                {
+                    "value": "OMN-572/00 - SB - Shaded Bronze",
+                    "price_impact": 3.89,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SB"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2"
+                },
+                {
+                    "value": "2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1-3/8in. Door Thickness",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "1"
+                },
+                {
+                    "value": "1-3/4in. Door Thickness",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "1"
+                },
+                {
+                    "value": "2in. Door Thickness",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2\""
+                }
+            ]
+        }
+    ]
+}

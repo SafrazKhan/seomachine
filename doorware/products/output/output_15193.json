@@ -1,0 +1,177 @@
+{
+    "legacy_product_id": "15193",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:11:54.709388"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "28 to 36-inch Grade 1 HEAVY DUTY Rim Door Exit Device 8300 Series",
+            "vendor": "Tell mfg",
+            "status": "ARCHIVED",
+            "sku": "TEL-8300",
+            "mpn": "TEL-8300",
+            "price": "271.6",
+            "compare_at_price": "388.0",
+            "contractor_price": "244.6",
+            "shipping_weight": "30.0",
+            "tags": [
+                "tel-8300 Grade 1 Door Exit Devices",
+                "Grade 1 Rim Exit Devices",
+                "TELL 8300 Series Rim Devices",
+                "school exits",
+                "resort hotel exits",
+                "restaurant exit devices"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/8300.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/8300.jpg?v=1717105436"
+        },
+        "text": {
+            "description_html": "<b>8300 Series Heavy-Duty Grade 1 Rim Exit Device</b>\r\n<p>\r\nTell Manufacturing, Inc. was incorporated in 1986 as a manufacturer and distributor of commercial locks and door hardware. Tell has expanded its customer profiles to include, contract hardware distribution, locksmith distributors, OEM manufacturers, and the modular office industry.\r\n</p>\r\n<p>\r\nThese Grade 1 Exit Devices   are popular with resort hotels, restaurants, schools  or anywhere you want to add a long lasting high quality exit device.\r\n</p>\r\n<p>\r\n<ul>\r\n<li>Certification: ANSI A156.3, 1994, Grade 1, UL Listed</li>\r\n<li><b>Rail: Fits 28\" to 36\" doors</b></li>\r\n<li>Latch: Stainless steel 5/8\" throw</li>\r\n<li>Backset: 2 3/4\"</li>\r\n<li>Strike: Adjustable with slotted holes for adjustments</li>\r\n<li>Fasteners: Accomodates wood or metal doors</li>\r\n<li>Door Range: 1 3/4\" to 2\" thickness</li>\r\n<li>Door Preparation: Surface Mounted</li>\r\n<li>Warranty: 10 year limited</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<b>Available in aluminum Finish only:</b>\r\n</p>",
+            "seo": {
+                "title": "28 to 36-inch Grade 1 HEAVY DUTY Rim Door Exit Device 8300 Series",
+                "description": "Tell 8300 Series Heavy Duty Grade 1 Rim Exit Device. \r\n",
+                "keywords": "tel-8300 Grade 1 Door Exit Devices, Grade 1 Rim Exit Devices, TELL 8300 Series Rim Devices, school exits, resort hotel exits, restaurant exit devices,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Tell mfg",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Fire Rating Option: 8300-AL - No do not add Fire Rated to item",
+                "Select Fire Rating Option: F8300-AL - Yes add Fire Rated to item",
+                "Select Inside Trim: None Need",
+                "Select Inside Trim: TEL-8300-8PDT-EX100013 - Dummy Pull",
+                "Select Inside Trim: TEL-8300-8P03-EX100014 -  Dummy Pull w/Cylinder Hole",
+                "Select Inside Trim: TEL-8300-TP81-EX100008 - Keyed Entry (AL aluminum finish)",
+                "Select Inside Trim: TEL-8300-ESC881C-EX100054 - Keyed Entry (US26D satin chrome finish)",
+                "Select Inside Trim: TEL-8300-CTL881-EX100005 - Keyed Entry (US26D satin chrome finish)",
+                "Select Inside Trim: TEL-8300-EMP808-EX100010 -Keyed Entry (US32D) satin stainless steel finish)",
+                "Keying (Select Keyed Alike or Keyed Different): Keyed Different",
+                "Keying (Select Keyed Alike or Keyed Different): Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Fire Rating Option",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "8300-AL - No do not add Fire Rated to item",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "8300-AL/US32D"
+                },
+                {
+                    "value": "F8300-AL - Yes add Fire Rated to item",
+                    "price_impact": 42.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "F8300-AL/US32D"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Inside Trim",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "None Need",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/tel-no_trim3.gif?v=1774586602",
+                    "image_lg": null,
+                    "sku_ref": "None"
+                },
+                {
+                    "value": "TEL-8300-8PDT-EX100013 - Dummy Pull",
+                    "price_impact": 7.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/8pdt_90x90_8113adbc-ba58-4cae-a84b-92c5db9faa15.jpg?v=1774590061",
+                    "image_lg": null,
+                    "sku_ref": "TEL-8300-8PDT-EX100013"
+                },
+                {
+                    "value": "TEL-8300-8P03-EX100014 -  Dummy Pull w/Cylinder Hole",
+                    "price_impact": 9.7,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/8po3_90x90_3a2c80b6-62cd-4d86-96dc-58b083f3e189.jpg?v=1774590061",
+                    "image_lg": null,
+                    "sku_ref": "TEL-8300-8P03-EX100014"
+                },
+                {
+                    "value": "TEL-8300-TP81-EX100008 - Keyed Entry (AL aluminum finish)",
+                    "price_impact": 66.5,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/tp81_90x90_33c1a184-4dda-489a-8377-741ce855f523.jpg?v=1774590061",
+                    "image_lg": null,
+                    "sku_ref": "TEL-8300-TP81-EX100008"
+                },
+                {
+                    "value": "TEL-8300-ESC881C-EX100054 - Keyed Entry (US26D satin chrome finish)",
+                    "price_impact": 108.5,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/esc881c_90x90_ac5b9552-c905-4a12-bfe3-75038483a7b3.jpg?v=1774590061",
+                    "image_lg": null,
+                    "sku_ref": "TEL-8300-ESC881C-EX100054"
+                },
+                {
+                    "value": "TEL-8300-CTL881-EX100005 - Keyed Entry (US26D satin chrome finish)",
+                    "price_impact": 79.8,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ctl881_2_90x90_d2e6d16f-b80d-451a-8dbc-e03afe887808.jpg?v=1774590062",
+                    "image_lg": null,
+                    "sku_ref": "TEL-8300-CTL881-EX100005"
+                },
+                {
+                    "value": "TEL-8300-EMP808-EX100010 -Keyed Entry (US32D) satin stainless steel finish)",
+                    "price_impact": 40.6,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/emp808_90x90_2fb25311-4e11-49e9-9436-42d060d0006f.jpg?v=1774590061",
+                    "image_lg": null,
+                    "sku_ref": "TEL-8300-EMP808-EX100010"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying (Select Keyed Alike or Keyed Different)",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                }
+            ]
+        }
+    ]
+}

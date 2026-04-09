@@ -1,0 +1,76 @@
+{
+    "legacy_product_id": "1209425",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "PDQ KT Series Deadbolt Latch",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PDQ-I430x",
+            "mpn": "PDQ-I430x",
+            "price": "30.0",
+            "compare_at_price": "50.0",
+            "contractor_price": "28.5",
+            "shipping_weight": "0.25",
+            "tags": [
+                "PDQ KT Series Deadbolt Latch",
+                "PDQ-V91904-x21"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDQ-I4302-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PDQ-I4302-525.jpg?v=1717106678"
+        },
+        "text": {
+            "description_html": "<b>Deadlatch for PDQ KT Series</b>\r\n<p>For use with <a href=\"/products/commercial-deadbolt-extra-heavy-duty-pdq-kt-series\"><b>PDQ KT Series Deadbolts</b></a> . \r\n</p>\r\n<p>\r\nAvailable for either 2-3/8\" or 2-3/4\" backsets.\r\n</p>\r\n\r\n\r\n<p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "PDQ KT Series Deadbolt Latch",
+                "description": "PDQ KT Series deadbolt latch for use with KT Series heavy duty deadbolts.  Available in 2-3/8\" or 2-3/4\" backsets.",
+                "keywords": "PDQ KT Series Deadbolt Latch, PDQ-V91904-x21"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Misc Hardware",
+                    "sort": "40"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Backset: PDQ-I4302: 2-3/8in. Backset",
+                "Select Backset: PDQ-I4301: 2-3/4in. BS"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PDQ-I4302: 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PDQ-I4301: 2-3/4in. BS",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

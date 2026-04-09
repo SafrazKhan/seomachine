@@ -1,0 +1,139 @@
+{
+    "legacy_product_id": "1118047",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Commonwealth Lever Interior Trim Kit for Double Cylinder Handlesets, KWI-967-CHL",
+            "vendor": "Kwikset",
+            "status": "ARCHIVED",
+            "sku": "KWI-967-CHL",
+            "mpn": "KWI-967-CHL",
+            "price": "99.7",
+            "compare_at_price": "99.7",
+            "contractor_price": "99.7",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Kwikset Commonwealth Lever Interior Trim Kit for Handleset",
+                "KWI-967-CHL"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525169.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525169.gif?v=1716428298"
+        },
+        "text": {
+            "description_html": "<b>Kwikset Commonwealth Lever Interior Trim Kit for Double Cylinder Handlesets</b>\r\n\r\n<p>\r\nInterior trim pack set for  <a href=\"/collections/kwikset-signature-series\"><b>Kwikset Signature Series Double Cylinder Handlesets</b></a>. \r\n</p>\r\n\r\n\r\n<p>\r\nNote: Does NOT include the exterior handleset.\r\n</p>",
+            "seo": {
+                "title": "Commonwealth Lever Interior Trim Kit for Double Cylinder Handlesets",
+                "description": "Kwikset Commonwealth Lever Interior Trim Kit for Handleset, KWI-967-CHL",
+                "keywords": "Kwikset Commonwealth Lever Interior Trim Kit for Handleset, KWI-967-CHL"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Kwikset Parts",
+                    "sort": "21"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "10002",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "139130",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "10008",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "10014",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US15: Satin Nickel",
+                "Select Handing: LH: Left Handing",
+                "Select Handing: RH: Right Handing",
+                "Keying: I only ordered one.",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LH: Left Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RH: Right Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I only ordered one.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

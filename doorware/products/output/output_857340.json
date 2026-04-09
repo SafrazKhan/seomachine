@@ -1,0 +1,165 @@
+{
+    "legacy_product_id": "857340",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "New York Outlet Plate, Grandeur NYKSWPLTD",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-NYKSWPLTD",
+            "mpn": "GRA-NYKSWPLTD",
+            "price": "22.99",
+            "compare_at_price": "28.0",
+            "contractor_price": "22.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Grandeur NYKSWPLTD",
+                "GRA-NYKSWPLTD",
+                "New York Electrical Outlet Covers",
+                "New York Outlet Plates",
+                "New York Electrical Socket Covers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-NYKSWPLTD-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-NYKSWPLTD-525.jpg?v=1716426064"
+        },
+        "text": {
+            "description_html": "<b>Grandeur NYKSWPLTD, New York Electrical Socket Cover</b>\r\n\r\n<p>\r\nThe New York Outlet Plate is a classic for its versatility. It will fit in almost any decor, modern or traditional. The New York Electrical Socket Cover is available in a wide array of finishes. It comes packaged with the necessary mounting hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur New York Electrical Outlet Cover:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 4-5/8\"</li>\r\n<li>Width: 2-7/8\"</li>\r\n<li>Projection: 5/16\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "New York Outlet Plate",
+                "description": "The New York Outlet Plate is a classic for its versatility. It will fit in almost any decor, modern or traditional. The New York Electrical Socket Cover is available in a wide array of finishes. It comes packaged with the necessary mounting hardware.",
+                "keywords": "Grandeur NYKSWPLTD, GRA-NYKSWPLTD, New York Electrical Outlet Covers, New York Outlet Plates, New York Electrical Socket Covers,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "4-5/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "2-7/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "5/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Electrical Outlet &amp; Switch Plates",
+                    "sort": "90"
+                },
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "45"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "857553",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "857246",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "857564",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "449259",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "823193",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 4-5/8\"",
+                "Width: 2-7/8\"",
+                "Projection: 5/16\"",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: ULB: Unlacquered Brass",
+                "Select Finish: TB: Timeless Bronze",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: AP: Antique Pewter"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ULB: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

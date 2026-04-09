@@ -1,0 +1,90 @@
+{
+    "legacy_product_id": "916072",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin Mortise Cylinder for Pocket Door Entry Sets, Baldwin 8320EMHT",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-8320112EMHT",
+            "mpn": "BAL-8320112EMHT",
+            "price": "82.0",
+            "compare_at_price": "82.0",
+            "contractor_price": "82.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Pocket Door Entry .75 inch Baldwin Cylinders",
+                "Baldwin Mortise Cylinder for Pocket Door Entry Sets",
+                "Baldwin 8320EMHT",
+                "BAL-8320112EMHT",
+                "replacement mortise cylinder for baldwin sliding pocket door locks",
+                "Pocket Door .75 Inch Baldwin Cylinders",
+                "Baldwin 8320-EMHT"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-8320112EMHT-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-8320112EMHT-525.jpg?v=1716426840"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 8320EMHT, Pocket Door .75 Inch Baldwin Cylinder</b>\r\n\r\n<p>\r\nEmhart mortise type with 03 keyway and two keys for use as a replacement with <a href=\"/collections/baldwin-sliding-door-hardware\">Baldwin Mortise Cylinder for Pocket Door Entry Sets</a>.\r\n</p>\r\n\r\n<p>\r\nSpecial ordered item. <b>No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "Baldwin Mortise Cylinder for Pocket Door Entry Sets",
+                "description": "Emhart mortise type with 03 keyway and two keys for use as a replacement with Baldwin Mortise Cylinder for Pocket Door Entry Sets.",
+                "keywords": "Pocket Door Entry .75 inch Baldwin Cylinders, Baldwin Mortise Cylinder for Pocket Door Entry Sets, Baldwin 8320EMHT, BAL-8320112EMHT, replacement mortise cylinder for baldwin sliding pocket door locks, Pocket Door .75 Inch Baldwin Cylinders, Baldwin 8320-EMHT,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "33"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "760745",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "753816",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "184797",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "193392",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 112 - Venetian Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "112 - Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

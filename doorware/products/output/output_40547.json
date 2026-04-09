@@ -1,0 +1,231 @@
+{
+    "legacy_product_id": "40547",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Omnia D3432 Deadbolt Lockset",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "OMN-D3432",
+            "mpn": "OMN-D3432",
+            "price": "71.16",
+            "compare_at_price": "101.65",
+            "contractor_price": "60.99",
+            "shipping_weight": "15.0",
+            "tags": [
+                "Omnia D3432 Deadbolt Lockset omnia d3432 deadbolt lockset"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Omnia D3432 Deadbolt Lockset<br>\r\n<br>\r\n10-9/16\" Overall Height. Center to Center Hole spacing 3 5/8\". <br>\r\n<br>\r\nClick below to choose the different options",
+            "seo": {
+                "title": "Omnia D3432 Deadbolt Lockset",
+                "description": "Omnia D3432 Deadbolt Lockset\r\n\r\n10-9/16 Overall Height. Center to Center Hole spacing 3 5/8. \r\n\r\nClick below to choose the different options",
+                "keywords": "Omnia D3432 Deadbolt Lockset omnia d3432 deadbolt lockset"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Function: SD - Single Dummy",
+                "Select Function: AC - Double Cylinder",
+                "Select Function: PD - Pair Dummy",
+                "Select Function: A - Single Cylinder",
+                "Select Finish: US3 - Polished Brass",
+                "Select Finish: US26 - Polished Chrome",
+                "Select Finish: US26D - Satin Chrome",
+                "Select Finish: SB - Shaded Bronze",
+                "Select Backset: 2-3/8in. Backset",
+                "Select Backset: 2-3/4in. Backset",
+                "Select Door Thickness: 1-3/8in. Door Thickness",
+                "Select Door Thickness: 1-3/4in. Door Thickness",
+                "Select Door Thickness: 2in. Door Thickness",
+                "Keying: I only ordered one",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SD - Single Dummy",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SD"
+                },
+                {
+                    "value": "AC - Double Cylinder",
+                    "price_impact": 119.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AC"
+                },
+                {
+                    "value": "PD - Pair Dummy",
+                    "price_impact": 40.95,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "PD"
+                },
+                {
+                    "value": "A - Single Cylinder",
+                    "price_impact": 121.55,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "A"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US3"
+                },
+                {
+                    "value": "US26 - Polished Chrome",
+                    "price_impact": 7.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26"
+                },
+                {
+                    "value": "US26D - Satin Chrome",
+                    "price_impact": 7.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26D"
+                },
+                {
+                    "value": "SB - Shaded Bronze",
+                    "price_impact": 7.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SB"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2"
+                },
+                {
+                    "value": "2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1-3/8in. Door Thickness",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "1"
+                },
+                {
+                    "value": "1-3/4in. Door Thickness",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "1"
+                },
+                {
+                    "value": "2in. Door Thickness",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2\""
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I only ordered one",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "I"
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                }
+            ]
+        }
+    ]
+}

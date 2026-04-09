@@ -1,0 +1,187 @@
+{
+    "legacy_product_id": "43085",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Chic Curved Cabinet Pull, Omnia 9400",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9400",
+            "mpn": "OMN-9400",
+            "price": "14.78",
+            "compare_at_price": "19.7",
+            "contractor_price": "14.04",
+            "shipping_weight": "0.75",
+            "tags": [
+                "omnia 9400 chic curved cabinet pulls",
+                "chic cabinet pulls",
+                "omnia solid brass cabinet pulls",
+                "solid brass kitchen cabinet pulls",
+                "chic brass pulls",
+                "curved cabinet hardware",
+                "OMN-9400/64",
+                "OMN-9400/96"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-9400-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-9400-525.jpg?v=1716420849"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9400, Solid Brass Curved Cabinet Pull</b>\r\n\r\n<p>\r\nUltra minamalistic in design, the Chic Curved Cabinet Pull made by Omnia is sure to add a modern touch to your home. The most prominent trait of this Solid Brass Curved Cabinet Pull is the modern curve; and since it is available in 5 finishes, you will be sure to find just the color to fit into your home decor.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Chic Curved Cabinet Pull:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>9400/64</b>\r\n<ul>\r\n<li>Length center to center: 2-1/2\"</li>\r\n<li>Projection: 1\"</li>\r\n</ul>\r\n<br>\r\n<b>9400/96</b>\r\n<ul>\r\n<li>Length center to center: 3-3/4\"</li>\r\n<li>Projection: 1\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Chic Curved Cabinet Pull",
+                "description": "Ultra minamalistic in design, the Chic Curved Cabinet Pull made by Omnia is sure to add a modern touch to your home. The most prominent trait of this Solid Brass Curved Cabinet Pull is the modern curve; and since it is available in 5 finishes, you will be sure to find just the color to fit into your home decor.\r\n",
+                "keywords": "omnia 9400 chic curved cabinet pulls, chic cabinet pulls, omnia solid brass cabinet pulls, solid brass kitchen cabinet pulls, chic brass pulls, curved cabinet hardware, OMN-9400/64, OMN-9400/96"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "228"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "352914",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "39910",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "454124",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "192866",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "64839",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "44111",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "204447",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "245842",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "43124",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "44125",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "234902",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Select Size: 9400/64: 2-1/2in. Length (c.c.)",
+                "Select Size: 9400/96: 3-3/4in.  Length (c.c.)",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US26D: Satin Chrome",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US10B: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "9400/64: 2-1/2in. Length (c.c.)",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9400/64"
+                },
+                {
+                    "value": "9400/96: 3-3/4in.  Length (c.c.)",
+                    "price_impact": 0.38,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9400/96"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US3"
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 3.38,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26"
+                },
+                {
+                    "value": "US26D: Satin Chrome",
+                    "price_impact": 3.38,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26D"
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 3.75,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US15"
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 3.75,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US10B"
+                }
+            ]
+        }
+    ]
+}

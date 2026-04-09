@@ -1,0 +1,113 @@
+{
+    "legacy_product_id": "443961",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Global TC4300 Door Closer Arm, Global RA-4300",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-RA-4300",
+            "mpn": "GLO-RA-4300",
+            "price": "44.59",
+            "compare_at_price": "63.69",
+            "contractor_price": "40.12",
+            "shipping_weight": "1.5",
+            "tags": [
+                "GLO-RA-4300 door closer arms",
+                "Global RA-4300-AL",
+                "Global RA-4300-DU",
+                "Standard duty door closer arms",
+                "Global Door Controls TC4300 closer Arms",
+                "UL listed R15416 door closer arms",
+                "Global TC4300 Door Closer Arms",
+                "GLO-RA4300 arms",
+                "global RA-4300-AL",
+                "global RA-4300-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/global-RA-4300-AL_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/global-RA-4300-AL_525.jpg?v=1716424025"
+        },
+        "text": {
+            "description_html": "<b>Global TC4300 Standard Door Closer Arm</b>\r\n\r\n<p>\r\nStandard duty UL listed R15416 door closer arm for use with <a href=\"/products/lcn-4040-series-replacement-ada-compliant-heavy-duty-door-closer-global-tc4300\"><b>Global Door Controls TC4300</b></a> and <a href=\"/products/extra-heavy-duty-door-closer-deltana-dc40\"><b>Deltana DC40</b></a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b> for Global RA-4300 Door Closer Arm\r\n<ul>\r\n<li>Arm Length: 11\"</li>\r\n <li>Forearm Length: Min: 10\" Max: 14-1/4\"</li>\r\n<li>Shaft Mounting Hole: 15mm Hexagon (6 Sided)</li>\r\n<li>UL listed: R15416 (Door Closer Arm)</li>\r\n</ul>\r\n</p>\r\n<p><b>*Sold Individually.</b></p>",
+            "seo": {
+                "title": "Standard Door Closer Arm, Global RA-4300",
+                "description": "Standard duty door closer arm used with  Global TC4300 and Deltana DC40 door closers,  available in aluminum or dark bronze (duro) finish. UL listed: R15416 (Door Closer Arm)",
+                "keywords": "GLO-RA-4300 door closer arms, Global RA-4300-AL, Global RA-4300-DU, Standard duty door closer arms, Global Door Controls TC4300 closer Arms, UL listed R15416 door closer arms, Global TC4300 Door Closer Arms, GLO-RA4300 arms, global RA-4300-AL, global RA-4300-DU"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Global TC4300 Closer Accessories",
+                    "sort": "4"
+                },
+                {
+                    "name": "Door Closer Accessories",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "776218",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "443646",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "222877",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "203817",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "443955",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "222883",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: RA-4300-AL: Aluminum",
+                "Select Finish: RA-4300-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RA-4300-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RA-4300-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

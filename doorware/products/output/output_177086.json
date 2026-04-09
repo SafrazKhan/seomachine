@@ -1,0 +1,161 @@
+{
+    "legacy_product_id": "177086",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Decorative Rectangular Flush Pull, First Impressions 808",
+            "vendor": "First Impressions",
+            "status": "ACTIVE",
+            "sku": "FII-808",
+            "mpn": "FII-808",
+            "price": "19.95",
+            "compare_at_price": "117.0",
+            "contractor_price": "19.95",
+            "shipping_weight": "1.0",
+            "tags": [
+                "FII-808 Decorative Pocket Door Flush Door Pulls",
+                "first impressions 808 Solid Brass Decorative Flush Door Pull",
+                "solid brass sliding door pocket door handles",
+                "first impressions Pocket Door Hardware."
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Fii-808-flush-pull_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Fii-808-flush-pull_525.jpg?v=1716421671"
+        },
+        "text": {
+            "description_html": "<b>First Impressions 808 Decorative Sliding Door Flush Pull</b>\r\n\r\n<p>\r\nFor over 10 years, First Impressions has been designing and manufacturing beautiful custom decor for homes, right here is the U.S.A. They offer some of the most diverse and beautiful styles we carry. This hand finished decorative sliding door flush pull is cast in solid brass and packaged with matching finish mounting screws. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the First Impressions 808 Decorative Flush Door Pull:\r\n<ul>\r\n<li>Total Height: 7-1/4\"</li>\r\n<li>Total Width: 2\"</li>\r\n<li>Total Depth: 9/16\"</li>\r\n<li>Door Cutout Depth: 7/16\"</li>\r\n<li>Projection: 1/8\"</li>\r\n<li>Plate Thickness: 1/8\"</li>\r\n<li>Material: Solid Cast Brass</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>*Sold individually.</i>\r\n</p>\r\n\r\n<p>\r\n<b>** Clearance Priced,  limited quantities available. \r\n\r\n<br><br>\r\nOnly (3) Satin Nickel & (3) Polished Chrome left.\r\n<br><br>\r\n</p>",
+            "seo": {
+                "title": "Decorative Rectangular Flush Pull, First Impressions 808",
+                "description": "First Impressions 808 Flush Pull. These Solid Brass style sliding pocket door flush pulls are of the finest quality offering both fashion and function. Available in Satin Nickel, Polished Chrome or Polished Brass.",
+                "keywords": "FII-808 Decorative Pocket Door Flush Door Pulls, first impressions 808 Solid Brass Decorative Flush Door Pull,  solid brass sliding door pocket door handles,  first impressions Pocket Door Hardware."
+            },
+            "specifications": [
+                {
+                    "key": "Total Height",
+                    "value": "7-1/4\""
+                },
+                {
+                    "key": "Total Width",
+                    "value": "2\""
+                },
+                {
+                    "key": "Total Depth",
+                    "value": "9/16\""
+                },
+                {
+                    "key": "Door Cutout Depth",
+                    "value": "7/16\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1/8\""
+                },
+                {
+                    "key": "Plate Thickness",
+                    "value": "1/8\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Cast Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "Pocket Door Hardware",
+                    "sort": "10"
+                },
+                {
+                    "name": "Flush Pulls",
+                    "sort": "6"
+                },
+                {
+                    "name": "Clearance Items",
+                    "sort": "25"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "178576",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "7573",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "210464",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "221294",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "200785",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "177095",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "177099",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "7554",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "7560",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Total Height: 7-1/4\"",
+                "Total Width: 2\"",
+                "Total Depth: 9/16\"",
+                "Door Cutout Depth: 7/16\"",
+                "Projection: 1/8\"",
+                "Plate Thickness: 1/8\"",
+                "Material: Solid Cast Brass",
+                "Select Finish: FII-808-US15 - Satin Nickel",
+                "Select Finish: FII-808-US26 - Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-808-US15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "FII-808-US15"
+                },
+                {
+                    "value": "FII-808-US26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "FII-808-US26"
+                }
+            ]
+        }
+    ]
+}

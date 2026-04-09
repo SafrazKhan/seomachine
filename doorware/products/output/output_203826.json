@@ -1,0 +1,95 @@
+{
+    "legacy_product_id": "203826",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Streamline Closer Cover, GLO-COV-4300",
+            "vendor": "Global",
+            "status": "ARCHIVED",
+            "sku": "GLO-COV-4300",
+            "mpn": "GLO-COV-4300",
+            "price": "32.0",
+            "compare_at_price": "32.0",
+            "contractor_price": "32.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "GLO-4300-Cover Global TC4300 Door Closer Covers",
+                "GLO-COV-4300 Global TC4300 Door Closer Covers",
+                "global COV-4300-AL",
+                "global COV-4300-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/TC4300-cover_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/TC4300-cover_525.jpg?v=1716421945"
+        },
+        "text": {
+            "description_html": "<b>Global TC4300 Door Closer Cover</b>\r\n\r\n<p>Streamline plastic cover for <a href=\"/products/lcn-4040-series-replacement-ada-compliant-heavy-duty-door-closer-global-tc4300\"><b>Global TC4300</b></a> door closers. \r\n</p>\r\n<p>Non Handed. \r\n\r\n</p>",
+            "seo": {
+                "title": "TC4300 Streamline Closer Cover, GLO-COV-4300",
+                "description": "Global TC4300 Door Closer Cover. Available in Aluminum or Dark Bronze finish. ",
+                "keywords": "GLO-4300-Cover Global TC4300 Door Closer Covers, GLO-COV-4300 Global TC4300 Door Closer Covers, global COV-4300-AL, global COV-4300-DU,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Door Closer Accessories",
+                    "sort": "50"
+                },
+                {
+                    "name": "Global TC4300 Closer Accessories",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "443653",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "233110",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "538718",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "443961",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "443646",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: COV-4300-AL: Aluminum"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "COV-4300-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "legacy_product_id": "769400",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin Estate Square Rose, Baldwin R017-055",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-R017-055",
+            "mpn": "BAL-R017-055",
+            "price": "36.0",
+            "compare_at_price": "36.0",
+            "contractor_price": "36.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Baldwin Estate 2-5/8 Inch Square Roses",
+                "Baldwin Estate Square Rose",
+                "Baldwin R017-055",
+                "BAL-R017-055",
+                "R017.055.IDM",
+                "R017.055.PV",
+                "baldwin estates collections",
+                "2-5/8 inches Square Rosette for Baldwin Estates Levers and Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-R017-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-R017-525.jpg?v=1716425534"
+        },
+        "text": {
+            "description_html": "<b>2-5/8\" Square Rosette for Baldwin Estates Levers and Knobs</b>\r\n\r\n<p>\r\nThis 2-5/8 Inch Square Rose is to be used on Baldwin Estates Levers and Knobs. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Baldwin Estate 2-5/8 Inch Square Rose:\r\n<ul>\r\n<li>Length: 2-5/8\" square</li>\r\n<li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Baldwin Estate Square Rose, Baldwin R017-055",
+                "description": "Baldwin R017-055, Baldwin Estate Square Rose -  This 2-5/8 Inch Square Rose is to be used on Baldwin Estates Levers and Knobs.",
+                "keywords": "Baldwin Estate 2-5/8 Inch Square Roses, Baldwin Estate Square Rose, Baldwin R017-055, BAL-R017-055, R017.055.IDM, R017.055.PV, baldwin estates collections, 2-5/8 inches Square Rosette for Baldwin Estates Levers and Knobs"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Discontinued",
+                    "sort": "167"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "321067",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "321076",
+                    "sort": "2"
+                }
+            ],
+            "filter_options": [
+                "Select Function: R017.055.IDM - Single Dummy",
+                "Select Function: R017.055.PV - Privacy",
+                "Select Finish: 150 - Lifetime Polished Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "R017.055.IDM - Single Dummy",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "R017.055.PV - Privacy",
+                    "price_impact": 24.3,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "150 - Lifetime Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "legacy_product_id": "222125",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Contractor Key Single Cylinder Deadbolt, DoralLock DOR-7301KA2P",
+            "vendor": "Doralock",
+            "status": "ARCHIVED",
+            "sku": "DOR-7301KA2P",
+            "mpn": "DOR-7301KA2P",
+            "price": "23.49",
+            "compare_at_price": "31.35",
+            "contractor_price": "22.3",
+            "shipping_weight": "2.0",
+            "tags": [
+                "DOR-7301KA2P Contractor Keyed Deadbolts",
+                "DoralLock 7301KA2P Contractor Key Single Cylinder Deadbolts",
+                "DoralLock DOR-7301KA2P protector deadbolts",
+                "Contractor deadbolys",
+                "apartment deadbolts",
+                "Construction Keyed Deadbolts"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/contractor-key-deadbolt_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/contractor-key-deadbolt_525.jpg?v=1716422166"
+        },
+        "text": {
+            "description_html": "<b>DoralLock Single Cylinder Contractor/Construction Keyed Deadbolt</b>\r\n<p>\r\nThese Construction Keyed Deadbolts (Contractor Keyed) are supplied with 2 different key sets. The \"Contractor Key\" is used during  the under construction phase. The \"Customer Key\"  is used when the all construction is completed. <i>When the \"Customer Key\" is used the first time, the \"Contractor Key\" will no longer open the lock. </i>\r\n</p>\r\n<p>\r\nThis security feature allows  construction workers to have a key to access the building when necessary, but remove the security concerns that they will duplicate the key for future unauthorized access. \r\n</p>\r\n<p>\r\nThese High Grade Single Cylinder  Deadbolts (keyed lock on the outside and a turnbolt on the inside) are made with high quality brass lock cylinders and trim. \r\n</p>\r\n<p><b>Features</b> of DoralLock DOR-7301KA2P Contractor Key Single Cylinder Deadbolt\r\n<ul>\r\n<li>Adjustable backset for both standard 2-3/8\" and 2-3/4\"</li>\r\n<li>Fit standard pre-drilled doors</li>\r\n<li>Full 1\" Bolt throw</li>\r\n<li>1\" Deadbolt with Hardened Steel Core</li>\r\n<li>ANSI Grade 2 Security</li>\r\n<li>Easy to install</li>\r\n<li>Brass Kwikset Compatible keyway</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Contractor Key Single Cylinder Deadbolt, DoralLock DOR-7301KA2P",
+                "description": "DoralLock 7301KA2P Contractor/Construction Keyed Deadbolt. DoralLock Single Cylinder Grade 2 Deadbolt available in Satin Chrome or Antique Brass.",
+                "keywords": "DOR-7301KA2P Contractor Keyed Deadbolts, DoralLock 7301KA2P Contractor Key Single Cylinder Deadbolts, DoralLock DOR-7301KA2P protector deadbolts, Contractor deadbolys, apartment deadbolts, Construction Keyed Deadbolts,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Discontinued and Special Items",
+                    "sort": "25"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "16391",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "16388",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "16373",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "16325",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "16349",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "30426",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DOR-7301KA2P-26D - Brushed Chrome",
+                "Select Finish: DOR-7301KA2P-5 - Antique Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DOR-7301KA2P-26D - Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DOR-7301KA2P-5 - Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "legacy_product_id": "843708",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Flip Guard Protection Plate, Don-Jo WP-34",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "DJO-WP-34",
+            "mpn": "DJO-WP-34",
+            "price": "4.16",
+            "compare_at_price": "5.2",
+            "contractor_price": "3.74",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Don-Jo WP-34 Guard Plates",
+                "Door Flip Guard Plates",
+                "Door Flip Guard Plates",
+                "DJO-WP-34 Guard Plate for Flip Locks",
+                "Flip Guard Angel Plates",
+                "Flip Guard Protection Plates",
+                "wall plates",
+                "Don-Jo WP-34-626",
+                "Don-Jo WP-34-605",
+                "Don-Jo WP-34-625",
+                "Don-Jo WP-34-clear",
+                "stick on plate",
+                "adhesive plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-WP-34-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-WP-34-525.jpg?v=1716425973"
+        },
+        "text": {
+            "description_html": "<b>Don-Jo WP-34, Door Flip Guard Plate</b>\r\n\r\n<p>\r\nThe Flip Guard Plate is used to protect the corner of the door for when a <a href=\"/products/automatic-release-door-flip-guard-don-jo-1606\">door flip guard arm</a> is left in the open position. The Don-Jo WP-34 Door Flip Guard Plate is easy to install, simply stick it on your door with the adhesive strip. Choose from satin chrome finish or clear.\r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-WP-33-specifications.gif?v=1704354741\" width=\"307\" height=\"151\" border=\"0\" alt=\"Don-Jo WP-34 specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Protection Guard Plate for Flip Locks:\r\n<ul>\r\n<li>Length: 1\"</li>\r\n<li>Width: 1\"</li>\r\n<li>Thickness: 1/4\"</li>\r\n<li>Mounting: Adhesive Strip</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-WP-34-specifications.pdf?v=1704262340\"><b>Don-Jo WP-34 Dimensions Diagram (PDF)</b></a></li>\r\n\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Flip Guard Protection Plate",
+                "description": "The Protection Plate is used to protect the corner of the door for when a door flip guard arm is left in the open position. The Don-Jo WP-34 Door Flip Guard Plate is easy to install, simply stick it on your door with the adhesive strip. Choose from satin chrome finish or clear.",
+                "keywords": "Don-Jo WP-34 Guard Plates, Door Flip Guard Plates, Door Flip Guard Plates, DJO-WP-34 Guard Plate for Flip Locks, Flip Guard Angel Plates, Flip Guard Protection Plates, wall plates, Don-Jo WP-34-626,  Don-Jo WP-34-605,  Don-Jo WP-34-625, Don-Jo WP-34-clear, stick on plate, adhesive plates,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Hospitality Hardware",
+                    "sort": "3"
+                },
+                {
+                    "name": "Don-Jo Door Bolts",
+                    "sort": "13"
+                },
+                {
+                    "name": "Hospitality Hardware",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "647785",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "327545",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "667872",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "198018",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "159686",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "647774",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "316964",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "798537",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Color: WP-34-626: Satin Chrome",
+                "Select Color: WP-34-CLEAR: Clear"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Color",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "WP-34-626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "WP-34-CLEAR: Clear",
+                    "price_impact": 0.9,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

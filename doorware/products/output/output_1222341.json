@@ -1,0 +1,128 @@
+{
+    "legacy_product_id": "1222341",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Square Single Cylinder Deadbolt, Exterior Replacement Trim Only, Emtek 8469EXT",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-8469-EXT",
+            "mpn": "EMT-8469-EXT",
+            "price": "52.0",
+            "compare_at_price": "104.0",
+            "contractor_price": "52.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Square Single Cylinder Deadbolt",
+                "Exterior Replacement Trim Only",
+                "Emtek 8469EXT"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-8469-exterior-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-8469-exterior-525.jpg?v=1769483080"
+        },
+        "text": {
+            "description_html": "<b>Emtek 8469EXT, Single Cylinder Square Deadbolt Exterior Replacement Trim</b>\r\n\r\n<p>\r\nThis is exterior replacement trim for the Emtek Square Single Cylinder Deadbolt and includes the square rose and lock cylinder.  It does not include the interior thumbturn, latch, or strike.\r\n</p>\r\n\r\n\r\n\r\n<p>\r\n<b>Features</b> of the Square Single Cylinder Deadbolt Exterior Replacement Trim:\r\n<ul>\r\n<li>Keyway: Schlage C</li>\r\n<li>Solid brass collar and rosette.</li>\r\n\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Contemporary Door Lock:\r\n<ul>\r\n<li>Length: 2-1/2\" square</li>\r\n<li>Exterior Projection: 5/8\"</li>\r\n\r\n</ul>\r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-modern7-Finishes.jpg?v=1704354499\" width=\"599\" height=\"111\" border=\"0\" alt=\"Emtek Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "Emtek Square Single Cylinder Deadbolt Exterior Replacement Trim",
+                "description": "Square Single Cylinder Deadbolt, Exterior Replacement Trim Only, Emtek 8469EXT",
+                "keywords": "Square Single Cylinder Deadbolt, Exterior Replacement Trim Only, Emtek 8469EXT"
+            },
+            "specifications": [
+                {
+                    "key": "Length",
+                    "value": "2-1/2\" square"
+                },
+                {
+                    "key": "Exterior Projection",
+                    "value": "5/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Deadbolts",
+                    "sort": "51"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Length: 2-1/2\" square",
+                "Exterior Projection: 5/8\"",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: US3NL: Unlacquered Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3NL: Unlacquered Brass",
+                    "price_impact": 32.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

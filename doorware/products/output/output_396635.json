@@ -1,0 +1,131 @@
+{
+    "legacy_product_id": "396635",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Square Doorbell Button, Fusion B-EL-S7",
+            "vendor": "Fusion",
+            "status": "ACTIVE",
+            "sku": "FUS-B-EL-S7",
+            "mpn": "FUS-B-EL-S7",
+            "price": "28.0",
+            "compare_at_price": "28.0",
+            "contractor_price": "21.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "FUS-B-EL-S7 Contemporary Square Doorbells",
+                "fusion B-EL-S7",
+                "fusion S7 rose doorbells",
+                "Square Rose Doorbells",
+                "Contemporary Square Doorbell",
+                "modern doorbells",
+                "contemporary doorbells",
+                "solid brass doorbells",
+                "Contemporary Square Doorbell Buttons"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-D-S7-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-D-S7-525.jpg?v=1711365456"
+        },
+        "text": {
+            "description_html": "<b>Fusion B-EL-S7, Contemporary Square Doorbell Button</b>\r\n\r\n<p>\r\nFusion Hardware's Square Rose Doorbell is perfect for almost any home no matter the style. The polished chrome finish is great for more modern homes, while the antique pewter finish will add an old world touch to traditional spaces. It comes packaged with the mounting screws necessary as well as with a lighted doorbell actuator.\r\n</p>\r\n\r\n<p>\r\n<b>Please Note</b> This is a replacement trim only. It comes packaged with lighted button, rosette, and installation screws. It DOES NOT include the chime.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Square Doorbell Fusion S7:\r\n<ul>\r\n<li>Length: 2-1/2\" Square</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Includes lighted button.</li>\r\n<li>Packaged as a kit with matching finish installation screws and a lighted button.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>** This item is being discontinued. Very limited quantities available.</b>\r\n</p>",
+            "seo": {
+                "title": "Square Doorbell Button, Fusion B-EL-S7",
+                "description": "Fusion B-EL-S7, Square Rose Doorbell - Fusion Hardware's Square Rose Doorbell is perfect for almost any home no matter the style. The polished chrome finish is great for more modern homes, while the antique pewter finish will add an old world touch to traditional spaces. It comes packaged with the mounting screws necessary as well as with a lighted doorbell actuator.\r\n",
+                "keywords": "FUS-B-EL-S7 Contemporary Square Doorbells, fusion B-EL-S7, fusion S7 rose doorbells, Square Rose Doorbells, Contemporary Square Doorbell, modern doorbells, contemporary doorbells, solid brass doorbells,  Contemporary Square Doorbell Buttons,"
+            },
+            "specifications": [
+                {
+                    "key": "Length",
+                    "value": "2-1/2\" Square"
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Doorbells",
+                    "sort": "1"
+                },
+                {
+                    "name": "Door Bell Buttons",
+                    "sort": "45"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "534384",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "534382",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "315517",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "379344",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "287166",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "343505",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "303052",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "396740",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Length: 2-1/2\" Square",
+                "Material: Solid Brass",
+                "Select Finish: PLC - Polished Chrome",
+                "Select Finish: ORB - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PLC - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

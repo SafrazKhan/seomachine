@@ -1,0 +1,136 @@
+{
+    "legacy_product_id": "1193247",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:08:35.719269"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "8-3/8 Leo Door Knocker, Brass Accents A07-K5100",
+            "vendor": "BrassAccents",
+            "status": "ACTIVE",
+            "sku": "BRA-A07-K5100",
+            "mpn": "BRA-A07-K5100",
+            "price": "287.99",
+            "compare_at_price": "360.0",
+            "contractor_price": "273.6",
+            "shipping_weight": "3.0",
+            "tags": [
+                "A07-K5100",
+                "8-3/8 inch",
+                "8.38 inches large lion head door knockers",
+                "Brass Accents Lion Door Knockers",
+                "Victorian door knocker",
+                "brass lion door knockers",
+                "lion knocker",
+                "lion style door knocker",
+                "steampunk hardware",
+                "BRA-A07-K5100",
+                "8-3/8 Lion Door Knocker",
+                "Brass Accents A07-K5100",
+                "animal door knockers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BRA-A07-K5100-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BRA-A07-K5100-525.jpg?v=1711366743"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents A07-K5100, Solid Brass 8-3/8\" Leo Door Knocker</b>\r\n\r\n<p>\r\nThis is a gorgeous solid brass lion head door knocker was first popular in England during the Victorian Era. Its large 8/3/8\" size makes an imposing statement on any entry door.\r\n</p>\r\n\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance. Their products are hand finished in the USA. They are one of the world's leading crafters of cast-brass and hot-forged decorative brass hardware.\r\n</p>\r\n\r\n<p>\r\nClick here for <a href=\"/products/small-lion-door-knocker-brass-accents-a07-k5010\">Small Lion Head Door Knocker</a>\r\n</p>\r\n<p>\r\nClick here for <a href=\"/products/7-1-2-lion-door-knocker-brass-accents-a07-k5000\">Large Lion Head Door Knocker</a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Large Lion Head Door Knocker:\r\n<ul>\r\n<li>Width: 8-3/8\"</li>\r\n<li>Mounting Centers: 7-1/8\"</li>\r\n<li>Projection: 2-1/2\"</li>\r\n<li>Solid Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>",
+            "seo": {
+                "title": "8-3/8 Leo Door Knocker, Brass Accents A07-K5100",
+                "description": "Brass Accents A07-K5100, 8-3/8 Lion Door Knocker -- This is a gorgeous solid brass lion head door knocker was first popular in England during the Victorian Era. Its large 8-3/8 inch size makes an imposing statement on any entry door.",
+                "keywords": "A07-K5100, 8-3/8 inch, 8.38 inches large lion head door knockers, Brass Accents Lion Door Knockers, Victorian door knocker, brass lion door knockers, lion knocker, lion style door knocker, steampunk hardware, BRA-A07-K5100, 8-3/8 Lion Door Knocker, Brass Accents A07-K5100, animal door knockers,"
+            },
+            "specifications": [
+                {
+                    "key": "Width",
+                    "value": "8-3/8\""
+                },
+                {
+                    "key": "Mounting Centers",
+                    "value": "7-1/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "2-1/2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Brass Accents Door Knockers",
+                    "sort": "23"
+                },
+                {
+                    "name": "Door Knockers",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "157004",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "845571",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "240726",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "653183",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "653164",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Width: 8-3/8\"",
+                "Mounting Centers: 7-1/8\"",
+                "Projection: 2-1/2\"",
+                "Select Finish: Antique Brass",
+                "Select Finish: Polished Brass",
+                "Select Finish: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

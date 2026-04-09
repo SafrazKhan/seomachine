@@ -1,0 +1,111 @@
+{
+    "legacy_product_id": "1015478",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Passage Function Handle Trim for Rim Exit Device, PDQ 4-GW-15-PHL",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PDQ-4-GW-15-PHL-605",
+            "mpn": "PDQ-4-GW-15-PHL-605",
+            "price": "157.2",
+            "compare_at_price": "262.0",
+            "contractor_price": "157.2",
+            "shipping_weight": "4.0",
+            "tags": [
+                "PDQ-4-GW-15-PHL-605"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDQ-4-GW-14-PHL-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PDQ-4-GW-14-PHL-525.jpg?v=1716427688"
+        },
+        "text": {
+            "description_html": "<b>PDQ 4-GW-15-PHL, Panic Device Thumb Lift Passage Function Handleset</b>\r\n\r\n<p>\r\nThis is a Passage Function Handleset is for use with the <a href=\"/products/grade-1-polished-brass-rim-exit-device-pdq-4200r-b605\"><b>PDQ 4200R Grade 1 Polished Brass Rim Exit Device</b></a>.  For use on door's exterior. Covers standard 2-1/8\" bore hole prep. \r\n</p>\r\n\r\n<p>\r\n<b>Features</b> for PDQ 4-GW-15-PHL Thumb Lift Handleset:\r\n<ul>\r\n<li>Passage Function: Entry by Outside Thumb Lift - Always unlocked.</li>\r\n<li>Handle Plate Height: 12-5/16\"</li>\r\n<li>Handle Plate Width: 3\"</li>\r\n<li>Pull Height: 6\"</li>\r\n<li>Pull Projection: 1-7/8\"</li>\r\n<li>Door Thickness: 1-3/4\" - 2-1/4\" Thick Doors</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Order. <b>NO RETURNS</b></i>\r\n</p>",
+            "seo": {
+                "title": "Passage Function Handle Trim for Rim Exit Device",
+                "description": "This is a Passage Function Handleset is for use with the PDQ 4200R Grade 1 Polished Brass Rim Exit Device.  For use on door's exterior. Covers standard 2-1/8 inch bore hole prep.",
+                "keywords": "PDQ-4-GW-15-PHL-605"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Misc Hardware",
+                    "sort": "19"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "447814",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "352110",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "352282",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "351730",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "256118",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 605: Polished Brass",
+                "Select Door Handing: Left Hand Door",
+                "Select Door Handing: Right Hand Door"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "605: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Left Hand Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Right Hand Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

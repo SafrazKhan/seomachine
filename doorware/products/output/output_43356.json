@@ -1,0 +1,164 @@
+{
+    "legacy_product_id": "43356",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hot-Rod Cabinet Pull, Omnia 9522",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9522",
+            "mpn": "OMN-9522",
+            "price": "15.0",
+            "compare_at_price": "20.0",
+            "contractor_price": "14.25",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9522 fancy solid brass cabinet pulls",
+                "fancy cabinet pulls",
+                "fancy brass pulls",
+                "fancy kitchen cabinet pulls",
+                "omn-9522/102",
+                "omn-9522/191",
+                "solid brass cabinet knobs",
+                "Hot Rod Solid Brass Cabinet Pulls",
+                "Hot-Rod Solid Brass Cabinet Pulls",
+                "Hot-Rod Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-9522-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-9522-525.jpg?v=1716420865"
+        },
+        "text": {
+            "description_html": "<b>Omnia 952, Hot Rod Solid Brass Cabinet Pull</b>\r\n\r\n<p>\r\nThe Hot-Rod Cabinet Pull is a stylish way to add a retro touch to your kitchen cabinets. The handle gently curves and the mounts are oval in shape for a 1950's era look that will seamlessly meld into today's contemporary designs. This Solid Brass Cabinet Pull is available in 4 finishes. Choose from 4 inch or 7-1/2 inch center to center lengths.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Hot-Rod Cabinet Pull:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>9522/102</b>\r\n<ul>\r\n<li>Length center to center: 4\"</li>\r\n<li>Projection: 1\"</li>\r\n</ul>\r\n<br>\r\n<b>9522/191</b>\r\n<ul>\r\n<li>Length center to center: 7-1/2\"</li>\r\n<li>Projection: 1\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Hot-Rod Cabinet Pull, Omnia 9522",
+                "description": "The Hot-Rod Cabinet Pull is a stylish way to add a retro touch to your kitchen cabinets. The handle gently curves and the mounts are oval in shape for a 1950's era look that will seamlessly meld into today's contemporary designs. This Solid Brass Cabinet Pull is available in 4 finishes. Choose from 4 inch or 7-1/2 inch center to center lengths.\r\n",
+                "keywords": "omnia 9522 fancy solid brass cabinet pulls, fancy cabinet pulls, fancy brass pulls, fancy kitchen cabinet pulls, omn-9522/102, omn-9522/191, solid brass cabinet knobs, Hot Rod Solid Brass Cabinet Pulls, Hot-Rod Solid Brass Cabinet Pulls, Hot-Rod Cabinet Pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "231"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "41315",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "41410",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "42711",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "43050",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "43313",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "38258",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "192410",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Select Size: 9522/102: 4in. Length (c.c.)",
+                "Select Size: 9522/191: 7-1/2in. Length (c.c.)",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US26D: Satin Chrome",
+                "Select Finish: US15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "9522/102: 4in. Length (c.c.)",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9522/102"
+                },
+                {
+                    "value": "9522/191: 7-1/2in. Length (c.c.)",
+                    "price_impact": 13.43,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9522/191"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US3"
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 4.65,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26"
+                },
+                {
+                    "value": "US26D: Satin Chrome",
+                    "price_impact": 4.65,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26D"
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 5.78,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US15"
+                }
+            ]
+        }
+    ]
+}

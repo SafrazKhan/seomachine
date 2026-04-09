@@ -1,0 +1,113 @@
+{
+    "legacy_product_id": "611752",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Windsor Dummy Single Cylinder Deadbolt, WINWINDBDUM",
+            "vendor": "Grandeur",
+            "status": "ARCHIVED",
+            "sku": "GRA-WINWINDBDUM",
+            "mpn": "GRA-WINWINDBDUM",
+            "price": "112.0",
+            "compare_at_price": "145.0",
+            "contractor_price": "285.0",
+            "shipping_weight": "10.0",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Grandeur Windsor Dummy Single Cylinder Deadbolt</b>\r\n\r\n<p>\r\nWindsor Dummy Deadbolt for use with Windsor Double Dummy Interior Trim to complete a set for double doors. \r\n</p>\r\n\r\n\r\n<p>\r\n<b>Features\r\n</b>\r\n<ul>\r\n<li>Made out of solid forged brass.</li>\r\n<li>One inch throw deadbolt.</li>\r\n<li>Easy to install.</li>\r\n\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> \r\n<ul>\r\n<li>Deadbolt Height: 4.20\"</li>\r\n<li>Deadbolt Width: 2.62\"</li>\r\n<li>Thumb Turn Projection: 1.55\"</li>\r\n>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Windsor Dummy Single Cylinder Deadbolt, WINWINDBDUM",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": [
+                {
+                    "key": "Deadbolt Height",
+                    "value": "4.20\""
+                },
+                {
+                    "key": "Deadbolt Width",
+                    "value": "2.62\""
+                },
+                {
+                    "key": "Thumb Turn Projection",
+                    "value": "1.55\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Grandeur Parts",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Deadbolt Height: 4.20\"",
+                "Deadbolt Width: 2.62\"",
+                "Thumb Turn Projection: 1.55\"",
+                "Select Finish: AP: Antique Pewter",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: TB: Timeless Bronze",
+                "Select Finish: VB: Vintage Brass",
+                "Select Finish: LB: Lifetime Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "VB: Vintage Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LB: Lifetime Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

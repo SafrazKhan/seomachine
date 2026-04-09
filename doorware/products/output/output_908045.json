@@ -1,0 +1,117 @@
+{
+    "legacy_product_id": "908045",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Traditional 6 Inch Door Knocker, Brass Accents A07-K6550",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "BRA-A07-K6550",
+            "mpn": "BRA-A07-K6550",
+            "price": "28.0",
+            "compare_at_price": "35.0",
+            "contractor_price": "26.6",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Traditional 6 Inch Door Knockers",
+                "Traditional Knocker 6 Inches",
+                "Brass Accents A07-K6550",
+                "BRA-A07-K6550",
+                "Brass Accents A07-K6550 Traditional Front Door Knockers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BRA-A07-K6550-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BRA-A07-K6550-525.jpg?v=1716426817"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents A07-K6550, Traditional Door Knocker</b>\r\n\r\n<p>\r\nThe Traditional 6 Inch Door Knocker has a classic look that has made it a favorite among homeowners and designers alike over the years. The traditional design lends itself well to almost any setting. This front door knocker comes packaged with the installation hardware. \r\n</p>\r\n\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance. <a href=\"/collections/brass-accents-door-knockers\">Brass Accents Door Knockers</a> are hand finished in the USA. They are one of the world's leading crafters of cast-brass and hot-forged decorative brass hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Brass Accents A07-K6550 Traditional Front Door Knocker:\r\n<ul>\r\n<li>Height: 6\"</li>\r\n<li>Width: 3\"</li>\r\n<li>Projection: 1\"</li>\r\n<li>Mounting Centers: 4\"</li>\r\n<li>Solid Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>",
+            "seo": {
+                "title": "Traditional 6 Inch Door Knocker",
+                "description": "The Traditional 6 Inch Door Knocker has a classic look that has made it a favorite among homeowners and designers alike over the years. The traditional design lends itself well to almost any setting. This front door knocker comes packaged with the installation hardware.",
+                "keywords": "Traditional 6 Inch Door Knockers, Traditional Knocker 6 Inches, Brass Accents A07-K6550, BRA-A07-K6550, Brass Accents A07-K6550 Traditional Front Door Knockers,"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "6\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1\""
+                },
+                {
+                    "key": "Mounting Centers",
+                    "value": "4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knockers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knockers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-6",
+            "collections": [
+                {
+                    "name": "BRA-discontinued-custom",
+                    "sort": "11"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "143720",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "143869",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "387182",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "12644",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "354247",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "200564",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Height: 6\"",
+                "Width: 3\"",
+                "Projection: 1\"",
+                "Mounting Centers: 4\"",
+                "Select Finish: 622 - Weathered Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "622 - Weathered Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

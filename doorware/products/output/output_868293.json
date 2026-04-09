@@ -1,0 +1,152 @@
+{
+    "legacy_product_id": "868293",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Helsinki Shower Door Knob Set, DWD SD-HELSINKI32",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "DWD-SD-HELSINKI32",
+            "mpn": "DWD-SD-HELSINKI32",
+            "price": "61.52",
+            "compare_at_price": "72.92",
+            "contractor_price": "59.24",
+            "shipping_weight": "3.0",
+            "tags": [
+                "1-1/4 Inch Diameter Helsinki Shower Knobs",
+                "Helsinki Shower Door Knobs",
+                "DWD SD-HELSINKI32",
+                "DWD-SD-HELSINKI32",
+                "OMN-9035/32",
+                "Modern shower knobs",
+                "modern glass door knobs",
+                "1-1/4 Inch Helsinki Glass Door Knob Sets",
+                "Glass Shower Door Handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DWD-SD-KELSINKI32-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DWD-SD-KELSINKI32-525.jpg?v=1716426150"
+        },
+        "text": {
+            "description_html": "<b>1-1/4 Inch Helsinki Glass Door Knob Set</b>\r\n\r\n<p>\r\nHelsinki Glass Shower Door Handles are a Doorware.com exclusive. This Helsinki Shower Door Knob Set is perfect for your bathroom with its modern design. It is available in some of the hottest finishes in the industry including polished nickel and satin brass. The 1-1/4 inch diameter Helsinki Glass Door Knob Set is packaged with 2 knobs and a mounting kit for a 1/4 inch to 1/2 inch thick glass door. Add a contemporary shower pull to your bathroom for a sleek look that is sure to wow.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the 1-1/4 Inch Diameter Helsinki Shower Knob:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-1/4\"</li>\r\n<li>Glass Thickness: 1/4\" to 1/2\" Thick Glass.</li>\r\n<li>Glass Hole Diameter: 5/16\" - 3/8\" Hole Diameter.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MUL-T-LOCK-C08PC3_size.gif?v=1704354638\" width=\"600\" height=\"144\" border=\"0\" alt=\"DWD-SD-HELSINKI32 Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Helsinki Shower Door Knob",
+                "description": "Helsinki Glass Shower Door Handles are a Doorware.com exclusive. This Helsinki Shower Door Knob Set is perfect for your bathroom with its modern design. It is available in some of the hottest finishes in the industry including polished nickel and satin brass. The 1-1/4 Inch Helsinki Glass Door Knob Set packaged with 2 knobs and a mounting kit for a 1/4 inch to 1/2 inch thick glass door. Add a contemporary shower pull to your bathroom for a sleek look that is sure to wow.",
+                "keywords": "1-1/4 Inch Diameter Helsinki Shower Knobs, Helsinki Shower Door Knobs, DWD SD-HELSINKI32, DWD-SD-HELSINKI32 , OMN-9035/32, Modern shower knobs, modern glass door knobs, 1-1/4 Inch Helsinki Glass Door Knob Sets, Glass Shower Door Handles,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Glass Shower Door Pulls",
+                    "sort": "2"
+                },
+                {
+                    "name": "Doorware Designs Shower Door Pulls",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "824146",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "801688",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "861523",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "830434",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "618517",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "936148",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "822718",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "780920",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: US5: Antique Brass",
+                "Select Finish: US10B: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

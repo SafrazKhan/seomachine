@@ -1,0 +1,140 @@
+{
+    "legacy_product_id": "29613",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Square and Tassle Lever Set, Acorn IWGBI",
+            "vendor": "Acorn",
+            "status": "ARCHIVED",
+            "sku": "ACO-IWGBI",
+            "mpn": "ACO-IWGBI",
+            "price": "242.67",
+            "compare_at_price": "303.36",
+            "contractor_price": "230.55",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Square and Tassle Lever Set",
+                "Acorn IWGBI",
+                "IWHBI",
+                "black diamond levers",
+                "black door levers",
+                "ranch door levers",
+                "castle door levers",
+                "colonial door levers",
+                "Acorn door levers",
+                "Forged iron Passage door levers",
+                "Forged iron Privacy door lever sets",
+                "forged iron levers",
+                "black door levers",
+                "Iron Art door knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ACO-IWGBI-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-IWGBI-525.jpg?v=1717105471"
+        },
+        "text": {
+            "description_html": "<b>Acorn IWGBI / IWHBI  Forged Black Iron Door Lever</b>\r\n\r\n<p>\r\nThis Acorn door lever set features a diamond shaped rose with a tassle shaped grip. It is hand forged black iron and adds a unique look to any early colonial or european style home decor. Will fit any standard pre-cut door.\r\n</p>\r\n\r\n<p>\r\nThis hand forged style reflects the decor of early American and European homes, when all hardware was made by a blacksmith. \r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of the Iron Art Door Lever Set:\r\n<ul>\r\n<li>Finish: <b>Rough Black Iron</b></li>\r\n<li>Lever Length: 4-1/3\"</li>\r\n<li>Projection: 2-1/3\" </li>\r\n<li>Rose Length: 2-1/2\" square</li>\r\n<li>Door Thickness: 1-3/8\" to 1-3/4\"</li>\r\n<li>Backsets: 2-3/8\" or 2-3/4\"</li>\r\n<li>Sets are suitable for predrilled doors.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>When Selecting a Function:</b>\r\n<ul>\r\n<li><b>Passage Set (hall or closet):</b> For doors that don't need locking. Latch operates from either side of door. Complete set - 2 levers, 2 roses, door latch, strike plate, dust box, faceplate, spindle, and mounting screws.</li>\r\n<li><b>Privacy Set (bedroom or bathroom):</b> For doors that could need locking. Latch operates from either side. Push button on interior lever engages privacy; emergency release hole is on exterior lever. Complete set - 2 levers, 2 roses, privacy button, door latch, strike plate, dust box, faceplate, spindle, and mounting screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Lifetime No-Rust Warranty!</b>\r\n</p>",
+            "seo": {
+                "title": "Square and Tassle Lever Set, Acorn IWGBI",
+                "description": "Acorn IWGBI - This Acorn door lever set features a  diamond shaped rose with a tassle shaped grip. It is hand forged black iron and adds a unique look to any early colonial or european style home decor. Will fit any standard pre-cut door.",
+                "keywords": "Square and Tassle Lever Set, Acorn IWGBI, IWHBI,  black diamond levers, black door levers, ranch door levers, castle door levers, colonial door levers, Acorn door levers, Forged iron Passage door levers, Forged iron Privacy door lever sets, forged iron levers, black door levers, Iron Art door knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Acorn Discontinued",
+                    "sort": "72"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "205898",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "158779",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "205888",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "65869",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "158567",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "158319",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Function: ACO-IWGBI - Passage Set",
+                "Select Function: ACO-IWHBI - Privacy Set",
+                "Select Backset: 2-3/8in. Backset",
+                "Select Backset: 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ACO-IWGBI - Passage Set",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "ACO-IWGBI"
+                },
+                {
+                    "value": "ACO-IWHBI - Privacy Set",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "ACO-IWHBI"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2"
+                },
+                {
+                    "value": "2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2"
+                }
+            ]
+        }
+    ]
+}

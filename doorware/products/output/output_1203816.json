@@ -1,0 +1,51 @@
+{
+    "legacy_product_id": "1203816",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "SMARTair Relay Module, Mul-T-Lock SMA-STCRPLACA2",
+            "vendor": "Mul-T-Lock",
+            "status": "ARCHIVED",
+            "sku": "MTL-SMA-STCRPLACA2",
+            "mpn": "MTL-SMA-STCRPLACA2",
+            "price": "417.94",
+            "compare_at_price": "417.94",
+            "contractor_price": "417.94",
+            "shipping_weight": "0.5",
+            "tags": [
+                "SMARTair relay module",
+                "Mul-T-Lock SMA-STCRPLACA2"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525249.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525249.gif?v=1717791546"
+        },
+        "text": {
+            "description_html": "<b>Mul-T-Lock SMA-STCRPLACA2, SMARTair Relay Module</b>\r\n\r\n<p>\r\nRelay Module 12-24V for SMARTair access control system by Mul-T-Lock.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "SMARTair Relay Module",
+                "description": "Relay Module 12-24V for SMARTair access control system by Mul-T-Lock.",
+                "keywords": "SMARTair relay module, Mul-T-Lock SMA-STCRPLACA2,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Mul-T-Lock SMARTair",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

@@ -1,0 +1,147 @@
+{
+    "legacy_product_id": "19579",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Design Hardware 416 High Performance Door Closer",
+            "vendor": "Design Hardware",
+            "status": "ARCHIVED",
+            "sku": "DES-416",
+            "mpn": "DES-416",
+            "price": "147.0",
+            "compare_at_price": "210.0",
+            "contractor_price": "132.31",
+            "shipping_weight": "10.0",
+            "tags": [
+                "des-416",
+                "des416 Door Closers",
+                "Design Hardware 416 High Performance Door Closers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/416-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/416-5251.jpg?v=1716420384"
+        },
+        "text": {
+            "description_html": "<b>Design Hardware 416 High Performance Door Closer</b>\r\n<p>\r\nDesign Hardware offers you solutions proven to fit every application from the heaviest use to the most prestigious and even the aesthetically pleasing. You will find their high quality products in residential and commercial projects around the world.\r\n</p>\r\n<p>\r\nSpring Power Adjustment allows for a range of sizes 1-6.\r\n</p>\r\n<p>\r\n<b>416 Design Hardware Specs:</b>\r\n</p>\r\n<p>\r\n<ul>\r\n<li>Independent Latch Speed, Sweep Speed and Back Check controls.</li>\r\n<li>UL Listed.</li>\r\n<li>Needle bearing for smooth operation. </li>\r\n<li>Complies with ADA reduced opening force including Barrier Free. </li>\r\n<li>Complies with ANSI A156.4 Grade 1 standards.</li>\r\n<li>Heavy Duty Cast Iron Body. </li>\r\n<li>Non Handed - can be installed Right or Left. </li>\r\n<li>Each Closer comes complete with Molded Cover</li>\r\n<li>Non Handed Fasteners - Phillips head Wood and Machine Screws.</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<b>\r\nInstallation Guide: <a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/416series_install.pdf?v=1704262176\" target=\"new\">Click here to download. (PDF).</a></b>\r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/handicap-logo.jpg?v=1704353001\">\r\n</p>\r\n<br>\r\n<p>\r\n<b>** Item Discontinued:</b> Use <a href=\"/products/lcn-4040-series-replacement-ada-compliant-heavy-duty-door-closer-global-tc4300\"><b>Global TC4300</b></a>, <a href=\"/products/lcn-4040-super-smoothee-grade-1-door-closer\"><b>LCN 4040XP</b></a> or <a href=\"/products/extra-heavy-duty-door-closer-deltana-dc40\"><b>Deltana DC40</b></a> replacement door closer.\r\n</p>\r\n<br>",
+            "seo": {
+                "title": "Design Hardware 416 High Performance Door Closer",
+                "description": "Design Hardware 416 High Performance Door Closer Spring Power Adjustment allows for a range of sizes 1-6 \r\nIndependent Latch Speed, Sweep Speed and Back Check controls UL Listed \r\nNeedle bearing for smooth operation \r\nComplies with ADA reduced opening force including Barrier Free \r\nComplies with ANSI A156.4 Grade 1  \r\nHeavy Duty Cast Iron Body \r\nNon Handed - can be in stalled Right or Left Each Closer comes complete with Molded Cover - Non Handed Fasteners- Phillips head Wood and Machine Screws",
+                "keywords": "des-416, des416 Door Closers, Design Hardware 416 High Performance Door Closers,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Design Hardware Door Closers",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: DES-416AL - Aluminum Finish",
+                "Select Finish: DES-416BZ - Bronze Finish",
+                "Select Heavy Duty Arm Option: No Thanks",
+                "Select Heavy Duty Arm Option: 416AL Heavy Duty Arm in Aluminum Finish",
+                "Select Heavy Duty Arm Option: 416BZ Heavy Duty Arm in Bronze Finish",
+                "Select Hold Open Arm Option: No Thanks",
+                "Select Hold Open Arm Option: 416AL Hold Open Arm in Aluminum Finish",
+                "Select Hold Open Arm Option: 416BZ Hold Open Arm in Bronze Finish"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DES-416AL - Aluminum Finish",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DES-416AL"
+                },
+                {
+                    "value": "DES-416BZ - Bronze Finish",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DES-416BZ"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Heavy Duty Arm Option",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "No Thanks",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "No"
+                },
+                {
+                    "value": "416AL Heavy Duty Arm in Aluminum Finish",
+                    "price_impact": 25.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "416AL"
+                },
+                {
+                    "value": "416BZ Heavy Duty Arm in Bronze Finish",
+                    "price_impact": 25.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "416BZ"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Hold Open Arm Option",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "No Thanks",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "No"
+                },
+                {
+                    "value": "416AL Hold Open Arm in Aluminum Finish",
+                    "price_impact": 30.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "416AL"
+                },
+                {
+                    "value": "416BZ Hold Open Arm in Bronze Finish",
+                    "price_impact": 30.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "416BZ"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "legacy_product_id": "1144697",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Top Center Hung Pivot with Extended Pin, ABH 0340T/EXT-SPIN",
+            "vendor": "ABH",
+            "status": "ARCHIVED",
+            "sku": "ABH-0340T/EXT-SPIN",
+            "mpn": "ABH-0340T/EXT-SPIN",
+            "price": "229.36",
+            "compare_at_price": "263.52",
+            "contractor_price": "229.36",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Top Center Hung Pivot with Extended Pin",
+                "ABH 0340T/EXT-SPIN",
+                "ABH-0340T/EXT-SPIN"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525187.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525187.gif?v=1716428451"
+        },
+        "text": {
+            "description_html": "<b>ABH 0340T/EXT-SPIN Top Pivot Center Hung with Extended Spindle for Bottom Pivot</b>\r\n\r\n<p>\r\nThis heavy duty center hung top pivot hinge is engineered for durability on heavy doors up to 500 lbs.  These are used standard with <a href=\"/products/heavy-door-center-hung-bottom-pivot-abh-0370b\"><b>ABH 0370B Bottom Center Hung Pivot Set</b></a>.  <a href=\"/site/department.cfm?id=519415\"><b>ABH Door Pivots</b></a> are Made in the USA to insure high quality. \r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications:</b> for ABH 0340T/EXT-SPIN  Top Door Pivot:\r\n<ul>\r\n<li>Door Weight: Up to 500 lbs</li>\r\n<li>Door Arm Length: 5-9/32\"</li>\r\n<li>Door Arm Thickness: 1/4\"</li>\r\n<li>Hinge Type: Full Mortise, Center Hung</li>\r\n<li>Walking beam type hinge</li>\r\n<li>Dress plate provided for jamb portion</li>\r\n<li><b>Non-Handed, Reversible </b></li>\r\n<li>BHMA/ANSI C06213/3520 (modified)</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually. Top Door Pivot Only.</i>\r\n</p>\r\n\r\n<p>\r\n<b>Special Ordered Item. NO RETURNS.</b>\r\n</p>",
+            "seo": {
+                "title": "Top Center Hung Pivot with Extended Pin",
+                "description": "This heavy duty center hung top pivot hinge is engineered for durability on heavy doors up to 500 lbs.  These are used standard with ABH 0370B Bottom Center Hung Pivot Set.  ABH Door Pivots are Made in the USA to insure high quality.",
+                "keywords": "Top Center Hung Pivot with Extended Pin, ABH 0340T/EXT-SPIN, ABH-0340T/EXT-SPIN"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "ABH-Disc-Misc",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "542121",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "561068",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "174761",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1134957",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "974161",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "227641",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US32D: Satin Stainless Steel",
+                "Select Clearance: 3/4 inch - EXT-SPIN-.75 Clearance"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US32D: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Clearance",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "3/4 inch - EXT-SPIN-.75 Clearance",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

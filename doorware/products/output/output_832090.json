@@ -1,0 +1,136 @@
+{
+    "legacy_product_id": "832090",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Rim Cylinder Lock, Global ED-RC051",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-ED-RC051",
+            "mpn": "GLO-ED-RC051",
+            "price": "21.9",
+            "compare_at_price": "31.28",
+            "contractor_price": "19.71",
+            "shipping_weight": "0.5",
+            "tags": [
+                "GLO-ED-RC051-US26D Rim Cylinder Lock",
+                "Global ED-RC051-US26D brushed chrome rim cylinders",
+                "Global Door Controls locks",
+                "Panic Device locks",
+                "exit bar locks",
+                "GLO-ED-RC051-US10B Oil rubbed bronze rim cylinders"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-ED-RC051-US26D_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-ED-RC051-US26D_525.jpg?v=1716425936"
+        },
+        "text": {
+            "description_html": "<b>Global ED-RC051 Rim Cylinder Lock</b>\r\n<p>\r\nCommercial door rim cylinder lock. Rim cylinders are normally used on the doors exterior to unlatch <a href=\"/collections/panic-devices\"><b>Rim Panic Devices</b></a>. This solid brass rim cylinder includes mounting plate, trim ring and mounting screws. Available in Brushed Chrome or Oil Rubbed Bronze finish.\r\n\r\n</p>\r\n<p>\r\nAlso available: <a href=\"/products/rim-cylinder-lock-global-th1100-rc\"><b>Global Door Rim Cylinder</b></a> in Aluminum or Dark Bronze finish.\r\n</p>\r\n<p>\r\n<b>Specifications:</b> for Global ED-RC051 Rim Cylinder\r\n<ul>\r\n<li>Function: Keyed Rim Cylinder</li>\r\n<li>Material: Brass Cylinder</li>\r\n<li>Standard 5-pin Schlage \"C\" Keyway</li>\r\n<li>Flat \"cut to size\" horizontal tail piece</li>\r\n<li>For 1-3/4\" to 2-1/4\" thick doors</li>\r\n<li>Packed with 1-7/8\" diameter trim ring</li>\r\n<li>Includes mounting plate and two (2) #12 x 1-7/8\" machine screws</li>\r\n<li>Finish: Optional Brushed Chrome or Oil Rubbed Bronze</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Brushed Chrome Rim Cylinder Lock",
+                "description": "Global ED-RC051  Rim Cylinder Lock. Rim cylinders are normally used on the doors exterior to unlatch Panic Devices. This solid brass rim cylinder includes mounting plate, trim ring and mounting screws. Available in Brushed Chrome or Oil Rubbed Bronze finish.",
+                "keywords": "GLO-ED-RC051-US26D Rim Cylinder Lock, Global ED-RC051-US26D brushed chrome rim cylinders, Global Door Controls locks, Panic Device locks, exit bar locks, GLO-ED-RC051-US10B Oil rubbed bronze rim cylinders,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Global Panic Hardware",
+                    "sort": "41"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "184706",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "832027",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "829418",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "301763",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "660652",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "241487",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: ED-RC051-US26D: Brushed Chrome",
+                "Select Finish: ED-RC051-US10B: Oil Rubbed Bronze",
+                "Keying: Only Ordered One Lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ED-RC051-US26D: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ED-RC051-US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

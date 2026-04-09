@@ -1,0 +1,192 @@
+{
+    "legacy_product_id": "1096183",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hinge Pin Door Stop, Emtek 2241",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-2241",
+            "mpn": "EMT-2241",
+            "price": "12.99",
+            "compare_at_price": "16.0",
+            "contractor_price": "12.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Emtek 2241",
+                "Hinge Pivot Stops",
+                "EMT-2241",
+                "Hinge Pin Door Stops",
+                "Solid Brass Hinge Pin Door Stops",
+                "narrow trim hinge pin door bumper",
+                "door bumpers",
+                "solid brass doorstops",
+                "rubber tip door stops"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-2241-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-2241-525.jpg?v=1716428149"
+        },
+        "text": {
+            "description_html": "<b>Emtek 2241, Hinge Pivot Stop</b>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-2241-specifications.gif?v=1704354619\" width=\"255\" height=\"277\" border=\"0\" align=\"right\" alt=\"Emtek 2241 Specifications\">\r\n</p>\r\n\r\n<p>\r\nThe Emtek Hinge Pivot Stop is for use with solid brass hinges. This Hinge Pin Door Stop is mounted on a door hinge pin instead of on the floor or baseboard. Easily adjustable, simple to use, out of the way and out of sight. We use them on or doors to keep the stops out of reach of the crawling babies! Choose your favorite of the many available finishes. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Hinge Pin Door Stop:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Length: 2-3/8\"</li>\r\n<li>Width: 1-3/4\"</li>\r\n<li>Mounting Diameter: 11/32\"</li>\r\n<li>Packaged with mounting hardware.</li>\r\n<li>Not compatible with steel residential duty hinges.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold individually.</i>\r\n</p>",
+            "seo": {
+                "title": "Hinge Pin Door Stop",
+                "description": "The Emtek Hinge Pivot Stop is for use with solid brass hinges. This Hinge Pin Door Stop is mounted on a door hinge pin instead of on the floor or baseboard. Easily adjustable, simple to use, out of the way and out of sight. We use them on or doors to keep the stops out of reach of the crawling babies! Choose your favorite of the many available finishes.",
+                "keywords": "Emtek 2241, Hinge Pivot Stops, EMT-2241, Hinge Pin Door Stops, Solid Brass Hinge Pin Door Stops, narrow trim hinge pin door bumper, door bumpers, solid brass doorstops, rubber tip door stops,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Emtek Accessories",
+                    "sort": "14"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "6931",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "6957",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "762728",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "868090",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "175670",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "165216",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "165233",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US15A: Antique Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US7: French Antique",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: MB: Medium Bronze",
+                "Select Finish: TWB: Tumbled White Bronze",
+                "Select Finish: US3NL: Unlacquered Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US7: French Antique",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MB: Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TWB: Tumbled White Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3NL: Unlacquered Brass",
+                    "price_impact": 16.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

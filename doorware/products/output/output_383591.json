@@ -1,0 +1,125 @@
+{
+    "legacy_product_id": "383591",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Frosted Acrylic 18 Inch Offset Door Pull, First Impressions FII-CFRBAF",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-CFRBAF-OFFSET",
+            "mpn": "FII-CFRBAF-OFFSET",
+            "price": "380.0",
+            "compare_at_price": "475.0",
+            "contractor_price": "361.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "FII-CFRBAF Frosted Acrylic Shower Door Pulls",
+                "First Impressions Frosted Acrylic Door Pulls",
+                "First Impressions CFRBAF shower door pulls",
+                "Frosted shower handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>First Impressions CFRBAF-OFFSET Frosted Acrylic 18\" Offset Door Pull</b>\r\n<p>Made in the USA by the master craftsmen at First Impressions from the finest clear acrylic available. The acrylic is manufactured with UV inhibitors to prevent yellowing and fading.  \r\n</p>\r\n<p>\r\n<b>Specifications</b> for First Impressions CFRBAF-OFFSET Frosted Acrylic Door Pull\r\n<ul>\r\n<li>Pull Length:  18\"</li>\r\n<li>Pull Handle Diameter: 1\"</li>\r\n<li>Total Projection: 2-11/16\"</li>\r\n<li>Clearance:  1-1/2\"</li>\r\n<li>Pull Handle Material: Frosted Acrylic</li>\r\n<li>Pull Bracket Material: Aluminum</li>\r\n<li>Pull Bracket Finish:  Polished Chrome</li>\r\n</ul>\r\n</p>\r\n<p>\r\nPackaged Standard with Thrubolt mounting (Bolts thru the door). Optional Surface mounting or Back to Back mounting available (Pulls bolt to each other - Requires 2 door pulls).\r\n</p>\r\n<p>\r\n<b>*Sold individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Frosted Acrylic 18 Inch Offset Door Pull, First Impressions FII-CFRBAF",
+                "description": "First Impressions 18\" Frosted Acrylic Offset Door Pull.  ",
+                "keywords": "FII-CFRBAF Frosted Acrylic Shower Door Pulls, First Impressions Frosted Acrylic Door Pulls, First Impressions CFRBAF shower door pulls, Frosted shower handles,"
+            },
+            "specifications": [
+                {
+                    "key": "Pull Length",
+                    "value": "18\""
+                },
+                {
+                    "key": "Pull Handle Diameter",
+                    "value": "1\""
+                },
+                {
+                    "key": "Total Projection",
+                    "value": "2-11/16\""
+                },
+                {
+                    "key": "Clearance",
+                    "value": "1-1/2\""
+                },
+                {
+                    "key": "Pull Handle Material",
+                    "value": "Frosted Acrylic"
+                },
+                {
+                    "key": "Pull Bracket Material",
+                    "value": "Aluminum"
+                },
+                {
+                    "key": "Pull Bracket Finish",
+                    "value": "Polished Chrome"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Custom-Misc-Items",
+                    "sort": "86"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Pull Length: 18\"",
+                "Pull Handle Diameter: 1\"",
+                "Total Projection: 2-11/16\"",
+                "Clearance: 1-1/2\"",
+                "Pull Handle Material: Frosted Acrylic",
+                "Pull Bracket Material: Aluminum",
+                "Pull Bracket Finish: Polished Chrome",
+                "Select Mounting Choice: Thrubolt Mounted",
+                "Select Mounting Choice: Surface Mounted",
+                "Select Mounting Choice: Back to Back Mounted (Requires 2 Pulls)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Mounting Choice",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Thrubolt Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Thrubolt"
+                },
+                {
+                    "value": "Surface Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Surface"
+                },
+                {
+                    "value": "Back to Back Mounted (Requires 2 Pulls)",
+                    "price_impact": 32.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Back"
+                }
+            ]
+        }
+    ]
+}

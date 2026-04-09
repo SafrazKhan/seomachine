@@ -1,0 +1,116 @@
+{
+    "legacy_product_id": "184801",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Storefront Door Mortise Dummy Cylinder TH1100-DUM",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-TH1100-DUM",
+            "mpn": "GLO-TH1100-DUM",
+            "price": "8.45",
+            "compare_at_price": "12.08",
+            "contractor_price": "7.61",
+            "shipping_weight": "0.3",
+            "tags": [
+                "Global TH1100-DUM dummy cylinder mortise locks",
+                "aluminum framed storefront doors mortise plugs",
+                "GLO-TH1100-DUM mortise plugs",
+                "lock plug",
+                "door hole fillers",
+                "Global TH1100-DUM-AL",
+                "Global TH1100-DUM-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-TH1100-DUM_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-TH1100-DUM_525.jpg?v=1716421750"
+        },
+        "text": {
+            "description_html": "<b>Global TH1100-DUM Dummy Cylinder for Mortise Lock</b>\r\n<p>\r\nStorefront door mortise (threaded) dummy cylinder (Plug) for Adams Rite style <a href=\"/products/storefront-door-mortise-lock-deadbolt-body-th1101\"><b>Mortise Deadbolt</b></a>, <a href=\"/products/storefront-door-mortise-lock-deadlatch-body-th1103\"><b>Mortise Deadlatch</b></a> or \r\n<a href=\"/products/sliding-door-mortise-lock-hookbolt-body-th1102\"><b>Mortise Hookbolt</b></a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b>\r\n<ul>\r\n<li>Dummy Mortise Cylinder (Plug)</li>\r\n<li>1\" Length </li>\r\n<li>Zinc construction</li>\r\n<li>Includes 3/16\" Stamped Trim Ring</li>\r\n</ul>\r\n</p>\r\n<p>Available in aluminum or dark bronze finish.\r\n</p>",
+            "seo": {
+                "title": "Storefront Door Mortise Dummy Cylinder TH1100-DUM",
+                "description": "Global TH1100-DUM - Dummy Cylinder for aluminum framed storefront  doors mortise locks.",
+                "keywords": "Global TH1100-DUM dummy cylinder mortise locks, aluminum framed storefront doors mortise plugs, GLO-TH1100-DUM mortise plugs, lock plug, door hole fillers, Global TH1100-DUM-AL, Global TH1100-DUM-DU,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Store Front Door Hardware",
+                    "sort": "5"
+                },
+                {
+                    "name": "Store Door Hardware",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "184782",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "193377",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "193213",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "184797",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "193669",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "184809",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "184825",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: TH1100-DUM-AL: Aluminum",
+                "Select Finish: TH1100-DUM-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TH1100-DUM-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-TH1100-DUM-AL:"
+                },
+                {
+                    "value": "TH1100-DUM-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-TH1100-DUM-DU:"
+                }
+            ]
+        }
+    ]
+}

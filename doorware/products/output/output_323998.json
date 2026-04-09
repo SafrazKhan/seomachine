@@ -1,0 +1,84 @@
+{
+    "legacy_product_id": "323998",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Stainless Steel Square Privacy Door Bolt with Emergency Entry, AHI SIG291PV",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-SIG291PV-630",
+            "mpn": "AHI-SIG291PV-630",
+            "price": "209.6",
+            "compare_at_price": "262.0",
+            "contractor_price": "199.12",
+            "shipping_weight": "4.0",
+            "tags": [
+                "Stainless Steel Square Privacy Door Bolt with Emergency Entry",
+                "AHI SIG291PV"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>AHI SIG291 Square Stainless Steel Privacy Door Bolt with Emergency Entry</b>\r\n<p>\r\nThis privacy door bolt also has an emergency entry button outside.   Emergency entry from outside using simple tool (no key required) such as a normal screwdriver. All stainless steel construction with a <b>Satin Stainless Steel</b> finish. \r\n</p>\r\n<p>\r\nStainless Steel doorbolt, extremely resistant to corrosion, knocks, scratches and abrasion making it an ideal material for industrial and commercial door hardware. It needs little looking after and does not degrade in appearance or function with use. \r\n</p>\r\n<p>\r\nFor use on any doors that require locking inside, and with an emergency entry button outside. Both exterior and interior plates are surface mounted with concealed screws for a clean installation. \r\n</p>\r\n<p>\r\n<b>Specifications</b> for AHI SIG291 Square Stainless Steel Privacy Doorbolt\r\n<ul>\r\n<li>Material: Stainless Steel</li>\r\n<li><b>Satin Stainless Steel Finish</b></li>\r\n</ul>\r\n</p>\r\n<p>\r\nSold as complete set. Inside Thumbturn, outside Emergency Release, Door Bolt and Strike Plate. \r\n</p>",
+            "seo": {
+                "title": "Stainless Steel Square Privacy Door Bolt with Emergency Entry, AHI SIG291PV",
+                "description": "Stainless Steel Square Privacy Door Bolt with Emergency Entry, AHI SIG291PV",
+                "keywords": "Stainless Steel Square Privacy Door Bolt with Emergency Entry, AHI SIG291PV"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Stainless Steel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "AHI-Discontinued-and-Custom",
+                    "sort": "89"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Material: Stainless Steel",
+                "Select Backset: 2-3/8in. Backset",
+                "Select Backset: 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2"
+                },
+                {
+                    "value": "2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2"
+                }
+            ]
+        }
+    ]
+}

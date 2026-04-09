@@ -1,0 +1,81 @@
+{
+    "legacy_product_id": "955211",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Omnia Knob Set 955/07, 592/55, 007/4, BAL-5754",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-955/07-592/55-007/4-5754",
+            "mpn": "OMN-955/07-592/55-007/4-5754",
+            "price": "127.04",
+            "compare_at_price": "158.8",
+            "contractor_price": "127.04",
+            "shipping_weight": "5.0",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Omnia Knob Set 955/07, 592/55, 007/4, BAL-5754</b>\r\n<p>\r\nSet includes:\r\n<br>\r\n(2)  Omnia 955/07 Knobs\r\n<br>\r\n(2)  Omnia 592/55 55mm Traditional Rosette Kits\r\n<br>\r\n(1)  Omnia 007/4 4\" Spindle \r\n<br>\r\n(2)  Baldwin 5754 Key Plate\r\n</p>\r\n<p>\r\n* Special order item, <b>Not Returnable</b>\r\n</p>",
+            "seo": {
+                "title": "Omnia Knob Set 955/07, 592/55, 007/4, BAL-5754",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "202"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: US3A: Unlacquered Brass",
+                "Select Finish: US3A/US15: Unlacquered Brass / Satin Nickel",
+                "Select Finish: US3A/US26: Unlacquered Brass / Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3A: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3A/US15: Unlacquered Brass / Satin Nickel",
+                    "price_impact": 2.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3A/US26: Unlacquered Brass / Polished Chrome",
+                    "price_impact": 2.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

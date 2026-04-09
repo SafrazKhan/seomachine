@@ -1,0 +1,120 @@
+{
+    "legacy_product_id": "993168",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Schlage Wakefield Handleset with Andover Knob, Schlage F58WKF605/F59AND613",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-F58WKF605/F59AND613",
+            "mpn": "SCH-F58WKF605/F59AND613",
+            "price": "185.0",
+            "compare_at_price": "243.0",
+            "contractor_price": "185.0",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Wakefield Handleset with Andover Knobs",
+                "chlage Wakefield Handleset with Andover Knobs",
+                "Schlage Wakefield Handleset with Andover Knobs",
+                "SCH-F58WKF605/F59AND613",
+                "Schlage F58WKF605/F59AND613"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SCH-F58WKF605F59AND613-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SCH-F58WKF605F59AND613-525.jpg?v=1717106393"
+        },
+        "text": {
+            "description_html": "<b>Schlage Wakefield Handleset with Andover Knob</b>\r\n\r\n<p>\r\nThe Wakefield has a classic oval design with elegant, curved lines; it features two small oval faces and a graceful sweeping handle. The two-piece design offers flexibility for doors with nonstandard hole locations while providing a subtle classic appearance for smaller entranceways. This Schlage Wakefield Handleset is paired with the with Andover Knob.\r\n</p>\r\n\r\n<p>\r\n<b>Single Cylinder Handleset:</b> Key operated from the outside and thumb turn operated from the inside.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Wakefield Handleset with Andover Knob:\r\n<ul>\r\n<li>Finish: polished brass exterior with oil rubbed bronze interior.</li>\r\n<li>Precision engineered.</li>\r\n<li>100% solid forged brass.</li>\r\n<li>ANSI A156.5 Grade 1 Certification.</li>\r\n<li>Solid one-pice deadbolt design that resists sawing and protects against hammer and crowbar attacks.</li>\r\n<li>Concealed mounting screws for a sleeker design.</li>\r\n<li>Door frame reinforcer with 3\"screws.</li>\r\n<li>Universal latch and bolt fits either 2-3/8\" or 2-3/4\" backsets</li>\r\n<li>Door Thickness Range: 1-5/8\" to 1-3/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Schlage Wakefield Handleset with Andover Knob",
+                "description": "The Wakefield has a classic oval design with elegant, curved lines; it features two small oval faces and a graceful sweeping handle. The two-piece design offers flexibility for doors with nonstandard hole locations while providing a subtle classic appearance for smaller entranceways. This Schlage Wakefield Handleset is paired with the with Andover Knob.",
+                "keywords": "Wakefield Handleset with Andover Knobs, chlage Wakefield Handleset with Andover Knobs, Schlage Wakefield Handleset with Andover Knobs, SCH-F58WKF605/F59AND613,  Schlage F58WKF605/F59AND613"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Schlage Misc-Discontinued-Items",
+                    "sort": "45"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "307721",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "760817",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "609139",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "12436",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "51978",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "26026",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Keying: Only Ordered 1 Lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike",
+                "Keying: Non-Keyed (Dummy Handle Sets)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Only Ordered 1 Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 4.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Non-Keyed (Dummy Handle Sets)",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

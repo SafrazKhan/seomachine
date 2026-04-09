@@ -1,0 +1,99 @@
+{
+    "legacy_product_id": "593104",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hold Open Arm for LCN 4111, LCN-4110-3049EDA",
+            "vendor": "LCN",
+            "status": "ARCHIVED",
+            "sku": "LCN-4110-3049EDA",
+            "mpn": "LCN-4110-3049EDA",
+            "price": "292.0",
+            "compare_at_price": "292.0",
+            "contractor_price": "292.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Hold Open Arm for LCN 4111",
+                "LCN-4110-3049EDA"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LCN-1460-3049_5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LCN-1460-3049_5251.jpg?v=1711365484"
+        },
+        "text": {
+            "description_html": "<b>LCN 4110-3049EDA Hold Open Arm</b>\r\n<p> Extra Duty Hold Open Arm for  <a href=\"/products/lcn-heavy-duty-thru-bolt-parallel-mounted-door-closer-lcn-4111\"><b>LCN 4111 Door Closers</b></a>. \r\n</p>\r\n<p>\r\n<b>Easy to install and set.</b>\r\n</p>\r\n<p>\r\n Available in 2 finishes of Aluminum or Dark Bronze .\r\n</p>",
+            "seo": {
+                "title": "Hold Open Arm for LCN 4111, LCN-4110-3049EDA",
+                "description": "Hold Open for LCN 4111 Door Closers. Heavy duty  hold open with adjustable arm length and hold open position.",
+                "keywords": "Hold Open Arm for LCN 4111, LCN-4110-3049EDA"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closer Parts",
+                    "sort": "100"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: LCN-4110-3049EDA-AL",
+                "Select Finish: LCN-4110-3049EDA-DKBRZ",
+                "Select handing: RH: Right Hand",
+                "Select handing: LH: Left Hand"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LCN-4110-3049EDA-AL",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LCN-4110-3049EDA-DKBRZ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RH: Right Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LH: Left Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

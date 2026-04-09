@@ -1,0 +1,96 @@
+{
+    "legacy_product_id": "882339",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Classic Solid Brass Lever, Omnia 907.07",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-907.07",
+            "mpn": "OMN-907.07",
+            "price": "107.0",
+            "compare_at_price": "107.0",
+            "contractor_price": "107.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Omnia 904 simple Lever Latchsets",
+                "OMN-904/00",
+                "omnia simple door levers",
+                "simple door levers latchsets",
+                "traditional door levers",
+                "solid brass standard door handles",
+                "classic door levers",
+                "Omnia 904/00 door levers",
+                "Omnia simple solid brass door levers",
+                "904/00 Omnia solid brass door levers",
+                "Classic Door Levers",
+                "traditional levers",
+                "omnia traditions collections",
+                "Omnia 904 Classic Lever Pairs",
+                "Omnia 907.07",
+                "OMN-907.07",
+                "Replacement pair of 904 levers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-904-07-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-904-07-525.jpg?v=1716426314"
+        },
+        "text": {
+            "description_html": "<b>Omnia 907.07, Traditional Solid Brass Replacement Lever Pair</b>\r\n\r\n<p>\r\nSimple in design, this door lever pair will not disappoint those looking for an elegant way to improve the style of any home. The Classic Solid Brass Lever is packaged as a pair (2 levers) only. It does not include rosettes or a latch.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the 904 Replacement Pair of Omnia 904 Levers:\r\n<ul>\r\n<li>Lever Length: 4-3/4\"</li>\r\n<li>Lever Projection: 2-3/4\"</li>\r\n<li>Solid Brass Construction</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nSpecial orded item. <b>No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "Classic Solid Brass Lever",
+                "description": "Simple in design, this door lever pair will not disappoint those looking for an elegant way to improve the style of any home. The Classic Solid Brass Lever is packaged as a pair (2 levers) only. It does not include rosettes or a latch.",
+                "keywords": "Omnia 904 simple Lever Latchsets, OMN-904/00, omnia simple door levers, simple door levers latchsets, traditional door levers, solid brass standard door handles,  classic door levers, Omnia 904/00 door levers, Omnia simple solid brass door levers, 904/00 Omnia solid brass door levers, Classic Door Levers, traditional levers, omnia traditions collections, Omnia 904 Classic Lever Pairs, Omnia 907.07, OMN-907.07, Replacement pair of 904 levers"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "171"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "355579",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "324984",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "354726",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US26D - Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26D - Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "legacy_product_id": "41768",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Elegant Cabinet Pull, Omnia 9448/100",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9448/100",
+            "mpn": "OMN-9448/100",
+            "price": "24.8",
+            "compare_at_price": "31.0",
+            "contractor_price": "23.56",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9448/10 elegant cabinet pulls",
+                "ornate cabinet pulls",
+                "solid brass drop pulls",
+                "omnia decorative series pulls",
+                "omnia cabinet hardware",
+                "omn-9448/100",
+                "solid brass elegant pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-9448-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/omn-9448-525.jpg?v=1716420813"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9448/100 Elegant Solid Brass Cabinet Drop Pull</b>\r\n<p>This romantically designed cabinet pull is made of solid brass. It is available in 5 finishes, all of which grant the cabinet pull an old world charm. The handle is shaped to fit comfortably in the hand. The designs are intricate but not overly so, making this cabinet drop pull excellent for homes with fancier decors.</p>\r\n<p>\r\nAlso available: Similar design <a href=\"/site/department.cfm?id=41701\"><b>Omnia Ornate Cabinet Pulls</b></a>. \r\n</p>\r\n<p>\r\nOmnia's line of sophisticated cabinet hardware have been painstakingly crafted by artisans who understand that a beautiful design must be as comfortable to the hand as it is pleasing to the eyes.\r\n</p>\r\n<p><b>Specifications</b> of the Decorative Series Omnia 9448/100 Cabinet Pull:\r\n<ul>\r\n<li>Handle Length: 2-1/2\"</li>\r\n<li>Backplate Length : 4\"</li>\r\n<li>Backplate Width: 1-3/4\"</li>\r\n<li>Solid brass construction regardless of finish.</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<b>*Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "Elegant Cabinet Pull, Omnia 9448/100",
+                "description": "Omnia 9448/100 Elegant Cabinet Drop Pull - This romantically designed cabinet pull is made of solid brass. It is available in 5 finishes, all of which grant the cabinet pull an old world charm. The handle is shaped to fit comfortably in the hand. The designs are intricate but not overly so, making this cabinet drop pull excellent for homes with fancier decors.",
+                "keywords": "omnia 9448/10 elegant cabinet pulls, ornate cabinet pulls, solid brass drop pulls, omnia decorative series pulls, omnia cabinet hardware, omn-9448/100,  solid brass elegant pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Handle Length",
+                    "value": "2-1/2\""
+                },
+                {
+                    "key": "Backplate Length",
+                    "value": "4\""
+                },
+                {
+                    "key": "Backplate Width",
+                    "value": "1-3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "148"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "187049",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "244058",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "236125",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "43096",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "39851",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "41720",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "42871",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "41711",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "235482",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Handle Length: 2-1/2\"",
+                "Backplate Length: 4\"",
+                "Backplate Width: 1-3/4\"",
+                "Select Finish: US3 - Polished Brass",
+                "Select Finish: SB - Shaded Bronze",
+                "Select Finish: VB - Vintage Brass",
+                "Select Finish: VC - Vintage Copper",
+                "Select Finish: VI - Vintage Iron"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9448/100"
+                },
+                {
+                    "value": "SB - Shaded Bronze",
+                    "price_impact": 0.88,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9448/100"
+                },
+                {
+                    "value": "VB - Vintage Brass",
+                    "price_impact": 6.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9448/100"
+                },
+                {
+                    "value": "VC - Vintage Copper",
+                    "price_impact": 6.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9448/100"
+                },
+                {
+                    "value": "VI - Vintage Iron",
+                    "price_impact": 6.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9448/100"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "legacy_product_id": "1107930",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "White Rectangular Flush Door Pull, DWD-SIG776-P4x",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "DWD-SIG776-P4x",
+            "mpn": "DWD-SIG776-P4x",
+            "price": "142.0",
+            "compare_at_price": "178.0",
+            "contractor_price": "142.0",
+            "shipping_weight": "1.3",
+            "tags": [
+                "White Rectangular Flush Pulls",
+                "White Rectangular Flush Door Pulls",
+                "DWD-SIG776-P40",
+                "DWD-SIG776-P40"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/special_order-5251218.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/special_order-5251218.jpg?v=1716428244"
+        },
+        "text": {
+            "description_html": "<b>DWD-SIG776-P4x, White Flush Pull</b>\r\n\r\n<p>\r\nThe White Flush Pull is for use on pocket doors, sliding doors, cabinet doors, or any door where a flush with the door face pull is desired. The flush pull is pressure mounted into the door for a clean installation (no screws). It can also be thru bolted from the back side if used on pantry or cabinet door.\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-SIG777_size.gif?v=1704354652\" width=\"600\" height=\"450\" border=\"0\" alt=\"Long Stainless Steel Flush Pull Dimensions\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the White Flush Door Pull:\r\n<ul>\r\n<li>Material: Stainless Steel</li>\r\n<li>Finish: <b>White</b></li>\r\n<li>Total Height: 5-5/16\" (135 mm)</li>\r\n<li>Total Width: 2-3/4\" (70 mm)</li>\r\n<li>Total Depth: 3/4\" (19 mm)</li>\r\n<li>Door Cutout Depth: 21/32\" (17 mm)</li>\r\n<li>Projection: 1/16\" (2 mm)</li>\r\n<li>Finger Opening Height: 3-15/16\" (100 mm)</li>\r\n<li>Finger Opening Width: 1\" (25 mm)</li>\r\n<li>Door Cutout Opening Height: 4-15/16\" (125 mm)</li>\r\n<li>Door Cutout Opening Width: 1-13/16\" (46 mm)</li>\r\n<li>Lip:  5/16\" (8 mm)</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordred Item. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "White Rectangular Flush Door Pull",
+                "description": "",
+                "keywords": "White Rectangular Flush Pulls, White Rectangular Flush Door Pulls, DWD-SIG776-P40, DWD-SIG776-P40,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Stainless Steel"
+                },
+                {
+                    "key": "Finish",
+                    "value": "White"
+                },
+                {
+                    "key": "Total Height",
+                    "value": "5-5/16\" (135 mm)"
+                },
+                {
+                    "key": "Total Width",
+                    "value": "2-3/4\" (70 mm)"
+                },
+                {
+                    "key": "Total Depth",
+                    "value": "3/4\" (19 mm)"
+                },
+                {
+                    "key": "Door Cutout Depth",
+                    "value": "21/32\" (17 mm)"
+                },
+                {
+                    "key": "Projection",
+                    "value": "1/16\" (2 mm)"
+                },
+                {
+                    "key": "Finger Opening Height",
+                    "value": "3-15/16\" (100 mm)"
+                },
+                {
+                    "key": "Finger Opening Width",
+                    "value": "1\" (25 mm)"
+                },
+                {
+                    "key": "Door Cutout Opening Height",
+                    "value": "4-15/16\" (125 mm)"
+                },
+                {
+                    "key": "Door Cutout Opening Width",
+                    "value": "1-13/16\" (46 mm)"
+                },
+                {
+                    "key": "Lip",
+                    "value": "5/16\" (8 mm)"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "AHI-Discontinued-and-Custom",
+                    "sort": "85"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Material: Stainless Steel",
+                "Finish: White",
+                "Total Height: 5-5/16\" (135 mm)",
+                "Total Width: 2-3/4\" (70 mm)",
+                "Total Depth: 3/4\" (19 mm)",
+                "Door Cutout Depth: 21/32\" (17 mm)",
+                "Projection: 1/16\" (2 mm)",
+                "Finger Opening Height: 3-15/16\" (100 mm)",
+                "Finger Opening Width: 1\" (25 mm)",
+                "Door Cutout Opening Height: 4-15/16\" (125 mm)",
+                "Door Cutout Opening Width: 1-13/16\" (46 mm)",
+                "Lip: 5/16\" (8 mm)",
+                "Selet Finish: P41: Matte White",
+                "Selet Finish: P40: White Gloss"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Selet Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "P41: Matte White",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P40: White Gloss ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

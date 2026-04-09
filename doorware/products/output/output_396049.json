@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "396049",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hinge Pin Door Stop, Fusion HPDS",
+            "vendor": "Fusion",
+            "status": "ACTIVE",
+            "sku": "FUS-HPDS",
+            "mpn": "FUS-HPDS",
+            "price": "7.0",
+            "compare_at_price": "7.0",
+            "contractor_price": "5.25",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Hinge Pin Door Stops",
+                "Fusion HPDS",
+                "fus-HPDS",
+                "Solid Brass Hinge Pin Door Stops",
+                "narrow trim hinge pin door bumper",
+                "door bumpers",
+                "solid brass doorstops",
+                "rubber tip door stops"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-HPDS-US15-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-HPDS-US15-525.jpg?v=1711365454"
+        },
+        "text": {
+            "description_html": "<b>Fusion HPDS, Solid Brass Hinge Pin Door Stop</b>\r\n\r\n<p>\r\nFor use on a hinged door where a standard door stop is not desirable, this universal fit door stop is mounted on a door hinge pin instead of on the floor or baseboard. Easily adjustable, simple to use, out of the way and out of sight. Made by Fusion, the HPDS Hinge Pin Door Stop is designed for narrow trim installation and has a removable bushing to accommodate 1/4\" to 5/16\" hinge pin diameters.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Narrow Trim Hinge Pin Door Bumper:\r\n<ul>\r\n<li>For narrow trim installation.</li>\r\n<li>Removable bushings accommodate 1/4\" to 5/16\" diameter hinge pins.</li>\r\n<li>Door opening: 85 degrees to 125 degrees door opening adjustments.</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold individually.</i>\r\n</p>\r\n\r\n<p>\r\n<b>** This item is being discontinued. Very limited quantities available.</b>\r\n</p>",
+            "seo": {
+                "title": "Hinge Pin Door Stop, Fusion HPDS",
+                "description": "Fusion HPDS, Solid Brass Hinge Pin Door Stop - For use on a hinged door where a standard door stop is not desirable, this universal fit door stop is mounted on a door hinge pin instead of on the floor or baseboard. Easily adjustable, simple to use, out of the way and out of sight. Very popular and available in brushed nickel, oil rubbed bronze, and polished brass finishes. Made by Fusion, the HPDS Hinge Pin Door Stop is designed for narrow trim installation and has removable bushings to accommodate 1/4 inch to 5/16 inch hinge pin diameters.",
+                "keywords": "Hinge Pin Door Stops, Fusion HPDS, fus-HPDS, Solid Brass Hinge Pin Door Stops, narrow trim hinge pin door bumper, door bumpers, solid brass doorstops, rubber tip door stops,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Door Stops, Bumpers, and Holders",
+                    "sort": "14"
+                },
+                {
+                    "name": "Fusion Door Stops",
+                    "sort": "101"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "6944",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "573409",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "903419",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "45926",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "332648",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "6687",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "332629",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: PLB - Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PLB - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

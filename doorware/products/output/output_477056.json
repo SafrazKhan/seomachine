@@ -1,0 +1,146 @@
+{
+    "legacy_product_id": "477056",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Brass Accents Colonial Wire Pull,  C02-P7970",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "BRA-C02-P7970",
+            "mpn": "BRA-C02-P7970",
+            "price": "44.0",
+            "compare_at_price": "60.0",
+            "contractor_price": "44.0",
+            "shipping_weight": "2.0",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Brass Accents 7\" Decorative Colonial  Door Pull in High Lighted Brass\r\n</b>\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance, hand finished in the USA. They are one of the worlds leading crafters of decorative hot-forged  and cast brass door hardware.\r\n</p>\r\n<p>\r\n<b>Specifications</b> for  Brass Accents C02-P7970-605 Colonial Wire Pull\r\n<ul>\r\n<li>Pull Handle Length: 7\"</li>\r\n<li>Pull Handle Projection: 2\"</li>\r\n<li>6 Inch Center to Center Mounting Holes</li>\r\n<li>Material: Cast Brass</li>\r\n<li>Finish: Highlighted Brass or Oil Rubbed Bronze</li>\r\n<li><b>Finish Warranty: 10 Years</b></li>\r\n</ul>\r\n</p>\r\nComes complete with mounting hardware for easy installation. Hand rubbed and finished in the USA with a 10 year warranty.\r\n</p>",
+            "seo": {
+                "title": "Brass Accents Colonial Wire Pull,  C02-P7970",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": [
+                {
+                    "key": "Pull Handle Length",
+                    "value": "7\""
+                },
+                {
+                    "key": "Pull Handle Projection",
+                    "value": "2\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Cast Brass"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Highlighted Brass or Oil Rubbed Bronze"
+                },
+                {
+                    "key": "Finish Warranty",
+                    "value": "10 Years"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Custom Components and Parts",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Pull Handle Length: 7\"",
+                "Pull Handle Projection: 2\"",
+                "Material: Cast Brass",
+                "Finish: Highlighted Brass or Oil Rubbed Bronze",
+                "Finish Warranty: 10 Years",
+                "Select Finish: Oil Rubbed Bronze",
+                "Select Finish: Satin Nickel",
+                "Select Finish: Highlighted Brass",
+                "Select Door Thickness Range For Through Bolt Mounting: 1/4in. to 1/2in.",
+                "Select Door Thickness Range For Through Bolt Mounting: 5/8in. to 1in.",
+                "Select Door Thickness Range For Through Bolt Mounting: 1-1/8 to 1-1/2",
+                "Select Door Thickness Range For Through Bolt Mounting: 1-5/8 to 2in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Highlighted Brass",
+                    "price_impact": 14.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness Range For Through Bolt Mounting",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1/4in. to 1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5/8in. to 1in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-1/8 to 1-1/2",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-5/8 to 2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

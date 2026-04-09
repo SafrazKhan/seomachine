@@ -1,0 +1,132 @@
+{
+    "legacy_product_id": "552581",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Swirl Cabinet Knob, RK International CK-207",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-207",
+            "mpn": "RKI-CK-207",
+            "price": "11.99",
+            "compare_at_price": "15.18",
+            "contractor_price": "11.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RKI-CK-207",
+                "Fanciful Swirl Cabinet Knobs",
+                "Swirl Cabinet Knobs",
+                "RK International CK-207",
+                "Swirled Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-207-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-207-525.jpg?v=1716424384"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-207, Fanciful Swirl Cabinet Knob</b>\r\n\r\n<p>\r\nThe Swirl Cabinet Knob is reminiscent of natural themes and brings a warmth with it. It is available in 6 finishes including antique english (pictured) and polished brass. We imagine this knob on dark wood cabinets for a rustic look; but certainly this Swirled Cabinet Pull will look great amid most decors.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching <a href=\"/products/swirl-cabinet-pull-rk-international-cp-407\"><b>CP-407 Swirl Cabinet Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-207 Swirled Cabinet Pull:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CP-407-finishes.jpg?v=1704354714\" width=\"575\" height=\"114\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Swirl Cabinet Knob",
+                "description": "RK International CK-207, Swirl Cabinet Knob - The Swirl Cabinet Knob is reminiscent of natural themes and brings a warmth with it. It is available in 6 finishes including antique english and polished brass. We imagine this knob on dark wood cabinets for a rustic look; but certainly this Swirled Cabinet Pull will look great amid most decors.",
+                "keywords": "RKI-CK-207, Fanciful Swirl Cabinet Knobs, Swirl Cabinet Knobs, RK International CK-207, Swirled Cabinet Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "2"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "445233",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "41759",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "551044",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "425080",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: AE: Antique English",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: B: Polished Brass",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

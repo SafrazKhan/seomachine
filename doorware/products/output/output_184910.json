@@ -1,0 +1,117 @@
+{
+    "legacy_product_id": "184910",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Storefront Door Lever Handle, Global TH1100-LH1",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-TH1100-LH1",
+            "mpn": "GLO-TH1100-LH1",
+            "price": "28.65",
+            "compare_at_price": "40.92",
+            "contractor_price": "25.78",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Global TH1100-LH1lever",
+                "GLO-TH1100-LH1 commercial storefront doors",
+                "Aluminum Doors",
+                "mall doors",
+                "store doors",
+                "business locks",
+                "commercial door locks",
+                "narrow stile mortise deadlatch"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-TH1100-LH1-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-TH1100-LH1-525.jpg?v=1711365192"
+        },
+        "text": {
+            "description_html": "<b>Global TH1100-LH1 Door Lever Handle</b>\r\n<p>\r\nStorefront aluminum door lever handle.\r\n</p>\r\n<p>\r\nFor use with <a href=\"/products/storefront-door-mortise-lock-deadlatch-body-th1103\">Global TH1103 Deadlatch</a>, or any brand of narrow stile mortise deadlatch.\r\n</p>\r\n<p>\r\nAlso see: <a href=\"/collections/storefront-door-hardware\"><b>Store Door Hardware</b></a> for <a href=\"/products/storefront-door-deadlatch-push-pull-handle-th1100-push\">Push / Pull Handles</a> and related hardware. \r\n</p>\r\n<p>\r\nLever is reversible. Handing can easily be reversed on cam plug by removing C-clip and flipping the cam over and reinstaling C-clip. The cam-plug is secured to the lever by 2 hardened steel pins. The cam-plug locks into the deadlatch by use of a set screw in the deadbolt.\r\n</p>\r\n<p>\r\nSpecifications:\r\n</p>\r\n<p>\r\n<ul>\r\n<li>Lever: Aluminum alloy cast</li>\r\n<li>Escutcheon: Aluminum 1-3/8\" x 4\", heavy duty spring mechanism prevents sagging of lever handle</li>\r\n<li>Spindle: Wrought steel, 1/4\" square hardened heat treated</li>\r\n<li>Non handed, easily reversible</li>\r\n<li>Operation: Turning lever downward will activate deadlatch</li>\r\n<li>Available in two finishes</li>\r\n</ul>\r\n</p>\r\n<p>\r\nStandard package includes: Cam plug, mouting screws, template, and installation instructions.\r\n</p>\r\n<br>",
+            "seo": {
+                "title": "Storefront Door Lever Handle, Global TH1100-LH1",
+                "description": "Global TH1100-LH1 Storefront door lever handle for use with Mortise deadlatch. Lever is reversible. Handing can easily be reversed on cam plug by removing C-clip and flipping the cam over and reinstaling C-clip. The cam-plug is secured to the lever by 2 hardened steel pins. The cam-plug locks into the deadlatch by use of a set screw in the deadbolt.",
+                "keywords": "Global TH1100-LH1lever, GLO-TH1100-LH1 commercial storefront doors, Aluminum Doors, mall doors, store doors, business locks, commercial door locks, narrow stile mortise deadlatch,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Store Front Door Hardware",
+                    "sort": "12"
+                },
+                {
+                    "name": "Store Door Hardware",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "184782",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "184904",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "184797",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "193669",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "269127",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "184825",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "277408",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: TH1100-LH1-AL: Aluminum",
+                "Select Finish: TH1100-LH1-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TH1100-LH1-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-TH1100-LH1-AL:"
+                },
+                {
+                    "value": "TH1100-LH1-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-TH1100-LH1-DU:"
+                }
+            ]
+        }
+    ]
+}

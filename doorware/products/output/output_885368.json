@@ -1,0 +1,149 @@
+{
+    "legacy_product_id": "885368",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Replacement Threaded Pin for Deltana PH60 Pivot Hinge",
+            "vendor": "Deltana",
+            "status": "ARCHIVED",
+            "sku": "DEL-PH60-PINN",
+            "mpn": "DEL-PH60-PINN",
+            "price": "11.9",
+            "compare_at_price": "11.9",
+            "contractor_price": "11.9",
+            "shipping_weight": "4.0",
+            "tags": [
+                "DEL-PH60-PINN",
+                "DEL-PH60PINN",
+                "Deltana PH60-PINN",
+                "Deltana PH60PINN",
+                "Replacement Threaded Pin for Deltana PH60 Pivot Hinges",
+                "Threaded Pin Replacement for PH60 Pivot Hinges"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-PH60PINN-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-PH60PINN-525.jpg?v=1716426372"
+        },
+        "text": {
+            "description_html": "<b>Threaded Pin Replacement for the Deltana PH60 Pivot Hinge </b>\r\n\r\n<p>\r\n\r\n<p>\r\nThis is a replacement threaded pin for the <a href=\"/products/heavy-duty-pivot-hinge-for-doors-up-to-200-lbs-deltana-ph60\"><b>Deltana PH60 Heavy Duty Fixed Pivot Hinge</b></a>.\r\n</p>\r\n\r\n<p>\r\nSpecial Ordered Item. <b>No Returns.<b>\r\n</p>",
+            "seo": {
+                "title": "Replacement Threaded Pin for Deltana PH60 Pivot Hinge",
+                "description": "This is a replacement threaded pin for the Deltana PH60 Heavy Duty Fixed Pivot Hinge.",
+                "keywords": "DEL-PH60-PINN, DEL-PH60PINN, Deltana PH60-PINN, Deltana PH60PINN, Replacement Threaded Pin for Deltana PH60 Pivot Hinges, Threaded Pin Replacement for PH60 Pivot Hinges,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Discontinued and Special Items",
+                    "sort": "56"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "174761",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "175035",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "175030",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US3 - Polished Brass",
+                "Select Finish: US5 - Antique Brass",
+                "Select Finish: US10B - Oil Rubbed Bronze",
+                "Select Finish: US14 - Polished Nickel",
+                "Select Finish: US15 - Satin Nickel",
+                "Select Finish: US19 - Matte Black",
+                "Select Finish: US26 - Polished Chrome",
+                "Select Finish: U26D - Satin Chrome",
+                "Select Finish: CR003 - PVD Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US5 - Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14 - Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19 - Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26D - Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CR003 - PVD Polished Brass",
+                    "price_impact": 2.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

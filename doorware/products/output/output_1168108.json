@@ -1,0 +1,77 @@
+{
+    "legacy_product_id": "1168108",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "First Impressions Sigma Bracket",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-Sigma-Bracket",
+            "mpn": "FII-Sigma-Bracket",
+            "price": "135.0",
+            "compare_at_price": "135.0",
+            "contractor_price": "135.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "First Impressions Sigma Bracket",
+                "FII-Sigma-Brackets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525203.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525203.gif?v=1716428702"
+        },
+        "text": {
+            "description_html": "<b>First Impressions Sigma Bracket</b>\r\n\r\n<p>\r\nThis is a First Impressions  Replacement Sigma Bracket for a <a href=\"/products/columbia-wood-door-pull-first-impressions-clb150sbr\">CLB01 Pull</a> interior with set screw for back to back installation\r\n</p>\r\n\r\n<p>\r\nCustom Ordered Item. <b>Not Returnable.</b>\r\n</p>",
+            "seo": {
+                "title": "First Impressions Sigma Bracket",
+                "description": "First Impressions L2, L2 Offset Bracket - This is an Offset Bracket for First Impressions door pulls.",
+                "keywords": "First Impressions Sigma Bracket, FII-Sigma-Brackets,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "First Impressions Miscellaneous Parts",
+                    "sort": "17"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "786065",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "785993",
+                    "sort": "2"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MBK: Matte Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MBK: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

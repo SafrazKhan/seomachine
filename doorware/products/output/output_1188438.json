@@ -1,0 +1,129 @@
+{
+    "legacy_product_id": "1188438",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-06T12:55:25.008501"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Pocket Door Privacy Mortise Lock Body, Emtek AS6-PKTMORTLCK",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-AS6-PKTMORTLCK",
+            "mpn": "EMT-AS6-PKTMORTLCK",
+            "price": "148.0",
+            "compare_at_price": "148.0",
+            "contractor_price": "148.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Mortise Lock Body",
+                "Pocket door privacy lock body",
+                "pocket door lock box",
+                "EMT-AS6-PKTMORTLCK"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/special_order-52563.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/special_order-52563.jpg?v=1711366734"
+        },
+        "text": {
+            "description_html": "<b>Emtek AS6-PKTMORTLCK Pocket Door Privacy Mortise Lock Body</b>\r\n\r\n\r\n<p>\r\nEmtek AS6-PKTMORTLCK mortise lock body is a replacement lock box for Emtek pocket door privacy function locks.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Emtek Mortise Lock Body\r\n<ul>\r\n<li>Function: Privacy</li>\r\n<li>Mortise Box Height: 6-1/4\"</li>\r\n<li>Mortise Box Width: 3-3/8\"</li>\r\n<li>Door Thickness: 1-3/8\"</li>\r\n<li>Mortise Finger Pull: is thrown by pressing the button on the mortise faceplate. It can be retracted simply by pressing it flush with the faceplate.</li>\r\n<li>Non-handed</li>\r\n</ul>\r\n</p>\r\n\r\n<P>\r\n<i>Package includes lock body only. </i>\r\n</p>",
+            "seo": {
+                "title": "Privacy Mortise Lock Body, Emtek AS6-PKTMORTLCK",
+                "description": "Emtek replacement mortise lock body for pocket door privacy locks.",
+                "keywords": "Mortise Lock Body, Pocket door privacy lock body, pocket door lock box, EMT-AS6-PKTMORTLCK"
+            },
+            "specifications": [
+                {
+                    "key": "Function",
+                    "value": "Privacy"
+                },
+                {
+                    "key": "Mortise Box Height",
+                    "value": "6-1/4\""
+                },
+                {
+                    "key": "Mortise Box Width",
+                    "value": "3-3/8\""
+                },
+                {
+                    "key": "Door Thickness",
+                    "value": "1-3/8\""
+                },
+                {
+                    "key": "Mortise Finger Pull",
+                    "value": "is thrown by pressing the button on the mortise faceplate. It can be retracted simply by pressing it flush with the faceplate."
+                },
+                {
+                    "key": "Details",
+                    "value": "Non-handed"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "34"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "335504",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "275077",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "227181",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "283615",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "198616",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Function: Privacy",
+                "Mortise Box Height: 6-1/4\"",
+                "Mortise Box Width: 3-3/8\"",
+                "Door Thickness: 1-3/8\"",
+                "Mortise Finger Pull: is thrown by pressing the button on the mortise faceplate. It can be retracted simply by pressing it flush with the faceplate.",
+                "Select Latch Finish: B:  Brass Latch",
+                "Select Latch Finish: C:  Chrome Latch"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Latch Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "B:  Brass Latch",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "C:  Chrome Latch",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

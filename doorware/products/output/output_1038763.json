@@ -1,0 +1,173 @@
+{
+    "legacy_product_id": "1038763",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Industrial Modern Haydon Cabinet Knob, Emtek 86697",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-86697",
+            "mpn": "EMT-86697",
+            "price": "12.99",
+            "compare_at_price": "16.0",
+            "contractor_price": "12.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Emtek Haydon Cabinet Knobs",
+                "Industrial Chic Haydon Knobs",
+                "Industrial Modern Haydon Cabinet Knobs",
+                "Emtek 86697",
+                "Emtek 86698",
+                "Emtek Haydon Knob",
+                "modern cabinet hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86697-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86697-525.jpg?v=1716427852"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86697, Industrial Chic Haydon Knob</b>\r\n\r\n<p>\r\nThe Industrial Modern Haydon Cabinet Knob is available in 2 sizes and 6 modern finishes. The Haydon Knob is sleek and stylish--a wonderful choice for kitchen remodels. Cabinet knobs like the Haydon can be used on any lightweight drawer or door. It comes packaged with the installation hardware.  \r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Emtek Haydon Cabinet Knob:\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86697-Finishes.jpg?v=1704354682\" width=\"311\" height=\"127\" border=\"0\" align=\"right\" atl=\"Emtek 86698 specifications\">\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86698-specifications.pdf?v=1704262414\" target=\"new\"><b>Emtek Haydon Cabinet Knob Specifications (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>86697: Small</b>\r\n<ul>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n</ul>\r\n<br>\r\n<b>86698: Large</b>\r\n<ul>\r\n<li>Diameter: 1-3/4\"</li>\r\n<li>Projection: 1-1/2\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-modern-5-Finishes.jpg?v=1704354501\" width=\"511\" height=\"111\" border=\"0\" alt=\"Emtek Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "Industrial Modern Haydon Cabinet Knob",
+                "description": "The Industrial Modern Haydon Cabinet Knob is available in 2 sizes and 6 modern finishes. The Haydon Knob is sleek and stylish--a wonderful choice for kitchen remodels. Cabinet knobs like the Haydon can be used on any lightweight drawer or door. It comes packaged with the installation hardware.",
+                "keywords": "Emtek Haydon Cabinet Knobs, Industrial Chic Haydon Knobs, Industrial Modern Haydon Cabinet Knobs, Emtek 86697, Emtek 86698, Emtek Haydon Knob, modern cabinet hardware,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Cabinet Hardware",
+                    "sort": "99"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "207557",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "822515",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1037443",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "823820",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "766531",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "352981",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "261966",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "1038664",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Size: 86697: Small",
+                "Select Size: 86698: Large",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US4: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "86697: Small",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "86698: Large",
+                    "price_impact": 8.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

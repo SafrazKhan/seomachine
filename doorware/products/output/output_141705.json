@@ -1,0 +1,153 @@
+{
+    "legacy_product_id": "141705",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Fleur De Lis Solid Brass Push Plate, Brass Accents A04-P3220",
+            "vendor": "BrassAccents",
+            "status": "ACTIVE",
+            "sku": "BRA-A04-P3220",
+            "mpn": "BRA-A04-P3220",
+            "price": "103.99",
+            "compare_at_price": "130.0",
+            "contractor_price": "98.8",
+            "shipping_weight": "4.0",
+            "tags": [
+                "BRA-A04-P3220 Decorative 3 x 18 Door Push Plates",
+                "Decorative Push Plates",
+                "Brass Accents Fleur De Lis Pull Plates",
+                "A04-P3220 Solid Brass Fleur De Lis Push Plate 3 x 18",
+                "Brass Accents Renaissance Collection door hardware sets",
+                "decorative door push plates",
+                "Brass Accents 3220"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/A04-P3220-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/A04-P3220-525.jpg?v=1716421325"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents Decorative Fleur De Lis 3\" x 18\" Push Plate</b>\r\n\r\n<p>\r\nThis gorgeous door push plate features the popular Fleur de Lis design at both ends, as well as patterned edges with incredible detail.\r\n</p>\r\n\r\n<p>\r\nThis push plate is sand cast in the traditional style of the 1800's, the design is taken from Louis XVI School of Architecture c.1774-1792 featuring the ever popular fleur de lis which, for centuries, had stood as a symbol of the old French monarchy.\r\n</p>\r\n\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance, hand finished in the USA. They are one of the worlds leading crafters of decorative hot-forged  and cast brass door hardware.\r\n</p>\r\n\r\n\r\n<p>\r\nAlso Available Matching: <b> <a href=\"/products/fleur-de-lis-solid-brass-pull-plate-brass-accents-a04-p3221\">Fleur De Lis Door Pull.</a></b>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Brass Accents A04-P3220  Decorative  Push Plate\r\n<ul>\r\n<li>Plate Width: 3\"</li>\r\n<li>Plate Height: 18\"</li>\r\n<li>Material: Cast Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nComes complete with matching finish mounting screws for easy installation.\r\n</p>",
+            "seo": {
+                "title": "Fleur De Lis Solid Brass Push Plate, Brass Accents A04-P3220",
+                "description": "Brass Accents A04-P3220 Decorative Fleur De Lis Push plate-- This gorgeous door push plate features the popular Fleur de Lis design at both ends, as well as patterned edges  with incredible detail.   Comes complete with matching finish mounting screws. Available in 12 different hand rubbed finishes.",
+                "keywords": "BRA-A04-P3220 Decorative 3 x 18 Door Push Plates, Decorative Push Plates, Brass Accents Fleur De Lis Pull Plates, A04-P3220 Solid Brass Fleur De Lis Push Plate 3 x 18, Brass Accents Renaissance Collection door hardware sets, decorative door push plates, Brass Accents 3220,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Width",
+                    "value": "3\""
+                },
+                {
+                    "key": "Plate Height",
+                    "value": "18\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Cast Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Pull & Push Plates",
+                    "sort": "25"
+                },
+                {
+                    "name": "Decorative Door Pull and Push Plates",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "141876",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "156483",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "157008",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "142041",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "142057",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "143420",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "142094",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "142009",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "195132",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "239778",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Plate Width: 3\"",
+                "Plate Height: 18\"",
+                "Material: Cast Brass",
+                "Select Finish: Antique Brass",
+                "Select Finish: Polished Brass",
+                "Select Finish: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Antique"
+                },
+                {
+                    "value": "Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Polished"
+                },
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Satin"
+                }
+            ]
+        }
+    ]
+}

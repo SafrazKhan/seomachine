@@ -1,0 +1,128 @@
+{
+    "legacy_product_id": "445298",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "15 Inch Contoured Stainless Shower Door Pulls, Pair, Omnia SD-726/300",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-SD-726/300",
+            "mpn": "OMN-SD-726/300",
+            "price": "800.8",
+            "compare_at_price": "1001.0",
+            "contractor_price": "760.76",
+            "shipping_weight": "4.0",
+            "tags": [
+                "OMN-SD-726/300 15 Inch Contoured Stainless Shower Door Pulls",
+                "Omnia 726/300 Contoured Stainless Steel Door Pulls",
+                "Omnia 726/300-US32D Satin Stainless Steel shower door pulls",
+                "Omnia 726/300-US32 Polished Stainless Steel shower  door pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-SD726-300_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-SD726-300_525.jpg?v=1716424028"
+        },
+        "text": {
+            "description_html": "<b>Omnia 726/300, Stainless Contoured Shower Door Pull Pair</b>\r\n\r\n<p>\r\nVery stylish contoured stainless shower door pulls by Omnia. The flowing wavy design makes handles perfect for the watery shower environment. Made from long lasting solid stainless steel in your choice of <b>Satin Stainless Steel</b> or <b>Polished Stainless Steel</b>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Omnia SD-726/300 Stainless Steel Shower Door Pulls:\r\n<ul>\r\n<li>Overall Length: 14-15/16\"</li>\r\n<li>Mounting Centers: 11-3/4\" Center to Center Hole Spacing</li>\r\n<li>Projection: 2-3/4\"</li>\r\n<li>Material: 304 Solid Stainless Steel</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nPackaged with 2 door pull handles and includes the hardware for back to back mounting on 1/4\" to 5/8\" thick glass doors.\r\n</p>\r\n\r\n<p>\r\n<b>*Sold as a Pair (2 Pulls)</b> **Drill holes in glass 3/8\" to 5/8\" diameter.\r\n</p>",
+            "seo": {
+                "title": "15 Inch Contoured Stainless Shower Door Pulls, Pair, Omnia SD-726/300",
+                "description": "Very stylish contoured stainless shower door pulls in your choice of satin or polished finish. Made from 304 solid stainless steel by Omnia.",
+                "keywords": "OMN-SD-726/300 15 Inch Contoured Stainless Shower Door Pulls,  Omnia 726/300 Contoured Stainless Steel Door Pulls, Omnia 726/300-US32D Satin Stainless Steel shower door pulls, Omnia 726/300-US32 Polished Stainless Steel shower  door pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Overall Length",
+                    "value": "14-15/16\""
+                },
+                {
+                    "key": "Mounting Centers",
+                    "value": "11-3/4\" Center to Center Hole Spacing"
+                },
+                {
+                    "key": "Projection",
+                    "value": "2-3/4\""
+                },
+                {
+                    "key": "Material",
+                    "value": "304 Solid Stainless Steel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "153"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "445650",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "411125",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "358504",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "445188",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "259652",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "42552",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "445648",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Overall Length: 14-15/16\"",
+                "Mounting Centers: 11-3/4\" Center to Center Hole Spacing",
+                "Projection: 2-3/4\"",
+                "Material: 304 Solid Stainless Steel",
+                "Select Finish: OMN-SD-726/300-US32D - Satin Stainless Steel",
+                "Select Finish: OMN-SD-726/300-US32 - Polished Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-SD-726/300-US32D - Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "OMN-SD-726/300-US32 - Polished Stainless Steel",
+                    "price_impact": 119.84,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

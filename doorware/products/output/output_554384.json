@@ -1,0 +1,127 @@
+{
+    "legacy_product_id": "554384",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "White Porcelain Cabinet Knob, RK International CK-515",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-515",
+            "mpn": "RKI-CK-515",
+            "price": "10.99",
+            "compare_at_price": "13.64",
+            "contractor_price": "10.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RKI-CK-515",
+                "RK International CK-515",
+                "White Porcelain Cabinet Knobs",
+                "Simple Porcelain Cabinet Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-515-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-515-525.jpg?v=1716424420"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-515, Simple White Porcelain Cabinet Knob</b>\r\n\r\n<p>\r\nA beautiful blend of old and new, the Simple White Porcelain Cabinet Knob has a modern shape with traditional-looking white porcelain. This contrast really updates the porcelain, making this knob perfect for contemporary spaces and lovers of white decor. It is available in polished brass, satin nickel, or oil rubbed bronze finishes.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching <a href=\"/products/traditional-cabinet-pull-with-white-porcelain-rk-international-cp-11\"><b>White Porcelain Cabinet Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-515 White Porcelain Cabinet Hardware:\r\n<ul>\r\n<li>Material: porcelain with some brass</li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 15/16\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "White Porcelain Cabinet Knob",
+                "description": "RK International CK-515, White Porcelain Cabinet Knob - A beautiful blend of old and new, the Simple White Porcelain Cabinet Knob has a modern shape with traditional-looking white porcelain. This contrast really updates the porcelain, making this knob perfect for contemporary spaces and lovers of white decor. It is available in polished brass, satin nickel, or oil rubbed bronze finishes.",
+                "keywords": "RKI-CK-515, RK International CK-515, White Porcelain Cabinet Knobs, Simple Porcelain Cabinet Knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "9"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "574283",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "43031",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "987568",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "26935",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "27128",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "888945",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "367758",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "1024228",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "574019",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: BW: Polished Brass",
+                "Select Finish: PW: Satin Nickel",
+                "Select Finish: RBW: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BW: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PW: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RBW: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "legacy_product_id": "574367",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1 Inch Black Porcelain Cabinet Knob with Metal Center, RK International CK-317",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-317",
+            "mpn": "RKI-CK-317",
+            "price": "9.99",
+            "compare_at_price": "12.21",
+            "contractor_price": "9.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RK International CK-317",
+                "Retro Black Porcelain Cabinet Knob with Metal Tips",
+                "1 Inch Black Porcelain Cabinet Knob with Metal Center",
+                "RK International CK-318",
+                "RKI-CK-317",
+                "RKI-CK-318",
+                "Retro Black Porcelain Cabinet Knobs",
+                "retro door knobs",
+                "black porcelain knob with brass",
+                "tip",
+                "black porcelain knob with chrome tips"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-317-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-317-525.jpg?v=1716424740"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-317, Retro Black Porcelain Cabinet Knob with Metal Tip</b>\r\n\r\n<p>\r\nThe 1 Inch Black Porcelain Cabinet Knob with Metal Center is a glamorous retro knob that commands the style of the surrounding area. It is available with either a polished brass base and center or a polished chrome finish. It is easy to install with the included mounting hardware.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: <a href=\"/products/1-1-4-inch-black-porcelain-cabinet-knob-with-metal-center-rk-international-ck-313\"><b>1-1/4\" Black Porcelain Cabinet Knob with Metal Center</b></a> and \r\n<a href=\"/products/1-inch-white-porcelain-cabinet-knob-with-metal-center-rk-international-ck-320\"><b>1\" White Porcelain Cabinet Knob with Metal Center</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK 317 Retro Black Porcelain Knob with Metal Tip:\r\n<ul>\r\n<li>Material: porcelain with some brass</li>\r\n<li>Porcelain Color: <b>Black</b></li>\r\n<li>Diameter: 1\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "1 Inch Black Porcelain Cabinet Knob with Metal Center",
+                "description": "RK International CK-317, 1 Inch Black Porcelain Cabinet Knob with Metal Center - The 1 Inch Black Porcelain Cabinet Knob with Metal Center is a glamorous retro knob that commands the style of the surrounding area. It is available with either a polished brass base and center or a polished chrome finish. It is easy to install with the included mounting hardware.",
+                "keywords": "RK International CK-317, Retro Black Porcelain Cabinet Knob with Metal Tips, 1 Inch Black Porcelain Cabinet Knob with Metal Center, RK International CK-318, RKI-CK-317, RKI-CK-318, Retro Black Porcelain Cabinet Knobs, retro door knobs, black porcelain knob with brass, tip, black porcelain knob with chrome tips,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "10"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "564747",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "26243",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "26935",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "40939",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "554095",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: CK-317: Polished Brass",
+                "Select Finish: CK-318: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "CK-317: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CK-318: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

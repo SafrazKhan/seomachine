@@ -1,0 +1,169 @@
+{
+    "legacy_product_id": "856315",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:08:39.038994"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Meadows Outlet Cover, Grandeur MEASWPLTD",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-MEASWPLTD",
+            "mpn": "GRA-MEASWPLTD",
+            "price": "23.99",
+            "compare_at_price": "30.0",
+            "contractor_price": "23.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Meadows Outlet Covers",
+                "Grandeur MEASWPLTD",
+                "GRA-MEASWPLTD",
+                "ornate outlet plates",
+                "fancy outlet plates",
+                "greek home decor",
+                "Ornate Meadow Outlet Cover Plates",
+                "Meadows Outlet Cover Plates",
+                "Grandeur Meadows Outlet Socket Plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-MEASWPLTD-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-MEASWPLTD-525.jpg?v=1716426037"
+        },
+        "text": {
+            "description_html": "<b>Grandeur MEASWPLTD, Ornate Meadows Outlet Cover Plate</b>\r\n\r\n<p>\r\nThe Meadows Outlet Cover has ornate styling that will add a bit of class to any home. This fancy electrical outlet plate is available in a wide array of finishes. It comes packaged with all the necessary mounting hardware. The Meadows Outlet Cover Plate can accommodate 2 sockets. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur Meadows Outlet Socket Plate:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 6\"</li>\r\n<li>Width: 3-1/8\"</li>\r\n<li>Projection: 3/8\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Meadows Outlet Cover",
+                "description": "The Meadows Outlet Cover has ornate styling that will add a bit of class to any home. This fancy electrical outlet plate is available in a wide array of finishes. It comes packaged with all the necessary mounting hardware. The Meadows Outlet Cover Plate can accommodate 2 sockets.",
+                "keywords": "Meadows Outlet Covers, Grandeur MEASWPLTD, GRA-MEASWPLTD, ornate outlet plates, fancy outlet plates, greek home decor, Ornate Meadow Outlet Cover Plates, Meadows Outlet Cover Plates, Grandeur Meadows Outlet Socket Plates,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "6\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3-1/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "3/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Electrical Outlet &amp; Switch Plates",
+                    "sort": "80"
+                },
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "32"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "856982",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "856281",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "856511",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "856566",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "856951",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 6\"",
+                "Width: 3-1/8\"",
+                "Projection: 3/8\"",
+                "Select Finish: TB: Timeless Bronze",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: ULB: Unlacquered Brass",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: AP: Antique Pewter"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ULB: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

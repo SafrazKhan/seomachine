@@ -1,0 +1,125 @@
+{
+    "legacy_product_id": "321126",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Lavatory Panel and Pilaster L Bracket, Bommer 1141-3",
+            "vendor": "Bommer",
+            "status": "ARCHIVED",
+            "sku": "BOM-1141-3",
+            "mpn": "BOM-1141-3",
+            "price": "36.04",
+            "compare_at_price": "60.06",
+            "contractor_price": "32.43",
+            "shipping_weight": "1.5",
+            "tags": [
+                "BOM-1141-3 Lavatory Panel Mounting Brackets",
+                "Lavatory Panel Brackets",
+                "Bommer 1141-3 Lavatory Pilaster L Brackets",
+                "restroom partition mounting brackets",
+                "commercial restroom wall brackets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/bommer-1141-3_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/bommer-1141-3_525.jpg?v=1716423091"
+        },
+        "text": {
+            "description_html": "<b>Bommer 1141-3, Restroom Wall \"L\" Bracket</b>\r\n\r\n<p>\r\nTypically used on commercial restroom walls to mount partition and/or pilasters. \"L\" type bracket.\r\n</p>\r\n\r\n<p>\r\nPanels are through bolted with included hardware to the bracket. Bracket mounts to wall or floor with included AJ's. Made in the USA.\r\n</p>\r\n\r\n<table width=\"100\" align=\"right\">\r\n<tr>\r\n<td>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/kaba-simplex-902-size.gif?v=1704354717\" width=\"100\" height=\"72\" border=\"0\" alt=\"Bommer made in the USA\">\r\n</td>\r\n</tr>\r\n</table>\r\n\r\n<p>\r\n<b>Specifications</b> for the Bommer 1141-3 Restroom Wall Bracket:\r\n<ul>\r\n<!-- <li>Material: Wrought Brass</li> -->\r\n<li>Mounting Base Plate Length: 1.343\"</li>\r\n<li>Mounting Base Plate Width: 1.500\"</li>\r\n<li>Total Height: 3.312\"</li>\r\n<li>Packaged with through bolts and AJ's.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/1141-3.pdf?v=1691094993\" target=\"new\"><b>Bommer 1141-3 Dimensional  Diagram (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Lavatory Panel and Pilaster L Bracket, Bommer 1141-3",
+                "description": "Bommer 1141-2 Lavatory Pilaster L Brackets Typically used on commercial restroom walls to mount partition and/or pilasters. L type mounting base.  Panels are through bolted with included hardware to the bracket. Bracket mounts to wall or floor with included AJ's. Made in the USA.",
+                "keywords": "BOM-1141-3 Lavatory Panel Mounting Brackets, Lavatory Panel Brackets, Bommer 1141-3 Lavatory Pilaster L Brackets, restroom partition mounting brackets, commercial restroom wall brackets,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Wrought Brass"
+                },
+                {
+                    "key": "Mounting Base Plate Length",
+                    "value": "1.343\""
+                },
+                {
+                    "key": "Mounting Base Plate Width",
+                    "value": "1.500\""
+                },
+                {
+                    "key": "Total Height",
+                    "value": "3.312\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Bommer Discontinued and Custom",
+                    "sort": "28"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "320775",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "320856",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "322387",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "188548",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "188632",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "248269",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Wrought Brass",
+                "Mounting Base Plate Length: 1.343\"",
+                "Mounting Base Plate Width: 1.500\"",
+                "Total Height: 3.312\"",
+                "Select Finish: 626: Brushed Chrome",
+                "Select Finish: 625: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "626: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "625: Polished Chrome",
+                    "price_impact": 1.19,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

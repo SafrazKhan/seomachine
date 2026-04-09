@@ -1,0 +1,180 @@
+{
+    "legacy_product_id": "297458",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Brass 3/4 Inch Flag Pole Holder, Deltana FPH75",
+            "vendor": "Deltana",
+            "status": "ARCHIVED",
+            "sku": "DEL-FPH75",
+            "mpn": "DEL-FPH75",
+            "price": "19.56",
+            "compare_at_price": "26.08",
+            "contractor_price": "18.58",
+            "shipping_weight": "1.0",
+            "tags": [
+                "DEL-FPH75 3/4 inch Flag Pole Holders",
+                "Solid Brass 3/4 Inch Flag Pole Holder",
+                "Deltana FPH75 flag pole holders",
+                "brass pole holder",
+                "brass pole brackets",
+                "deltana hardware",
+                ".750 pole holders",
+                "Flag Pole Brackets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-FPH75_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-FPH75_525.jpg?v=1716422840"
+        },
+        "text": {
+            "description_html": "<b>Deltana FPH75 3/4\" Diameter Flag Pole Holder</b>\r\n\r\n<p>\r\nMade of solid brass this flag pole holder is for use with a 3/4\" outside diameter pole. Mounted one to your wall with the matching finish screws. It is available in 9 decorative finishes. Manufactured by <a href=\"/collections/deltana\">Deltana</a>, the nation'\u0019s most complete provider for all your home hardware needs.\r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/deltana-FPH75-size.gif?v=1704354541\" width=\"369\" height=\"250\" border=\"0\" alt=\"Deltana FPH75 Pole Holder Size\">\r\n</p>\r\n\r\n<p>\r\nAlso Available: Larger <a href=\"/products/solid-brass-1-inch-flag-pole-holder-deltana-fph10\"><b>1\" Flag Pole Bracket</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Deltana FPH75 Pole Holder:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Total Height: 4\"</li>\r\n<li>Maximum Projection: 3-1/2\"</li>\r\n<li>Pole Hole Diameter: 3/4\" Round</li>\r\n<li>Packaged with matching finish screws.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FPH75.pdf?v=1704262259\" target=\"new\"><b>Deltana FPH75 Specifications Diagram (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Solid Brass 3/4 Inch Flag Pole Holder, Deltana FPH75",
+                "description": "Flag Pole Holder Deltana FPH75 - Made of solid brass this flag pole holder is for use with a 3/4 inch outside diameter pole. Mounted one to your wall with the matching finish screws. It is available in 9 decorative finishes. Manufactured by Deltana, the nation'\u0019s most complete provider for all your home hardware needs.",
+                "keywords": "DEL-FPH75 3/4 inch Flag Pole Holders, Solid Brass 3/4 Inch Flag Pole Holder, Deltana FPH75 flag pole holders, brass pole holder, brass pole brackets, deltana hardware, .750 pole holders, Flag Pole Brackets,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Total Height",
+                    "value": "4\""
+                },
+                {
+                    "key": "Maximum Projection",
+                    "value": "3-1/2\""
+                },
+                {
+                    "key": "Pole Hole Diameter",
+                    "value": "3/4\" Round"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Discontinued and Special Items",
+                    "sort": "73"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "297215",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "7310",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "7800",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "7826",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "7787",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Total Height: 4\"",
+                "Maximum Projection: 3-1/2\"",
+                "Pole Hole Diameter: 3/4\" Round",
+                "Select Finish: DEL-FPH75U3: Polished Brass",
+                "Select Finish: DEL-FPH75U10B: Oil Rubbed Bronze",
+                "Select Finish: DEL-FPH75U15: Satin Nickel",
+                "Select Finish: DEL-FPH7515A: Antique Nickel",
+                "Select Finish: DEL-FPH75U19: Matte Black",
+                "Select Finish: DEL-FPH75U26: Polished Chrome",
+                "Select Finish: DEL-FPH75U26D: Satin Chrome",
+                "Select Finish: DEL-FPH75U5: Antique Brass",
+                "Select Finish: DEL-FPH75CR003: PVD Lifetime Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DEL-FPH75U3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DEL-FPH75U10B: Oil Rubbed Bronze",
+                    "price_impact": 2.59,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DEL-FPH75U15: Satin Nickel",
+                    "price_impact": 2.59,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DEL-FPH7515A: Antique Nickel",
+                    "price_impact": 2.59,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DEL-FPH75U19: Matte Black",
+                    "price_impact": 2.59,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DEL-FPH75U26: Polished Chrome",
+                    "price_impact": 2.59,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DEL-FPH75U26D: Satin Chrome",
+                    "price_impact": 2.59,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DEL-FPH75U5: Antique Brass",
+                    "price_impact": 2.59,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DEL-FPH75CR003: PVD Lifetime Polished Brass",
+                    "price_impact": 4.16,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

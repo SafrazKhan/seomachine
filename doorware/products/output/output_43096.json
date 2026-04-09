@@ -1,0 +1,161 @@
+{
+    "legacy_product_id": "43096",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Adams Cabinet Knob, Omnia 9405",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9405",
+            "mpn": "OMN-9405",
+            "price": "10.2",
+            "compare_at_price": "13.6",
+            "contractor_price": "9.69",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9405 elegant cabinet knobs",
+                "solid brass elegant cabinet knobs",
+                "solid brass kitchen cabinet knobs",
+                "elegant solid brass knob",
+                "brass cabinet knobs",
+                "decorative cabinet knobs",
+                "solid brass cabinet hardware",
+                "elegant Kitchen cabinet door knobs",
+                "OMN-9405/32",
+                "OMN-9405/38",
+                "Adams Cabinet Knobs",
+                "melon knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-9405-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/omn-9405-525.jpg?v=1716420849"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9405, Solid Brass Adams Cabinet Door Knob</b>\r\n\r\n<p>\r\nFinely crafted out of solid brass, this Adams Cabinet Knob features a ribbed handle. A perfect medium, this design grants a quiet elegance that is neither too simple nor too ornate. The Solid Brass Adams Cabinet Door Knob comes packaged with the mounting hardware. Choose from 2 sizes in 3 traditional finishes. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Omnia 9405 Cabinet Knobs:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>9405/32</b>\r\n<ul>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n</ul>\r\n<br>\r\n<b>9405/38</b>\r\n<ul>\r\n<li>Diameter: 1-1/2\"</li>\r\n<li>Projection: 1-1/2\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Adams Cabinet Knob",
+                "description": "Finely crafted out of solid brass, this Adams Cabinet Knob features a ribbed handle. A perfect medium, this design grants a quiet elegance that is neither too simple nor too ornate. The Solid Brass Adams Cabinet Door Knob comes packaged with the mounting hardware. Choose from 2 sizes in 3 traditional finishes. \r\n",
+                "keywords": "omnia 9405 elegant cabinet knobs, solid brass elegant cabinet knobs, solid brass kitchen cabinet knobs, elegant solid brass knob, brass cabinet knobs, decorative cabinet knobs, solid brass cabinet hardware, elegant Kitchen cabinet door knobs, OMN-9405/32, OMN-9405/38, Adams Cabinet Knobs, melon knobs,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "235"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "559458",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "37815",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "41466",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "891333",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42871",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "43050",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "37610",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "188256",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Select Size: 9405/32: 1-1/4in. Knob Diameter",
+                "Select Size: 9405/38: 1-1/2in. Knob Diameter",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: SB: Shaded Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "9405/32: 1-1/4in. Knob Diameter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9405/32"
+                },
+                {
+                    "value": "9405/38: 1-1/2in. Knob Diameter",
+                    "price_impact": 1.13,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9405/38"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US3"
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 1.13,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26"
+                },
+                {
+                    "value": "SB: Shaded Bronze",
+                    "price_impact": 1.13,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SB"
+                }
+            ]
+        }
+    ]
+}

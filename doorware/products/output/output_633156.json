@@ -1,0 +1,152 @@
+{
+    "legacy_product_id": "633156",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Shaker Trim Towel Bar, Fusion TB-S8",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-TB-S8",
+            "mpn": "FUS-TB-S8",
+            "price": "149.0",
+            "compare_at_price": "149.0",
+            "contractor_price": "111.75",
+            "shipping_weight": "7.0",
+            "tags": [
+                "Sonoma Collection Towel Bars",
+                "Traditional bathroom hardware",
+                "Traditional bathroom towel bars",
+                "hand towel bars",
+                "bathroom towel hooks",
+                "bath towel bars",
+                "Fusion TB-1-S8 18 inch towel bar",
+                "Fusion TB-2-S8 24 inch towel bar",
+                "Fusion TB-3-G2 S8 inch towel bar",
+                "Sonoma Collection Shaker Towel Bars",
+                "Shaker Trim Towel Bars",
+                "Fusion TB-S8",
+                "FUS-TB-S8",
+                "Shaker Rose Towel Bars"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-TB-S8-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-TB-S8-525.jpg?v=1711365520"
+        },
+        "text": {
+            "description_html": "<b>Fusion TB-S8, Shaker Rose Towel Bar</b>\r\n\r\n<p>\r\nThe Shaker Trim Towel Bar is available in 3 sizes: 18 inches, 24 inches, and 30 inches. It has a rustic look that is very now within shabby chic decor. This towel bar is available in with medium bronze or oil rubbed bronze finishes. It comes packaged with all the installation hardware.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/shaker-towel-ring-fusion-tr-s8\"><b>Fusion TR-S8 Shaker Towel Ring</b></a>, \r\n<a href=\"/products/shaker-trim-robe-hook-fusion-rh-s8\"><b>Fusion RH-S8 Shaker Robe Hook</b></a>, and\r\n<a href=\"/products/shaker-rose-toilet-paper-holder-fusion-ph-s8\"><b>Fusion PH-S8 Shaker Toilet Paper Holder</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 sizes:</b>\r\n<ul>\r\n<b>TB-1-S8</b>\r\n<ul>\r\n<li>Length: 18\"</li>\r\n<li>Mount Width: 2-1/2\"</li>\r\n<li>Mount Length: 4-1/4\"</li>\r\n</ul>\r\n\r\n<br>\r\n\r\n<b>TB-2-S8</b>\r\n<ul>\r\n<li>Length: 24\"</li>\r\n<li>Mount Width: 2-1/2\"</li>\r\n<li>Mount Length: 4-1/4\"</li>\r\n</ul>\r\n\r\n<br>\r\n\r\n<b>TB-3-S8</b>\r\n<ul>\r\n<li>Length: 30\"</li>\r\n<li>Mount Width: 2-1/2\"</li>\r\n<li>Mount Length: 4-1/4\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Shaker Trim Towel Bar, Fusion TB-S8",
+                "description": "Fusion TB-S8, Shaker Trim Towel Bar - The Shaker Trim Towel Bar is available in 3 sizes: 18 inches, 24 inches, and 30 inches. It has a rustic look that is very now within shabby chic decor. This towel bar is available in with medium bronze or oil rubbed bronze finishes. It comes packaged with all the installation hardware.",
+                "keywords": "Sonoma Collection Towel Bars, Traditional bathroom hardware, Traditional bathroom towel bars, hand towel bars, bathroom towel hooks, bath towel bars, Fusion TB-1-S8 18 inch towel bar, Fusion TB-2-S8 24 inch towel bar, Fusion TB-3-G2 S8 inch towel bar, Sonoma Collection Shaker Towel Bars, Shaker Trim Towel Bars, Fusion TB-S8, FUS-TB-S8, Shaker Rose Towel Bars,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "21"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "566851",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "630225",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "378406",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "384111",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "552988",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "371531",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "384434",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "298476",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MDB - Medium Bronze",
+                "Select Finish: ORB - Oil Rubbed Bronze",
+                "Select Size: TB-1-S8 - 18in. Towel Bar",
+                "Select Size: TB-2-S8 - 24in. Towel Bar",
+                "Select Size: TB-3-S8 - 30in. Towel Bar"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MDB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TB-1-S8 - 18in. Towel Bar",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB-2-S8 - 24in. Towel Bar",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB-3-S8 - 30in. Towel Bar",
+                    "price_impact": 10.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "825665",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "2-1/4 Inch Sliding Glass Door Finger Pull, SGS-RKS-1",
+            "vendor": "SGS",
+            "status": "ACTIVE",
+            "sku": "SGS-RKS-1",
+            "mpn": "SGS-RKS-1",
+            "price": "42.0",
+            "compare_at_price": "52.5",
+            "contractor_price": "37.8",
+            "shipping_weight": "2.0",
+            "tags": [
+                "SGS-RKS-1 Glass Door Finger Pulls",
+                "SGS-RKS1",
+                "Low Profile Finger Pulls",
+                "2-1/4 Inch Diameter Glass Shower Door Pulls",
+                "easy to install pulls",
+                "Brass Glass Door Finger Pulls",
+                "shower door cup pulls",
+                "Sliding Glass Door Finger Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SGS-RKS-1-pull_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SGS-RKS-1-pull_525.jpg?v=1716425890"
+        },
+        "text": {
+            "description_html": "<b>2-1/4\" Sliding Glass Door Finger Pulls</b>\r\n\r\n<p>\r\nWith a 3/8\" projection, this low profile finger pull is made for glass door applications like shower doors. Even with such a low profile, it is comfortable to operate with a 7/16\" recess with a slight lip for fingers to catch on to. \r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-43S-specifications.gif?v=1704354594\" width=\"500\" height=\"376\" border=\"0\" alt=\"round sliding glass door pulls installed\">\r\n</p>\r\n\r\n<p>\r\n<br>\r\nThe 2-1/4\" diameter glass door pull is easy to install, with a simple, screw-on design that adjusts to a rage of glass thicknesses. A 1-13/16\" hole is required. Available in Polished Chrome, or Brushed Nickel finish.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Sliding Glass Door Finger Pull:\r\n<ul>\r\n<li>Diameter: 2-1/4\"</li>\r\n<li>Recess Depth: 7/16\"</li>\r\n<li>Projection: 3/8\"</li>\r\n<li>Material: Brass</li>\r\n<li>Glass Thickness: 5/16\" - 1/2\"</li>\r\n<li>Back-to-back mounting</li>\r\n<li>1-13/16\" (46 MM) hole required in glass</li>\r\n<li>Package Includes: 2 pulls and 2 rubber gaskets for a tight seal.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold as a pair (Enough for 1 door)</b>\r\n</p>",
+            "seo": {
+                "title": "2-1/4 Inch Sliding Glass Door Finger Pull, SGS-RKS-1",
+                "description": "SGS-RKS-1 Low Profile Finger Pull is made for glass door applications like shower doors. Even with such a low profile, it is comfortable to operate with a 7/16 inch recess with a slight lip for fingers to catch on to. Available in Polished Chrome, or Brushed Nickel finish.",
+                "keywords": "SGS-RKS-1 Glass Door Finger Pulls, SGS-RKS1, Low Profile Finger Pulls, 2-1/4 Inch Diameter Glass Shower Door Pulls, easy to install pulls, Brass Glass Door Finger Pulls, shower door cup pulls, Sliding Glass Door Finger Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Glass Shower Door Pulls",
+                    "sort": "60"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "487639",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "257569",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "304229",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "671966",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "6712",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "294822",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: SGS-RKS-1-BN: Brushed Nickel",
+                "Select Finish: SGS-RKS-1-CH: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SGS-RKS-1-BN: Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SGS-RKS-1-CH: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

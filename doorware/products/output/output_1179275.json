@@ -1,0 +1,141 @@
+{
+    "legacy_product_id": "1179275",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:09:46.885582"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Gibraltar T-Knob, RK International CK-725",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-725",
+            "mpn": "RKI-CK-725",
+            "price": "13.99",
+            "compare_at_price": "28.93",
+            "contractor_price": "13.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RKI-CK-725",
+                "RKI CK 725 Gibraltar T Knobs",
+                "Gibraltar T-Knobs",
+                "RK International CK-725",
+                "RK International Gibraltar Cabinet Pulls",
+                "RKI CK 725 Gibraltar T Pull"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-CK725-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-CK725-525.jpg?v=1716428791"
+        },
+        "text": {
+            "description_html": "<b>RKI CK 725 Gibraltar T Pull</b>\r\n\r\n<p>\r\nUniquely designed, the Gibraltar T-Knob is a modern take on the geometric pull. This kitchen cabinet knob is reminiscent of geodes and adds whimsy and style to any light weight door or drawer. The RKI CK 725 Gibraltar T Knob is available in several popular finishes.\r\n</p>\r\n\r\n<p>\r\nAlso Available:<a href=\"/products/gibraltar-cabinet-pull-series-rk-international-cp-825\"><b>Matching Gibraltar Cabinet Pull</b></a> and \r\n<a href=\"/products/gibraltar-appliance-pull-rk-international-ap-ph-8825\"><b>Gibraltar Appliance Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International Gibraltar Cabinet Pull:\r\n<ul>\r\n<li>Length: 2\"</li>\r\n<li>Width: 5/8\"</li>\r\n<li>Projection: 1-1/2\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Gibraltar T-Knob",
+                "description": "Uniquely designed, the Gibraltar T-Knob is a modern take on the geometric pull. This kitchen cabinet knob is reminiscent of geodes and adds whimsy and style to any light weight door or drawer. The RKI CK 725 Gibraltar T Knob is available in several popular finishes.",
+                "keywords": "RKI-CK-725, RKI CK 725 Gibraltar T Knobs, Gibraltar T-Knobs, RK International CK-725, RK International Gibraltar Cabinet Pulls, RKI CK 725 Gibraltar T Pull"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "882083",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "972003",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1146518",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1148960",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1029661",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "681990",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "664679",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: VB: Valencia Bronze",
+                "Select Finish: BL: Black",
+                "Select Finish: SN: Polished Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: SB: Satin Brass",
+                "Select Finish: WN: Weathered Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "VB: Valencia Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BL: Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SB: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "WN: Weathered Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

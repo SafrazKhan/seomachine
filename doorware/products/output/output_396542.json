@@ -1,0 +1,138 @@
+{
+    "legacy_product_id": "396542",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Ribbon and Reed Doorbell Button, Fusion B-EL-B5",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-B-EL-B5",
+            "mpn": "FUS-B-EL-B5",
+            "price": "28.0",
+            "compare_at_price": "28.0",
+            "contractor_price": "21.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "FUS-B-EL-B5",
+                "fusion Ribbon And Reed doorbells",
+                "fusion hardware B-EL-B5 traditional doorbells",
+                "round doorbells",
+                "simple doorbells",
+                "fusion B5 rose doorbells",
+                "French Colonial Doorbells",
+                "Ribbon And Reed Rose Doorbells",
+                "French Colonial Round Ribbon and Reed Doorbell",
+                "solid brass door bells",
+                "Ribbon and Reed Rose Doorbell Buttons",
+                "Ribbon and Reed Doorbell Buttons"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-D-B5-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-D-B5-525.jpg?v=1711365455"
+        },
+        "text": {
+            "description_html": "<b>Fusion B-EL-B5, Ribbon and Reed Rose Doorbell Button</b>\r\n\r\n<p>\r\nConstructed out of solid brass, this Fusion Hardware made doorbell is fashioned in the traditional French Colonial style. The Ribbon and Reed design is well known in as such and will be sure to add a bit of old world charm to your home. Available in oil rubbed bronze, brushed nickel, and antique pewter. Packaged as a kit with matching finish installation screws and a lighted button.\r\n</p>\r\n\r\n<p>\r\n<b>Please Note</b> This is a replacement trim only. It comes packaged with lighted button, rosette, and installation screws. It DOES NOT include the chime.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the French Colonial Round Ribbon and Reed Doorbell Fusion B-EL-B5:\r\n<ul>\r\n<li>Rose Diameter: 2-5/8\"</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Includes lighted button.</li>\r\n<li>Packaged as a kit with matching finish installation screws and a lighted button.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Ribbon and Reed Doorbell Button, Fusion B-EL-B5",
+                "description": "Fusion B-EL-B5, Ribbon and Reed Rose Doorbell - Constructed out of solid brass, this Fusion Hardware made doorbell is fashioned in the traditional French Colonial style. The Ribbon and Reed design is well known in as such and will be sure to add a bit of old world charm to your home. Available in oil rubbed bronze, brushed nickel, and antique pewter. Packaged as a kit with matching finish installation screws and a lighted button.\r\n",
+                "keywords": "FUS-B-EL-B5, fusion Ribbon And Reed doorbells, fusion hardware B-EL-B5 traditional doorbells, round doorbells, simple doorbells, fusion B5 rose doorbells, French Colonial Doorbells, Ribbon And Reed Rose Doorbells, French Colonial Round Ribbon and Reed Doorbell, solid brass door bells, Ribbon and Reed Rose Doorbell Buttons, Ribbon and Reed Doorbell Buttons,"
+            },
+            "specifications": [
+                {
+                    "key": "Rose Diameter",
+                    "value": "2-5/8\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Doorbells",
+                    "sort": "13"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "296550",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "67118",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "31411",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "141940",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "297269",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "46463",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "65964",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "298758",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Rose Diameter: 2-5/8\"",
+                "Material: Solid Brass",
+                "Select Finish: BRN - Brushed Nickel",
+                "Select Finish: ORB - Oil Rubbed Bronze",
+                "Select Finish: ATP - Antique Pewter"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BRN - Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ATP - Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

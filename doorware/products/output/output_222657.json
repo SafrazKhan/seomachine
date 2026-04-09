@@ -1,0 +1,128 @@
+{
+    "legacy_product_id": "222657",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Night Latch Handleset for Panic Device, Global TH1100-NLED-AL",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-TH1100-NLED-AL",
+            "mpn": "GLO-TH1100-NLED-AL",
+            "price": "117.37",
+            "compare_at_price": "167.67",
+            "contractor_price": "105.63",
+            "shipping_weight": "2.5",
+            "tags": [
+                "GLO-TH1100-NLED-AL Panic Device Outside Handlesets",
+                "Night Latch Handleset for Panic Device",
+                "Global TH1100-NLEDAL rim cylinder handlesets",
+                "Global Series TH1100EDTBAR outside trim",
+                "Panic Device Night Latch Handlesets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-TH1100-NLED2-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-TH1100-NLED2-525.jpg?v=1769504128"
+        },
+        "text": {
+            "description_html": "<b>Night Latch Function Handleset for Global Series TH1100EDTBAR</b>\r\n<p>\r\nThis is a Night Latch Function Handleset (turning key opens door) for Global <a href=\"/products/30-to-36-inch-wide-door-touch-bar-rim-exit-device-th1100edtbar\"><b>TH1100EDTBAR Touch Bar Rim Exit Devices</b></a>,  <a href=\"/products/grade-1-commercial-exit-device-for-30-36-inch-door-pdq-4200r\"><b>PDQ 4200 Rim Exit Device</b></a> and other manufactures <a href=\"/collections/panic-devices\"><b>Panic Devices</b></a>.\r\n</p>\r\n<p>\r\nPackaged with rim lock cylinder, mounting hardware, instructions, and 2 keys.\r\n</p>\r\n<p>\r\n<b>Features</b> for Global TH1100-NLED-AL Night Latch  Handleset \r\n<ul>\r\n<li>Function: Night Latch - Entry by turning key. Key does NOT unlock panic exit device. Key unlatches the exit device when turned so you can open the door. </li>\r\n<li>Finish: Aluminum</li>\r\n<li>Handle Plate Height: 14-1/4\"</li>\r\n<li>Handle Plate Width: 2-5/8\"</li>\r\n<li>Pull Height: 6\"</li>\r\n<li>Pull Projection: 1-7/8\"</li>\r\n<li>Supplied with Schlage \"C\" Keyway Lock Cylinder</li>\r\n<li>Supplied with 2 keys</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Night Latch Handleset for Panic Device, Global TH1100-NLED-AL",
+                "description": "Global TH1100-NLED-AL  - This is a Night Latch Function Handleset (Entry by turning key. Key does NOT unlock panic exit device. Key unlatches the exit devise when turned so you can open the door. ) for Global TH1100EDTBAR Touch Bar Rim Exit Devices. Packaged with rim lock cylinder, mounting hardware, instructions, and 2 keys.",
+                "keywords": "GLO-TH1100-NLED-AL Panic Device Outside Handlesets, Night Latch Handleset for Panic Device, Global TH1100-NLEDAL rim cylinder handlesets,  Global Series TH1100EDTBAR outside trim, Panic Device Night Latch Handlesets,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Global Panic Hardware",
+                    "sort": "40"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "222835",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "222660",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "250724",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "174671",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "174586",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "208174",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "208374",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "241487",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "251183",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "222609",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Keying: I only ordered one",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I only ordered one",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

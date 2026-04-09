@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "190689",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Top Jamb Mount Back Plate for American Eagle 5100, PDQ 519008",
+            "vendor": "PDQ",
+            "status": "ACTIVE",
+            "sku": "PDQ-519008",
+            "mpn": "PDQ-519008",
+            "price": "59.99",
+            "compare_at_price": "80.0",
+            "contractor_price": "54.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "PDQ-519008 Top Jamb Mount Closer Back Plates",
+                "PDQ 519008 Top Jamb Mount Back Plate for American Eagle 5100 door closers",
+                "American Eagle 519008",
+                "top jamb mounting plates",
+                "door closer back plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AE-519008_525.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AE-519008_525.gif?v=1716421839"
+        },
+        "text": {
+            "description_html": "<b>PDQ 519008 Back Plate for American Eagle 5100</b>\r\n\r\n<p>\r\nFits <a href=\"/products/commercial-ada-compliant-full-cover-surface-mount-closer-american-eagle-5100\"><b>American Eagle 5100 Door Closers</b></a> and <a href=\"/products/ada-compliant-delayed-action-handicap-door-closer-american-eagle-5141-bcpa\"><b>American Eagle 5141 Delayed Action Handicap Door Closer</b></a>  \r\n</p>\r\n<p>\r\nUse for top jamb mount with limited overhead clearance or regular arm to clear a mortised stop or holder.\r\n</p>\r\n<p>\r\nCan be used with any door closer that has a mounting pattern of:\r\n<br>Horizontal Mounting Holes: 11-1/8\"\r\n<br>Vertical Mounting Holes: 3/4\"\r\n</p>",
+            "seo": {
+                "title": "Top Jamb Mount Back Plate for American Eagle 5100, PDQ 519008",
+                "description": "PDQ 519008 Top Jamb Mount Back Plate for American Eagle 5100 door closers. Use for top jamb mount with limited overhead clearance or regular arm to clear a mortised stop or holder.",
+                "keywords": "PDQ-519008 Top Jamb Mount Closer Back Plates, PDQ 519008 Top Jamb Mount Back Plate for American Eagle 5100 door closers, American Eagle 519008, top jamb mounting plates, door closer back plates,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "American Eagle 5100",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "190682",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "190259",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "233110",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "180865",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 689: Aluminum",
+                "Select Finish: 695: Dark Bronze",
+                "Select Finish: 696: Gold Paint"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "689: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-519008-689"
+                },
+                {
+                    "value": "695: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-519008-695"
+                },
+                {
+                    "value": "696: Gold Paint",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-519008-696"
+                }
+            ]
+        }
+    ]
+}

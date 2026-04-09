@@ -1,0 +1,111 @@
+{
+    "legacy_product_id": "777807",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Parallel Mount Bracket, Global PAB-4361",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-PAB-4361",
+            "mpn": "GLO-PAB-4361",
+            "price": "8.02",
+            "compare_at_price": "11.45",
+            "contractor_price": "7.21",
+            "shipping_weight": "0.5",
+            "tags": [
+                "GLO-PAB-4361 Parallel Arm Mount Brackets",
+                "Global PAB-4361-AL",
+                "Global PAB-4361-DU",
+                "door closer parallel brackets",
+                "Global Door Controls TC4361",
+                "heavy duty Parallel Arm brackets",
+                "closer Arm Parallel Mount Brackets",
+                "Global PAB-4361",
+                "Global Door Controls TC4361 parallel brackets",
+                "GLO-TC4361 arms",
+                "Global PAB-4361-AL",
+                "Global PAB-4361-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-PAB-4361_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-PAB-4361_525.jpg?v=1716425551"
+        },
+        "text": {
+            "description_html": "<b>Global TC4361 Parallel Arm Mount Bracket</b>\r\n\r\n<p>\r\nFor use with <a href=\"/products/ada-compliant-heavy-duty-door-closer-global-tc4361\"><b>Global Door Controls TC4361</b></a>  <a href=\"/products/global-tc4361-door-closer-arm-global-ra-4361\">RA-4361 standard closer arm</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b> for Global PAB-4361 Parallel Arm Mount Bracket\r\n<ul>\r\n<li>Length: 4\"</li>\r\n <li>Width at Header Mount: 4\"</li>\r\n <li>Arm Mount Holes: 1-15/16\" Center to Center</li>\r\n<li>3/16\" Thick Steel</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Parallel Mount Bracket, Global PAB-4361",
+                "description": "Parallel Arm Mount Bracket used with  Global Door Controls TC4361 door closers,  available in aluminum or dark bronze (duro) finish.",
+                "keywords": "GLO-PAB-4361 Parallel Arm Mount Brackets, Global PAB-4361-AL, Global PAB-4361-DU, door closer parallel brackets, Global Door Controls TC4361,  heavy duty Parallel Arm brackets, closer Arm Parallel Mount Brackets,  Global PAB-4361, Global Door Controls TC4361 parallel brackets, GLO-TC4361 arms, Global PAB-4361-AL, Global PAB-4361-DU,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Global TC4361 Closer Accessories",
+                    "sort": "10"
+                },
+                {
+                    "name": "Door Closer Accessories",
+                    "sort": "20"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "188632",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "264861",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "222892",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "222898",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "443955",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: PAB-4361-AL: Aluminum",
+                "Select Finish: PAB-4361-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PAB-4361-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PAB-4361-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "legacy_product_id": "634784",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Traditional Round Mount Toilet Paper Roll Holder, Fusion PH-B2",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-PH-B2",
+            "mpn": "FUS-PH-B2",
+            "price": "89.0",
+            "compare_at_price": "89.0",
+            "contractor_price": "66.75",
+            "shipping_weight": "3.0",
+            "tags": [
+                "FUS-PH-B2",
+                "Radius Rose Toiler Tissue Holders",
+                "Traditional Round Mount Toilet Paper Roll Holders",
+                "Fusion PH-B2",
+                "toilet paper holders",
+                "toilet paper roll holders",
+                "bathroom accessories",
+                "traditional bathroom toilet paper holders",
+                "classic bathroom toilet paper holders",
+                "toilet tissue holders",
+                "Fusion Round radius Toilet Tissue Holders",
+                "Round Rose Wall Mounted Toilet Paper Holders"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-PH-B2-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-PH-B2-525.jpg?v=1711365525"
+        },
+        "text": {
+            "description_html": "<b>Fusion PH-B2, Round Rose Wall Mounted Toilet Paper Holder</b>\r\n\r\n<p>\r\nThe Traditional Round Mount Toilet Paper Roll Holder is a great addition to any bathroom because its classic shape allows it to look great no matter how your tastes change throughout the years. It is easy to install, and can be mounted to hang in either direction. It is versatile too, with a swinging arm that allows for even the biggest rolls of toilet tissue. The round radius rose toilet paper holder is available in antique pewter, antique copper, and oil rubbed bronze finishes.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/traditional-round-mount-towel-bar-fusion-tb-b2\"><b>Fusion TB-B2 Traditional Round Mount Towel Bar</b></a>, \r\n<a href=\"/products/traditional-round-mount-robe-hook-fusion-rh-b2\"><b>Fusion TR-B2 Traditional Round Mount Towel Ring</b></a>, and\r\n<a href=\"/products/traditional-round-mount-wall-mounted-towel-ring-fusion-tr-b2\"><b>Fusion RH-B2 Traditional Round Mount Robe Hook</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Fusion Round Radius Toilet Tissue Holder:\r\n<ul>\r\n<li>Mount Diameter: 2-5/8\"</li>\r\n<li>Reversible to hang in either direction.</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Traditional Round Mount Toilet Paper Roll Holder, Fusion PH-B2",
+                "description": "Fusion PH-B2 Traditional Round Mount Toilet Paper Roll Holder - The Traditional Round Mount Toilet Paper Roll Holder is a great addition to any bathroom because its classic shape allows it to look great no matter how your tastes change throughout the years. It is easy to install, and can be mounted to hang in either direction. It is versatile too, with a swinging arm that allows for even the biggest rolls of toilet tissue. The round radius rose toilet paper holder is available in antique pewter, antique copper, and oil rubbed bronze finishes.",
+                "keywords": "FUS-PH-B2, Radius Rose Toiler Tissue Holders, Traditional Round Mount Toilet Paper Roll Holders, Fusion PH-B2, toilet paper holders, toilet paper roll holders, bathroom accessories, traditional bathroom toilet paper holders, classic bathroom toilet paper holders, toilet tissue holders, Fusion Round radius Toilet Tissue Holders, Round Rose Wall Mounted Toilet Paper Holders,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "22"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "634111",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "384446",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "239669",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "633896",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "384874",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "405450",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "405420",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: ATP - Antique Pewter",
+                "Select Finish: ATC - Antique Copper",
+                "Select Finish: ORB - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ATP - Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ATC - Antique Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

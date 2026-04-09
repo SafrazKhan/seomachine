@@ -1,0 +1,155 @@
+{
+    "legacy_product_id": "570775",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Grande Victorian with Portifino Lever Handleset, Interior Half, GRA-GVCPRT",
+            "vendor": "Grandeur",
+            "status": "ARCHIVED",
+            "sku": "GVCPRT",
+            "mpn": "GVCPRT",
+            "price": "155.2",
+            "compare_at_price": "194.0",
+            "contractor_price": "147.44",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Grande Victorian with Portifino Lever Handleset Interior Half",
+                "GRA-GVCBEL"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Grande Victorian with Portifino Lever Handleset, Interior Half, Grandeur GVCPRT</b>\r\n<p>Portifino lever interior trim package for Grande Victorian Handleset.</p>",
+            "seo": {
+                "title": "Grande Victorian with Portifino Lever Handleset, Interior Half, GRA-GVCPRT",
+                "description": "Grande Victorian with Portifino Lever Handleset Interior Half, GRA-GVCBEL",
+                "keywords": "Grande Victorian with Portifino Lever Handleset Interior Half, GRA-GVCBEL"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Grandeur Parts",
+                    "sort": "11"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: GRA-GVCBEL-AP - Antique Pewter",
+                "Select Finish: GRA-GVCBEL-PB - Polished Brass",
+                "Select Finish: GRA-GVCBEL-SN - Satin Nickel",
+                "Select Finish: GRA-GVCBEL-TB - Timeless Bronze",
+                "Select Finish: GRA-GVCBEL-VB - Vintage Brass",
+                "Select Finish: GRA-GVCBEL-LB - Lifetime Polished Brass",
+                "Select Handing: GRA-GVCPRT-LH",
+                "Select Handing: GRA-GVCPRT-RH",
+                "Select Function: Single Cylinder Handleset",
+                "Select Function: Dummy Handleset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GRA-GVCBEL-AP - Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-GVCBEL-PB - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-GVCBEL-SN - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-GVCBEL-TB - Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-GVCBEL-VB - Vintage Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-GVCBEL-LB - Lifetime Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GRA-GVCPRT-LH",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-GVCPRT-RH",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Single Cylinder Handleset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Single"
+                },
+                {
+                    "value": "Dummy Handleset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

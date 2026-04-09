@@ -1,0 +1,90 @@
+{
+    "legacy_product_id": "72411",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:12:11.044087"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Alarm Lock Series Electronic Digital Card Lock With Push Buttons PDL3000",
+            "vendor": "Alarm Lock",
+            "status": "ARCHIVED",
+            "sku": "PDL3000",
+            "mpn": "PDL3000",
+            "price": "1172.0",
+            "compare_at_price": "1465.0",
+            "contractor_price": "1113.0",
+            "shipping_weight": "8.0",
+            "tags": [
+                "Alarm Lock",
+                "PDL3000",
+                "Electronic Digital Proximity Lock alarm lock pdl3000 series electronic digital proximity lock",
+                "push button lock",
+                "card lock"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDL3000-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PDL3000-525.jpg?v=1717105577"
+        },
+        "text": {
+            "description_html": "Alarm Lock PDL3000 Series Electronic Digital Proximity Lock <br>\r\n<br>\r\n<b>PROGRAMMING: Locking modes, event schedules, group, individual, master, management, passage, emergency service codes. Lockout, remote override capability and allowable entry time (3, 10 or 15 seconds), are programmable through the keypad, AL-DTMIII or Alarm Lock's DL-Windows PC Software <br>\r\n2000 user codes including: Master, manager, supervisor and basic user. Users are individually programmed to use a card only, code only, or for the highest security, both card and code. (3-6 digits) and/or accepts HID prox cards and keyfobs<br>\r\n\r\n<br>OPERATION: Authorized digital code allows lever to retract latch<br>\r\n\r\n<br>AUDIT TRAIL: Lock's activity log can be extracted by using the AL-DTMIII (data transfer module), the AL-PCI2 (PC interface) and/or can be on-site printed using the AL-IR1 (hand-held infrared printer)<br></b>\r\n<br>\r\n<li>KEYPAD: Weatherproof, all metal, 12-button programmable for multi-level access functions. Proximity antenna housing molded of ultra high strength, impact resistant Lexan®</li>\r\n<li>DOOR THICKNESS: 1 5/8\" to 1 7/8\" standard. For 1 3/8\" doors use HW567 & HW569 spacers. For other other thicknesses, please consult factory</li>\r\n<li>BACKSET: 2 3/4\" Standard. 2 3/8\" backset also available</li>\r\n<li>STRIKE: 1 1/8\" x 2 3/4\" T strike standard. With screws for wood or metal jambs. 1 1/4\" x 4 7/8\". ASA strike also included</li>\r\n<li>DOOR PREP: Standard ANSI A115 Series Prep, modified by adding additional through-bolt holes</li> <li>COMPLIANCES: Grade I, heavy duty cylindrical lockset, UL listed to the 10C Positive Pressure Specification. Latchbolt is UL listed and 3-hour fire rated, FCC certified. ADA compliant levers</li>\r\n<li>STANDARD KEY OVERRIDE CYLINDER: Solid brass 6 pin tumbler cylinder</li>\r\n<li>POWER: 5AA alkaline batteries, supplied. Audible low battery alert, visual and audible entry indicators, 60,000 cycles typical</li>\r\n<br><b>\r\n<br>Questions? Call Customer Service 1-954-776-5340<br></b>\r\n<br> \r\nSelect Card Options",
+            "seo": {
+                "title": "Alarm Lock Series Electronic Digital Card Lock With Push Buttons PDL3000",
+                "description": "Alarm Lock PDL3000 Series Electronic Digital Proximity Lock Electronic battery operated digital Proximity lock. Holds up to 2000 codes, Master, Management, Supervisor & basic user. 500 event schedule, real time clock & 40,000 event audit trail. Will read most HID card and keyfob formats\r\n\r\n",
+                "keywords": "Alarm Lock, PDL3000,  Electronic Digital Proximity Lock alarm lock pdl3000 series electronic digital proximity lock, push button lock, card lock"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Alarm Lock",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Proximity Card Option: ALHID1326 - Proximity Access Cards 100 Per Box",
+                "Select Proximity Card Option: ALHID1346 - Proximity Keyfob 10 Per Box",
+                "Select Proximity Card Option: ALHID1386 - Proximity And Photo ID Card Per Box"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Proximity Card Option",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ALHID1326 - Proximity Access Cards 100 Per Box",
+                    "price_impact": 460.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "ALHID1326"
+                },
+                {
+                    "value": "ALHID1346 - Proximity Keyfob 10 Per Box",
+                    "price_impact": 105.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "ALHID1346"
+                },
+                {
+                    "value": "ALHID1386 - Proximity And Photo ID Card Per Box",
+                    "price_impact": 845.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "ALHID1386"
+                }
+            ]
+        }
+    ]
+}

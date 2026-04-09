@@ -1,0 +1,84 @@
+{
+    "legacy_product_id": "476657",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Global Sterling Single Cylinder Deadbolt 660-605, Bright Brass Finish",
+            "vendor": "Global",
+            "status": "ARCHIVED",
+            "sku": "GLO-GLS-660-605",
+            "mpn": "GLO-GLS-660-605",
+            "price": "23.0",
+            "compare_at_price": "34.5",
+            "contractor_price": "23.0",
+            "shipping_weight": "1.0",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>The Global Sterling 660-605, Residential Single Cylinder Deadbolt</b>\r\n\r\n<p>\r\nThe Global Sterling Single Cylinder Deadbolt offers ANSI Grade 3 security. It has an adjustable latch to fit 2-3/8 inch or 2-3/4 inch backsets; and it will fit door thicknesses up to 1-7/8 inches. Operated by a key on the exterior and by a thumbturn on the interior of the door. It has a 5 year warranty .\r\n</p>\r\n\r\n<p>\r\n<b>Single Cylinder Deadbolt:</b> Deadbolt is thrown and retracted by key on the outside and by a thumbturn on the inside.\r\n</p>\r\n\r\n<li><b>Finish Polished Brass</b></li>\r\n<p>\r\n<b>Features</b> of the Grade 3 Kwikset 660 Single Cylinder Deadbolt:\r\n<ul> \r\n<li>Certification: Meets ANSI A156.2 Grade 3</li>\r\n<li>Cylinders: Solid brass 5 pin</li>\r\n<li>Keyway: Kwikset KW1</li>\r\n<li>Bolt: 1\" throw steel reinforced radius</li>\r\n<li>Door Strike Plate: Full lip radius deadbolt</li>\r\n<li>Free spinning cylinder guard security.</li>\r\n<li>Backset: 2 way adjustable 2 3/8“ - 2 3/4“</li>\r\n<li>Sold as complete set.</li>\r\n<li>Easy to install.</li>\r\n<li><b>Warranty: 5 years</b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Global Sterling Single Cylinder Deadbolt 660-605, Bright Brass Finish",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Global Discontinued",
+                    "sort": "17"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Keying: Non Keyed or Only ordered one",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Non Keyed or Only ordered one",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Non"
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                }
+            ]
+        }
+    ]
+}

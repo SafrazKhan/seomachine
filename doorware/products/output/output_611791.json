@@ -1,0 +1,83 @@
+{
+    "legacy_product_id": "611791",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Schlage SC1 6 Pin Lock Cylinder, Satin Chrome",
+            "vendor": "Global",
+            "status": "ARCHIVED",
+            "sku": "GLO-GAL6SC1KD-26DM",
+            "mpn": "GLO-GAL6SC1KD-26DM",
+            "price": "28.98",
+            "compare_at_price": "32.2",
+            "contractor_price": "27.53",
+            "shipping_weight": "0.3",
+            "tags": [
+                "GLO-GAL6SC1KD-26DM Schlage SC1 6 Pin Lock Cylinder"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Schlage SC1 6 Pin Lock Cylinder</b>\r\n<p>\r\nStandard Schlage commercial lock cylinder for use with keyed entry function. For use with Grade 1 and grade 2 commercial levers.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b> for Schlage Lock Cylinder\r\n<ul>\r\n<li>Keyway: Standard 6 Pin \"C\" Keyway</li>\r\n<li>Finish: Brushed Chrome</li>\r\n<li>Includes tail piece.</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Schlage SC1 6 Pin Lock Cylinder, Satin Chrome",
+                "description": "",
+                "keywords": "GLO-GAL6SC1KD-26DM Schlage SC1 6 Pin Lock Cylinder"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Global Lock Sets",
+                    "sort": "50"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Keying: I only ordered one lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I only ordered one lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

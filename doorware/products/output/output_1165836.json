@@ -1,0 +1,126 @@
+{
+    "legacy_product_id": "1165836",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Carbon Fiber Black Bar Cabinet Pull, Emtek 86380",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-86380",
+            "mpn": "EMT-86380",
+            "price": "31.2",
+            "compare_at_price": "39.0",
+            "contractor_price": "29.64",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Bling Carbon Fiber Cabinet Pulls",
+                "Carbon Fiber Black Bar Cabinet Pulls",
+                "EMT-86380",
+                "Emtek 86380 6 inch cabinet pulls",
+                "Emtek 86382 10 inch cabinet pulls",
+                "Woven Carbon Fiber Cabinet Pulls",
+                "Emtek Carbon Fiber Bar Pull in Black",
+                "Woven Black Carbon Fiber Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86380-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86380-525.jpg?v=1716428690"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86380, Woven Black Carbon Fiber Cabinet Pull</b>\r\n\r\n<p>\r\nThe Carbon Fiber Black Bar Cabinet Pull is a sleek, modern pull perfect for those who want something different. Choose from satin nickel or polished chrome bracket finishes. This Woven Black Carbon Fiber Cabinet Pull made by Emtek comes packed with the mounting hardware for easy installation.  \r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Emtek Carbon Fiber Bar Pull in Black:\r\n<ul>\r\n<li>Material: Carbon Fiber and Brass</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>EMT-86380:</b>\r\n<ul>\r\n<li>Length c.c. (center to center): 6\"</li>\r\n<li>Overall Length: 7-1/2\"</li>\r\n<li>Projection: 1-1/4\"</li>\r\n</ul>\r\n<br>\r\n<b>EMT-86382:</b>\r\n<ul>\r\n<li>Length c.c. (center to center): 10\"</li>\r\n<li>Overall Length: 11-1/2\"</li>\r\n<li>Projection: 1-1/4\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Carbon Fiber Black Bar Cabinet Pull",
+                "description": "The Carbon Fiber Black Bar Cabinet Pull is a sleek, modern pull perfect for those who want something different. Choose from satin nickel or polished chrome bracket finishes. This Woven Black Carbon Fiber Cabinet Pull made by Emtek comes packed with the mounting hardware for easy installation.",
+                "keywords": "Bling Carbon Fiber Cabinet Pulls, Carbon Fiber Black Bar Cabinet Pulls,  EMT-86380, Emtek 86380 6 inch cabinet pulls, Emtek 86382 10 inch cabinet pulls, Woven Carbon Fiber Cabinet Pulls, Emtek Carbon Fiber Bar Pull in Black, Woven Black Carbon Fiber Cabinet Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Discontinued",
+                    "sort": "34"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "889819",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1095032",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "234756",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "675348",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "878206",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Size: EMT-86380: 6in. c.c.",
+                "Select Size: EMT-86382: 10in. c.c.",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US26: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "EMT-86380: 6in. c.c.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "EMT-86382: 10in. c.c.",
+                    "price_impact": 8.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

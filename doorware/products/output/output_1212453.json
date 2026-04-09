@@ -1,0 +1,76 @@
+{
+    "legacy_product_id": "1212453",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Adjustable Floor Mounted Roller Guide for Barn Door, Yale YAKBNDR.RG",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "YAL-YAKBNDR.RG",
+            "mpn": "YAL-YAKBNDR.RG",
+            "price": "21.99",
+            "compare_at_price": "27.0",
+            "contractor_price": "21.6",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Adjustable Floor Mounted Roller Guide for Barn Door",
+                "Yale YAKBNDR.RG"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/YAKBNDR.RG-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/YAKBNDR.RG-525.jpg?v=1769503490"
+        },
+        "text": {
+            "description_html": "<b>Yale YAKBNDR.RG, Adjustable Floor Mounted Roller Guide for Barn Door </b>\r\n\r\n<p>\r\nThe Yale barn door roller guide is mounted to the floor to prevent the barn door from swinging outwards during operation.  Available in black or silver finish.\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Floor Mounted Roller Guide for Barn Door, Yale YAKBNDR.RG",
+                "description": "The Yale barn door roller guide is mounted to the floor to prevent the barn door from swinging outwards during operation.  Available in black or silver finish.",
+                "keywords": "Adjustable Floor Mounted Roller Guide for Barn Door, Yale YAKBNDR.RG"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Barn Door Hardware",
+                    "sort": "31"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: BLK: Black",
+                "Select Finish: SLVR: Silver"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BLK: Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SLVR: Silver",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

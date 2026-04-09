@@ -1,0 +1,140 @@
+{
+    "legacy_product_id": "41515",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Beaded Vintage Finish Cabinet Knob, Omnia 9430/32",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9430/32-V",
+            "mpn": "OMN-9430/32-V",
+            "price": "14.25",
+            "compare_at_price": "19.0",
+            "contractor_price": "13.54",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9430 vintage simple beaded cabinet knobs",
+                "solid brass cabinet knobs",
+                "beaded vintage kitchen cabinet knobs",
+                "omnia simple cabinet knobs",
+                "omn-9430/30",
+                "omn-9430/40",
+                "omn-9430/25",
+                "elegant brass knobs",
+                "elegant beaded vintage kitchen cabinet knobs Omnia 9430",
+                "solid brass drawer knobs",
+                "Omnia 9430 drawer pulls",
+                "Beaded Vintage Finish Cabinet Knobs",
+                "Vintage Collection Beaded Cabinet Knobs",
+                "OMN-9430/32-V"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-9430v-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-9430v-525.jpg?v=1716420797"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9430, Vintage Collection Beaded Cabinet Knob</b>\r\n\r\n<p>\r\nAvailable in 3 finishes, this Vintage Collection Beaded Cabinet Knob has an unmistakable vintage look. The finishes mimic the texture of naturally weathered metal. The knob is rimmed with a beaded design that only adds to its elegant design. The Beaded Vintage Finish Cabinet Knob has a 1-1/4 inch diameter. \r\n</p>\r\n\r\n<p>\r\nAlso available the <a href=\"/products/beaded-cabinet-knob-omnia-9430-32\"><b>Omnia 9430 Beaded Cabinet Knob</b></a> in other finishes and other <a href=\"/collections/omnia-cabinet-hardware\"><b>Omnia Vintage Collection Cabinet Knobs</b></a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Omnia 9430 Beaded Cabinet Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-1/4\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold individually.</i>\r\n</p>",
+            "seo": {
+                "title": "Beaded Vintage Finish Cabinet Knob",
+                "description": "Available in 3 finishes, this Vintage Collection Beaded Cabinet Knob has an unmistakable vintage look. The finishes mimic the texture of naturally weathered metal. The knob is rimmed with a beaded design that only adds to its elegant design. The Beaded Vintage Finish Cabinet Knob has a 1-1/4 inch diameter. \r\n",
+                "keywords": "omnia 9430 vintage simple beaded cabinet knobs, solid brass cabinet knobs, beaded vintage kitchen cabinet knobs, omnia simple cabinet knobs, omn-9430/30, omn-9430/40, omn-9430/25, elegant brass knobs, elegant beaded vintage kitchen cabinet knobs Omnia 9430, solid brass drawer knobs, Omnia 9430 drawer pulls, Beaded Vintage Finish Cabinet Knobs, Vintage Collection Beaded Cabinet Knobs, OMN-9430/32-V"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Diameter",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-1/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia Cabinet Knobs",
+                    "sort": "53"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "42954",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "42129",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "41482",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "43072",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "41494",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "43096",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Diameter: 1-1/4\"",
+                "Projection: 1-1/4\"",
+                "Select Finish: VI: Vintage Iron",
+                "Select Finish: VC: Vintage Copper",
+                "Select Finish: VB: Vintage Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "VI: Vintage Iron",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "VI"
+                },
+                {
+                    "value": "VC: Vintage Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "VC"
+                },
+                {
+                    "value": "VB: Vintage Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "VB"
+                }
+            ]
+        }
+    ]
+}

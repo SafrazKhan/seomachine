@@ -1,0 +1,137 @@
+{
+    "legacy_product_id": "1229948",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Grande Victorian Knob Interior Handleset Trim, Grandeur WP801576",
+            "vendor": "Grandeur",
+            "status": "ARCHIVED",
+            "sku": "GRA-WP801576",
+            "mpn": "GRA-WP801576",
+            "price": "60.0",
+            "compare_at_price": "75.0",
+            "contractor_price": "60.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Grande Victorian Knob Interior Handleset Trim",
+                "Grandeur WP801576"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525302.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525302.gif?v=1769502401"
+        },
+        "text": {
+            "description_html": "<b>Grandeur WP801576, Grande Victorian Knob Interior Handleset Trim</b>\r\n<p>\r\nThis is the Grande Victorian Knob with Newport Rose interior handleset replacement trim for a Newport F Grip Handleset.\r\n</p>\r\n\r\n\r\n<b>Features</b> of the Grandeur Newport Rosette With Grande Victorian Knob Handleset Trim:\r\n<ul>\r\n<li>Made out of solid forged brass.</li>\r\n<li>Easy to install.</li>\r\n<li>Lifetime Mechanical Warranty</li>\r\n<li>10 Year Finish Warranty</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Newport Rosette With Grande Victorian Knob:\r\n<ul>\r\n<li>Newport Rosette Diameter: 2.62\"</li>\r\n<li>Grande Victorian Knob Height: 2.68\"</li>\r\n<li>Grande Victorian Knob Width: 1.63\"</li>\r\n<li>Grande Victorian Knob Projection: 2.32\"</li>\r\n\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-NEWGVC-specifications.pdf?v=1704262183\" target=\"new\"><b>Grandeur WP801576 Dimensions (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n<p>\r\n<br>",
+            "seo": {
+                "title": "Grande Victorian Knob Interior Handleset Trim, Grandeur WP801576",
+                "description": "This is the Grande Victorian Knob with Newport Rose interior handleset replacement trim for a Newport F Grip Handleset.",
+                "keywords": "Grande Victorian Knob Interior Handleset Trim, Grandeur WP801576"
+            },
+            "specifications": [
+                {
+                    "key": "Newport Rosette Diameter",
+                    "value": "2.62\""
+                },
+                {
+                    "key": "Grande Victorian Knob Height",
+                    "value": "2.68\""
+                },
+                {
+                    "key": "Grande Victorian Knob Width",
+                    "value": "1.63\""
+                },
+                {
+                    "key": "Grande Victorian Knob Projection",
+                    "value": "2.32\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Grandeur Parts",
+                    "sort": "19"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Newport Rosette Diameter: 2.62\"",
+                "Grande Victorian Knob Height: 2.68\"",
+                "Grande Victorian Knob Width: 1.63\"",
+                "Grande Victorian Knob Projection: 2.32\"",
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: AP: Antique Pewter",
+                "Select Finish: LB: Lifetime Polished Brass",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: VB: Vintage Brass",
+                "Select Finish: TB: Timeless Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LB: Lifetime Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "VB: Vintage Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

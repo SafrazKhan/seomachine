@@ -1,0 +1,129 @@
+{
+    "legacy_product_id": "552818",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3 Inch Fancy Flower Cabinet Pull, RK International CP-82",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CP-82",
+            "mpn": "RKI-CP-82",
+            "price": "14.99",
+            "compare_at_price": "18.81",
+            "contractor_price": "14.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "RKI-CP-82",
+                "Flower Cabinet Door Pulls",
+                "Fancy Flower Cabinet Pulls",
+                "RK International CP-82",
+                "floral cabinet knobs",
+                "RK International CP 82 Flower Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CP-82-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CP-82-525.jpg?v=1716424395"
+        },
+        "text": {
+            "description_html": "<b>RK International CP-82, 3 Inch Flower Cabinet Door Pull</b>\r\n\r\n<p>\r\nAvailable in satin nickel, polished brass, and oil rubbed bronze, the Fancy Flower Cabinet Pull is a beautiful way to add a classic elegance to your home. Every inch of the floral design is carefully crafted with an attention to detail even down to the leaves that make up the sides of this cabinet handle. It comes packaged with all necessary mounting hardware.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/flower-cabinet-knob-rk-international-ck-182\"><b>CK-182 Fancy Flower Cabinet Knob</b></a> and\r\n<a href=\"/products/fancy-flower-pull-backplate-rk-international-bp-382\"><b>BP-382 Fancy Flower Cabinet Backpull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CP 82 Flower Pull:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 4-1/4\"</li>\r\n<li>Width: 7/8\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "3 Inch Fancy Flower Cabinet Pull",
+                "description": "RK International CP-82, Fancy Flower Cabinet Pull - Available in satin nickel, polished brass, and oil rubbed bronze, the Fancy Flower Cabinet Pull is a beautiful way to add a classic elegance to your home. Every inch of the floral design is carefully crafted with an attention to detail even down to the leaves that make up the sides of this cabinet handle. It comes packaged with all necessary mounting hardware.",
+                "keywords": "RKI-CP-82, Flower Cabinet Door Pulls, Fancy Flower Cabinet Pulls, RK International CP-82, floral cabinet knobs, RK International CP 82 Flower Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Pulls and Flush Pulls",
+                    "sort": "1"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "552877",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "41768",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "37580",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "58481",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "37122",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "302440",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "41271",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "551820",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "554088",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: B: Polished Brass",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

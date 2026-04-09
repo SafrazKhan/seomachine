@@ -1,0 +1,76 @@
+{
+    "legacy_product_id": "1197397",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Brass Accents Replacement Deadbolt Latch, BRA D09-C028C",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "BRA D09-C028C",
+            "mpn": "BRA D09-C028C",
+            "price": "68.0",
+            "compare_at_price": "68.0",
+            "contractor_price": "68.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Brass Accents Replacement Deadbolt Latch",
+                "BRA D09-C028C"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/D09-D1510-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/D09-D1510-525.jpg?v=1717106660"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents Deadbolt Latch</b>\r\n<p>For use with Brass Accents Deadbolt Locks and Brass Accents Entry Lock Sets.\r\n\r\n</p>\r\n\r\n<p>Adjustable backset for 2-3/8\" or 2-3/4\".\r\n</p>\r\n<p>\r\nIncludes face plate, strike plate, and installation screws. \r\n</p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Brass Accents Replacement Deadbolt Latch",
+                "description": "For use with Brass Accents Deadbolt locks and Brass Accents Entry Lock Sets. Available  in 2-3/8\" or 2-3/4\"  backsets.",
+                "keywords": "Brass Accents Replacement Deadbolt Latch, BRA D09-C028C"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Custom Components and Parts",
+                    "sort": "14"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Backset: BRA-D09-C028C2.38: 2-3/8in. Backset",
+                "Select Backset: BRA-D09-C028C2.75: 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BRA-D09-C028C2.38: 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRA-D09-C028C2.75: 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

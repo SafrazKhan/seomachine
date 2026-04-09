@@ -1,0 +1,104 @@
+{
+    "legacy_product_id": "730630",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Strike for Omnia Deadbolts, Omnia 050.11",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-050.11",
+            "mpn": "OMN-050.11",
+            "price": "9.98",
+            "compare_at_price": "12.0",
+            "contractor_price": "9.98",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Strike for Omnia Deadbolts",
+                "Omnia 050.11",
+                "OMN-050.11",
+                "Omnia Deadbolt Strikes",
+                "replacement omnia strikes",
+                "Replacement Deadbolt Strikes"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52511.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52511.gif?v=1716425454"
+        },
+        "text": {
+            "description_html": "<b>Omnia 050.11 Deadbolt Strike</b>\r\n\r\n<p>\r\nStrike plate for Omnia deadbolts.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Replacement Deadbolt Strike:\r\n<ul>\r\n<li>Width: 2-3/4\"</li>\r\n<li>Height: 1-1/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nSpecial Order Item. <b>NO RETURNS</b>\r\n</p>",
+            "seo": {
+                "title": "Strike for Omnia Deadbolts, Omnia 050.11",
+                "description": "Omnia 050.11, Strike for Omnia Deadbolts - Strike plate for Omnia deadbolts.",
+                "keywords": "Strike for Omnia Deadbolts, Omnia 050.11, OMN-050.11, Omnia Deadbolt Strikes, replacement omnia strikes, Replacement Deadbolt Strikes,"
+            },
+            "specifications": [
+                {
+                    "key": "Width",
+                    "value": "2-3/4\""
+                },
+                {
+                    "key": "Height",
+                    "value": "1-1/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "45"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "192415",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "192441",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "192438",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Width: 2-3/4\"",
+                "Height: 1-1/8\"",
+                "Select Finish: US3 - Polished Brass",
+                "Select Finish: US26 - Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

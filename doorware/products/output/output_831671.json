@@ -1,0 +1,115 @@
+{
+    "legacy_product_id": "831671",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Silicone Kerf-In Weatherstrip, Pemko S105",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "PEM-S105",
+            "mpn": "PEM-S105",
+            "price": "320.0",
+            "compare_at_price": "320.0",
+            "contractor_price": "320.0",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Pemko S105 Silicone Kerf-In Weatherstrips",
+                "Silicone Kerf-In Weatherstrips",
+                "Pemko S105",
+                "PEM-S105",
+                "Silicone Weatherstrip for Doors"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PEM-S105D-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PEM-S105D-525.jpg?v=1716425935"
+        },
+        "text": {
+            "description_html": "<b>Pemko S105, Silicone Weatherstrip for Doors</b>\r\n\r\n<p>\r\nThe Silicone Kerf-In Weatherstrip is typically used as a fire or smoke seal on commercial doors. It is impervious to fungus and mildew; will not deteriorate under normal exposure. Available in 30 foot and 100 foot lengths.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Pemko Silicone Kerf-In Weatherstrip:\r\n<ul>\r\n<li>Material: high-grade silicone.</li>\r\n<li>Minimum space between the door face and the stop is 1/16\".</li>\r\n<li>The maximum space is 3/8\".</li>\r\n<li>Self-extinguishing and non-toxic.</li>\r\n<li>Stays flexible well below -100 degrees Fahrenheit and resilient above 400 degrees Fahrenheit.</li>\r\n<li>Unaffected by sunlight, ozone, and ultraviolet rays.</li>\r\n<li>Impervious to fungus and mildew; will not deteriorate under normal exposure.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nSpecial ordered item. <b>Not Returnable</b>.\r\n</p>",
+            "seo": {
+                "title": "Silicone Kerf-In Weatherstrip",
+                "description": "The Silicone Kerf-In Weatherstrip is typically used as a fire or smoke seal on commercial doors. It is impervious to fungus and mildew; will not deteriorate under normal exposure. Available in 30 foot and 100 foot lengths.",
+                "keywords": "Pemko S105 Silicone Kerf-In Weatherstrips, Silicone Kerf-In Weatherstrips, Pemko S105, PEM-S105, Silicone Weatherstrip for Doors,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Pemko",
+                    "sort": "24"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "232550",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "232544",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "228975",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "241381",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "216866",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "216886",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "216848",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Color: D - Dark Brown",
+                "Select Length: 100 Foot Length"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Color",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "D - Dark Brown",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "100 Foot Length",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

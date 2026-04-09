@@ -1,0 +1,156 @@
+{
+    "legacy_product_id": "195685",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Brass Colonial Door Knocker, Brass Accents A02-K5130",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "BRA-A02-K5130",
+            "mpn": "BRA-A02-K5130",
+            "price": "21.68",
+            "compare_at_price": "27.1",
+            "contractor_price": "20.6",
+            "shipping_weight": "1.0",
+            "tags": [
+                "A02-K5130 Brass Accents Colonial Door Knockers",
+                "brass colonial door knockers",
+                "american style door knockers",
+                "brass door knockers",
+                "BRA-A02-K5130",
+                "Solid Brass Colonial Door Knockers",
+                "Brass Accents A02-K5130",
+                "Urn Tip Door Knockers",
+                "Urn Tip Traditional Door Knockers",
+                "Colonial Door Knocker with Urn Tips"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/colonial-door-knocker_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/colonial-door-knocker_525.jpg?v=1716421899"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents A02-K5130, Colonial Door Knocker with Urn Tip</b>\r\n\r\n<p>\r\nThe Solid Brass Colonial Door Knocker has a traditional style. It features a urn tip that adds a bit of elegant detail. Made out of solid brass, measures 6 inches high. \r\n</p>\r\n\r\n\r\n\r\n<p>\r\nThis door knocker has a standard thru-bolt mount and comes packaged with mounting hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Urn Tip Traditional Door Knocker:\r\n<ul>\r\n<li>Height: 6\"</li>\r\n<li>Width: 2-7/8\"</li>\r\n<li>Mounting Centers: 3-7/8\"</li>\r\n<li>Max Thickness: 3/4\"</li>\r\n<li>Solid Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>\r\n\r\n<p>\r\n<br><br>\r\n<b>\r\n** This item is Discontinued. See available <a href=\"/collections/knockers\">Door Knockers</a>\r\n</b>\r\n<br><br>\r\n</p>",
+            "seo": {
+                "title": "Solid Brass Colonial Door Knocker, Brass Accents A02-K5130",
+                "description": "Brass Accents A02-K5130 Colonial Door Knocker -- The Solid Brass Colonial Door Knocker has a traditional style. It features a urn tip that adds a bit of elegant detail. Made out of solid brass, measures 6 inches high. This front door knocker is available in a wide array of finishes.\r\n",
+                "keywords": "A02-K5130 Brass Accents Colonial Door Knockers, brass colonial door knockers, american style door knockers, brass door knockers, BRA-A02-K5130, Solid Brass Colonial Door Knockers, Brass Accents A02-K5130, Urn Tip Door Knockers, Urn Tip Traditional Door Knockers, Colonial Door Knocker with Urn Tips,"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "6\""
+                },
+                {
+                    "key": "Width",
+                    "value": "2-7/8\""
+                },
+                {
+                    "key": "Mounting Centers",
+                    "value": "3-7/8\""
+                },
+                {
+                    "key": "Max Thickness",
+                    "value": "3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knockers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knockers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-6",
+            "collections": [
+                {
+                    "name": "BRA-discontinued-custom",
+                    "sort": "25"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "157004",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "563048",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "252798",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "143788",
+                    "sort": "12"
+                },
+                {
+                    "legacy_product_id": "143804",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "157012",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "873288",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "67123",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "143720",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "143869",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "399909",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "177120",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Height: 6\"",
+                "Width: 2-7/8\"",
+                "Mounting Centers: 3-7/8\"",
+                "Max Thickness: 3/4\"",
+                "Select Finish: Antique Brass",
+                "Select Finish: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Antique"
+                },
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Satin"
+                }
+            ]
+        }
+    ]
+}

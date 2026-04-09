@@ -1,0 +1,141 @@
+{
+    "legacy_product_id": "250872",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Ornate Decorative Floor Door Stop, First Impressions 918-F",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-918-F",
+            "mpn": "FII-918-F",
+            "price": "69.95",
+            "compare_at_price": "89.0",
+            "contractor_price": "69.95",
+            "shipping_weight": "1.0",
+            "tags": [
+                "FII-918-F Ornate Floor Door Stops",
+                "Ornate Decorative Floor Door Stop",
+                "First Impressions 918-F Decorative Door Stops",
+                "door hardware Made in the USA",
+                "Victorian style hardware",
+                "Victorian style door stops",
+                "Victorian door bumpers",
+                "918",
+                "918f"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-918F-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-918F-525.jpg?v=1716422436"
+        },
+        "text": {
+            "description_html": "<b>First Impressions 918-F Decorative Door Stop</b>\r\n<p>\r\nConstructed of solid forged brass this very ornate decorative  floor mount door stop adds a touch of wow to any room.  It is equally suited for use in private residential or high end commercial applications.\r\n</p>\r\n<p>\r\nNot only is it very decorative, the floor mount design provides excellent protection for your walls and door hardware. Made in the USA.\r\n</p>\r\n<!-- <p>\r\nAlso available: <a href=\"/products/ornate-victorian-floor-door-stop-first-impressions-918r-f\"><b>Ornate Victorian Floor Door Stop</b></a>\r\n</p> -->\r\n<p>\r\nOnly one hole to drill makes installation fast and easy.  Packaged with mounting hardware  for wood, tile or marble floor mount applications.\r\n</p>\r\n<p>\r\n<b>Specifications</b> of First Impressions 918-F Decorative Door Stop\r\n<ul>\r\n<li>Total Height: 3\"</li>\r\n<li>Rubber Bumper Diameter:  1-1/4\"</li>\r\n<li>Rubber Bumper Color: Black</li>\r\n<li>Material:  Solid Forged Brass</li> \r\n</ul>\r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/kaba-simplex-902-size.gif?v=1704354717\" width=\"100\" height=\"72\" border=\"0\" alt=\"Made in the USA\">\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>\r\n\r\n<p>\r\n<b>** This item is discontinued. </b>\r\n</p>",
+            "seo": {
+                "title": "Ornate Decorative Floor Door Stop, First Impressions 918-F",
+                "description": "First Impressions 918-F - Constructed of solid forged brass this very ornate decorative  floor mount door stop adds a touch of wow to any room.  It is equally suited for use in private residential or high end commercial applications.",
+                "keywords": "FII-918-F Ornate Floor Door Stops, Ornate Decorative Floor Door Stop, First Impressions 918-F Decorative Door Stops, door hardware Made in the USA, Victorian style hardware, Victorian style door stops, Victorian door bumpers, 918, 918f"
+            },
+            "specifications": [
+                {
+                    "key": "Total Height",
+                    "value": "3\""
+                },
+                {
+                    "key": "Rubber Bumper Diameter",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Rubber Bumper Color",
+                    "value": "Black"
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Forged Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "249"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "253147",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "237708",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "214215",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "214182",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "223409",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "214204",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "247809",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "239914",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "238373",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Total Height: 3\"",
+                "Rubber Bumper Diameter: 1-1/4\"",
+                "Rubber Bumper Color: Black",
+                "Material: Solid Forged Brass",
+                "Select Finish: FII-918-F-US10B - Oil Rubbed Bronze",
+                "Select Finish: FII-918-F-US15 - Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-918-F-US10B - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-918-F-US15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

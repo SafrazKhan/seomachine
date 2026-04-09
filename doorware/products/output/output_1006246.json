@@ -1,0 +1,129 @@
+{
+    "legacy_product_id": "1006246",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Radius Corner 2-1/4 x 1-1/2 Strike Plate, Deltana SP225",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-SP225",
+            "mpn": "DEL-SP225",
+            "price": "4.36",
+            "compare_at_price": "5.81",
+            "contractor_price": "4.14",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Deltana SP225",
+                "Strike Plate 2-1/4 x 1-1/2",
+                "Replacement Radius Corner 2-1/4 x 1-1/2 Strike Plates",
+                "Replacement Radius Corner Strike Plates",
+                "DEL-SP225"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-SP225-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SP225-525.jpg?v=1716427634"
+        },
+        "text": {
+            "description_html": "<b>Deltana SP225, Strike Plate 2-1/4\" x 1-1/2\"</b>\r\n\r\n<p>\r\nFull lip strike plate with radius corners (rounded corners). Standard strike plate for wood frame doors. Made of solid brass or stainless steel depending of the finish. The Deltanta SP225 Replacement Radius Corner 2-1/4 x 1-1/2 Strike Plate is for residential or commercial doors.  \r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SP225-Specifications.gif?v=1704354779\" width=\"331\" height=\"235\" border=\"0\" alt=\"Deltana SP225 Specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Deltana SP225:\r\n<ul>\r\n<li>Material: Solid Brass or Stainless Steel</li>\r\n<li>Plate Total Length: 2-1/4\"</li>\r\n<li>Plate Height: 1-1/2\"</li>\r\n<li>Center to Center Length: 1-5/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Radius Corner 2-1/4 x 1-1/2 Strike Plate",
+                "description": "Full lip strike plate with radius corners (rounded corners). Standard strike plate for wood frame doors. Made of solid brass or stainless steel depending of the finish. The Deltanta SP225 Replacement Radius Corner 2-1/4 x 1-1/2 Strike Plate is for residential or commercial doors.  \r\n",
+                "keywords": "Deltana SP225, Strike Plate 2-1/4 x 1-1/2,Replacement Radius Corner 2-1/4 x 1-1/2 Strike Plates, Replacement Radius Corner Strike Plates, DEL-SP225,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass or Stainless Steel"
+                },
+                {
+                    "key": "Plate Total Length",
+                    "value": "2-1/4\""
+                },
+                {
+                    "key": "Plate Height",
+                    "value": "1-1/2\""
+                },
+                {
+                    "key": "Center to Center Length",
+                    "value": "1-5/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Deltana Strikes and Latches",
+                    "sort": "20"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "410757",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "810639",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "913764",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "610295",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "540695",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass or Stainless Steel",
+                "Plate Total Length: 2-1/4\"",
+                "Plate Height: 1-1/2\"",
+                "Center to Center Length: 1-5/8\"",
+                "Select Finish: U3: Polished Brass",
+                "Select Finish: CR003: PVD Polished Brass",
+                "Select Finish: US32: Polished Stainless"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CR003: PVD Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US32: Polished Stainless",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

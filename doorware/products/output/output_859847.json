@@ -1,0 +1,168 @@
+{
+    "legacy_product_id": "859847",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Victorian Double Rocker Switch Plate, Grandeur VICSWPLTR2",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-VICSWPLTR2",
+            "mpn": "GRA-VICSWPLTR2",
+            "price": "37.99",
+            "compare_at_price": "47.5",
+            "contractor_price": "37.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Grandeur VICSWPLTR2",
+                "GRA-VICSWPLTR2",
+                "Grandeur Victorian Rocker Covers",
+                "Victorian Double Rocker Covers",
+                "Double Victorian Rocker Light Switch Covers",
+                "Victorian Double Rocker Switch Plates",
+                "Victorian Double Rocker Switch Cover Plates",
+                "Grandeur Victorian Switch Covers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-VICSWPLTR2-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-VICSWPLTR2-525.jpg?v=1716426104"
+        },
+        "text": {
+            "description_html": "<b>Grandeur VICSWPLTR2, Double Rocker Victorian Cover</b>\r\n\r\n<p>\r\nThe Victorian Double Rocker Switch Plate is ornate in the best way, drawing attention tastefully. This fancy rocker switch cover is available in a wide selection of finishes, ranging from traditional to contemporary, for a look that suits your style. The Double Rocker Victorian Cover comes packaged with matching finish screws for easy installation.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur Victorian Rocker Cover:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Height: 5-3/8\"</li>\r\n<li>Width: 6-1/4\"</li>\r\n<li>Projection: 1/2\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Victorian Double Rocker Switch Plate",
+                "description": "The Victorian Double Rocker Switch Plate is ornate in the best way, drawing attention tastefully. This fancy rocker switch cover is available in a wide selection of finishes, ranging from traditional to contemporary, for a look that suits your style. The Double Rocker Victorian Cover comes packaged with matching finish screws for easy installation.",
+                "keywords": "Grandeur VICSWPLTR2, GRA-VICSWPLTR2, Grandeur Victorian Rocker Covers, Victorian Double Rocker Covers, Double Victorian Rocker Light Switch Covers, Victorian Double Rocker Switch Plates, Victorian Double Rocker Switch Cover Plates, Grandeur Victorian Switch Covers,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Height",
+                    "value": "5-3/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "6-1/4\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1/2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Electrical Outlet &amp; Switch Plates",
+                    "sort": "112"
+                },
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "67"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "726219",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "237870",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "156724",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "156727",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "177141",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Height: 5-3/8\"",
+                "Width: 6-1/4\"",
+                "Projection: 1/2\"",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: ULB: Unlacquered Brass",
+                "Select Finish: TB: Timeless Bronze",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: AP: Antique Pewter"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ULB: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

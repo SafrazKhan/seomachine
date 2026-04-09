@@ -1,0 +1,111 @@
+{
+    "legacy_product_id": "633144",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Sonoma Wall Mounted Toilet Paper Holder, Fusion PH-E4",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-PH-E4",
+            "mpn": "FUS-PH-E4",
+            "price": "99.0",
+            "compare_at_price": "99.0",
+            "contractor_price": "74.25",
+            "shipping_weight": "4.0",
+            "tags": [
+                "toilet paper holders",
+                "toilet paper roll holders",
+                "bathroom accessories",
+                "traditional bathroom toilet paper holders",
+                "classic bathroom toilet paper holders",
+                "toilet tissue holders",
+                "Sonoma Collection Toilet Tissue Holders",
+                "Sonoma Wall Mounted Toilet Paper Holders",
+                "Fusion PH-E4",
+                "FUS-PH-E4",
+                "Fusion Sonoma Trim Paper Holders",
+                "Wall Mounted Sonoma Toilet Paper Holders"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-TO-E4-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-TO-E4-525.jpg?v=1711365520"
+        },
+        "text": {
+            "description_html": "<b>Fusion PH-E4, Wall Mounted Sonoma Toilet Paper Holder</b>\r\n\r\n<p>\r\nAlthough Sonoma is often synonymous with wine, it can also be associated with rustic decor. The Sonoma Wall Mounted Toilet Paper Holder features a square mount with a classic design that is perfect for upscale-rustic spaces. Choose from either medium bronze or oil rubbed bronze. Made by Fusion, the PH-E4 comes packaged with all the necessary mounting hardware.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/sonoma-towel-bar-fusion-tb-e4\"><b>Fusion TB-E4 Sonoma Towel Bar</b></a>, \r\n<a href=\"/products/sonoma-towel-ring-fusion-tr-e4\"><b>Fusion TR-E4 Sonoma Towel Ring</b></a>, and\r\n<a href=\"/products/sonoma-robe-hook-fusion-rh-e4\"><b>Fusion RH-E4 Sonoma Robe Hook</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Fusion Sonoma Trim Paper Holder:\r\n<ul>\r\n<li>Mount Length: 2-5/8\" square</li>\r\n<li>Mount Projection: 1/2\"</li>\r\n<li>Reversible to hang in either direction.</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Sonoma Wall Mounted Toilet Paper Holder, Fusion PH-E4",
+                "description": "Fusion PH-E4, Sonoma Wall Mounted Toilet Paper Holder - Although Sonoma is often synonymous with wine, it can also be associated with rustic decor. The Sonoma Wall Mounted Toilet Paper Holder features a square mount with a classic design that is perfect for upscale-rustic spaces. Choose from either medium bronze or oil rubbed bronze. Made by Fusion, the PH-E4 comes packaged with all the necessary mounting hardware.",
+                "keywords": "toilet paper holders, toilet paper roll holders, bathroom accessories, traditional bathroom toilet paper holders, classic bathroom toilet paper holders, toilet tissue holders, Sonoma Collection Toilet Tissue Holders, Sonoma Wall Mounted Toilet Paper Holders, Fusion PH-E4, FUS-PH-E4, Fusion Sonoma Trim Paper Holders, Wall Mounted Sonoma Toilet Paper Holders,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "383468",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "209027",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "383122",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "295864",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "384874",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "156897",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MDB - Medium Bronze",
+                "Select Finish: ORB - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MDB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

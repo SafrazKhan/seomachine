@@ -1,0 +1,161 @@
+{
+    "legacy_product_id": "934902",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Cabinet Knob Square Backplate, Emtek 86434",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-86434",
+            "mpn": "EMT-86434",
+            "price": "7.99",
+            "compare_at_price": "9.0",
+            "contractor_price": "7.99",
+            "shipping_weight": "0.1",
+            "tags": [
+                "Cabinet Knob Square Backplates",
+                "Emtek 86434",
+                "Decorative Square Backplate for Cabinet Knobs",
+                "EMT-86434",
+                "cabinet hardware rosettes",
+                "cabinet pull rosettes"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/86434-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/86434-525.jpg?v=1716426965"
+        },
+        "text": {
+            "description_html": "<b>Emtek 8634, Square Cabinet Knob Backplate</b>\r\n\r\n<p>\r\nBackplates like the Cabinet Knob Square Backplate is great for adding a little something more to any kitchen cabinet, dresser drawer, or bathroom vanity. Simply thread it on the screw behind any kitchen cabinet knob or pull before installing the hardware. The Emtek square backplate for cabinet knobs is available in 6 different finish choices.\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> for the Emtek 86434 Base Plate:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Length: 1-1/4\" square</li>\r\n<li>Projection: 1/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-modern-5-Finishes.jpg?v=1704354501\" width=\"511\" height=\"111\" border=\"0\" alt=\"Emtek Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "Cabinet Knob Square Backplate",
+                "description": "Backplates like the Cabinet Knob Square Backplate is great for adding a little something more to any kitchen cabinet, dresser drawer, or bathroom vanity. Simply thread it on the screw behind any kitchen cabinet knob or pull before installing the hardware. The Emtek square backplate for cabinet knobs is available in 6 different finish choices.\r\n",
+                "keywords": "Cabinet Knob Square Backplates, Emtek 86434, Decorative Square Backplate for Cabinet Knobs, EMT-86434, cabinet hardware rosettes, cabinet pull rosettes,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "1-1/4\" square"
+                },
+                {
+                    "key": "Projection",
+                    "value": "1/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Cabinet Hardware",
+                    "sort": "13"
+                },
+                {
+                    "name": "Cabinet Knob and Pull Rosettes",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "569223",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "542807",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "917020",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "935828",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "569412",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "204009",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "204030",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Length: 1-1/4\" square",
+                "Projection: 1/8\"",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US4: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

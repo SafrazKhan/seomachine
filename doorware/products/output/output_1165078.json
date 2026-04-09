@@ -1,0 +1,82 @@
+{
+    "legacy_product_id": "1165078",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "MS1880 Series Two Point Flushbolt, Adams Rite MS1881-01",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "ADA-MS1881-01",
+            "mpn": "ADA-MS1881-01",
+            "price": "159.8",
+            "compare_at_price": "177.0",
+            "contractor_price": "159.8",
+            "shipping_weight": "2.0",
+            "tags": [
+                "MS1880 Series Two Point Flushbolt",
+                "Adams Rite MS1881-01",
+                "ADA-MS1881-01"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ADA-MS1881-01-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ADA-MS1881-01-525.jpg?v=1716428676"
+        },
+        "text": {
+            "description_html": "<b>Adams Rite MS1881-01 2-Way Bolt</b>\r\n\r\n<p>\r\nThe MS1881-01 series Two-Point Flushbolts offer greater convenience than flip-lever flushbolts as it is processed with one operation instead of two. It also promotes security by removing an element of human error. A positive blocking device makes it impossible to turn the key in the active door unless the inactive leaf has first been secured. This two-point flushbolt must be installed in conjunction with a pivoted bolt MS deadlock. It cannot be unlocked when pivoted bolt is in locked position. For its operation turn knob or lever 180 degree clockwise to throw hardened steel bolts into header and threshold and clear strike opening so pivoted MS bolt can enter from active door. Its counterclockwise turn retracts vertical bolts and blocks entry of pivoted bolt.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Two-Point Flushbolts:\r\n<ul>\r\n<li>Cylinder height: 31\" to 35\"</li>\r\n<li>Teardrop shape lever with red letters on clear decal indicating unlock direction only</li>\r\n<li>For wood header or threshold, 4005 Strike available separately.</li>\r\n<li>For doors over 84\" [2,133.6 mm] up to 120\" [3,048 mm].</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>NO Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Cylinder Operated Flushbolt",
+                "description": "The MS1881-01 series Two-Point Flushbolts offer greater convenience than flip-lever flushbolts as it is processed with one operation instead of two. It also promotes security by removing an element of human error. A positive blocking device makes it impossible to turn the key in the active door unless the inactive leaf has first been secured. This two-point flushbolt must be installed in conjunction with a pivoted bolt MS deadlock. It cannot be unlocked when pivoted bolt is in locked position. For its operation turn knob or lever 180 degree clockwise to throw hardened steel bolts into header and threshold and clear strike opening so pivoted MS bolt can enter from active door. Its counterclockwise turn retracts vertical bolts and blocks entry of pivoted bolt.",
+                "keywords": "MS1880 Series Two Point Flushbolt, Adams Rite MS1881-01, ADA-MS1881-01"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Adams Rite",
+                    "sort": "16"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "969472",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "250137",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "162190",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 628: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "628: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

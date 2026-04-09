@@ -1,0 +1,170 @@
+{
+    "legacy_product_id": "41738",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Decorative Beaded Cabinet Drop Pull Omnia 9440/100",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9440/100",
+            "mpn": "OMN-9440/100",
+            "price": "14.16",
+            "compare_at_price": "17.7",
+            "contractor_price": "13.45",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9440/100 decorative beaded cabinet drop pulls",
+                "ornate cabinet drop pulls",
+                "beaded brass cabinet drop pulls",
+                "solid brass ornate cabinet pulls",
+                "omnia decorative series cabinet hardware",
+                "omn-9440/100"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-9440-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/omn-9440-525.jpg?v=1716420808"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9440/100, Solid Brass Beaded Cabinet Pull</b>\r\n\r\n<p>\r\nThis painstakingly crafted cabinet pull, made by Omnia, is constructed of solid brass in great detail. Sophisticated, the beaded design will not go unnoticed in your home. Each piece is available in 5 finishes. This grants the cabinet pull a richness that is both elegant and timeless.\r\n</p>\r\n\r\n<p>\r\nAlso available: Similar design <a href=\"/site/department.cfm?id=41701\"><b>Omnia Ornate Cabinet Pulls</b></a> and matching <a href=\"/products/beaded-finger-cabinet-pull-omnia-9422-35\"><b>Beaded Finger Cabinet Pulls</b></a>. \r\n</p>\r\n\r\n<p>\r\nOmnia's line of sophisticated cabinet hardware have been painstakingly crafted by artisans who understand that a beautiful design must be as comfortable to the hand as it is pleasing to the eyes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Decorative Series Omnia 9440/100 Beaded Cabinet Pulls\r\n<ul>\r\n<li>Length (center of mount to center of mount):  3-7/8\"</li>\r\n<li>Width: 2\"</li>\r\n<li>Backplate Diameter: 1\"</li>\r\n<li>Solid brass construction regardless of finish.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Decorative Beaded Cabinet Drop Pull Omnia 9440/100",
+                "description": "Omnia 9440/100 Decorative Beaded Cabinet Drop Pull - This painstakingly crafted cabinet pull, made by Omnia, is constructed of solid brass in great detail. Sophisticated, the beaded design will not go unnoticed in your home. Each piece is available in 5 finishes. This grants the cabinet pull a richness that is both elegant and timeless.",
+                "keywords": "omnia 9440/100 decorative beaded cabinet drop pulls, ornate cabinet drop pulls, beaded brass cabinet drop pulls, solid brass ornate cabinet pulls, omnia decorative series cabinet hardware, omn-9440/100,"
+            },
+            "specifications": [
+                {
+                    "key": "Length (center of mount to center of mount)",
+                    "value": "3-7/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "2\""
+                },
+                {
+                    "key": "Backplate Diameter",
+                    "value": "1\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "146"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "244058",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "41711",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "41288",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "43356",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "237259",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "247851",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "235804",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "41410",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "41720",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "41759",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "41466",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Length (center of mount to center of mount): 3-7/8\"",
+                "Width: 2\"",
+                "Backplate Diameter: 1\"",
+                "Select Finish: US3 - Polished Brass",
+                "Select Finish: SB - Shaded Bronze",
+                "Select Finish: VB - Vintage Brass",
+                "Select Finish: VC - Vintage Copper",
+                "Select Finish: VI - Vintage Iron"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9440/100"
+                },
+                {
+                    "value": "SB - Shaded Bronze",
+                    "price_impact": 0.48,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9440/100"
+                },
+                {
+                    "value": "VB - Vintage Brass",
+                    "price_impact": 3.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9440/100"
+                },
+                {
+                    "value": "VC - Vintage Copper",
+                    "price_impact": 3.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9440/100"
+                },
+                {
+                    "value": "VI - Vintage Iron",
+                    "price_impact": 3.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9440/100"
+                }
+            ]
+        }
+    ]
+}

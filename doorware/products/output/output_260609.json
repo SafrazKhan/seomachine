@@ -1,0 +1,98 @@
+{
+    "legacy_product_id": "260609",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Deadlatch for Global GAL Series Keyed Commercial Levers",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-GTA-deadlatch",
+            "mpn": "GLO-GTA-deadlatch",
+            "price": "12.88",
+            "compare_at_price": "16.1",
+            "contractor_price": "11.59",
+            "shipping_weight": "0.1",
+            "tags": [
+                "GLO-GTA-deadlatch Global GAL Series Deadlatches",
+                "Deadlatch for Global GAL Series Keyed Commercial Levers",
+                "commercial door latches",
+                "GTA085 latch",
+                "GTA-085 latch",
+                "GLO-GTA085-SUL1-626",
+                "GLO-GTA096-SUL1-626"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-GTA-deadlatch_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-GTA-deadlatch_525.jpg?v=1717105848"
+        },
+        "text": {
+            "description_html": "<b>Global GAL Series Deadlatch</b>\r\n<p>For <a href=\"/products/standard-commercial-leversets-global-gal-series\">Global GAL Series Commercial Door Levers</a> and <a href=\"/products/grade-2-commercial-ball-knobset-global-svb-series\">Global SVB Series Commercial Door Knobs</a>\r\n</p>\r\n<p>\r\nDeadlatch for  Keyed function (Keyed Entry, Classroom and Storeroom)   Levers.  <br>Available with 2-3/4\" or 2-3/8\" backsets.\r\n</p>\r\n<p>\r\nUL listed. Includes 1-1/8\" wide x 2-3/8\" high face plate with <b>Satin Chrome</b> finish.\r\n</p>",
+            "seo": {
+                "title": "Deadlatch for Global GAL Series Keyed Commercial Levers",
+                "description": "For Global GAL Series Commercial Door Levers. Deadlatch for  Keyed function (Keyed Entry, Classroom and Storeroom)   Levers.  Available with 2-3/8 or 2-3/4 backsets.",
+                "keywords": "GLO-GTA-deadlatch Global GAL Series Deadlatches, Deadlatch for Global GAL Series Keyed Commercial Levers, commercial door latches, GTA085 latch, GTA-085 latch, GLO-GTA085-SUL1-626, GLO-GTA096-SUL1-626,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Global Lock Sets",
+                    "sort": "11"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "260621",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "257779",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "194308",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "260741",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Backset: GTA096-SUL1-626: 2-3/4in. Backset",
+                "Select Backset: GTA085-SUL1-626: 2-3/8in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GTA096-SUL1-626: 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GTA085-SUL1-626: 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

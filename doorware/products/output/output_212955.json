@@ -1,0 +1,112 @@
+{
+    "legacy_product_id": "212955",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:09:02.500760"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Door Closer Arm for LCN 2030 Series, LCN-2030-3077T",
+            "vendor": "LCN",
+            "status": "ACTIVE",
+            "sku": "LCN-2030-3077T",
+            "mpn": "LCN-2030-3077T",
+            "price": "163.2",
+            "compare_at_price": "192.0",
+            "contractor_price": "155.04",
+            "shipping_weight": "1.5",
+            "tags": [
+                "LCN-2030-3034 Door Closer Arm for LCN 2030 Series Concealed Door Closers",
+                "LCN parts",
+                "LCN closer parts",
+                "LCN pacer parts",
+                "closer arms for LCN door closers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LCN-2030-3077T-closer-arm_525.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LCN-2030-3077T-closer-arm_525.gif?v=1717105778"
+        },
+        "text": {
+            "description_html": "<b>LCN 2030 Series Door Closer Arm</b>\r\n<p>This is a replacement Arm for <a href=\"/products/lcn-model-2030-series-store-front-concealed-door-closer\"><b>LCN 2030 Series</b></a> (LCN Pacer) Concealed Door Closer.\r\n</p>\r\n<p>Also available other <a href=\"/search?type=product&q=LCN Door Closer Parts\"><b>LCN Door Closer Parts</b></a>\r\n</p>\r\n<p>This door closer Arm is Handed. Package includes the #10-32 set screw. Aluminum finish.\r\n</p>\r\n<p><b>*Sold Individually</b></p>\r\n<p>\r\n<b>*Important</b> When selecting <b>Door Hand</b> for this door closer arm:  \r\n<br>\r\n1. Stand on the <b>Push Side</b> of the door, facing the door. <br>\r\n2. If the \"Pivot Hinge\" is on your \"Right\", choose \"Right Hand Door\". <br>\r\n3. If the \"Pivot Hinge\" is on your \"Left\", choose \"Left Hand Door\". <br>\r\n\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/closer-handing.gif?v=1704354510\"  width=\"410\" height=\"195\" border=\"0\"alt=\"door closer handing\">\r\n</p>",
+            "seo": {
+                "title": "Door Closer Arm for LCN 2030 Series, LCN-2030-3077T",
+                "description": "Replacement Arm for  LCN 2030 Series (LCN Pacer) Concealed Door Closers. This LCN closer arm is handed, available for left or right hand doors.",
+                "keywords": "LCN-2030-3034 Door Closer Arm for LCN 2030 Series Concealed Door Closers, LCN parts, LCN closer parts, LCN pacer parts, closer arms for LCN door closers,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closer Parts",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "212953",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "195856",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "184039",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "236952",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "212946",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "443961",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "804850",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "196107",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Door Hand: 2030-3077TRH: Right Hand Door",
+                "Select Door Hand: 2030-3077TLH: Left Hand Door"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Hand",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2030-3077TRH: Right Hand Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2030-3077TLH: Left Hand Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "legacy_product_id": "43031",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Charles Cabinet Knob, Omnia 9158",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "OMN-9158/30",
+            "mpn": "OMN-9158/30",
+            "price": "19.2",
+            "compare_at_price": "24.0",
+            "contractor_price": "18.24",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9158 simple cabinet knobs",
+                "solid brass cabinet knobs",
+                "kitchen cabinet knobs",
+                "omnia cabinet knobs",
+                "omn-9158/25",
+                "omn-9158/30",
+                "omn-9158/40",
+                "Simple brass knobs",
+                "simple kitchen cabinet knobs Omnia 9158",
+                "solid brass drawer knobs",
+                "Simple Omnia 9158 drawer pulls",
+                "charles Cabinet Knobs",
+                "Omnia 9158 Charles Cabinet Door Knobs",
+                "Solid Brass Charles Cabinet Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-9158-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-9158-525.jpg?v=1716420843"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9158/30, Solid Brass Charles Cabinet Knob</b>\r\n\r\n<p>\r\nThis Charles Cabinet Knob is available in 5 finishes, all of which are beautifully crafted. The Solid Brass Charles Cabinet Knob will be sure to add a classic look to any home. Simple, clean design insures it will stay in style. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Omnia 9158 Cabinet Door Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter: 1-3/16\"</li>\r\n<li>Projection: 1-5/32\"</li>\r\n<li>Rose Diameter: 1-1/2\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Charles Cabinet Knob",
+                "description": "This Charles Cabinet Knob is available in 5 finishes, all of which are beautifully crafted. The Solid Brass Charles Cabinet Knob will be sure to add a classic look to any home. Simple, clean design insures it will stay in style. ",
+                "keywords": "omnia 9158 simple cabinet knobs, solid brass cabinet knobs, kitchen cabinet knobs, omnia cabinet knobs, omn-9158/25, omn-9158/30, omn-9158/40, Simple brass knobs, simple kitchen cabinet knobs Omnia 9158, solid brass drawer knobs, Simple Omnia 9158 drawer pulls, charles Cabinet Knobs, Omnia 9158 Charles Cabinet Door Knobs, Solid Brass Charles Cabinet Knobs,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Diameter",
+                    "value": "1-3/16\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-5/32\""
+                },
+                {
+                    "key": "Rose Diameter",
+                    "value": "1-1/2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia Decorative Collection Cabinet Knobs And Pulls",
+                    "sort": "3"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "7"
+                },
+                {
+                    "name": "Omnia Cabinet Knobs",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "43208",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "878241",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "37723",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "653206",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "188488",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "178362",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "41523",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "43356",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "37975",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "477558",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "442872",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Diameter: 1-3/16\"",
+                "Projection: 1-5/32\"",
+                "Rose Diameter: 1-1/2\"",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US10B: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US3"
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26"
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US15"
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US14"
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US10B"
+                }
+            ]
+        }
+    ]
+}

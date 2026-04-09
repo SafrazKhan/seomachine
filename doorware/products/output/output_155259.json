@@ -1,0 +1,185 @@
+{
+    "legacy_product_id": "155259",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Trelawny Door Lever Trim Kit, DoralLock TK6861",
+            "vendor": "Doralock",
+            "status": "ARCHIVED",
+            "sku": "DOR-TK6861",
+            "mpn": "DOR-TK6861",
+            "price": "20.0",
+            "compare_at_price": "20.0",
+            "contractor_price": "20.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Dorallock TK6861",
+                "DOR-TK6861",
+                "Trelawny Trim Kits",
+                "Trelawny inside lever replacements",
+                "Trelawny lever Trim Kits",
+                "Trelawny lever Trim Kits",
+                "dorallock Trelawny levers",
+                "doral lock Trelawny levers",
+                "dorallock TK6861 Trelawny lever TrimKits",
+                "handover handleset lever replacements",
+                "montego handleset lever replacements"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/dorallock-trelawny2.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/dorallock-trelawny2.jpg?v=1716421472"
+        },
+        "text": {
+            "description_html": "<b>DoralLock TK6861, Trelawny Lever Trim Kit for Handlesets</b>\r\n\r\n<p>\r\nDoralLock's Trelawny Lever would look great in almost any home. This traditional lever is made out of solid brass and is available in 7 finishes. The Trelawny Lever Inside Trim Kit used with the DoralLock <a href=\"/products/hanover-single-cylinder-handleset-dorallock-803871b\">Hanover Handleset</a> and the <a href=\"/products/single-cylinder-montego-handleset-dorallock-810871\">Montego Handleset</a>. This is an replacement inside handle kit for these handelsets only as it is just the lever and rosette.\r\n</p>\r\n\r\n<p>\r\nClick here or a complete <a href=\"/products/trelawny-door-lever-dorallock-6860\">Trelawny Lever Set</a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the DoralLock TK6861 Trelawny Lever Trim Kit:\r\n<li>Lever Length: 5-5/8\"</li>\r\n<li>Overall Length: 2-5/8\"</li>\r\n<li>Projection: 2-3/4\"</li>\r\n<li>Rose Diameter: 2-1/2\"</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DOR-TK6861-specifications.pdf?v=1704262207\" target=\"new\"><b>DoralLock TK6861 Trelawny Trim Kit (PDF)</b></a>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/door-handing-picture.gif?v=1704352978\" border=\"0\" width=\"410\" height=\"150\" alt=\"door handing - left or right handed lever\">\r\n</p>",
+            "seo": {
+                "title": "Trelawny Door Lever Trim Kit, DoralLock TK6861",
+                "description": "DoralLock TK6861, Trelawny Lever Trim Kit for Handlesets - DoralLock's Trelawny Lever would look great in almost any home. This traditional lever is made out of solid brass and is available in 7 finishes. The Trelawny Lever Inside Trim Kit used with the DoralLock Hanover Handleset and the Montego Handleset. This is an replacement inside handle kit for these handelsets only as it is just the lever and rosette.",
+                "keywords": "Dorallock TK6861, DOR-TK6861, Trelawny Trim Kits, Trelawny inside lever replacements, Trelawny lever Trim Kits, Trelawny lever Trim Kits, dorallock Trelawny levers, doral lock Trelawny levers, dorallock TK6861 Trelawny lever TrimKits, handover handleset lever replacements, montego handleset lever replacements,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "DoralLock Discontinued Misc",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "324984",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "354726",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "233634",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "40595",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "354247",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "327786",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "353565",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "353534",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "147567",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US10B - Oil Rubbed Bronze",
+                "Select Finish: US15 - Satin Nickel",
+                "Select Finish: US15A - Antique Nickel",
+                "Select Finish: US26 - Polished Chrome",
+                "Select Finish: US26D - Brushed Chrome",
+                "Select Finish: US5 - Antique Brass",
+                "Select Finish: CR003- PVD Lifetime Polished Brass",
+                "Select Handing: Right Handing",
+                "Select Handing: Left Handing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15A - Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26D - Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US5 - Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CR003- PVD Lifetime Polished Brass",
+                    "price_impact": 0.3,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Right Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Left Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

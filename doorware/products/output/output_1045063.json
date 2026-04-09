@@ -1,0 +1,148 @@
+{
+    "legacy_product_id": "1045063",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Floor Mounted Magnetic Door Stop, Deltana MDHM",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-MDHM",
+            "mpn": "DEL-MDHM",
+            "price": "35.41",
+            "compare_at_price": "47.21",
+            "contractor_price": "33.64",
+            "shipping_weight": "2.0",
+            "tags": [
+                "deltana MDHM",
+                "Floor Mounted Magnetic Door Stop and Holders",
+                "Floor Mounted Magnetic Door Stops",
+                "2 Inch Modern Magnetic Door Holders",
+                "magnetic doorstops",
+                "Deltana MDHMU19",
+                "Deltana MDHMU32D"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-MDHM-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-MDHM-5251.jpg?v=1716427887"
+        },
+        "text": {
+            "description_html": "<b>Deltana MDHM, Floor Mounted Magnetic Door Stop and Holder</b>\r\n\r\n<p>\r\nThe 2 Inch Modern Magnetic Door Holder is installed by floor mounting the catch and mounting the magnet base onto your door. When the door is opened, the magnet catches on to the stainless steel holder, thus securing the door. The floor mounted body is made high-impact black nylon with the inner stainless steel pop-out catch. The Floor Mounted Magnetic Door Stop is available in 2 finishes. \r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-MDHM-installed.jpg?v=1704354578\" width=\"437\" height=\"266\" border=\"0\" atl=\"Deltana MDHM Installed\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Deltana MDHM Modern Magnetic Door Holder:\r\n<ul>\r\n<li>Catch Height: 2\"</li>\r\n<li>Magnet Projection: 1-1/2\"</li>\r\n<li>Magnet Mount Center to Center: 7/8\"</li>\r\n<li>Magnet Mount Height: 1-1/4\"</li>\r\n<li>Magnet Mount Width: 1-3/8\"</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-MDHM-specifications.pdf?v=1704262416\" target=\"new\"><b>Deltana MDHM Dimensions (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Floor Mounted Magnetic Door Stop",
+                "description": "The 2 Inch Modern Magnetic Door Holder is installed by floor mounting the catch and mounting the magnet base onto your door. When the door is opened, the magnet catches on to the stainless steel holder, thus securing the door. The floor mounted body is made high-impact black nylon with the inner stainless steel pop-out catch. The Floor Mounted Magnetic Door Stop is available in 2 finishes.",
+                "keywords": "deltana MDHM, Floor Mounted Magnetic Door Stop and Holders, Floor Mounted Magnetic Door Stops, 2 Inch Modern Magnetic Door Holders, magnetic doorstops, Deltana MDHMU19, Deltana MDHMU32D,"
+            },
+            "specifications": [
+                {
+                    "key": "Catch Height",
+                    "value": "2\""
+                },
+                {
+                    "key": "Magnet Projection",
+                    "value": "1-1/2\""
+                },
+                {
+                    "key": "Magnet Mount Center to Center",
+                    "value": "7/8\""
+                },
+                {
+                    "key": "Magnet Mount Height",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Magnet Mount Width",
+                    "value": "1-3/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Deltana Door Stops and Door Bumpers",
+                    "sort": "14"
+                },
+                {
+                    "name": "Door Stops, Bumpers, and Holders",
+                    "sort": "7"
+                },
+                {
+                    "name": "New Hardware",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "7018",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "984392",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "875931",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "448488",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1070043",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "976915",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "714206",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "222135",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Catch Height: 2\"",
+                "Magnet Projection: 1-1/2\"",
+                "Magnet Mount Center to Center: 7/8\"",
+                "Magnet Mount Height: 1-1/4\"",
+                "Magnet Mount Width: 1-3/8\"",
+                "Select Finish: U19: Matte Black",
+                "Select Finish: US32D: Satin Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-MDHM-19-SM1.jpg?v=1774579769",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-MDHM-19-LG1.jpg?v=1711366486"
+                },
+                {
+                    "value": "US32D: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-MDHM-32D-SM.jpg?v=1774579772",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-MDHM-32D-LG.jpg?v=1711366486"
+                }
+            ]
+        }
+    ]
+}

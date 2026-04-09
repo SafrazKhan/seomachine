@@ -1,0 +1,135 @@
+{
+    "legacy_product_id": "1058374",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3-1/2 Inch Deco Nouveau Stainless Steel Cabinet Pull, Acorn AZC-202-3.5",
+            "vendor": "Acorn",
+            "status": "ACTIVE",
+            "sku": "ACO-AZC-202-3.5",
+            "mpn": "ACO-AZC-202-3.5",
+            "price": "48.4",
+            "compare_at_price": "60.5",
+            "contractor_price": "45.98",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Absolute Zero Collection Deco Nouveau  Stainless Steel Cabinet Pulls Acorn AZC-202-3.5",
+                "Available in Brushed or Polished Stainless Steel",
+                "AZC 202",
+                "Stainless Steel Kitchen Cabinet Pulls",
+                "art deco cabinet hardware",
+                "retro knobs",
+                "modern cabinet pulls",
+                "acorn 202-3.5",
+                "3-1/2 Inch Deco Nouveau Stainless Steel Cabinet Pulls",
+                "Deco Nouveau Stainless Steel 3.5 Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ACO-AZC-202-3.5-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-AZC-202-3.5-525.jpg?v=1716428002"
+        },
+        "text": {
+            "description_html": "<b>Acorn AZC-202-3.5, Deco Nouveau Stainless Steel 3.5 Cabinet Pull</b>\r\n\r\n<p>\r\nThe 3-1/2 Inch Deco Nouveau Stainless Steel Cabinet Pull is a modern pull that will add contemporary flair to any kitchen cabinet. It is 5 inches in length with a 3-1/2 inch center to center. Made out of stainless steel, the Deco Nouveau Stainless Steel 3.5 Cabinet Pull is available in polished and brushed finishes.\r\n</p>\r\n\r\n<p>\r\nAlso Available: <a href=\"/products/3-inch-deco-nouveau-stainless-steel-cabinet-pull-acorn-azc-202-3\"><b>3 Inch Center to Center Deco Nouveau Cabinet Pull</b></a> and <a href=\"/products/4-inch-deco-nouveau-stainless-steel-cabinet-pull-acorn-azc-202-4\"><b>4 Inch Center to Center Deco Nouveau Cabinet Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Absolute Zero Collection Deco Nouveau Cabinet Pull Acorn AZC-202-3.5:\r\n<ul>\r\n<li>Material: Solid Stainless Steel</li>\r\n<li>Length (c.c hole spacing): 3.5\"</li>\r\n<li>Overall Length: 5\"</li>\r\n<li>Width: 7/8\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n<li>Available in polished stainless steel or brushed stainless steel.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "3-1/2 Inch Deco Nouveau Stainless Steel Cabinet Pull",
+                "description": "The 3-1/2 Inch Deco Nouveau Stainless Steel Cabinet Pull is a modern pull that will add contemporary flair to any kitchen cabinet. It is 5 inches in length with a 3-1/2 inch center to center. Made out of stainless steel, the Deco Nouveau Stainless Steel 3.5 Cabinet Pull is available in polished and brushed finishes.",
+                "keywords": "Absolute Zero Collection Deco Nouveau  Stainless Steel Cabinet Pulls Acorn AZC-202-3.5, Available in Brushed or Polished Stainless Steel, AZC 202, Stainless Steel Kitchen Cabinet Pulls, art deco cabinet hardware, retro knobs, modern cabinet pulls, acorn 202-3.5, 3-1/2 Inch Deco Nouveau Stainless Steel Cabinet Pulls, Deco Nouveau Stainless Steel 3.5 Cabinet Pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Stainless Steel"
+                },
+                {
+                    "key": "Length (c.c hole spacing)",
+                    "value": "3.5\""
+                },
+                {
+                    "key": "Overall Length",
+                    "value": "5\""
+                },
+                {
+                    "key": "Width",
+                    "value": "7/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-1/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Acorn Cabinet Pulls",
+                    "sort": "20"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "261954",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "261984",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "568033",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "822693",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "591376",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "930248",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Stainless Steel",
+                "Length (c.c hole spacing): 3.5\"",
+                "Overall Length: 5\"",
+                "Width: 7/8\"",
+                "Projection: 1-1/8\"",
+                "Select Finish: BRU: Brushed Stainless Steel",
+                "Select Finish: POL: Polished Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BRU: Brushed Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "POL: Polished Stainless Steel",
+                    "price_impact": 4.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

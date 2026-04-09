@@ -1,0 +1,118 @@
+{
+    "legacy_product_id": "1007485",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Extra Heavy Door 3/4 Inch Offset Intermediate Pivot, Rixson ML19",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "RIX-ML19",
+            "mpn": "RIX-ML19",
+            "price": "384.0",
+            "compare_at_price": "480.0",
+            "contractor_price": "384.0",
+            "shipping_weight": "4.0",
+            "tags": [
+                "RIX-ML19 Extra Heavy Door 3/4 Inch Offset Intermediate Pivot Set",
+                "RIXson ML19 Heavy Door Intermediate Pivot Sets",
+                "Intermediate Pivots",
+                "Intermediate door Pivots",
+                "center hinges",
+                "center door hinges",
+                "heavy door hinges",
+                "hinges for heavy doors",
+                "offset door pivots",
+                "super heavy door offset door pivots",
+                "lead lined doors",
+                "lead door hinges"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RIX-ML19-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RIX-ML19-525.jpg?v=1716427635"
+        },
+        "text": {
+            "description_html": "<b>Rixson ML19 Extra Heavy Door Intermediate Door Pivot Set</b>\r\n\r\n<p>\r\nThese 3/4\" offset intermediate pivots are engineered for durability on extra heavy doors or lead lined doors. Set includes intermediate pivot with installation hardware. \r\n</p>\r\n\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ABH-L019_size.gif?v=1704354709\" width=\"600\" height=\"300\" border=\"0\" alt=\"Rixson ML19 EXTRA Heavy Door Intermediate Pivot Set Size\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b> for Rixson ML19 Intermediate Door Pivot\r\n<ul>\r\n<li>Offset: 3/4\"</li>\r\n<li>Door Weight: Up to 1000 lbs</li>\r\n<li>Hinge Leaf Height: 5\"</li>\r\n<li>Hinge Leaf Width: 1-1/8\"</li>\r\n<li>Total Hinge Width: 4-1/4\"</li>\r\n<li>Hinge Type: Full Mortise</li>\r\n<li>Supplied with needle bearings</li>\r\n<li>US32D model UL listed for use on 3 hour fire doors</li>\r\n<li>BHMA/ANSI C07321/3525</li>\r\n<li><b>Handed - Must specify left hand door or right hand door when ordering</b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Important</b> When selecting <b>Door Hand</b> for this pivot hinge: \r\n<br>\r\n1. Stand on the <b>Push Side</b> of the door, facing the door. <br>\r\n2. If the \"Pivot Hinge\" is on your \"Left\", choose \"Left Hand Door\". <br>\r\n3. If the \"Pivot Hinge\" is on your \"Right\", choose \"Right Hand Door\". <br>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/closer-handing.gif?v=1704354510\"  width=\"410\" height=\"195\" border=\"0\"alt=\"door handing\">\r\n</p>",
+            "seo": {
+                "title": "Extra Heavy Door 3/4 Inch Offset Intermediate Pivot",
+                "description": "3/4 inch offset intermediate pivots are engineered for durability on extra heavy doors or lead lined doors. Set includes intermediate pivot with installation hardware. These are used in conjunction with  Extra Heavy Door 3/4 Inch Offset Pivot Set",
+                "keywords": "RIX-ML19 Extra Heavy Door 3/4 Inch Offset Intermediate Pivot Set, RIXson ML19 Heavy Door Intermediate Pivot Sets, Intermediate Pivots, Intermediate door Pivots, center hinges, center door hinges, heavy door hinges, hinges for heavy doors, offset door pivots, super heavy door offset door pivots, lead lined doors, lead door hinges,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Rixson",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "560776",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "560763",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "165190",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "204552",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 626: Satin Chrome",
+                "Select Door Hand: Left Hand Door",
+                "Select Door Hand: Right Hand Door"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Hand",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Left Hand Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Right Hand Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

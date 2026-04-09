@@ -1,0 +1,45 @@
+{
+    "legacy_product_id": "1204040",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "UPS Address Correction Charge",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "ADCRTN",
+            "mpn": "ADCRTN",
+            "price": "21.0",
+            "compare_at_price": "21.0",
+            "contractor_price": "21.0",
+            "shipping_weight": "0.0",
+            "tags": [
+                "UPS Address Correction Charge"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/UPS.Logo-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/UPS.Logo-525.jpg?v=1717791551"
+        },
+        "text": {
+            "description_html": "<B>UPS Address Correction Charge</b>",
+            "seo": {
+                "title": "UPS Address Correction Charge",
+                "description": "UPS Address Correction Charge",
+                "keywords": "UPS Address Correction Charge"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

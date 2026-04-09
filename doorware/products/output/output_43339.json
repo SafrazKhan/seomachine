@@ -1,0 +1,182 @@
+{
+    "legacy_product_id": "43339",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Chicago Cabinet Pull, Omnia 9464",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9464",
+            "mpn": "OMN-9464",
+            "price": "22.35",
+            "compare_at_price": "29.8",
+            "contractor_price": "21.23",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9462 basic tube cabinet pulls",
+                "basic cabinet pulls",
+                "omnia solid brass cabinet pulls",
+                "solid brass kitchen cabinet pulls",
+                "simple brass pulls",
+                "standard cabinet hardware",
+                "9464/100",
+                "9464/125",
+                "Chicago Cabinet Pulls",
+                "midwest cabinet hardware",
+                "Chicago Solid Brass Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-9464-100-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-9464-100-525.jpg?v=1716420865"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9464, Chicago Solid Brass Cabinet Pull</b>\r\n\r\n<p>\r\nJust because this pull is simple in design, doesn't mean that it is boring. Sometimes classic design offers the most elegant style--granting a timelessness to any home with ease. Made of solid brass, the Chicago Cabinet Pull emulates the quality that Omnia products are known for. The Chicago Solid Brass Cabinet Pull is offered in 5 beautiful finishes, making it easy to find just the right color for your decor.\r\n</p>\r\n\r\n<p>\r\nAlso Available <a href=\"/products/3-8-inch-diameter-chicago-stainless-steel-cabinet-pull-omnia-9464-us32d\"><b>Stainless Steel Chicago Cabinet Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Midwest Chicago Cabinet Pull:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>9464/100</b>\r\n<ul>\r\n<li>Length center to center: 4\"</li>\r\n<li>Projection: 1-1/2\"</li>\r\n</ul>\r\n<br>\r\n<b>9464/125</b>\r\n<ul>\r\n<li>Length center to center: 5\"</li>\r\n<li>Projection: 1-1/2\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Chicago Cabinet Pull",
+                "description": "Just because this pull is simple in design, doesn't mean that it is boring. Sometimes classic design offers the most elegant style--granting a timelessness to any home with ease. Made of solid brass, the Chicago Cabinet Pull emulates the quality that Omnia products are known for. The Chicago Solid Brass Cabinet Pull is offered in 5 beautiful finishes, making it easy to find just the right color for your decor.\r\n",
+                "keywords": "omnia 9462 basic tube cabinet pulls, basic cabinet pulls, omnia solid brass cabinet pulls, solid brass kitchen cabinet pulls, simple brass pulls, standard cabinet hardware, 9464/100, 9464/125, Chicago Cabinet Pulls, midwest cabinet hardware, Chicago Solid Brass Cabinet Pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "229"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "823292",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "823820",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "38143",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "43042",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "7999",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "192454",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "7338",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "42129",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "823852",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Select Size: 9464/100: 4in. Length (c.c.)",
+                "Select Size: 9464/125: 5in. Length (c.c.)",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US26D: Satin Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "9464/100: 4in. Length (c.c.)",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9464/100"
+                },
+                {
+                    "value": "9464/125: 5in. Length (c.c.)",
+                    "price_impact": 1.88,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9464/125"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US3"
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 3.9,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26"
+                },
+                {
+                    "value": "US26D: Satin Chrome",
+                    "price_impact": 3.9,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26D"
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 4.35,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US14"
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 4.35,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US15"
+                }
+            ]
+        }
+    ]
+}

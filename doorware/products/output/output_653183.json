@@ -1,0 +1,152 @@
+{
+    "legacy_product_id": "653183",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Ravenna Knocker, Brass Accents A03-K4018",
+            "vendor": "BrassAccents",
+            "status": "ACTIVE",
+            "sku": "BRA-A03-K4018",
+            "mpn": "BRA-A03-K4018",
+            "price": "38.99",
+            "compare_at_price": "48.0",
+            "contractor_price": "36.48",
+            "shipping_weight": "1.0",
+            "tags": [
+                "historical building decorating",
+                "traditional home decorating",
+                "colonial america decor",
+                "engravable door knockers",
+                "family name door knockers",
+                "Solid Brass Ravenna Door Knockers",
+                "Ravenna Knockers",
+                "Brass Accents A03-K4018",
+                "BRA-A03-K4018",
+                "Ravenna Front Door Knockers",
+                "Traditional Ravenna Solid Brass Knockers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BRA-A03-K4018-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BRA-A03-K4018-525.jpg?v=1716425172"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents A03-K4018, Ravenna Front Door Knocker</b>\r\n\r\n<p>\r\nThe Ravenna Knocker is a beautiful example of traditional decor. It will add a historical touch to your front door. It is available in a wide array of finishes. It is 6-7/8 inches tall and 3 inches wide. The Ravenna Door Knocker comes packaged with the installation hardware.\r\n</p>\r\n\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance. Their products are hand finished in the USA. They are one of the world's leading crafters of cast-brass and hot-forged decorative brass hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Traditional Ravenna Solid Brass Knocker:\r\n<ul>\r\n<li>Height: 6-7/8\"</li>\r\n<li>Width: 3\"</li>\r\n<li>Mounting Center: 5\"</li>\r\n<li>Projection: 5/8\"</li>\r\n<li>Material: Solid Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>",
+            "seo": {
+                "title": "Ravenna Knocker, Brass Accents A03-K4018",
+                "description": "Brass Accents A03-K4018, Ravenna Knocker - The Ravenna Knocker is a beautiful example of traditional decor. It will add a historical touch to your front door. It is available in a wide array of finishes. It is 6-7/8 inches tall and 3 inches wide. The Ravenna Door Knocker comes packaged with the installation hardware.",
+                "keywords": "historical building decorating, traditional home decorating, colonial america decor, engravable door knockers, family name door knockers, Solid Brass Ravenna Door Knockers, Ravenna Knockers, Brass Accents A03-K4018, BRA-A03-K4018, Ravenna Front Door Knockers, Traditional Ravenna Solid Brass Knockers,"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "6-7/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3\""
+                },
+                {
+                    "key": "Mounting Center",
+                    "value": "5\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "5/8\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knockers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knockers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-6",
+            "collections": [
+                {
+                    "name": "Brass Accents Door Knockers",
+                    "sort": "21"
+                },
+                {
+                    "name": "Door Knockers",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "143869",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "157004",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "239938",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "9998",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "304229",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "567356",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "143885",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Height: 6-7/8\"",
+                "Width: 3\"",
+                "Mounting Center: 5\"",
+                "Projection: 5/8\"",
+                "Material: Solid Brass",
+                "Select Finish: Polished Brass",
+                "Select Finish: Antique Brass",
+                "Select Finish: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

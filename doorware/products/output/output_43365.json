@@ -1,0 +1,144 @@
+{
+    "legacy_product_id": "43365",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Avis Cabinet Knob, Omnia 9523/30",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9523/30",
+            "mpn": "OMN-9523/30",
+            "price": "8.1",
+            "compare_at_price": "10.8",
+            "contractor_price": "7.7",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9523/30 solid brass cabinet knobs",
+                "fashionable cabinet knobs",
+                "solid brass kitchen cabinet knobs",
+                "contemporary brass cabinet knobs",
+                "modern brass cabinet knobs",
+                "decorative cabinet knobs",
+                "solid brass cabinet hardware",
+                "modern Kitchen cabinet door knobs",
+                "Avis Cabinet Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-9523-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/omn-9523-525.jpg?v=1716420867"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9523/30, Avis Solid Brass Cabinet Knob</b>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-99924-SM.jpg?v=1704354660\" width=\"179\" height=\"203\" border=\"0\"  align=\"right\" alt=\"Omnia 9523 Side View\">\r\n</p>\r\n\r\n<p>\r\nUndeniably alluring in design, the Avis Cabinet Knob will add a modern accent to any door. It is available in 4 finishes; and the grip is formed to fit a hand for a very contemporary look. The Avis Solid Brass Cabinet Knob comes packaged with the mounting hardware. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Avis Kitchen Cabinet Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 1-3/16\"</li>\r\n<li>Projection: 15/16\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Avis Cabinet Knob",
+                "description": "Undeniably alluring in design, the Avis Cabinet Knob will add a modern accent to any door. It is available in 4 finishes; and the grip is formed to fit a hand for a very contemporary look. The Avis Solid Brass Cabinet Knob comes packaged with the mounting hardware. \r\n",
+                "keywords": "omnia 9523/30 solid brass cabinet knobs, fashionable cabinet knobs, solid brass kitchen cabinet knobs, contemporary brass cabinet knobs, modern brass cabinet knobs, decorative cabinet knobs, solid brass cabinet hardware, modern Kitchen cabinet door knobs, Avis Cabinet Knobs,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "1-3/16\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "15/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "236"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "42677",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "42711",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "43161",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "43356",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "7237",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "187831",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 1-3/16\"",
+                "Projection: 15/16\"",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US26D: Satin Chrome",
+                "Select Finish: US15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9523/30-US3"
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 1.88,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9523/30-US26"
+                },
+                {
+                    "value": "US26D: Satin Chrome",
+                    "price_impact": 1.88,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9523/30-US26D"
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 2.18,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9523/30-US15"
+                }
+            ]
+        }
+    ]
+}

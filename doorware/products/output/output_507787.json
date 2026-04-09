@@ -1,0 +1,123 @@
+{
+    "legacy_product_id": "507787",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Grade 2 Commercial Deadbolt, Global GLC",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-GLC560UL-626",
+            "mpn": "GLO-GLC560UL-626",
+            "price": "56.35",
+            "compare_at_price": "80.5",
+            "contractor_price": "50.72",
+            "shipping_weight": "2.0",
+            "tags": [
+                "GLO-GLC560UL-626 Standard Commercial Deadbolts",
+                "Brushed Chrome deadbolts",
+                "global door controls deadbolts",
+                "commercial door locks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/global-deadbolts_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/global-deadbolts_525.jpg?v=1717106119"
+        },
+        "text": {
+            "description_html": "<b>Global Standard Commercial Deadbolt</b>\r\n\r\n<p>\r\nANSI Grade 2 certified deadbolt  is adjustable to fit 1-3/8 inches to 2 inches door thicknesses; and it will fit a backsets of 2-3/8 or 2-3/4 inches.  Easy installation on wood or metal doors.\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of the Global Standard Commercial Deadbolt:\r\n<ul>\r\n<li>Meets ANSI 156.2 grade 2 requirements.</li>\r\n<li>Diameter: 2-1/2\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n<li>Door Thickness: Adjustable 1-3/8\" to 2\"</li>\r\n<li>Backset: Adjustable for <b>2-3/4\"</b> or <b>2-3/8\"</b></li>\r\n<li>Latch Bolt: 1-1/8\" x 2-1/4\" UL Listed, 1\" throw</li>\r\n<li>Strike: 1-1/8\" x 2-3/4\"  no-lip square corner</li>\r\n<li>Lock Cylinder: 5 pin solid brass Schlage \"C\" keyway standard.</li>\r\n<li>Trim Ring: Solid Security collar reinforced.</li>\r\n<li>Finish: Standard <b>Brushed Chrome</b></li>\r\n<li>Manufactures Warranty: Lifetime Mechanical - 10 Year Finish</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<b>Single Cylinder Deadbolt:</b> Deadbolt thrown or retracted by key from the outside and by turn unit on the inside. Bolt automatically deadlocks when fully thrown.\r\n</p>",
+            "seo": {
+                "title": "Grade 2 Commercial Deadbolt, Global GLC",
+                "description": "An ANSI Grade 2 single cylinder deadbolt. This standard commercial deadbolt is adjustable to fit 1-3/8 inches to 2 inches door thicknesses; and it will fit door backsets of 2-3/4 inches, Brushed Chrome finish.",
+                "keywords": "GLO-GLC560UL-626 Standard Commercial Deadbolts, Brushed Chrome deadbolts, global door controls deadbolts, commercial door locks,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Global Lock Sets",
+                    "sort": "7"
+                },
+                {
+                    "name": "Commercial Locks",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "225589",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "198107",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "549603",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "556044",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "508569",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "30447",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "507751",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "15120",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Keying: Only Ordered One Lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

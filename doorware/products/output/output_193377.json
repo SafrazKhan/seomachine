@@ -1,0 +1,160 @@
+{
+    "legacy_product_id": "193377",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1-Inch Zinc Mortise Cylinder Lock, TH1100-ZC",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-TH1100-ZC",
+            "mpn": "GLO-TH1100-ZC",
+            "price": "15.17",
+            "compare_at_price": "21.67",
+            "contractor_price": "13.65",
+            "shipping_weight": "0.25",
+            "tags": [
+                "GLO-TH1100-ZC",
+                "Global TH1100-ZC 1-Inch Zinc Mortise Cylinder Lock",
+                "mortise lock storefront doors locks",
+                "Aluminum Door locks",
+                "aluminum glass Door locks",
+                "Global TH1100-ZCx1-AL",
+                "Global TH1100-ZCx1-DU",
+                "store lock cylinders",
+                "store door locks",
+                "store locks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-TH1100-ZC_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-TH1100-ZC_525.jpg?v=1716421864"
+        },
+        "text": {
+            "description_html": "<b>1 Inch Mortise Lock Cylinder for Storefront Doors, Zinc</b>\r\n<p>\r\nStorefront door mortise (threaded) cylinder lock for Adams Rite style <a href=\"/products/storefront-door-mortise-lock-deadbolt-body-th1101\"><b>Mortise Deadbolt</b></a>, <a href=\"/products/storefront-door-mortise-lock-deadlatch-body-th1103\"><b>Mortise Deadlatch</b></a> or \r\n<a href=\"/products/sliding-door-mortise-lock-hookbolt-body-th1102\"><b>Mortise Hookbolt</b></a>.\r\n</p>\r\n<p>\r\n<b>Specifications:</b> for Mortise Lock Cylinder\r\n<ul>\r\n<li>Keyed Mortise Cylinder (threaded to screw into mortise lock body)</li>\r\n<li>Key Cylinder 5-pin Schlage \"C\" Keyway</li>\r\n<li>1\" Body Length</li>\r\n<li>Standard 1-5/32“ Diameter</li>\r\n<li>Adams Rite (A/R) Cam</li>\r\n<li>Includes <a href=\"/products/mortise-cylinder-spacer-ring-glo-th1100-tr2\">3/16\" Stamped Trim Ring</a></li>\r\n<li>Includes 2 Keys</li>\r\n</ul>\r\n</p>\r\n<p>\r\nAlso available: <a href=\"/products/mortise-cylinder-security-guard\"><b>Cylinder Security Guard</b></a> and \r\n<a href=\"/products/mortise-cylinder-spacer-ring-glo-th1100-tr1\"><b>Extruded Spacer Ring</b></a>.\r\n</p>\r\n<p>Available in aluminum or dark bronze finish.\r\n</p>",
+            "seo": {
+                "title": "1-Inch Zinc Mortise Cylinder Lock, TH1100-ZC",
+                "description": "Global TH1100-ZC - 1 Inch Zinc Mortise Cylinder Locks for aluminum storefront doors.",
+                "keywords": "GLO-TH1100-ZC, Global TH1100-ZC 1-Inch Zinc Mortise Cylinder Lock, mortise lock storefront doors locks, Aluminum Door locks, aluminum glass Door locks, Global TH1100-ZCx1-AL, Global TH1100-ZCx1-DU, store lock cylinders, store door locks, store locks,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Store Front Door Hardware",
+                    "sort": "17"
+                },
+                {
+                    "name": "Store Door Hardware",
+                    "sort": "103"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "184782",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "193213",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "186990",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "164203",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "491233",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "184797",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "193392",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "193669",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "184801",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: TH1100-ZC-AL: Aluminum Finish",
+                "Select Finish: TH1100-ZC-DU: Dark Bronze Finish",
+                "Keying-Mortise: I Only Ordered One Lock",
+                "Keying-Mortise: Keyed Different",
+                "Keying-Mortise: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TH1100-ZC-AL: Aluminum Finish",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-TH1100-ZC-AL:"
+                },
+                {
+                    "value": "TH1100-ZC-DU: Dark Bronze Finish",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-TH1100-ZC-DU:"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying-Mortise",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                }
+            ]
+        }
+    ]
+}

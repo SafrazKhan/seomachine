@@ -1,0 +1,151 @@
+{
+    "legacy_product_id": "1029640",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Emtek Replacement Cylinder Single Cylinder, CY4-PSCHCTS5",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-CY4-PSCHCTS5",
+            "mpn": "EMT-CY4-PSCHCTS5",
+            "price": "22.0",
+            "compare_at_price": "22.0",
+            "contractor_price": "22.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Emtek Schlage C Keyway Deadbolt Cylinders",
+                "Emtek Replacement Cylinder Single Cylinder Deadbolt",
+                "emtek CY4-PSCHCTS5"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525110.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525110.gif?v=1716427773"
+        },
+        "text": {
+            "description_html": "<b>EMT CY4-PSCHCTS5, Emtek Schlage C Keyway Cylinder</b>\r\n\r\n<p>\r\nThis is a replacement Schlage C Keyway, 5 Pin Cylinder to be used with <a href=\"/collections/emtek-deadbolts\">Emtek Single Cylinder Deadbolts</a> and <a href=\"/collections/emtek-tubular-handlesets\">Emtek Cylinder Handlesets</a>. \r\n</p>",
+            "seo": {
+                "title": "Emtek Replacement Cylinder Single Cylinder",
+                "description": "This is a replacement Schlage C Keyway, 5 Pin Cylinder to be used with Emtek Single Cylinder Deadbolts and tubular handlesets.",
+                "keywords": "Emtek Schlage C Keyway Deadbolt Cylinders, Emtek Replacement Cylinder Single Cylinder Deadbolt, emtek CY4-PSCHCTS5"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "20"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "880349",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "310445",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "675928",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "879725",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: C: Chrome",
+                "Select Finish: US19: Matte Black",
+                "Keying: I Only Ordered One Lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "C: Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                }
+            ]
+        }
+    ]
+}

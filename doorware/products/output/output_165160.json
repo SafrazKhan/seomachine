@@ -1,0 +1,131 @@
+{
+    "legacy_product_id": "165160",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4041 Series Door Closer Drop Plate, DP4041S",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-DP4041S",
+            "mpn": "DEL-DP4041S",
+            "price": "45.84",
+            "compare_at_price": "61.12",
+            "contractor_price": "43.55",
+            "shipping_weight": "1.0",
+            "tags": [
+                "DEL-DP4041S Drop Plate For 4041 Series Door Closers",
+                "Deltana DC40 Drop Plate reguler Arm Installation",
+                "LCN 4041 Series Door Closer  Drop Plates",
+                "DEL-DP4041S-AL",
+                "DEL-DP4041S-DURO",
+                "DEL-DP4041S-GOLD",
+                "Deltana DC40 door closers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DP4041S-525x586.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DP4041S-525x586.jpg?v=1716421567"
+        },
+        "text": {
+            "description_html": "<b>Drop Plate for 4041 Series Closers</b>\r\n\r\n<p>\r\nUse when Regular Mounting (Mounting on the pull side of an inswing door). For use with <a href=\"/products/lcn-4040-super-smoothee-grade-1-door-closer\"><b>LCN 4041</b></a>, <a href=\"/products/lcn-4040-series-replacement-ada-compliant-heavy-duty-door-closer-global-tc4300\"><b>Global TC4300</b></a> or <a href=\"/products/extra-heavy-duty-door-closer-deltana-dc40\"><b>Deltana DC40</b></a> door closers.\r\n</p>\r\n\r\n<p>\r\nAlso available: <a href=\"/products/4041-series-door-closer-parallel-mount-drop-plate-dp4041p\"><b>Parallel Mount Drop Plate</b></a>.\r\n</p>\r\n\r\n<p>\r\nUse on inswing doors with narrow top door frames and doors with glass, when the glass interferes with closer mounting. Often used on metal framed glass store front doors. \r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "4041 Series Door Closer Drop Plate, DP4041S",
+                "description": "Drop Plate for Regular Arm Installation. Use when Regular Mounting (Mounting on the pull side of an inswing door). For use with LCN 4041, Global TC4300 or Deltana DC40 door closers.",
+                "keywords": "DEL-DP4041S Drop Plate For 4041 Series Door Closers, Deltana DC40 Drop Plate reguler Arm Installation, LCN 4041 Series Door Closer  Drop Plates, DEL-DP4041S-AL, DEL-DP4041S-DURO, DEL-DP4041S-GOLD, Deltana DC40 door closers"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Commercial Door Closers",
+                    "sort": "100"
+                },
+                {
+                    "name": "Door Closers",
+                    "sort": "100"
+                },
+                {
+                    "name": "Deltana Door Closers",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "221485",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "165233",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "233110",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "222877",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "203817",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "232302",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: AL: Aluminum",
+                "Select Finish: DURO: Dark Bronze",
+                "Select Finish: GOLD: Gold Paint",
+                "Select Finish: WHITE: White"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DP4041S-AL"
+                },
+                {
+                    "value": "DURO: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GOLD: Gold Paint",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "WHITE: White",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

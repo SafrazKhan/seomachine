@@ -1,0 +1,91 @@
+{
+    "legacy_product_id": "267550",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Passage or Privacy Function Latch for Grandeur",
+            "vendor": "Grandeur",
+            "status": "ARCHIVED",
+            "sku": "GRA-SpringLatch",
+            "mpn": "GRA-SpringLatch",
+            "price": "11.41",
+            "compare_at_price": "13.69",
+            "contractor_price": "0.0",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Passage or Privacy Function Latch  for Grandeur"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Grandeur Passage or Privacy Function Latch,   Brass Tongue </b>\r\n<p>\r\nGrandeur <b>SpringLatch only</b> (for Passage or Privacy Function and Handlesets). 2-3/8\" or 2-3/4\" Backset. Does Not Include face plate or strike.\r\n</p>",
+            "seo": {
+                "title": "Passage or Privacy Function Latch for Grandeur",
+                "description": "Passage or Privacy Function Latch  for Grandeur",
+                "keywords": "Passage or Privacy Function Latch  for Grandeur"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Grandeur Parts",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Backset and Function: GRA-701407 - Passage 2-3/8in. Backset",
+                "Select Backset and Function: GRA-701408 - Passage 2-3/4in. Backset",
+                "Select Backset and Function: GRA- 701405 - Privacy 2-3/8in. Backset",
+                "Select Backset and Function: GRA- 701406 - Privacy 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset and Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GRA-701407 - Passage 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-701408 - Passage 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA- 701405 - Privacy 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA- 701406 - Privacy 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

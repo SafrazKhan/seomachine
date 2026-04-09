@@ -1,0 +1,69 @@
+{
+    "legacy_product_id": "1153885",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Omnia 045.FP Brass Deadbolt Faceplate",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-045.FP",
+            "mpn": "OMN-045.FP",
+            "price": "10.0",
+            "compare_at_price": "10.0",
+            "contractor_price": "10.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Omnia 045.FP Brass Deadbolt Faceplates",
+                "Faceplate for Omnia Brass Deadbolts",
+                "OMN-045.FP"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525192.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525192.gif?v=1716428493"
+        },
+        "text": {
+            "description_html": "<b>Omnia 045.FP, Faceplate for Omnia Brass Deadbolt</b>\r\n\r\n\r\n<p>\r\nThis is a replacement Omnia 045.FP Brass Deadbolt Faceplate.\r\n</p>\r\n\r\n<p>\r\n<b>Custom item, No RETURNS</b>\r\n</p>",
+            "seo": {
+                "title": "Omnia 045.FP Brass Deadbolt Faceplate",
+                "description": "This is a replacement Omnia 045.FP Brass Deadbolt Faceplate.",
+                "keywords": "Omnia 045.FP Brass Deadbolt Faceplates, Faceplate for Omnia Brass Deadbolts, OMN-045.FP"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "310"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: US10B: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

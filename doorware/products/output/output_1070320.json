@@ -1,0 +1,112 @@
+{
+    "legacy_product_id": "1070320",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:10:47.638084"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Viewer Cover for 55211-UL Viewer, Deltana 552COVER",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-552COVER",
+            "mpn": "DEL-552COVER",
+            "price": "2.67",
+            "compare_at_price": "3.34",
+            "contractor_price": "2.53",
+            "shipping_weight": "0.1",
+            "tags": [
+                "Viewer Cover ifor 55211-UL Viewers",
+                "DEL-552COVER",
+                "Deltana 552COVER",
+                "Interior Cover Door Eye Viewers",
+                "Deltana 55211 Eye Viewer Cover",
+                "peep hole covers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-552COVER-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-552COVER-525.jpg?v=1716428050"
+        },
+        "text": {
+            "description_html": "<b>Deltana 552COVER, Interior Cover Door Eye Viewer</b>\r\n\r\n<p>\r\nThis is an interior lens cover for the <a href=\"/products/door-security-glass-eye-viewer-200-degree-deltana-55211\"> Deltana 55211 Door Security Glass Eye Viewer</a>. It offers privacy and security and will keep people from being able to look into your home via the Door Peep Hole. Choose from Matte Black or Brushed Chrome Finishes.\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-552COVER-specifications.gif?v=1704354781\" width=\"251\" height=\"182\" border=\"0\" alt=\"Deltana 552COVER Eye Viewer Size\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Deltana 55211 Eye Viewer Cover:\r\n<ul> \r\n<li>Height: 1-1/4\"</li>\r\n<li>Width: 7/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Viewer Cover for 55211-UL Viewer",
+                "description": "This is an interior lens cover for the Deltana 55211 Door Security Glass Eye Viewer. It offers privacy and security and will keep people from being able to look into your home via the Door Peep Hole. Choose from Matte Black or Brushed Chrome Finishes.",
+                "keywords": "Viewer Cover ifor 55211-UL Viewers, DEL-552COVER, Deltana 552COVER, Interior Cover Door Eye Viewers, Deltana 55211 Eye Viewer Cover, peep hole covers,"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Width",
+                    "value": "7/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Deltana Door Accessories",
+                    "sort": "34"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "7671",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "7722",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "750570",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "755512",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "573514",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Height: 1-1/4\"",
+                "Width: 7/8\"",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26D: Brushed Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-552COVERUS19-SM.jpg?v=1774579980",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-522COVERUS19-LG.jpg?v=1711366499"
+                },
+                {
+                    "value": "US26D: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-552COVERUS26D-SM1.jpg?v=1774579983",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-522COVERUS26D-LG.jpg?v=1711366499"
+                }
+            ]
+        }
+    ]
+}

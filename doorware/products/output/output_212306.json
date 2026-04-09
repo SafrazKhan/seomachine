@@ -1,0 +1,145 @@
+{
+    "legacy_product_id": "212306",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "8 Inch Modern Shower Door Pulls, Pair, First Impressions FII-SD-3014-200",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-SD-3014-200",
+            "mpn": "FII-SD-3014-200",
+            "price": "174.5",
+            "compare_at_price": "260.0",
+            "contractor_price": "167.2",
+            "shipping_weight": "5.0",
+            "tags": [
+                "FII-SD-3014-220 8 Inch Modern Shower Door Pulls",
+                "First Impressions 3014/220 Modern Door Pulls",
+                "Contemporary shower door pulls",
+                "glass shower handles",
+                "Contemporary 8  inches Center to Center mounting glass door pulls",
+                "3014/200",
+                "FII-SD-3014-200 8 inch pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SD-3014-220-shower-pulls_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SD-3014-220-shower-pulls_525.jpg?v=1716422042"
+        },
+        "text": {
+            "description_html": "<b>First Impressions 3014/200 8\" Modern Shower Door Pulls</b>\r\n<p>\r\n<p>\r\nThis contemporary designed shower door pull is constructed of durable non rusting aluminum and finished  in your choice of <b>Satin Nickel</b> or <b>Polished Chrome</b>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of First Impressions 3014/200 Modern Shower Door Pulls\r\n<ul>\r\n<li>Total Length: 8\" (204 MM)</li>\r\n<li>Mounting Center to Center: 7-1/4\"</li>\r\n<li>Pull Width: 1-3/4\"</li>\r\n<li>Projection: 2\"</li>\r\n<li>Material: Non Rusting Aluminum</li>\r\n<li>Available Finishes: 2</li>\r\n</ul>\r\n</p>\r\n<p>Packaged with 2 door pulls and includes all the hardware for back to back mounting on 1/4\" to 1/2\" thick glass shower doors. \r\n</p>\r\n<p>\r\n<b>*Sold as a Pair (2 Pulls)</b>\r\n</p>",
+            "seo": {
+                "title": "8 Inch Modern Shower Door Pulls, Pair, First Impressions FII-SD-3014-200",
+                "description": "First Impressions 8 Inch Modern Shower Door Pulls. Contemporary styling in your choice on Satin Nickel or Polished Chrome",
+                "keywords": "FII-SD-3014-220 8 Inch Modern Shower Door Pulls, First Impressions 3014/220 Modern Door Pulls, Contemporary shower door pulls, glass shower handles, Contemporary 8  inches Center to Center mounting glass door pulls, 3014/200, FII-SD-3014-200 8 inch pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Total Length",
+                    "value": "8\" (204 MM)"
+                },
+                {
+                    "key": "Mounting Center to Center",
+                    "value": "7-1/4\""
+                },
+                {
+                    "key": "Pull Width",
+                    "value": "1-3/4\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "2\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Non Rusting Aluminum"
+                },
+                {
+                    "key": "Available Finishes",
+                    "value": "2"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "22"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "212269",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "194734",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "6007",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "177047",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "177038",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "185115",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "179257",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "187972",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Total Length: 8\" (204 MM)",
+                "Mounting Center to Center: 7-1/4\"",
+                "Pull Width: 1-3/4\"",
+                "Projection: 2\"",
+                "Material: Non Rusting Aluminum",
+                "Available Finishes: 2",
+                "Select Finish: FII-SD-3014-200-US15 - Satin Nickel",
+                "Select Finish: FII-SD-3014-200-US26 - Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-SD-3014-200-US15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-SD-3014-200-US26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

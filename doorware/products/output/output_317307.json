@@ -1,0 +1,108 @@
+{
+    "legacy_product_id": "317307",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "7mm Passage Spindle for Omnia Lever and Knob Sets",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "OMN-007/x",
+            "mpn": "OMN-007/x",
+            "price": "9.0",
+            "compare_at_price": "10.0",
+            "contractor_price": "9.0",
+            "shipping_weight": "0.25",
+            "tags": [
+                "OMN-007/x 7mm solid spindles",
+                "Omnia 007/4 4 inch spindles",
+                "Omnia 007/4.5 4-1/2 inch spindles",
+                "Omnia passage spindles",
+                "7mm passage 7 mm Spindle for Omnia Lever and Knob Sets",
+                "omnia 7mm Passage Spindle for Omnia Levers",
+                "Omnia Spindles",
+                "shaft",
+                "Omnia lever shafts"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/7mm-spindle_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/7mm-spindle_525.jpg?v=1717105921"
+        },
+        "text": {
+            "description_html": "<b>7mm Passage Spindle for Omnia Lever and Knob Sets</b>\r\n\r\n<p>\r\n7mm square solid spindle. For use with <a href=\"/collections/omnia-levers\"><b>Omnia Brass Leversets</b></a> and <a href=\"/collections/omnia-knobs\"><b>Omnia Brass Knobsets</b></a>. \r\n</p>\r\n<p>\r\nThis is a 7mm solid spindle used for <b>Passage (Hall and Closet) function</b> only.\r\n</p>\r\n<p>\r\nAlso available: <a href=\"/products/7mm-privacy-spindle-for-omnia-lever-and-knob-sets\"><b>Omnia 7mm swivel spindle</b></a> for <b>Privacy (Bed or Bathroom) function</b>. \r\n<br>*Not for use with <a href=\"/collections/omnia-stainless-steel-levers\"><b>Omnia Stainless Steel Leversets</b></a>, use <a href=\"/products/8mm-passage-spindle-for-omnia-stainless-steel-lever\"><b>Omnia 8mm solid passage spindle</b></a>.\r\n</p>\r\n<p>\r\n<b>Available in 2 different lengths</b>.\r\n<br>\r\nOMN-007/4: 7mm x <b>4 Inches Long</b> (for 1-3/8\" thick doors). \r\n<br>\r\nOMN-007/4.5: 7mm x <b>4-1/2 Inches Long</b> (for 1-3/4\" thick doors). \r\n</p>\r\n<p>\r\nThis is a 7mm solid spindle used for <b>Passage (Hall and Closet) function</b> only.\r\n</p>",
+            "seo": {
+                "title": "7mm Passage Spindle for Omnia Lever and Knob Sets",
+                "description": "Omina 7mm square solid spindle. For use with Omnia Brass Leversets and Omnia Brass Knobsets. This is a 7mm solid spindle used for Passage (Hall and Closet) function only.",
+                "keywords": "OMN-007/x 7mm solid spindles, Omnia 007/4 4 inch spindles, Omnia 007/4.5 4-1/2 inch spindles, Omnia passage spindles, 7mm passage 7 mm Spindle for Omnia Lever and Knob Sets, omnia 7mm Passage Spindle for Omnia Levers, Omnia Spindles, shaft, Omnia lever shafts,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "330497",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "437862",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "437831",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "204778",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "780326",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "746237",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Spindle Length: 007/4: 7mm x 4 Inches",
+                "Select Spindle Length: 007/4.5: 7mm x 4-1/2 Inches"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Spindle Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "007/4: 7mm x 4 Inches",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "007/4.5: 7mm x 4-1/2 Inches",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

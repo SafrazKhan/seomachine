@@ -1,0 +1,170 @@
+{
+    "legacy_product_id": "1080142",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Strike Plate for Pocket Door Locks, SPSDLA325",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-SPSDLA325",
+            "mpn": "DEL-SPSDLA325",
+            "price": "8.34",
+            "compare_at_price": "11.11",
+            "contractor_price": "7.91",
+            "shipping_weight": "0.3",
+            "tags": [
+                "DEL-SPSDLA325  Strike Plate for Pocket Door Locks",
+                "Pocket Door Privacy Lock strike plate",
+                "rectangular strike plate",
+                "pocket locks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SPSDLA325-strike-plate_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SPSDLA325-strike-plate_525.jpg?v=1716428105"
+        },
+        "text": {
+            "description_html": "<b>Mortise Strike Plate for Pocket Door Locks</b>\r\n\r\n<p>\r\nPackaged with matching finish mounting screws. Used with <a href=\"/products/heavy-duty-privacy-pocket-door-lock-deltana-sdla325\"><b>Pocket Door Privacy Lock</b></a>,   <a href=\"/products/double-thumbturn-pocket-door-lock-sdlla325\"><b>Double Thumbturn Pocket Door Lock</b></a> or any manufactures pocket door privacy lock that has the same sized strike plate. Available in 6 different finishes.\r\n</p>\r\n\r\n\r\n\r\n\r\n<p>\r\n<b>Specifications</b> for the SPSDLA325 Pocket Lock Strike Plate:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Plate Width: 1-1/16\"</li>\r\n<li>Plate Height: 2-1/2\"</li>\r\n<li>Distance Between Mount Screws: 2\"</li>\r\n<li>Strike Hole Height: 1-1/16\"</li>\r\n<li>Thickness: .040\"</li>\r\n\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Strike Plate for Pocket Door Locks, SPSDLA325",
+                "description": "Packaged with matching finish mounting screws. Used with Deltana Pocket Door Privacy Lock, Double Thumbturn Pocket Door Lock or any manufactures pocket door privacy lock that has the same sized strike plate.",
+                "keywords": "DEL-SPSDLA325  Strike Plate for Pocket Door Locks, Pocket Door Privacy Lock strike plate, rectangular strike plate, pocket locks,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Plate Width",
+                    "value": "1-1/16\""
+                },
+                {
+                    "key": "Plate Height",
+                    "value": "2-1/2\""
+                },
+                {
+                    "key": "Distance Between Mount Screws",
+                    "value": "2\""
+                },
+                {
+                    "key": "Strike Hole Height",
+                    "value": "1-1/16\""
+                },
+                {
+                    "key": "Thickness",
+                    "value": ".040\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "Deltana Strikes and Latches",
+                    "sort": "21"
+                },
+                {
+                    "name": "Deltana Pocket Door Hardware",
+                    "sort": "25"
+                },
+                {
+                    "name": "Strike Plates",
+                    "sort": "70"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "192438",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "276806",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "190140",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "192415",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "192441",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Plate Width: 1-1/16\"",
+                "Plate Height: 2-1/2\"",
+                "Distance Between Mount Screws: 2\"",
+                "Strike Hole Height: 1-1/16\"",
+                "Thickness: .040\"",
+                "Select Finish: U10B: Oil Rubbed Bronze",
+                "Select Finish: U15: Satin Nickel",
+                "Select Finish: U19: Matte Black",
+                "Select Finish: U26: Polished Chrome",
+                "Select Finish: U3: Polished Brass",
+                "Select Finish: U5: Antique Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "legacy_product_id": "194887",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "2 Inch Round Cup Pull, Omnia 9595/50",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "OMN-9595/50",
+            "mpn": "OMN-9595/50",
+            "price": "15.2",
+            "compare_at_price": "19.0",
+            "contractor_price": "14.44",
+            "shipping_weight": "0.5",
+            "tags": [
+                "OMN-9595",
+                "Omnia 9595 round flush door pulls",
+                "omnia round door pulls",
+                "omnia recessed pulls",
+                "OMN-9595/50 2 inch round flush pulls",
+                "OMN-9595/60 2-3/8 inch round flush pulls",
+                "contemporary flush pulls",
+                "contemporary cup pulls",
+                "omnia 9595/50 cup pulls",
+                "modern round cup pulls omnia"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-9595-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-9595-525.jpg?v=1716421892"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9595/50, 2 inch Round Door Flush Pull</b>\r\n\r\n<p>\r\nOmnia's round flush door pull is pressure mounted into the door for a clean, screwless installation. It has a 2 inch diameter. The Round Door Flush Pull is normally used on lightweight doors and drawers such as those found on cabinets and furniture. The Round Cup Pull can also be used on sliding pocket or barn doors. Choose from 5 finishes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Flush Pull:\r\n<ul>\r\n<li>Overall Diameter: 2\"</li>\r\n<li>Door Cutout Diameter: 1-1/2\"</li>\r\n<li>Overall Depth: 1/2\"</li>\r\n<li>Door Cutout Depth:  13/32\"</li>\r\n<li>Projection:  3/32\"</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n\r\n\r\n<p>\r\n<b>** This item is discontinued. Limited quantities available.</b>\r\n</p>",
+            "seo": {
+                "title": "2 Inch Round Cup Pull",
+                "description": "Omnia's round flush door pull is pressure mounted into the door for a clean, screwless installation. It has a 2 inch diameter. The Round Door Flush Pull is normally used on lightweight doors and drawers such as those found on cabinets and furniture. The Round Cup Pull can also be used on sliding pocket or barn doors. Choose from 5 finishes.\r\n",
+                "keywords": "OMN-9595, Omnia 9595 round flush door pulls,  omnia round door pulls, omnia recessed pulls, OMN-9595/50 2 inch round flush pulls, OMN-9595/60 2-3/8 inch round flush pulls, contemporary flush pulls, contemporary cup pulls, omnia 9595/50 cup pulls, modern round cup pulls omnia,"
+            },
+            "specifications": [
+                {
+                    "key": "Overall Diameter",
+                    "value": "2\""
+                },
+                {
+                    "key": "Door Cutout Diameter",
+                    "value": "1-1/2\""
+                },
+                {
+                    "key": "Overall Depth",
+                    "value": "1/2\""
+                },
+                {
+                    "key": "Door Cutout Depth",
+                    "value": "13/32\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "3/32\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "Pocket Door Hardware",
+                    "sort": "98"
+                },
+                {
+                    "name": "Omnia Sliding Door Hardware",
+                    "sort": "12"
+                },
+                {
+                    "name": "Flush Pulls",
+                    "sort": "8"
+                },
+                {
+                    "name": "Omnia Cabinet Pulls",
+                    "sort": "117"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "774238",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "686120",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "592015",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "708134",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "7551",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "179152",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "200785",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "43356",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "206803",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Overall Diameter: 2\"",
+                "Door Cutout Diameter: 1-1/2\"",
+                "Overall Depth: 1/2\"",
+                "Door Cutout Depth: 13/32\"",
+                "Projection: 3/32\"",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: SB: Shaded Bronze",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SB: Shaded Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 1.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 1.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 1.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

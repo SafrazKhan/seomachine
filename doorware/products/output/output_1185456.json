@@ -1,0 +1,109 @@
+{
+    "legacy_product_id": "1185456",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Miami  Lever Exit Device Trim, PDQ 4-SH-MIA",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PDQ-4-SH-MIA",
+            "mpn": "PDQ-4-SH-MIA",
+            "price": "151.8",
+            "compare_at_price": "253.0",
+            "contractor_price": "151.8",
+            "shipping_weight": "3.0",
+            "tags": [
+                "PDQ-4-SH-MIA",
+                "PDQ 4-SH-MIA",
+                "Miami Lever Exit Device Trim"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDQ-4-SH-MIA-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PDQ-4-SH-MIA-525.jpg?v=1711366733"
+        },
+        "text": {
+            "description_html": "<b>PDQ 4-SH-MIA, Miami  Lever Exit Device Trim</b>\r\n\r\n<p>\r\nThe Miami Lever Exit Device Trim is for use with the <a href=\"/products/grade-1-polished-brass-rim-exit-device-pdq-4200r-b605\">PDQ 4200 Series Commercial Exit Device</a> for the exterior side of the door. \r\n</p>\r\n\r\n<p>\r\n<b>Available Exterior Trim Functions:</b>\r\n<ul>\r\n<li><b>Passage Lever</b>: Passage Function (ANSI F14) - Outside entrance by lever for doors that don't need locking. ADA compliant Lever.</li>\r\n<li><b>Dummy Lever</b>: Dummy Function - Used as a pull only.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Miami  Lever Exit Device Trim",
+                "description": "PDQ-4-SH-MIA Miami Lever Exit Device Trim",
+                "keywords": "PDQ-4-SH-MIA, PDQ 4-SH-MIA, Miami Lever Exit Device Trim"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Misc Hardware",
+                    "sort": "38"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "313365",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "201068",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "201045",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "550432",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Function: 4-SH-14-MIA: Passage Lever",
+                "Select Function: 4-SH-02-MIA: Dummy Lever",
+                "Select Finish: 605: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "4-SH-14-MIA: Passage Lever",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "4-SH-02-MIA: Dummy Lever",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "605: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

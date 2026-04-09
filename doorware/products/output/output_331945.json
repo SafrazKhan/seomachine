@@ -1,0 +1,133 @@
+{
+    "legacy_product_id": "331945",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Schlage B250PD Gate Deadbolt Latch",
+            "vendor": "Schlage",
+            "status": "ACTIVE",
+            "sku": "SCH-12-10x",
+            "mpn": "SCH-12-10x",
+            "price": "106.2",
+            "compare_at_price": "118.0",
+            "contractor_price": "106.2",
+            "shipping_weight": "0.3",
+            "tags": [
+                "Schlage B250PD Gate Deadbolt Latches",
+                "Schlage B252PD Double Cylinder Deadbolt",
+                "schlage B250PD Deadbolt latches"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Gate Deadbolt Latch for Schlage B250PD</b>\r\n<p>For use with <a href=\"/products/gate-lock-single-cylinder-schlage-b250pd\"><b>Schlage B250PD Deadbolt</b></a> and <a href=\"/products/gate-lock-single-cylinder-schlage-b250pd\"><b>Schlage B252PD Double Cylinder Deadbolt</b></a>\r\n</p>\r\n<p>\r\nIncludes 1-1/8\" x 2-1/4\" square corner faceplate.\r\n</p>\r\n<p>Available  in 2-3/8\" or 2-3/4\" backsets.\r\n</p>\r\n\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Schlage B250PD Gate Deadbolt Latch",
+                "description": "Gate Deadbolt Latch for use with Schlage B250PD Deadbolt and Schlage B252PD Double Cylinder Deadbolt",
+                "keywords": "Schlage B250PD Gate Deadbolt Latches, Schlage B252PD Double Cylinder Deadbolt, schlage B250PD Deadbolt latches,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "248479",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "248460",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "139389",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "139381",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Backset: 12-100: 2-3/8in. Backset",
+                "Select Backset: 12-103: 2-3/4in. Backset",
+                "Select Finish: 605: Bright Brass",
+                "Select Finish: 609: Antique Brass",
+                "Select Finish: 613: Oil Rubbed Bronze",
+                "Select Finish: 626: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "12-100: 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "12-103: 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "605: Bright Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "609: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "613: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

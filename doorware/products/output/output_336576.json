@@ -1,0 +1,158 @@
+{
+    "legacy_product_id": "336576",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Schlage Single Cylinder Deadbolt Thick Door Extension Kit",
+            "vendor": "Schlage",
+            "status": "ACTIVE",
+            "sku": "SCH-61-073",
+            "mpn": "SCH-61-073",
+            "price": "18.0",
+            "compare_at_price": "20.0",
+            "contractor_price": "18.0",
+            "shipping_weight": "0.2",
+            "tags": [
+                "SCH-61-073 Schlage Single Cylinder Deadbolt Thick Door Extension Kit",
+                "Schlage 61-073 Thick Door Deadbolts",
+                "Schlage 61-073 thick door locks kit"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SCH-61-073-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SCH-61-073-525.jpg?v=1716423222"
+        },
+        "text": {
+            "description_html": "<b>Schlage B60 Single Cylinder Deadbolt Thick Door Extension Kit</b>\r\n<p>\r\nThis extension kit allows single cylinder deadbolt to be used on 2-1/4\" - 4\" thick doors and gates. For use with <a href=\"/products/single-cylinder-maximum-security-grade-1-deadbolt-schlage-b60\"><b> Schlage B60 Deadbolts</b></a>. \r\n</p>\r\n<p>\r\nKit includes extra long  tail piece and screws.\r\n</p>\r\n<p>\r\n<b>*Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "Schlage Single Cylinder Deadbolt Thick Door Extension Kit",
+                "description": "This extension kit allows single cylinder deadbolt to be used on 2-1/4 - 4 inch thick doors and gates. For use with  Schlage B60 Deadbolts. Kit includes long lock cylinder tail piece and screws.",
+                "keywords": "SCH-61-073 Schlage Single Cylinder Deadbolt Thick Door Extension Kit, Schlage 61-073 Thick Door Deadbolts, Schlage 61-073 thick door locks kit,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1016608",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1025860",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "9215",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "553072",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "9213",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "337830",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 613: Aged Bronze",
+                "Select Finish: 605: Bright Brass",
+                "Select Finish: 609: Antique Brass",
+                "Select Finish: 613: Oil Rubbed Bronze",
+                "Select Finish: 618: Polished Nickel",
+                "Select Finish: 619: Satin Nickel",
+                "Select Finish: 622: Matte Black",
+                "Select Finish: 625: Bright Chrome",
+                "Select Finish: 626: Brushed Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "613: Aged Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "605: Bright Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "609: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "613: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "618: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "619: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "622: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "625: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "626: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "legacy_product_id": "1090075",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Grade 1 Extra Heavy Duty Door Closer, PDQ 7101BCPA",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PDQ-7101BCPA",
+            "mpn": "PDQ-7101BCPA",
+            "price": "148.5",
+            "compare_at_price": "465.0",
+            "contractor_price": "148.5",
+            "shipping_weight": "10.0",
+            "tags": [
+                "7101 Institutional Full Feathered Closers",
+                "PDQ 7101BCPA",
+                "PDQ 7101-BCPA",
+                "PDQ-7101BCPA",
+                "Grade 1 Extra Heavy Duty Door Closers",
+                "PDQ 7100 series door closers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDQ-7101BCPA-525 .jpg",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>PDQ 7101BCPA, 7101 Institutional Full Feathered Closer</b>\r\n\r\n\r\n<p>\r\nThe 7101 Institutional Full Feathered Closer features a 5lb. barrier free spring setting for ADA compliance. 6 additional spring settings provide 17% more adjustment capability to find that sweet spot for optimal door closing action. Package complete with fasteners for wood or metal doors and frames. Sex nuts and bolts are also furnished standard.\r\n</p>\r\n\r\n<p>\r\nThe 7101 is listed by U.L./U.L.C., complies with UL 10C and UBC 7-2 (1997) for positive pressure and conforms to the requirements of ANSI A156.4 Grade 1.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features </b> for the PDQ 7101BCPA Grade 1 Door Closer:\r\n<ul>\r\n<li>Adjustable closing speed</li>\r\n<li>Adjustable latching speed</li>\r\n<li>Adjustable Back Check</li>\r\n<li>Body Material: Cast Iron</li>\r\n<li>Arm Material: Forged steel main arm</li>\r\n<li> Full plastic cover</li>\r\n<li>Spring Size: 1-6</li>\r\n<li>Non Handed</li>\r\n<li><b>Grade 1 (Highest Grade)</b></li>\r\n<li>Tri-packed for regular, top jamb and parallel arm installations</li>\r\n<li>UL 10C Approved (UL US Listed 63Z0)</li>\r\n<li><a href=\"/pages/ada-compliant\">ADA Compliant</a></li>\r\n<li>25 Year Warranty</li>\r\n<li>Meets requirements of the Buy American Act</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>No returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Grade 1 Extra Heavy Duty Door Closer",
+                "description": "The 7101 Institutional Full Feathered Closer features a 5lb. barrier free spring setting for ADA compliance. 6 additional spring settings provide 17% more adjustment capability to find that sweet spot for optimal door closing action. Package complete with fasteners for wood or metal doors and frames. Sex nuts and bolts are also furnished standard.",
+                "keywords": "7101 Institutional Full Feathered Closers, PDQ 7101BCPA, PDQ 7101-BCPA, PDQ-7101BCPA, Grade 1 Extra Heavy Duty Door Closers, PDQ 7100 series door closers,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Misc Hardware",
+                    "sort": "24"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "508569",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "201045",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "550432",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "201092",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "609246",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 695: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "695: Dark Bronze ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

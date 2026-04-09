@@ -1,0 +1,95 @@
+{
+    "legacy_product_id": "1076734",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Quick Fix Bracket Plate for LCN 1260, LCN 1260-18QF",
+            "vendor": "LCN",
+            "status": "ARCHIVED",
+            "sku": "LCN-1260-18QF",
+            "mpn": "LCN-1260-18QF",
+            "price": "60.0",
+            "compare_at_price": "73.0",
+            "contractor_price": "60.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "LCN 1260-18QF",
+                "LCN 1260 Series Door Closer Quick Fix Bracket Plates",
+                "LCN-1260-18QF",
+                "Quick Fix Bracket Plate for LCN 1260"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LCN-1260-18QF-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LCN-1260-18QF-525.jpg?v=1716428065"
+        },
+        "text": {
+            "description_html": "<b>LCN 1260-18QF, LCN 1260 Series Door Closer Quick Fix Bracket Plate</b>\r\n\r\n<p>\r\nFor use with 1260 Series Door Closer in applications when previously drilled holes are damaged. Constructed of high quality cast iron. \r\n</p>\r\n\r\n<p><i>Sold Individually</i></p>",
+            "seo": {
+                "title": "Quick Fix Bracket Plate for LCN 1260",
+                "description": "For use with 1260 Series Door Closer in applications when previously drilled holes are damaged. Constructed of high quality cast iron.",
+                "keywords": "LCN 1260-18QF, LCN 1260 Series Door Closer Quick Fix Bracket Plates, LCN-1260-18QF , Quick Fix Bracket Plate for LCN 1260"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closer Parts",
+                    "sort": "109"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "71765",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "180802",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "499842",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "231652",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "499860",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "216998",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: AL: Aluminum"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

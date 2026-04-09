@@ -1,0 +1,127 @@
+{
+    "legacy_product_id": "544812",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Stainless Steel Abbeyville Lever Pair, AHI SIG110",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI SIG110",
+            "mpn": "AHI SIG110",
+            "price": "55.0",
+            "compare_at_price": "64.0",
+            "contractor_price": "55.0",
+            "shipping_weight": "0.0",
+            "tags": [
+                "Stainless Steel Abbeyville Lever pair",
+                "AHI SIG110"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AHI-SIG110lever-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-SIG110lever-525.jpg?v=1716424339"
+        },
+        "text": {
+            "description_html": "<b>AHI SIG110, Stainless Steel Abbeyville Lever Pair</b>\r\n\r\n<p>\r\nThe AHI made SIG110 has a square flat grip which mounts at a 90 degree angle. This is a great addition to match other modern hardware in your home. The lever is all stainless steel, making it extremely resistant to corrosion, knocks, scratches and abrasions\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the SIG110 Abbeyville Stainless Steel Lever Pair:\r\n<ul>\r\n<li>Material: Stainless Steel</li>\r\n<li>Lever Length: 5.12\" (130 mm)</li>\r\n<li>Lever Style: flat</li>\r\n<li>Projection: 2.17\" (55 mm)</li>\r\n<li>Spindle Width: 0.31\" (8 mm)</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Includes pair of levers with spindle only.  Rose, latch, strike and faceplate sold separately.</b>\r\n</p>",
+            "seo": {
+                "title": "Stainless Steel Abbeyville Lever Pair, AHI SIG110",
+                "description": "Stainless Steel Abbeyville Lever pair, AHI SIG110",
+                "keywords": "Stainless Steel Abbeyville Lever pair, AHI SIG110"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Stainless Steel"
+                },
+                {
+                    "key": "Lever Length",
+                    "value": "5.12\" (130 mm)"
+                },
+                {
+                    "key": "Lever Style",
+                    "value": "flat"
+                },
+                {
+                    "key": "Projection",
+                    "value": "2.17\" (55 mm)"
+                },
+                {
+                    "key": "Spindle Width",
+                    "value": "0.31\" (8 mm)"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "AHI Miscellaneous Parts",
+                    "sort": "11"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "463658",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "142641",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "185993",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "948279",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42129",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "142831",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Stainless Steel",
+                "Lever Length: 5.12\" (130 mm)",
+                "Lever Style: flat",
+                "Projection: 2.17\" (55 mm)",
+                "Spindle Width: 0.31\" (8 mm)",
+                "Select Finish: P22: Matte Black",
+                "Select Finish: 630: Satin Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "P22: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "630: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

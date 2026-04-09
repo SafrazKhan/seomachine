@@ -1,0 +1,86 @@
+{
+    "legacy_product_id": "977647",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Stop Mounting Bracket, Ives MB1",
+            "vendor": "Ives",
+            "status": "ARCHIVED",
+            "sku": "IVES-MB1",
+            "mpn": "IVES-MB1",
+            "price": "34.67",
+            "compare_at_price": "34.67",
+            "contractor_price": "34.67",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Ives MB1 Mounting Bracket for Stop Widths Over 2-1/2 Inches",
+                "bar coordinator door closer Mounting Brackets",
+                "Stop Mounting Bracket"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/IVS-MB1-USP-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/IVS-MB1-USP-525.jpg?v=1716427326"
+        },
+        "text": {
+            "description_html": "<b>Ives MB1 Mounting Bracket for Stop Widths Over 2-1/2 Inches</b>\r\n\r\n<p>\r\nAllows stop mounted hardware to be properly installed without damaging the COR coordinator, such as a parallel arm closer or a non-fire-rated surface vertical rod strike. Stop mounted hardware will need to be lowered to compensate for the height of the coordinator and mounting bracket.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Mounting Bracket:\r\n<ul>\r\n<li>Material: Aluminum</li>\r\n<li>Width: 4\"</li>\r\n<li>Height: 15/16\"</li>\r\n<li>Depth: 3\" </li>\r\n<li>Jamb Depth: 4-3/4\" Min.</li>\r\n<li>Stop Width: Over 2-1/2\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Stop Mounting Bracket",
+                "description": "Allows stop mounted hardware to be properly installed without damaging the COR coordinator, such as a parallel arm closer or a non-fire-rated surface vertical rod strike. Stop mounted hardware will need to be lowered to compensate for the height of the coordinator and mounting bracket.",
+                "keywords": "Ives MB1 Mounting Bracket for Stop Widths Over 2-1/2 Inches, bar coordinator door closer Mounting Brackets, Stop Mounting Bracket"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Ives",
+                    "sort": "14"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "460272",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "560878",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "974166",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "196472",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: USP: Prime Coat"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish ",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "USP: Prime Coat",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

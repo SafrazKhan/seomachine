@@ -1,0 +1,145 @@
+{
+    "legacy_product_id": "239778",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Apollo Push Plate Solid Brass, Brass Accents A04-P5240",
+            "vendor": "BrassAccents",
+            "status": "ACTIVE",
+            "sku": "BRA-A04-P5240",
+            "mpn": "BRA-A04-P5240",
+            "price": "207.99",
+            "compare_at_price": "260.0",
+            "contractor_price": "207.99",
+            "shipping_weight": "4.5",
+            "tags": [
+                "BRA-A04-P5240 Large Decorative Push Plates",
+                "Decorative Large  Push Plates",
+                "Brass Accents Apollo Push Plates",
+                "A04-P5240 Solid Brass Apollo Push Plate 3-5/8 x 25-1/2",
+                "Brass Accents Renaissance Collection door hardware sets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BRA-A04-P5240-push-plates_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BRA-A04-P5240-push-plates_525.jpg?v=1716422345"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents Large Decorative Apollo Push Plate 3-5/8\" Wide x 25-1/2\" High</b>\r\n\r\n<p>\r\nThis large decorative push plate from the Brass Accents Renaissance Collection. Highly detailed solid cast brass styled in Italian Renaissance, popular around the turn of last century.\r\n</p>\r\n\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance, hand finished in the USA. They are one of the worlds leading crafters of decorative hot-forged  and cast brass door hardware.\r\n</p>\r\n\r\n<p>\r\nAlso available: <b>Matching <a href=\"/products/apollo-solid-brass-pull-plate-brass-accents-a04-p5241\">Large Decorative Apollo Pull Plate</a>\r\n</b>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Brass Accents A04-P5240 Decorative Apollo Push Plate:\r\n<ul>\r\n<li>Plate Width: 3-5/8\"</li>\r\n<li>Plate Height: 25-1/2\"</li>\r\n<li>Material: Cast Brass</li>\r\n<li><b>Finish Warranty: 10 Years</b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nComes complete with matching finish mounting screws for easy installation. Hand rubbed and finished in the USA with a 10 year warranty.\r\n</p>",
+            "seo": {
+                "title": "Apollo Push Plate Solid Brass, Brass Accents A04-P5240",
+                "description": "Brass Accents A04-P5240 Decorative Apollo Push Plate. This large decorative push plate from the Brass Accents Renaissance Collection. Highly detailed solid cast brass styled in Italian  Renaissance, popular around the turn of last century. Comes complete with matching finish mounting screws for easy installation. Hand rubbed and finished in the USA with a 10 year warranty.",
+                "keywords": "BRA-A04-P5240 Large Decorative Push Plates, Decorative Large  Push Plates, Brass Accents Apollo Push Plates, A04-P5240 Solid Brass Apollo Push Plate 3-5/8 x 25-1/2, Brass Accents Renaissance Collection door hardware sets,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Width",
+                    "value": "3-5/8\""
+                },
+                {
+                    "key": "Plate Height",
+                    "value": "25-1/2\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Cast Brass"
+                },
+                {
+                    "key": "Finish Warranty",
+                    "value": "10 Years"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Decorative Door Pull and Push Plates",
+                    "sort": "53"
+                },
+                {
+                    "name": "Pull & Push Plates",
+                    "sort": "15"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "239293",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "239296",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "141956",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "141705",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "141876",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "141737",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "141924",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "141993",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "141908",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "239776",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Plate Width: 3-5/8\"",
+                "Plate Height: 25-1/2\"",
+                "Material: Cast Brass",
+                "Finish Warranty: 10 Years",
+                "Select Finish: Polished Brass",
+                "Select Finish: Aged Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Aged Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

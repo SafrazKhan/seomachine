@@ -1,0 +1,142 @@
+{
+    "legacy_product_id": "564628",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Contemporary Two Toned Cabinet Door Pull, RK International CP-54",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CP-54",
+            "mpn": "RKI-CP-54",
+            "price": "16.99",
+            "compare_at_price": "20.68",
+            "contractor_price": "16.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Two-Toned Rod Pulls",
+                "RK International CP-54",
+                "Contemporary Two Toned Cabinet Door Pulls",
+                "RKI-CP-54 modern cabinet pulls",
+                "contemporary cabinet pulls",
+                "two toned cabinet pulls",
+                "Chrome and Brass 3 Inch Cabinet Pulls",
+                "Plain Rod Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-CP-54-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-CP-54-525.jpg?v=1716424557"
+        },
+        "text": {
+            "description_html": "<b>RK International CP-54, Two-Toned Rod Cabinet Pull</b>\r\n\r\n<p>\r\nThe Contemporary Two Toned Cabinet Door Pull made by RK International is sure to add a beautiful, modern statement to any home. It is available in two finish combinations: satin nickel with polished brass and oil rubbed bronze with polished brass (click picture to right to see both). Both these choices have a modern feel. Available in 2 sizes, a 3 inch center to center and a 3-1/2 inch center to center.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CP-54 Plain Rod Cabinet Pulls:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>RKI-CP-54</b>\r\n<ul>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 4\"</li>\r\n<li>Width: 1/2\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n</ul>\r\n<br>\r\n\r\n<b>RKI-CP-55</b>\r\n<ul>\r\n<li>Length c.c. (center to center): 3-1/2\"</li>\r\n<li>Overall Length: 4-1/2\"</li>\r\n<li>Width: 1/2\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Contemporary Two Toned Cabinet Door Pull",
+                "description": "RK International CP-54 Contemporary Two Toned Cabinet Door Pull - The Contemporary Two Toned Cabinet Door Pull made by RK International is sure to add a beautiful, modern statement to any home. It is available in two finish combinations: satin nickel with polished brass and oil rubbed bronze with polished brass. Both these choices have a modern feel. Available in 2 sizes, a 3 inch center to center and a 3-1/2 inch center to center.",
+                "keywords": "Two-Toned Rod Pulls, RK International CP-54, Contemporary Two Toned Cabinet Door Pulls, RKI-CP-54 modern cabinet pulls, contemporary cabinet pulls, two toned cabinet pulls, Chrome and Brass 3 Inch Cabinet Pulls, Plain Rod Cabinet Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Pulls and Flush Pulls",
+                    "sort": "4"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "259512",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "262466",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "42897",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "261995",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "161614",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "231551",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "235000",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "21554",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Size: CP-54: 3in. c.c.",
+                "Select Size: CP-55: 3-1/2in. c.c.",
+                "Select Finish: PB: Satin Nickel with Polished Brass",
+                "Select Finish: BRB: Oil Rubbed with Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "CP-54: 3in. c.c.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CP-55: 3-1/2in. c.c.",
+                    "price_impact": 0.53,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PB: Satin Nickel with Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-CP55-BRB-SM-SNB.jpg?v=1774588135",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-CP54-SNB-LG.jpg?v=1711365482"
+                },
+                {
+                    "value": "BRB: Oil Rubbed with Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-CP55-BRB-SM.jpg?v=1774588135",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-CP54-BRB-LG.jpg?v=1711365484"
+                }
+            ]
+        }
+    ]
+}

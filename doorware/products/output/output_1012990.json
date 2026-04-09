@@ -1,0 +1,125 @@
+{
+    "legacy_product_id": "1012990",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hinge Pin Door Stop, Ives 69",
+            "vendor": "Ives",
+            "status": "ARCHIVED",
+            "sku": "IVES-69",
+            "mpn": "IVES-69",
+            "price": "3.84",
+            "compare_at_price": "4.8",
+            "contractor_price": "3.84",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Hinge Pin Door Stops",
+                "Ives 69",
+                "IVES-69"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/IVES-69F-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/IVES-69F-525.jpg?v=1716427672"
+        },
+        "text": {
+            "description_html": "<b>Ives 69, Hinge Pin Mounted Door Stop</b> \r\n\r\n<p>\r\nThis door stop is mounted on a door hinge pin instead of on the floor or baseboard. Easily adjustable, simple to use, out of the way and out of sight. For use with most common residential door hinges (3.5\" x 3.5\" and 4\" x 4\" door hinges). For use with hinges with a  1/4\" to 5/16\" diameter hinge pins. Not for use with Heavy Duty ball bearing hinges. The door opening adjustment range is approximately from 70 degrees to 100 degrees. Note that the thickness of the jamb moulding and the distance of the hinge pin from the door face will affect the adjustment range for each application. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Ives 69 Hinge Pin Door Stop:\r\n<ul>\r\n<li>Material: Steel</li>\r\n<li>Base Diameter: 1\"</li>\r\n<li>Tip Diameter: 9/16\"</li>\r\n<li>Projection: 31/4\"</li>\r\n<li>Hinge Pin Diameter: 1/4\" - 5/16\"</li>\r\n<li>Door Opening Range: 70 - 100 Degrees, Approximate</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Hinge Pin Door Stop",
+                "description": "This door stop is mounted on a door hinge pin instead of on the floor or baseboard. Easily adjustable, simple to use, out of the way and out of sight. For use with most common residential door hinges--3.5 inch and 4 inch hinges. For use with hinges with a 1/4 inch to 5/16 inch diameter hinge pins. Not for use with Heavy Duty ball bearing hinges. The door opening adjustment range is approximately from 70 degrees to 100 degrees. Note that the thickness of the jamb moulding and the distance of the hinge pin from the door face will affect the adjustment range for each application.",
+                "keywords": "Hinge Pin Door Stops, Ives 69, IVES-69"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Steel"
+                },
+                {
+                    "key": "Base Diameter",
+                    "value": "1\""
+                },
+                {
+                    "key": "Tip Diameter",
+                    "value": "9/16\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "31/4\""
+                },
+                {
+                    "key": "Hinge Pin Diameter",
+                    "value": "1/4\" - 5/16\""
+                },
+                {
+                    "key": "Door Opening Range",
+                    "value": "70 - 100 Degrees, Approximate"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Ives",
+                    "sort": "16"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "6957",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "762728",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "818315",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "396049",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "6944",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "45926",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Steel",
+                "Base Diameter: 1\"",
+                "Tip Diameter: 9/16\"",
+                "Projection: 31/4\"",
+                "Hinge Pin Diameter: 1/4\" - 5/16\"",
+                "Door Opening Range: 70 - 100 Degrees, Approximate",
+                "Select Finish: F26D: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "F26D: Satin Chrome ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "legacy_product_id": "1115376",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Polished Brass Exit Device, Von Duprin 88EO-3FT-3",
+            "vendor": "Von Duprin",
+            "status": "ARCHIVED",
+            "sku": "VON-88EO-3FT-3",
+            "mpn": "VON-88EO-3FT-3",
+            "price": "1500.0",
+            "compare_at_price": "1905.0",
+            "contractor_price": "1500.0",
+            "shipping_weight": "20.0",
+            "tags": [
+                "Polished Brass Vertical Rod Exit Device",
+                "Von Duprin 887EO-3-US3"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Von Duprin Crash Bar Type Exit Device, Polished Brass </b>\r\n<p>This Von Duprin 88 for doors 3 foot wide. </p>\r\n<p>\r\nVon Duprin Series 88 Exit devices are UL listed from Accident Hazard and Fire Exit Hardware, and are tested in accordance to ANSI A156.3, 1994, Grade1.\r\n</p>\r\n<p>\r\n All necessary mounting hardware is included.  \r\n</p>\r\n<p>\r\n<b>\r\nSpecifications: </b> for Von Duprin 88 Vertical Rod Exit Device\r\n<ul>\r\n\r\n<li>Finish: <b>Polished Brass</b></li>\r\n<li>Hex Key Dogging</li>\r\n<li>Lock Stile Case:  8-1/4\"x2-3/4\"x15/16\"</li>\r\n<li>Hinge Stile Case:  6\"x1-3/4\"x15/16\"</li>\r\n<li>Crossbar Diameter:  1\"</li>\r\n<li><b>Grade 1</b></li>\r\n</ul>\r\n</b>\r\n</p>",
+            "seo": {
+                "title": "Polished Brass Exit Device",
+                "description": "",
+                "keywords": "Polished Brass Vertical Rod Exit Device, Von Duprin 887EO-3-US3"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Von Duprin",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Handing: 88EO-3 - RH",
+                "Select Handing: 88EO-3 - LH",
+                "Select Handing: 88EO-3 - RHR",
+                "Select Handing: 88EO-3 - LHR"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "88EO-3 - RH",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "88EO-3 - LH",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "88EO-3 - RHR",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "88EO-3 - LHR",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

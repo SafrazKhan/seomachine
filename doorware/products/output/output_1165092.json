@@ -1,0 +1,99 @@
+{
+    "legacy_product_id": "1165092",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Top Header Bolt, Adams Rite 4016",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "ADA-4016",
+            "mpn": "ADA-4016",
+            "price": "72.0",
+            "compare_at_price": "72.0",
+            "contractor_price": "72.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Adams Rite 40161001 Header Bolt with 1-1/2\" Backset for 7 Foot Doors",
+                "Top Header Bolts",
+                "Adams Rite 4016",
+                "Adams Rite 4016 Top Header Bolts"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ADA-4016-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ADA-4016-5251.jpg?v=1717106632"
+        },
+        "text": {
+            "description_html": "<b>Adams Rite 4016 Header Bolt</b>\r\n\r\n<p>\r\nAdding the 4016 Header Bolt to a pivoted bolt MS® deadlock provides Maximum Security for pairs of doors with the turn of a single key. Simultaneously extending the stainless steel hexbolts into the header and pivoting the massive MS bolt into the mating door’s stile, the two-point locking solution secures the entire entrance. This is an Adams Rite 4016 Header Bolt for <a href=\"/products/ansi-ms-series-deadlock-adams-rite-ms1850sn-410\"><b>MS1850S Series Mortise Boxes</b></a>.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Adams Rite 4016 Header Bolt for 7 Foot Doors:\r\n<ul>\r\n<li>Door Height: 7'</li>\r\n<li>Header Bolt: Hexagonal 3/8\" [9.5 mm] flat to flat. Made of stainless steel.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold individually</i>\r\n</p>",
+            "seo": {
+                "title": "Bottom Flush Bolt for MS1850S Series Mortise Boxes",
+                "description": "This is an Adams Rite 4016 Header Bolt for MS1850S Series Mortise Boxes.",
+                "keywords": "Adams Rite 40161001 Header Bolt with 1-1/2\" Backset for 7 Foot Doors, Top Header Bolts, Adams Rite 4016, Adams Rite 4016 Top Header Bolts,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Adams Rite",
+                    "sort": "19"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "460103",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "184885",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "369177",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Backset: #10: 1-1/2” Backset",
+                "Select Backset: #20: 31/32” Backset",
+                "Select Backset: #30: 1-1/8”  Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "#10: 1-1/2” Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "#20: 31/32” Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "#30: 1-1/8”  Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

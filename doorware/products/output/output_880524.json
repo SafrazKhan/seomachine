@@ -1,0 +1,96 @@
+{
+    "legacy_product_id": "880524",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Adams Rite Mortise Cylinder and Thumbturn for 4070 Deadlock",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "ADA-4036-4066",
+            "mpn": "ADA-4036-4066",
+            "price": "128.0",
+            "compare_at_price": "128.0",
+            "contractor_price": "128.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "4066 Thumbturn and 4036 Mortise Cylinders",
+                "Adams Rite Mortise Cylinder and Thumbturn for 4070 Deadlocks",
+                "ADA-4036-4066",
+                "Adams Rite 4036",
+                "Adams Rite 4066"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ADA-4036-4066-195.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ADA-4036-4066-195.jpg?v=1716426295"
+        },
+        "text": {
+            "description_html": "<b>4066 Thumbturn and 4036 Mortise Cylinder with 02 Cam</b>\r\n\r\n<p>\r\nThe standard 1 the long, 1-5/32 inch diameter cylinder has five-pin tumbler security. It is designed to operate the Adams Rite for 4070 Deadlock. Comes packaged with (1) 4036 Mortise Cylinder, (1) 4066 Thumturn, and (2) 02 Cams.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Adams Rite Mortise Cylinder and Thumbturn:\r\n<ul>\r\n<li>Keyed Mortise Cylinder (threaded to screw into mortise lock body)</li>\r\n<li>Key Cylinder 5-pin</li>\r\n<li>Cylinder 1\" Body Length</li>\r\n<li>Standard 1-5/32\" Diameter</li>\r\n<li>Adams Rite A/R 02 Cam</li>\r\n<li>Includes 1/4\" Thick Trim Ring</a></li>\r\n<li>Thumbturn 1\" Body Length</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Special Ordered. No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "Adams Rite Mortise Cylinder and Thumbturn for 4070 Deadlock",
+                "description": "The standard 1 the long, 1-5/32 inch diameter cylinder has five-pin tumbler security. It is designed to operate the Adams Rite for 4070 Deadlock. Comes packaged with (1) 4036 Mortise Cylinder, (1) 4066 Thumturn, and (1) 02 Cam.",
+                "keywords": "4066 Thumbturn and 4036 Mortise Cylinders, Adams Rite Mortise Cylinder and Thumbturn for 4070 Deadlocks, ADA-4036-4066, Adams Rite 4036, Adams Rite 4066,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Adams Rite",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "491233",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "193669",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "269127",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "184801",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US28  - Aluminum",
+                "Select Finish: 313 - Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US28  - Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "313 - Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "legacy_product_id": "541879",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Omnia Mortise Lock Box, OMN-001800F",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-001800F",
+            "mpn": "OMN-001800F",
+            "price": "328.0",
+            "compare_at_price": "328.0",
+            "contractor_price": "328.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Omnia Mortise Lock Box",
+                "OMN-001800F"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525239.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525239.gif?v=1711365481"
+        },
+        "text": {
+            "description_html": "<b>Omnia Mortise Lock Box, 001800F</b>\r\n<p>\r\n<ul>\r\n<li>Function: Panic Proof Entry</li>\r\n<li>Backset: 2-1/2\"</li>\r\n\r\n\r\n\r\n</ul>\r\n</p>\r\n<p>\r\nMortise box for <a href=\"/products/stainless-steel-loft-mortise-entryset-omnia-12012\"><b>Omnia 12012 Entry Set</b></a> with lever x lever (lever on both sides of door). \r\n</p>\r\n<p>\r\n<b>*Mortise box Only. </b>\r\n</p>",
+            "seo": {
+                "title": "Omnia Mortise Lock Box, OMN-001800F",
+                "description": "Omnia Mortise Lock Box, OMN-001800F",
+                "keywords": "Omnia Mortise Lock Box, OMN-001800F"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "69"
+                },
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "89"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: OMN-001800F-32D: Satin Stainless Steel",
+                "Select Finish: OMN-001800F-26: Polished Chrome",
+                "Select Handing: OMN-001800F/LH: Left Hand Inswing",
+                "Select Handing: OMN-001800F/RH: Right Hand Inswing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-001800F-32D: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "OMN-001800F-26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-001800F/LH: Left Hand Inswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "OMN-001800F/RH: Right Hand Inswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

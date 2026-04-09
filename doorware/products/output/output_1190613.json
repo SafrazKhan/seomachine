@@ -1,0 +1,115 @@
+{
+    "legacy_product_id": "1190613",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Rim Cylinder Lock, PDQ I0170x-6017",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PDQ-I0170x-6017",
+            "mpn": "PDQ-I0170x-6017",
+            "price": "63.6",
+            "compare_at_price": "84.0",
+            "contractor_price": "57.24",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Rim Cylinder Lock",
+                "PDQ I0170x-6017"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>PDQ Rim Cylinder Lock</b>\r\n<p>\r\nCommercial door rim cylinder lock. Rim cylinders are normally used on the doors exterior to unlatch <a href=\"/collections/panic-devices\"><b>Rim Panic Devices</b></a>.  For for use with <a href=\"/products/grade-1-polished-brass-vertical-rod-exit-device-pdq-4200v-b605\"><b>PDQ-4200V-B605</b></a>, <a href=\"/products/grade-1-polished-brass-rim-exit-device-pdq-4200r-b605\"><b>PDQ-4200R-B605</b></a> and <a href=\"/products/grade-1-polished-brass-exit-device-for-38-48-inch-door-pdq-4200r-a605\"><b>PDQ-4200R-A605</b></a>. Available in Polished Brass, Brushed Chrome or Dark Bronze finish.\r\n</p>\r\n<p>\r\nCan be used on other door hardware items that use a rim cylinder lock. Normal bore hole in door is 1-1/4\" (32 mm). \r\n</p>\r\n<p>\r\n<b>Specifications:</b> for PDQ Rim Cylinder\r\n<ul>\r\n<li>Cylinder Body Diameter: 1-9/64\" (1.140)</li>\r\n<li>Function: Keyed Rim Cylinder</li>\r\n<li>Standard 6-pin Schlage \"E\" Keyway</li>\r\n<li>Flat \"cut to size\" horizontal tail piece</li>\r\n<li>For up to 2-3/4\" thick doors</li>\r\n<li>Packed with 1-7/8\" diameter trim ring</li>\r\n<li>Includes mounting plate and two (2) #12 x 2-1/4\" machine screws</li>\r\n<!-- <li>Finish: Polished Brass</li> -->\r\n</ul>\r\n</p>\r\n<br>",
+            "seo": {
+                "title": "Rim Cylinder Lock, PDQ I0170x-6017",
+                "description": "PDQ rim cylinder lock. Rim cylinders are normally used on the doors exterior to unlatch Rim Panic Devices. Available in Polished Brass, Brushed  Chrome or Dark Bronze finish",
+                "keywords": "Rim Cylinder Lock, PDQ I0170x-6017"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "PDQ Exit Devices",
+                    "sort": "107"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: I01705-6017: Polished Brass",
+                "Select Finish: I01707-6017: Brushed Chrome",
+                "Select Finish: I01706-6017: Dark Bronze",
+                "Keying: Only Ordered One Lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I01705-6017: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "I01707-6017: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "I01706-6017: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

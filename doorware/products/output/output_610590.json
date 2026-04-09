@@ -1,0 +1,145 @@
+{
+    "legacy_product_id": "610590",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Thimble Style Strike, Don-Jo TS-100",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "DJO-TS-100",
+            "mpn": "DJO-TS-100",
+            "price": "7.2",
+            "compare_at_price": "9.0",
+            "contractor_price": "6.48",
+            "shipping_weight": "0.3",
+            "tags": [
+                "DJO-TS-100 Thimble Strikes",
+                "Don-Jo TS-100 Thimble Style Strikes",
+                "Don-Jo TS 100",
+                "Thimble Deadbolt Strikes",
+                "strikes for metal door frames",
+                "Thimble strike TS 100",
+                "DJO-TS-100-bp",
+                "DJO-TS-100-cp",
+                "steel thimble strikes"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-TS100-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-TS100-525.jpg?v=1716424912"
+        },
+        "text": {
+            "description_html": "<b>Don-Jo TS-100, Thimble Strike</b>\r\n\r\n<p>\r\nThis Thimble Style Strike is great for use with both deadbolts or regular latches. It is a great way to have a clean-looking installation without having to mortise in a rectangular strike. this steel Thimble Strike has a 1 inch in diameter. Choose from chrome or brass finishes.\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-TS100-specifications.gif?v=1704354779\" width=\"598\" height=\"191\" border=\"0\" alt=\"TS 100 Thimble Deadbolt Strike Specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Don-Jo TS-100 Thimble Deadbolt Strike:\r\n<ul>\r\n<li>Diameter: 1\"</li>\r\n<li>Depth: 1.315\"</li>\r\n<li>Finishes: Chrome or Brass plated</li>\r\n<li>Base Material: Steel</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Thimble Style Strike, Don-Jo TS-100",
+                "description": "Don-Jo TS-100 Thimble Strike - This Thimble Style Strike is great for use with both deadbolts or regular latches. It is a great way to have a clean-looking installation without having to mortise in a rectangular strike. this steel Thimble Strike has a 1 inch in diameter. Choose from chrome or brass finishes.\r\n",
+                "keywords": "DJO-TS-100 Thimble Strikes, Don-Jo TS-100 Thimble Style Strikes,  Don-Jo TS 100, Thimble Deadbolt Strikes, strikes for metal door frames, Thimble strike TS 100, DJO-TS-100-bp, DJO-TS-100-cp, steel thimble strikes,"
+            },
+            "specifications": [
+                {
+                    "key": "Diameter",
+                    "value": "1\""
+                },
+                {
+                    "key": "Depth",
+                    "value": "1.315\""
+                },
+                {
+                    "key": "Finishes",
+                    "value": "Chrome or Brass plated"
+                },
+                {
+                    "key": "Base Material",
+                    "value": "Steel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Strike Plates",
+                    "sort": "18"
+                },
+                {
+                    "name": "Strike Plates",
+                    "sort": "30"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "604991",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "369243",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "637715",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "335504",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "540540",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "192415",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "192441",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "192438",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "540686",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Diameter: 1\"",
+                "Depth: 1.315\"",
+                "Finishes: Chrome or Brass plated",
+                "Base Material: Steel",
+                "Select Finish: CP: Chrome Plated",
+                "Select Finish: BP: Brass Plated"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "CP: Chrome Plated",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BP: Brass Plated",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

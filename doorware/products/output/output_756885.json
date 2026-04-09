@@ -1,0 +1,120 @@
+{
+    "legacy_product_id": "756885",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "2-5/8 Inch Cylinder Plate, Don-Jo CP-258",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "DJO-CP-258",
+            "mpn": "DJO-CP-258",
+            "price": "6.24",
+            "compare_at_price": "7.8",
+            "contractor_price": "5.62",
+            "shipping_weight": "0.5",
+            "tags": [
+                "2-5/8 Inch Cylinder Hole Filler Plates",
+                "2-5/8 Inch Cylinder Plates",
+                "Don-Jo CP-258",
+                "DJO-CP-258",
+                "exit device lock on outside",
+                "Hole Resize Plate for Cylinders",
+                "Don-Jo CP-258-PC",
+                "Don-Jo CP-258-BP",
+                "Don-Jo CP-258-SL"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-CP258-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-CP258-525.jpg?v=1716425496"
+        },
+        "text": {
+            "description_html": "<b>Don-Jo CP-258, Cylinder Hole Filler Plate</b>\r\n\r\n<p>\r\nThe 2-5/8 Inch Cylinder Plate is used on wood or metal doors to help accommodate a 1-1/4 Inch cylinder in a 2-1/8 inch hole. It is most commonly used in conjunction with an exit device where you would like only a cylinder on the exterior of the door. It can be used with rim or mortise cylinders. \r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-CP258-specifications.gif?v=1704354555\" width=\"410\" height=\"194\" border=\"0\" alt=\"Don-Jo CP-258 Specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Hole Resize Plate for Cylinders:\r\n<ul>\r\n<li>Material: Steel</li>\r\n<li>Overall Diameter: 2.625\" (2-5/8\")</li>\r\n<li>Cut-out Diameter: 1.25\" (1-1/4\")</li>\r\n<li>Will cover a 2-1/8\" standard hole bore.</li>\r\n<li>Thickness: 16 gauge (.060)</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "2-5/8 Inch Cylinder Plate, Don-Jo CP-258",
+                "description": "Don-Jo CP-258, 2-5/8 Inch Cylinder Plate - The 2-5/8 Inch Cylinder Plate is used on wood or metal doors to help accommodate a 1-1/4 Inch cylinder in a 2-1/8 inch hole. It is most commonly used in conjunction with an exit device where you would like only a cylinder on the exterior of the door. It can be used with rim or mortise cylinders.",
+                "keywords": "2-5/8 Inch Cylinder Hole Filler Plates, 2-5/8 Inch Cylinder Plates, Don-Jo CP-258, DJO-CP-258, exit device lock on outside, Hole Resize Plate for Cylinders, Don-Jo CP-258-PC, Don-Jo CP-258-BP, Don-Jo CP-258-SL"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Latch Conversion and Filler Plates",
+                    "sort": "16"
+                },
+                {
+                    "name": "Door Latch Conversion and Filler Plates",
+                    "sort": "23"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "656069",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "368922",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "710551",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "368924",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "656134",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "648251",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: PC: Primer",
+                "Select Finish: SL: Silver Paint",
+                "Select Finish: BP: Brass Plated"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PC: Primer",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SL: Silver Paint",
+                    "price_impact": 4.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BP: Brass Plated",
+                    "price_impact": 7.2,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

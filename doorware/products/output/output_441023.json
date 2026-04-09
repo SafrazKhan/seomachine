@@ -1,0 +1,103 @@
+{
+    "legacy_product_id": "441023",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "White SiliconSeal Adhesive Backed Fire/Smoke Gasketing, Pemko S88W",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "PEM-S88W",
+            "mpn": "PEM-S88W",
+            "price": "44.53",
+            "compare_at_price": "44.53",
+            "contractor_price": "44.53",
+            "shipping_weight": "20.0",
+            "tags": [
+                "SiliconSeal Adhesive Backed Fire/Smoke Gasketing",
+                "Pemko S88W25"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/s88w-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/s88w-525.jpg?v=1717106014"
+        },
+        "text": {
+            "description_html": "<b>White SiliconSeal Adhesive Backed Fire/Smoke Gasketing, Pemko S88W</b>\r\n\r\n<p>\r\nPemko's SiliconSeal adhesive-backed smoke and fire gasketing and edge sealing system is BHMA certified.  It is tested for sound resistance, smoke and draft control, fire rating, positive pressure and airworthiness. These combination fire and smoke gaskets provide an excellent seal against fire and smoke transfer around a rated door assembly. These products meet the requirements of Category G and Category H seals. Edge seals are Category G materials that have demonstrated their ability to assist the door in meeting the positive pressure fire test requirements.  Category G materials are necessary for use with Category B door assemblies. Category G edge seals may also need a Category H smoke seal for a complete fire and smoke assembly.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Pemko S88W Adhesive Backed Fire/Smoke Gasketing:\r\n<ul>\r\n<li>Material: <b>White Silicone</b></li>\r\n<li>Seal begins compressing at 1/4\" and compresses to seal up to a 1/16\" gap.</li>\r\n<li>Extruded from high-temperature silicone and is effective between  -58 degrees F and 450 degrees F</li>\r\n<li>Self-extinguishing and non-toxic</li>\r\n<li>Unaffected by sunlight, ozone and UV rays</li>\r\n<li>Impervious to fungus and mildew</li>\r\n<li>Meets FAR 25.853 Airworthiness Standards for Compartment Interiors</li>\r\n<li>Smoke tested in accordance with UBC 7-2 and UL 1784-01</li>\r\n<li>Meets requirements of NFPA 105 \"Standard for the Installation of Smoke Door Assemblies and Other Opening Protectives\"</li>\r\n<li>Air Infiltration tested in accordance with ASTM E-283-04.  Air infiltration is only .09 CFM/ft of crack</li>\r\n<li>Must be used within 6 months and be stored between 50 degrees F and 100 degrees F</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Sizes</b>\r\n<ul>\r\n<li><b>S88W20:</b> 20 Foot</li>\r\n<li><b>S88W25:</b> 25 Foot</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nSpecial ordered item. <b>Not Returnable.</b>\r\n</p>",
+            "seo": {
+                "title": "SiliconSeal Adhesive Backed Fire/Smoke Gasketing, Pemko S88W25",
+                "description": "SiliconSeal Adhesive Backed Fire/Smoke Gasketing, Pemko S88W25",
+                "keywords": "SiliconSeal Adhesive Backed Fire/Smoke Gasketing, Pemko S88W25"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "White Silicone"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Pemko",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "232553",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "232568",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "969105",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "968788",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "238949",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: White Silicone",
+                "Select Size: S88W20: 20 Foot",
+                "Select Size: S88W25: 25 Foot"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "S88W20: 20 Foot",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "S88W25: 25 Foot",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

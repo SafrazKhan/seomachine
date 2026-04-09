@@ -1,0 +1,159 @@
+{
+    "legacy_product_id": "557033",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Lattice Cabinet Knob, RK International CK-752",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-752",
+            "mpn": "RKI-CK-752",
+            "price": "13.99",
+            "compare_at_price": "17.6",
+            "contractor_price": "13.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Cross-Hatched Cabinet Knobs",
+                "Lattice Cabinet Knobs",
+                "RK International CK-752",
+                "RKI-CK-752",
+                "Lattice Design Cabinet Knobs",
+                "traditional cabinet knobs",
+                "farm house cabinet hardware",
+                "RKI-CK-521",
+                "RK International CK-751"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-751-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-751-525.jpg?v=1716424436"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-752, Lattice Design Cabinet Knob</b>\r\n\r\n<p>\r\nThe lattice work on the Cross-Hatched Cabinet Knob really picks up the highlights of any of the 5 available finishes. This knob would be great in traditional style kitchens, and we can't help but picture it on the door to a wine cabinet. It is available in 1-1/4 inch and 1-1/2 inch diameters.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-752 Cross-Hatched Cabinet Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Available in 2 Sizes</b>\r\n<ul>\r\n<b>RKI-CK-752:</b>\r\n<ul>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-1/16\"</li>\r\n</ul>\r\n<br>\r\n<b>RKI-CK-751:</b>\r\n<ul>\r\n<li>Diameter: 1-1/2\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MUL-T-LOCK-G55G1_size.gif?v=1704354738\" width=\"600\" height=\"146\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Lattice Cabinet Knob",
+                "description": "RK International CK-752, Lattice Cabinet Knob - The lattice work on the Cross-Hatched Cabinet Knob really picks up the highlights of any of the 5 available finishes. This knob would be great in traditional style kitchens, and we can't help but picture it on the door to a wine cabinet. It is available in 1-1/4 inch and 1-1/2 inch diameters.",
+                "keywords": "Cross-Hatched Cabinet Knobs, Lattice Cabinet Knobs, RK International CK-752, RKI-CK-752, Lattice Design Cabinet Knobs, traditional cabinet knobs, farm house cabinet hardware, RKI-CK-521, RK International CK-751"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "7"
+                },
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "551079",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "576396",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "563313",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "612984",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "880798",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "1035690",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Size: CK-752: 1-1/4in. Diameter",
+                "Select Size: CK-751: 1-1/2in. Diameter",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "CK-752: 1-1/4in. Diameter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CK-751: 1-1/2in. Diameter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

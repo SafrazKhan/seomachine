@@ -1,0 +1,210 @@
+{
+    "legacy_product_id": "560983",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Beveled Cabinet Knob, RK International CK-9214",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-9214",
+            "mpn": "RKI-CK-9214",
+            "price": "14.99",
+            "compare_at_price": "18.7",
+            "contractor_price": "14.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RK International CK-9214 step up beauty knobs",
+                "RK International CK-9214 step up with brass middle beauty knobs",
+                "Beveled Cabinet Knobs",
+                "two tone cabinet knobs",
+                "ridged cabinet knobs",
+                "traditional cabinet hardware",
+                "RKI-CK-9214"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ck-9214-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ck-9214-525.jpg?v=1716424500"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-9214, Ridged Cabinet Knob</b>\r\n\r\n<p>\r\nThis traditional cabinet pull has a 1-1/4 inch diameter and comes packaged with all the necessary installation hardware. RK International's CK-9214 Beveled Cabinet Knob has a classic shape brought to life by the flow of the knob's ridges; but its true beauty lies in the array of finishes. In total, the ridged cabinet knob is available in 10 different finishes, including two toned and solid varieties. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-9214 Step Up Beauty Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter 1-1/4\"</li>\r\n<li>Projection: 1-3/16\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Beveled Cabinet Knob",
+                "description": "RK International CK-9214, Beveled Cabinet Knob - This traditional cabinet pull has a 1-1/4 inch diameter and comes packaged with all the necessary installation hardware. RK International's CK-9214 Beveled Cabinet Knob has a classic shape brought to life by the flow of the knob's ridges; but its true beauty lies in the array of finishes. In total, the ridged cabinet knob is available in 10 different finishes, including two toned and solid varieties.",
+                "keywords": "RK International CK-9214 step up beauty knobs, RK International CK-9214 step up with brass middle beauty knobs, Beveled Cabinet Knobs, two tone cabinet knobs, ridged cabinet knobs, traditional cabinet hardware, RKI-CK-9214"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "9"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "42152",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "42914",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "42697",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "223013",
+                    "sort": "12"
+                },
+                {
+                    "legacy_product_id": "558569",
+                    "sort": "13"
+                },
+                {
+                    "legacy_product_id": "477409",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "559185",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "552950",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "148918",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "396514",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "292686",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "304259",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "237721",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: BRB: Oil Rubbed Bronze with Polished Brass",
+                "Select Finish: BP: Satin Nickel with Polished Brass",
+                "Select Finish: B: Polished Brass",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: C: Polished Chrome",
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: RB: Oil Rubbed Bronze",
+                "Select Finish: SB: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BRB: Oil Rubbed Bronze with Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-9214-orb-pb1.jpg?v=1774586206",
+                    "image_lg": null
+                },
+                {
+                    "value": "BP: Satin Nickel with Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-9214-p-pb1.jpg?v=1774586211",
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-9214-pb1.jpg?v=1774586214",
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-9214-be1.jpg?v=1774586197",
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-9214-dc1.jpg?v=1774586200",
+                    "image_lg": null
+                },
+                {
+                    "value": "C: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-9214-pc1.jpg?v=1774586217",
+                    "image_lg": null
+                },
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ck-9214-pn1.jpg?v=1774586223",
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ck-9214-pewter-12.jpg?v=1774586220",
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-9214-dn1.jpg?v=1774586203",
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ck-9214-orb1.jpg?v=1774586209",
+                    "image_lg": null
+                },
+                {
+                    "value": "SB: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-CK9214sb-sm.jpg?v=1774588135",
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

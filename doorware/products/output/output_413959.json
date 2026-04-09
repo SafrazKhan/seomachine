@@ -1,0 +1,149 @@
+{
+    "legacy_product_id": "413959",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:12:15.137955"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Schlage Satin Chrome Conventional I/C Core, SCH-23-030C-626",
+            "vendor": "Schlage",
+            "status": "ACTIVE",
+            "sku": "SCH-23-030C-626",
+            "mpn": "SCH-23-030C-626",
+            "price": "91.99",
+            "compare_at_price": "102.0",
+            "contractor_price": "91.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Schlage 23-030C-626 Satin Chrome Conventional I/C Core",
+                "SCH-23-030C-626 Schlage Satin Chrome Conventional I/C Core",
+                "Schlage large formate interchangeable cores"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Schlage Conventional \"C\" Keyway I/C Core</b>\r\n<p>\r\nFull sized large format interchangeable core (LFIC).  Comes standard 1 Bitted (code 111111) for onsite keying, or available keyed alike or keyed different that includes 1 key per cylinder.  Additional cylinder keys and control keys sold separately.  \r\n</p>\r\n<p>For use with all locks that use a Schlage LFIC core including <a href=\"/products/simplex-keypad-entry-lock-with-key-override-kaba-1021\"><b>KABA 1021 Simplex Keypad Entry Lock</b></a>, <a href=\"/products/simplex-keypad-entry-lock-with-passage-feature-and-key-override-kaba-1041\"><b>KABA 1041 Simplex Keypad Entry Lock with Passage Feature</b></a> and <a href=\"/products/simplex-keypad-entry-lever-lock-with-key-override-kaba-l1021\"><b>KABA L1021 Simplex Keypad Entry Lever Lock</b></a>.\r\n</p>\r\n<p>\r\n<b>*Note:</b> To install or remove the \"Core\" you will need a <a href=\"/products/schlage-control-key-for-conventional-i-c-core\"><b>Schlage Control Key</b></a>. Each lock combination (lock code) requires one (1) \"Control Key\". <br>\r\nEx: If you order three (3) locks Keyed Different, you will need three (3) Control Keys. If you order three (3) locks Keyed Alike, you will only need one (1) Control Key. \r\n</p>\r\n<p>\r\n<b>Specifications:</b> for Schlage Large Format I/C Core\r\n<ul>\r\n<li>Keyway: Standard 6 Pin \"C\" Keyway</li>\r\n<li>Finish: Brushed Chrome</li>\r\n</ul>\r\n</p>\r\n<p>\r\n**Click here to order <a href=\"/products/schlage-control-key-for-conventional-i-c-core\"><b>Schlage Control Keys</b></a>, they are <b>sold separately</b>.\r\n</p>",
+            "seo": {
+                "title": "Schlage Satin Chrome Conventional I/C Core, SCH-23-030C-626",
+                "description": "Schlage 23-030C-626 Full sized large format interchangeable core (LFIC).  For use with all locks that use a Schlage LFIC core. Schlage Conventional C Keyway I/C Core.",
+                "keywords": "Schlage 23-030C-626 Satin Chrome Conventional I/C Core, SCH-23-030C-626 Schlage Satin Chrome Conventional I/C Core, Schlage large formate interchangeable cores,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "293236",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "299763",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "454732",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "268680",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "268737",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "150000",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Keying Option: 1 Bitted For Onsite Keying",
+                "Select Keying Option: Keyed Different, Includes 1 Key per Cylinder",
+                "Select Keying Option: Keyed Alike, Includes 1 Key per Cylinder",
+                "Select Additional Keys Needed: 1 Additional Key Per Cylinder",
+                "Select Additional Keys Needed: 2 Additional Key Per Cylinder",
+                "Select Additional Keys Needed: 3 Additional Key Per Cylinder",
+                "Select Additional Keys Needed: 4 Additional Key Per Cylinder"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Keying Option",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1 Bitted For Onsite Keying",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different, Includes 1 Key per Cylinder",
+                    "price_impact": 40.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike, Includes 1 Key per Cylinder",
+                    "price_impact": 40.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Additional Keys Needed",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1 Additional Key Per Cylinder",
+                    "price_impact": 10.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2 Additional Key Per Cylinder",
+                    "price_impact": 19.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "3 Additional Key Per Cylinder",
+                    "price_impact": 29.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "4 Additional Key Per Cylinder",
+                    "price_impact": 38.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

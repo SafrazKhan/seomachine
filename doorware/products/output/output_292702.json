@@ -1,0 +1,67 @@
+{
+    "legacy_product_id": "292702",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Door Catches",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "302-Door-Catches",
+            "mpn": "302-Door-Catches",
+            "price": "0.0",
+            "compare_at_price": "0.0",
+            "contractor_price": "0.0",
+            "shipping_weight": "0.0",
+            "tags": [
+                "Door Catches",
+                "ball catches",
+                "roller catches",
+                "magnetic catches",
+                "window catches",
+                "cabinet catches"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Door-Catches-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Door-Catches-525.jpg?v=1717788830"
+        },
+        "text": {
+            "description_html": "<b>Door Catches</b>\r\n<p align=\"left\">\r\nWe have ball catches, roller catches, and magnetic catches for every door in you home in a variety of sizes.\r\n</p>",
+            "seo": {
+                "title": "Door Catches",
+                "description": "We have ball catches, roller catches, window catches, cabinet catches and magnetic catches for every door in you home in a variety of sizes.",
+                "keywords": "Door Catches, ball catches, roller catches, magnetic catches, window catches, cabinet catches"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Redirect Pages",
+                    "sort": "23"
+                },
+                {
+                    "name": "Cabinet Locks and Catches",
+                    "sort": "101"
+                },
+                {
+                    "name": "Acorn Latches, Locks, and Bolts",
+                    "sort": "30"
+                },
+                {
+                    "name": "Door Hooks, Bolts, Latches, and Locks",
+                    "sort": "71"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

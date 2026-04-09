@@ -1,0 +1,140 @@
+{
+    "legacy_product_id": "1169502",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Riviera Rectangular Cabinet Knob, Emtek 86613",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-86613",
+            "mpn": "EMT-86613",
+            "price": "21.99",
+            "compare_at_price": "27.0",
+            "contractor_price": "21.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "1-1/4 Inch Hollywood Regency Cabinet Knobs",
+                "EMT-86613",
+                "Emtek 86613",
+                "Riviera Rectangular Cabinet Knobs",
+                "Riviera Rectangular Cabinet Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86613-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86613-525.jpg?v=1716428742"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86613, Rectangular Riviera Cabinet Knob</b>\r\n\r\n<p>\r\nThe Rectangular Riviera Cabinet Knob is a stunning transitional pull from Emtek. Available in the design world's best trending finish color options. The Riviera Rectangular Cabinet Knob is a nice sized kitchen cabinet knob that is well-suited for large cabinet doors. \r\n</p>\r\n\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/1-1-4-inch-riviera-square-cabinet-knob-emtek-86612\"><b>Riviera Square Cabinet Knob</b></a>, <a href=\"/products/riviera-cabinet-pull-emtek-86614\"><b>Riviera Cabinet Pull</b></a>, and <a href=\"/products/riviera-appliance-pull-emtek-ap-86621\"><b>Riviera Appliance Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Riviera Rectangular Cabinet Knob:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Length: 2\"x 1-3/8\"</li>\r\n<li>Total Projection: 1-1/2\"</li>\r\n<li>Base Width: 5/8\" x 1\"</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86613-Specifications.pdf?v=1704262439\"><b>Emtek 86613 Specifications (PDF)</b></a>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-modern-5-Finishes.jpg?v=1704354501\" width=\"511\" height=\"111\" border=\"0\" alt=\"Emtek Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "Riviera Rectangular Cabinet Knob",
+                "description": "The Rectangular Riviera Cabinet Knob is a stunning transitional pull from Emtek. Available in the design world's best trending finish color options. The Riviera Rectangular Cabinet Knob is a nice sized kitchen cabinet knob that is well-suited for large cabinet doors.",
+                "keywords": "1-1/4 Inch Hollywood Regency Cabinet Knobs, EMT-86613, Emtek 86613,  Riviera Rectangular Cabinet Knobs, Riviera Rectangular Cabinet Knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Cabinet Hardware",
+                    "sort": "137"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1169484",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "824166",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1154933",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1037291",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1145745",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "1038203",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "890070",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US10B: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

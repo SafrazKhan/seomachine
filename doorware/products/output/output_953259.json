@@ -1,0 +1,141 @@
+{
+    "legacy_product_id": "953259",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Round Privacy Thumbturn and Emergency Egress, AHI SIG251",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-SIG251",
+            "mpn": "AHI-SIG251",
+            "price": "99.2",
+            "compare_at_price": "99.2",
+            "contractor_price": "99.2",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Round Privacy Thumbturn Sets",
+                "2-1/16 Inch Round Privacy Bolt Sets",
+                "Round Privacy Thumbturn and Emergency Egress",
+                "AHI SIG251",
+                "AHI-SIG251"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AHI-SIG251-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-SIG251-525.jpg?v=1716427224"
+        },
+        "text": {
+            "description_html": "<b>AHI SIG251, 2-1/16 Inch Round Privacy Bolt Set</b>\r\n\r\n<p>\r\nThis is a Round Privacy Thumbturn and Emergency Egress Set for use with a 6mm square spindle.\r\n</p>\r\n\r\n<p>\r\n<b>Privacy Lock:</b> Locks but has access to unlock from the outside via emergency turn. Privacy locks do not offer security, they offer privacy.\r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-SIG251-specifications.gif?v=1704442291\" width\"600\" height=\"247\" border=\"0\" atl=\"AHI SIG251 Specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Round Privacy Thumbturn Set:\r\n<ul>\r\n<li>Material: <b>Stainless Steel</b></li>\r\n<li>Exterior Diameter: 2-1/16\"</li>\r\n<li>Exterior Projection: 3/8\"</li>\r\n<li>Coin Release Diameter: 15/16\"</li>\r\n<li>Interior Diameter: 2-1/16\"</li>\r\n<li>Thumbturn Length: 15/16\"</li>\r\n<li>Bolt Throw: 9/16\"</li>\r\n<li>Bolt Width: 3/4\"\r\n<li>Trim only for 6mm square spindle.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-251-specifications.pdf?v=1691093353\" target=\"new\"><b>AHI SIG251 Dimensions Diagram (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Round Privacy Thumbturn and Emergency Egress",
+                "description": "This is a Round Privacy Thumbturn and Emergency Egress Set for use with a 6mm square spindle.",
+                "keywords": "Round Privacy Thumbturn Sets, 2-1/16 Inch Round Privacy Bolt Sets, Round Privacy Thumbturn and Emergency Egress, AHI SIG251, AHI-SIG251,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Stainless Steel"
+                },
+                {
+                    "key": "Exterior Diameter",
+                    "value": "2-1/16\""
+                },
+                {
+                    "key": "Exterior Projection",
+                    "value": "3/8\""
+                },
+                {
+                    "key": "Coin Release Diameter",
+                    "value": "15/16\""
+                },
+                {
+                    "key": "Interior Diameter",
+                    "value": "2-1/16\""
+                },
+                {
+                    "key": "Thumbturn Length",
+                    "value": "15/16\""
+                },
+                {
+                    "key": "Bolt Throw",
+                    "value": "9/16\""
+                },
+                {
+                    "key": "Bolt Width",
+                    "value": "3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "AHI Miscellaneous Parts",
+                    "sort": "28"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "273949",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "29322",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "396127",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "953225",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "172863",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Stainless Steel",
+                "Exterior Diameter: 2-1/16\"",
+                "Exterior Projection: 3/8\"",
+                "Coin Release Diameter: 15/16\"",
+                "Interior Diameter: 2-1/16\"",
+                "Thumbturn Length: 15/16\"",
+                "Bolt Throw: 9/16\"",
+                "Bolt Width: 3/4\"",
+                "Select Finish: 630: Satin Stainless Steel",
+                "Select Finish: P22: Matte Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "630: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P22: Matte Black",
+                    "price_impact": 30.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

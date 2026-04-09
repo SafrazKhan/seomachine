@@ -1,0 +1,121 @@
+{
+    "legacy_product_id": "1026187",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Colonial Knocker, Baldwin 0102",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-0102",
+            "mpn": "BAL-0102",
+            "price": "83.0",
+            "compare_at_price": "83.0",
+            "contractor_price": "83.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "historical building decorating",
+                "traditional home decorating",
+                "colonial america decor",
+                "Solid Brass Colonial Door Knockers",
+                "Colonial Knockers",
+                "Baldwin 0102",
+                "BAL-0102",
+                "Colonial Front Door Knockers",
+                "Traditional Colonial Solid Brass Knockers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-0102-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-0102-525.jpg?v=1716427752"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 0102, Colonial Front Door Knocker</b>\r\n\r\n<p>\r\nThe Colonial Knocker is a beautiful example of traditional decor. It will add a historical touch to your front door. It is 6-1/2 inches tall and 3-1/2 inches wide. The Colonial Door Knocker comes packaged with the installation hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Traditional Colonial Solid Brass Knocker:\r\n<ul>\r\n<li>Height: 6-1/2\"</li>\r\n<li>Width: 3-1/2\"</li>\r\n<li>Mounting Center: 4\"</li>\r\n<li>Material: Solid Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>",
+            "seo": {
+                "title": "Colonial Knocker",
+                "description": "The Colonial Knocker is a beautiful example of traditional decor. It will add a historical touch to your front door. It is 6-1/2 inches tall and 3-1/2 inches wide. The Colonial Door Knocker comes packaged with the installation hardware.",
+                "keywords": "historical building decorating, traditional home decorating, colonial america decor,Solid Brass Colonial Door Knockers, Colonial Knockers, Baldwin 0102, BAL-0102, Colonial Front Door Knockers, Traditional Colonial Solid Brass Knockers,"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "6-1/2\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3-1/2\""
+                },
+                {
+                    "key": "Mounting Center",
+                    "value": "4\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knockers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knockers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-6",
+            "collections": [
+                {
+                    "name": "Baldwin Door Knockers",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "66225",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "143720",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "12444",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "12446",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "447212",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "157012",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Height: 6-1/2\"",
+                "Width: 3-1/2\"",
+                "Mounting Center: 4\"",
+                "Material: Solid Brass",
+                "Select Finish: 102: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "102: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

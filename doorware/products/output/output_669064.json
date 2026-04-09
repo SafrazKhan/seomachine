@@ -1,0 +1,80 @@
+{
+    "legacy_product_id": "669064",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Screw Covers for THI-1183 Continuous Hinge, Mont Hard THI-1183COV",
+            "vendor": "Global",
+            "status": "ARCHIVED",
+            "sku": "GLO-THI-1183COV",
+            "mpn": "GLO-THI-1183COV",
+            "price": "57.5",
+            "compare_at_price": "69.0",
+            "contractor_price": "57.5",
+            "shipping_weight": "3.0",
+            "tags": [
+                "THI-1183 Screw Covers",
+                "Screw Covers for THI-1183 Continuous Hinges",
+                "Mont Hard THI-1183COV",
+                "GLO-THI-1183COV",
+                "THI-1183COV Screw Covers",
+                "Screw Covers for the THI-1183 Series Surface Mount Continuous Hinges"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Screw Covers for the THI-1183 Series Surface Mount Continuous Hinge</b>\r\n\r\n<p>\r\nDesigned to fit the THI-1183 Surface Mounted Continuous Hinge, the THI-1183COV screw cover comes packaged with 2 covers: the first is is 25/32\" wide and the second is 5/52\" wide. Both run along the length of the entire hinge to hide all the unsightly screws. Choose from Aluminum or Dark Bronze.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the THI-1183COV Screw Cover:\r\n<ul>\r\n<li>Left Screw Cover: 25/32\" Wide x 83\" Long</li>\r\n<li>Right Screw Cover: 5/52\" Wide x 83\" Long</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Includes Two (2) Screw Covers</i>\r\n</p>",
+            "seo": {
+                "title": "Screw Covers for THI-1183 Continuous Hinge, Mont Hard THI-1183COV",
+                "description": "Designed to fit the THI-1183 Surface Mounted Continuous Hinge, the THI-1183COV screw cover comes packaged with 2 covers: the first is is 25/32 inches wide and the second is 5/52 inches wide. Both run along the length of the entire hinge to hide all the unsightly screws. Choose from Aluminum or Dark Bronze.\r\n",
+                "keywords": "THI-1183 Screw Covers, Screw Covers for THI-1183 Continuous Hinges, Mont Hard THI-1183COV, GLO-THI-1183COV, THI-1183COV Screw Covers, Screw Covers for the THI-1183 Series Surface Mount Continuous Hinges,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Global Commercial Door Hinges",
+                    "sort": "100"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: AL - Aluminum",
+                "Select Finish: DU - Duronotic"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AL - Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DU - Duronotic",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "legacy_product_id": "1171719",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Single Cylinder Mortise Faceplate, Omnia 012/A",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-012/A",
+            "mpn": "OMN-012/A",
+            "price": "33.0",
+            "compare_at_price": "33.0",
+            "contractor_price": "33.0",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Faceplate for Mortise Passage Lock",
+                "Omnia 012/A",
+                "OMN-012/A"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525209.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525209.gif?v=1716428763"
+        },
+        "text": {
+            "description_html": "<b>Omnia 012/A Single Cylinder Mortise Faceplate</b>\r\n\r\n<p>\r\nThis is a mortise faceplate for the <a href=\"/products/modern-chic-mortise-lockset-omnia-12036\"> Omnia 12036 Mortise Lockset</a>.\r\n</p>",
+            "seo": {
+                "title": "Single Cylinder Mortise Faceplate",
+                "description": "Single Cylinder Mortise Faceplate",
+                "keywords": "Faceplate for Mortise Passage Lock, Omnia 012/A, OMN-012/A"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "112"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: US15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

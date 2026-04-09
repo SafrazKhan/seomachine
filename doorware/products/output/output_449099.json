@@ -1,0 +1,213 @@
+{
+    "legacy_product_id": "449099",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "24 Inch Door Handles, Satin Stainless Steel",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "DWD-443-610-630",
+            "mpn": "DWD-443-610-630",
+            "price": "236.8",
+            "compare_at_price": "296.0",
+            "contractor_price": "224.96",
+            "shipping_weight": "6.0",
+            "tags": [
+                "DWD-443-610-630 14 Inch square Stainless Door Pulls",
+                "14 Inch Contemporary Stainless Steel Door Pulls",
+                "AHI SIG443-610-630 Brushed Stainless Steel Door Pulls",
+                "AHI SIG443-610 door pulls",
+                "14 inch commercial door pulls",
+                "storefront door pulls",
+                "storefront stainless door pulls",
+                "stainless storefront door pulls",
+                "1 foot door pulls",
+                "Square Door Handles",
+                "Square Door pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/443-355-pull_5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/443-355-pull_5251.jpg?v=1711365476"
+        },
+        "text": {
+            "description_html": "<b>24\" Square Stainless Steel Door Handle</b>\r\n<p>\r\nThese 24\" stainless steel door handles feature an easy to grip 1-3/16\" square pull handle that is very comfortable.   For use on residential and commercial doors such as storefront doors. Warm <b>Satin Stainless Steel</b> finish requiring little maintenance, designed to enhance any setting where a clean contemporary look is desired. \r\n</p>\r\n<p>\r\n<b>Specifications</b> for Square Stainless Door Handle\r\n<ul>\r\n<li>Total Length: 24\" (610 mm)</li>\r\n<li>Mounting Hole Center to Center:  14\"</li>\r\n<li>Projection: 3-1/8\" (80 mm)</li>\r\n<li>Handle Diameter: 1-3/16\" (31 mm) Square</li>\r\n<li>Material: 304 Stainless Steel Tubing</li>\r\n<li>Finish: <b>Satin Stainless Steel</b></li> \r\n</ul>\r\n</p>\r\n<p>\r\nPackaged Standard with Thrubolt mounting (Bolts thru the door). Optional  Surface mounted (Screws to the door face) or Back to Back mounting available (Pulls bolt to each other - Requires 2 door pulls).\r\n</p>\r\n<p>\r\n<b>*Sold individually (1 door pull handle).</b>\r\n</p>",
+            "seo": {
+                "title": "24 Inch Door Handles, Satin Stainless Steel",
+                "description": "These 24 inch stainless steel door handle feature an easy to grip 1-3/16 inch square pull handle that is very comfortable. Optional mounting kits for use on wood, metal or glass doors.  For use on residential and commercial doors such as storefront doors. Warm Satin Stainless Steel finish requiring little maintenance, designed to enhance any setting where a clean contemporary look is desired.",
+                "keywords": "DWD-443-610-630 14 Inch square Stainless Door Pulls, 14 Inch Contemporary Stainless Steel Door Pulls, AHI SIG443-610-630 Brushed Stainless Steel Door Pulls, AHI SIG443-610 door pulls, 14 inch commercial door pulls, storefront door pulls, storefront stainless door pulls, stainless storefront door pulls, 1 foot door pulls, Square Door Handles, Square Door pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Total Length",
+                    "value": "24\" (610 mm)"
+                },
+                {
+                    "key": "Mounting Hole Center to Center",
+                    "value": "14\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "3-1/8\" (80 mm)"
+                },
+                {
+                    "key": "Handle Diameter",
+                    "value": "1-3/16\" (31 mm) Square"
+                },
+                {
+                    "key": "Material",
+                    "value": "304 Stainless Steel Tubing"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Satin Stainless Steel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "AHI-Discontinued-and-Custom",
+                    "sort": "28"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Total Length: 24\" (610 mm)",
+                "Mounting Hole Center to Center: 14\"",
+                "Projection: 3-1/8\" (80 mm)",
+                "Handle Diameter: 1-3/16\" (31 mm) Square",
+                "Material: 304 Stainless Steel Tubing",
+                "Finish: Satin Stainless Steel",
+                "Select Door Thickness Range: 1/4in. to 1/2in.",
+                "Select Door Thickness Range: 5/8in. to 1in.",
+                "Select Door Thickness Range: 1-1/8in. to 1-1/2in.",
+                "Select Door Thickness Range: 1-5/8in. to 2in.",
+                "Select Door Thickness Range: 2-1/8in. to 2-1/2in.",
+                "Select Door Thickness Range: 2-1/2in. to 3in.",
+                "Select Door Material: Wood / Fiberglass",
+                "Select Door Material: Glass",
+                "Select Door Material: Metal",
+                "Select Mounting Choice: Thru-Bolted Mounting",
+                "Select Mounting Choice: Surface Mounting",
+                "Select Mounting Choice: Back to Back Mounting (Requires 2 Pulls)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness Range",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1/4in. to 1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "1/2\""
+                },
+                {
+                    "value": "5/8in. to 1in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2"
+                },
+                {
+                    "value": "1-1/8in. to 1-1/2in. ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "3"
+                },
+                {
+                    "value": "1-5/8in. to 2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-1/8in. to 2-1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-1/2in. to 3in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Material",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Wood / Fiberglass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Glass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Metal",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Mounting Choice",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Thru-Bolted Mounting",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Surface Mounting",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Back to Back Mounting (Requires 2 Pulls)",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

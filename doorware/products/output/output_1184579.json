@@ -1,0 +1,91 @@
+{
+    "legacy_product_id": "1184579",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Brass Rectangular Door Knocker, Baldwin 0183",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-0183",
+            "mpn": "BAL-0183",
+            "price": "145.6",
+            "compare_at_price": "182.0",
+            "contractor_price": "145.6",
+            "shipping_weight": "1.0",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Baldwin 0183 Rectangular Door Knocker</b>\r\n\r\n<p>\r\nThis modern door knocker is made solid brass. It is thru-bolt mounted with 5\" center to center mounting holes (distance between the two mounting screw holes). It comes packaged with mounting hardware. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Baldwin 0183 Rectangullar Door Knocker:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Height: 5.91\"</li>\r\n<li>Width: 4.28\"</li>\r\n<li>Mounting Centers: 5\" c.c. (distance between the 2 mounting screws)</li>\r\n<li>Mounting: Thru-Bolted (screws go thru the door)</li>\r\n<li>Includes matching finish mounting hardware.</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Solid Brass Rectangular Door Knocker, Baldwin 0183",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Height",
+                    "value": "5.91\""
+                },
+                {
+                    "key": "Width",
+                    "value": "4.28\""
+                },
+                {
+                    "key": "Mounting Centers",
+                    "value": "5\" c.c. (distance between the 2 mounting screws)"
+                },
+                {
+                    "key": "Mounting",
+                    "value": "Thru-Bolted (screws go thru the door)"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Door Knockers",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Height: 5.91\"",
+                "Width: 4.28\"",
+                "Mounting Centers: 5\" c.c. (distance between the 2 mounting screws)",
+                "Mounting: Thru-Bolted (screws go thru the door)",
+                "Select Finish: 003: PVD Lifetime Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "003: PVD Lifetime Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

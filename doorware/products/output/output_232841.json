@@ -1,0 +1,97 @@
+{
+    "legacy_product_id": "232841",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Glynn Johnson HL6 Storeroom Lock Mortise Latch",
+            "vendor": "Glynn-Johnson",
+            "status": "ARCHIVED",
+            "sku": "GJ-HL6-L9080",
+            "mpn": "GJ-HL6-L9080",
+            "price": "569.1",
+            "compare_at_price": "865.0",
+            "contractor_price": "569.1",
+            "shipping_weight": "10.0",
+            "tags": [
+                "GJ-HL6-L9080",
+                "Glynn Johnson",
+                "HL6 Mortise Latch",
+                "commercial latches",
+                "industrial latches",
+                "fire doors",
+                "fire door latches",
+                "school latches",
+                "storeroom door latches",
+                "school room door latches",
+                "stainless steel"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/hl6-500.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/hl6-500.jpg?v=1716422228"
+        },
+        "text": {
+            "description_html": "<b>Glynn-Johnson HL6 Storeroom Lock Mortise Latch</b>\r\n<p>\r\nHL-6 Push / Pull Latches for installations where both versatility and durability are critical. Ideal for use on commercial and industrial doors up to 1 3/4\" thick, including fire doors. \r\n</p>\r\n<p>\r\n<b>Storeroom Lock Function</b> (ANSI F07)\r\n<br>\r\nLatchbolt retracted by key outside or by handle inside. Outside\r\nhandle always inoperative. Auxiliary latch deadlocks latchbolt\r\nwhen door is closed\r\n</p>\r\n<p>\r\nPackaged as a set: Glynn-Johnson HL6 Push/Pull, Schlage L9080 Mortise Latch and Schlage Mortise lock cylinder.\r\n</p>",
+            "seo": {
+                "title": "Glynn Johnson HL6 Storeroom Lock Mortise Latch",
+                "description": "GJ-HL6-L9080 Glynn Johnson HL6 Mortise Latch. Commercial or Industrial use.",
+                "keywords": "GJ-HL6-L9080, Glynn Johnson, HL6 Mortise Latch, commercial latches, industrial latches, fire doors, fire door latches, school latches, storeroom door latches, school room door latches, stainless steel,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Glynn-Johnson",
+                    "sort": "20"
+                },
+                {
+                    "name": "Schlage Commercial",
+                    "sort": "42"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: GJ-HL6-L9080-613 - Oil Rubbed Bronze",
+                "Select Finish: GJ-HL6-L9080-625 - Brushed Chrome",
+                "Select Finish: GJ-HL6-L9080-605 - Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GJ-HL6-L9080-613 - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GJ-HL6-L9080-625 - Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GJ-HL6-L9080-605 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

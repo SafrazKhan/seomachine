@@ -1,0 +1,154 @@
+{
+    "legacy_product_id": "585543",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Camden Door Knocker, Brass Accents A03-K4003",
+            "vendor": "BrassAccents",
+            "status": "ACTIVE",
+            "sku": "BRA-A03-K4003",
+            "mpn": "BRA-A03-K4003",
+            "price": "57.99",
+            "compare_at_price": "72.0",
+            "contractor_price": "54.72",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Solid Brass Camden Knockers",
+                "Brass Accents A03-K4003",
+                "Camden Door Knockers",
+                "BRA-A03-K4003",
+                "Camden Urn Tip Door Knockers",
+                "traditional door knockers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BRA-A03-K4003-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BRA-A03-K4003-525.jpg?v=1716424783"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents A03-K4003, Camden Urn Tip Door Knocker</b>\r\n\r\n<p>\r\nThe traditional design of the Camden Door Knocker really shines amongst historical architecture and contemporary colonial designs alike. The urn tip gives this simple knocker a point of interest that is not only elegant, but also adds a since of tradition. The Camden Urn Tip Door Knocker is made out of solid brass and is available in an array of finishes. Comes packaged with all the necessary mounting hardware.\r\n</p>\r\n\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance. Their products are hand finished in the USA. They are one of the world's leading crafters of cast-brass and hot-forged decorative brass hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Solid Brass Camden Knocker:\r\n<ul>\r\n<li>Height: 7-9/16\"</li>\r\n<li>Width: 3-5/8\"</li>\r\n<li>Mounting Center: 4-1/4\"</li>\r\n<li>Projection: 1-3/16\"</li>\r\n<li>Solid Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>",
+            "seo": {
+                "title": "Camden Door Knocker, Brass Accents A03-K4003",
+                "description": "Brass Accents A03-K4003 Camden Door Knocker -- The traditional design of the Camden Door Knocker really shines amongst historical architecture and contemporary colonial designs alike. The urn tip gives this simple knocker a point of interest that is not only elegant, but also adds a since of tradition. The Camden Urn Tip Door Knocker is made out of solid brass and is available in an array of finishes. Comes packaged with all the necessary mounting hardware.",
+                "keywords": "Solid Brass Camden Knockers, Brass Accents A03-K4003, Camden Door Knockers, BRA-A03-K4003, Camden Urn Tip Door Knockers, traditional door knockers,"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "7-9/16\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3-5/8\""
+                },
+                {
+                    "key": "Mounting Center",
+                    "value": "4-1/4\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-3/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knockers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knockers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-6",
+            "collections": [
+                {
+                    "name": "Brass Accents Door Knockers",
+                    "sort": "19"
+                },
+                {
+                    "name": "Door Knockers",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "563654",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "585448",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "12446",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "76682",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "576833",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "399909",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "903085",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "8459",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Height: 7-9/16\"",
+                "Width: 3-5/8\"",
+                "Mounting Center: 4-1/4\"",
+                "Projection: 1-3/16\"",
+                "Select Finish: Polished Brass",
+                "Select Finish: Antique Brass",
+                "Select Finish: Satin Nickel",
+                "Select Finish: Venetian Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

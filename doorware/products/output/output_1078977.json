@@ -1,0 +1,141 @@
+{
+    "legacy_product_id": "1078977",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Interior Bordeau Lever for Handlesets, Weslock 01300-UASL20",
+            "vendor": "Weslock",
+            "status": "ARCHIVED",
+            "sku": "WES-01300-UASL20",
+            "mpn": "WES-01300-UASL20",
+            "price": "96.0",
+            "compare_at_price": "99.6",
+            "contractor_price": "96.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Interior Bordeau Lever for Handlesets",
+                "WES-01300-UASL20",
+                "Weslock 01300-UASL20",
+                "Bordeau Lever Interior Trim"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/WES-01300-UASL20-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/WES-01300-UASL20-525.jpg?v=1716428101"
+        },
+        "text": {
+            "description_html": "<b>Weslock Handleset Bordeau Lever Interior Trim</b>\r\n\r\n<p>\r\nThis is an interior lever to be used as interior trim on a <a href=\"/collections/weslock-handlesets\">Weslock Handleset</a>. It comes packaged as the interior trim only with no rose.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Interior Bordeau Lever for Handlesets:\r\n<ul>\r\n<li>Lever Length: 4-1/4\"</li>\r\n<li>Lever Projection: 2\"</li>\r\n<li>Handed</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Interior Bordeau Lever for Handlesets",
+                "description": "This is an interior lever to be used as interior trim on a Weslock Handleset.",
+                "keywords": "Interior Bordeau Lever for Handlesets, WES-01300-UASL20, Weslock 01300-UASL20, Bordeau Lever Interior Trim"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Discontinued Weslock",
+                    "sort": "37"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "12311",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "987456",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "760782",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "32404",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "11844",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "11842",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Function: Dummy",
+                "Select Function: Active",
+                "Select Finish: A: Antique Brass",
+                "Select Handing: Left Handing",
+                "Select Handing: Right Handing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Dummy",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Active",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "A: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Left Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Right Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

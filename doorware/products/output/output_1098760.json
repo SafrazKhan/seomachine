@@ -1,0 +1,111 @@
+{
+    "legacy_product_id": "1098760",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "2-1/4 Inch Thick Door Kit for B60 Deadbolts, Schlage 61-072",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-61-072",
+            "mpn": "SCH-61-072",
+            "price": "13.0",
+            "compare_at_price": "13.0",
+            "contractor_price": "13.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "2-1/4 Inch Thick Door Kit for B60 Deadbolts",
+                "SCH-61-072",
+                "Schlage 2-1/4 Inch  Thick Door Kits",
+                "Schlage B60 Thick Door Extension Kit"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525151.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525151.gif?v=1716428169"
+        },
+        "text": {
+            "description_html": "<b>Schlage B60 Thick Door Extension Kit</b>\r\n\r\n<p>\r\nThis is a 2-1/4 inch extension kit for use with <a href=\"/products/single-cylinder-maximum-security-grade-1-deadbolt-schlage-b60\"><b>Schlage B60 Deadbolts</b></a>. Kit includes extra long tailpiece and screws.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "2-1/4 Inch Thick Door Kit for B60 Deadbolts",
+                "description": "This is a 2-1/4 inch extension kit for use with Schlage B60 Deadbolts. Kit includes extra long tailpiece and screws.",
+                "keywords": "2-1/4 Inch Thick Door Kit for B60 Deadbolts, SCH-61-072, Schlage 2-1/4 Inch  Thick Door Kits, Schlage B60 Thick Door Extension Kit"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "102"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "9213",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1053675",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "310766",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "761063",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 605: Bright Brass",
+                "Select Finish: 625: Bright Chrome",
+                "Select Finish: 622: Matte Black",
+                "Select Finish: 619: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "605: Bright Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "625: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "622: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "619: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

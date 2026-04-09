@@ -1,0 +1,124 @@
+{
+    "legacy_product_id": "1185179",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1-3/8 Inch Mortise Cylinder, Baldwin 8324",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-8324",
+            "mpn": "BAL-8324",
+            "price": "82.0",
+            "compare_at_price": "82.0",
+            "contractor_price": "82.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "BAL-8324",
+                "Baldwin 8324 1-3/8 Inch Mortise Cylinder"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525229.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525229.gif?v=1711366733"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 8324 1-3/8 Inch Mortise Cylinder</b>\r\n\r\n<p>\r\nThis is a 1-3/8 Inch mortise keyed cylinder.\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>Final Sale</b></i>\r\n</p>",
+            "seo": {
+                "title": "Baldwin 8324 1-3/8 Inch Mortise Cylinder",
+                "description": "This is a 1-3/8 Inch mortise keyed cylinder.",
+                "keywords": "BAL-8324, Baldwin 8324 1-3/8 Inch Mortise Cylinder,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin-Custom-Special-Order",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "829418",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "875999",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1148485",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "875977",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "184782",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "193377",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 056: PVD Satin Nickel",
+                "Keying: I only ordered one",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "056: PVD Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I only ordered one",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

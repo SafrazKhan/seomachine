@@ -1,0 +1,164 @@
+{
+    "legacy_product_id": "19489",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:10:05.560418"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Design Hardware Deadbolt",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "DES-D2",
+            "mpn": "DES-D2",
+            "price": "24.0",
+            "compare_at_price": "48.0",
+            "contractor_price": "22.8",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Design",
+                "Hardware",
+                "Deadbolt design hardware deadbolt"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Design Hardware Deadbolt<br>\r\n<br>\r\nAvailable in Single or Double Cylinder Function<br>\r\n<br>\r\nPlease <a href=\"http://www.designhardware.net/specs/dseries_spec_1.pdf\" target=\"popup\">click here</a> for more specifications regarding this item<br><br>\r\nClick below to choose the different options",
+            "seo": {
+                "title": "Design Hardware Deadbolt",
+                "description": "Design Hardware Deadbolt\r\n\r\nAvailable in Single or Double Cylinder Function\r\n\r\nPlease tions",
+                "keywords": "Design, Hardware, Deadbolt design hardware deadbolt"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Design Hardware Deadbolts and Levers",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Function: DES-D2-S - Single Cylinder (keyed on one side turnbolt on other)",
+                "Select Function: DES-D2-D - Double Cylinder (keyed on both sides)",
+                "Select Finish: US26D - Brushed Chrome",
+                "Select Finish: US26 -  Polished Chrome",
+                "Select Finish: US10B - Oil Rubbed Bronze",
+                "Select Finish: US3 - Polished Brass",
+                "Select Finish: US32D - Brushed Stainless Steel",
+                "Keying: I Only Ordered One Lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DES-D2-S - Single Cylinder (keyed on one side turnbolt on other)",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DES-D2-S"
+                },
+                {
+                    "value": "DES-D2-D - Double Cylinder (keyed on both sides)",
+                    "price_impact": 10.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DES-D2-D"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26D - Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26D"
+                },
+                {
+                    "value": "US26 -  Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26"
+                },
+                {
+                    "value": "US10B - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US10B"
+                },
+                {
+                    "value": "US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US3"
+                },
+                {
+                    "value": "US32D - Brushed Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US32D"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                }
+            ]
+        }
+    ]
+}

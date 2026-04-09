@@ -1,0 +1,115 @@
+{
+    "legacy_product_id": "87644",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "2-3/4 Inch Half Surface Screen Door Spring Hinge with Button Tips, Pair, Bommer 2990",
+            "vendor": "Bommer",
+            "status": "ARCHIVED",
+            "sku": "BOM-2990",
+            "mpn": "BOM-2990",
+            "price": "37.62",
+            "compare_at_price": "53.8",
+            "contractor_price": "37.62",
+            "shipping_weight": "2.0",
+            "tags": [
+                "BOM-2990 2-3/4 Inch Half Surface Screen Door Hinges",
+                "Bommer 2990 Screen Door Spring Hinges",
+                "bommer door hinges",
+                "adjustable tension 2-3/4 Inch Half Surface Screen Door Spring Hinges"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BOM-2990-525.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BOM-2990-525.gif?v=1716421208"
+        },
+        "text": {
+            "description_html": "<b>Bommer 2990, 2-3/4\" Screen Door Spring Hinge</b>\r\n\r\n<p>\r\nHalf Surface Single Acting Spring Hinge for Screen Doors. Door flange is surface applied to door. Jamb flange is mortised to door jamb.\r\n</p>\r\n\r\n<p>\r\nBommer 2990 Screen Door Spring Hinge permit doors automatically return to the closed position (Self Closing). Packaged with #7 x 3/4\" wood mounting screws.\r\n</p>\r\n\r\n<p>\r\nThe included Tension Tool is use to adjust spring tension. The Locking Pins hold the Spring in tension after it is set. These adjustable tension spring hinges allow you to determine how much closing force you apply to the door (how hard/fast the door self closes).\r\n</p>\r\n\r\n<table width=\"100\" align=\"right\">\r\n<tr>\r\n<td>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/kaba-simplex-902-size.gif?v=1704354717\" width=\"100\" height=\"72\" border=\"0\" alt=\"Bommer made in the USA\">\r\n</td>\r\n</tr>\r\n</table>\r\n\r\n<p>\r\n<b>Specifications</b> for the Bommer 2990 Screen Door Spring Hinge:\r\n<ul>\r\n<li>Material: Steel</li>\r\n<li>Hinge Size: 2-3/4\"</li>\r\n<li>Non-Handed</li>\r\n<li>Adjustable Tension</li>\r\n<li>Button Tips</li>\r\n<li>Hinge Type: Half Surface</li>\r\n<li>Door flange surface applied</li>\r\n<li>Jamb flange mortised</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/2990.pdf?v=1691094993\" target=\"new\"><b>Bommer 2990 Dimensional  Diagram (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Sold as a Pair (2 Hinges).</b>\r\n</p>\r\n\r\n<p>\r\n<b>** This item is being discontinued. Very limited quantities available.</b>\r\n</p>",
+            "seo": {
+                "title": "2-3/4 Inch Half Surface Screen Door Spring Hinge with Button Tips, Pair, Bommer 2990",
+                "description": "Bommer 2990 - Half Surface Single Acting Spring Hinge for Screen Doors. Door flange is surface applied to door. Jamb flange is mortised to  door jamb.  Adjustable Tension with Button Tips. Bommer  2 3/4 inch spring hinges packaged as a Pair with wood screws. ",
+                "keywords": "BOM-2990 2-3/4 Inch Half Surface Screen Door Hinges, Bommer 2990 Screen Door Spring Hinges, bommer door hinges, adjustable tension 2-3/4 Inch Half Surface Screen Door Spring Hinges,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Steel"
+                },
+                {
+                    "key": "Hinge Size",
+                    "value": "2-3/4\""
+                },
+                {
+                    "key": "Hinge Type",
+                    "value": "Half Surface"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Bommer Spring Hinges",
+                    "sort": "79"
+                },
+                {
+                    "name": "Bommer Screen Door Spring Hinges",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "87580",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "87622",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "170839",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "87552",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "87591",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "87549",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Steel",
+                "Hinge Size: 2-3/4\"",
+                "Hinge Type: Half Surface",
+                "Select Finish: 640: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "640: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

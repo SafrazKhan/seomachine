@@ -1,0 +1,191 @@
+{
+    "legacy_product_id": "379344",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Square Cabinet Knob",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DWD-KBS",
+            "mpn": "DWD-KBS",
+            "price": "11.44",
+            "compare_at_price": "22.89",
+            "contractor_price": "10.87",
+            "shipping_weight": "0.3",
+            "tags": [
+                "DWD-KBS 1-3/16 square cabinet knobs",
+                "square cabinet door knobs",
+                "bath room knobs",
+                "contemporary knobs",
+                "contemporary design drawer knobs",
+                "contemporary cabinet hardware",
+                "contemporary square knobs",
+                "contemporary square cabinet knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/KBS-square-cabint-knob_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/KBS-square-cabint-knob_525.jpg?v=1716423563"
+        },
+        "text": {
+            "description_html": "<b>1-3/16\" Contemporary Square Cabinet Knob</b>\r\n\r\n<p>\r\nThis beautiful 1-3/16\" square cabinet knob is easy to grab and compliments contemporary decor in bathrooms and kitchens. Solid brass construction means that this cabinet pull will look great even after years of use. \r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DWD-KBS-square-knob_size.gif?v=1704354507\" width=\"600\" height=\"250\" border=\"0\" alt=\"Contemporary Square Cabinet Knob Size\">\r\n</p>\r\n\r\n<p>\r\nAvailable in 8 different finish colors to match your room's decor. Packaged with #10-32 x 1-1/4\" screw for easy installation.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b> for Contemporary Square Cabinet Knob\r\n<ul>\r\n<li>Knob Diameter: 1-3/16\" Square</li>\r\n<li>Knob Projection: 15/16\"</li>\r\n<li>Material: Solid Brass</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DWD-KBS.pdf?v=1704262283\" target=\"new\"><b>KBS Square Cabinet Knob Dimensional  Diagram (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "Square Cabinet Knob",
+                "description": "This beautiful 1-3/16 inch square cabinet knob is easy to grab and compliments contemporary decor in bathrooms and kitchens. Solid brass construction means that this cabinet pull will look great even after years of use. Available in 8 different finish colors to match your room's decor. Packaged with #10-32 x 1-1/2 screw for easy installation.",
+                "keywords": "DWD-KBS 1-3/16 square cabinet knobs, square cabinet door knobs,  bath room knobs, contemporary knobs, contemporary design drawer knobs, contemporary cabinet hardware, contemporary square knobs, contemporary square cabinet knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "4"
+                },
+                {
+                    "name": "Doorware Designs Cabinet Hardware",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "905601",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "42735",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "343505",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "352581",
+                    "sort": "12"
+                },
+                {
+                    "legacy_product_id": "260178",
+                    "sort": "13"
+                },
+                {
+                    "legacy_product_id": "343353",
+                    "sort": "14"
+                },
+                {
+                    "legacy_product_id": "42897",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "288205",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "352981",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42954",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "249536",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "304259",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "352535",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "42141",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US15A: Antique Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US26D: Brushed Chrome",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US5: Antique Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26D: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

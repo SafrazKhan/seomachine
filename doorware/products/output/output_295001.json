@@ -1,0 +1,168 @@
+{
+    "legacy_product_id": "295001",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Deco Cabinet Knob",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DWD-CAB-DECO1",
+            "mpn": "DWD-CAB-DECO1",
+            "price": "22.99",
+            "compare_at_price": "40.24",
+            "contractor_price": "22.99",
+            "shipping_weight": "0.4",
+            "tags": [
+                "DWD-CAB-DECO1 Deco Cabinet Knobs",
+                "cone knobs",
+                "1 inch knobs",
+                "Solid Brass 1 Inch Retro cabinet knobs",
+                "cabinet door knobs",
+                "bath room  knobs",
+                "art deco knobs",
+                "deco design drawer knobs",
+                "art deco cabinet hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DWD-CAB-DECO1.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DWD-CAB-DECO1.jpg?v=1716422812"
+        },
+        "text": {
+            "description_html": "<b>1\" Diameter Deco Cabinet Knob</b>\r\n\r\n<p>\r\nThis beautiful 1\" diameter cone shaped deco style cabinet knob is perfect to implement a minimalism retro look. Solid brass construction means that this cabinet pull will stand the test of time. \r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DWD-CAB-DECO1-size.gif?v=1704354687\" width=\"580\" height=\"200\" border=\"0\" alt=\"Deco Cabinet Knob Size\">\r\n</p>\r\n\r\n<p>\r\nAlso available: <a href=\"/products/deco-shower-door-knob-sd-deco1\"><b>Deco Shower Door Knob</b></a> and  <a href=\"/products/deco-shower-door-knob-pair-sd-deco2\"><b>Deco Shower Door Knob Pair</b></a>\r\n</p>\r\n\r\n<p>\r\nAvailable in 7 different finish colors to match your rooms decor. Packaged with #8-32 x 1-1/2\" screw for easy installation.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b> for Deco Cabinet Knob:\r\n<ul>\r\n<li>Knob Diameter: 1\"</li>\r\n<li>Base Diameter: 1\"</li>\r\n<li>Knob Projection: 1-3/8\"</li>\r\n<li>Material: Solid Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "Deco Cabinet Knob",
+                "description": "This beautiful 1 inch diameter cone shaped deco style cabinet knob is perfect to implement a minimalism retro look. Solid brass construction means that this cabinet pull will stand the test of time. Available in 7 different finish colors to match your kitchen or bathroom decor.",
+                "keywords": "DWD-CAB-DECO1 Deco Cabinet Knobs, cone knobs, 1 inch knobs, Solid Brass 1 Inch Retro cabinet knobs, cabinet door knobs,  bath room  knobs, art deco knobs, deco design drawer knobs, art deco cabinet hardware,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "6"
+                },
+                {
+                    "name": "Doorware Designs Cabinet Hardware",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "42944",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "39910",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "42735",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "252798",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "253235",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "198824",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "261954",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "237840",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "40939",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "38111",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: U15: Satin Nickel",
+                "Select Finish: U10B: Oil Rubbed Bronze",
+                "Select Finish: U15A: Antique Nickel",
+                "Select Finish: U26: Polished Chrome",
+                "Select Finish: U26D: Satin Chrome",
+                "Select Finish: U3: Polished Brass",
+                "Select Finish: U5: Antique Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

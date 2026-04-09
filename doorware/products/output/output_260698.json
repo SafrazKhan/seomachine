@@ -1,0 +1,131 @@
+{
+    "legacy_product_id": "260698",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Contemporary Curved Shower Door Pulls, Pair, First Impressions SD-3894/413",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-SD-3894/413",
+            "mpn": "FII-SD-3894/413",
+            "price": "190.0",
+            "compare_at_price": "266.0",
+            "contractor_price": "190.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "FII-SD-3894/413 Contemporary Curved Shower Door Pulls",
+                "First Impressions 3894/413-US26 chrome shower handles",
+                "First Impressions 3894/413-US15 satin nickel shower handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-3894-shower-pulls_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-3894-shower-pulls_525.jpg?v=1716422517"
+        },
+        "text": {
+            "description_html": "<b>First Impressions SD-3894/413 Contemporary Curved  Shower Door Pulls</b>\r\n<p>\r\n<p>\r\nThis contemporary designed shower door pull set is constructed of durable non rusting aluminum, finished in Satin Nickel or bright Polished Chrome. \r\n</p>\r\n<p>\r\nWe also offer many additional  <a href=\"/collections/shower-door-pulls\"><b>Shower Door Pulls by First Impressions</b></a>. \r\n</p>\r\n<p>\r\n<b>Specifications</b> of First Impressions SD-3894/413- Curved Shower Door Pulls\r\n<ul>\r\n<li>Total Length: 413 mm (16-1/4\")</li>\r\n<li>Mounting Center to Center: 300 mm (11-13/16\")</li>\r\n<li>Material: Non Rusting Aluminum</li>\r\n<li>Finish: <b>Satin Nickel</b> or <b>Polished Chrome</b></li>\r\n</ul>\r\n</p>\r\n<p>Packaged with 2 door pulls and includes mounting hardware for back to back mounting on 1/4\" to 1/2\" thick glass shower doors. \r\n</p>\r\n<p>\r\n<b>*Sold as a Pair (2 Pulls, 1 for each side of a glass door)</b>\r\n</p>",
+            "seo": {
+                "title": "Contemporary Curved Shower Door Pulls, Pair, First Impressions SD-3894/413",
+                "description": "First Impressions 3894/413 shower handles. This very contemporary designed shower door pull set is constructed of durable non rusting aluminum, finished in bright Polished Chrome or Satin Nickel. ",
+                "keywords": "FII-SD-3894/413 Contemporary Curved Shower Door Pulls,  First Impressions 3894/413-US26 chrome shower handles, First Impressions 3894/413-US15 satin nickel shower handles,"
+            },
+            "specifications": [
+                {
+                    "key": "Total Length",
+                    "value": "413 mm (16-1/4\")"
+                },
+                {
+                    "key": "Mounting Center to Center",
+                    "value": "300 mm (11-13/16\")"
+                },
+                {
+                    "key": "Material",
+                    "value": "Non Rusting Aluminum"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Satin Nickel or Polished Chrome"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "293177",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "257685",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "259652",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "192859",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "245904",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "212292",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "212306",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "212269",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Total Length: 413 mm (16-1/4\")",
+                "Mounting Center to Center: 300 mm (11-13/16\")",
+                "Material: Non Rusting Aluminum",
+                "Finish: Satin Nickel or Polished Chrome",
+                "Select Finish: FII-SD-3894/413-US15 - Satin Nickel",
+                "Select Finish: FII-SD-3894/413-US26 - Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-SD-3894/413-US15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-SD-3894/413-US26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

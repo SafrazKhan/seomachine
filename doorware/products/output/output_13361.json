@@ -1,0 +1,145 @@
+{
+    "legacy_product_id": "13361",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Decorative Double Prong Hook, Hamilton CH-125",
+            "vendor": "Hamilton",
+            "status": "ARCHIVED",
+            "sku": "HAMI-CH-125",
+            "mpn": "HAMI-CH-125",
+            "price": "14.7",
+            "compare_at_price": "18.37",
+            "contractor_price": "13.97",
+            "shipping_weight": "0.25",
+            "tags": [
+                "hamilton CH-125 coat and hat hooks",
+                "hami-ch-125",
+                "hamilton sinkler ch-125 hook",
+                "hamilton ch125",
+                "solid brass coat hooks",
+                "solid bronze coat hooks",
+                "bathroom towel hooks",
+                "kitchen utensils hooks",
+                "cooking utensils hooks",
+                "hamilton wardrobe hooks",
+                "silver hooks",
+                "satin nickel hooks",
+                "bronze patina hooks",
+                "brushed nickel hooks",
+                "Utility Hooks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Hamilton CH-125 Coat Hook</b>\r\n<p>This Hamilton hook is perfect for holding thick winter coats and hats; but this wardrobe hook is versatile in that it will be just as useful mounted in closets, in bathroom door for towels, in the kitchen for cooking utensils--just about anywhere. However, what is great about this hook is that it will look alluring no matter where you surface mount it. It has a lifetime warranty and is available in either solid bronze with a bronze patina finish or in solid brass with a brushed nickel finish. </p>\r\n<P><b>Features</b> of the Hamilton CH-125 Utility Hook:\r\n<UL>\r\n<li>Hooks with a bronze patina finish are made out of solid bronze while hooks with a brushed nickel finish are made out of solid brass.</li>\r\n<LI>Package includes 4 Slotted oval head wood screws</LI>\r\n<li>Limited Lifetime Warranty</li>\r\n</UL></P>\r\n<p><b>Specifications</b> of the Hamilton Decorative Hook:\r\n<ul>\r\n<li>Overall Projection: 2-1/4\"</li>\r\n<li>Overall Length: 5-3/8\"</li>\r\n<li>Mount Height: 2-1/8\"</li>\r\n<li>Mount Width: 1-5/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p><img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/hami-ch-125-size.jpg?v=1704442259\" width=\"250\" height=\"279\" border=\"0\" alt=\"Hamilton CH-125 Hook Dimensions\"></p>",
+            "seo": {
+                "title": "Decorative Double Prong Hook, Hamilton CH-125",
+                "description": "Hamilton CH-125 Coat Hook - This Hamilton hook is perfect for holding thick winter coats and hats; but this wardrobe hook is versatile in that it will be just as useful mounted in closets, in bathroom door for towels, in the kitchen for cooking utensils--just about anywhere. However, what is great about this hook is that it will look alluring no matter where you surface mount it. It has a lifetime warranty and is available in either solid bronze with a bronze patina finish or in solid brass with a brushed nickel finish. ",
+                "keywords": "hamilton CH-125 coat and hat hooks, hami-ch-125, hamilton sinkler ch-125 hook, hamilton ch125, solid brass coat hooks, solid bronze coat hooks, bathroom towel hooks, kitchen utensils hooks, cooking utensils hooks, hamilton wardrobe hooks, silver hooks, satin nickel hooks, bronze patina hooks, brushed nickel hooks, Utility Hooks,"
+            },
+            "specifications": [
+                {
+                    "key": "Overall Projection",
+                    "value": "2-1/4\""
+                },
+                {
+                    "key": "Overall Length",
+                    "value": "5-3/8\""
+                },
+                {
+                    "key": "Mount Height",
+                    "value": "2-1/8\""
+                },
+                {
+                    "key": "Mount Width",
+                    "value": "1-5/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Hamilton Discontinued",
+                    "sort": "83"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "13342",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "13351",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "13353",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "13355",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "13357",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "13359",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "13363",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "13349",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Overall Projection: 2-1/4\"",
+                "Overall Length: 5-3/8\"",
+                "Mount Height: 2-1/8\"",
+                "Mount Width: 1-5/8\"",
+                "Select Finish: BP - Bronze Patina Finish Over Cast Bronze",
+                "Select Finish: BN - Brushed Nickel Finish Over Solid Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BP - Bronze Patina Finish Over Cast Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "HAMI-CH-125-BP"
+                },
+                {
+                    "value": "BN - Brushed Nickel Finish Over Solid Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "HAMI-CH-125-BN"
+                }
+            ]
+        }
+    ]
+}

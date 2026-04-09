@@ -1,0 +1,69 @@
+{
+    "legacy_product_id": "301763",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Exit Security Inc Security Door Bars",
+            "vendor": "Exit Security",
+            "status": "ACTIVE",
+            "sku": "ESI-Bars",
+            "mpn": "ESI-Bars",
+            "price": "0.0",
+            "compare_at_price": "0.0",
+            "contractor_price": "0.0",
+            "shipping_weight": "0.0",
+            "tags": [
+                "Exit Security Inc",
+                "Exit Security Bar",
+                "outswing door security bars",
+                "inswing door security bars"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/exit_security_bar_5256.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/exit_security_bar_5256.jpg?v=1717788847"
+        },
+        "text": {
+            "description_html": "<b>Door Security Bars</b>\r\n<p align=\"left\">\r\nSecurity bars from Exit Security Inc available for Outswing and Inswing doors. For the proper sized security bar measure the door width (not the door frame width).</p>",
+            "seo": {
+                "title": "Exit Security Inc Security Door Bars",
+                "description": "302 to Exit Security Bars - Security bars from Exit Security Inc available for Outswing and Inswing doors. For the proper sized security bar measure the door width (not the door frame width).",
+                "keywords": "Exit Security Inc, Exit Security Bar, outswing door security bars, inswing door security bars,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Redirect Pages",
+                    "sort": "25"
+                },
+                {
+                    "name": "Security Hardware",
+                    "sort": "121"
+                },
+                {
+                    "name": "Door Guards and Door Security Bolts",
+                    "sort": "33"
+                },
+                {
+                    "name": "Exit Door Security Hardware",
+                    "sort": "51"
+                },
+                {
+                    "name": "Store Door Hardware",
+                    "sort": "208"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

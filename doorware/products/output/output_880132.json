@@ -1,0 +1,150 @@
+{
+    "legacy_product_id": "880132",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hexagon Ring Pull, Field Enterprises RPX-175",
+            "vendor": "Field Enterprise",
+            "status": "ACTIVE",
+            "sku": "FEI-RPX-175",
+            "mpn": "FEI-RPX-175",
+            "price": "35.88",
+            "compare_at_price": "46.0",
+            "contractor_price": "34.09",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Hexagon Ring Pulls",
+                "Field Enterprises RPX-175",
+                "FEI-RPX-175",
+                "X Ring Pulls",
+                "modern ring pull",
+                "modern dresser drawer pulls",
+                "furniture ring pulls",
+                "closet door pulls",
+                "cabinet ring pulls",
+                "Field Enterprises RPX175 Ring Pulls",
+                "Solid Brass 1-3/4 Hexagon Ring Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FEI-RPX-175-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FEI-RPX-175-525.jpg?v=1716426286"
+        },
+        "text": {
+            "description_html": "<b>Field Enterprises RPX-175, Solid Brass 1-3/4 Hexagon Ring Pull</b>\r\n\r\n<p>\r\nThe Hexagon Ring Pull is a wonderful example of modern door hardware, showing that there is so much more to the contemporary than squares and rectangles. This 6-sided ring door pull offers a unique shape that will look great on most light weight drawers and doors. The Field Enterprises RPX-175 Solid Brass 1-3/4 Hexagon Ring Pull can be used as a cabinet pull or as a furniture pull. Choose from an array of beautiful finishes to complete the look.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Field Enterprises RPX175 Ring Pull:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Overall Diameter: 1-3/4\"</li>\r\n<li>Projection: 7/8\"</li>\r\n<li>Mount Length: 1/2\" square</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Hexagon Ring Pull",
+                "description": "The Hexagon Ring Pull is a wonderful example of modern door hardware, showing that there is so much more to the contemporary than squares and rectangles. This 6-sided ring door pull offers a unique shape that will look great on most light weight drawers and doors. The Field Enterprises RPX-175 Solid Brass 1-3/4 Hexagon Ring Pull can be used as a cabinet pull or as a furniture pull. Choose from an array of beautiful finishes to complete the look.",
+                "keywords": "Hexagon Ring Pulls, Field Enterprises RPX-175, FEI-RPX-175, X Ring Pulls, modern ring pull, modern dresser drawer pulls, furniture ring pulls, closet door pulls, cabinet ring pulls, Field Enterprises RPX175 Ring Pulls, Solid Brass 1-3/4 Hexagon Ring Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Field Enterprises Cabinet Hardware",
+                    "sort": "18"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "803706",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "824176",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "621691",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "591429",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "592461",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "241047",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "240986",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US4: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

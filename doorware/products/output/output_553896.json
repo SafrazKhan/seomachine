@@ -1,0 +1,121 @@
+{
+    "legacy_product_id": "553896",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Seashell Cabinet Door Pull, RK International CP-413",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CP-413",
+            "mpn": "RKI-CP-413",
+            "price": "15.99",
+            "compare_at_price": "19.03",
+            "contractor_price": "15.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Shell at Ends Cabinet Pulls",
+                "Seashell Cabinet Door Pulls",
+                "RK International CP-413",
+                "RKI-CP-413",
+                "each hardware",
+                "beach house decor",
+                "beach house kitchen",
+                "sea shell cabinet knobs",
+                "ocean decor",
+                "nautical hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CP-413-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CP-413-525.jpg?v=1716424410"
+        },
+        "text": {
+            "description_html": "<b>RK International CP-413, 3\" Shell Cabinet Knob</b>\r\n\r\n<p>\r\nAn elegant way to bring the natural elements of beach decor to your home is this Seashell Cabinet Door Pull. All three available finishes really bring out the subtle chicness that a well-designed beach theme can have. The shells at the ends of this pull have just enough texture to be a point of interest. It comes packaged with all the necessary mounting hardware.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching <a href=\"/products/shell-cabinet-knob-rk-international-ck-216\"><b>CK-216 Shell Cabinet Knob</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CP-413 Seashell Cabinet Hardware:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 4-1/4\"</li>\r\n<li>Width: 1-1/8\"</li>\r\n<li>Projection: 1\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Seashell Cabinet Door Pull",
+                "description": "RK International CP-413, Seashell Cabinet Door Pull - An elegant way to bring the natural elements of beach decor to your home is this Seashell Cabinet Door Pull. All three available finishes really bring out the subtle chicness that a well-designed beach theme can have. The shells at the ends of this pull have just enough texture to be a point of interest. It comes packaged with all the necessary mounting hardware.\r\n",
+                "keywords": "Shell at Ends Cabinet Pulls, Seashell Cabinet Door Pulls, RK International CP-413, RKI-CP-413, each hardware, beach house decor, beach house kitchen, sea shell cabinet knobs, ocean decor, nautical hardware,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Pulls and Flush Pulls",
+                    "sort": "9"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "846153",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "313384",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "213962",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "846163",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "846619",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "235667",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: B: Polished Brass",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

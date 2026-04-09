@@ -1,0 +1,213 @@
+{
+    "legacy_product_id": "1096050",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4 Inch Baseboard Door Bumper, Emtek 2231",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-2231",
+            "mpn": "EMT-2231",
+            "price": "20.99",
+            "compare_at_price": "25.0",
+            "contractor_price": "20.99",
+            "shipping_weight": "5.0",
+            "tags": [
+                "4 Inch Baseboard Door Stops",
+                "Emtek 2231",
+                "4 Inch Baseboard Door Bumpers",
+                "Baseboard Door Stops",
+                "EMT-2231",
+                "wood door bumpers",
+                "wood door stops",
+                "4 inches door stopper",
+                "base board door stops",
+                "4 Inch Baseboard Door Bumpers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-2231-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-2231-525.jpg?v=1716428142"
+        },
+        "text": {
+            "description_html": "<b>Emtek 2231, 4 Inch Baseboard Door Stop</b>\r\n\r\n<p>\r\nThe 4 Inch Baseboard Door Bumper is easy to install, it just screws right into the door! Choose your favorite of all of Emteks' best finish colors. This standard door stop will protect not just the wall, but your door knob or lever as well.  \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Emtek 4 Inch Door Stop:\r\n<ul>\r\n<li>Overall Length: 4\"</li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Rubber Bumper Color: Grey</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "4 Inch Baseboard Door Bumper",
+                "description": "The 4 Inch Baseboard Door Bumper is easy to install, it just screws right into the door! Choose your favorite of all of Emteks' best finish colors. This standard door stop will protect not just the wall, but your door knob or lever as well.",
+                "keywords": "4 Inch Baseboard Door Stops, Emtek 2231,  4 Inch Baseboard Door Bumpers, Baseboard Door Stops, EMT-2231, wood door bumpers, wood door stops, 4 inches door stopper, base board door stops, 4 Inch Baseboard Door Bumpers,"
+            },
+            "specifications": [
+                {
+                    "key": "Overall Length",
+                    "value": "4\""
+                },
+                {
+                    "key": "Diameter",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Rubber Bumper Color",
+                    "value": "Grey"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Emtek Accessories",
+                    "sort": "12"
+                },
+                {
+                    "name": "Door Stops, Bumpers, and Holders",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "867496",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1050095",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "311314",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "180972",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "7005",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "162260",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "162262",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Overall Length: 4\"",
+                "Diameter: 1-1/4\"",
+                "Rubber Bumper Color: Grey",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US15A: Antique Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US7: French Antique",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: MB: Medium Bronze",
+                "Select Finish: TWB: Tumbled White Bronze",
+                "Select Finish: US3NL: Unlacquered Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US7: French Antique",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MB: Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TWB: Tumbled White Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3NL: Unlacquered Brass",
+                    "price_impact": 16.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

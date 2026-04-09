@@ -1,0 +1,116 @@
+{
+    "legacy_product_id": "660336",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1 Inch Baldwin Cylinder, Baldwin 8321",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-8321-260",
+            "mpn": "BAL-8321-260",
+            "price": "50.0",
+            "compare_at_price": "60.0",
+            "contractor_price": "50.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Schlage C Keyway Baldwin  Cylinder Locks",
+                "Baldwin C-Keyway Cylinders",
+                "BAL-8321",
+                "Baldwin 8321",
+                "1 Inch Baldwin Cylinders",
+                "BAL-8321-260"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-8321-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-8321-525.jpg?v=1717106207"
+        },
+        "text": {
+            "description_html": "<b>Baldwin C-Keyway Cylinder</b>\r\n\r\n<p>\r\nHigh quality Baldwin cylinder with a Schlage keyway.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Schlage \"C\" Keyway Baldwin  Cylinder Lock:\r\n<ul>\r\n<li>Finish: Polished Chrome</li>\r\n<li>Cylinder Length: 1\"</li>\r\n<li>Non-Handed</li>\r\n<li>Schlage \"C\" Keyway</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "1 Inch Baldwin Cylinder, Baldwin 8321",
+                "description": "Baldwin 8321, 1\" Baldwin Cylinder - High quality Baldwin cylinder with a Schlage keyway",
+                "keywords": "Schlage C Keyway Baldwin  Cylinder Locks, Baldwin C-Keyway Cylinders, BAL-8321, Baldwin 8321, 1 Inch Baldwin Cylinders, BAL-8321-260,"
+            },
+            "specifications": [
+                {
+                    "key": "Finish",
+                    "value": "Polished Chrome"
+                },
+                {
+                    "key": "Cylinder Length",
+                    "value": "1\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Baldwin Discontinued",
+                    "sort": "110"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "439751",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "259076",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "637715",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "335504",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Finish: Polished Chrome",
+                "Cylinder Length: 1\"",
+                "Keying: I only ordered one",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I only ordered one",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

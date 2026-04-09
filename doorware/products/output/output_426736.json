@@ -1,0 +1,163 @@
+{
+    "legacy_product_id": "426736",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "13 Inch Teak Handle, First Impressions SD-1",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-SD-1/13-TEAK",
+            "mpn": "FII-SD-1/13-TEAK",
+            "price": "117.0",
+            "compare_at_price": "146.25",
+            "contractor_price": "111.15",
+            "shipping_weight": "2.0",
+            "tags": [
+                "FII-SD-1/13-TEAK 13 Inch Teak Handles",
+                "First Impressions SD-1 13 x 1 Teak Door Handles",
+                "wood handles",
+                "teak pulls",
+                "teak gate handles",
+                "handles for sauna doors",
+                "teak sauna handles",
+                "First Impressions wooden handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/first-impressions-SD-1_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/first-impressions-SD-1_525.jpg?v=1717106007"
+        },
+        "text": {
+            "description_html": "<b>First Impressions #SD-1 13\" Teak Door Handle</b>\r\n<p>\r\nTeak is used for these door handles because of its hard, strong, durable characteristics. It is also resistant to insects and warping, even when exposed directly to harsh weather, making it the ideal choice for exterior doors.\r\n</p>\r\n<p>\r\nThe 13\" Teak handle is unstained in its natural color. Staining is not required. Great door pull handle for gates and sauna doors. \r\n</p>\r\n<p>\r\n<b>Specifications</b> for First Impressions FII-SD-1/13-TEAK Teak  Door Handle\r\n<ul>\r\n<li>Pull Handle Length: 13\"</li>\r\n<li>Pull Width: 1\"</li>\r\n<li>Pull Handle Material: Teak</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nPackaged for Thrubolt mounting (Bolts through the door). Please select the thickness of your door below.\r\n</p>\r\n<p>\r\n<b>*Sold individually.</b>\r\n</p>",
+            "seo": {
+                "title": "13 Inch Teak Handle, First Impressions SD-1",
+                "description": "First Impressions #SD-1 Teak Door Handle. The 13 inch Teak handle is unstained in its natural color. Staining is not required. Great door pull handle for gates and sauna doors. ",
+                "keywords": "FII-SD-1/13-TEAK 13 Inch Teak Handles, First Impressions SD-1 13 x 1 Teak Door Handles, wood handles, teak pulls, teak gate handles, handles for sauna doors, teak sauna handles, First Impressions wooden handles,"
+            },
+            "specifications": [
+                {
+                    "key": "Pull Handle Length",
+                    "value": "13\""
+                },
+                {
+                    "key": "Pull Width",
+                    "value": "1\""
+                },
+                {
+                    "key": "Pull Handle Material",
+                    "value": "Teak"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "65"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "271075",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "417222",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "271044",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "205860",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "301134",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "205675",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "206173",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "275628",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Pull Handle Length: 13\"",
+                "Pull Width: 1\"",
+                "Pull Handle Material: Teak",
+                "Select Door Thickness Range: 1/4in. to 1/2in.",
+                "Select Door Thickness Range: 5/8in. to 1in.",
+                "Select Door Thickness Range: 1-1/8in. to 1-1/2in.",
+                "Select Door Thickness Range: 1-5/8in. to 2in.",
+                "Select Door Thickness Range: 2-1/8 to 2-1/2in.",
+                "Select Door Thickness Range: 2-5/8in. to 3in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness Range",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1/4in. to 1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5/8in. to 1in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-1/8in. to 1-1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-5/8in. to 2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-1/8 to 2-1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-5/8in. to 3in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

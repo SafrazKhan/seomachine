@@ -1,0 +1,105 @@
+{
+    "legacy_product_id": "221503",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hold Open  Arm for LCN 4040 Series, LCN-4040XP3049",
+            "vendor": "LCN",
+            "status": "ACTIVE",
+            "sku": "LCN-4040XP3049",
+            "mpn": "LCN-4040XP3049",
+            "price": "236.3",
+            "compare_at_price": "278.0",
+            "contractor_price": "224.49",
+            "shipping_weight": "3.0",
+            "tags": [
+                "LCN-4040-3049 LCN 4040 Series Hold Open Arms",
+                "Friction Hold Open  Arm for LCN 4040 Series door closers",
+                "LCN 4040XP3049 hold open arms",
+                "LCN 4040XP 3049 hold open arms",
+                "LCN 4040XP-3049 hold open arms",
+                "LCN-4040XP"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LCN-4040-3049_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LCN-4040-3049_525.jpg?v=1716422159"
+        },
+        "text": {
+            "description_html": "<b>LCN 4040XP3049 Friction Hold Open Arm</b>\r\n<p>\r\nFriction type Hold Open for  <a href=\"/products/lcn-4040-super-smoothee-grade-1-door-closer\"><b>LCN 4040XP Door Closers</b></a>. \r\n</p>\r\n<p>\r\n<b>Easy to install and set.</b>\r\n</p>\r\n\r\n<p>Heavy duty  hold open with adjustable arm length and the degree that the door is held open. \r\n</p>\r\n<p>\r\n Available in 2 finishes of Aluminum or Dark Bronze .\r\n</p>",
+            "seo": {
+                "title": "Hold Open  Arm for LCN 4040 Series, LCN-4040XP3049",
+                "description": "LCN 4040XP3049 Friction Hold Open for LCN 4040 Series Style Closers. Heavy duty  hold open with adjustable arm length and the degree that the door is held open. ",
+                "keywords": "LCN-4040-3049 LCN 4040 Series Hold Open Arms, Friction Hold Open  Arm for LCN 4040 Series door closers, LCN 4040XP3049 hold open arms, LCN 4040XP 3049 hold open arms, LCN 4040XP-3049 hold open arms, LCN-4040XP"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closer Parts",
+                    "sort": "22"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "221485",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "221494",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "221512",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "221509",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "221515",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "15351",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 4040XP3049-AL: Aluminum",
+                "Select Finish: 4040XP3049-DKBRZ: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "4040XP3049-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "4040XP3049-DKBRZ: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

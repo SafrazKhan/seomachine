@@ -1,0 +1,93 @@
+{
+    "legacy_product_id": "191087",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Streamline Cover for American Eagle 3100 Series Closers, PDQ 319006",
+            "vendor": "PDQ",
+            "status": "ACTIVE",
+            "sku": "PDQ-319006",
+            "mpn": "PDQ-319006",
+            "price": "12.99",
+            "compare_at_price": "17.0",
+            "contractor_price": "11.48",
+            "shipping_weight": "1.0",
+            "tags": [
+                "PDQ-319006 American Eagle 3100 Series Closer Covers",
+                "Streamline Cover for American Eagle 3100 Series Closers",
+                "PDQ 319006 door closer covers",
+                "319006-689"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AE-319006_525.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AE-319006_525.gif?v=1716421851"
+        },
+        "text": {
+            "description_html": "<b>PDQ 319006 Door Closer Cover</b>\r\n\r\n<p>Streamline plastic cover for <a href=\"/products/light-commercial-surface-mount-closer-pdq-3100-bcpa\"><b>American Eagle 3100</b></a> and <a href=\"/products/light-commercial-ada-compliant-surface-mount-closer-pdq-3101-bcpa\"><b>American Eagle 3101</b></a>  Door Closers. \r\n</p>\r\n<p>Non Handed (reversible for left or right hand doors). <br>\r\nAvailable in Aluminum or Dark Bronze finish.\r\n</p>",
+            "seo": {
+                "title": "Streamline Cover for American Eagle 3100 Series Closers",
+                "description": "American Eagle 319006 - Streamline plastic cover for American Eagle 3100 Series Closers. Available in Aluminum or Dark Bronze finish.",
+                "keywords": "PDQ-319006 American Eagle 3100 Series Closer Covers, Streamline Cover for American Eagle 3100 Series Closers, PDQ 319006 door closer covers, 319006-689"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "American Eagle 3100",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "190268",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "196679",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "191061",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 319006-689: Aluminum",
+                "Select Finish: 319006-695: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "319006-689: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-319006-689"
+                },
+                {
+                    "value": "319006-695: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-319006-695"
+                }
+            ]
+        }
+    ]
+}

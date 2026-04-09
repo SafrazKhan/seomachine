@@ -1,0 +1,100 @@
+{
+    "legacy_product_id": "499860",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "LCN 4040XP Top Jamb Mounting Plate",
+            "vendor": "LCN",
+            "status": "ACTIVE",
+            "sku": "LCN-4040XP18TJ",
+            "mpn": "LCN-4040XP18TJ",
+            "price": "65.7",
+            "compare_at_price": "73.0",
+            "contractor_price": "62.41",
+            "shipping_weight": "2.0",
+            "tags": [
+                "LCN-4040-18TJ LCN 4040 Top Jamb Mounting Plates",
+                "LCN 4040XP Top Jamb Mounting Plates",
+                "LCN-4040XP18TJ",
+                "LCN 4040XP18TJ-AL",
+                "LCN 4040XP18TJ-DKB"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LCN-4040-18TJ_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LCN-4040-18TJ_525.jpg?v=1716424256"
+        },
+        "text": {
+            "description_html": "<b>LCN 4040XP Top Jamb Mounting Plate</b>\r\n<p>\r\nFor use when mounting door closer on the <b>Push Side</b> of a door on the <b>Top Jamb</b> (Top Jamb Mounting). For use with <a href=\"/products/lcn-4040-super-smoothee-grade-1-door-closer\"><b>LCN 4040XP Super Smoothee door closers</b></a>.\r\n</p>\r\n<p>\r\nMinimum header frame height is 1-3/4\". \r\n</p>\r\n</p>\r\n<p>Non Handed. <br>\r\nAvailable in Aluminum or Dark Bronze finish. \r\n</p>",
+            "seo": {
+                "title": "LCN 4040XP Top Jamb Mounting Plate",
+                "description": "For use when mounting door closer on the Push Side of a door on the Top Jamb (Top Jamb Mounting). For use with LCN 4040XP Super Smoothee door closers.",
+                "keywords": "LCN-4040-18TJ LCN 4040 Top Jamb Mounting Plates, LCN 4040XP Top Jamb Mounting Plates, LCN-4040XP18TJ, LCN 4040XP18TJ-AL, LCN 4040XP18TJ-DKB,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closer Parts",
+                    "sort": "100"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "538718",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "443653",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "264861",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "619905",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "191074",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 4040XP18TJ-AL: Aluminum",
+                "Select Finish: 4040XP18TJ-DKB: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "4040XP18TJ-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "4040XP18TJ-DKB: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

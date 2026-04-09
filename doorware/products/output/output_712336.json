@@ -1,0 +1,163 @@
+{
+    "legacy_product_id": "712336",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "7 Inch Victorian Flush Pull, Deltana FPV7178",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-FPV7178",
+            "mpn": "DEL-FPV7178",
+            "price": "53.13",
+            "compare_at_price": "70.84",
+            "contractor_price": "50.47",
+            "shipping_weight": "1.0",
+            "tags": [
+                "DEL-FPV7178",
+                "Deltana FPV7178",
+                "7 Inch Victorian Flush Pulls",
+                "7 Ornate Flush Pulls",
+                "cup flush pulls",
+                "door flush door pulls",
+                "door flush pulls",
+                "pocket doors",
+                "handle for sliding door",
+                "sliding door handles",
+                "pocket door handle",
+                "pocket door pulls",
+                "Pocket Door Hardware",
+                "pocketdoor pulls",
+                "Large 7 Inch Pocket Door Flush Pulls",
+                "7 Ornate Victorian Sliding Door Flush Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-FPV7178-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-FPV7178-525.jpg?v=1716425354"
+        },
+        "text": {
+            "description_html": "<b>Deltana FPV7178, 7\" Ornate Victorian Sliding Door Flush Pull</b>\r\n\r\n<p>\r\nThis 7 Inch Victorian Flush Pull is perfect for fancy homes. It is easy to install and is a great way to add an ornate touch to any sliding door. Flush Pulls like this one can also be used on lightweight cabinet doors, closets, and pocket doors. It is available in 4 finishes. \r\n</p>\r\n\r\n<p>\r\nAlso Available in a <a href=\"/products/victorian-10-inch-flush-pull-deltana-fpv10225\">10\" Victorian Flush Pull</a>\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> for the Victorian Pocket Door Hardware:\r\n<ul>\r\n<li>Length: 7\"</li>\r\n<li>Width: 1-7/8\"</li>\r\n<li>Cut-Out Width: 1\"</li>\r\n<li>Cut-Out Length: 4-7/16\"</li>\r\n<li>Projection: 1/4\"</li>\r\n<li>Mounting Height: 4-15/16\"</li>\r\n<li>Mounting Width: 1-7/16\"</li>\r\n<li>Lip: 1/16\"</li>\r\n<li>Mounts using 4 screws--2 on the top and 2 on the bottom.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-FPV7178-specifications.pdf?v=1704262322\" target=\"new\"><b>Deltana FPV7178 Dimensions Diagram (PDF)</a></b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually<i>\r\n</p>",
+            "seo": {
+                "title": "7 Inch Victorian Flush Pull | Deltana FPV7178",
+                "description": "Deltana FPV7178, 7 Inch Victorian Flush Pull - This 7 Inch Victorian Flush Pull is perfect for fancy homes. It is easy to install and is a great way to add an ornate touch to any sliding door. Flush Pulls like this one can also be used on lightweight cabinet doors, closets, and pocket doors. It is available in 4 finishes.",
+                "keywords": "DEL-FPV7178, Deltana FPV7178, 7 Inch Victorian Flush Pulls, 7 Ornate Flush Pulls, cup flush pulls, door flush door pulls,  door flush pulls, pocket doors, handle for sliding door, sliding door handles, pocket door handle, pocket door pulls, Pocket Door Hardware, pocketdoor pulls, Large 7 Inch Pocket Door Flush Pulls,  7 Ornate Victorian Sliding Door Flush Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "Deltana Pocket Door Hardware",
+                    "sort": "20"
+                },
+                {
+                    "name": "Flush Pulls",
+                    "sort": "4"
+                },
+                {
+                    "name": "Pocket Door Hardware",
+                    "sort": "98"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "712355",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "483008",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "859906",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "141908",
+                    "sort": "12"
+                },
+                {
+                    "legacy_product_id": "172863",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "592354",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "443725",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "37548",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "727558",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "456536",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "252228",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "37164",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US5: Antique Brass",
+                "Select Finish: US15: Brushed Nickel",
+                "Select Finish: US15A: Antique Nickel",
+                "Select Finish: US10B: Oil-Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil-Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "legacy_product_id": "351908",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Pull Handleset for Panic Device, PDQ 4-GW-02",
+            "vendor": "PDQ",
+            "status": "ACTIVE",
+            "sku": "PDQ-4-GW-02",
+            "mpn": "PDQ-4-GW-02",
+            "price": "117.99",
+            "compare_at_price": "157.0",
+            "contractor_price": "105.98",
+            "shipping_weight": "4.0",
+            "tags": [
+                "PDQ-429GPH Panic Device Pull Handlesets",
+                "Pull Handleset for Panic Device",
+                "PDQ-4-GW-02 dummy pull handles",
+                "PDQ Exterior Pull Handlesets",
+                "PDQ exit device trim",
+                "PDQ 4200 series exterior trim"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDQ-429GPH_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PDQ-429GPH_525.jpg?v=1716423283"
+        },
+        "text": {
+            "description_html": "<b>Dummy Pull Handle for Panic Device</b>\r\n<p>\r\nThis is a Dummy Function (used as a pull only) Handleset for all Wide and Medium Stile Doors (aluminum framed, hollow metal, or wood).  For use on door's exterior with <a href=\"/collections/panic-devices\"><b>Panic Device Hardware</b></a>.  Covers standard 2-1/8\" bore hole prep. \r\n</p>\r\n<p>\r\nFor use with PDQ <a href=\"/products/grade-1-commercial-exit-device-for-30-36-inch-door-pdq-4200r\"><b>4200 Series Rim Exit Device</b></a>, <a href=\"/products/grade-1-commercial-vertical-rod-exit-device-for-30-36-inch-door-pdq-4200v\"><b>4200 Series Vertical Rod Exit Device</b></a>, \r\n Global <a href=\"/products/30-to-36-inch-wide-door-touch-bar-rim-exit-device-th1100edtbar\"><b>TH1100EDTBAR Touch Bar Rim Exit Device</b></a>,  <a href=\"/products/30-to-36-inch-grade-2-surface-vertical-rod-door-panic-device-th1100edsvtbar\"><b>TH1100EDSVTBAR Surface Vertical Rod Panic Device</b></a>.\r\n</p>\r\n<p>\r\nPackaged with mounting hardware for panic device.\r\n</p>\r\n<p>\r\n<b>Features</b> for PDQ 4-GW-02 Panic Device Pull Handleset \r\n<ul>\r\n<li>Function: Dummy - used as a pull only.</li>\r\n<li>Handle Plate Height: 12-5/16\"</li>\r\n<li>Handle Plate Width: 3\"</li>\r\n<li>Pull Height: 6\"</li>\r\n<li>Pull Projection: 1-7/8\"</li>\r\n</ul>\r\n</p>\r\n<p>\r\nAvailable in your choice of powder coated Aluminum, Dark Bronze (Duro) or plated Polished Brass.\r\n</p>",
+            "seo": {
+                "title": "Pull Handleset for Panic Device, PDQ 4-GW-02",
+                "description": "PDQ 4-GW-02 Dummy Function (used as a pull only) Handleset  for PDQ 4200 Touch Bar Rim Exit Devices, PDQ 4200 Vertical Rod Exit Device and other manufactures Panic Devices. Available in Aluminum, Dark Bronze (Duro) or Polished Brass finish.",
+                "keywords": "PDQ-429GPH Panic Device Pull Handlesets, Pull Handleset for Panic Device, PDQ-4-GW-02 dummy pull handles, PDQ Exterior Pull Handlesets, PDQ exit device trim, PDQ 4200 series exterior trim,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "PDQ Exit Devices",
+                    "sort": "22"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "216976",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "201045",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "190268",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "261602",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "250992",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "301763",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "250724",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "197367",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "197509",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "201068",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 4-GW-02-689: Aluminum",
+                "Select Finish: 4-GW-02-695: Dark Bronze",
+                "Select Door Handing: Left Hand Door",
+                "Select Door Handing: Right Hand Door"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "4-GW-02-689: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "4-GW-02-695: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Left Hand Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Right Hand Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

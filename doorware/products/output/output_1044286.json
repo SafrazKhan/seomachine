@@ -1,0 +1,143 @@
+{
+    "legacy_product_id": "1044286",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "City Skyline Edge Pull, RK International CP-595",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CP-595",
+            "mpn": "RKI-CP-595",
+            "price": "8.99",
+            "compare_at_price": "11.11",
+            "contractor_price": "8.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "City Skyline Cabinet Pulls",
+                "RK International CP-595",
+                "RK International CP 595",
+                "Open Rectangle Flush Pulls",
+                "modern flush pulls",
+                "unique contemporary flush pulls",
+                "City Skyline Edge Pulls",
+                "RK International Open Rectangle Flush Pulls",
+                "Modern City Skyline Rectangle Edge Pulls",
+                "Cabinet Edge Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-CP595-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-CP595-525.jpg?v=1716427870"
+        },
+        "text": {
+            "description_html": "<b>RK International CP 595, Modern City Skyline Rectangle Edge Pull</b>\r\n\r\n<p>\r\nThe City Skyline Edge Pull is designed to mount on he backside of your cabinets so that the cutout projects perpendicular to you cabinet's face. On side by side doors, please allow for a 6mm clearance. All other doors and drawers require a 2mm minimum clearance. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the RK International Open Rectangle Flush Pull:\r\n<ul>\r\n<li>Material: Zinc</li>\r\n<li>Length C.C.: 96mm </li>\r\n<li>Overall Length: 120mm</li>\r\n<li>Width: 42mm</li>\r\n<li>Projection: 18mm</li>\r\n<li>Comes packaged with installation screws.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "City Skyline Edge Pull",
+                "description": "The City Skyline Edge Pull is designed to mount on he backside of your cabinets so that the cutout projects perpendicular to you cabinet's face. On side by side doors, please allow for a 6mm clearance. All other doors and drawers require a 2mm minimum clearance. \r\n",
+                "keywords": "City Skyline Cabinet Pulls, RK International CP-595, RK International CP 595, Open Rectangle Flush Pulls, modern flush pulls, unique contemporary flush pulls, City Skyline Edge Pulls, RK International Open Rectangle Flush Pulls, Modern City Skyline Rectangle Edge Pulls, Cabinet Edge Pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Zinc"
+                },
+                {
+                    "key": "Length C.C.",
+                    "value": "96mm"
+                },
+                {
+                    "key": "Overall Length",
+                    "value": "120mm"
+                },
+                {
+                    "key": "Width",
+                    "value": "42mm"
+                },
+                {
+                    "key": "Projection",
+                    "value": "18mm"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Pulls and Flush Pulls",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "849603",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "849595",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "120896",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "880142",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1038415",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "42954",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "38126",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "1002606",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Material: Zinc",
+                "Length C.C.: 96mm",
+                "Overall Length: 120mm",
+                "Width: 42mm",
+                "Projection: 18mm",
+                "Select Finish: PC: Polished Chrome",
+                "Select Finish: P: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PC: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

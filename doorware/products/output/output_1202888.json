@@ -1,0 +1,153 @@
+{
+    "legacy_product_id": "1202888",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Keyed Cam Lock, CPX-C8073-14A",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "CPX-C8073-14A",
+            "mpn": "CPX-C8073-14A",
+            "price": "15.99",
+            "compare_at_price": "18.99",
+            "contractor_price": "15.99",
+            "shipping_weight": "4.0",
+            "tags": [
+                "Keyed Cam Lock",
+                "CPX-C8073-14A",
+                "Keyed Cam Cabinet Locks",
+                "cabinet locks with key",
+                "security drawer locks",
+                "keyed drawer locks",
+                "desk locks",
+                "cabinet locks",
+                "cam locks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CPX-C8073-14A-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CPX-C8073-14A-525.jpg?v=1717106671"
+        },
+        "text": {
+            "description_html": "<b>CompX C8076-14A, Keyed Cam Cabinet or Drawer Lock</b>\r\n\r\n<p>\r\nThe Keyed Cam Cabinet Lock is designed to lock cabinet doors or drawers with lipped/overlay construction with a maximum thickness of 7/8\".  For overlay application the combined thickness of front and frame cannot exceed the length of the 1-3/16\" cylinder.  The lock can be ordered keyed alike or keyed differently and is packaged with 2 keys, trim washer, spur washer, mounting nut, two cams, and two stop washers.\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> of the Keyed Cam Cabinet and Drawer Lock:\r\n<ul>\r\n<li>Cam Type: Straight</li>\r\n<li>Cam Length: 1-1/2\"</li>\r\n<li>Cam Offset: 11/32\"</li>\r\n<li>Cam Rotation: 90° or 180° CW/CCW</li>\r\n<li>Hand: Reversible</li>\r\n<li>Mounting Hole Diameter: 3/4\"</li>\r\n<li>Maximum Material Thickness: 7/8\"</li>\r\n<li>Cylinder Type: 5 Disc Tumbler</li>\r\n\r\n<li>Non-handed</li>\r\n<li><b>Polished Nickel Finish</b></li>\r\n\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Keyed Cam Lock",
+                "description": "The Keyed Cam Cabinet Lock is designed to lock cabinet doors or drawers with lipped/overlay construction with a maximum thickness of 7/8 inch.",
+                "keywords": "Keyed Cam Lock, CPX-C8073-14A, Keyed Cam Cabinet Locks, cabinet locks with key, security drawer locks, keyed drawer locks, desk locks, cabinet locks, cam locks"
+            },
+            "specifications": [
+                {
+                    "key": "Cam Type",
+                    "value": "Straight"
+                },
+                {
+                    "key": "Cam Length",
+                    "value": "1-1/2\""
+                },
+                {
+                    "key": "Cam Offset",
+                    "value": "11/32\""
+                },
+                {
+                    "key": "Cam Rotation",
+                    "value": "90° or 180° CW/CCW"
+                },
+                {
+                    "key": "Hand",
+                    "value": "Reversible"
+                },
+                {
+                    "key": "Mounting Hole Diameter",
+                    "value": "3/4\""
+                },
+                {
+                    "key": "Maximum Material Thickness",
+                    "value": "7/8\""
+                },
+                {
+                    "key": "Cylinder Type",
+                    "value": "5 Disc Tumbler"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "CompX Security Products",
+                    "sort": "1"
+                },
+                {
+                    "name": "Cabinet Locks and Catches",
+                    "sort": "40"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "30411",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "7999",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "442236",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "187062",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "147563",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "311771",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Cam Type: Straight",
+                "Cam Length: 1-1/2\"",
+                "Cam Offset: 11/32\"",
+                "Cam Rotation: 90° or 180° CW/CCW",
+                "Hand: Reversible",
+                "Mounting Hole Diameter: 3/4\"",
+                "Maximum Material Thickness: 7/8\"",
+                "Cylinder Type: 5 Disc Tumbler",
+                "Select Keying Option: KA: Keyed Alike",
+                "Select Keying Option: KD: Keyed Different"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Keying Option",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "KA: Keyed Alike",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KD: Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

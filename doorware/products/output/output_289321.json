@@ -1,0 +1,129 @@
+{
+    "legacy_product_id": "289321",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Extended Lip Stainless Steel T  Strike Plate",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "DJO-T91xx-630",
+            "mpn": "DJO-T91xx-630",
+            "price": "12.48",
+            "compare_at_price": "15.6",
+            "contractor_price": "11.23",
+            "shipping_weight": "0.3",
+            "tags": [
+                "DJO-T91xx-630 Extended Lip Stainless Steel T  Strike Plates",
+                "Don-Jo  Extended Lip T Door Strike Plates",
+                "Don-Jo T9102 2 inch lip strike plates",
+                "Don-Jo T9125 2-1/2 inch lip strike plates",
+                "Don-Jo T9175 1-3/4 inch lip strike plates",
+                "Don-Jo strikes"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-T-strike-plates_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-T-strike-plates_525.jpg?v=1717105884"
+        },
+        "text": {
+            "description_html": "<b>Extended Lip Stainless Steel \"T\" Strike Plate</b>\r\n\r\n<p>\r\nThese stainless steel door latch strike plates are for use with any manufacturer's tubular entry locks, passage and privacy set.  They are especially handy for custom installations and extra thick doors.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b> for Don-Jo T91xx-630,  Extended Lip T Door Strike Plates\r\n<ul>\r\n<li>Base Width: 2-3/4\"</li>\r\n<li>Material: 304 Stainless Steel</li>\r\n<li>Finish: Satin Stainless Steel</li>\r\n<li>Packaged with Mounting Screws</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nAvailable in 3 <b>Lengths:</b>\r\n<ul>\r\n<b>T9175-630</b>\r\n<li>Lip Extension Length: 1-3/4\" Lip</li>\r\n<li>Overall Length: 2-1/4\"</li>\r\n<li>Base Width: 2-3/4\"</li>\r\n</ul>\r\n<ul>\r\n<b>T9102-630</b>\r\n<li>Lip Extension Length: 2\" Lip</li>\r\n<li>Overall Length: 2-1/2\"</li>\r\n<li>Base Width: 2-3/4\"</li>\r\n</ul>\r\n<ul>\r\n<b>T9125-630</b>\r\n<li>Lip Extension Length: 2-1/2\" Lip</li>\r\n<li>Overall Length: 3\"</li>\r\n<li>Base Width: 2-3/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold Individually. </b>\r\n</p>",
+            "seo": {
+                "title": "Extended Lip Stainless Steel T  Strike Plate",
+                "description": "Don-Jo Extended Lip Stainless Steel T  Strike Plates. Available in 3 different lengths of 1-3/4 inches, 2 inches and 2-1/2 inches.  Packaged with mounting screws",
+                "keywords": "DJO-T91xx-630 Extended Lip Stainless Steel T  Strike Plates, Don-Jo  Extended Lip T Door Strike Plates, Don-Jo T9102 2 inch lip strike plates, Don-Jo T9125 2-1/2 inch lip strike plates, Don-Jo T9175 1-3/4 inch lip strike plates, Don-Jo strikes,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Strike Plates",
+                    "sort": "1"
+                },
+                {
+                    "name": "Strike Plates",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "955029",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "410726",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "955085",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "410757",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "955126",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "162050",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "410754",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "327689",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "285901",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Size: T9175-630: 1-3/4in. Lip",
+                "Select Size: T9102-630: 2in. Lip",
+                "Select Size: T9125-630: 2-1/2in. Lip"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "T9175-630: 1-3/4in. Lip",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "T9102-630: 2in. Lip",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "T9125-630: 2-1/2in. Lip",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

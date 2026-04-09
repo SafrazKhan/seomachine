@@ -1,0 +1,255 @@
+{
+    "legacy_product_id": "70986",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Glynn Johnson 81 Series Heavy-Duty Surface Overhead Holder/Stop",
+            "vendor": "Glynn-Johnson",
+            "status": "ACTIVE",
+            "sku": "GLY-81-series",
+            "mpn": "GLY-81-series",
+            "price": "391.2",
+            "compare_at_price": "489.0",
+            "contractor_price": "391.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "GLY-81-series Surface Mounted Overhead Door Stops",
+                "Glynn Johnson 81 Series Heavy-Duty Surface Overhead Holder/Stops",
+                "glynn-johnson 81 series stops",
+                "door holders",
+                "overhead door stops",
+                "Glynn Johnson door stops",
+                "Surface Mounted Door Holder Stops",
+                "Surface Mounted Door  Stops",
+                "holds doors",
+                "holds door open"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/81_Series.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/81_Series.jpg?v=1716421067"
+        },
+        "text": {
+            "description_html": "<b>Glynn Johnson 81 Series Heavy-Duty Surface Overhead Holder / Stop</b>\r\n<p>\r\n<b>The Glynn Johnson 81 series </b>holders and stops provide rugged, heavy-duty door control. The jointed-arm design provides the most effective stop mechanism available. The shock absorber bracket is surface mounted, usually with sex bolts. The jamb bracket is mounted to the top of the frame, so a minimum of door and frame preparation is required.\r\n</p>\r\n<p>\r\n\r\n<b>Hold Open and Stop</b><br>\r\nThe Hold-Open model should be used when doors will need to be held open at a preset position for an extended period. This allows unobstructed traffic flow. Hold-Open model provides a selective Hold-Open function. A simple turn of the thumbturn disables the Hold-Open function, allowing the unit to serve as a shock absorbing stop.\r\n </p>\r\n<p>\r\n\r\n<b>Stop Only</b><br>\r\nWhen the Hold-Open function is not required, the Stop-Only models provide the same effective door control, without the Hold-Open feature. The Stop-Only model may be used on fire doors.\r\n</p>\r\n<p>\r\n<img src=..https://cdn.shopify.com/s/files/1/0766/1489/3857/files/gly-81-series-2.jpg?v=1704354767>\r\n</p>",
+            "seo": {
+                "title": "Glynn Johnson 81 Series Heavy-Duty Surface Overhead Holder/Stop",
+                "description": "The Glynn Johnson 81 series holders and stops provide rugged, heavy-duty door control. The jointed-arm design provides the most effective stop mechanism available. The shock absorber bracket is surface mounted, usually with sex bolts. The jamb bracket is mounted to the top of the frame, so a minimum of door and frame preparation is required.",
+                "keywords": "GLY-81-series Surface Mounted Overhead Door Stops, Glynn Johnson 81 Series Heavy-Duty Surface Overhead Holder/Stops, glynn-johnson 81 series stops, door holders, overhead door stops, Glynn Johnson door stops, Surface Mounted Door Holder Stops, Surface Mounted Door  Stops, holds doors, holds door open,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Glynn-Johnson",
+                    "sort": "7"
+                },
+                {
+                    "name": "Overhead Holders And Stops",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "71498",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "713565",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "71236",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "15345",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "70909",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "15351",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "396056",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "8987",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "430060",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "91967",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Size: 813S: Size 3, Stop-Only",
+                "Select Size: 814S: Size 4, Stop-Only",
+                "Select Size: 815S: Size 5, Stop-Only",
+                "Select Size: 816S: Size 6, Stop-Only",
+                "Select Size: 813H: Size 3, Hold Open",
+                "Select Size: 814H: Size 4, Hold Open",
+                "Select Size: 815H: Size 5, Hold Open",
+                "Select Size: 816H: Size 6, Hold Open",
+                "Select Finish: 652: Brushed Chrome",
+                "Select Finish: US32D: Satin Stainless Steel",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: US10: Satin Bronze",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US32: Polished Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "813S: Size 3, Stop-Only",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "813S"
+                },
+                {
+                    "value": "814S: Size 4, Stop-Only",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "814S"
+                },
+                {
+                    "value": "815S: Size 5, Stop-Only",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "815S"
+                },
+                {
+                    "value": "816S: Size 6, Stop-Only",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "816S"
+                },
+                {
+                    "value": "813H: Size 3, Hold Open",
+                    "price_impact": 56.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "813H"
+                },
+                {
+                    "value": "814H: Size 4, Hold Open",
+                    "price_impact": 56.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "814H"
+                },
+                {
+                    "value": "815H: Size 5, Hold Open",
+                    "price_impact": 56.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "815H"
+                },
+                {
+                    "value": "816H: Size 6, Hold Open",
+                    "price_impact": 56.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "816H"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "652: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "652"
+                },
+                {
+                    "value": "US32D: Satin Stainless Steel",
+                    "price_impact": 64.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US32D"
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 128.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US4"
+                },
+                {
+                    "value": "US10: Satin Bronze",
+                    "price_impact": 128.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US10"
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 128.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US10B"
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 149.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US3"
+                },
+                {
+                    "value": "US32: Polished Stainless Steel",
+                    "price_impact": 149.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US32"
+                }
+            ]
+        }
+    ]
+}

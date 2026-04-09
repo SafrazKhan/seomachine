@@ -1,0 +1,118 @@
+{
+    "legacy_product_id": "1153429",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Kama Square Cabinet Knob, Laurey 232",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "LAU-232",
+            "mpn": "LAU-232",
+            "price": "8.69",
+            "compare_at_price": "11.59",
+            "contractor_price": "8.26",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Kama Square Cabinet Knobs",
+                "Laurey 232",
+                "7/8 Inch Kama Square Knobs",
+                "LAU-232",
+                "rustic square hardware",
+                "southwestern hardware",
+                "rustic kitchen cabinet hardware",
+                "Laurey 23206",
+                "Laurey 23260",
+                "Laurey 23266",
+                "Laurey 23220"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LAU-232-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-232-525.jpg?v=1716428489"
+        },
+        "text": {
+            "description_html": "<b>Laurey 7/8 Inch Kama Square Knob</b>\r\n\r\n<p>\r\nThe Kama Square Cabinet Knob has a unique style that lends it a rustic feel that is well suited to southwestern kitchen decor. The  7/8 Inch Kama Square Knob is ridged along the side and has a slight pyramid top and both of these features add to its charm. It comes packaged with mounting hardware.  \r\n</p>\r\n\r\n\r\n<p>\r\nThis cabinet knob is part of the <a href=\"//search?type=product&q=Laurey+Kama\">Laurey Kama Collection</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Laurey 7/8\" Kama Square Knob:\r\n<ul>\r\n<li>Material: Zinc</li>\r\n<li>Length: 7/8\" square</li>\r\n<li>Projection: 1-1/4\"</li>\r\n<li>Packaged with 1\" long #8-32 screw and 1-1/2\" long #8-32 screw.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Kama Square Cabinet Knob",
+                "description": "The Kama Square Cabinet Knob has a unique style that lends it a rustic feel that is well suited to southwestern kitchen decor. The  7/8 Inch Kama Square Knob is ridged along the side and has a slight pyramid top and both of these features add to its charm. It comes packaged with mounting hardware.",
+                "keywords": "Kama Square Cabinet Knobs, Laurey 232, 7/8 Inch Kama Square Knobs, LAU-232, rustic square hardware, southwestern hardware, rustic kitchen cabinet hardware, Laurey 23206, Laurey 23260, Laurey 23266, Laurey 23220"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Laurey Cabinet Knobs",
+                    "sort": "63"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1038664",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1153166",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "571166",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "562087",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "552523",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "569872",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: LAU-23220: Matte Black",
+                "Select Finish: LAU-23260: Antique Silver",
+                "Select Finish: LAU-23266: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LAU-23220: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-23220-SM.jpg?v=1774582033",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-23220-LG.jpg?v=1711366619"
+                },
+                {
+                    "value": "LAU-23260: Antique Silver",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-23260-SM.jpg?v=1774582036",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-23260-LG.jpg?v=1711366619"
+                },
+                {
+                    "value": "LAU-23266: Oil Rubbed Bronze",
+                    "price_impact": 0.77,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-23266-SM.jpg?v=1774582039",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-23266-LG.jpg?v=1711366619"
+                }
+            ]
+        }
+    ]
+}

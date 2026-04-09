@@ -1,0 +1,126 @@
+{
+    "legacy_product_id": "43438",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Standard Aluminum Cabinet Pull Omnia AL407",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-AL407",
+            "mpn": "OMN-AL407",
+            "price": "11.05",
+            "compare_at_price": "13.8",
+            "contractor_price": "10.5",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Omnia AL407 Aluminum cabinet Pulls",
+                "omnia al407 aluminum cabinet door pulls",
+                "al407/127",
+                "al407/159",
+                "al407/318",
+                "simple cabinet pulls",
+                "modern cabinet hardware",
+                "aluminum cabinet hardware omnia"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-brass-AL407_300x3351.jpg",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Omnia AL407 Aluminum Cabinet Hardware</b>\r\n<p>\r\nJust because this pull is simple in design, doesn't mean that it is boring. Sometimes classic design offers the most elegant style--granting a timelessness to any home with ease. Made of aluminum, this cabinet pull emulates the quality that Omnia products are known for. This pull is offered in 3 sizes, making it easy to find just fit.\r\n</p>\r\n<p>\r\nOmnia's line of sophisticated Aluminum cabinet hardware have been painstakingly crafted by artisans who understand that a beautiful design must be as comfortable to the hand as it is pleasing to the eyes.\r\n</p>\r\n<p>\r\n<b>Available in 3 Sizes:</b>\r\n<ul>\r\n<li><b>OMN-AL407/127</b> - Center to Center Mount Hole Spacing: 5\", Overall Length: 5-7/16\", Projection: 1-9/16\"</li>\r\n<li><b>OMN-AL407/159</b> - Center to Center Mount Hole Spacing: 6-1/4\", Overall Length: 6-11/16\", Projection: 1-9/16\"</li>\r\n<li><b>OMN-AL407/318</b> - Center to Center Mount Hole Spacing: 12-1/2\", Overall Length: 12-15/16\", Projection: 1-9/16\"</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Standard Aluminum Cabinet Pull Omnia AL407",
+                "description": "Omnia AL407 Aluminum Door Pull - Just because this pull is simple in design, doesn't mean that it is boring. Sometimes classic design offers the most elegant style--granting a timelessness to any home with ease. Made of aluminum, this cabinet pull emulates the quality that Omnia products are known for. This pull is offered in 3 sizes, making it easy to find just fit.",
+                "keywords": "Omnia AL407 Aluminum cabinet Pulls, omnia al407 aluminum cabinet door pulls, al407/127, al407/159, al407/318, simple cabinet pulls, modern cabinet hardware, aluminum cabinet hardware omnia,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "13"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "188488",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "253289",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "258189",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "42135",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42141",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "42316",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "41858",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "7417",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Size: OMN-AL-407/127 - Center to Center Hole Spacing: 5in.",
+                "Select Size: OMN-AL-407/159 - Center to Center Hole Spacing: 6-1/4in.",
+                "Select Size: OMN-AL-407/318 - Center to Center Hole Spacing; 12-1/2in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-AL-407/127 - Center to Center Hole Spacing: 5in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-AL-407/127"
+                },
+                {
+                    "value": "OMN-AL-407/159 - Center to Center Hole Spacing: 6-1/4in.",
+                    "price_impact": 0.55,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-AL-407/159"
+                },
+                {
+                    "value": "OMN-AL-407/318 - Center to Center Hole Spacing; 12-1/2in.",
+                    "price_impact": 10.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-AL-407/318"
+                }
+            ]
+        }
+    ]
+}

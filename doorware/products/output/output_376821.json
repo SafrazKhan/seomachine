@@ -1,0 +1,91 @@
+{
+    "legacy_product_id": "376821",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Schlage 5 Inch Backset Deadbolt Latch, SCH-12-633",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-12-633",
+            "mpn": "SCH-12-633",
+            "price": "127.0",
+            "compare_at_price": "127.0",
+            "contractor_price": "127.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "SCH-12-633 Schlage 5 Inch Backset Deadbolt latch",
+                "Schlage 12-633 latch",
+                "Schlage 5 inches backset",
+                "Schlage 5 inch latch",
+                "Schlage latch",
+                "Schlage door latches",
+                "Schlage entry latches",
+                "5 door latches",
+                "5 inch deadbolt latch"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>5\" Backset Deadbolt Latch for Schlage B Series deadbolts</b>\r\n<p>\r\nFor use with Schlage B500 B600 Series Commercial Deadbolts only.\r\n<br>\r\n<b>*Not for use with B60 Residential Deadbolts</b>\r\n</p>\r\n<p>\r\nThis is a 5\" Backset Deadlatch.  <a href=\"/pages/how-to-order-door-hardware#backset\"><b>How to measure your door's backset</b></a>. \r\n</p>\r\n\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Schlage 5 Inch Backset Deadbolt Latch, SCH-12-633",
+                "description": "Schlage 12-633 5 inch Backset Deadbolt latch for use with Schlage B series deadbolts. ",
+                "keywords": "SCH-12-633 Schlage 5 Inch Backset Deadbolt latch, Schlage 12-633 latch, Schlage 5 inches backset, Schlage 5 inch latch, Schlage latch,  Schlage door latches, Schlage entry latches, 5 door latches, 5 inch deadbolt latch"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "100"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: SCH-12-633-605 - Polished Brass",
+                "Select Finish: SCH-12-633-619 - Satin Nickel",
+                "Select Finish: SCH-12-633-626 - Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SCH-12-633-605 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-12-633-619 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-12-633-626 - Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

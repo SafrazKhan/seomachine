@@ -1,0 +1,113 @@
+{
+    "legacy_product_id": "269860",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Door Closer Drop Plate for TC600 Series, Global DP-1006",
+            "vendor": "Global",
+            "status": "ARCHIVED",
+            "sku": "GLO-DP-1006",
+            "mpn": "GLO-DP-1006",
+            "price": "29.72",
+            "compare_at_price": "42.46",
+            "contractor_price": "26.75",
+            "shipping_weight": "2.5",
+            "tags": [
+                "GLO-DP-1006 Global TC600 Series Drop Plates",
+                "Door Closer Drop Plate for TC600 Series",
+                "Global DP-1006 drop plates",
+                "storefront closer drop plates",
+                "storefront door closer drop plates",
+                "Global Door Controls DP-1006 drop plates",
+                "Global DP-1006-AL",
+                "Global DP-1006-DU",
+                "Global TC611",
+                "Global TC612"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-DP-1006-drop-plate_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-DP-1006-drop-plate_525.jpg?v=1716422594"
+        },
+        "text": {
+            "description_html": "<b>TC600 Series Door Closer Drop Plate</b>\r\n<p>\r\nUse on doors with narrow top door frames and doors with glass, when the glass interferes with closer mounting. Often used on metal framed glass store front doors. Also used to lower a door closer up to 1-1/2\".  \r\n</p>\r\n\r\n<p>\r\nFor use with Global Door Controls TC600 Series Door Closers: <a href=\"/products/grade-1-tri-packed-door-closer-global-tc612\"><b>TC612</b></a> and <a href=\"/products/ada-compliant-grade-1-tri-packed-door-closer-global-tc611\"><b>TC611</b></a>.\r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DP-1006-dimensions.jpg?v=1704442271\" width=\"600\" height=\"225\" border=\"0\" alt=\"DP-1006 drop plate dimensions\">\r\n</p>\r\n<p>\r\n<b>Specifications:</b> for Global DP-1006 Drop Plate\r\n<ul>\r\n<li>Total Length: 11-3/4\"</li>\r\n<li>Total Height: 3-5/8\"</li>\r\n<li>Thickness: 1/8\" </li>\r\n<li>Material: Steel </li>\r\n<li>Horizontal Mounting Holes: 11-3/32\"</li>\r\n<li>Vertical Mounting Holes: 3/4\"</li>\r\n<li>Packaged with installation screws</li>\r\n</ul>\r\n</p>\r\n<p><b>*Sold Individually.</b></p>\r\n\r\n<p>\r\n<br><br><b>**Item Discontinued. Use <a href=\"/products/parallel-arm-drop-plate-for-american-eagle-5100-pdq-519018\">PDQ 519018 Drop Plate</a></b></p>\r\n\r\n<br><br>",
+            "seo": {
+                "title": "Door Closer Drop Plate for TC600 Series, Global DP-1006",
+                "description": "Global Door Controls DP-1006. Use on doors with narrow top door frames and doors with glass, when the glass interferes with closer mounting. Often used on metal framed glass store front doors. Also used to lower a door closer up to 1-1/2 inches.  For use with Global Door Controls TC600 Series Door Closers: TC612 and TC611",
+                "keywords": "GLO-DP-1006 Global TC600 Series Drop Plates, Door Closer Drop Plate for TC600 Series, Global DP-1006 drop plates, storefront closer drop plates, storefront door closer drop plates, Global Door Controls DP-1006 drop plates, Global DP-1006-AL, Global DP-1006-DU, Global TC611, Global TC612"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Global Discontinued",
+                    "sort": "47"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "232302",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "264828",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "264861",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "191074",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "15322",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "217505",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "173756",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DP-1006-AL: Aluminum",
+                "Select Finish: DP-1006-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DP-1006-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DP-1006-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

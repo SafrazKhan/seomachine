@@ -1,0 +1,131 @@
+{
+    "legacy_product_id": "195089",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Brass Monte Carlo Door Knocker",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-78",
+            "mpn": "OMN-78",
+            "price": "86.4",
+            "compare_at_price": "108.0",
+            "contractor_price": "82.08",
+            "shipping_weight": "2.0",
+            "tags": [
+                "OMN-78",
+                "Omnia Solid Brass Monte Carlo Door Knocker",
+                "omnia knockers",
+                "omnia 78/70 78/90 78/115"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-78-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/omn-78-525.jpg?v=1717105732"
+        },
+        "text": {
+            "description_html": "<b>Omnia Monte Carlo Door Knocker</b>\r\n\r\n<p>\r\nOmnia's Monte Carlo Door Knocker adds that detail, that distinctive touch which clarifies and reinforces fine architecture and design. Made out of solid brass. After hand polishing and high buffing, a hard and transparent lacquer is baked onto each piece. This special process retains the tradition of old world excellence while employing the best available modern technology to protect and preserve your fine taste.\r\n</p>\r\n\r\n<p>\r\n<b>Available in 3 different sizes:</b>\r\n<ul>\r\n<b>OMN-78/70</b>\r\n<ul>\r\n<li>Overall Size: 6-1/8\"</li>\r\n<li>Center to center: 3-11/16\"</li>\r\n<li>Projection: 1-3/4\"</li>\r\n</li>US3 Polished Brass Finish</li>\r\n</ul>\r\n</ul>\r\n<ul>\r\n<b>OMN-78/90</b>\r\n<ul>\r\n<li>Overall Size: 7-1/2\"</li>\r\n<li>Center to center: 4-5/8\"</li>\r\n<li>Projection: 2-5/8\"</li>\r\n</li>US3 Polished Brass Finish</li>\r\n</ul>\r\n</ul>\r\n<ul>\r\n<b>OMN-78/115</b>\r\n<ul>\r\n<li>Overall Size: 9-1/4\"</li>\r\n<li>Center to center: 5-3/4\"</li>\r\n<li>Projection: 2-3/4\"</li>\r\n</li>US3 Polished Brass Finish</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n<p>\r\n<br><br>\r\n<b>*This Item is Discontinued.</b> See available:<a href=\"/collections/knockers\">Door Knockers</a>\r\n<br><br>\r\n</p>",
+            "seo": {
+                "title": "Solid Brass Monte Carlo Door Knocker",
+                "description": "Omnia Monte Carlo Door Knocker - Omnia's Door Knocker adds that detail, that distinctive touch which clarifies and reinforces fine architecture and design. Made out of solid brass. After hand polishing and high buffing, a hard and transparent lacquer is baked onto each piece. This special process retains the tradition of old world excellence while employing the best available modern technology to protect and preserve your fine taste.\r\n",
+                "keywords": "OMN-78, Omnia Solid Brass Monte Carlo Door Knocker, omnia knockers, omnia 78/70 78/90 78/115,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knockers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knockers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-6",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "119"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "8262",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "195072",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "195096",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "226449",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "159529",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "159554",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "41243",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "235637",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "236448",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "195132",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "195124",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Size: OMN-78/70: Overall Size 6-1/8in.",
+                "Select Size: OMN-78/90: Overall Size 7-1/2in.",
+                "Select Size: OMN-78/115: Overall Size 9-1/4in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-78/70: Overall Size 6-1/8in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "OMN-78/90: Overall Size 7-1/2in.",
+                    "price_impact": 55.2,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "OMN-78/115: Overall Size 9-1/4in.",
+                    "price_impact": 127.2,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

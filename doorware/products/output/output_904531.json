@@ -1,0 +1,100 @@
+{
+    "legacy_product_id": "904531",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Accessory Lever Set for SDML334, Deltana SDML334/LL",
+            "vendor": "Deltana",
+            "status": "ARCHIVED",
+            "sku": "DEL-SDML334/LL",
+            "mpn": "DEL-SDML334/LL",
+            "price": "42.56",
+            "compare_at_price": "53.2",
+            "contractor_price": "42.56",
+            "shipping_weight": "3.0",
+            "tags": [
+                "DEL-SDML334/LL",
+                "Accessory Lever Set for SDML334",
+                "Screen Door Mortise Lockset Replacement Levers",
+                "Deltana SDML334-LL",
+                "Replacement Lever for screen Door Latch Sets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-SDML334-LL-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SDML334-LL-525.jpg?v=1716426755"
+        },
+        "text": {
+            "description_html": "<b>Deltana SDML334/LL, Replacement Lever for Screen Door Latch Set</b>\r\n\r\n<p>\r\nThis is a replacement lever for the <a href=\"/products/screen-door-mortise-lock-set-deltana-sdml334\">Deltana SDML334 Screen Door Mortise Lock Set</a>. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the SDML334/LL Screen Door Replacement Lever for Deltana SDML334:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Lever Length: 2\"</li>\r\n<li>Projection: 3/4\"</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SDML334-LL-specifications.pdf?v=1704262361\"><b>Deltana SDML334/LL Dimensions (PDF)</b></a>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Check Your Hardware:</b> This works for the <a href=\"/products/screen-door-mortise-lock-set-deltana-sdml334\">DEL-SDML334 Screen Door Latch Set</a> manufactured by Deltana. If you are not sure if your storm door latch set was manufactured by Deltana, do NOT order this as they may not work properly.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i> <b>No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "Accessory Lever Set for SDML334",
+                "description": "This is a replacement lever for the Deltana SDML334 Screen Door Mortise Lock Set.",
+                "keywords": "DEL-SDML334/LL, Accessory Lever Set for SDML334, Screen Door Mortise Lockset Replacement Levers, Deltana SDML334-LL, Replacement Lever for screen Door Latch Sets,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Discontinued and Special Items",
+                    "sort": "57"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "170839",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "158838",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "147502",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: U15 - Satin Nickel",
+                "Select Finish: U19 - Matte Black",
+                "Select Finish: U3 - Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U19 - Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "legacy_product_id": "1188908",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Round Flush Pull, Emtek 2211",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-2211",
+            "mpn": "EMT-2211",
+            "price": "22.99",
+            "compare_at_price": "28.0",
+            "contractor_price": "22.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Emtek 2211",
+                "Round 2-1/2 Inch diameter Flush Pulls",
+                "Round Flush Pulls",
+                "Emtek 2211",
+                "EMT-2211",
+                "Emtek 2211 Pocket Door Flush Pulls",
+                "cup flush pulls",
+                "door flush door pulls",
+                "door flush pulls",
+                "pocket doors",
+                "handle for sliding door",
+                "sliding door handles",
+                "pocket door handle",
+                "pocket door pulls",
+                "Pocket Door Hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-2211-US19-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-2211-US19-525.jpg?v=1711366735"
+        },
+        "text": {
+            "description_html": "<b>Emtek 2211, 2-1/2\" Round Brass Flush Pull</b>\r\n\r\n<p>\r\nThe Round Brass Flush Pull is contemporary in design and is available in a wide array of finish color options. The Emtek 2211 Pocket Door Flush Pull is recessed into the door with a 1/8 inch projection for a seamless look once installed.\r\n</p>\r\n\r\n\r\n\r\n<p>\r\n<b>Specifications</b> for the Emtek 2211 Pocket Door Flush Pull:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Diameter:  2-1/2\"</li>\r\n<li>Projection: 1/8\"</li>\r\n<li>Cut-Out Diameter 2-1/8\"</li>\r\n<li>Packaged with matching finish brad nails.</li>\r\n\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Round Flush Pull",
+                "description": "The Round Flush Pull is contemporary in design in a way that is timeless. The Round Brass 2-1/2 inch Flush Pull is available in a wide array of finish color options. The Emtek 2211 Pocket Door Flush Pull is recessed into the door with a 1/8 inch projection for a seamless look once installed.",
+                "keywords": "Emtek 2211, Round 2-1/2 Inch diameter Flush Pulls, Round Flush Pulls, Emtek 2211, EMT-2211, Emtek 2211 Pocket Door Flush Pulls, cup flush pulls, door flush door pulls,  door flush pulls, pocket doors, handle for sliding door, sliding door handles, pocket door handle, pocket door pulls, Pocket Door Hardware,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Diameter",
+                    "value": "2-1/2\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Sliding Door Hardware",
+                    "sort": "52"
+                },
+                {
+                    "name": "Pocket Door Hardware",
+                    "sort": "98"
+                },
+                {
+                    "name": "Emtek Barn Door Hardware",
+                    "sort": "30"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "591297",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1169061",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "909557",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "274024",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "273949",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Diameter: 2-1/2\"",
+                "Projection: 1/8\"",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US15A: Antique Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US7: French Antique",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US3NL: Unlacquered Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US7: French Antique",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3NL: Unlacquered Brass",
+                    "price_impact": 32.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

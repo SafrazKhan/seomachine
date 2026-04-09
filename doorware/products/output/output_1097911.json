@@ -1,0 +1,113 @@
+{
+    "legacy_product_id": "1097911",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Arts and Crafts Dummy Plate, Brass Accents A05-P5330",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "BRA-A05-P5330",
+            "mpn": "BRA-A05-P5330",
+            "price": "49.0",
+            "compare_at_price": "49.0",
+            "contractor_price": "49.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Brass Accents A05-P5330 Arts & Crafts Dummy Plates",
+                "Brass Accents Arts and Crafts Replacement Dummy Plates",
+                "BRA-A05-P5330",
+                "Brass Accents A05-P5330",
+                "Arts and Crafts Dummy Plates",
+                "Replacement Arts and Crafts Dummy Plate"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525147.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525147.gif?v=1716428154"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents Arts and Crafts Replacement Dummy Plate</b>\r\n\r\n<p>\r\nThis is a Arts and Crafts Dummy Plate. It does not include a knob or lever. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Brass Accents A05-P5330 Arts & Crafts Dummy Plate:\r\n<ul>\r\n<li>Material: Cast Brass</li>\r\n<li>Plate Width: 2-1/2\"</li>\r\n<li>Plate Height: 6-1/2\"</li>\r\n<li>Replacement plate only, no knob or lever.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Arts and Crafts Dummy Plate",
+                "description": "This is a Arts and Crafts Dummy Plate. It does not include a knob or lever.",
+                "keywords": "Brass Accents A05-P5330 Arts & Crafts Dummy Plates, Brass Accents Arts and Crafts Replacement Dummy Plates, BRA-A05-P5330, Brass Accents A05-P5330, Arts and Crafts Dummy Plates, Replacement Arts and Crafts Dummy Plate"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Cast Brass"
+                },
+                {
+                    "key": "Plate Width",
+                    "value": "2-1/2\""
+                },
+                {
+                    "key": "Plate Height",
+                    "value": "6-1/2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Custom Components and Parts",
+                    "sort": "11"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "726546",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "726331",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "726418",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "726580",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "585192",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "585231",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Cast Brass",
+                "Plate Width: 2-1/2\"",
+                "Plate Height: 6-1/2\"",
+                "Select Finish: Venetian Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

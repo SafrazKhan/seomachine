@@ -1,0 +1,91 @@
+{
+    "legacy_product_id": "1143634",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Pocket Door Privacy Strike Plate, Emtek SK6-TUPKSTRLOCK",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-SK6-TUPKSTRLOCK",
+            "mpn": "EMT-SK6-TUPKSTRLOCK",
+            "price": "10.0",
+            "compare_at_price": "10.0",
+            "contractor_price": "10.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "EMT-SK6-TUPKSTRLOCK",
+                "Pocket Door Privacy Strike Plates",
+                "Emtek SK6-TUPKSTRLOCK",
+                "Emtek Privacy Strike Plate for Pocket Doors"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525184.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525184.gif?v=1716428446"
+        },
+        "text": {
+            "description_html": "<b>Emtek SK6-TUPKSTRLOCK Pocket Door Privacy Strike Plate</b>\r\n\r\n<p>\r\nThis is a replacement Privacy Strike Plate for use with <a href=\"/collections/emtek-sliding-door-hardware\"><b>Emtek Pocket Door Hardware</b></a>. It is 2-1/4\" x 1-1/8”.\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "Pocket Door Privacy Strike Plate",
+                "description": "This is a replacement Privacy Strike Plate for use with Emtek Pocket Door Hardware. Size: 2-1/4 x 1-1/8.",
+                "keywords": "EMT-SK6-TUPKSTRLOCK, Pocket Door Privacy Strike Plates, Emtek SK6-TUPKSTRLOCK, Emtek Privacy Strike Plate for Pocket Doors"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "28"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "540540",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "369243",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "7108",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "540701",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "236525",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: SB: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SB: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

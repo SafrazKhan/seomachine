@@ -1,0 +1,90 @@
+{
+    "legacy_product_id": "767798",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Single Dummy Spindle with 201 Round Rose, AHI 201SD/SIH913",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-201SD/SIH913",
+            "mpn": "AHI-201SD/SIH913",
+            "price": "50.4",
+            "compare_at_price": "63.0",
+            "contractor_price": "50.4",
+            "shipping_weight": "1.0",
+            "tags": [
+                "AHI 201SD/SIH913",
+                "Single Dummy Spindle with 201 Round Rose",
+                "AHI-201SD/SIH913",
+                "Dummy Spindle with 201 Round Rose"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52515.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52515.gif?v=1717790229"
+        },
+        "text": {
+            "description_html": "<b>AHI 201SD/SIH913, Single Dummy Spindle with 201 Round Rose</b>\r\n\r\n<p>\r\nThis is an 8mm spindle with round rosettes for use with AHI levers.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Single Dummy Spindle with 201 Round Rose:\r\n<ul>\r\n<li>Satin Stainless Steel</li>\r\n<li>8mm Surface Mounted Spindle</li>\r\n<li>Rose Diameter: 2-7/16\"</li>\r\n<li>Rose Thickness: 3/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nCustom order. <b>NOT Returnable.</b>\r\n</p>",
+            "seo": {
+                "title": "Single Dummy Spindle with 201 Round Rose, AHI 201SD/SIH913",
+                "description": "AHI 201SD/SIH913, Single Dummy Spindle with 201 Round Rose - This is an 8mm spindle with round rosettes for use with AHI levers.",
+                "keywords": "AHI 201SD/SIH913, Single Dummy Spindle with 201 Round Rose, AHI-201SD/SIH913, Dummy Spindle with 201 Round Rose,"
+            },
+            "specifications": [
+                {
+                    "key": "Rose Diameter",
+                    "value": "2-7/16\""
+                },
+                {
+                    "key": "Rose Thickness",
+                    "value": "3/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "AHI Miscellaneous Parts",
+                    "sort": "17"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "142540",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "534386",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "206808",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "196664",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "142733",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "142579",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Rose Diameter: 2-7/16\"",
+                "Rose Thickness: 3/8\""
+            ]
+        }
+    },
+    "option_sets": []
+}

@@ -1,0 +1,75 @@
+{
+    "legacy_product_id": "1178688",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "SMARTair Narrow Mortise Lever Lock, Mul-T-Lock SMA-LCK-MLZALKZ22L",
+            "vendor": "Mul-T-Lock",
+            "status": "ARCHIVED",
+            "sku": "MTL-SMA-LCK-MLZALKZ22L",
+            "mpn": "MTL-SMA-LCK-MLZALKZ22L",
+            "price": "1475.0",
+            "compare_at_price": "2290.5",
+            "contractor_price": "1475.0",
+            "shipping_weight": "0.0",
+            "tags": [
+                "MTL-SMA-LCK-MLZALKZ22L SMARTair Narrow Mortise Lever Lock"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MTL-SMA-LCK-MLZALKZ22L-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MTL-SMA-LCK-MLZALKZ22L-525.jpg?v=1717106643"
+        },
+        "text": {
+            "description_html": "<b>Mul-T-Lock SMA-LCK-MLZALKZ22L, SMARTair Narrow Mortise Keypad Lever Lock</b>\r\n\r\n<p>\r\nRobust, innovative, and elegant, the new SMARTair electronic escutcheon is a modern access control device for use in commercial and institutional facilities. With a more sophisticated design, i-max is perfect for environments where intelligence, design and functionality must stand out. This Smart Mortise Lock is operated via  use of the keypad, smartphone app or by placing the access card or access fob near the reader. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the SMARTair i-max Electronic Escutcheon:\r\n<ul>\r\n<li>Finish: <b> 626 Satin Chrome</b></li>\r\n<li>Lever Design: <b>Sena</b></li>\r\n<li>Uses a PIN, a RFID credential or a combination of RFID + PIN for an extra layer of security, or a smartphone with the Openow app.</li>\r\n<li>The control unit and locking mechanism are all securely integrated on the interior side of the lockset.</li>\r\n<li>Antibacterial coating.</li>\r\n<li>Handed</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "SMARTair Narrow Mortise Lever Lock",
+                "description": "",
+                "keywords": "MTL-SMA-LCK-MLZALKZ22L SMARTair Narrow Mortise Lever Lock"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Mul-T-Lock SMARTair",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Handing: RH: Right Handing",
+                "Select Handing: LH: Left Handing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RH: Right Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LH: Left Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

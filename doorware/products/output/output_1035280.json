@@ -1,0 +1,142 @@
+{
+    "legacy_product_id": "1035280",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Silver Carbon Fiber Cabinet Knob, Emtek 86370",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-86370",
+            "mpn": "EMT-86370",
+            "price": "17.6",
+            "compare_at_price": "22.0",
+            "contractor_price": "16.72",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Silver Carbon Fiber Cabinet Knobs",
+                "Carbon Fiber Silver Knobs",
+                "EMT-86370",
+                "EMT-86371",
+                "Emtek 86370",
+                "Emtek 86371",
+                "Emtek Carbon Fiber Knob in Silver",
+                "modern kitchen cabinet knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86370-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86370-525.jpg?v=1716427791"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86370, Woven Carbon Fiber Cabinet Knob</b>\r\n\r\n<p>\r\nThe Silver Carbon Fiber Cabinet Knob has a uniquely modern appearance granted to it my the woven carbon fiber material displayed in the center. This Carbon Fiber Silver Knob is available in 2 sizes. It comes packaged with the installation hardware. Choose from Satin Nickel or Polished Chrome. \r\n</p>\r\n\r\n<p>\r\nAlso Available Matching <a href=\"/products/carbon-fiber-silver-bar-cabinet-pull-emtek-86385\"><b>Silver Carbon Fiber Cabinet Pull</b></a> and <a href=\"/products/silver-carbon-fiber-bin-pull-emtek-86374\"><b>Silver Carbon Fiber Bin Pull</b></a> \r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Emtek Carbon Fiber Knob in Silver:\r\n<ul>\r\n<li>Material: Carbon Fiber and Brass</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86370-specifications.pdf?v=1704262406\" target=\"new\"><b>Emtek Silver Carbon Fiber Cabinet Knob Specifications (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86370-specifications.jpg?v=1704354655\" width=\"600\" height=\"191\" boarder=\"0\" atl=\"Emtek 86370 Specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>EMT-86370:</b>\r\n<ul>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-3/8\"</li>\r\n</ul>\r\n<br>\r\n<b>EMT-86371:</b>\r\n<ul>\r\n<li>Diameter: 1-5/8\"</li>\r\n<li>Projection: 1-1/2\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Silver Carbon Fiber Cabinet Knob",
+                "description": "The Silver Carbon Fiber Cabinet Knob has a uniquely modern appearance granted to it my the woven carbon fiber material displayed in the center. This Carbon Fiber Silver Knob is available in 2 sizes. It comes packaged with the installation hardware. Choose from Satin Nickel or Polished Chrome.",
+                "keywords": "Silver Carbon Fiber Cabinet Knobs, Carbon Fiber Silver Knobs, EMT-86370, EMT-86371, Emtek 86370, Emtek 86371, Emtek Carbon Fiber Knob in Silver, modern kitchen cabinet knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Cabinet Hardware",
+                    "sort": "300"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "802707",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "889819",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "40900",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "161664",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "972030",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "882632",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "40081",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "43072",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "922919",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Size: 86370: 1-1/4in.",
+                "Select Size: 86371: 1-5/8in.",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "86370: 1-1/4in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "86371: 1-5/8in.",
+                    "price_impact": 9.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

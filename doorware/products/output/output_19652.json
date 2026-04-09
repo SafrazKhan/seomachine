@@ -1,0 +1,81 @@
+{
+    "legacy_product_id": "19652",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Heavy Weight 4.5\" x 4.5\" Commercial Hinge with Ball Bearings",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "DES-BB5-HW",
+            "mpn": "DES-BB5-HW",
+            "price": "16.0",
+            "compare_at_price": "32.0",
+            "contractor_price": "15.2",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Heavy Weight",
+                "4.5\" x 4.5\"",
+                "Commercial Hinge",
+                "with",
+                "Ball Bearings heavy weight 4.5\" x 4.5\" commercial hinge with ball bearings"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Design Hardware Heavy Weight 4.5\" x 4.5\" Commercial Hinge with Ball Bearings<br>\r\n<br>\r\nItem is priced as each Hinge<br>\r\n<br>\r\nMeets ANSI - A156.1 standards<br><br>\r\nDimensions and tolerances conform to ANSI - A156.7<br><br>\r\nLifetime Warranty - Life of building<br><br>\r\nEquipped with easily seated non-rising pin<br><br>\r\nMeets all UL requirements<br><br>\r\nIncludes screws\r\n<br><br>\r\nHeavy Weight hinges 4.6mm thick<br><br>\r\nAvailable in two finishes<br><br>\r\n<img src=..https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-53914-SM.jpg?v=1704354623><br><br>\r\nClick below to choose Finish",
+            "seo": {
+                "title": "Heavy Weight 4.5\" x 4.5\" Commercial Hinge with Ball Bearings",
+                "description": "Design Hardware Heavy Weight 4.5 x 4.5 Commercial Hinge with Ball Bearings\r\n\r\nItem is priced as each Hinge\r\n\r\nMeets ANSI - A156.1 standards\r\nDimensions and tolerances conform to ANSI - A156.7\r\nLifetime Warranty - Life of building\r\nEquipped with easily seated non-rising pin\r\nMeets all UL requirements\r\nIncludes screws\r\n\r\nHeavy Weight hinges 4.6mm thick\r\nAvailable in two finishes\r\n",
+                "keywords": "Heavy Weight, 4.5\" x 4.5\", Commercial Hinge, with,Ball Bearings heavy weight 4.5\" x 4.5\" commercial hinge with ball bearings"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Design Hardware Hinges",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: DES-BB5-HW-US26D Brushed Satin Chrome",
+                "Select Finish: DES-BB5-HW-US32D Brushed Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DES-BB5-HW-US26D Brushed Satin Chrome",
+                    "price_impact": 8.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DES-BB5-HW-US26D"
+                },
+                {
+                    "value": "DES-BB5-HW-US32D Brushed Stainless Steel",
+                    "price_impact": 16.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DES-BB5-HW-US32D"
+                }
+            ]
+        }
+    ]
+}

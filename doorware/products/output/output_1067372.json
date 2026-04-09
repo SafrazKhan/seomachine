@@ -1,0 +1,100 @@
+{
+    "legacy_product_id": "1067372",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Omnia #59 Knob, Omnia 059/07",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-059/07",
+            "mpn": "OMN-059/07",
+            "price": "117.0",
+            "compare_at_price": "117.0",
+            "contractor_price": "117.0",
+            "shipping_weight": "1.5",
+            "tags": [
+                "Omnia #59 Knob Only",
+                "OMN-0.59/07"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-059-07.3-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-059-07.3-525.jpg?v=1716428038"
+        },
+        "text": {
+            "description_html": "<b>Omnia #59 Knob Only</b>\r\n\r\n<p>\r\nThe floral design of this oval knob is just one of many beautiful embellishments that makes the Omnia 59 Floral Oval Knob fantastic. Intricately detailed, this solid brass knob features the knob. Every inch of this ornate knob is dripping with an elegance that will surely add glamor to your home. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Omnia 59 Ornate Knob:\r\n<ul>\r\n<li>Knob Height: 2-15/16\"</li>\r\n<li>Knob Projection: 2-1/8</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nPackage contains #59 Knob with clip, washers, and bushing.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually. </i>\r\n</p>",
+            "seo": {
+                "title": "Omnia #59 Knob",
+                "description": "The floral design of this oval knob is just one of many beautiful embellishments that makes the Omnia 59 Floral Oval Knob fantastic. Intricately detailed, this solid brass knob features the knob. Every inch of this ornate knob is dripping with an elegance that will surely add glamor to your home.",
+                "keywords": "Omnia #59 Knob Only, OMN-0.59/07,"
+            },
+            "specifications": [
+                {
+                    "key": "Knob Height",
+                    "value": "2-15/16\""
+                },
+                {
+                    "key": "Knob Projection",
+                    "value": "2-1/8"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "256"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "37122",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1039879",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "728074",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "37548",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "328202",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Knob Height: 2-15/16\"",
+                "Knob Projection: 2-1/8",
+                "Select Finish: US3: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

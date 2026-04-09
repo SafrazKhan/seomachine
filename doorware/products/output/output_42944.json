@@ -1,0 +1,178 @@
+{
+    "legacy_product_id": "42944",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Deco Cabinet Knob, Omnia 9147",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9147",
+            "mpn": "OMN-9147",
+            "price": "7.5",
+            "compare_at_price": "10.0",
+            "contractor_price": "7.13",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9147 solid brass deco cabinet knobs",
+                "solid brass cabinet knobs",
+                "deco kitchen cabinet knobs",
+                "retro brass knobs",
+                "decorative cabinet knobs",
+                "solid brass cabinet hardware",
+                "deco Kitchen cabinet door knobs",
+                "OMN-9147/25",
+                "OMN-9147/30"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-9147-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-9147-525.jpg?v=1716420839"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9147, Solid Brass Deco Cabinet Knob</b>\r\n\r\n<p>\r\nThe simple answer to the vintage design aesthetic that is so popular. This Omnia made Deco Cabinet Knob is basic enough to effortlessly add just the right amount of retro detailing to your rooms; and also because its design is so simple, this knob is capable of beautifully integrating into whatever furnishing you have without having to overhaul your entire décor.\r\n</p>\r\n\r\n\r\n\r\n<p>\r\n<b>Specifications</b> of the Deco Cabinet Door Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>9147/25</b>\r\n<ul>\r\n<li>Diameter: 1\"</li>\r\n<li>Projection: 1\"</li>\r\n</ul>\r\n<br>\r\n<b>9147/30</b>\r\n<ul>\r\n<li>Diameter: 1-3/16\"</li>\r\n<li>Projection: 1-3/16\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Deco Cabinet Knob",
+                "description": "The simple answer to the vintage design aesthetic that is so popular. This Omnia made Deco Cabinet Knob is basic enough to effortlessly add just the right amount of retro detailing to your rooms; and also because its design is so simple, this knob is capable of beautifully integrating into whatever furnishing you have without having to overhaul your entire décor.\r\n",
+                "keywords": "omnia 9147 solid brass deco cabinet knobs, solid brass cabinet knobs, deco kitchen cabinet knobs, retro brass knobs, decorative cabinet knobs, solid brass cabinet hardware, deco Kitchen cabinet door knobs, OMN-9147/25, OMN-9147/30,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia Decorative Collection Cabinet Knobs And Pulls",
+                    "sort": "9"
+                },
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "239"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "42735",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "121092",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "40595",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "234394",
+                    "sort": "12"
+                },
+                {
+                    "legacy_product_id": "233695",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "196241",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "177553",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "600224",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "294977",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "855158",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "42954",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "267086",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Select Size: 9147/25: 1in. Knob Diameter",
+                "Select Size: 9147/30: 1-3/16in. Knob Diameter",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US26D: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "9147/25: 1in. Knob Diameter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9147/25"
+                },
+                {
+                    "value": "9147/30: 1-3/16in. Knob Diameter",
+                    "price_impact": 3.75,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9147/30"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US3"
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 1.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26"
+                },
+                {
+                    "value": "US26D: Satin Chrome",
+                    "price_impact": 1.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26D"
+                }
+            ]
+        }
+    ]
+}

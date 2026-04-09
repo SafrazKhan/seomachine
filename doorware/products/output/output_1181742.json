@@ -1,0 +1,167 @@
+{
+    "legacy_product_id": "1181742",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Mortise Cylinder with Schlage C Keyway and Adams Rite/Yale Cam, GMS M-Series",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "GMS-M-Series",
+            "mpn": "GMS-M-Series",
+            "price": "19.75",
+            "compare_at_price": "19.75",
+            "contractor_price": "19.75",
+            "shipping_weight": "1.0",
+            "tags": [
+                "GMS M114 1-1/4 Inch Mortise Cylinders",
+                "1-1/4 Inch Mortise Cylinder with Schlage C Keyway and Adams Rite Cam",
+                "GMS M114",
+                "GMS-M114",
+                "GMS M114 1.25 Inch Mortise Lock Cylinders",
+                "GMS-M114-SC-AT\r\nGMS M118 1-1/8 Inch Mortise Cylinders",
+                "1-1/8 Inch Mortise Cylinder with Schlage C Keyway and Adams Rite Cam",
+                "GMS M118",
+                "GMS-M118",
+                "GMS M118 1.125 Inch Mortise Lock Cylinders",
+                "GMS-M118-SC-AT\r\nGMS M112 1-1/2 Inch Mortise Cylinders",
+                "1-1/2 Inch Mortise Cylinder with Schlage C Keyway and Adams Rite Cam",
+                "GMS M112",
+                "GMS-M112",
+                "GMS M112 1.5 Inch Mortise Lock Cylinders",
+                "GMS-M112-SC-AT"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GMS-M114-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GMS-M114-525.jpg?v=1716428808"
+        },
+        "text": {
+            "description_html": "<b>GMS M Series Mortise Lock Cylinder</b>\r\n\r\n<p>\r\nStorefront door mortise (threaded) cylinder lock with Adams Rite and Yale Cams with a Schlage C Keyway.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b> for Mortise Lock Cylinder\r\n<ul>\r\n<li>Keyed Mortise Cylinder (threaded to screw into mortise lock body)</li>\r\n<li>Key Cylinder 5-pin Schlage \"C\" Keyway</li>\r\n<li>Diameter: 1.36\"</li>\r\n<li>Adams Rite (A/R) and Yale Cams Included</li>\r\n<li>Solid brass Construction</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special ordered Item. <b>NO RETURNS</b></i>\r\n</p>",
+            "seo": {
+                "title": "Mortise Cylinder with Schlage C Keyway",
+                "description": "Storefront door mortise (threaded) cylinder lock with Adams Rite Cam and a Schlage C Keyway.",
+                "keywords": "GMS M114 1-1/4 Inch Mortise Cylinders, 1-1/4 Inch Mortise Cylinder with Schlage C Keyway and Adams Rite Cam, GMS M114, GMS-M114, GMS M114 1.25 Inch Mortise Lock Cylinders, GMS-M114-SC-AT\r\nGMS M118 1-1/8 Inch Mortise Cylinders, 1-1/8 Inch Mortise Cylinder with Schlage C Keyway and Adams Rite Cam, GMS M118, GMS-M118, GMS M118 1.125 Inch Mortise Lock Cylinders, GMS-M118-SC-AT\r\nGMS M112 1-1/2 Inch Mortise Cylinders, 1-1/2 Inch Mortise Cylinder with Schlage C Keyway and Adams Rite Cam, GMS M112, GMS-M112, GMS M112 1.5 Inch Mortise Lock Cylinders, GMS-M112-SC-AT"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "GMS",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "829418",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "875999",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1148485",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "184782",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "193377",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Cylinder Length: GMS-M118-SC-AT: 1-1/8in. Cylinder Length",
+                "Select Cylinder Length: GMS-M114-SC-AT: 1-1/4in. Cylinder Length",
+                "Select Cylinder Length: GMS-M112-SC-AT: 1-1/2in. Cylinder Length",
+                "Select Finish: 26D: Satin Chrome",
+                "Keying-Mortise: I Only Ordered One Lock",
+                "Keying-Mortise: Keyed Different",
+                "Keying-Mortise: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Cylinder Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GMS-M118-SC-AT: 1-1/8in. Cylinder Length",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GMS-M114-SC-AT: 1-1/4in. Cylinder Length",
+                    "price_impact": 0.3,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GMS-M112-SC-AT: 1-1/2in. Cylinder Length",
+                    "price_impact": 11.75,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying-Mortise",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                }
+            ]
+        }
+    ]
+}

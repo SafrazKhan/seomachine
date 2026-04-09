@@ -1,0 +1,120 @@
+{
+    "legacy_product_id": "194728",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "8 Inch Basket Grab Appliance Pull, Fusion GRB-905",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-GRB-905",
+            "mpn": "FUS-GRB-905",
+            "price": "89.0",
+            "compare_at_price": "89.0",
+            "contractor_price": "66.75",
+            "shipping_weight": "2.0",
+            "tags": [
+                "GRB905 fusion hardware 8-Inch Basket Grab Appliance Pull",
+                "Fusion GRB-905 basket weave style Refrigerator door pulls",
+                "fusion 8 inch appliance pulls",
+                "Basket weave design pulls",
+                "FUS-GRB-905"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/grb905-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/grb905-5251.jpg?v=1711365193"
+        },
+        "text": {
+            "description_html": "<b>Fusion GRB-905 8-Inch Basket Grab Refrigerator/Appliance Pulls</b>\r\n\r\n<p>\r\nFusion hardware is famous for their high quality craftsmanship and distinctive designs at affordable prices. This basket weave style appliance pull is crafted in solid brass for a lifetime of use. Available in your choice of antique pewter, brushed nickel, oil rubbed bronze or polished brass finishes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the 8\" Basket Grab Pull:\r\n<ul>\r\n<li>Length: 8\" center to center</li>\r\n<li>Material: solid brass</li>\r\n<li>Packaged with appliance panel mounting screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>",
+            "seo": {
+                "title": "8 Inch Basket Grab Appliance Pull, Fusion GRB-905",
+                "description": "Fusion GRB-905 8-Inch Basket Grab Appliance Pulls - Fusion hardware is famous for their high quality craftsmanship and distinctive designs at affordable prices. This basket weave style appliance pull is crafted in solid brass for a lifetime of use. Available in your choice of antique pewter, brushed nickel, oil rubbed bronze or polished brass finishes.\r\n",
+                "keywords": "GRB905 fusion hardware 8-Inch Basket Grab Appliance Pull, Fusion GRB-905 basket weave style Refrigerator door pulls, fusion 8 inch appliance pulls, Basket weave design pulls, FUS-GRB-905"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion-MISC-Discontinued",
+                    "sort": "44"
+                },
+                {
+                    "name": "Fusion Large Pulls",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "194705",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "194731",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "6007",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "194734",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "31212",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: GRB-905-ORB: Oil Rubbed Bronze",
+                "Select Finish: GRB-905-BRN: Brushed Nickel",
+                "Select Finish: GRB-905-PVD: Polished Brass",
+                "Select Finish: GRB-905-ATP: Antique Pewter"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GRB-905-ORB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRB-905-BRN: Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRB-905-PVD: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRB-905-ATP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

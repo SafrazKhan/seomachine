@@ -1,0 +1,144 @@
+{
+    "legacy_product_id": "253857",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "White Porcelain Knobs with Spindle, Nostalgic Warehouse",
+            "vendor": "Grandeur",
+            "status": "ARCHIVED",
+            "sku": "GRA-Porcelain-Knobs",
+            "mpn": "GRA-Porcelain-Knobs",
+            "price": "60.0",
+            "compare_at_price": "75.0",
+            "contractor_price": "57.0",
+            "shipping_weight": "4.0",
+            "tags": [
+                "GRA-Porcelain-Knobs Replacement Porcelain Knobs",
+                "Nostalgic Warehouse White Porcelain Knobs",
+                "Grandeur/Nostalgic White Porcelain Knobs",
+                "restoration door knobs",
+                "antique door knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-porcelain-knobs_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-porcelain-knobs_525.jpg?v=1716422475"
+        },
+        "text": {
+            "description_html": "<b>Grandeur/Nostalgic Warehouse White Porcelain Knobs with Spindle</b>\r\n<p>\r\nFor new installations or restoration replacement white porcelain door knobs with spindle. \r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-porcelain-knob-size.gif?v=1704354731\" width=\"300\" height=\"300\" border=\"0\" alt=\"Nostalgic Warehouse  Porcelain Knobs Dimensions\">\r\n</p>\r\n<p>\r\nNostalgic Warehouse's high quality, forged brass doorknobs are not to be confused with cast imitations.  All of their doorknobs are mounted on solid, forged brass bases, not brass plated.  If you are restoring a historic building, their doorknobs may fit right into your existing backplates.  Bases available in 6 different finish choices.\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of Nostalgic Warehouse White Porcelain Knob with Spindle\r\n<ul>\r\n<li>Two (2) Steel, Allen-head Set Screws</li>\r\n<li>Two (2) White Porcelain Knobs</li>\r\n<li>Spindle Length: 3-7/8\"</li>\r\n<li>Spindle Diameter: Square, 3/8-20 threaded ends</li>\r\n<li>Base Diameter: Approximately 16mm</li>\r\n<li>Ferrule: Approximately 15mm</li>\r\n<li>Porcelain Knob Diameter: 2.25\"</li>\r\n<li>Porcelain Knob Projection: 1.94\"</li>\r\n<li>Three Year Finish Warranty</li>\r\n<li>Available Finishes: 6</li>\r\n<li>Mounting Base Material: Solid Brass</li>\r\n<li>Knob Material: White Porcelain</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/porcelain-knob.pdf?v=1704262246\" target=\"new\"><b>Porcelain Knob Dimensions (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n<p>\r\n*Sold as a set: 2 Porcelain Knobs with set screws and 1 spindle\r\n</p>",
+            "seo": {
+                "title": "White Porcelain Knobs with Spindle, Nostalgic Warehouse",
+                "description": "For new installations or restoration replacement white porcelain door knobs with spindle.  Nostalgic Warehouse's high quality, forged brass doorknobs are not to be confused with cast imitations.  All of their doorknobs are mounted on solid, forged brass bases, not brass plated.  If you are restoring a historic building, their doorknobs may fit right into your existing backplates.",
+                "keywords": "GRA-Porcelain-Knobs Replacement Porcelain Knobs, Nostalgic Warehouse White Porcelain Knobs, Grandeur/Nostalgic White Porcelain Knobs, restoration door knobs, antique door knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Restoration Door Hardware",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "306088",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "311798",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "26560",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "26764",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "26935",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "27128",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "27342",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "27614",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Base Finish: WHI-AB: Antique Brass",
+                "Select Base Finish: WHI-AP: Antique Pewter",
+                "Select Base Finish: WHI-BC: Bright Chrome",
+                "Select Base Finish: WHI-OB: Oil Rubbed Bronze",
+                "Select Base Finish: WHI-PB: Polished Brass",
+                "Select Base Finish: WHI-SN: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Base Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "WHI-AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "WHI-AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "WHI-BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "WHI-OB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "WHI-PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "WHI-SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

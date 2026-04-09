@@ -1,0 +1,146 @@
+{
+    "legacy_product_id": "342457",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Privacy Push Pin for Omnia Latch Sets, Omnia PR-PIN.xx",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "OMN-PR-PIN.xx",
+            "mpn": "OMN-PR-PIN.xx",
+            "price": "7.0",
+            "compare_at_price": "7.0",
+            "contractor_price": "7.0",
+            "shipping_weight": "0.1",
+            "tags": [
+                "OMN-PR-PIN.xx Omnia Privacy Locking Pins",
+                "Privacy Pin for Omnia Stainless Steel Latch Sets",
+                "OMN-124.35.xx Privacy Locking Pin",
+                "push pins",
+                "push locking pins",
+                "privacy pins",
+                "Privacy Push Pin for Omnia Latch Sets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Omnia Privacy Push Pin</b>\r\n\r\n<p>\r\nReplacement privacy locking pin for use with <a href=\"/collections/omnia-levers\"><b>Omnia door lever sets</b></a>,  <a href=\"/collections/omnia-knobs\"><b>Omnia door knob sets</b></a>,  <a href=\"/collections/omnia-prodigy-collection\"><b>Omnia Prodigy Collection</b></a> and <a href=\"/collections/omnia-stainless-steel-levers\"><b>Omnia stainless steel levers</b></a>.  \r\n</p>\r\n\r\n<p>\r\n35 mm (standard length), 3mm x .50 thread push pin screws into a Privacy function (Bed or Bathroom) door latch. Available in 7 finishes. Also Available <a href=\"/products/omnia-extension-for-privacy-pin\"><b>Extension for Privacy Pin for 2 - 2-1/4 inch thick doors</b></a>.\r\n</p>\r\n\r\n<p>\r\n<b>Warning:</b> These work for knobs and levers manufactured by Omnia only. If you are not sure if your hardware was manufactured by Omnia, do NOT order these as they may not work properly. \r\n</p>\r\n\r\n<p>\r\n<b>*Sold Individually - NO RETURNS</b>\r\n</p>",
+            "seo": {
+                "title": "Privacy Push Pin for Omnia Latch Sets, Omnia PR-PIN.xx",
+                "description": "Replacement privacy locking pin for use with Omnia door lever sets, Omnia door knob sets and Omnia stainless steel levers.  135 mm push pin screws into a privacy function (bed or bathroom) door latch. Available in 7 finishes.",
+                "keywords": "OMN-PR-PIN.xx Omnia Privacy Locking Pins, Privacy Pin for Omnia Stainless Steel Latch Sets, OMN-124.35.xx Privacy Locking Pin, push pins, push locking pins, privacy pins, Privacy Push Pin for Omnia Latch Sets,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "330497",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "437831",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "227181",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "198616",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: PR-PIN-US15: Satin Nickel",
+                "Select Finish: PR-PIN-US10B: Oil Rubbed Bronze",
+                "Select Finish: PR-PIN-US26: Polished Chrome",
+                "Select Finish: PR-PIN-US26D: Satin Chrome",
+                "Select Finish: PR-PIN-US26: Polished Stainless Steel",
+                "Select Finish: PR-PIN-US32D: Satin Stainless Steel",
+                "Select Finish: PR-PIN-US3: Polished Brass",
+                "Select Finish: PR-PIN-US4: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PR-PIN-US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PR-PIN-US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PR-PIN-US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PR-PIN-US26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PR-PIN-US26: Polished Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PR-PIN-US32D: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PR-PIN-US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PR-PIN-US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

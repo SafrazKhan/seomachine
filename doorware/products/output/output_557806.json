@@ -1,0 +1,156 @@
+{
+    "legacy_product_id": "557806",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Ribbon and Reed Cabinet Knob, RK International CK-755",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-755",
+            "mpn": "RKI-CK-755",
+            "price": "13.99",
+            "compare_at_price": "17.6",
+            "contractor_price": "13.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RKI-CK-755",
+                "Ribbon and Reed Cabinet Knobs",
+                "RK International CK-755",
+                "1-1/4 Inch Diameter Ribbon and Reed Knobs",
+                "RK International lines and crosses Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-CK-755-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-CK-755-5251.jpg?v=1716424440"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-755, 1-1/4 Inch Diameter Ribbon and Reed Knob</b>\r\n\r\n<p>\r\nThis RK International Hardware made cabinet knob is fashioned in the traditional French Colonial style. The ribbon and reed design is well known and will be sure to add a bit of old world charm to your home. It is available in antique english, distressed copper, oil rubbed bronze, satin nickel, and distressed nickel finishes. The Ribbon and Reed Cabinet Knob has a 1-1/4 inch diameter.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching <a href=\"/products/line-and-cross-knob-backplate-rk-international-bp-487\"><b>Line and Cross Knob Backplate</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-755 Lines and Crosses Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-1/16\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MUL-T-LOCK-TSR25_size.gif?v=1704354575\" width=\"600\" height=\"133\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Ribbon and Reed Cabinet Knob",
+                "description": "RK International CK-755, Ribbon and Reed Cabinet Knob - This RK International Hardware made cabinet knob is fashioned in the traditional French Colonial style. The ribbon and reed design is well known and will be sure to add a bit of old world charm to your home. It is available in antique english, distressed copper, oil rubbed bronze, satin nickel, and distressed nickel finishes. The Ribbon and Reed Cabinet Knob has a 1-1/4 inch diameter.",
+                "keywords": "RKI-CK-755, Ribbon and Reed Cabinet Knobs, RK International CK-755, 1-1/4 Inch Diameter Ribbon and Reed Knobs, RK International lines and crosses Knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "7"
+                },
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "565157",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "585231",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "894646",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "876443",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "141721",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "565183",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "900990",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "65964",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "876775",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "557332",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

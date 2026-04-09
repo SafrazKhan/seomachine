@@ -1,0 +1,98 @@
+{
+    "legacy_product_id": "936259",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Small Square Surface Mount Rose, Pair, AHI 203PA-AA",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-203PA-AA",
+            "mpn": "AHI-203PA-AA",
+            "price": "65.0",
+            "compare_at_price": "80.0",
+            "contractor_price": "65.0",
+            "shipping_weight": "1.5",
+            "tags": [
+                "AHI-203PA-630 Small Square Surface Mount Rose",
+                "AHI 203 roses",
+                "AHI  2 inch Square Stainless Steel Roses"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AHI-203-rose_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-203-rose_525.jpg?v=1716426976"
+        },
+        "text": {
+            "description_html": "<b>AHI 203PA,  Small Square Surface Mount Rose</b>\r\n\r\n<p>\r\nThis is a set of (2) 2 inch Square Stainless Steel Roses. Surface mounted, screws to the door face. For an American Mortise. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the 50MM Square Rosette:\r\n<ul>\r\n<li>Material: 304 Stainless Steel</li>\r\n<li>Length: 50 MM (square)</li>\r\n<li>Thickness: 11 MM ( .440\" )</li>\r\n<li>Mounting: Surface Mounted</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold As a Pair (2)</i>\r\n</p>\r\n\r\n<p>\r\n<b>Special Ordered Item, NOT Returnable</b>\r\n</p>",
+            "seo": {
+                "title": "Small Square Surface Mount Rose, Pair",
+                "description": "AHI 203 roses.  This is a set of (2) 2 inch Square Stainless Steel Roses. Surface mounted, screws to the doors face. ",
+                "keywords": "AHI-203PA-630 Small Square Surface Mount Rose, AHI 203 roses, AHI  2 inch Square Stainless Steel Roses"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "AHI Miscellaneous Parts",
+                    "sort": "26"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "900199",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "680296",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "680391",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "238468",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1060484",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 630: Satin Stainless Steel",
+                "Select Finish: P22: Matte Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "630: Satin Stainless Steel ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P22: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

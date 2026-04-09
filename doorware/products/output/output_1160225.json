@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "1160225",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "MS Deadlock Hook Bolt, Adams Rite MS1850SN-450",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "ADA-MS1850SN-450",
+            "mpn": "ADA-MS1850SN-450",
+            "price": "113.0",
+            "compare_at_price": "113.0",
+            "contractor_price": "113.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "MS Deadlock Hook Bolts",
+                "MS1850SN Series MS Deadlocks",
+                "ADA-MS1850SN-450",
+                "Adams Rite MS1850SN-450"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ADA-MS1850SN-450-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ADA-MS1850SN-450-525.jpg?v=1716428629"
+        },
+        "text": {
+            "description_html": "<b>Adams Rite MS1850SN-450, Mortise Lock Hook Bolt</b>\r\n\r\n<p>\r\nCommercial aluminum frame storefront door mortise MS Deadlock Hook Bolt. Accepts standard  <a href=\"/products/storefront-door-mortise-cylinder-brass-thumbturn-th1100-bt\">Mortise Thumbturns</a> and <a href=\"/products/1-inch-brass-mortise-cylinder-lock-for-storefront-door-th1100-bc\">Mortise Lock Cylinders</a> with Adams Rite (A/R) cams.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Adams Rite MS1850SN-450:\r\n<ul>\r\n<li>Backset: 1-1/2\"</li>\r\n<li>Face Plate 1-1/4\" x 8\"</li>\r\n<li>Case Dimensions: 1\" x 6\" x 2-1/4\"</li>\r\n<li>Hook Bolt: 5/8\" x 1-3/8\" with 13/16\" throw</li>\r\n<li>Lock Body Only.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "MS Deadlock Hook Bolt",
+                "description": "Commercial aluminum frame storefront door mortise MS Deadlock Hook Bolt. Accepts standard  Mortise Thumbturns and Mortise Lock Cylinders with Adams Rite (A/R) cams.",
+                "keywords": "MS Deadlock Hook Bolts, MS1850SN Series MS Deadlocks, ADA-MS1850SN-450, Adams Rite MS1850SN-450"
+            },
+            "specifications": [
+                {
+                    "key": "Backset",
+                    "value": "1-1/2\""
+                },
+                {
+                    "key": "Case Dimensions",
+                    "value": "1\" x 6\" x 2-1/4\""
+                },
+                {
+                    "key": "Hook Bolt",
+                    "value": "5/8\" x 1-3/8\" with 13/16\" throw"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Adams Rite",
+                    "sort": "15"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "193669",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "193539",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "184801",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "184809",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "212917",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Backset: 1-1/2\"",
+                "Case Dimensions: 1\" x 6\" x 2-1/4\"",
+                "Hook Bolt: 5/8\" x 1-3/8\" with 13/16\" throw",
+                "Select Finish: 628: Aluminum"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "628: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

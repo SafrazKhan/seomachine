@@ -1,0 +1,111 @@
+{
+    "legacy_product_id": "443653",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Door Closer Drop Plate, Global DP-4300-18",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-DP-4300-18",
+            "mpn": "GLO-DP-4300-18",
+            "price": "31.49",
+            "compare_at_price": "44.99",
+            "contractor_price": "28.35",
+            "shipping_weight": "2.0",
+            "tags": [
+                "GLO-DP-4300-18PA LCN 4041 Door Closer Drop Plates",
+                "Global Door Controls TC4300 Door Closer Drop Plates",
+                "Global DP-4300-18PA back plates",
+                "closer mounting plates",
+                "regular mount drop plates",
+                "top jamb drop plates",
+                "DP-4300-18-AL",
+                "DP-4300-18-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-DP-4300-18_500.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-DP-4300-18_500.jpg?v=1716424022"
+        },
+        "text": {
+            "description_html": "<b>Global TC4300 Door Closer Drop Plate</b>\r\n<p>\r\nFor use when mounting door closer on the <b>Pull Side</b> of a door. \r\nWhen mounting closer on the door face (Regular Arm Mounting), the minimum top rail width of door is 1-1/2\". \r\n</p>\r\n<p>\r\nAlso available: <a href=\"/products/global-tc4300-parallel-mount-closer-drop-plate-global-dp-4300-18pa\"><b>Push Side Mounted Drop Plate</b></a> and <a href=\"/products/door-closer-top-jamb-mounting-plate-global-dp-4300-18tj\"><b>Top Jamb Mounted Drop Plate</b></a>\r\n</p>\r\n<p>\r\nFor use with <a href=\"/products/lcn-4040-series-replacement-ada-compliant-heavy-duty-door-closer-global-tc4300\"><b>Global Door Controls TC4300</b></a>, <a href=\"/products/lcn-4040-super-smoothee-grade-1-door-closer\"><b>LCN P4040XP</b></a>, <a href=\"/products/extra-heavy-duty-door-closer-deltana-dc40\"><b>Deltana DC40</b></a>  or any door closer with a matching \u001d mounting hole pattern (pictured below).\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/4041_closer_dimensions.gif?v=1704352994\" width=\"369\" height=\"180\" border=\"0\" alt=\"LCN 4041 Door Closer Mounting Holes\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b> for Global DP-4300-18 Drop Plate\r\n<ul>\r\n<li>Total Length: 12-3/8\"</li>\r\n<li>Total Height: 3-1/2\"</li>\r\n<li>Thickness: 3/16\" </li>\r\n<li>Material: Steel </li>\r\n<li>Non-Handed, reversible for left or right hand doors. </li>\r\n<li>Packaged with installation screws</li>\r\n</ul>\r\n</p>\r\n<p><b>*Sold Individually.</b></p>",
+            "seo": {
+                "title": "Door Closer Drop Plate, Global DP-4300-18",
+                "description": "For use with Global Door Controls TC4300, LCN 4041  or any door closer with a matching \u001dmounting hole pattern. For use when mounting door closer on the Pull Side of a door (Regular Arm  mounted).",
+                "keywords": "GLO-DP-4300-18PA LCN 4041 Door Closer Drop Plates, Global Door Controls TC4300 Door Closer Drop Plates, Global DP-4300-18PA back plates, closer mounting plates, regular mount drop plates, top jamb drop plates, DP-4300-18-AL, DP-4300-18-DU,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Global TC4300 Closer Accessories",
+                    "sort": "7"
+                },
+                {
+                    "name": "Door Closer Accessories",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "443646",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "269860",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "232302",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "264828",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "222877",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "203817",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DP-4300-18-AL: Aluminum",
+                "Select Finish: DP-4300-18-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DP-4300-18-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DP-4300-18-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

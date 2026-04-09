@@ -1,0 +1,128 @@
+{
+    "legacy_product_id": "1157780",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Grace Cabinet Knob, MNG 831",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "MNG-831",
+            "mpn": "MNG-831",
+            "price": "8.81",
+            "compare_at_price": "11.74",
+            "contractor_price": "8.81",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Grace Cabinet Knobs",
+                "Grace Knobs",
+                "MNG-831",
+                "MNG-83114",
+                "MNG-83128",
+                "MNG 83114",
+                "MNG 183128",
+                "MNG-83113",
+                "MNG 83113",
+                "Grace Knob for Cabinets",
+                "restoration hardware",
+                "traditional cabinet hardware",
+                "transitional cabinet hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MNG-831-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-831-525.jpg?v=1716428564"
+        },
+        "text": {
+            "description_html": "<b>MNG 831, Grace Knob for Cabinets</b>\r\n\r\n<p>\r\nThe Grace Cabinet Knob is a simple knob that will add a classic air to any kitchen remodel. As part of the MNG Grace Collection, this 1.25 inch diameter knob is available in the most common finish colors for today's kitchen updates. The Grace Knob for Cabinets is easy to install and comes packaged with the mounting hardware. \r\n</p>\r\n\r\n<p>\r\nThis cabinet knob is part of the <a href=\"//search?type=product&q=MNG+Grace\">MNG Grace Collection</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the MNG 831 Grace Knob:\r\n<ul>\r\n<li>Base Material: Zinc </li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 7/8\"</li>\r\n<li>Packaged with 1\" long #8-32 screw and 1-1/2\" long #8-32 screw.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i> \r\n</p>",
+            "seo": {
+                "title": "Grace Cabinet Knob",
+                "description": "The Grace Cabinet Knob is a simple knob that will add a classic air to any kitchen remodel. As part of the MNG Grace Collection, this 1.25 inch diameter knob is available in the most common finish colors for today's kitchen updates. The Grace Knob for Cabinets is easy to install and comes packaged with the mounting hardware.",
+                "keywords": "Grace Cabinet Knobs, Grace Knobs, MNG-831, MNG-83114, MNG-83128, MNG 83114, MNG 183128, MNG-83113, MNG 83113, Grace Knob for Cabinets, restoration hardware, traditional cabinet hardware, transitional cabinet hardware,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "MNG Cabinet Hardware",
+                    "sort": "27"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1157748",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "558569",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "824146",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "271044",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42677",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "979226",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "1154933",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "563313",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MNG-83113: Oil Rubbed Bronze",
+                "Select Finish: MNG-83128: Satin Nickel",
+                "Select Finish: MNG-83114: Polished Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MNG-83113: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-83113-SM.jpg?v=1774582409",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-83113-LG.jpg?v=1711366646"
+                },
+                {
+                    "value": "MNG-83128: Satin Nickel",
+                    "price_impact": 0.67,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-83128-SM.jpg?v=1774582412",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-83128-LG.jpg?v=1711366645"
+                },
+                {
+                    "value": "MNG-83114: Polished Nickel",
+                    "price_impact": 1.66,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-83114-SM.jpg?v=1774582416",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-83114-LG.jpg?v=1711366646"
+                }
+            ]
+        }
+    ]
+}

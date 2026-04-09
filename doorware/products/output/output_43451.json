@@ -1,0 +1,108 @@
+{
+    "legacy_product_id": "43451",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Standard Aluminum Cabinet Pull, Omnia AL599",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-AL599",
+            "mpn": "OMN-AL599",
+            "price": "25.75",
+            "compare_at_price": "32.2",
+            "contractor_price": "24.5",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Omnia AL599 Aluminum cabinet Pulls",
+                "omnia al407 standard aluminum cabinet door pulls",
+                "al599/128",
+                "al599/200",
+                "simple cabinet pulls",
+                "standard cabinet hardware",
+                "aluminum cabinet hardware omnia"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-brass-AL599_300x3351.jpg",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Omnia AL599 Simple Aluminum Cabinet Hardware</b>\r\n<p>\r\nAvailable in a 5 inch length and a 7-7/8 inch length, this Omnia Standard Aluminum Handle features a a beautiful, simple design that will enhance the look of any cabinet door or drawer. It has a aluminum (US28) finish so that it is just as pleasing to the eye as it is comfortable to the hand. \r\n</p>\r\n<p>\r\nOmnia had been known for quality for more than 40 years, so you can be assured that this standard cabinet pull will endure through the lifetime of your home while remaining beautiful.\r\n</p>\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<li><b>OMN-AL599/128</b> - Length: 5\", Projection: 5/8\"</li>\r\n<li><b>OMN-AL599/200</b> - Length: 7-7/8\", Projection: 5/8\"</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Standard Aluminum Cabinet Pull, Omnia AL599",
+                "description": "Omnia AL599 Aluminum Door Pull - Available in a 5 inch length and a 7-7/8 inch length, this Omnia Standard Aluminum Handle features a a beautiful, simple design that will enhance the look of any cabinet door or drawer. It has a aluminum (US28) finish so that it is just as pleasing to the eye as it is comfortable to the hand. ",
+                "keywords": "Omnia AL599 Aluminum cabinet Pulls, omnia al407 standard aluminum cabinet door pulls, al599/128, al599/200, simple cabinet pulls, standard cabinet hardware, aluminum cabinet hardware omnia,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "14"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "192454",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "234540",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "234406",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "42129",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42135",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "42141",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Size: OMN-AL-599/128 - Length: 5in.",
+                "Select Size: OMN-AL-599/200 - Length: 7-1/2in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-AL-599/128 - Length: 5in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-AL-599/128"
+                },
+                {
+                    "value": "OMN-AL-599/200 - Length: 7-1/2in.",
+                    "price_impact": 5.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-AL-599/200"
+                }
+            ]
+        }
+    ]
+}

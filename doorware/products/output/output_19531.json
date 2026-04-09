@@ -1,0 +1,183 @@
+{
+    "legacy_product_id": "19531",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Design Hardware 116 High Performance Door Closer",
+            "vendor": "Design Hardware",
+            "status": "ARCHIVED",
+            "sku": "DES-116",
+            "mpn": "DES-116",
+            "price": "112.0",
+            "compare_at_price": "112.0",
+            "contractor_price": "112.0",
+            "shipping_weight": "10.0",
+            "tags": [
+                "DES-116",
+                "ada compliant  design hardware 116 door closers",
+                "adjustable spring door closers",
+                "surface mounted  closers",
+                "molded covers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/dh-116-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/dh-116-525.jpg?v=1716420379"
+        },
+        "text": {
+            "description_html": "<b>Design Hardware 116 High Performance Door Closer</b>\r\n\r\n<p>\r\nDesign Hardware offers you solutions proven to fit every application from the heaviest use to the most prestigious and even the aesthetically pleasing. You will find their high quality products in residential and commercial projects around the world.\r\n</p>\r\n\r\n<p>\r\n<b>116 High Performance Closer Specs:</b>\r\n</p>\r\n\r\n<p>\r\n*Meets ANSI A156.4 Grade 1 Standards.<br>\r\n*UL Listed, Non Handed.<br>\r\n*Adjustable Spring Power from size 1 to 6.<br>\r\n*Heavy Duty Aluminum Closer Body.<br>\r\n*Back Check Control standard.<br>\r\n*Latch Speed & Sweep Speed Controls.<br>\r\n*Aluminum and Dark Bronze painted finishes.<br>\r\n*<b>Parallel Arm Bracket Included.</b><br>\r\n*Through Bolts available for 1 3/4\" Doors.<br>\r\n*Wood and Machine screw fasteners.<br>\r\n*Molded Covers sold separately.<br>\r\n</p>\r\n\r\n\r\n<p>\r\n<b>\r\nInstallation Guide: <a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/116series_install.pdf?v=1704262176\" target=\"new\">Click here to download. (PDF).</a></b>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/handicap-logo.jpg?v=1704353001\">\r\n</p>\r\n\r\n<p>\r\n<br><br><br>\r\n<b>** This item is Discontinued. Use <a href=\"/products/tc201-global-grade-1-surface-mount-door-closer\">Global TC201 Closer</a> or <a href=\"/products/universal-complete-packed-store-front-door-closer\">PDQ 3100 Closer</a>\r\n<br><br><br>\r\n</p>",
+            "seo": {
+                "title": "Design Hardware 116 High Performance Door Closer",
+                "description": "Design Hardware 116 High Performance Door Closer. Spring Power Adjustment allows for a range of sizes 1-6. ADA compliant. \r\nIndependent Latch Speed, Sweep Speed and Back Check controls, UL Listed \r\nComplies with ADA reduced opening force including Barrier Free \r\nComplies with ANSI A156.4 Grade 1 standards Heavy Duty Aluminum Body \r\nNon Handed - can be installed Right or Left  Non Handed \r\n\r\n",
+                "keywords": "DES-116, ada compliant  design hardware 116 door closers, adjustable spring door closers, surface mounted  closers, molded covers,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Design Hardware Door Closers",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: DES-116AL - Aluminum Finish",
+                "Select Finish: DES-116BZ - Bronze Finish",
+                "Select Cover Option: No Thanks",
+                "Select Cover Option: 116AL Cover in Aluminum Finish",
+                "Select Cover Option: 116BZ Cover in Bronze Finish",
+                "Select Hold Open Option: No Thanks",
+                "Select Hold Open Option: 116AL Hold Open Arm in Aluminum Finish",
+                "Select Hold Open Option: 116BZ Hold Open Arm in Bronze Finish",
+                "Select Thru Bolts Option: No Thanks",
+                "Select Thru Bolts Option: 116AL Thru Bolts For 116AL",
+                "Select Thru Bolts Option: 116BZ Thru Bolts For 116BZ"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DES-116AL - Aluminum Finish",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DES-116AL"
+                },
+                {
+                    "value": "DES-116BZ - Bronze Finish",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DES-116BZ"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Cover Option",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "No Thanks",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "No"
+                },
+                {
+                    "value": "116AL Cover in Aluminum Finish",
+                    "price_impact": 4.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "116AL"
+                },
+                {
+                    "value": "116BZ Cover in Bronze Finish",
+                    "price_impact": 4.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "116BZ"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Hold Open Option",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "No Thanks",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "No"
+                },
+                {
+                    "value": "116AL Hold Open Arm in Aluminum Finish",
+                    "price_impact": 20.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "116AL"
+                },
+                {
+                    "value": "116BZ Hold Open Arm in Bronze Finish",
+                    "price_impact": 20.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "116BZ"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Thru Bolts Option",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "No Thanks",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "No"
+                },
+                {
+                    "value": "116AL Thru Bolts For 116AL",
+                    "price_impact": 3.2,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "116AL"
+                },
+                {
+                    "value": "116BZ Thru Bolts For 116BZ",
+                    "price_impact": 3.2,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "116BZ"
+                }
+            ]
+        }
+    ]
+}

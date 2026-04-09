@@ -1,0 +1,138 @@
+{
+    "legacy_product_id": "1026876",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "B-Series Deadbolt Set with Keyed Bell Knob, Schlage FB50BEL",
+            "vendor": "Schlage-Commercial",
+            "status": "ACTIVE",
+            "sku": "SCH-FB50BEL",
+            "mpn": "SCH-FB50BEL",
+            "price": "125.99",
+            "compare_at_price": "157.0",
+            "contractor_price": "125.99",
+            "shipping_weight": "4.0",
+            "tags": [
+                "Bell Knob with Deadbolt Combo Packs",
+                "B-Series Deadbolt Set with Keyed Bell Knobs",
+                "Schlage FB50BEL",
+                "SCH-FB50BEL"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SCH-FB50BEL-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SCH-FB50BEL-525.jpg?v=1716427762"
+        },
+        "text": {
+            "description_html": "<b>Schlage FB50BEL, Bell Door Lock Combo</b>\r\n\r\n<p>\r\nThe B-Series Deadbolt Set with Keyed Bell Knob is the easiest way to add extra security to your doors. This apartment combo set comes packaged with a matching finish  single cylinder deadbolt and keyed knob. Because it is made by Schlage, you can trust it will be easy to install. The Bell Door Lock Combo will fit most pre-drilled doors. Choose from several finish options. \r\n</p>\r\n\r\n<p>\r\n<b>Combo Set Function:</b> The knob is unlocked by a key from the outside when locked by inside turn button. Inside always unlocked. The deadbolt thrown or retracted with a key from the outside and by turn unit on the inside. Bolt automatically deadlocks when fully thrown.\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of the Schlage Bell Door Knob with Single Cylinder Deadbolt:\r\n<ul>\r\n<li>Interior Deadbolt Thumb Turn <a href=\"/pages/ada-compliant\">Meets ADA Requirements</a></li>\r\n<li>ANSI/BHMA A156.2 Grade 3 Security</li>\r\n<li>1\" deadbolt throw.</li>\r\n<li>Sold as complete set.</li>\r\n<li>Fits most pre-drilled doors.</li>\r\n<li> 5-pin tumbler C keyway.</li>\r\n<li>Easy to install.</li>\r\n<li>Reversible handing.</li>\r\n<li><b>Lifetime Finish Warranty.</b></li>\r\n<li><b>Lifetime Mechanical Warranty.</b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> for the B-Series Deadbolt Combo Pack with Bell Knob:\r\n<ul>\r\n<li>Knob Diameter: 2\"</li>\r\n<li>Knob Projection: 2-3/5\"</li>\r\n<li>Deadbolt Diameter: 2-5/8\"</li>\r\n<li>Door Thickness: adjustable for 1-3/8\" up to 1-3/4\"</li>\r\n<li>Backset: 2-3/8\" or 2-3/4\"</li>\r\n<li>Round Corner Full Lip Strike and 1-1/8\" x 2-3/4\" Deadbolt Strike</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nBoth locks (door knob lock and deadbolt lock) are keyed alike (use the same key). If ordering more than 1 lock set you can have each set Keyed Different or Keyed Alike.\r\n</p>",
+            "seo": {
+                "title": "B-Series Deadbolt Set with Keyed Bell Knob",
+                "description": "The B-Series Deadbolt Set with Keyed Bell Knob is the easiest way to add extra security to your doors. This apartment combo set comes packaged with a matching finish  single cylinder deadbolt and keyed knob. Because it is made by Schlage, you can trust it will be easy to install. The Bell Door Lock Combo will fit most pre-drilled doors. Choose from several finish options.",
+                "keywords": "Bell Knob with Deadbolt Combo Packs, B-Series Deadbolt Set with Keyed Bell Knobs, Schlage FB50BEL, SCH-FB50BEL,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Schlage Combo Packs",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "9213",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "139868",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1026862",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "16349",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "307758",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "26026",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "26076",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 605: Polished Brass",
+                "Select Finish: 626: Satin Chrome",
+                "Keying: I only ordered one",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "605: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I only ordered one",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 11.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "legacy_product_id": "1161146",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Oblong Vanilla Guerlain Cabinet Knob Backplate, MNG 169",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "MNG-169",
+            "mpn": "MNG-169",
+            "price": "12.86",
+            "compare_at_price": "17.15",
+            "contractor_price": "12.86",
+            "shipping_weight": "0.5",
+            "tags": [
+                "MNG Vanilla Collections",
+                "MNG-169",
+                "MNG 169",
+                "MNG 16913",
+                "MNG-16913",
+                "MNG-16914",
+                "MNG-16914",
+                "MNG-16921",
+                "MNG-16921",
+                "Hobnail Cabinet Pull Rosettes",
+                "Oblong Hobnail Cabinet Knob Backplates",
+                "3 Inch Vanilla Guerlain Backplates",
+                "MNG 1693 Inch Hobnail Guerlain Backplates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MNG-169-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-169-525.jpg?v=1716428676"
+        },
+        "text": {
+            "description_html": "<b>MNG 169, Vanilla Guerlain Cabinet Pull Rosette</b>\r\n\r\n<p>\r\nThe Oblong Vanilla Guerlain Cabinet Knob Backplate can be added to cabinet pulls to make them even more dramatic and decorative. \r\n</p>\r\n\r\n\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the MNG 169 Inch Hobnail Guerlain Backplate:\r\n<li>Base Material: Zinc </li>\r\n<li>Length Center to Center: 3\"</li>\r\n<li>Length Length: 6\"</li>\r\n<li>Width: 1-3/8\"</li>\r\n<li>Projection: 1/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i> \r\n</p>",
+            "seo": {
+                "title": "Oblong Vanilla Guerlain Cabinet Knob Backplate",
+                "description": "The Oblong Vanilla Guerlain Cabinet Knob Backplate can be added to cabinet pulls to make them even more dramatic and decorative. ",
+                "keywords": "MNG Vanilla Collections, MNG-169, MNG 169,\r\nMNG 16913, MNG-16913, \r\nMNG-16914, MNG-16914,\r\nMNG-16921, MNG-16921, Hobnail Cabinet Pull Rosettes, Oblong Hobnail Cabinet Knob Backplates, 3 Inch Vanilla Guerlain Backplates, MNG 1693 Inch Hobnail Guerlain Backplates,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Cabinet Knob and Pull Rosettes",
+                    "sort": "6"
+                },
+                {
+                    "name": "MNG Cabinet Hardware",
+                    "sort": "56"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1161137",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1160787",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "569775",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1160837",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1100954",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "1095032",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "569412",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MNG-16921: Satin Antique Nickel",
+                "Select Finish: MNG-16914: Polished Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MNG-16921: Satin Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-16921-SM.jpg?v=1774586566",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-16921-LG.jpg?v=1711366674"
+                },
+                {
+                    "value": "MNG-16914: Polished Nickel",
+                    "price_impact": 1.88,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-16914-SM.jpg?v=1774586566",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-16914-LG.jpg?v=1711366674"
+                }
+            ]
+        }
+    ]
+}

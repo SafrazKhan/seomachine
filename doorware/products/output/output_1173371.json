@@ -1,0 +1,141 @@
+{
+    "legacy_product_id": "1173371",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Overhead Concealed Door Closer, Dorma RTS88",
+            "vendor": "Dorma",
+            "status": "ACTIVE",
+            "sku": "DRM-RTS88-xx",
+            "mpn": "DRM-RTS88-xx",
+            "price": "568.8",
+            "compare_at_price": "711.0",
+            "contractor_price": "540.36",
+            "shipping_weight": "10.0",
+            "tags": [
+                "DRM-RTS88-xx Overhead Concealed Door Closer Dorma RTS88",
+                "DRM-RTS88-90-NHO-SZ3 Dorma Concealed door Closers",
+                "Dorma RTS88-90-HO-SZ3",
+                "Dorma RTS88-105-NHO-SZ3",
+                "Dorma RTS88-105-HO-SZ3 RTS 88 Made by Dorma",
+                "RTS88 Made by Dorma"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/dorma-RTS88-closer_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/dorma-RTS88-closer_525.jpg?v=1717106637"
+        },
+        "text": {
+            "description_html": "<b>Dorma RTS88 Concealed Door Closer</b>\r\n<p>\r\nDorma overhead door closer for single and double acting (door opens in both directions) doors. \r\nConsistent closure speed is assured every time with its temperature-sensitive hydraulic fluid. Packaged with Front and Back mounting brackets.\r\n</p>\r\n<p>\r\n\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/dorma-RTS88-specifications.jpg?v=1704354553\" width=\"580\" height=\"360\" border=\"0\" alt=\"Dorma RTS88 Closer Size\">\r\n</p>\r\n<p>\r\nThis RTS 88 Made by Dorma concealed closer is a light #3 spring closer, for doors up to 36 inches wide and 125 lbs. \r\n</p>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>\r\nFeatures and Specifications for Dorma RTS88 Closer: \r\n</b>\r\n<ul>\r\n<li>High Tensile Steel Camshaft and Pistons</li>\r\n<li>Adjustable closing speed</li>\r\n<li>Adjustable latching speed</li>\r\n<li>Maximum Door Size: 36\" exterior</li>\r\n<li>Maximum Door Weight: 125 lbs</li>\r\n<li>Spring Tension: #3 Light</li>\r\n<li>Backstop: Optional 90 or 105 degree Swing Back Stop</li>\r\n<li>Non Handed (Double Acting - swings both ways)</li>\r\n<li><b>Optional Hold Open or non-Hold Open</b></li>\r\n<!-- <li>UL Listed</li>\r\n<li>5 Year Warranty</li> -->\r\n<li>Packaged with Front and Back mounting brackets.</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<i>Sold Individually</li>\r\n</p>",
+            "seo": {
+                "title": "Dorma RTS88 Door Closer",
+                "description": "Closer RTS88 Made by Dorma. Dorma overhead door closer for single and double acting (door opens in both directions) doors. \r\nConsistent closure speed is assured every time with its temperature-sensitive hydraulic fluid. Light #3 spring closer, for doors up to 36 inches wide and 125 lbs. ",
+                "keywords": "DRM-RTS88-xx Overhead Concealed Door Closer Dorma RTS88, DRM-RTS88-90-NHO-SZ3 Dorma Concealed door Closers, Dorma RTS88-90-HO-SZ3, Dorma RTS88-105-NHO-SZ3, Dorma RTS88-105-HO-SZ3 RTS 88 Made by Dorma, RTS88 Made by Dorma"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Dormakaba",
+                    "sort": "2"
+                },
+                {
+                    "name": "Door Closers",
+                    "sort": "88"
+                },
+                {
+                    "name": "Commercial Door Closers",
+                    "sort": "48"
+                },
+                {
+                    "name": "New Hardware",
+                    "sort": "168"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "183343",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "183452",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "558557",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "805011",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "183493",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "1174435",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "334270",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "195864",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Door Closer Options: RTS88-105-NHO-SZ3: Back Stop 105 Degrees, Non-Hold Open",
+                "Select Door Closer Options: RTS88-105-HO-SZ3: Back Stop 105 Degrees, Hold Open",
+                "Select Door Closer Options: RTS88-90-NHO-SZ3: Back Stop 90 Degrees, Non-Hold Open",
+                "Select Door Closer Options: RTS88-90-HO-SZ3: Back Stop 90 Degrees, Hold Open"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Closer Options",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RTS88-105-NHO-SZ3: Back Stop 105 Degrees, Non-Hold Open",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RTS88-105-HO-SZ3: Back Stop 105 Degrees, Hold Open",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RTS88-90-NHO-SZ3: Back Stop 90 Degrees, Non-Hold Open",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RTS88-90-HO-SZ3: Back Stop 90 Degrees, Hold Open",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

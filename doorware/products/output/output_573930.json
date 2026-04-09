@@ -1,0 +1,106 @@
+{
+    "legacy_product_id": "573930",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Black Porcelain Ball Cabinet Knob with Polished Chrome Rose, RK International CK-306",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-306",
+            "mpn": "RKI-CK-306",
+            "price": "9.99",
+            "compare_at_price": "11.66",
+            "contractor_price": "9.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Black Porcelain Ball Cabinet Knob with Polished Chrome Roses",
+                "RK International CK-302",
+                "RKI-CK-302",
+                "Black Porcelain Knob with Polished Chrome Bases",
+                "RK International black porcelain Chrome knobs",
+                "RK International CK-306",
+                "RKI-CK-306"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-302-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-302-525.jpg?v=1716424733"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-306, Black Porcelain Knob with Polished Chrome Base</b>\r\n\r\n<p>\r\nThere is something so beautiful about the Black Porcelain Ball Cabinet Knob with Polished Chrome Rose. The black porcelain has an old world feel while the chrome brings this cabinet pull straight into the contemporary. This juxtaposition of old and new makes it truly unique and oh-so-stylish. This cabinet knob is available with either a 1 inch diameter or a 1-1/4 inch diameter.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: <a href=\"/products/black-porcelain-ball-cabinet-knob-with-polished-brass-rose-rk-international-ck-305\"><b>Black Porcelain Ball Cabinet Knob with Polished Brass Rose</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-306 Black Porcelain Knob Cabinet:\r\n<ul>\r\n<li>Material: porcelain with some brass</li>\r\n<li>Porcelain Color: <b>Black</b></li>\r\n<li>Base Finish: <b>Polished Chrome</b></li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes</b>\r\n<ul>\r\n<b>RKI-CK-306:</b>\r\n<ul>\r\n<li>Diameter: 1\"</li>\r\n<li>Projection: 1-3/8\"</li>\r\n</ul>\r\n\r\n<br>\r\n\r\n<b>RKI-CK-302:</b>\r\n<ul>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-5/8\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Black Porcelain Ball Cabinet Knob with Polished Chrome Rose",
+                "description": "RK International CK-306, Black Porcelain Knob with Polished Chrome Base - There is something so beautiful about the Black Porcelain Ball Cabinet Knob with Polished Chrome Rose. The black porcelain has an old world feel while the chrome brings this cabinet pull straight into the contemporary. This juxtaposition of old and new makes it truly unique and oh-so-stylish. This cabinet knob is available with either a 1 inch diameter or a 1-1/4 inch diameter.",
+                "keywords": "Black Porcelain Ball Cabinet Knob with Polished Chrome Roses, RK International CK-302, RKI-CK-302, Black Porcelain Knob with Polished Chrome Bases, RK International black porcelain Chrome knobs,RK International CK-306, RKI-CK-306,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "4"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "564747",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "26935",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "559908",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "27128",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "253857",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: CK-306: 1in. diameter",
+                "Select Finish: CK-302: 1-1/4in. diameter"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "CK-306: 1in. diameter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CK-302: 1-1/4in. diameter",
+                    "price_impact": 0.64,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

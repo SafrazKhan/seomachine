@@ -1,0 +1,123 @@
+{
+    "legacy_product_id": "1117023",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Steeple Tip Finial for 4 x 4 Hinges, Emtek 97314",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-97314",
+            "mpn": "EMT-97314",
+            "price": "22.4",
+            "compare_at_price": "28.0",
+            "contractor_price": "22.4",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Emtek 97314",
+                "Solid Brass Steeple Tip Finial for 4 inch x 4 inch Hinges",
+                "Steeple Tip Finial for 4 x 4 Hinges",
+                "Emtek 97314",
+                "Steeple Tip for 4 Inch Hinges",
+                "EMT-97314",
+                "hinge tips",
+                "hinge finals",
+                "brass hinge finals steeple tip",
+                "solid brass finials",
+                "hinge tips"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-97314-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-97314-525.jpg?v=1716428287"
+        },
+        "text": {
+            "description_html": "<b>Emtek 97314, Solid Brass Steeple Tip Finial for 4 inch x 4 inch Hinges</b>\r\n\r\n<p>\r\nAn easy screw-on installation makes this hinge finial an effortless way to add the finishing details that help turn a house into a beautiful home. The Steeple finial is made by Emtek out of durable solid brass. This Steeple Tip is for use with Emtek 4\" x 4\" plain, heavy duty, or ball bearing hinges. Each set is packed with 4 finials--the perfect amount for a pair of hinges.\r\n</p>\r\n\r\n<p>\r\nHinge Finials (tips) are packaged and sold as a set of 4. One set is perfect for use on a pair of hinges with finials on both the top and bottom of each hinge.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Emtek Steeple Tip Finial:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Overall Height: 1-3/8\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n<li>Maximum Diameter: 1/2\"</li>\r\n<li>Easy screw-on installation</li>\r\n<li>4 finials per set.</li>\r\n<li>For use with 4\" x 4\" heavy duty, plain, or ball bearing Emtek made brass hinges.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold as a Set of 4. each Set is enough for 1 pair of hinges.</i>\r\n</p>",
+            "seo": {
+                "title": "Steeple Tip Finial for 4 x 4 Hinges",
+                "description": "An easy screw-on installation makes this hinge finial an effortless way to add the finishing details that help turn a house into a beautiful home. The Steeple finial is made by Emtek out of durable solid brass. This Steeple Tip is for use with Emtek 4 x 4 plain, heavy duty, or ball bearing hinges. Each set is packed with 4 finials--the perfect amount for a pair of hinges.",
+                "keywords": "Emtek 97314, Solid Brass Steeple Tip Finial for 4 inch x 4 inch Hinges, Steeple Tip Finial for 4 x 4 Hinges, Emtek 97314, Steeple Tip for 4 Inch Hinges, EMT-97314,  hinge tips, hinge finals, brass hinge finals steeple tip, solid brass finials, hinge tips,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Overall Height",
+                    "value": "1-3/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-1/8\""
+                },
+                {
+                    "key": "Maximum Diameter",
+                    "value": "1/2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Hinges",
+                    "sort": "99"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "290152",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "8410",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "290171",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "8423",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "563654",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "8459",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Overall Height: 1-3/8\"",
+                "Projection: 1-1/8\"",
+                "Maximum Diameter: 1/2\"",
+                "Select Finish: US7: French Antique"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US7: French Antique",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

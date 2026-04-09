@@ -1,0 +1,130 @@
+{
+    "legacy_product_id": "451847",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Modest Style Appliance Pull, First Impressions CFDPS",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-CFDPS",
+            "mpn": "FII-CFDPS",
+            "price": "400.0",
+            "compare_at_price": "500.0",
+            "contractor_price": "380.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "FII-CFDPS Modest Refrigerator Pulls",
+                "Refrigerator Pulls",
+                "First Impressions  Refrigerator door pulls",
+                "decorative Refrigerator handles",
+                "24 Inch Refrigerator Pulls",
+                "First Impressions CFDPS appliance pulls",
+                "First Impressions CFDPS appliance pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-11SF-stainless-pulls_5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-11SF-stainless-pulls_5251.jpg?v=1716424054"
+        },
+        "text": {
+            "description_html": "<b>First Impressions CFDPS Modest  Refrigerator Door Pull</b>\r\n<p>\r\nThe simple design of this appliance pull makes it a very popular choice for dressing up freezers and refrigerators.\r\n</p>\r\n<p>\r\nIt is packaged with mounting screws for a refrigerator / appliance door panel. Although this Appliance Pull is available in several lengths, a refrigerator needs to have an 18\" or longer pull installed to effectively pull open todays large \"vacuum\" sealed doors such as the ones found on a Sub Zero refrigerator. \r\n</p>\r\n<p>\r\n<b>Specifications</b> for  First Impressions CFRBS Appliance Pull\r\n<ul>\r\n<li>Pull Handle Diameter: 1.5\"</li>\r\n<li>Bracket Diameter:  15/16\"</li>\r\n<li>Pull Projection: 3\"</li>\r\n<li>Pull Clearance: 1-1/2\"</li>\r\n<li>Material: High Quality Brass</li>\r\n<li>Packaged with mounting screws for appliance panel</li>\r\n</ul>\r\n</p>\r\n</p>\r\n\r\n<p>\r\nNote: This appliance handle is handmade in the USA when you order it—allowing it to be custom designed to fit your specific door application, including <b>Other Lengths</b>. Unfortunately, because of the made-to-order nature of the appliance handle, it is <b>Not Returnable.</b> Please <a href=\"/pages/contact\">Contact Us</a> with your requirements or if you have any questions.\r\n</p>\r\n<p>\r\nPackaged with mounting screws for a standard 3/4\" thick  refrigerator/appliance door panel.\r\n</p>\r\n<p>\r\n<b>* Sold individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Modest Style Appliance Pull, First Impressions CFDPS",
+                "description": "First Impressions CFRBS appliance pulls. Elegance from the simple design make this  appliance pull a very popular choice when dressing up freezers and refrigerators. Available in 9 different finish colors and 4 different lengths up to 24 inches.",
+                "keywords": "FII-CFDPS Modest Refrigerator Pulls,  Refrigerator Pulls, First Impressions  Refrigerator door pulls, decorative Refrigerator handles, 24 Inch Refrigerator Pulls, First Impressions CFDPS appliance pulls, First Impressions CFDPS appliance pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Pull Handle Diameter",
+                    "value": "1.5\""
+                },
+                {
+                    "key": "Bracket Diameter",
+                    "value": "15/16\""
+                },
+                {
+                    "key": "Pull Projection",
+                    "value": "3\""
+                },
+                {
+                    "key": "Pull Clearance",
+                    "value": "1-1/2\""
+                },
+                {
+                    "key": "Material",
+                    "value": "High Quality Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Custom-Misc-Items",
+                    "sort": "77"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Pull Handle Diameter: 1.5\"",
+                "Bracket Diameter: 15/16\"",
+                "Pull Projection: 3\"",
+                "Pull Clearance: 1-1/2\"",
+                "Material: High Quality Brass",
+                "Select Finish: FII-CFDPS/xx-US4 - Satin Brass",
+                "Select Finish: FII-CFDPS/xx-US15 - Satin Nickel",
+                "Select Length: FII-CFDPS/30 - 30in. Overall",
+                "Select Length: FII-CFDPS - 44in. Overall"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-CFDPS/xx-US4 - Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-CFDPS/xx-US15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-CFDPS/30 - 30in. Overall",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-CFDPS - 44in. Overall",
+                    "price_impact": 20.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

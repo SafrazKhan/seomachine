@@ -1,0 +1,78 @@
+{
+    "legacy_product_id": "279839",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Grandeur Deadbolt Latch",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-DB-Latch",
+            "mpn": "GRA-DB-Latch",
+            "price": "36.0",
+            "compare_at_price": "40.0",
+            "contractor_price": "36.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "GRA-DB-Latch Grandeur Deadbolt Latch",
+                "Grandeur Dead bolt Latch 2 3/8 Backset for Grandeur locks",
+                "GRA-705122",
+                "GRA-7705123"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/grandeur-deadbolt-latch-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/grandeur-deadbolt-latch-525.jpg?v=1717105878"
+        },
+        "text": {
+            "description_html": "<b>Deadbolt Latch  for Grandeur</b>\r\n<p>For use with <a href=\"/collections/grandeur-deadbolts\"><b>Grandeur Deadbolt Locks</b></a> and <a href=\"/collections/grandeur-entry-door-lock-sets\"><b>Grandeur Entry Lock Sets</b></a>.\r\n\r\n</p>\r\n<p>Available  in 2-3/8\" or 2-3/4\" backsets.\r\n</p>\r\n<p>\r\nDoor bolt only. Does NOT include the face plate, strike plate or screws. \r\n</p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Grandeur Deadbolt Latch",
+                "description": "Deadbolt Latch for Grandeur. For use with Grandeur Deadbolt Locks and Grandeur Entry Lock Sets. Available  in 2-3/8 or 2-3/4 backsets.",
+                "keywords": "GRA-DB-Latch Grandeur Deadbolt Latch, Grandeur Dead bolt Latch 2 3/8 Backset for Grandeur locks, GRA-705122,  GRA-7705123"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Grandeur Parts",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Backset: 705122: 2-3/8in. Backset",
+                "Select Backset: 705123: 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "705122: 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "705123: 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

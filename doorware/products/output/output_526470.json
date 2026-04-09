@@ -1,0 +1,92 @@
+{
+    "legacy_product_id": "526470",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Custom Sized 10 Inch Polished Brass Kickplate,  DJO-KP10x-605",
+            "vendor": "Don-Jo",
+            "status": "ARCHIVED",
+            "sku": "DJO-KP10x-605",
+            "mpn": "DJO-KP10x-605",
+            "price": "119.0",
+            "compare_at_price": "143.0",
+            "contractor_price": "107.1",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Custom 10 Inch Polished Brass Kickplate",
+                "DJO-KP10x-605"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/kp-10x-605-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/kp-10x-605-525.jpg?v=1717106126"
+        },
+        "text": {
+            "description_html": "<b>Custom Sized 10 Inch Polished Brass Kickplate,  DJO-KP10x-605</b>\r\n<p>\r\nMade of .050\" thick high quality solid brass for longevity. Packaged with matching brass mounting screws for easy installation. Finished in lacquered polished brass.  \r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> of the DJO-10x-605 Solid Brass Push Plate:\r\n<ul>\r\n<li>Plate Height: 10\"</li>\r\n<li>Plate Thickness: .050\" (1.2 mm)</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Lacquered Polished Brass Finish</li>\r\n<li>Packaged With Matching Brass Mounting Screws</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Custom Sized 10 Inch Polished Brass Kickplate,  DJO-KP10x-605",
+                "description": "Custom 10 Inch Polished Brass Kickplate,  DJO-KP10x-605",
+                "keywords": "Custom 10 Inch Polished Brass Kickplate,  DJO-KP10x-605"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Height",
+                    "value": "10\""
+                },
+                {
+                    "key": "Plate Thickness",
+                    "value": ".050\" (1.2 mm)"
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Don-Jo Custom Items",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Plate Height: 10\"",
+                "Plate Thickness: .050\" (1.2 mm)",
+                "Material: Solid Brass",
+                "Select Plate Width: DJO-KP10x34-605 - 34in. Wide",
+                "Select Plate Width: DJO-KP10x38-605 - 38in. Wide"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Plate Width",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DJO-KP10x34-605 - 34in. Wide",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DJO-KP10x38-605 - 38in. Wide",
+                    "price_impact": 14.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

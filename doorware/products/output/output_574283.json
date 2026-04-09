@@ -1,0 +1,109 @@
+{
+    "legacy_product_id": "574283",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "White Porcelain Flat Cabinet Knob, RK International CK-311",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-311",
+            "mpn": "RKI-CK-311",
+            "price": "7.99",
+            "compare_at_price": "9.79",
+            "contractor_price": "7.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RKI-CK-311 RKI-CK-312",
+                "Flat White Porcelain Cabinet Knobs",
+                "RK International CK-311",
+                "RK International CK-312",
+                "1-1/4 Inch White Porcelain Knobs",
+                "White flat porcelain knob with brass ring knobs",
+                "White flat porcelain knob with chrome ring knobs",
+                "white cabinet hardware",
+                "White Porcelain Knob with Matching Bases",
+                "White Porcelain Flat Cabinet Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-CK-311-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-CK-311-525.jpg?v=1716424736"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-311, White Porcelain Knob with Matching Base</b>\r\n\r\n<p>\r\nWhite for decorating is gaining in popularity as is retro shapes and finish combinations and the White Porcelain Flat Cabinet Knob has both. The white porcelain knob's rose is available in two finishes. Choose from a polished chrome base for a clean, bright, and simple look or a polished brass base to accentuate the retro feel. This cabinet pull has a 1-1/4 inch diameter and comes packaged with all the necessary mounting hardware.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: <a href=\"/products/black-porcelain-flat-cabinet-knob-rk-international-ck-309\"><b>Black Porcelain Flat Cabinet Knob</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-311 White Porcelain Cabinet Hardware:\r\n<ul>\r\n<li>Material: porcelain with some brass</li>\r\n<li>Porcelain Color: <b>White</b></li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-5/8\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "White Porcelain Flat Cabinet Knob",
+                "description": "RK International CK-311 Flat White Porcelain Cabinet Knob - White for decorating is gaining in popularity as is retro shapes and finish combinations and the White Porcelain Flat Cabinet Knob has both. The white porcelain knob's rose is available in two finishes. Choose from a polished chrome base for a clean, bright, and simple look or a polished brass base to accentuate the retro feel. This cabinet pull has a 1-1/4 inch diameter and comes packaged with all the necessary mounting hardware.\r\n",
+                "keywords": "RKI-CK-311 RKI-CK-312, Flat White Porcelain Cabinet Knobs, RK International CK-311, RK International CK-312, 1-1/4 Inch White Porcelain Knobs, White flat porcelain knob with brass ring knobs, White flat porcelain knob with chrome ring knobs, white cabinet hardware, White Porcelain Knob with Matching Bases, White Porcelain Flat Cabinet Knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "8"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "379923",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "564747",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "554384",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "554095",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "253857",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: CK-311: Polished Chrome",
+                "Select Finish: CK-312: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "CK-311: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CK-312: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

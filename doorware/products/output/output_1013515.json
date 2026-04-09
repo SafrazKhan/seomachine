@@ -1,0 +1,93 @@
+{
+    "legacy_product_id": "1013515",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Interior Plate for 12000 Series Mortise Entry Sets, Omnia 8042/OC",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-8042/OC",
+            "mpn": "OMN-8042/OC",
+            "price": "110.0",
+            "compare_at_price": "110.0",
+            "contractor_price": "110.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "12000 Mortise Entry interior Plates",
+                "Omnia 8042/OC Interior Plate for 12000 Series Mortise Entry Sets",
+                "OMN-8042/OC"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525100.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525100.gif?v=1716427684"
+        },
+        "text": {
+            "description_html": "<b>Omnia 8042/OC Interior Plate for 12000 Series Mortise Entry Sets</b>\r\n\r\n<p>\r\nReplacement interior faceplate for Omnia 12000 Series Mortise Entry Sets.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the 12000 Mortise Entry Interior Plate:\r\n<ul>\r\n<li>Height: 10-9/16\"</li>\r\n</li>Width: 2-3/8\"</li>\r\n<li>Thickness: 5-16\"</li>\r\n<li>Distance between latch and thumbturn: 2-7/16\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Order. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "InteriorPlate for 12000 Series Mortise Entry Sets",
+                "description": "Replacement interior faceplate for Omnia 12000 Series Mortise Entry Sets.",
+                "keywords": "12000 Mortise Entry interior Plates, Omnia 8042/OC Interior Plate for 12000 Series Mortise Entry Sets, OMN-8042/OC"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "10-9/16\""
+                },
+                {
+                    "key": "Thickness",
+                    "value": "5-16\""
+                },
+                {
+                    "key": "Distance between latch and thumbturn",
+                    "value": "2-7/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "72"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Height: 10-9/16\"",
+                "Thickness: 5-16\"",
+                "Distance between latch and thumbturn: 2-7/16\"",
+                "Select Finish: US26D: Satin Chrome",
+                "Select Finish: US15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

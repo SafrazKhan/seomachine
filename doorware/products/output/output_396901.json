@@ -1,0 +1,120 @@
+{
+    "legacy_product_id": "396901",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Revere Solid Brass Grab, Fusion GRB-904",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-GRB-904",
+            "mpn": "FUS-GRB-904",
+            "price": "89.0",
+            "compare_at_price": "89.0",
+            "contractor_price": "66.75",
+            "shipping_weight": "5.0",
+            "tags": [
+                "FUS-GRB-904",
+                "Fusion Revere grabs",
+                "fusion hardware Revere appliance pulls",
+                "solid brass refrigerator pulls",
+                "fusion hardware Revere collection",
+                "Revere door grabs",
+                "fusion grb-904",
+                "fusion hardware 8 inch appliance pulls",
+                "traditional appliance pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-GRB-904-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-GRB-904-525.jpg?v=1711365459"
+        },
+        "text": {
+            "description_html": "<b>Fusion GRB-904, Revere 8 Inch Door Grab</b>\r\n\r\n<p>\r\nFusion's Revere Grab is designed with classic styles in mind. What brings this otherwise simple appliance pull to life is the beaded design--it gives it a more modern feel without straying into the minimalistic appearance of the contemporary style. Instead, this grab is very now, unlimited by the ornate style of times gone by and the striped down approach of modernism. It has just the right amount of detailing and can range from detailed to very simple. Versatility is what this pull is all about, made only more apparent by the fact that it is available in 4 finishes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the 8\" Revere Pull:\r\n<ul>\r\n<li>Length: 8\" center to center</li>\r\n<li>Material: solid brass</li>\r\n<li>Packaged with appliance panel mounting screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>",
+            "seo": {
+                "title": "Revere Solid Brass Grab, Fusion GRB-904",
+                "description": "Fusion GRB-904, Revere 8 Inch Door Grab - Fusion's Revere Grab is designed with classic styles in mind. What brings this otherwise simple appliance pull to life is the beaded design--it gives it a more modern feel without straying into the minimalistic appearance of the contemporary style. Instead, this grab is very now, unlimited by the ornate style of times gone by and the striped down approach of modernism. It has just the right amount of detailing and can range from detailed to very simple. Versatility is what this pull is all about, made only more apparent by the fact that it is available in 4 finishes.",
+                "keywords": "FUS-GRB-904, Fusion Revere grabs, fusion hardware Revere appliance pulls, solid brass refrigerator pulls, fusion hardware Revere collection, Revere door grabs, fusion grb-904, fusion hardware 8 inch appliance pulls, traditional appliance pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Large Pulls",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "296865",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "31253",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "203528",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "238373",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "267663",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: BRN - Brushed Nickel",
+                "Select Finish: ORB - Oil Rubbed Bronze",
+                "Select Finish: PVD - PVD Polished Brass",
+                "Select Finish: ATP - Antique Pewter"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BRN - Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PVD - PVD Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ATP - Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

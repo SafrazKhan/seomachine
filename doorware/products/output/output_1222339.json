@@ -1,0 +1,189 @@
+{
+    "legacy_product_id": "1222339",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Knurled Lever with Square Rose and Stem, Exterior Only, Emtek 5050LSKN",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-5050LSKN",
+            "mpn": "EMT-5050LSKN",
+            "price": "116.5",
+            "compare_at_price": "116.5",
+            "contractor_price": "116.5",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Knurled Lever with Square Rose and Stem",
+                "Exterior Only",
+                "Emtek 5050LSKN"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-LS-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-LS-5251.jpg?v=1769504961"
+        },
+        "text": {
+            "description_html": "<b>Emtek 5050LSKN Knurled Lever with Square Rose and Stem, Exterior Only</b>\r\n\r\n<p>\r\nThis is exterior rose and lever replacement trim only.  It does not include interior trim,  latch, or strike.  \r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-LSKN-specifications.gif?v=1704354573\" width=\"600\" height=\"149\" border=\"0\" atl=\"Emtek Knurled Specifications\">\r\n</p>\r\n\r\n\r\n\r\n<p>\r\n<b>Specifications</b> of the Knurled T-Bar Leverset with Square Rose, Exterior Replacement Trim:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Lever Length: 5\"</li>\r\n<li>Lever Projection: 2-1/8\"</li>\r\n<li>Clearance: 1-1/4\"</li>\r\n<li>Rose Length: 2-1/2\" square</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-LSKN-specifications.pdf?v=1704262373\"><b>Emtek Knurled Lever Dimensions Diagram (PDF)</b></a>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available Functions:</b>\r\n<ul>\r\n<li><b>Double Dummy:</b> Exterior Replacement Trim Includes: 1 lever and 1 rose.</li>\r\n<li><b>Passage (Hall or Closet):</b> Exterior Replacement Trim Includes: 1 lever and 1 rose.</li>\r\n<li><b>Privacy (Bed or Bath):</b> Exterior Replacement Trim Includes: 1 lever and 1 rose with emergency release trim.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nLevers are Handed. <a href=\"/pages/how-to-order-door-hardware\"><b>Handing Guide</b></a>\r\n</p>\r\n\r\n<p align=\"left\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-modern-6-Finishes.jpg?v=1704354631\" width=\"512\" height=\"111\" border=\"0\" alt=\"Emtek Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "Knurled Lever with Square Rose and Stem, Exterior",
+                "description": "Knurled Lever with Square Rose and Stem, Exterior Only, Emtek 5050LSKN",
+                "keywords": "Knurled Lever with Square Rose and Stem, Exterior Only, Emtek 5050LSKN"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Lever Length",
+                    "value": "5\""
+                },
+                {
+                    "key": "Lever Projection",
+                    "value": "2-1/8\""
+                },
+                {
+                    "key": "Clearance",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Rose Length",
+                    "value": "2-1/2\" square"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Leversets",
+                    "sort": "27"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Material: Brass",
+                "Lever Length: 5\"",
+                "Lever Projection: 2-1/8\"",
+                "Clearance: 1-1/4\"",
+                "Rose Length: 2-1/2\" square",
+                "Select Function: 5050LSHA: Double Dummy",
+                "Select Function: 5110LSHA: Passage (Hall or Closet)",
+                "Select Function: 5210LSHA: Privacy (Bedroom or Bathroom)",
+                "Select Rose and Stem Finish: US10B: Oil Rubbed Bronze",
+                "Select Rose and Stem Finish: US15: Satin Nickel",
+                "Select Rose and Stem Finish: US19: Matte Black",
+                "Select Rose and Stem Finish: US26: Polished Chrome",
+                "Select Rose and Stem Finish: US14: Polished Nickel",
+                "Select Rose and Stem Finish: US4: Satin Brass",
+                "Select Handing: RH: Right Handing",
+                "Select Handing: LH: Left Handing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "5050LSHA: Double Dummy",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5110LSHA: Passage (Hall or Closet)",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5210LSHA: Privacy (Bedroom or Bathroom)",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Rose and Stem Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RH: Right Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LH: Left Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

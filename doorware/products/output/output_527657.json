@@ -1,0 +1,87 @@
+{
+    "legacy_product_id": "527657",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Decorative Ornate Trim For Mortise Lockset, Omnia 50251. Finish Polished Brass",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-005/456.3",
+            "mpn": "OMN-005/456.3",
+            "price": "201.0",
+            "compare_at_price": "224.0",
+            "contractor_price": "201.0",
+            "shipping_weight": "2.5",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Omnia 50251 Decorative Ornate Trim For Mortise Lockset</b>\r\n<p>\r\n\r\nroduct.cfm?id=235482\">Omnia D50251</a></p>\r\n/s and turnpiece as applicable. \r\n</p><p>\r\n<p><b>Specifications</b> for Omnia 50251 Trim For Decorative Mortise Set\r\n<ul>\r\n<li>Backplate Height 17-3/4\"</li>\r\n<li>Solid Brass</li>\r\n<li>Finish: Polished Brass</li>\r\n<p>\r\n</ul></p>",
+            "seo": {
+                "title": "Decorative Ornate Trim For Mortise Lockset, Omnia 50251. Finish Polished Brass",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": [
+                {
+                    "key": "Finish",
+                    "value": "Polished Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "65"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Finish: Polished Brass",
+                "Select  Function: OMN-005/456.3 Dummy Back Plate, Interior or ExteriorUS3",
+                "Select  Function: OMN-005/OB.3 Single Cylinder Exterior Back Plate US3",
+                "Select  Function: OMN-005/OC.3 Single Cylinder Interior Back Plate US3"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select  Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-005/456.3 Dummy Back Plate, Interior or ExteriorUS3",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "OMN-005/OB.3 Single Cylinder Exterior Back Plate US3",
+                    "price_impact": 11.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "OMN-005/OC.3 Single Cylinder Interior Back Plate US3",
+                    "price_impact": 43.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

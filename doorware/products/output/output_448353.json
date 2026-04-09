@@ -1,0 +1,65 @@
+{
+    "legacy_product_id": "448353",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "2-1/2 Inch Thick Door Double Cylinder Deadbolt",
+            "vendor": "Schlage-Commercial",
+            "status": "ARCHIVED",
+            "sku": "SCH-B562/XB12209212",
+            "mpn": "SCH-B562/XB12209212",
+            "price": "135.0",
+            "compare_at_price": "200.0",
+            "contractor_price": "135.0",
+            "shipping_weight": "2.0",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/schlage-B562-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/schlage-B562-525.jpg?v=1711365475"
+        },
+        "text": {
+            "description_html": "<b>Schlage Commercial 2-1/2\" Thick Door Double Cylinder Deadbolt</b>\r\n\r\n<p>\r\nThis ANSI Grade 2 double cylinder deadbolt is made for doors up to 2-1/2\" thick. It is adjustable for 2-3/8 inch or 2-3/4 inch backsets.  Built tough, it has a metal dust box reinforcer with three 3 inch screws. \r\n</p>\r\n\r\n\r\n\r\n<p>\r\n<b>Features</b> of the Schlage B562/XB12209212 Deadbolt:\r\n<ul>\r\n<li>Will fit standard door preparations.</li>\r\n<li>1\" wrought metal trim ring reinforced with security insert.</li>\r\n<li>Metal dust box reinforcer with three 3\" screws.</li>\r\n<li>6-pin C123 keyway.</li>\r\n<li>Packaged with 2 keys.</li>\r\n<li>NASI A156.5, 2001, Grade 2.</li>\r\n<li>Backset: adjustable for either 2-3/8\" or 2-3/4\"</li>\r\n<li>Door Thickness Range: 1-3/8\" - 2-1/2\"</li>\r\n<li>Strike: 1-1/8\" x 2-3/4\", square corner, box</li>\r\n<li>Deadbolt: 1\" x 2-1/4\", square corner faceplate, 1\" housing diameter, 1\" throw</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "2-1/2 Inch Thick Door Double Cylinder Deadbolt",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Misc-Discontinued-Items",
+                    "sort": "62"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: SCH-B562-619/XB12209212 - Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SCH-B562-619/XB12209212 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

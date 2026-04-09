@@ -1,0 +1,51 @@
+{
+    "legacy_product_id": "1239388",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Low Voltage Power Supply, PDQ PS220",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PDQ-PS220",
+            "mpn": "PDQ-PS220",
+            "price": "950.0",
+            "compare_at_price": "950.0",
+            "contractor_price": "950.0",
+            "shipping_weight": "20.0",
+            "tags": [
+                "Low Voltage Power Supply",
+                "PDQ PS220"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDQ-PS220-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PDQ-PS220-525.jpg?v=1769482293"
+        },
+        "text": {
+            "description_html": "<b>PDQ 81440, Power Supply Box</b>\r\n\r\n<p>\r\nThe PS220 Power Supply accepts a 110-120VAC input and delivers 2 amps at 24VDC to two PTC fused outputs. This versatile power supply features two solid-state input triggers and robust protection for system relays against shorts, grounds, and surges. Its linear design makes it ideal for solenoid and motor-driven exit devices, electric locks, electric strikes, and mag locks. \r\n</p>\r\n\r\n<p><b>Features</b> for PDQ 81440 Power Supply\r\n<ul>\r\n<li>2A at 24VDC Power Supply with Fire Alarm Link and 0.5A auxiliary power (continuous)</li>\r\n<li>Filtered/Regulated 24 Volts DC</li>\r\n<li>Overload, Over Voltage and Short Circuit Protection</li>\r\n<li>Filtered/Regulated 24VDC</li>\r\n<li>Overload, Over Voltage and Short Circuit Protection</li>\r\n<li>Accepts 120VAC</li>\r\n<li>Controls Fail Safe or Fail Secure Locking Devices</li>\r\n<li>Interface Relay Isolates Locking Device Current from Control Switch</li>\r\n<li>Surge Suppression on Fail Safe and Fail Secure Outputs</li><li>UL Listed and Tested to 294 Standard for Access Control System Units</li><li>Controls Fail Safe or Fail Secure Locking Devices</li><li> 3 year warranty</li>\r\n<li>BAA Compliant</li>\r\n\r\n\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Low Voltage Power Supply, PDQ PS220",
+                "description": "The PS220 Power Supply accepts a 110-120VAC input and delivers 2 amps at 24VDC to two PTC fused outputs. This versatile power supply features two solid-state input triggers and robust protection for system relays against shorts, grounds, and surges. Its linear design makes it ideal for solenoid and motor-driven exit devices, electric locks, electric strikes, and mag locks.",
+                "keywords": "Low Voltage Power Supply, PDQ PS220"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "PDQ Exit Devices",
+                    "sort": "206"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

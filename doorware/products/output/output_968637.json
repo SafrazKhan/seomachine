@@ -1,0 +1,201 @@
+{
+    "legacy_product_id": "968637",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Emtek DeadLatch, Emtek LC4-DLB2",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-LC4-DLB2",
+            "mpn": "EMT-LC4-DLB2",
+            "price": "17.99",
+            "compare_at_price": "17.99",
+            "contractor_price": "17.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "EMT-LC4-DLB2 Emtek Dead Latch",
+                "Emtek 2 3/4 dead latch",
+                "Emtek Latches",
+                "Emtek 2 3/8 deadlatch",
+                "Emtek Deadbolts",
+                "emtek LC4-DLB2375",
+                "emtek LC4-DLB275"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/emtek-LC4-DLB2375_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/emtek-LC4-DLB2375_525.jpg?v=1716427277"
+        },
+        "text": {
+            "description_html": "<b>Emtek DeadLatch</b>\r\n<p>Replacement Emtek knobs or levers that use a Key to lock (Key in Latch). For use with <a href=\"/collections/emtek-leversets\"><b>Emtek Keyed Levers</b></a> and <a href=\"/collections/emtek-knobsets\"><b>Emtek Keyed Knobs</b></a>.\r\n\r\n</p>\r\n<p>\r\nAlso available:  <a href=\"/products/emtek-passage-latch-emtek-lc4-pass\">Emtek Passage Latch</a> and <a href=\"/products/emtek-privacy-latch-emtek-lc4-priv\">Emtek Privacy Latch</a>\r\n</p>\r\n<p>Available  in 2-3/8\" or 2-3/4\" backsets.\r\n</p>\r\n<p>\r\nEmtek replacement DeadLatch only with Square Corner Face Plate. Does NOT include the strike plate or screws. \r\n</p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Emtek DeadLatch",
+                "description": "For use with Emtek keyed knobs, keyed levers  and Emtek Entry Lock Sets. Available  in 2-3/8   or 2-3/4  backsets.",
+                "keywords": "EMT-LC4-DLB2 Emtek Dead Latch, Emtek 2 3/4 dead latch, Emtek Latches,  Emtek 2 3/8 deadlatch, Emtek Deadbolts, emtek LC4-DLB2375,  emtek LC4-DLB275"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "937547",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "887674",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "978840",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "892189",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1002383",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "681678",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Backset: 2-3/8in. Backset",
+                "Select Backset: 2-3/4in. Backset",
+                "Select Face Plate Finish: US10B: Oil Rubbed Bronze",
+                "Select Face Plate Finish: US14: Polished Nickel",
+                "Select Face Plate Finish: US15: Satin Nickel",
+                "Select Face Plate Finish: US15A: Antique Nickel",
+                "Select Face Plate Finish: US19: Flat Black",
+                "Select Face Plate Finish: US26: Polished Chrome",
+                "Select Face Plate Finish: US3: Polished Brass",
+                "Select Face Plate Finish: US4: Satin Brass",
+                "Select Face Plate Finish: US7: French Antique",
+                "Select Face Plate Finish: MB: Medium Bronze",
+                "Select Face Plate Finish: TWB: Tumbled White Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Face Plate Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Flat Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US7: French Antique",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MB: Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TWB: Tumbled White Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

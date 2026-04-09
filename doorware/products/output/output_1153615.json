@@ -1,0 +1,112 @@
+{
+    "legacy_product_id": "1153615",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Clear Acrylic Cabinet Pull, Laurey 829",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "LAU-829",
+            "mpn": "LAU-829",
+            "price": "9.92",
+            "compare_at_price": "13.23",
+            "contractor_price": "9.42",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Laurey 829",
+                "Laurey 582904",
+                "Laurey 82926",
+                "Laurey 82959",
+                "Clear Acrylic Cabinet Pulls",
+                "3 Inch Acrylic Cabinet Handles",
+                "Laurey 3 inch Acrystal Pulls",
+                "Kristal cabinet pulls",
+                "clear acrylic cabinet handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LAU-829-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-829-525.jpg?v=1716428491"
+        },
+        "text": {
+            "description_html": "<b>Laurey 519, 3 Inch Acrylic Cabinet Handle</b>\r\n\r\n\r\n<p>\r\nThe Clear Acrylic Cabinet Pull has an elegant twisted design that is sure to add grace to any cabinet door or drawer. The Laurey Acrylic Cabinet Handle is 3-3/4 inches overall with 3 inch mounting centers. The mounts are available in a few different colors while the acrylic is high-quality and crystal clear.\r\n</p>\r\n\r\n<p>\r\nThis cabinet pull is part of the <a href=\"//search?type=product&q=Laurey+Acrylic\">Laurey Acrylic Collection</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Laurey Acrylic Cabinet Pull:\r\n<ul>\r\n<li>Material: Clear Acrylic</li>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 3-3/4\"</li>\r\n<li>Width: 3/8\"</li>\r\n<li>Projection: 1\"</li>\r\n<li>Packaged with 1\" long #8-32 screws and 1-1/2\"  long #8-32 screws.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Clear Acrylic Cabinet Pull",
+                "description": "The Clear Acrylic Cabinet Pull has an elegant twisted design that is sure to add grace to any cabinet door or drawer. The Laurey Acrylic Cabinet Handle is 3-3/4 inches overall with 3 inch mounting centers. The mounts are available in a few different colors while the acrylic is high-quality and crystal clear.",
+                "keywords": "Laurey 829, Laurey 582904, Laurey 82926, Laurey 82959, Clear Acrylic Cabinet Pulls, 3 Inch Acrylic Cabinet Handles, Laurey 3 inch Acrystal Pulls, Kristal cabinet pulls, clear acrylic cabinet handles,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Laurey Cabinet Pulls",
+                    "sort": "97"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "212278",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "551150",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "551201",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "564398",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "994592",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Mount Finish: LAU-82904: Polished Brass",
+                "Select Mount Finish: LAU-82926: Polished Chrome",
+                "Select Mount Finish: LAU-82959: Satin Pewter"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Mount Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LAU-82904: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-82904-SM.jpg?v=1774582050",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-82904-LG.jpg?v=1711366620"
+                },
+                {
+                    "value": "LAU-82926: Polished Chrome",
+                    "price_impact": 2.53,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-82926-SM.jpg?v=1774582053",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-82926-LG.jpg?v=1711366620"
+                },
+                {
+                    "value": "LAU-82959: Satin Pewter",
+                    "price_impact": 2.53,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-82959-SM.jpg?v=1774582056",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-82959-LG.jpg?v=1711366621"
+                }
+            ]
+        }
+    ]
+}

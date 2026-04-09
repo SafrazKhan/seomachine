@@ -1,0 +1,108 @@
+{
+    "legacy_product_id": "953267",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Oval European Cylinder Collar, Omnia MPCH/OP",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-MPCH/OP",
+            "mpn": "OMN-MPCH/OP",
+            "price": "48.0",
+            "compare_at_price": "58.0",
+            "contractor_price": "48.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Omnia Oval European Cylinder Collars",
+                "Omnia MPCH/OP",
+                "OMN-MPCH/OP",
+                "European Cylinder Below Oval Cylinder Collars",
+                "Omnia MPCH-OP"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-MPCH-OP-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-MPCH-OP-525.jpg?v=1716427224"
+        },
+        "text": {
+            "description_html": "<b>Omnia MPCH/OP, Oval European Cylinder Collar</b>\r\n\r\n<p>\r\nThis is a cylinder collar for use with patio door sets with European style cylinders.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the European Cylinder Below Oval Cylinder Collar:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Height: 2-1/2\"</li>\r\n<li>Width: 1\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Special Ordered Item. NOT Returnable</b>\r\n</p>",
+            "seo": {
+                "title": "Oval European Cylinder Collar",
+                "description": "This is a cylinder collar for use with patio door sets with European style cylinders.\r\n",
+                "keywords": "Omnia Oval European Cylinder Collars, Omnia MPCH/OP, OMN-MPCH/OP, European Cylinder Below Oval Cylinder Collars, Omnia MPCH-OP,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Height",
+                    "value": "2-1/2\""
+                },
+                {
+                    "key": "Width",
+                    "value": "1\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "65"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "315387",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "291679",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "315329",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Height: 2-1/2\"",
+                "Width: 1\"",
+                "Select Finish: US15 - Satin Nickel",
+                "Select Finish: US10B - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

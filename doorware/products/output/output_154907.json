@@ -1,0 +1,205 @@
+{
+    "legacy_product_id": "154907",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Brass Wood Screw 12 x 1-1/4, Bag of 100, Deltana SCWB12125",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-SCWB12125",
+            "mpn": "DEL-SCWB12125",
+            "price": "74.99",
+            "compare_at_price": "100.0",
+            "contractor_price": "71.25",
+            "shipping_weight": "0.05",
+            "tags": [
+                "DEL-SCWB12125",
+                "Deltana SCWB1215 Solid Brass Wood Screws",
+                "12 x 1 1/4 brass wood screws",
+                "number 12 screw for hinges",
+                "12 x 1-1/4 Brass Wood Screw",
+                "brass hinge screws",
+                "DEL-SCWB12125U3",
+                "DEL-SCWB12125U4",
+                "DEL-SCWB12125U5",
+                "DEL-SCWB12125U10B",
+                "DEL-SCWB12125U15",
+                "DEL-SCWB12125U15A",
+                "DEL-SCWB12125U14",
+                "DEL-SCWB12125U19",
+                "DEL-SCWB12125U26",
+                "DEL-SCWB12125U26D"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Deltana SCWB12125 - #12 x 1-1/4\" Solid Brass Wood Screw, Bag of 100</b>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/deltana-SCWB12125_size.gif?v=1704354655\" width=\"580\" height=\"200\" border=\"0\" alt=\"deltana SCWB12125  #12 brass wood screw\">\r\n</p>\r\n\r\n<p>\r\n<ul>\r\n<li>Screw Size: #12</li>\r\n<li>Length: 1-1/4\"</li>\r\n<li>Type: Wood Screw</li>\r\n<li>Head: Flat, Phillips Drive</li>\r\n<li>Material: Solid Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nAvailable in 11 different finishes.\r\n<br>\r\n\r\n\r\n</p>",
+            "seo": {
+                "title": "Solid Brass Wood Screw 12 x 1-1/4, Bag of 100, Deltana SCWB12125",
+                "description": "DELTANA SCWB1215 - Brass Wood Screw #12 x 1 1/4 long. Available in 10 different finishes.  Sold in bag of 100.",
+                "keywords": "DEL-SCWB12125, Deltana SCWB1215 Solid Brass Wood Screws, 12 x 1 1/4 brass wood screws, number 12 screw for hinges, 12 x 1-1/4 Brass Wood Screw, brass hinge screws, DEL-SCWB12125U3, DEL-SCWB12125U4, DEL-SCWB12125U5, DEL-SCWB12125U10B, DEL-SCWB12125U15, DEL-SCWB12125U15A, DEL-SCWB12125U14, DEL-SCWB12125U19, DEL-SCWB12125U26, DEL-SCWB12125U26D"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Machine and Wood Screws",
+                    "sort": "10"
+                },
+                {
+                    "name": "Installation Hardware",
+                    "sort": "8"
+                },
+                {
+                    "name": "Tools and Fasteners",
+                    "sort": "33"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "154882",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "200859",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "295358",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "200807",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "295381",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "334190",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: CR003: PVD Polished Brass",
+                "Select Finish: U3: Polished Brass",
+                "Select Finish: U4: Brushed Brass",
+                "Select Finish: U5: Antique Brass",
+                "Select Finish: U10B: Oil Rubbed Bronze",
+                "Select Finish: U14: Polished Nickel",
+                "Select Finish: U15: Satin Nickel",
+                "Select Finish: U15A: Antique Nickel",
+                "Select Finish: U19: Matte Black",
+                "Select Finish: U26: Polished Chrome",
+                "Select Finish: U26D: Brushed Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "CR003: PVD Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SCWB12125U3"
+                },
+                {
+                    "value": "U4: Brushed Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SCWB12125U4"
+                },
+                {
+                    "value": "U5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SCWB12125U"
+                },
+                {
+                    "value": "U10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SCWB12125U10B"
+                },
+                {
+                    "value": "U14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SCWB12125CR003"
+                },
+                {
+                    "value": "U15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SCWB12125U15"
+                },
+                {
+                    "value": "U15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SCWB12125U15A"
+                },
+                {
+                    "value": "U19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SCWB12125U14"
+                },
+                {
+                    "value": "U26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SCWB12125U26"
+                },
+                {
+                    "value": "U26D: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SCWB12125U26D"
+                }
+            ]
+        }
+    ]
+}

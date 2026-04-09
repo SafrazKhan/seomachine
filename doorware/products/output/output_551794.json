@@ -1,0 +1,158 @@
+{
+    "legacy_product_id": "551794",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hollow Two-Step Cabinet Knob, RK International CK-91",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-91",
+            "mpn": "RKI-CK-91",
+            "price": "9.99",
+            "compare_at_price": "11.88",
+            "contractor_price": "9.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RKI-CK-91",
+                "Classic Two-Step Half-Round Cabinet Knobs",
+                "Hollow Two-Step Cabinet Knobs",
+                "RK International CK-91",
+                "Classic Knobs",
+                "classic cabinet hardware",
+                "half-round cabinet knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-CK-91-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-CK-91-525.jpg?v=1716424367"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-91, Classic Two-Step Half-Round Cabinet Knob</b>\r\n\r\n<p>\r\nWith a simple elegance that makes it alluring, the Two-Step Cabinet Knob is available in 8 finishes so you will be sure to find just the right one for your kitchen or bathroom. The classic design makes the RK International CK-91 Knob versatile and timeless. Its enduring design will compliment any decor.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the CK-91 Hollow Brass Two-Step Cabinet Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Hollow Two-Step Cabinet Knob",
+                "description": "RK International CK-91, Hollow Two-Step Cabinet Knob - With a simple elegance that makes it alluring, the Two-Step Cabinet Knob is available in 8 finishes so you will be sure to find just the right one for your kitchen or bathroom. The classic design makes the RK International CK-91 Knob versatile and timeless. Its enduring design will compliment any decor.",
+                "keywords": "RKI-CK-91, Classic Two-Step Half-Round Cabinet Knobs, Hollow Two-Step Cabinet Knobs, RK International CK-91, Classic Knobs, classic cabinet hardware, half-round cabinet knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "3"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "42914",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "290228",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "355579",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "42677",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: SB: Satin Brass",
+                "Select Finish: B: Polished Brass",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: C: Polished Chrome",
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SB: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "C: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

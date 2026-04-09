@@ -1,0 +1,134 @@
+{
+    "legacy_product_id": "692229",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Brass Store Door Push and Pull Handle Set, Don-Jo 1160147-BR",
+            "vendor": "Don-Jo",
+            "status": "ARCHIVED",
+            "sku": "DJO-1160147-BR",
+            "mpn": "DJO-1160147-BR",
+            "price": "260.0",
+            "compare_at_price": "352.0",
+            "contractor_price": "260.0",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Store Front Door Push Pull Sets",
+                "Store Door Push and Pull Handle Sets",
+                "Store Door Push and Pull Handle Set",
+                "Commercial Offset Door Pulls",
+                "storefront offset door pulls",
+                "store front door pulls",
+                "push pull handles",
+                "store door push bars",
+                "push and pulls",
+                "push and pull handles",
+                "Solid Brass Store Front Door Push Pull Sets",
+                "Solid Brass Store Door Push and Pull Handle Sets",
+                "Don-Jo 1160147-BR",
+                "DJO-1160147-BR",
+                "Don-Jo 1160147-606",
+                "Don-Jo 1160147-605",
+                "polished brass store door push and pulls sets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-1160147-BR-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-1160147-BR-525.jpg?v=1716425300"
+        },
+        "text": {
+            "description_html": "<b>Don-Jo 1160147-BR, Solid Brass Push and Pull Handle Set</b>\r\n\r\n<p>\r\nThe Store Door Push and Pull Handle Set comes packaged as a set including one 9\" Center to Center (CTC)  offset door pull. It is made from 1\" diameter solid brass round bar stock. Packaged with mounting hardware. Choose from polished brass or satin brass finishes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Don-Jo 1160147-BR Solid Brass Storedoor Push and Pull Handle Set:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Pull Diameter: 1\"</li>\r\n<li>Pull Center to Center (CTC): 9\"</li>\r\n<li>Push Bar Diameter: 1\"</li>\r\n<li>Push Bar Center to Center (CTC): 33\"</li>\r\n<li>Packaged with Mounting Hardware</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold as a Set (for 1 door).</b> Made to order. <b>NOT Returnable.</b> \r\n</p>\r\n</p>",
+            "seo": {
+                "title": "Solid Brass Store Door Push and Pull Handle Set, Don-Jo 1160147-BR",
+                "description": "Don-Jo 1160147-BR, Solid Brass Store Door Push and Pull Handle Set - The Store Door Push and Pull Handle Set comes packaged as a set including one 9 inch Center to Center (CTC)  offset door pull. It is made from 1 inch diameter solid brass round bar stock. Packaged with mounting hardware. Choose from polished brass or satin brass finishes.",
+                "keywords": "Store Front Door Push Pull Sets, Store Door Push and Pull Handle Sets, Store Door Push and Pull Handle Set, Commercial Offset Door Pulls, storefront offset door pulls, store front door pulls, push pull handles, store door push bars, push and pulls, push and pull handles, Solid Brass Store Front Door Push Pull Sets, Solid Brass Store Door Push and Pull Handle Sets, Don-Jo 1160147-BR, DJO-1160147-BR, Don-Jo 1160147-606, Don-Jo 1160147-605, polished brass store door push and pulls sets,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Pull Diameter",
+                    "value": "1\""
+                },
+                {
+                    "key": "Pull Center to Center (CTC)",
+                    "value": "9\""
+                },
+                {
+                    "key": "Push Bar Diameter",
+                    "value": "1\""
+                },
+                {
+                    "key": "Push Bar Center to Center (CTC)",
+                    "value": "33\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Don-Jo Custom Items",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "519976",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "193539",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "481441",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "184809",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Pull Diameter: 1\"",
+                "Pull Center to Center (CTC): 9\"",
+                "Push Bar Diameter: 1\"",
+                "Push Bar Center to Center (CTC): 33\"",
+                "Select Finish: DJO-1160147-605 - Polished Brass",
+                "Select Finish: DJO-1160147-606 - Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DJO-1160147-605 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DJO-1160147-606 - Satin Brass",
+                    "price_impact": 4.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

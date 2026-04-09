@@ -1,0 +1,150 @@
+{
+    "legacy_product_id": "42182",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Simple Stainless Steel Cabinet Pull, Omnia 9453",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9453",
+            "mpn": "OMN-9453",
+            "price": "16.56",
+            "compare_at_price": "20.7",
+            "contractor_price": "15.73",
+            "shipping_weight": "0.25",
+            "tags": [
+                "omnia 9453 modern cabinet pulls",
+                "stainless steel cabinet pulls",
+                "stainless steel kitchen cabinet pulls",
+                "simple cabinet pulls",
+                "contemporary stainless steel cabinet handles",
+                "classic cabinet handles",
+                "stainless steel cabinet hardware",
+                "Contemporary curved Kitchen cabinet door pulls",
+                "omn-9453/20",
+                "omn-9453/89",
+                "omn-9453/152"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-9453_300x3351.jpg",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Omnia 9453 Simple Stainless Steel Cabinet Pull</b>\r\n<p>Simple in design this cabinet pull can be mounted either vertical or horizontally. It comes in 3 sizes and 2 finishes. Made of stainless steel by Omnia, you can be sure that it is strong, durable, and will resist corrosion making this lever and excellent choice for high traffic homes with either ultra modern or more traditional decors.\r\n</p>\r\n<p>\r\nSince this contemporary cabinet pull is so easy to clean it will maintain a smooth, rich luster for the lifetime of your home; and just like all Omnia's stainless steel cabinet handles, the modern styled pull will prove worthy of the exceptional standards that Omnia has sustained for more than 40 years.\r\n</p>\r\n\r\n<p><b>Available in 3 Sizes: </b>\r\n<ul>\r\n<li><b>OMN-9453/20</b> - Length: 13/16\" (single hole mount), Projection: 1-1/8\"</li>\r\n<li><b>OMN-9453/89</b> -  Length: 4-5/8\", Projection: 1-1/8\"</li>\r\n<li><b>OMN-9453/152</b> - Length: 7-1/8\", Projection: 1-1/8\"</li>\r\n</ul>\r\n</p>\r\n<p><i>Sold Individually</i>",
+            "seo": {
+                "title": "Simple Stainless Steel Cabinet Pull, Omnia 9453",
+                "description": "Omnia 9453 Stainless Steel Cabinet Pull - Simple in design this cabinet pull can be mounted either vertical or horizontally. It comes in 3 sizes and 2 finishes. Made of stainless steel by Omnia, you can be sure that it is strong, durable, and will resist corrosion making this lever and excellent choice for high traffic homes with either ultra modern or more traditional decors.",
+                "keywords": "omnia 9453 modern cabinet pulls, stainless steel cabinet pulls, stainless steel kitchen cabinet pulls, simple cabinet pulls, contemporary stainless steel cabinet handles, classic cabinet handles, stainless steel cabinet hardware, Contemporary curved Kitchen cabinet door pulls, omn-9453/20, omn-9453/89, omn-9453/152,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "80"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "247902",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "43085",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "43133",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "41729",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "43399",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "43445",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "43451",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Size: OMN-9453/20 - Length: 13/16in.",
+                "Select Size: OMN-9453/89 - Length: 4-5/8in.",
+                "Select Size: OMN-9453/152 - Length: 7-1/8in.",
+                "Select Finish: US32D - Brushed Stainless Steel",
+                "Select Finish: US32 - Polished Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-9453/20 - Length: 13/16in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9453/20"
+                },
+                {
+                    "value": "OMN-9453/89 - Length: 4-5/8in.",
+                    "price_impact": 29.76,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9453/89"
+                },
+                {
+                    "value": "OMN-9453/152 - Length: 7-1/8in.",
+                    "price_impact": 46.16,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9453/152"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US32D - Brushed Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US32D"
+                },
+                {
+                    "value": "US32 - Polished Stainless Steel",
+                    "price_impact": 6.64,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US32"
+                }
+            ]
+        }
+    ]
+}

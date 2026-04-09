@@ -1,0 +1,168 @@
+{
+    "legacy_product_id": "1125005",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Square Allerton Cabinet Knob, Emtek 86700",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-86700",
+            "mpn": "EMT-86700",
+            "price": "11.99",
+            "compare_at_price": "15.0",
+            "contractor_price": "11.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Square Allerton Cabinet Knobs",
+                "Emtek 86700",
+                "Emtek 86701",
+                "Emtek Allerton Knobs",
+                "EMT-86700",
+                "Modern Allerton Knobs",
+                "Emtek Allerton Cabinet Knobs",
+                "square cabinet knobs",
+                "black cabinet hardware",
+                "modern cabinet hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86700-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86700-525.jpg?v=1716428345"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86700, Modern Allerton Knob</b>\r\n\r\n\r\n<p>\r\nThis modern Allerton Knob is the perfect accent for any kitchen cabinet. Constructed out of solid brass, the unexpected modern cube shape is an excellent way to add a chicness to any cabinet door; and since it is made by Emtek, you can be sure that it will last for many years to come. The Square Allerton Cabinet Knob is available in small and large size. Choose from your favorite modern finsih color option.\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Emtek Allerton Cabinet Knob:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86700-specifications.pdf?v=1704262430\" target=\"new\"><b>Emtek Allerton Cabinet Knob Specifications (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>86700: Small</b>\r\n<ul>\r\n<li>Length: 1\" square</li>\r\n<li>Projection: 1-1/4\"</li>\r\n</ul>\r\n<br>\r\n<b>86701: Large</b>\r\n<ul>\r\n<li>Length: 1-518\" square</li>\r\n<li>Projection: 1-1/4\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-modern-5-Finishes.jpg?v=1704354501\" width=\"511\" height=\"111\" border=\"0\" alt=\"Emtek Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "Square Allerton Cabinet Knob",
+                "description": "This modern Allerton Knob is the perfect accent for any kitchen cabinet. Constructed out of solid brass, the unexpected modern cube shape is an excellent way to add a chicness to any cabinet door; and since it is made by Emtek, you can be sure that it will last for many years to come. The Square Allerton Cabinet Knob is available in small and large size. Choose from your favorite modern finsih color option.",
+                "keywords": "Square Allerton Cabinet Knobs, Emtek 86700, Emtek 86701, Emtek Allerton Knobs, EMT-86700, Modern Allerton Knobs, Emtek Allerton Cabinet Knobs, square cabinet knobs, black cabinet hardware, modern cabinet hardware,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Cabinet Hardware",
+                    "sort": "133"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "888915",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1100954",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "352581",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1054809",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "379344",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "927234",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "1038813",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Size: 86700: Small",
+                "Select Size: 86701: Large",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US4: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "86700: Small",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "86701: Large",
+                    "price_impact": 0.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

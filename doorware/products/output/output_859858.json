@@ -1,0 +1,172 @@
+{
+    "legacy_product_id": "859858",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Victorian Double Toggle Switch Plate, Grandeur VICSWPLTT2",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-VICSWPLTT2",
+            "mpn": "GRA-VICSWPLTT2",
+            "price": "37.99",
+            "compare_at_price": "47.5",
+            "contractor_price": "37.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Grandeur VICSWPLTT2",
+                "GRA-VICSWPLTT2",
+                "Grandeur Victorian Toggle Covers",
+                "Victorian Double Toggle Covers",
+                "Double Victorian Toggle Light Switch Covers",
+                "Victorian Double Toggle Switch Plates",
+                "Victorian Double Toggle Switch Cover Plates",
+                "Grandeur Victorian Switch Covers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-VICSWPLTT2-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-VICSWPLTT2-525.jpg?v=1716426106"
+        },
+        "text": {
+            "description_html": "<b>Grandeur VICSWPLTT2, Double Toggle Victorian Cover</b>\r\n\r\n<p>\r\nThe Victorian Double Toggle Switch Plate is a wonderful finishing touch for any historic home. The ornate design of this light switch plate is beautiful without being gaudy. The Double Toggle Victorian Cover is available in a wide selection of finishes, ranging from traditional to contemporary, for a look that suits your style. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur Victorian Toggle Cover:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Height: 5-3/8\"</li>\r\n<li>Width: 6-1/4\"</li>\r\n<li>Projection: 1/2\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Victorian Double Toggle Switch Plate",
+                "description": "The Victorian Double Toggle Switch Plate is a wonderful finishing touch for any historic home. The ornate design of this light switch plate is beautiful without being gaudy. The Double Toggle Victorian Cover is available in a wide selection of finishes, ranging from traditional to contemporary, for a look that suits your style.",
+                "keywords": "Grandeur VICSWPLTT2, GRA-VICSWPLTT2, Grandeur Victorian Toggle Covers, Victorian Double Toggle Covers, Double Victorian Toggle Light Switch Covers, Victorian Double Toggle Switch Plates, Victorian Double Toggle Switch Cover Plates, Grandeur Victorian Switch Covers,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Height",
+                    "value": "5-3/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "6-1/4\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1/2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Electrical Outlet &amp; Switch Plates",
+                    "sort": "113"
+                },
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "68"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "859869",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "861010",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "726060",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "172885",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "859906",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "141908",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Height: 5-3/8\"",
+                "Width: 6-1/4\"",
+                "Projection: 1/2\"",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: AP: Antique Pewter",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: ULB: Unlacquered Brass",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: TB: Timeless Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ULB: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

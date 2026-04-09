@@ -1,0 +1,104 @@
+{
+    "legacy_product_id": "637201",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Aluminum  Door Bottom/Shoe, Pemko 217APK-xx",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "PEM-217APK-xx",
+            "mpn": "PEM-217APK-xx",
+            "price": "28.0",
+            "compare_at_price": "36.5",
+            "contractor_price": "28.0",
+            "shipping_weight": "4.0",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Pemko Aluminum Door Bottom/Shoe - 217APK-xx</b>\r\n<p>\r\nDoor shoes are used to seal the area under a door with minimal affect on the appearance of the face of the door. In addition to sealing the gap under the door, door shoes are often used to provide protection for the bottom of the door. Pemko door shoes consist of an aluminum channel with a flexible insert available in Eco-V or PemkoPrene.\r\n</p>\r\n<p>\r\n  Packaged with installation screws.\r\n</p>\r\n<p>\r\n<b>Specifications</b> for Pemko 217APK-xx Automatic Door Bottom Seal\r\n<ul>\r\n<li>Length: 36\" or 42\"</li>\r\n<li>Total Height: 1-1/8\"</li>\r\n<li>Width 1-3/4\"</li>\r\n<li>Max Door Gap to Floor: 1/2\"</li>\r\n<li>Seal Type: Black Sponge Neoprene</li>\r\n<li>Handed: Reversible</li>\r\n<li>Finish: <b>Mill Aluminum</b></li>\r\n</ul>\r\n</p>\r\n<p>\r\nSpecial order item, please allow 10-14 days to ship. Made to order in any size ranging from 18\" to 72\". Please <a href=\"/pages/contact\"><b>Contact Us</b></a> with your requirements.\r\n</p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Aluminum  Door Bottom/Shoe, Pemko 217APK-xx",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": [
+                {
+                    "key": "Length",
+                    "value": "36\" or 42\""
+                },
+                {
+                    "key": "Total Height",
+                    "value": "1-1/8\""
+                },
+                {
+                    "key": "Max Door Gap to Floor",
+                    "value": "1/2\""
+                },
+                {
+                    "key": "Seal Type",
+                    "value": "Black Sponge Neoprene"
+                },
+                {
+                    "key": "Handed",
+                    "value": "Reversible"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Mill Aluminum"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Pemko",
+                    "sort": "19"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Length: 36\" or 42\"",
+                "Total Height: 1-1/8\"",
+                "Max Door Gap to Floor: 1/2\"",
+                "Seal Type: Black Sponge Neoprene",
+                "Handed: Reversible",
+                "Finish: Mill Aluminum",
+                "Select Door Width: PEM-217APK-36 - 36in. Wide Door",
+                "Select Door Width: PEM-217APK-42 - 42in. Wide Door"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Width",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PEM-217APK-36 - 36in. Wide Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PEM-217APK-42 - 42in. Wide Door",
+                    "price_impact": 6.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

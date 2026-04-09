@@ -1,0 +1,128 @@
+{
+    "legacy_product_id": "195124",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Brass Elegance Ring Door Knocker",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-698/100",
+            "mpn": "OMN-698/100",
+            "price": "229.0",
+            "compare_at_price": "229.0",
+            "contractor_price": "229.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "OMN-698 Elegant Ring Door Knockers",
+                "Omnia Solid Brass Elegance Ring Door Knockers",
+                "omina knockers",
+                "max brass",
+                "max brass door knockers",
+                "round door knockers",
+                "omnia 698/100 698/125 Ring Style Door Knockers",
+                "Omnia 5 inch Door Knockers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-698-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/omn-698-525.jpg?v=1716421894"
+        },
+        "text": {
+            "description_html": "<b>Omnia Elegance 5\" Ring Door Knocker.</b>\r\n<p>\r\nOmnia's door knockers add those details, those distinctive touches which claify and reinforce fine architecture and design. Their dedication to detail is revealed in the latest selection of solid brass door knockers.\r\n</p>\r\n<p>\r\nAfter hand poishing and high buffing, a hard and transparent lacquer is baked onto each piece. This special process retains the tradition of old world excellence while employing the best available modern technology to protect and preserve your fine taste.\r\n</p>\r\n\r\n<p>\r\nThe Omnia Max-Brass finish will change the way you think about finishes. The unique process in the manufacturing provides a superior resistance to tarnish or pitting. Max Brass is a PVD polished brass coating that is highly resistant to extreme  elements. It has a lifetime <b>No Tarnish Guarantee</b>. Recommended for harsh environments such as salty air.\r\n</p>\r\n<p>\r\n<b>Specifications</b> for Omnia 698/100 Ring Door Knocker</b>\r\n<ul>\r\n<li>Overall Size: 5\"</li>\r\n<li>Center to Center Mounting Holes: 3-3/8\"</li>\r\n<li>Projection: 1-1/2\"</li>\r\n<li>Material: Solid Brass</li>\r\n</ul>\r\n</p>\r\n<p><b>*Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "Solid Brass Elegance Ring Door Knocker",
+                "description": "Omnia 698/100 Ring Door Knocker. Available in polished brass or Max Brass. Max Brass is a PVD polished brass coating that is highly resistant to extreme  elements. It has a lifetime No Tarnish Guarantee. Recommended for harsh environments such as salty air.",
+                "keywords": "OMN-698 Elegant Ring Door Knockers, Omnia Solid Brass Elegance Ring Door Knockers, omina knockers, max brass, max brass door knockers, round door knockers, omnia 698/100 698/125 Ring Style Door Knockers, Omnia 5 inch Door Knockers,"
+            },
+            "specifications": [
+                {
+                    "key": "Overall Size",
+                    "value": "5\""
+                },
+                {
+                    "key": "Center to Center Mounting Holes",
+                    "value": "3-3/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-1/2\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knockers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knockers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-6",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "15"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "195089",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "13734",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "13728",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "141908",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "195132",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "195072",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Overall Size: 5\"",
+                "Center to Center Mounting Holes: 3-3/8\"",
+                "Projection: 1-1/2\"",
+                "Material: Solid Brass",
+                "Select Size and Finish: OMN-698/100-US3:  Polished Brass",
+                "Select Size and Finish: OMN-698/100-MB:  Max Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size and Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-698/100-US3:  Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "OMN-698/100-MB:  Max Brass",
+                    "price_impact": 87.15,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

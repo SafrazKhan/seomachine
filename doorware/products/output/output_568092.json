@@ -1,0 +1,137 @@
+{
+    "legacy_product_id": "568092",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Rectangular Plated Bail Pull, RK International CF-5260",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CF-5260",
+            "mpn": "RKI-CF-5260",
+            "price": "31.99",
+            "compare_at_price": "39.82",
+            "contractor_price": "31.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "RKI-CF-5260",
+                "Solid Brass Rectangular Bail Pulls",
+                "Rectangular Plated Bail Pulls",
+                "RK International CF-5260",
+                "cabinet cup pulls satin nickel",
+                "cabinet Bail pulls oil rubbed bronze",
+                "cabinet Bail pulls handles",
+                "Bail pull cabinet hardware",
+                "bail pull drawer handles",
+                "bail cabinet hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CF-5260-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CF-5260-525.jpg?v=1716424636"
+        },
+        "text": {
+            "description_html": "<b>RK International CF-5260, 3-3/4 Inch Rectangle Mount Bail Pull</b>\r\n\r\n<p>\r\nThe sleek style of the Rectangular Plated Bail Pull really helps bring it into the modern age. This cabinet bail pull is very \"now\". It is available in 5 finishes. It has a 3-3/4 inch length and a 2 inch width. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CF-5260 Rectangular Bail Pull Drawer Handle:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 3-3/4\"</li>\r\n<li>Length c.c. (center to center): 1-1/2\"</li>\r\n<li>Width: 2\"</li>\r\n<li>Projection: 2\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MUL-T-LOCK-G55G1_size.gif?v=1704354738\" width=\"600\" height=\"146\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Rectangular Plated Bail Pull",
+                "description": "RK International CF-5260 Rectangular Plated Bail Pull - The sleek style of the Rectangular Plated Bail Pull really helps bring it into the modern age. This cabinet bail pull is very now. It is available in 5 finishes. It has a 3-3/4 inch length and a 2 inch width. This bail pull drawer handle is a great finishing touch to any kitchen, bathroom, or small drawer.",
+                "keywords": "RKI-CF-5260, Solid Brass Rectangular Bail Pulls,  Rectangular Plated Bail Pulls, RK International CF-5260, cabinet cup pulls satin nickel, cabinet Bail pulls oil rubbed bronze, cabinet Bail pulls handles, Bail pull cabinet hardware, bail pull drawer handles, bail cabinet hardware,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Pulls and Flush Pulls",
+                    "sort": "4"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "387234",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "273662",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "551079",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "478892",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "13290",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "288212",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

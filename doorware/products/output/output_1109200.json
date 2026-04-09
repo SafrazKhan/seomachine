@@ -1,0 +1,89 @@
+{
+    "legacy_product_id": "1109200",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Holder for DHK7 Kickdown Door Stop, Deltana DHK7-Holder",
+            "vendor": "Deltana",
+            "status": "ARCHIVED",
+            "sku": "DEL-DHK7-Holder",
+            "mpn": "DEL-DHK7-Holder",
+            "price": "9.19",
+            "compare_at_price": "9.78",
+            "contractor_price": "9.19",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Holder for DHK7 Kickdown Door Stop",
+                "Deltana DHK7-Holder",
+                "DEL-DHK7-Holder",
+                "Deltana DHK7 Kickdown Door Stop Holder",
+                "kickdown door stop won't stay up",
+                "Deltana DHK7 Kickdown Door Stop Holder"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-DHK7-Holder-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-DHK7-Holder-525.jpg?v=1716428252"
+        },
+        "text": {
+            "description_html": "<b>Deltana DHK7 Kickdown Door Stop Holder</b>\r\n\r\n<p>\r\nThis is a holder for the <a href=\"/products/extra-long-7-inch-kickdown-door-stop-deltana-dhk7\">Deltana DHK7 Extra Long 7 Inch Kickdown Door Stop</a> to help it stay up and out of the way on a moving door.\r\n</p>\r\n\r\n<p>\r\n<b>*Sold individually - NO RETURNS</b>\r\n</p>",
+            "seo": {
+                "title": "Holder for DHK7 Kickdown Door Stop",
+                "description": "This is a holder for the Deltana DHK7 Extra Long 7 Inch Kickdown Door Stop to help it stay up and out of the way on a moving door.",
+                "keywords": "Holder for DHK7 Kickdown Door Stop, Deltana DHK7-Holder, DEL-DHK7-Holder, Deltana DHK7 Kickdown Door Stop Holder, kickdown door stop won't stay up, Deltana DHK7 Kickdown Door Stop Holder,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Discontinued and Special Items",
+                    "sort": "75"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "478253",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "162238",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "816138",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "199463",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: U5: Antique Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

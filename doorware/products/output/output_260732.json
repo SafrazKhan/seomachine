@@ -1,0 +1,106 @@
+{
+    "legacy_product_id": "260732",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Springlatch for Global GLC Series Non-Keyed Light Commercial Levers",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-GLC-springlatch",
+            "mpn": "GLO-GLC-springlatch",
+            "price": "7.99",
+            "compare_at_price": "10.29",
+            "contractor_price": "7.48",
+            "shipping_weight": "0.2",
+            "tags": [
+                "GLO-GLC-springlatch Global GLC Series Springlatches",
+                "Springlatch for Global GLC Series passage Commercial Levers",
+                "commercial door latches",
+                "global privacy lever latches",
+                "global passage lever latches",
+                "GLO-GLC068-S2-626 Global GLC latch",
+                "GLO-GLC085-S2-626 Global GLC latch",
+                "GLO-GLC096-S1-626 Global GLC deadlatch",
+                "glc068",
+                "glc068-s2",
+                "glc116-s1"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-GLC-springlatch_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-GLC-springlatch_525.jpg?v=1717105852"
+        },
+        "text": {
+            "description_html": "<b>Global GLC Series Springlatch</b>\r\n<p>For <a href=\"/products/light-duty-brushed-chrome-commercial-leversets-global-glc-series\">Global GLC Series Light Commercial Door Levers</a>\r\n</p>\r\n<p>\r\nSpringlatch for  Non-Keyed function (Passage and Privacy)   Levers.  Available with 2-3/4\" or 2-3/8\" backsets.\r\n</p>\r\n<p>\r\n<li>2-3/8\" Backset latch includes 1\" wide x 2-3/8\" high face plate with <b>Satin Chrome</b> finish.</li>\r\n<li>2-3/4\" Backset latch includes 1-1/8\" wide x 2-3/8\" high face plate with <b>Satin Chrome</b> finish.</li>\r\n</p>",
+            "seo": {
+                "title": "Springlatch for Global GLC Series Non-Keyed Light Commercial Levers",
+                "description": "For Global GLC Series Light Commercial Door Levers.   Springlatch for  Non-Keyed function (Passage and Privacy) Levers. Available with 2-3/8 or 2-3/4 backsets.",
+                "keywords": "GLO-GLC-springlatch Global GLC Series Springlatches, Springlatch for Global GLC Series passage Commercial Levers, commercial door latches, global privacy lever latches, global passage lever latches, GLO-GLC068-S2-626 Global GLC latch, GLO-GLC085-S2-626 Global GLC latch, GLO-GLC096-S1-626 Global GLC deadlatch, glc068, glc068-s2, glc116-s1,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Global Lock Sets",
+                    "sort": "13"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "260741",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "906124",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "257781",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "236650",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "260621",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Backset: GLC116-S1-626: 2-3/4in. Backset",
+                "Select Backset: GLC068-S2-626: 2-3/8in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GLC116-S1-626: 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GLC068-S2-626: 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "legacy_product_id": "613104",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Guide Plate for Flush Bolt, DEL-GP12EFB",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-GP12EFB",
+            "mpn": "DEL-GP12EFB",
+            "price": "6.6",
+            "compare_at_price": "6.6",
+            "contractor_price": "6.6",
+            "shipping_weight": "0.15",
+            "tags": [
+                "Guide Plate for Flush Bolt",
+                "DEL-GP12EFB"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-GP12EFB-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-GP12EFB-525.jpg?v=1774588139"
+        },
+        "text": {
+            "description_html": "<b>Deltana GP12EFB, Solid Brass Guide Plate for Flush Bolts</b>\r\n\r\n\r\n<p>\r\nThis strike plate fits <a href=\"/products/solid-brass-extension-flush-bolts-12-18-and-24-inches-deltana-del-efb\"><b>Solid Brass Extension Flush Bolts (12, 18, and 24 inches)</b></a>. Packaged with two (2) mounting screws. Available in 9 different finishes.\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> of the Deltana Flush Bolt Guide Plate:\r\n<ul>\r\n<li>Guide Plate Length: 2\"</li>\r\n<li>Guide Plate Width: 1\"</li>\r\n<li>Material: Solid Brass</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<b>*Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "Guide Plate for Flush Bolt, DEL-GP12EFB",
+                "description": "Guide Plate for Flush Bolt, DEL-GP12EFB",
+                "keywords": "Guide Plate for Flush Bolt, DEL-GP12EFB"
+            },
+            "specifications": [
+                {
+                    "key": "Guide Plate Length",
+                    "value": "2\""
+                },
+                {
+                    "key": "Guide Plate Width",
+                    "value": "1\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Discontinued and Special Items",
+                    "sort": "63"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "560955",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "252228",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "162050",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "6263",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Guide Plate Length: 2\"",
+                "Guide Plate Width: 1\"",
+                "Material: Solid Brass",
+                "Select Finish: US3 - Polished Brass",
+                "Select Finish: US5 - Antique Brass",
+                "Select Finish: US10B - Oil Rubbed Bronze",
+                "Select Finish: US15 - Satin Nickel",
+                "Select Finish: US15A - Antique Nickel",
+                "Select Finish: US19 - Matte Black",
+                "Select Finish: US26 - Polished Chrome",
+                "Select Finish: US26D - Brushed Chrome",
+                "Select Finish: CR003 - PVD Lifetime Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US5 - Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15A - Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19 - Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26D - Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CR003 - PVD Lifetime Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

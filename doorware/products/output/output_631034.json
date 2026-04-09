@@ -1,0 +1,110 @@
+{
+    "legacy_product_id": "631034",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Bronze River Rock Rope Hook with Round Mount, Fusion RH-A6",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-RH-A6",
+            "mpn": "FUS-RH-A6",
+            "price": "69.0",
+            "compare_at_price": "69.0",
+            "contractor_price": "51.75",
+            "shipping_weight": "4.0",
+            "tags": [
+                "FUS-RH-A6",
+                "Bronze Round Radius Robe Hooks",
+                "Bronze River Rock Rope Hook with Round Mounts",
+                "Fusion RH-A6",
+                "traditional bathroom robe hooks",
+                "hand towel hooks",
+                "bathroom towel hooks",
+                "bath towel hooks",
+                "Kitchen towel rings",
+                "bathroom stall purse hooks",
+                "towel rings",
+                "towel bars",
+                "coat hooks",
+                "Fusion River Rock Series Bronze Round Radius Robe Hooks",
+                "Bronze River Rock Bathroom Robe Hooks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-RH-A6-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-RH-A6-525.jpg?v=1711365516"
+        },
+        "text": {
+            "description_html": "<b>Fusion RH-A6, Bronze River Rock Bathroom Robe Hook</b>\r\n\r\n<p>\r\nWhen it comes to traditional style, Fusion Hardware is not easily out-staged. They have a firm grasp on what traditional hardware is in essence: beautiful shapes, classic finishes, and designs that are both arresting and have a sense of timelessness. The Bronze River Rock Rope Hook with Round Mount is all of this. Easy to install, it comes with all the necessary mounting hardware. Choose from either medium bronze or dark bronze finishes.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/river-rock-round-mount-toilet-paper-holder-fusion-ph-a6\"><b>Fusion PH-A6 Bronze River Rock Toilet Paper Holder</b></a>, <a href=\"/products/round-mount-bronze-towel-bar-fusion-tb-a6\"><b>Fusion TB-A6 Bronze River Rock Towel Bar</b></a>, and <a href=\"/products/round-mount-river-rock-towel-ring-fusion-tr-a6\"><b>Fusion TR-A6 Bronze River Rock Towel Ring</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Fusion River Rock Series Bronze Round Radius Robe Hook:\r\n<ul>\r\n<li>Mount Diameter: 3\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Bronze River Rock Rope Hook with Round Mount, Fusion RH-A6",
+                "description": "Fusion RH-A6, Bronze River Rock Rope Hook with Round Mount - When it comes to traditional style, Fusion Hardware is not easily out-staged. They have a firm grasp on what traditional hardware is in essence: beautiful shapes, classic finishes, and designs that are both arresting and have a sense of timelessness. The Bronze River Rock Rope Hook with Round Mount is all of this. Easy to install, it comes with all the necessary mounting hardware. Choose from either medium bronze or dark bronze finishes.",
+                "keywords": "FUS-RH-A6, Bronze Round Radius Robe Hooks, Bronze River Rock Rope Hook with Round Mounts, Fusion RH-A6, traditional bathroom robe hooks, hand towel hooks, bathroom towel hooks, bath towel hooks, Kitchen towel rings, bathroom stall purse hooks, towel rings, towel bars, coat hooks, Fusion River Rock Series Bronze Round Radius Robe Hooks, Bronze River Rock Bathroom Robe Hooks,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "31452",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "13355",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "319971",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "601117",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "558845",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MXB - Medium Bronze",
+                "Select Finish: DKB - Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MXB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DKB - Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

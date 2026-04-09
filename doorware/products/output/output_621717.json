@@ -1,0 +1,125 @@
+{
+    "legacy_product_id": "621717",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Aluminum Saddle Threshold, PEM-270A",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "PEM-270A",
+            "mpn": "PEM-270A",
+            "price": "28.0",
+            "compare_at_price": "28.08",
+            "contractor_price": "28.0",
+            "shipping_weight": "25.0",
+            "tags": [
+                "Aluminum Saddle Thresholds",
+                "Aluminum Saddle Threshold",
+                "PEM-270A",
+                "PEM-270A",
+                "Pemko 270_ Saddle Thresholds"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PEM-270-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PEM-270-525.jpg?v=1717106186"
+        },
+        "text": {
+            "description_html": "<b>Pemko 270A , Aluminum Saddle Threshold</b>\r\n\r\n<p>\r\nThis is a Pemko 270 Saddle Threshold. It is 4 inches wide with a 1/4 inch hight. Choose your length. \r\n</p>\r\n\r\n<p>\r\nField sizable, non-handed.  Packaged with installation screws.\r\n</p>\r\n<p>\r\n<b>Specifications</b> for Pemko 270Ax Door Threshold\r\n<ul>\r\n<li>Finish: Clear Powder Coated</li>\r\n<li>Height: 1/4\"</li>\r\n<li>Width: 4\"</li>\r\n<li>Material: Aluminum</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Aluminum Saddle Threshold, PEM-270A",
+                "description": "This is a Pemko 270 Saddle Threshold. It is 4 inches wide with a 1/4 inch hight. Choose your length. ",
+                "keywords": "Aluminum Saddle Thresholds, Aluminum Saddle Threshold, PEM-270A, PEM-270A, Pemko 270_ Saddle Thresholds,"
+            },
+            "specifications": [
+                {
+                    "key": "Finish",
+                    "value": "Clear Powder Coated"
+                },
+                {
+                    "key": "Height",
+                    "value": "1/4\""
+                },
+                {
+                    "key": "Width",
+                    "value": "4\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Aluminum"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Pemko",
+                    "sort": "17"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "969148",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "969105",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "969135",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "968788",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Finish: Clear Powder Coated",
+                "Height: 1/4\"",
+                "Width: 4\"",
+                "Material: Aluminum",
+                "Select Length: 36in. Length",
+                "Select Length: 72in. Length",
+                "Select Length: 96in. Length"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "36in. Length",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "72in. Length",
+                    "price_impact": 28.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "96in. Length",
+                    "price_impact": 126.3,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

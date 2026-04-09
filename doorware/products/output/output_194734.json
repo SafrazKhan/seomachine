@@ -1,0 +1,116 @@
+{
+    "legacy_product_id": "194734",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "8 Inch Sonoma Appliance Pull, Fusion GRB-909",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-GRB-909",
+            "mpn": "FUS-GRB-909",
+            "price": "89.0",
+            "compare_at_price": "89.0",
+            "contractor_price": "66.75",
+            "shipping_weight": "2.0",
+            "tags": [
+                "FUS-GRB-909",
+                "Fusion sonoma grabs",
+                "fusion hardware sonoma appliance pulls",
+                "solid bronze refrigerator pulls",
+                "fusion hardware sonoma collection",
+                "sonoma door grabs",
+                "fusion grb-909",
+                "fusion hardware 8 inch appliance pulls",
+                "traditional appliance pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/grb909-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/grb909-525.jpg?v=1711365194"
+        },
+        "text": {
+            "description_html": "<b>Fusion GRB-909, Sonoma 8 Inch Door Grab</b>\r\n\r\n<p>\r\nFusion Hardware's Sonoma Appliance Pull features a thick squared handle and matching brackets for the rustic, Northern Italy appearance that has become the trademark style of the Sonoma wine country. It is made out of solid brass and is available in medium bronze, oil rubbed bronze, or antique pewter finishes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the 8\" Sonoma Pull:\r\n<ul>\r\n<li>Length: 8\" center to center</li>\r\n<li>Material: solid brass</li>\r\n<li>Packaged with appliance panel mounting screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>",
+            "seo": {
+                "title": "8 Inch Sonoma Appliance Pull, Fusion GRB-909",
+                "description": "Fusion GRB-909, Sonoma 8 Inch Door Grab - Fusion Hardware's Sonoma Appliance Pull features a thick squared handle and matching brackets for the rustic, Northern Italy appearance that has become the trademark style of the Sonoma wine country. It is made out of solid brass and is available in medium bronze, oil rubbed bronze, or antique pewter finishes.\r\n",
+                "keywords": "FUS-GRB-909, Fusion sonoma grabs, fusion hardware sonoma appliance pulls, solid bronze refrigerator pulls, fusion hardware sonoma collection, sonoma door grabs, fusion grb-909, fusion hardware 8 inch appliance pulls, traditional appliance pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion-MISC-Discontinued",
+                    "sort": "43"
+                },
+                {
+                    "name": "Fusion Large Pulls",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "194731",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "6007",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "89700",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "89706",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "192859",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: GRB-909-MDB: Medium Bronze",
+                "Select Finish: GRB-909-ORB: Oil Rubbed Bronze",
+                "Select Finish: GRB-909-ATP: Antique Pewter"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GRB-909-MDB: Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRB-909-ORB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRB-909-ATP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

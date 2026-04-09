@@ -1,0 +1,91 @@
+{
+    "legacy_product_id": "964552",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Cameron Knob Interior Single Cylinder Handleset Trim, Kwikset 966CN",
+            "vendor": "Kwikset",
+            "status": "ARCHIVED",
+            "sku": "KWI-966CN",
+            "mpn": "KWI-966CN",
+            "price": "62.2",
+            "compare_at_price": "62.2",
+            "contractor_price": "62.2",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Cameron Knob Interior Single Cylinder Handleset Trims",
+                "Single Cylinder Interior Trims",
+                "KWI-966CN",
+                "Kwikset 966CN"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/KWI-966CN-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/KWI-966CN-525.jpg?v=1716427264"
+        },
+        "text": {
+            "description_html": "<b>Kwikset 966CN, Single Cylinder Cameron Knob Replacement Interior Trim</b>\r\n\r\n<p>\r\nThis is a Interior Trim Replacement with Cameron Knob. The Cameron Knob Single Cylinder Interior Trim delivers elegant style by evoking a sense of the past. With traditional style, the Kwikset 966CN Cameron Knob with Thumbturns is a great addition to classic homes. Packaged as interior trim only.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Kwikset Cameron Knob Interior Trim  Set:\r\n<ul>\r\n<li>Rose Diameter: 2-5/8\"</li>\r\n<li>Knob Diameter: 2-5/8\"</li>\r\n<li>Knob Projection: 3\"</li>\r\n<li>Deadbolt to Latch Spacing: 5-1/2\" center to center</li>\r\n<li>Non-handed knobs.</li>\r\n<li>Concealed screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nSpecial Ordered Item. <b>No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "Cameron Knob Interior Single Cylinder Handleset Trim",
+                "description": "This is a Interior Trim Replacement with Cameron Knob. The Cameron Knob Single Cylinder Interior Trim delivers elegant style by evoking a sense of the past. With traditional style, the Kwikset 966CN Cameron Knob with Thumbturns is a great addition to classic homes. Packaged as interior trim only.",
+                "keywords": "Cameron Knob Interior Single Cylinder Handleset Trims, Single Cylinder Interior Trims, KWI-966CN, Kwikset 966CN"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Kwikset Parts",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "9802",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "10018",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "943886",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "943963",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "139852",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

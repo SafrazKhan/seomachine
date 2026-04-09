@@ -1,0 +1,155 @@
+{
+    "legacy_product_id": "540086",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin Estates Egg Knob, BAL-5025",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-5025",
+            "mpn": "BAL-5025",
+            "price": "128.0",
+            "compare_at_price": "128.0",
+            "contractor_price": "128.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Baldwin Estates Egg Knob",
+                "BAL-5025"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/5025-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/5025-5251.jpg?v=1711365481"
+        },
+        "text": {
+            "description_html": "<b>Baldwin Estates Egg Knob, BAL-5025</b>\r\n\r\n<p>This solid brass egg knobset made by Baldwin has a simple design that makes it perfect for almost any style home. It is made by Baldwin out of solid brass, you know that it is made with attention to both style and quality.</p>\r\n\r\n\r\n<p><b>Specifications</b> of the Solid Brass Egg Knob:\r\n<ul>\r\n<li>Material:  Solid Brass</li>\r\n<li>Knob Length: 2-1/2\"</li>\r\n<li>Knob Width: 1-1/2\"</li>\r\n<li>Overall Projection: 2.25\"</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Baldwin Estates Egg Knob, BAL-5025",
+                "description": "Baldwin Estates Egg Knob, BAL-5025",
+                "keywords": "Baldwin Estates Egg Knob, BAL-5025"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Knob Length",
+                    "value": "2-1/2\""
+                },
+                {
+                    "key": "Knob Width",
+                    "value": "1-1/2\""
+                },
+                {
+                    "key": "Overall Projection",
+                    "value": "2.25\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Baldwin Discontinued",
+                    "sort": "169"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Knob Length: 2-1/2\"",
+                "Knob Width: 1-1/2\"",
+                "Overall Projection: 2.25\"",
+                "Select Finish: 003: PVD Polished Brass",
+                "Select Finish: 102: Oil Rubbed Bronze",
+                "Select Finish: 112: Venetian Bronze",
+                "Select Finish: 260: Polished Chrome",
+                "Select Finish: 055: PVD Polished Nickel",
+                "Select Finish: 056: PVD Satin Nickel",
+                "Select Knob Type: 5025.xxx.IMR: Individual Minus Rose",
+                "Select Knob Type: 5025.xxx.MR: Pair Minus Rose"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "003: PVD Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "003-"
+                },
+                {
+                    "value": "102: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "102-"
+                },
+                {
+                    "value": "112: Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "112-"
+                },
+                {
+                    "value": "260: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "055: PVD Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "056: PVD Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Knob Type",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "5025.xxx.IMR: Individual Minus Rose ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5025.xxx.MR: Pair Minus Rose ",
+                    "price_impact": 70.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "legacy_product_id": "552889",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Two Leaves Cabinet Pull, RK International CP-402",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CP-402",
+            "mpn": "RKI-CP-402",
+            "price": "14.99",
+            "compare_at_price": "18.59",
+            "contractor_price": "14.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RK International Two Leaf Pulls",
+                "RK International CP-402",
+                "Two Leaves Cabinet Pulls",
+                "3\" Leaf Cabinet Pulls",
+                "RKI-CP-402"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CP-402-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CP-402-525.jpg?v=1716424402"
+        },
+        "text": {
+            "description_html": "<b>RK International CP-402, 3\" Leaf Cabinet Pull</b>\r\n\r\n<p>\r\nA great finishing touch to any piece, the Fancy Leaf furniture pull will bring a beautiful touch of nature inside. It has a sense of movement from the artistic design that elevates it above the ordinary. The Two Leaves Cabinet Pull is available in 6 finishes including antique english (pictured) and satin nickel; and it comes packaged with the necessary mounting hardware.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching <a href=\"/products/leaf-cabinet-knob-rk-international-ck-202\"><b>CK-202 Leaf Cabinet Knob</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CP-402 Leaf Shaped Cabinet Hardware:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 4-3/8\"</li>\r\n<li>Width: 1-1/16\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/norton-closer-arms.jpg?v=1704354564\" width=\"599\" height=\"123\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Two Leaves Cabinet Pull",
+                "description": "RK International CP-402, Two Leaves Cabinet Pull - A great finishing touch to any piece, the Fancy Leaf furniture pull will bring a beautiful touch of nature inside. It has a sense of movement from the artistic design that elevates it above the ordinary. The Two Leaves Cabinet Pull is available in 6 finishes including antique english (pictured) and satin nickel; and it comes packaged with the necessary mounting hardware.",
+                "keywords": "RK International Two Leaf Pulls, RK International CP-402, Two Leaves Cabinet Pulls, 3\" Leaf Cabinet Pulls, RKI-CP-402"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Pulls and Flush Pulls",
+                    "sort": "4"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "176121",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "176115",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "302462",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "552469",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "552490",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "66430",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "42886",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "1035690",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "901462",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: AE: Antique English",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: B: Polished Brass",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "legacy_product_id": "684977",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "European Backplate, AHI SIG245-630",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-SIG245-plates",
+            "mpn": "AHI-SIG245-plates",
+            "price": "80.0",
+            "compare_at_price": "115.0",
+            "contractor_price": "80.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Modern European Backplates",
+                "AHI SIG245-630",
+                "Interior European Backplates",
+                "AHI-SIG245-630",
+                "Modern European Plates",
+                "Modern Interior European Plates",
+                "AHI-SIG245-plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AHI-SIG245-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-SIG245-525.jpg?v=1717106216"
+        },
+        "text": {
+            "description_html": "<b>AHI SIG245-630, Modern Interior European Plate</b>\r\n\r\n<p>\r\nThe AHI SIG245-630 comes packaged with just the plates and the installation hardware. It is made out of solid stainless steel with a satin stainless steel finish. \r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-SIG245-dimentions.gif?v=1704442281\" width=\"377\" height=\"306\" border=\"0\" alt=\"AHI SIG245-630 Specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Modern European Plates:\r\n<ul>\r\n<li>Material: Stainless Steel</li>\r\n<li>Finish: Satin Stainless Steel</li>\r\n<li>Backset:  50mm</li>\r\n<li>Plate Length: 9-11/16\"</li>\r\n<li>Plate Width: 1-7/8\"</li>\r\n<li>Plate Thickness: 1/4\"</li>\r\n<li>Length From Top of Plate to Center of Lever Cut-Out: 3-7/16\"</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<b>When Selecting a Function:</b>\r\n<ul>\r\n<li><b>Single Dummy:</b> Trim is on one side of door. Comes packaged with 1 trim plate only.</li>\r\n<li><b>Passage (hall or closet):</b> Comes packaged with exterior and interior trim plates,.</li></ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold individually. AHI backplates only, no levers and only installation screws included. </i>\r\n</p>",
+            "seo": {
+                "title": "European Backplate, AHI SIG245-630",
+                "description": "AHI SIG245-630, Interior European Backplate - The AHI SIG245-630 comes packaged with just the plates. It is made out of solid stainless steel with a satin stainless steel finish.",
+                "keywords": "Modern European Backplates, AHI SIG245-630, Interior European Backplates, AHI-SIG245-630,  Modern European Plates, Modern Interior European Plates, AHI-SIG245-plates"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "AHI-Discontinued-and-Custom",
+                    "sort": "47"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "261995",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "44125",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "267086",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "42544",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "262521",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "179257",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "378801",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Function: AHI-SIG245-SD-630 - Single Dummy",
+                "Select Function: AHI-SIG245-91-630 -  Passage"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AHI-SIG245-SD-630 - Single Dummy",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AHI-SIG245-91-630 -  Passage",
+                    "price_impact": 90.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

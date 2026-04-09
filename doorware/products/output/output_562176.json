@@ -1,0 +1,138 @@
+{
+    "legacy_product_id": "562176",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Cheetah Spot Cabinet Knob, RK International CK-9312",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-9312",
+            "mpn": "RKI-CK-9312",
+            "price": "12.99",
+            "compare_at_price": "15.18",
+            "contractor_price": "12.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Egg Knob With Decorative Holes",
+                "Cheetah Spot Cabinet Knobs",
+                "RK International CK-9312",
+                "RK International slim egg knob with divet indents",
+                "rustic cabinet hardware",
+                "jungle decorating",
+                "animal print decorating"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-9312-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-9312-525.jpg?v=1716424523"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-9312, Raised Beading Cabinet Knob</b>\r\n\r\n<p>\r\nJust like the animal after which this pull is named, the Cheetah Spot Cabinet Knob is covered in spots. These spots really bring out the wild side of this RK International made knob, making it the ideal choice for people who love big cats. It is available in 5 finishes, all of which really accentuate the decorative indents. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-9312 Slim Egg Knob with Indents:\r\n<ul>\r\n<li>Length: 1-3/8</li>\r\n<li>Width: 11/16\"</li>\r\n<li>Projection: 1-5/16\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MUL-T-LOCK-G55G1_size.gif?v=1704354738\" width=\"600\" height=\"146\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Cheetah Spot Cabinet Knob",
+                "description": "RK International CK-9312, Cheetah Spot Cabinet Knob - Just like the animal after which this pull is named, the Cheetah Spot Cabinet Knob is covered in spots. These spots really bring out the wild side of this RK International made knob, making it the ideal choice for people who love big cats. It is available in 5 finishes, all of which really accentuate the decorative indents.",
+                "keywords": "Egg Knob With Decorative Holes, Cheetah Spot Cabinet Knobs, RK International CK-9312, RK International slim egg knob with divet indents, rustic cabinet hardware, jungle decorating, animal print decorating,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "10"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "878241",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "569024",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "556482",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "555656",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "803487",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "438727",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "562087",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: RB: Oil Rubbed Bonze",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: DN: Distressed Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RB: Oil Rubbed Bonze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

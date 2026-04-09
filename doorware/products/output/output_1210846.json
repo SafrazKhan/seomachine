@@ -1,0 +1,105 @@
+{
+    "legacy_product_id": "1210846",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3 Ft Vertical Rod Exit Device Extension Rod, PDQ 631212-36EXT",
+            "vendor": "PDQ",
+            "status": "ACTIVE",
+            "sku": "PDQ 631212-36EXT",
+            "mpn": "PDQ 631212-36EXT",
+            "price": "55.0",
+            "compare_at_price": "55.0",
+            "contractor_price": "55.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "PDQ 631212-36EXT Vertical Rod Exit Device Extension Rod",
+                "PDQ 631212-36EXT 3 Foot Extension Rods",
+                "10 foot tall door Vertical Rod Exit Devices",
+                "tall door Vertical Rods"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525261.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525261.gif?v=1716428961"
+        },
+        "text": {
+            "description_html": "<b>3 Foot Vertical Rod Exit Device Extension Rod</b>\r\n<p>\r\n3 foot extension rod for use with <a href=\"/products/heavy-duty-surface-vertical-rod-exit-device-for-30-36-inch-door-pdq-6300v\"><b>PDQ 6300 Series Vertical Rod Exit Device</b></a>, and <a href=\"/products/heavy-duty-polished-brass-vertical-rod-exit-device-for-30-36-inch-door-pdq-6300v605\"><b>PDQ 6300 Polished Brass Vertical Rod Exit Device</b></a>. \r\n </a>\r\n</p>\r\n<p>\r\n<b>Specifications</b> for PDQ 631212-36EXT Extension Rod\r\n<ul>\r\n<li>Total Length: 36-1/2\"</li>\r\n<li>Rod Extension Length: 36\" (3 ft)</li>\r\n\r\n\r\n</ul>\r\n</p>\r\n<p>\r\nThis rod extends the top vertical bar for doors that are up to 10 feet tall. Up to 3 foot of extension. Field sizeable (cut to length as needed).\r\n</p>",
+            "seo": {
+                "title": "3 Ft Vertical Rod Exit Device Extension Rod, PDQ 631212-36EXT",
+                "description": "PDQ 631212-36EXT 3 foot extension rod for use with PDQ 6300 Series Vertical Rod Exit Device. Rod extends the top vertical bar for doors that are up to 10 feet tall.",
+                "keywords": "PDQ 631212-36EXT Vertical Rod Exit Device Extension Rod, PDQ 631212-36EXT 3 Foot Extension Rods, 10 foot tall door Vertical Rod Exit Devices, tall door Vertical Rods,"
+            },
+            "specifications": [
+                {
+                    "key": "Total Length",
+                    "value": "36-1/2\""
+                },
+                {
+                    "key": "Rod Extension Length",
+                    "value": "36\" (3 ft)"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "PDQ Exit Devices",
+                    "sort": "202"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Total Length: 36-1/2\"",
+                "Rod Extension Length: 36\" (3 ft)",
+                "Select Finish: 631212-36EXT-689: Aluminum",
+                "Select Finish: 631212-36EXT-695: Dark Bronze",
+                "Select Finish: 631212-36EXT-605: Polished Brass",
+                "Select Finish: 631212-36EXT-630: Satin Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "631212-36EXT-689: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "631212-36EXT-695: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "631212-36EXT-605: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "631212-36EXT-630: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

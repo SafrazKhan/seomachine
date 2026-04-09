@@ -1,0 +1,109 @@
+{
+    "legacy_product_id": "634181",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Blacksmith Hand Towel Ring, Fusion TR-E2",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-TR-E2",
+            "mpn": "FUS-TR-E2",
+            "price": "89.0",
+            "compare_at_price": "89.0",
+            "contractor_price": "66.75",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Blacksmith Series Towel Rings",
+                "FUS-TR-E2",
+                "Fusion TR-E2",
+                "Blacksmith Hand Towel Rings",
+                "Blacksmith Trim Towel Rings",
+                "Blacksmith Hand Towel Ring"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-TR-E2-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-TR-E2-525.jpg?v=1711365522"
+        },
+        "text": {
+            "description_html": "<b>Fusion TR-E2, Blacksmith Towel Ring</b>\r\n\r\n<p>\r\nThe Blacksmith Hand Towel Ring is a great way to keep those towels off the floor and out of the sink. It is very easy to install and comes with all the necessary mounting hardware. We like the Blacksmith Towel Ring for its interesting style that is modern without being square and chrome (if you have been looking for bathroom hardware lately you know what we mean). Choose from antique copper, antique pewter, or oil rubbed bronze finishes\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/blacksmith-trim-towel-bar-fusion-tb-e2\"><b>Fusion TB-E2 Blacksmith Towel Bar</b></a>, \r\n<a href=\"/products/blacksmith-toilet-paper-holder-fusion-ph-e2\"><b>Fusion PH-E2 Blacksmith Toilet Paper Holder</b></a>, and\r\n<a href=\"/products/blacksmith-robe-hook-fusion-rh-e2\"><b>Fusion RH-E2 Blacksmith Robe Hook</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Blacksmith Series Towel Ring:\r\n<ul>\r\n<li>Mount Length: 4\"</li>\r\n<li>Mount Width: 2-3/4\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Blacksmith Hand Towel Ring, Fusion TR-E2",
+                "description": "Fusion TR-E2 Blacksmith Hand Towel Ring - The Blacksmith Hand Towel Ring is a great way to keep those towels off the floor and out of the sink. It is very easy to install and comes with all the necessary mounting hardware. We like the Blacksmith Towel Ring for its interesting style that is modern without being square and chrome (if you have been looking for bathroom hardware lately you know what we mean). Choose from antique copper, antique pewter, or oil rubbed bronze finishes",
+                "keywords": "Blacksmith Series Towel Rings, FUS-TR-E2, Fusion TR-E2, Blacksmith Hand Towel Rings, Blacksmith Trim Towel Rings, Blacksmith Hand Towel Ring"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "20"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "383193",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "396573",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "630554",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "187079",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "384874",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: ATP - Antique Pewter",
+                "Select Finish: ATC - Antique Copper",
+                "Select Finish: ORB - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ATP - Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ATC - Antique Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

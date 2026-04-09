@@ -1,0 +1,110 @@
+{
+    "legacy_product_id": "309306",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Modern Cylinder Shower Door Stop, First Impressions  SDS3/8x1.5/1",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-SDS3/8x1",
+            "mpn": "FII-SDS3/8x1",
+            "price": "23.0",
+            "compare_at_price": "28.85",
+            "contractor_price": "21.85",
+            "shipping_weight": "0.2",
+            "tags": [
+                "Modern Floor Door Stops",
+                "First Impressions 1295 cylinder Style Floor Door Stops",
+                "modern door stops",
+                "universal floor mounted door stops",
+                "wood door bumper",
+                "wood door stops",
+                "steel door bumpers",
+                "steel door stops",
+                "doorstops",
+                "door dampers",
+                "rubber door stops",
+                "door stoppers",
+                "First Impressions doorstoppers",
+                "wooden door stops",
+                "shower door stops"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>First Impressions  SDS3/8x1\" Cylinder Style Shower Door Stop </b>\r\n<p>\r\nThis cylinder style upright shower door stop is very easy to install. Packaged with a mounting anchor and rubber bumper ring.\r\n</p>\r\nSleek, clean looking, and great protection for your shower door hardware and walls.\r\n</p>\r\n<p>\r\nOnly 1 hole to drill for fast easy installation. The rubber bumper ring goes all the way around the door stop, allowing you to install it just about anywhere on the floor for door contact. \r\n</p>\r\n<p>\r\n<b>Specifications</b> of First Impressions SDS3/8x1 Shower Door Stop\r\n<ul>\r\n<li>Diameter: 3/8\"</li>\r\n<li>Base to Bumper Center Height: 1\"</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Rubber Bumper: Black</li>\r\n<li>Includes Mounting Hardware</li>\r\n<li>Available in Satin Nickel or Polished Chrome finish</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Modern Cylinder Shower Door Stop, First Impressions  SDS3/8x1.5/1",
+                "description": "First Impressions Cylindrical Shower Door Stop. Dome Style Floor Door Stop. Unique cylindrical spaceship looking modern style floor mount door stops. Available in Polished Chrome or Satin Nickel finish.",
+                "keywords": "Modern Floor Door Stops, First Impressions 1295 cylinder Style Floor Door Stops, modern door stops, universal floor mounted door stops, wood door bumper, wood door stops, steel door bumpers, steel door stops,  doorstops, door dampers,  rubber door stops, door stoppers, First Impressions doorstoppers, wooden door stops, shower door stops"
+            },
+            "specifications": [
+                {
+                    "key": "Diameter",
+                    "value": "3/8\""
+                },
+                {
+                    "key": "Base to Bumper Center Height",
+                    "value": "1\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Rubber Bumper",
+                    "value": "Black"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Decorative Door Stops",
+                    "sort": "32"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Diameter: 3/8\"",
+                "Base to Bumper Center Height: 1\"",
+                "Material: Solid Brass",
+                "Rubber Bumper: Black",
+                "Select Finish: FII-SDS3/8x1-US26 - Polished Chrome",
+                "Select Finish: FII-SDS3/8x1-US15 - Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-SDS3/8x1-US26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-SDS3/8x1-US15 - Satin Nickel",
+                    "price_impact": 1.75,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

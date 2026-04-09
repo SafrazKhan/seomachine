@@ -1,0 +1,111 @@
+{
+    "legacy_product_id": "554088",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Flower Porcelain Cabinet Knob, RK International CK-322",
+            "vendor": "RKI ",
+            "status": "ARCHIVED",
+            "sku": "RKI-CK-322",
+            "mpn": "RKI-CK-322",
+            "price": "11.2",
+            "compare_at_price": "14.0",
+            "contractor_price": "10.64",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Fancy Floral White Porcelain Cabinet Knobs",
+                "Flower Porcelain Cabinet Knobs",
+                "RK International CK-322",
+                "RKI-CK-322",
+                "floral cabinet knobs",
+                "flowery knob with brass tip lines",
+                "retro hardware",
+                "60's decor"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-322-526.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-322-526.jpg?v=1716424415"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-322, Fancy Floral White Porcelain Cabinet Knob</b>\r\n\r\n<p>\r\nHighlight your funky retro flair with this Flower Porcelain Cabinet Knob made by RK International. The shape is reminiscent of the 1960's; and the gold detailing ramp up the glitz and glamor of this white porcelain knob. The base is available in polished brass, satin nickel, and oil rubbed bronze.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching <a href=\"/products/white-porcelain-flower-bail-pull-with-brass-lines-rk-international-cp-352\"><b>CP-352 White Porcelain Flower Cabinet Pull with Brass Lines</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-322 Porcelain Floral Cabinet Hardware:\r\n<ul>\r\n<li>Material: porcelain with some brass</li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 9/16\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Flower Porcelain Cabinet Knob",
+                "description": "RK International CK-322, Flower Porcelain Cabinet Knob - Highlight your funky retro flair with this Flower Porcelain Cabinet Knob made by RK International. The shape is reminiscent of the 1960's; and the gold detailing ramp up the glitz and glamor of this white porcelain knob. The base is available in polished brass, satin nickel, and oil rubbed bronze.",
+                "keywords": "Fancy Floral White Porcelain Cabinet Knobs, Flower Porcelain Cabinet Knobs, RK International CK-322, RKI-CK-322, floral cabinet knobs, flowery knob with brass tip lines, retro hardware, 60's decor,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK-discontuned",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "43356",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "41380",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "302462",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "551820",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "253857",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Rosette Finish: P: Satin Nickel",
+                "Select Rosette Finish: B: Polished Brass",
+                "Select Rosette Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Rosette Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

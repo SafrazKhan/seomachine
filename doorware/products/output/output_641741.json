@@ -1,0 +1,76 @@
+{
+    "legacy_product_id": "641741",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Top Surface Vertical Rod for 4200V Exit Device",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PDQ-429020",
+            "mpn": "PDQ-429020",
+            "price": "34.0",
+            "compare_at_price": "41.0",
+            "contractor_price": "34.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Top Surface Vertical Rod for 4200V Exit Device",
+                "PDQ-629020"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/special_order-19549.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/special_order-19549.jpg?v=1769505109"
+        },
+        "text": {
+            "description_html": "<b>Top Surface Vertical Rod for 4200V Exit Device</b>\r\n\r\n<p>\r\nReplacement top vertical rod for <a href=\"/products/grade-1-commercial-vertical-rod-exit-device-for-30-36-inch-door-pdq-4200v\">PDQ 4200V surface vertical rod exit device</a>.\r\n</p>",
+            "seo": {
+                "title": "Top Surface Vertical Rod for 4200V Exit Device",
+                "description": "Top Surface Vertical Rod for 4200V Exit Device, PDQ-629020",
+                "keywords": "Top Surface Vertical Rod for 4200V Exit Device, PDQ-629020"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Misc Hardware",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Add Top Latch?: No Thanks",
+                "Add Top Latch?: Yes - 429011-12"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Add Top Latch?",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "No Thanks",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Yes - 429011-12",
+                    "price_impact": 47.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

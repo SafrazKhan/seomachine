@@ -1,0 +1,102 @@
+{
+    "legacy_product_id": "441707",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Colored Leaf Ceramic Knob, Acorn PSKYP",
+            "vendor": "Acorn",
+            "status": "ARCHIVED",
+            "sku": "ACO-PSKYP",
+            "mpn": "ACO-PSKYP",
+            "price": "15.48",
+            "compare_at_price": "19.35",
+            "contractor_price": "14.71",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Yellow With Light Green Leaves Small Square Ceramic Knob",
+                "Dark Blue With Light Green Leaves Small Square Ceramic Knobs",
+                "Acorn PSMYP",
+                "Acorn PSKYP",
+                "ACO-PSKYP",
+                "Hand Painted Colored Leaf Ceramic Knobs",
+                "leaf cabinet knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ACO-PSKYP-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-PSKYP-525.jpg?v=1716424019"
+        },
+        "text": {
+            "description_html": "<b>Acorn PSKYP, Hand Painted Colored Leaf Ceramic Knob</b>\r\n\r\n<p>\r\nSometimes brightening up a tired kitchen can be as effortless as changing the cabinet hardware. The Hand Painted Colored Leaf Ceramic Knob is a great way to add a slash of color easily. It is available in either yellow with light green leaves or dark blue with light green leaves. But do not think that these knobs are for just for the kitchen; their color can liven up just about every light weight door. \r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of the Colored Leaf Ceramic Knob:\r\n<ul>\r\n<li>Length: 1-5/16\" squared</li>\r\n<li>Material: ceramic</li>\r\n<li>Each design is hand painted on ceramic.</li>\r\n<li>Package includes 1 knob and hardware for installation.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually. Due to the hand painted nature of this product, the colors will vary slightly.</i>\r\n</p>",
+            "seo": {
+                "title": "Colored Leaf Ceramic Knob, Acorn PSKYP",
+                "description": "Hand Painted Colored Leaf Ceramic Knob Acorn PSKYP - Sometimes brightening up a tired kitchen can be as effortless as changing the cabinet hardware. The Hand Painted Colored Leaf Ceramic Knob is a great way to add a slash of color easily. It is available in either yellow with light green leaves or dark blue with light green leaves. But do not think that these knobs are for just for the kitchen; their color can liven up just about every light weight door.",
+                "keywords": "Yellow With Light Green Leaves Small Square Ceramic Knob, Dark Blue With Light Green Leaves Small Square Ceramic Knobs, Acorn PSMYP, Acorn PSKYP, ACO-PSKYP, Hand Painted Colored Leaf Ceramic Knobs, leaf cabinet knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Acorn Discontinued",
+                    "sort": "16"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "176142",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "441546",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "441602",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "176121",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42886",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Color: PSKYP - Yellow and Light Green Ceramic Knob",
+                "Select Color: PSMYP - Dark Blue and light Green Ceramic Knob"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Color",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PSKYP - Yellow and Light Green Ceramic Knob",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-PSKYP-sm.jpg?v=1774584392",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-PSKYP-lg.jpg?v=1711365475"
+                },
+                {
+                    "value": "PSMYP - Dark Blue and light Green Ceramic Knob",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-PSMYP-sm.jpg?v=1774584399",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-PSMYP-lg.jpg?v=1711365475"
+                }
+            ]
+        }
+    ]
+}

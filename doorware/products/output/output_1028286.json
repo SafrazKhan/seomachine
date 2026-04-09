@@ -1,0 +1,118 @@
+{
+    "legacy_product_id": "1028286",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Warwick Turnpike and Privacy Bolt, Acorn WLHBP",
+            "vendor": "Acorn",
+            "status": "ACTIVE",
+            "sku": "ACO-WLHBP",
+            "mpn": "ACO-WLHBP",
+            "price": "131.12",
+            "compare_at_price": "163.9",
+            "contractor_price": "124.56",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Warwick Turnpike and Privacy Bolts",
+                "Warwick Privacy Bolts",
+                "Acorn WLHBP",
+                "Black Iron Warwick Privacy Bolts",
+                "ACO-WLHBP",
+                "ACO-WLFBP",
+                "Acorn WLFBP"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ACO-WLHBP-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-WLHBP-525.jpg?v=1717106422"
+        },
+        "text": {
+            "description_html": "<b>Acorn WLHBP, Black Iron Warwick Privacy Bolt</b>\r\n\r\n<p>\r\nThe Warwick Turnpike and Privacy Bolt is typically used on bedroom or bathroom doors as a way to add a privacy lock to interior doors. It features a Warwick rose made from rough black iron for an old world looks. The Black Iron Warwick Privacy Bolt comes packaged with a thumb-turn, a strike, and a latch. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Acorn WLHBP Privacy Door Bolt:\r\n<ul>\r\n<li>Finish: <b>Black Iron</b></li>\r\n<li>Spindle and tail pieces: 1-1/2\" long with 3/16\" diamond diameter.</li>\r\n<li>Backset: 2-3/4\" or 2-3/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Will not cover a 2-1/8\" pre-drilled door borehole.</i>\r\n</p>",
+            "seo": {
+                "title": "Warwick Turnpike and Privacy Bolt",
+                "description": "The Warwick Turnpike and Privacy Bolt is typically used on bedroom or bathroom doors as a way to add a privacy lock to interior doors. It features a Warwick rose made from rough black iron for an old world looks. The Black Iron Warwick Privacy Bolt comes packaged with a thumb-turn, a strike, and a latch.",
+                "keywords": "Warwick Turnpike and Privacy Bolts, Warwick Privacy Bolts, Acorn WLHBP, Black Iron Warwick Privacy Bolts, ACO-WLHBP, ACO-WLFBP, Acorn WLFBP"
+            },
+            "specifications": [
+                {
+                    "key": "Finish",
+                    "value": "Black Iron"
+                },
+                {
+                    "key": "Spindle and tail pieces",
+                    "value": "1-1/2\" long with 3/16\" diamond diameter."
+                },
+                {
+                    "key": "Backset",
+                    "value": "2-3/4\" or 2-3/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Acorn Latches, Locks, and Bolts",
+                    "sort": "23"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "822756",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "444194",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "812190",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "29821",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "443832",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Finish: Black Iron",
+                "Spindle and tail pieces: 1-1/2\" long with 3/16\" diamond diameter.",
+                "Backset: 2-3/4\" or 2-3/8\"",
+                "Select Backset: WLFBP: 2-3/4in. Backset",
+                "Select Backset: WLHBP: 2-3/8in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "WLFBP: 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "WLHBP: 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "legacy_product_id": "1038363",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Glendon Cabinet Knob, Emtek 86463",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-86463",
+            "mpn": "EMT-86463",
+            "price": "12.99",
+            "compare_at_price": "16.0",
+            "contractor_price": "12.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Emtek Glendon Knobs",
+                "Glendon Cabinet Knobs",
+                "Emtek 86463",
+                "Emtek 86464",
+                "transitional Heritage cabinet knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86463-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86463-525.jpg?v=1716427845"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86463, Cabinet Glendon Knob</b>\r\n\r\n<p>\r\nIf you are looking for cabinet hardware that will introduce a since of style and movement to your space, the Glendon Cabinet Knob is just what you need. This stylish, transitional cabinet knob is available in 2 sizes. Choose from an array of beautiful finish colors. The cabinet Glendon Knob comes packaged with mounting hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Emtek Glendon Cabinet Knob:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86463-specifications.pdf?v=1704262414\" target=\"new\"><b>Emtek Glendon Cabinet Knob Specifications (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>86463: Small</b>\r\n<ul>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-1/4\"</li>\r\n</ul>\r\n<br>\r\n<b>86464: Large</b>\r\n<ul>\r\n<li>Diameter: 1-5/8\"</li>\r\n<li>Projection: 1-1/2\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-modern-5-Finishes.jpg?v=1704354501\" width=\"511\" height=\"111\" border=\"0\" alt=\"Emtek Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "Glendon Cabinet Knob",
+                "description": "If you are looking for cabinet hardware that will introduce a since of style and movement to your space, the Glendon Cabinet Knob is just what you need. This stylish, transitional cabinet knob is available in 2 sizes. Choose from an array of beautiful finish colors. The cabinet Glendon Knob comes packaged with mounting hardware.",
+                "keywords": "Emtek Glendon Knobs, Glendon Cabinet Knobs, Emtek 86463, Emtek 86464, transitional Heritage cabinet knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Cabinet Hardware",
+                    "sort": "87"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1023979",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "331550",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "925962",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "906915",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "391374",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1037291",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "882695",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "1038203",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "337417",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "925711",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Size: 86463: Small",
+                "Select Size: 86463: Large",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US4: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "86463: Small",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "86463: Large",
+                    "price_impact": 8.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

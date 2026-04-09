@@ -1,0 +1,88 @@
+{
+    "legacy_product_id": "1099652",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1 Inch Convex Wall Bumper, Ives WS404CVX",
+            "vendor": "Ives",
+            "status": "ARCHIVED",
+            "sku": "IVES-WS404CVX",
+            "mpn": "IVES-WS404CVX",
+            "price": "6.4",
+            "compare_at_price": "8.0",
+            "contractor_price": "6.4",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Ives Convex Wall Stops",
+                "1 Inch Convex Wall Bumpers",
+                "Ives WS404CVX",
+                "IVES-WS404CVX",
+                "Brass Convex Rubber Wall Bumper"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/IVES-WS404-CVX-525 .jpg",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Ives WS404CVX, Convex Rubber Wall Bumper</b>\r\n\r\n<p>\r\nThis 1 Inch Convex Wall Bumper is made by Ives. By mounting the door stop on the wall, and centering it where the door knob makes contact, you can protect both the wall and the knob. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Convex Rubber Wall Bumper:\r\n<ul>\r\n<li>Material: Cast Brass</li>\r\n<li>Base Diameter: 1”</li>\r\n<li>Overall Projection: 17/32”</li>\r\n<li>Packaged with screw and drywall anchor.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i> Special Ordered Item <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "1 Inch Convex Wall Bumper",
+                "description": "This 1 Inch Convex Wall Bumper is made by Ives. By mounting the door stop on the wall, and centering it where the door knob makes contact, you can protect both the wall and the knob.",
+                "keywords": "Ives Convex Wall Stops, 1 Inch Convex Wall Bumpers, Ives WS404CVX, IVES-WS404CVX, Brass Convex Rubber Wall Bumper"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Ives",
+                    "sort": "18"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "6865",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "798727",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "6905",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "6918",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 613: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "613: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

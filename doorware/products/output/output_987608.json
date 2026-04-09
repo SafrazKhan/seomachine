@@ -1,0 +1,89 @@
+{
+    "legacy_product_id": "987608",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "2-3/4 inch UL Square Corner Deadlatch, Kwikset 84292",
+            "vendor": "Kwikset",
+            "status": "ARCHIVED",
+            "sku": "KWI-84292",
+            "mpn": "KWI-84292",
+            "price": "26.4",
+            "compare_at_price": "26.4",
+            "contractor_price": "26.4",
+            "shipping_weight": "0.5",
+            "tags": [
+                "KWI-84292",
+                "2-3/4 inch UL Square Corner Deadlatch",
+                "Kwikset 84292",
+                "2-3/4 Backset UL Listed Deadlatches",
+                "Kwikset Square Corner UL Dead Latches",
+                "Kwickset scdl"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/KWI-84292-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/KWI-84292-525.jpg?v=1716427452"
+        },
+        "text": {
+            "description_html": "<b>Kwikset 84292, 2-3/4 Backset UL Listed Deadlatch</b>\r\n\r\n<p>\r\nThe Kwikset Deadlatch is for use with keyed entry function levers, knobs and handlesets. Includes square corner faceplate.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Kwikset Square Corner UL Dead Latch:\r\n<ul>\r\n<li>Square Corner</li>\r\n<li>UL listed</li>\r\n<li>Backset: 2-3/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "2-3/4 inch UL Square Corner Deadlatch",
+                "description": "The Kwikset Deadlatch is for use with keyed entry function levers, knobs and handlesets. Includes square corner faceplate.",
+                "keywords": "KWI-84292, 2-3/4 inch UL Square Corner Deadlatch, Kwikset 84292, 2-3/4 Backset UL Listed Deadlatches, Kwikset Square Corner UL Dead Latches, Kwickset scdl"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Kwikset Parts",
+                    "sort": "15"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "260609",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "335504",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "353918",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "283615",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US3: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

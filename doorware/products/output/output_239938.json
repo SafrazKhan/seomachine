@@ -1,0 +1,191 @@
+{
+    "legacy_product_id": "239938",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Gothic Decorative Pull Plate, Brass Accents A04-P5601",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "BRA-A04-P5601-CLN",
+            "mpn": "BRA-A04-P5601-CLN",
+            "price": "199.95",
+            "compare_at_price": "251.0",
+            "contractor_price": "190.0",
+            "shipping_weight": "4.5",
+            "tags": [
+                "BRA-A04-P5601 Decorative Gothic Door Pull Plates",
+                "Decorative Pull Plates",
+                "Brass Accents Gothic Pull Plates",
+                "Brass Accents A04-P5601 Solid Brass Decorative Gothic Pull Plate 3-3/8 x 16",
+                "Brass Accents Renaissance Collection door hardware sets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BRA-A04-P5601-gothic-pull_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BRA-A04-P5601-gothic-pull_525.jpg?v=1716422351"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents Decorative Gothic Door Pull Plate 3-3/8\" Wide x 16\" High</b>\r\n\r\n<p>\r\nThis decorative Gothic pull plate from the Brass Accents Renaissance Collection. Highly detailed solid cast brass styled in a German Gothic design, popular around 1910.\r\n</p>\r\n\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance, hand finished in the USA. They are one of the worlds leading crafters of decorative hot-forged and cast brass door hardware.\r\n</p>\r\n\r\n<p>\r\nAlso available: <b>Matching <a href=\"/products/gothic-decorative-push-plate-brass-accents-a04-p5600\">Decorative Gothic Push Plate</a>\r\n</b>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Brass Accents A04-P5601 Decorative Gothic Pull Plate:\r\n<ul>\r\n<li>Plate Width: 3-3/8\"</li>\r\n<li>Plate Height: 16\"</li>\r\n<li>Pull Handle Length: 7\"</li>\r\n<li>Pull Handle Projection: 2\"</li>\r\n<li>Material: Cast Brass</li>\r\n<li><b>Finish Warranty: 10 Years</b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nComes complete with matching finish mounting screws for easy installation. Hand rubbed and finished in the USA with a 10 year warranty.\r\n</p>",
+            "seo": {
+                "title": "Gothic Decorative Pull Plate, Brass Accents A04-P5601",
+                "description": "Brass Accents A04-P5601 - This decorative Gothic door pull plate from the Brass Accents Renaissance Collection. Highly detailed solid cast brass styled in a German Gothic design, popular around 1910.",
+                "keywords": "BRA-A04-P5601 Decorative Gothic Door Pull Plates, Decorative Pull Plates, Brass Accents Gothic Pull Plates, Brass Accents A04-P5601 Solid Brass Decorative Gothic Pull Plate 3-3/8 x 16, Brass Accents Renaissance Collection door hardware sets,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Width",
+                    "value": "3-3/8\""
+                },
+                {
+                    "key": "Plate Height",
+                    "value": "16\""
+                },
+                {
+                    "key": "Pull Handle Length",
+                    "value": "7\""
+                },
+                {
+                    "key": "Pull Handle Projection",
+                    "value": "2\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Cast Brass"
+                },
+                {
+                    "key": "Finish Warranty",
+                    "value": "10 Years"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Decorative Door Pull and Push Plates",
+                    "sort": "102"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "239296",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "239776",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "239935",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "141721",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "178362",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "235804",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "235597",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "141892",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Plate Width: 3-3/8\"",
+                "Plate Height: 16\"",
+                "Pull Handle Length: 7\"",
+                "Pull Handle Projection: 2\"",
+                "Material: Cast Brass",
+                "Finish Warranty: 10 Years",
+                "Select Finish: Polished Brass",
+                "Select Finish: Antique Brass",
+                "Select Finish: Aged Brass",
+                "Select Finish: Matte Black",
+                "Select Finish: Satin Nickel",
+                "Select Finish: Satin Brass",
+                "Select Finish: Oil Rubbed Bronze",
+                "Select Finish: Venetian Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Aged Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

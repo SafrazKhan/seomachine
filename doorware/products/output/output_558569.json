@@ -1,0 +1,150 @@
+{
+    "legacy_product_id": "558569",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Simple Cabinet Knob, RK International CK-1118",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-1118",
+            "mpn": "RKI-CK-1118",
+            "price": "9.99",
+            "compare_at_price": "11.55",
+            "contractor_price": "9.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RKI-CK-RKI-CK-1118",
+                "1-1/4 Inch Diameter Simple Cabinet Knobs",
+                "Simple Cabinet Knobs",
+                "RK International CK-RKI-CK-1118",
+                "RK International CK-RKI-CK-1118 thin mushroom Knobs",
+                "simple cabinet knobs",
+                "drawer pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-1118-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-1118-525.jpg?v=1716424454"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-1118, 1-1/4 Inch Diameter Simple Cabinet Knob</b>\r\n\r\n<p>\r\nThis RK International made cabinet pull features an easy, screw-on installation. With a 1-1/4 Inch Diameter, this Simple Cabinet Knob is an elegant way to improve the style of any home. What is great about the Simple Cabinet Knob is its classic shape and 7 available finishes to choose from that allow you to be able to add it to most any decor. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-1118 Thin Mushroom Cabinet Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-1/16\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Simple Cabinet Knob",
+                "description": "RK International CK-1118, Simple Cabinet Knob - This RK International made cabinet pull features an easy, screw-on installation. With a 1-1/4 Inch Diameter, this Simple Cabinet Knob is an elegant way to improve the style of any home. What is great about the Simple Cabinet Knob is its classic shape and 7 available finishes to choose from that allow you to be able to add it to most any decor.",
+                "keywords": "RKI-CK-RKI-CK-1118, 1-1/4 Inch Diameter Simple Cabinet Knobs, Simple Cabinet Knobs, RK International CK-RKI-CK-1118, RK International CK-RKI-CK-1118 thin mushroom Knobs, simple cabinet knobs, drawer pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "4"
+                },
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "13787",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "42123",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "59366",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "42914",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42677",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "42182",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: B: Polished Brass",
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: RB: Oil Rubbed Bronze",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: DN: Distressed Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

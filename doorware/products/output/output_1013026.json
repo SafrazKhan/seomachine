@@ -1,0 +1,98 @@
+{
+    "legacy_product_id": "1013026",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Salem Lever with Netropol Rose, Brass Accents  D07-L150X-SLP",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "BRA-D07-L150X-SLP",
+            "mpn": "BRA-D07-L150X-SLP",
+            "price": "179.0",
+            "compare_at_price": "179.0",
+            "contractor_price": "179.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Netropol Collection with Salem Levers",
+                "Salem Lever with Netropol Rose",
+                "Brass Accents  D07-K360-SLP"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BRA-D07-K360SSLP-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BRA-D07-K360SSLP-525.jpg?v=1716427673"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents D07-L150X-SLP, Netropol Collection with Salem Lever</b>\r\n\r\n<p>\r\nThe Netropol Collection with Salem Lever is a passage lever, which means it latches but has no locking mechanism. Passage function levers are most often used on hall or closet doors. \r\n</p>\r\n\r\n<p>\r\n<b>Passage (hall or closet):</b> For doors that don't need locking. Latches but does not lock.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Salem Lever with Netropol Rose:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Lever Length: 3-1/8\"</li>\r\n<li>Rosette Diameter: 2-5/8\"</li>\r\n<li>Total Projection:  1-1/4\"</li>\r\n<li>Clearance:  15/16\"</li>\r\n<li>Backset 2\"</li>\r\n<li>Sold as complete set with all mounting hardware</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Salem Lever with Netropol Rose",
+                "description": "The Netropol Collection with Salem Lever is a passage lever, which means it latches but has no locking mechanism. Passage function levers are most often used on hall or closet doors.",
+                "keywords": "Netropol Collection with Salem Levers, Salem Lever with Netropol Rose,  Brass Accents  D07-K360-SLP"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "BRA-discontinued-custom",
+                    "sort": "28"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "899759",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "399938",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "889579",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "173708",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "384850",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "900190",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "903693",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Satin Nickel ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

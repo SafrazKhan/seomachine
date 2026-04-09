@@ -1,0 +1,154 @@
+{
+    "legacy_product_id": "771510",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Rim Cylinder Lock, PDQ I0170x-6016",
+            "vendor": "PDQ",
+            "status": "ACTIVE",
+            "sku": "PDQ-I0170x-6016",
+            "mpn": "PDQ-I0170x-6016",
+            "price": "62.99",
+            "compare_at_price": "84.0",
+            "contractor_price": "56.7",
+            "shipping_weight": "1.0",
+            "tags": [
+                "I0170x-6016",
+                "PDQ-I0170560-USx Polished Brass Rim Cylinder Lock",
+                "PDQ-I0170560-US3",
+                "PDQ-10170560-US3",
+                "PDQ-4200V-B605 locks",
+                "PDQ-4200R-B605",
+                "PDQ-4200R-A605",
+                "rim locks",
+                "PDQ locks",
+                "I01705-6016 Polished Brass rim cylinder",
+                "I01707-6016 Brushed Chrome rim cylinder",
+                "I01706-6016 Dark Bronze rim cylinder"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>PDQ Rim Cylinder Lock</b>\r\n<p>\r\nCommercial door rim cylinder lock. Rim cylinders are normally used on the doors exterior to unlatch <a href=\"/collections/panic-devices\"><b>Rim Panic Devices</b></a>.  For for use with <a href=\"/products/grade-1-polished-brass-vertical-rod-exit-device-pdq-4200v-b605\"><b>PDQ-4200V-B605</b></a>, <a href=\"/products/grade-1-polished-brass-rim-exit-device-pdq-4200r-b605\"><b>PDQ-4200R-B605</b></a> and <a href=\"/products/grade-1-polished-brass-exit-device-for-38-48-inch-door-pdq-4200r-a605\"><b>PDQ-4200R-A605</b></a>. Available in Polished Brass, Brushed Chrome or Dark Bronze finish.\r\n</p>\r\n<p>\r\nCan be used on other door hardware items that use a rim cylinder lock. Normal bore hole in door is 1-1/4\" (32 mm). \r\n</p>\r\n<p>\r\n<b>Specifications:</b> for PDQ Rim Cylinder\r\n<ul>\r\n<li>Cylinder Body Diameter: 1-9/64\" (1.140)</li>\r\n<li>Function: Keyed Rim Cylinder</li>\r\n<li>Standard 6-pin Schlage \"C\" Keyway</li>\r\n<li>Flat \"cut to size\" horizontal tail piece</li>\r\n<li>For up to 2-3/4\" thick doors</li>\r\n<li>Packed with 1-7/8\" diameter trim ring</li>\r\n<li>Includes mounting plate and two (2) #12 x 2-1/4\" machine screws</li>\r\n<!-- <li>Finish: Polished Brass</li> -->\r\n</ul>\r\n</p>\r\n<br>",
+            "seo": {
+                "title": "Rim Cylinder Lock, PDQ I0170x-6016",
+                "description": "PDQ rim cylinder lock. Rim cylinders are normally used on the doors exterior to unlatch Rim Panic Devices. Available in Polished Brass, Brushed  Chrome or Dark Bronze finish",
+                "keywords": "I0170x-6016, PDQ-I0170560-USx Polished Brass Rim Cylinder Lock, PDQ-I0170560-US3, PDQ-10170560-US3, PDQ-4200V-B605 locks, PDQ-4200R-B605, PDQ-4200R-A605, rim locks, PDQ locks, I01705-6016 Polished Brass rim cylinder, I01707-6016 Brushed Chrome rim cylinder, I01706-6016 Dark Bronze rim cylinder"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "PDQ Exit Devices",
+                    "sort": "54"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "354503",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "363580",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "363590",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "660652",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "532868",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "353453",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "184706",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: I01705-6016: Polished Brass",
+                "Select Finish: I01707-6016: Brushed Chrome",
+                "Select Finish: I01706-6016: Dark Bronze",
+                "Keying: Only Ordered One Lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I01705-6016: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "I01707-6016: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "I01706-6016: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

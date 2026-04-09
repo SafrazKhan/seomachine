@@ -1,0 +1,128 @@
+{
+    "legacy_product_id": "1160787",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3 Inch Hobnail Cabinet Pull, MNG 172-VA",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "MNG-172-VA",
+            "mpn": "MNG-172-VA",
+            "price": "9.74",
+            "compare_at_price": "12.98",
+            "contractor_price": "9.25",
+            "shipping_weight": "1.0",
+            "tags": [
+                "MNG-172-VA",
+                "MNG 172-VA",
+                "MNG 17213",
+                "MNG-17213",
+                "MNG-17214",
+                "MNG-17214",
+                "MNG-17221",
+                "MNG-17221",
+                "Vanilla collections",
+                "traditional cabinet pulls",
+                "3 inch Hobnail Cabinet Pulls",
+                "Vanilla 3 Inch Pulls",
+                "3 Inch Classic Hobnail Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MNG-172-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-172-5251.jpg?v=1716428634"
+        },
+        "text": {
+            "description_html": "<b>MNG 172, 3 Inch Classic Hobnail Cabinet Pull</b>\r\n\r\n<p>\r\nThe 3 Inch Hobnail Cabinet Pull is part of MNG's Vanilla Collection which features unique beaded designs that are subtle yet stunning. The 3 Inch Classic Hobnail Cabinet Pull is available in traditional finish colors for maximum effect. These kitchen cabinet pulls are beautiful and classic and will surely add a richness to your cabinets with their texture. The Hobnail Cabinet Pull has 3 inch mounting centers and is 3.5 inches overall. \r\n</p>\r\n\r\n<p>\r\nThis cabinet pull is part of the <a href=\"//search?type=product&q=MNG+Vanilla\">MNG Vanilla Collection</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the MNG 172 Hobnail 3 Inch Cabinet Pull:\r\n<ul>\r\n<li>Base Material: Zinc </li>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 3-1/2\"</li>\r\n<li>Width: 5/8\"</li>\r\n<li>Projection: 1\"</li>\r\n<li>Packaged with 1\" long #8-32 screws and 1-1/2\"  long #8-32 screws.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i> \r\n</p>",
+            "seo": {
+                "title": "3 Inch Hobnail Cabinet Pull",
+                "description": "The 3 Inch Hobnail Cabinet Pull is part of MNG's Vanilla Collection which features unique beaded designs that are subtle yet stunning. The 3 Inch Classic Hobnail Cabinet Pull is available in traditional finish colors for maximum effect. These kitchen cabinet pulls are beautiful and classic and will surely add a richness to your cabinets with their texture. The Hobnail Cabinet Pull has 3 inch mounting centers and is 3.5 inches overall.",
+                "keywords": "MNG-172-VA, MNG 172-VA,\r\nMNG 17213, MNG-17213, \r\nMNG-17214, MNG-17214, \r\nMNG-17221, MNG-17221,\r\nVanilla collections, traditional cabinet pulls, 3 inch Hobnail Cabinet Pulls, Vanilla 3 Inch Pulls, 3 Inch Classic Hobnail Cabinet Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "MNG Cabinet Hardware",
+                    "sort": "50"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1159633",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "261984",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "43194",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "576381",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "566511",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "878608",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "899207",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "905175",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MNG-17221: Satin Antique Nickel",
+                "Select Finish: MNG-17213: Oil Rubbed Bronze",
+                "Select Finish: MNG-17214: Polished Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MNG-17221: Satin Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-17221-SM.jpg?v=1774586566",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-17221-LG.jpg?v=1711366669"
+                },
+                {
+                    "value": "MNG-17213: Oil Rubbed Bronze",
+                    "price_impact": 1.08,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-17213-SM.jpg?v=1774586566",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-17213-LG.jpg?v=1711366669"
+                },
+                {
+                    "value": "MNG-17214: Polished Nickel",
+                    "price_impact": 1.44,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-17214-SM.jpg?v=1774586566",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-17214-LG.jpg?v=1711366670"
+                }
+            ]
+        }
+    ]
+}

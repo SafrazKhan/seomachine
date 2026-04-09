@@ -1,0 +1,168 @@
+{
+    "legacy_product_id": "856522",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Meadows Rocker Cover, Grandeur MEASWPLTR1",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-MEASWPLTR1",
+            "mpn": "GRA-MEASWPLTR1",
+            "price": "23.99",
+            "compare_at_price": "30.0",
+            "contractor_price": "23.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Grandeur MEASWPLTR1",
+                "GRA-MEASWPLTR1 ornate switch plates",
+                "fancy switch plates",
+                "greek home decor",
+                "Grandeur Meadows Rocker Light Switch Plates",
+                "Meadows Rocker Cover Plates",
+                "Meadows Rocker Covers",
+                "Ornate Meadows Rocker Cover Plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-MEASWPLTR1-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-MEASWPLTR1-525.jpg?v=1716426043"
+        },
+        "text": {
+            "description_html": "<b>Grandeur MEASWPLTR1, Ornate Meadows Rocker Cover Plate</b>\r\n\r\n<p>\r\nThe Meadows Rocker Cover made by Grandeur has beautiful, ornate detailing. This Greek inspired Rocker Light Switch Plate is available in a wide array of finishes including polished brass, satin nickel, and timeless bronze. It comes packaged with all the necessary mounting hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur Meadows Rocker Light Switch Plate:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 6\"</li>\r\n<li>Width: 3-1/8\"</li>\r\n<li>Projection: 3/8\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Meadows Rocker Cover",
+                "description": "The Meadows Rocker Cover made by Grandeur has beautiful, ornate detailing. This Greek inspired Rocker Light Switch Plate is available in a wide array of finishes including polished brass, satin nickel, and timeless bronze. It comes packaged with all the necessary mounting hardware.",
+                "keywords": "Grandeur MEASWPLTR1, GRA-MEASWPLTR1 ornate switch plates, \r\nfancy switch plates, greek home decor, Grandeur Meadows Rocker Light Switch Plates, Meadows Rocker Cover Plates, Meadows Rocker Covers, Ornate Meadows Rocker Cover Plates,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "6\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3-1/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "3/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Electrical Outlet &amp; Switch Plates",
+                    "sort": "83"
+                },
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "34"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "856270",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "856281",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "856920",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "856934",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "856566",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 6\"",
+                "Width: 3-1/8\"",
+                "Projection: 3/8\"",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: AP: Antique Pewter",
+                "Select Finish: TB: Timeless Bronze",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: ULB: Unlacquered Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ULB: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

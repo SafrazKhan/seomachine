@@ -1,0 +1,203 @@
+{
+    "legacy_product_id": "1185077",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Minneapolis Entrance Trim, Baldwin 6976-Entrance-Trim",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "BAL-6976-Entrance-Trim",
+            "mpn": "BAL-6976-Entrance-Trim",
+            "price": "751.2",
+            "compare_at_price": "939.0",
+            "contractor_price": "713.64",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Minneapolis Entrance Trim",
+                "Minneapolis Entrance Trims",
+                "Baldwin 6976-Entrance-Trim",
+                "Minneapolis Handleset with 5190 Lever Trim Only"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-6976-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-6976-5251.jpg?v=1711366733"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 6976-Entrance-Trim,  Minneapolis Handleset with 5190 Lever Trim Only</b>\r\n\r\n<p>\r\nThis is the trim for the Minneapolis Handleset. It does not include a mortise box. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Minneapolis Entrance Trim\r\n<ul>\r\n<li>Interior Trim: 5190 Lever</li>\r\n<li>Exterior Plate Length: 16\"</li>\r\n<li>Exterior Plate Width: 2-1/4\"</li>\r\n<li>Overall Exterior Projection: 2-1/5\"</li>\r\n<li>Interior Plate Length: 10\"</li>\r\n<li>Interior Plate Width: 2-1/4\"</li>\r\n<li>Interior Lever Length: 2-24/25\"</li>\r\n<li>Overall Interior Projection: 2-11/20\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>Final Sale</b></i>\r\n</p>",
+            "seo": {
+                "title": "Minneapolis Entrance Trim",
+                "description": "This is the trim for the Minneapolis Handleset. It does not include a mortise box.",
+                "keywords": "Minneapolis Entrance Trim, Minneapolis Entrance Trims, Baldwin 6976-Entrance-Trim, Minneapolis Handleset with 5190 Lever Trim Only"
+            },
+            "specifications": [
+                {
+                    "key": "Interior Trim",
+                    "value": "5190 Lever"
+                },
+                {
+                    "key": "Exterior Plate Length",
+                    "value": "16\""
+                },
+                {
+                    "key": "Exterior Plate Width",
+                    "value": "2-1/4\""
+                },
+                {
+                    "key": "Overall Exterior Projection",
+                    "value": "2-1/5\""
+                },
+                {
+                    "key": "Interior Plate Length",
+                    "value": "10\""
+                },
+                {
+                    "key": "Interior Plate Width",
+                    "value": "2-1/4\""
+                },
+                {
+                    "key": "Interior Lever Length",
+                    "value": "2-24/25\""
+                },
+                {
+                    "key": "Overall Interior Projection",
+                    "value": "2-11/20\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin-Custom-Special-Order",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "873174",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "867031",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1161035",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Interior Trim: 5190 Lever",
+                "Exterior Plate Length: 16\"",
+                "Exterior Plate Width: 2-1/4\"",
+                "Overall Exterior Projection: 2-1/5\"",
+                "Interior Plate Length: 10\"",
+                "Interior Plate Width: 2-1/4\"",
+                "Interior Lever Length: 2-24/25\"",
+                "Overall Interior Projection: 2-11/20\"",
+                "Select Finish: 260: Polished Chrome",
+                "Select Finish: 112: Venetian Bronze",
+                "Select Finish: 003: PVD Polished Brass",
+                "Select Finish: 190: Satin Black",
+                "Select Finish: 102: Oil Rubbed Bronze",
+                "Select Finish: 044: PVD Satin Brass",
+                "Select Finish: 055: PVD Polished Nickel",
+                "Select Finish: 056: PVD  Satin Nickel",
+                "Select Handing: Right Handing",
+                "Select Handing: Left Handing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "260: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "112: Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "003: PVD Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "190: Satin Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "102: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "044: PVD Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "055: PVD Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "056: PVD  Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Right Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Left Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

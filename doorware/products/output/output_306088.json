@@ -1,0 +1,154 @@
+{
+    "legacy_product_id": "306088",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Crystal Knobs with Spindle, Nostalgic Warehouse",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-Crystal-Knobs",
+            "mpn": "GRA-Crystal-Knobs",
+            "price": "71.99",
+            "compare_at_price": "90.0",
+            "contractor_price": "71.99",
+            "shipping_weight": "4.0",
+            "tags": [
+                "GRA-Crystal-Knobs Replacement Crystal Knobs",
+                "Nostalgic Warehouse Crystal Knobs",
+                "Grandeur/Nostalgic lead Crystal Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-crystal-knobs_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-crystal-knobs_525.jpg?v=1716422947"
+        },
+        "text": {
+            "description_html": "<b>Grandeur/Nostalgic Warehouse Lead Crystal Knobs with Spindle</b>\r\n<p>\r\nFor new installations or restoration replacement 24% lead crystal door knobs with spindle. \r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-crystal-knob-size.gif?v=1704354778\" width=\"300\" height=\"300\" border=\"0\" alt=\"Nostalgic Warehouse  Crystal Knobs Dimensions\">\r\n</p>\r\n<p>\r\nNostalgic Warehouse's high quality, forged brass doorknobs are not to be confused with cast imitations.  All of their doorknobs are mounted on solid, forged brass bases, not brass plated.  If you are restoring a historic building, their doorknobs may fit right into your existing backplates.  Bases available in 6 different finish choices.\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of Nostalgic Warehouse Crystal Knob with Spindle\r\n<ul>\r\n<li>Two (2) Steel, Allen-head Set Screws</li>\r\n<li>Two (2)  Crystal Knobs</li>\r\n<li>Spindle Length: 3-7/8\"</li>\r\n<li>Spindle Diameter: 8mm Square, threaded ends</li>\r\n<li>Base Diameter: Approximately 16mm</li>\r\n<li>Ferrule: Approximately 15mm</li>\r\n<li>Crystal Knob Diameter: 2.10\"</li>\r\n<li>Crystal Knob Projection: 2.12\"</li>\r\n<li>Three Year Finish Warranty</li>\r\n<li>Available Finishes: 6</li>\r\n<li>Mounting Base Material: Solid Brass</li>\r\n<li>Knob Material: 24% Lead Crystal</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/crystal-knob.pdf?v=1704262259\" target=\"new\"><b>Crystal Knob Dimensions (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n<p>\r\n*Sold as a set: 2 Crystal Knobs with set screws and 1 spindle\r\n</p>",
+            "seo": {
+                "title": "Crystal Knobs with Spindle, Nostalgic Warehouse",
+                "description": "For new installations or restoration replacement  lead crystal door knobs with spindle.  Nostalgic Warehouse's high quality, forged brass doorknobs are not to be confused with cast imitations.  All of their doorknobs are mounted on solid, forged brass bases, not brass plated.  If you are restoring a historic building, their doorknobs may fit right into your existing backplates.",
+                "keywords": "GRA-Crystal-Knobs Replacement Crystal Knobs, Nostalgic Warehouse Crystal Knobs, Grandeur/Nostalgic lead Crystal Knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Restoration Door Hardware",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "253857",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "27607",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "27655",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "26621",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "26695",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "26813",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "26850",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "26914",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "62462",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "26955",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "27529",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 701364: Antique Brass",
+                "Select Finish: 703150: Antique Pewter",
+                "Select Finish: 701181: Bright Chrome",
+                "Select Finish: 703038: Oil Rubbed Bronze",
+                "Select Finish: 701146: Polished Brass",
+                "Select Finish: 701366: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "701364: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "703150: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "701181: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "703038: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "701146: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "701366: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

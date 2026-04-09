@@ -1,0 +1,115 @@
+{
+    "legacy_product_id": "1153720",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Clear Acrylic Cabinet Knob, Laurey 821",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "LAU-821",
+            "mpn": "LAU-821",
+            "price": "10.54",
+            "compare_at_price": "14.05",
+            "contractor_price": "10.54",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Laurey 821",
+                "Diamond Acrylic Cabinet Knobs",
+                "Clear Acrylic Cabinet Knob",
+                "Laurey 82104",
+                "Laurey 82126",
+                "Laurey 82159",
+                "Laurey Acrystal Knobs",
+                "1-1/4 Acrylic Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LAU-821-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-821-525.jpg?v=1716428493"
+        },
+        "text": {
+            "description_html": "<b>Laurey 821, Diamond Acrylic Cabinet Knob</b>\r\n\r\n<p>\r\nThe Diamond Acrylic Cabinet Knob is an elegant way to add beauty to your kitchen cabinets and your furniture. This stunning Clear Acrylic Cabinet Knob is available with a few different color bases, so you can pick the one that suits your style best. The Laurey made Acrylic Drawer Pull comes packaged with the mounting hardware. \r\n</p>\r\n\r\n<p>\r\nThis cabinet knob is part of the <a href=\"//search?type=product&q=Laurey+Acrylic\">Laurey Acrylic Collection</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Laurey Acrylic 1-1/4 \" Knob:\r\n<ul>\r\n<li>Material: Clear Acrylic</li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-3/8\"</li>\r\n<li>Packaged with 1\" long #8-32 screw and 1-1/2\" long #8-32 screw.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Clear Acrylic Cabinet Knob",
+                "description": "The Diamond Acrylic Cabinet Knob is an elegant way to add beauty to your kitchen cabinets and your furniture. This stunning Clear Acrylic Cabinet Knob is available with a few different color bases, so you can pick the one that suits your style best. The Laurey made Acrylic Drawer Pull comes packaged with the mounting hardware.",
+                "keywords": "Laurey 821, Diamond Acrylic Cabinet Knobs, Clear Acrylic Cabinet Knob, Laurey 82104, Laurey 82126, Laurey 82159, Laurey Acrystal Knobs, 1-1/4 Acrylic Knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Laurey Cabinet Knobs",
+                    "sort": "64"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1153615",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "794065",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "551150",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "878401",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "371727",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "551769",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Base Finish: LAU-82104: Polished Brass",
+                "Select Base Finish: LAU-82126: Polished Chrome",
+                "Select Base Finish: LAU-82159: Satin Pewter"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Base Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LAU-82104: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-82104-SM.jpg?v=1774582060",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-82104-LG.jpg?v=1711366620"
+                },
+                {
+                    "value": "LAU-82126: Polished Chrome",
+                    "price_impact": 0.82,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-82126-SM.jpg?v=1774582063",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-821026-LG.jpg?v=1711366621"
+                },
+                {
+                    "value": "LAU-82159: Satin Pewter",
+                    "price_impact": 0.81,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-82159-SM.jpg?v=1774582066",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-82159-LG.jpg?v=1711366621"
+                }
+            ]
+        }
+    ]
+}

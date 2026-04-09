@@ -1,0 +1,135 @@
+{
+    "legacy_product_id": "232550",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "48 Inch Nylon Brush Door Sweep",
+            "vendor": "Door Controls",
+            "status": "ACTIVE",
+            "sku": "DC-YDS603xNB-48",
+            "mpn": "DC-YDS603xNB-48",
+            "price": "27.6",
+            "compare_at_price": "34.5",
+            "contractor_price": "26.22",
+            "shipping_weight": "10.0",
+            "tags": [
+                "DC-YDB601xNB-48 48 Inch Brush Door Sweeps",
+                "YDS603xNB-48 48 Inch Door Sweeps",
+                "commercial door sweeps",
+                "commercial bug sweeps",
+                "door stoppers",
+                "48 door sweeps",
+                "YDS603CNB-48",
+                "YDS603DNB-48"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DC-YDB601xNB48_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DC-YDB601xNB48_525.jpg?v=1716422225"
+        },
+        "text": {
+            "description_html": "<b>48\" Nylon Brush Door Sweep</b>\r\n<p>\r\nDoor Sweeps help seal the doors bottom specially if there is a gap. It features long lasting nylon brush type sweep blade. These can help save energy, lowering heating and AC costs.\r\n</p>\r\n\r\n<p>\r\nAlso available: <a href=\"/products/36-inch-nylon-brush-door-sweep\"><b>36\" Brush Door Sweep</b></a>\r\n</p>\r\n<p>\r\nField sizable for doors 36-1/2\" to 48\" wide. Powder coated non-rusting aluminum blade housing with drip guard. Packaged with installation screws.\r\n</p>\r\n<p>\r\n<b>Specifications</b> for DC-YDS603xNB-48 Door Sweep\r\n<ul>\r\n<li>Nylon Brush Height: 3/4\"</li>\r\n<li>Total Height: 1-5/8\"</li>\r\n<li>Nylon Brush Length: 48\"</li>\r\n</ul>\r\n</p>\r\n<p>\r\nAvailable in Aluminum or Dark Bronze finish.\r\n</p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "48 Inch Nylon Brush Door Sweep",
+                "description": "48 inch Nylon Brush Door Sweep. Door Sweeps help seal the doors bottom specially if there is a gap. It features long lasting nylon brush type sweep blade. Field sizable for doors 36-1/2 to 48 inches wide. Powder coated non-rusting aluminum blade housing with drip guard. Packaged with installation screws.",
+                "keywords": "DC-YDB601xNB-48 48 Inch Brush Door Sweeps, YDS603xNB-48 48 Inch Door Sweeps, commercial door sweeps, commercial bug sweeps, door stoppers, 48 door sweeps, YDS603CNB-48, YDS603DNB-48"
+            },
+            "specifications": [
+                {
+                    "key": "Nylon Brush Height",
+                    "value": "3/4\""
+                },
+                {
+                    "key": "Total Height",
+                    "value": "1-5/8\""
+                },
+                {
+                    "key": "Nylon Brush Length",
+                    "value": "48\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Door Controls",
+                    "sort": "9"
+                },
+                {
+                    "name": "Door Sweeps, Seals and Thresholds",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "232553",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "232492",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "232544",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "228975",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "193669",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "6995",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "173138",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "1064197",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Nylon Brush Height: 3/4\"",
+                "Total Height: 1-5/8\"",
+                "Nylon Brush Length: 48\"",
+                "Select Finish: YDS603CNB-48: Aluminum",
+                "Select Finish: YDS603DNB-48: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "YDS603CNB-48: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "YDS603DNB-48: Dark Bronze",
+                    "price_impact": 12.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

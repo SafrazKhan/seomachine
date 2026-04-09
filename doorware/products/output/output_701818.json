@@ -1,0 +1,89 @@
+{
+    "legacy_product_id": "701818",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Omnia Classico Collection Reeded Rose, Omnia 4320R/PA",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-4320R/PA",
+            "mpn": "OMN-4320R/PA",
+            "price": "32.0",
+            "compare_at_price": "42.0",
+            "contractor_price": "32.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Reeded Rosettes",
+                "Omnia Classico Collection Reeded Roses",
+                "Omnia 4320R/PA",
+                "OMN-4320R/PA",
+                "Omnia Classico Collection Reeded Single Dummy Roses",
+                "Reeded Rosette for Omnia's Classico Collections"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-4320R-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-4320R-525.jpg?v=1716425340"
+        },
+        "text": {
+            "description_html": "<p>Omnia 4320R/PA, Omnia Classico Collection Reeded Single Dummy Rose</p>\r\n\r\n<p>\r\nAlthough ornate, this Omnia Classico Collection Reeded Rose has a rustic feel, the perfect combination of beautiful details and old-world charm.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Reeded Rosette for Omnia's Classico Collection:\r\n<ul>\r\n<li>Diameter: 2-7/8”</li>\r\n<li>Concealed screw mounting.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Omnia Classico Collection Reeded Rose, Omnia 4320R/PA",
+                "description": "Omnia 4320R/PA, Omnia Classico Collection Reeded Rose - Although ornate, this Omnia Classico Collection Reeded Rose has a rustic feel, the perfect combination of beautiful details and old-world charm.",
+                "keywords": "Reeded Rosettes, Omnia Classico Collection Reeded Roses, Omnia 4320R/PA, OMN-4320R/PA, Omnia Classico Collection Reeded Single Dummy Roses, Reeded Rosette for Omnia's Classico Collections,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "156"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "612931",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "613123",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "612752",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "612984",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: ETR - Etruscan Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ETR - Etruscan Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

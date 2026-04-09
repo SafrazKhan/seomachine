@@ -1,0 +1,118 @@
+{
+    "legacy_product_id": "996243",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "AHI 122x203AMx902 Mortise Leverset",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-122x203AMx902",
+            "mpn": "AHI-122x203AMx902",
+            "price": "91.0",
+            "compare_at_price": "175.0",
+            "contractor_price": "91.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "AHI-122x203AMx902"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AHI-122-203AM_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-122-203AM_525.jpg?v=1716427542"
+        },
+        "text": {
+            "description_html": "<b>AHI 122x203AMx902, 122 Levers with 2\" Square Rose</b>\r\n\r\n<p>\r\nAHI 122 Lever is solid stainless steel making it resistant to corrosion, knocks, scratches, and abrasions. Small  2\" Square Roses are surface mounted and include spring assist cassettes. Non-handed reversible for left or right doors. This set is used with <b>Mortise Lock Sets</b>.\r\n</p>\r\n\r\n<!-- <p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-SIG122-204-specifications.gif?v=1704354721\" width=\"600\" height=\"200\" border=\"0\" atl=\"AHI-SIG122-204 Specifications\">\r\n</p> -->\r\n\r\n\r\n\r\n<p>\r\n<b>Specifications</b> AHI 122x203AMx902:\r\n<ul>\r\n<li>Material: 304 Solid Stainless Steel</li>\r\n<li>Lever Length: 5-5/16\" (135 mm)</li>\r\n<li>Lever Width: 3/4\" (20 mm)</li>\r\n<li>Lever Thickness: 3/4\" (20 mm)</li>\r\n<li>Projection: 2-3/16\" (55 mm)</li>\r\n<li>902 Spindle Width: 0.31\" (8 mm)</li>\r\n<li>Rose: 2\" (50 mm) squared</li>\r\n<li>Door Thickness: adjustable for 1-3/8\" to 2\"</li>\r\n\r\n</ul>\r\n</p>\r\n\r\n\r\n\r\n<p>\r\n*Set includes (2) 122 Levers, (2) 203AM 2\" Surface Mounted Roses & (1) 8mm Solid Spindle.\r\n</p>",
+            "seo": {
+                "title": "AHI 122x203AMx902 Mortise Leverset",
+                "description": "",
+                "keywords": "AHI-122x203AMx902"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "304 Solid Stainless Steel"
+                },
+                {
+                    "key": "Lever Length",
+                    "value": "5-5/16\" (135 mm)"
+                },
+                {
+                    "key": "Lever Width",
+                    "value": "3/4\" (20 mm)"
+                },
+                {
+                    "key": "Lever Thickness",
+                    "value": "3/4\" (20 mm)"
+                },
+                {
+                    "key": "Projection",
+                    "value": "2-3/16\" (55 mm)"
+                },
+                {
+                    "key": "902 Spindle Width",
+                    "value": "0.31\" (8 mm)"
+                },
+                {
+                    "key": "Rose",
+                    "value": "2\" (50 mm) squared"
+                },
+                {
+                    "key": "Door Thickness",
+                    "value": "adjustable for 1-3/8\" to 2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "AHI-Discontinued-and-Custom",
+                    "sort": "76"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Material: 304 Solid Stainless Steel",
+                "Lever Length: 5-5/16\" (135 mm)",
+                "Lever Width: 3/4\" (20 mm)",
+                "Lever Thickness: 3/4\" (20 mm)",
+                "Projection: 2-3/16\" (55 mm)",
+                "902 Spindle Width: 0.31\" (8 mm)",
+                "Rose: 2\" (50 mm) squared",
+                "Door Thickness: adjustable for 1-3/8\" to 2\"",
+                "Select Finish: 630: Satin Stainless Steel",
+                "Select Finish: 629: Polished Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "630: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "630"
+                },
+                {
+                    "value": "629: Polished Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "629"
+                }
+            ]
+        }
+    ]
+}

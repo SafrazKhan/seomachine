@@ -1,0 +1,149 @@
+{
+    "legacy_product_id": "822749",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hammered Knob, Acorn IWABD",
+            "vendor": "Acorn",
+            "status": "ACTIVE",
+            "sku": "ACO-IWABD",
+            "mpn": "ACO-IWABD",
+            "price": "169.84",
+            "compare_at_price": "212.3",
+            "contractor_price": "161.35",
+            "shipping_weight": "5.0",
+            "tags": [
+                "ACO-IWABD",
+                "Hammered Knobs",
+                "Acorn IWABD",
+                "Hammered Knob with Round Rose",
+                "Rustic Knob",
+                "Acorn IWABI",
+                "Acorn IWBBI",
+                "historic hardware",
+                "antique hardware reproductions",
+                "historic door knobs",
+                "ACO-IWABDx"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ACO-IWABD-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-IWABD-525.jpg?v=1717106262"
+        },
+        "text": {
+            "description_html": "<b>Acorn IWABD, Hammered  Knob with Round Rose</b>\r\n\r\n<p>\r\nThe Hammered Knob reflects the decor of early American and European homes, when all hardware was made by a blacksmith. This Acorn made black iron door knob is beautiful and authentic-looking as well.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Rustic Knob:\r\n<ul>\r\n<li>Finish: <b>Black Iron</b></li>\r\n<li>Knob Diameter: 2\"</li>\r\n<li>Rose Diameter: 3\"</li>\r\n<li>Projection: 2-1/2\"</li>\r\n<li>Door Thickness: 1-3/8\" to 1-3/4\"</li>\r\n<li>Backset: 2-3/8\" or 2-3/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>When Selecting a Function:</b>\r\n<ul>\r\n<li><b>Half Dummy:</b> A stationary knob for use as a pull or to match trim on one side of door. Includes 1 knob, 1 rose, and mounting screws.</li>\r\n<li><b>Passage Set (hall or closet):</b> For doors that don't need locking. Latch operates from either side of door. Complete set - 2 knobs, 2 roses, door latch, strike plate, dust box, faceplate, spindle, and mounting screws.</li>\r\n<li><b>Privacy Set (bedroom or bathroom):</b> For doors that could need locking. Latch operates from either side. Push button on interior knob engages privacy; emergency release hole is on exterior knob. Complete set - 2 knobs, 2 roses, privacy button, door latch, strike plate, dust box, faceplate, spindle, and mounting screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Hammered Knob",
+                "description": "The Hammered Knob reflects the decor of early American and European homes, when all hardware was made by a blacksmith. This Acorn made black iron door knob is beautiful and authentic-looking as well.",
+                "keywords": "ACO-IWABD, Hammered Knobs, Acorn IWABD, Hammered Knob with Round Rose, Rustic Knob, Acorn IWABI, Acorn IWBBI, historic hardware, antique hardware reproductions, historic door knobs,  ACO-IWABDx,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Acorn Door Knobs",
+                    "sort": "17"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "878241",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "395744",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "395772",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "438395",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "438727",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "883959",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "972030",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "582949",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Function: IWABD: Half Dummy",
+                "Select Function: IWABI: Passage (hall or closet)",
+                "Select Function: IWBBI: Privacy (bedroom or bathroom)",
+                "Select Backset: 2-3/8in. Backset",
+                "Select Backset: 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "IWABD: Half Dummy ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "IWABI: Passage (hall or closet)",
+                    "price_impact": 193.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "IWBBI: Privacy (bedroom or bathroom)",
+                    "price_impact": 212.96,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

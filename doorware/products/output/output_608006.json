@@ -1,0 +1,147 @@
+{
+    "legacy_product_id": "608006",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Flair Lever Interior Trim Kit for Schlage F Series Handlesets, SCH-F59FLA",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-F59FLA",
+            "mpn": "SCH-F59FLA",
+            "price": "141.0",
+            "compare_at_price": "141.0",
+            "contractor_price": "141.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Flair Lever Interior Trim Kit for Schlage F Series  Handlesets",
+                "SCH-F59FLA"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SCH-fla-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SCH-fla-5251.jpg?v=1716424890"
+        },
+        "text": {
+            "description_html": "<b>Flair Lever Interior Trim Kit for Schlage F Series Handlesets</b><p>Replacement interior trim kit for F Series Handlesets only.</p>",
+            "seo": {
+                "title": "Flair Lever Interior Trim Kit for Schlage F Series Handlesets, SCH-F59FLA",
+                "description": "Flair Lever Interior Trim Kit for Schlage F Series  Handlesets, SCH-F59FLA",
+                "keywords": "Flair Lever Interior Trim Kit for Schlage F Series  Handlesets, SCH-F59FLA"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "104"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: 605: Bright Brass",
+                "Select Finish: 609: Antique Brass",
+                "Select Finish: 613: Oil Rubbed Bronze",
+                "Select Finish: 619: Satin Nickel",
+                "Select Finish: 620: Antique Pewter",
+                "Select Finish: 625: Bright Chrome",
+                "Select Finish: 626: Satin Chrome",
+                "Select Finish: 716: Aged Bronze",
+                "Select Handing: SCH-F59FLAxxxRH - Right Hand",
+                "Select Handing: SCH-F59FLAxxxLH - Left Hand"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "605: Bright Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "609: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "613: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "619: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "620: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "625: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "716: Aged Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SCH-F59FLAxxxRH - Right Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F59FLAxxxLH - Left Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

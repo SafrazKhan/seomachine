@@ -1,0 +1,89 @@
+{
+    "legacy_product_id": "993975",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Replacement Hook Holder For Deltana Door Stops",
+            "vendor": "Deltana",
+            "status": "ARCHIVED",
+            "sku": "DEL-DS-HOOK-HOLDER",
+            "mpn": "DEL-DS-HOOK-HOLDER",
+            "price": "9.2",
+            "compare_at_price": "9.2",
+            "contractor_price": "9.2",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Deltana Replacement Heavy Duty Mounting Anchor for Door Stops with Hooks",
+                "Replacement Holder for the Solid Brass Cement Floor Mount Door Bumpers",
+                "Replacement Hook Holder For Deltana DSF444",
+                "Deltana Replacement Hook Holders",
+                "Replacement Hook Holder For Deltana Door Stops",
+                "DEL-DS-HOOK-HOLDERs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-DSF444-anchor-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-DSF444-anchor-525.jpg?v=1716427528"
+        },
+        "text": {
+            "description_html": "<b>Deltana Replacement Heavy Duty Mounting Anchor</b>\r\n\r\n<p>\r\nThis is a Deltana Replacement Heavy Duty Mounting Anchor for use with <a href=\"/products/solid-brass-cement-floor-mount-door-bumper-with-holder-deltana-dsf444\"><b>Deltana DSF444</b></a>, <a href=\"/products/solid-brass-wall-mount-bumper-with-hook-deltana-sahw325\"><b>Deltana SAHW325</b></a>, <a href=\"/products/6-inch-extra-heavy-duty-floor-mount-door-stop-with-catch-deltana-dsf630\"><b>Deltana DSF630</b></a>, <a href=\"/products/8-inch-floor-mounted-door-stop-with-hook-deltana-dsf830\"><b>Deltana DSF830</b></a>, and <a href=\"/products/solid-brass-floor-mount-bumper-with-hook-deltana-sahf358\"><b>Deltana SAHF358</b></a> door stops.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b> for Deltana Replacement Heavy Duty Mounting Anchor for Door Stops with Hooks:\r\n<ul>\r\n<li>Height: 1-1/2\"</li>\r\n<li>Width: 1\"</li>\r\n<li>Projection: 7/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually. <b>NO RETURNS</b></i>\r\n<p>",
+            "seo": {
+                "title": "Replacement Hook Holder For Deltana Door Stops",
+                "description": "This is a Deltana Replacement Heavy Duty Mounting Anchor for door stops with hooks.",
+                "keywords": "Deltana Replacement Heavy Duty Mounting Anchor for Door Stops with Hooks, Replacement Holder for the Solid Brass Cement Floor Mount Door Bumpers, Replacement Hook Holder For Deltana DSF444, Deltana Replacement Hook Holders, Replacement Hook Holder For Deltana Door Stops, DEL-DS-HOOK-HOLDERs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Discontinued and Special Items",
+                    "sort": "60"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "6660",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "6789",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "6776",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "6839",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US10B: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

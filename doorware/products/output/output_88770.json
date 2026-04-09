@@ -1,0 +1,83 @@
+{
+    "legacy_product_id": "88770",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "83-inch Bommer Wide Throw Full Mortise Continuous Geared Hinge WTFM83HD",
+            "vendor": "Bommer",
+            "status": "ARCHIVED",
+            "sku": "BOM-WTFM83HD",
+            "mpn": "BOM-WTFM83HD",
+            "price": "685.6",
+            "compare_at_price": "979.44",
+            "contractor_price": "617.04",
+            "shipping_weight": "30.0",
+            "tags": [
+                "WTFM83HD",
+                "Bommer",
+                "Wide Throw",
+                "Full Mortise",
+                "Continuous Geared",
+                "Hinge",
+                "heavy duty"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>83\" Bommer Wide Throw Full Mortise Continuous Geared Hinge WTFM83HD.</b>\r\n<p>\r\n<img src=..https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PRE-PLS24-package.jpg?v=1704354498>\r\n</p>\r\n<p>\r\n<b>\r\nHeavy Duty<br>\r\nLength: 83\"<br>\r\nMetal: Aluminum<br>\r\nNumber of bearings: 27<br>\r\nHeavy Door Weight: 540 lbs.<br>\r\n</b>\r\n</p>\r\nUnlike a conventional hinge, a Continuous Geared Aluminum hinge has no pin. Also, it is not like a \"piano\" hinge either, which has 50% of each knuckle cut away, and depends on a thin wire to hold each leaf together.\r\n</p>\r\n<p>\r\nA Continuous Geared Aluminum hinge consists of two full-height, paired and geared leafs. Each geared leaf rotates evenly from top to bottom, riding on superior Delrin Teflon bearings. The geared leafs and bearings are held together by a full length channel cap. This assembly retains the smooth, clean lines of the door and frame, while easily supporting heavy vertical loads.\r\n</p>\r\n<p>\r\n<b>Advantages to Bommer Continuous Geared Hinges:</b>\r\n</p>\r\n1. Distributes load stress uniformly along the full length of the door<br>\r\n2. Diffuses wear and tear from closer kickback shock and elminates door sagging and binding<br>\r\n3. Attaching screws are along the full length, preventing warpage<br>\r\n4. Gear design offers little effort to open a large heavy commercial door<br>\r\n5. High degree of security against prying and force.<br>\r\n6. Offers a closed gap, providing safety against pinched fingers, especially suited for public locations where children are present.<br>\r\n7. UL Fire labeled 3-hour A-label.\r\n</p>\r\n<p>\r\n</p><b>For additional specs on Continuous Geared Hinges: <br><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/cont-hinge-specs.pdf?v=1691094995\" target=\"new\">Specifications Diagrams (PDF 6MB - 6-pages Color).</a></b>\r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/kaba-simplex-902-size.gif?v=1704354717\" width=\"100\" height=\"72\" border=\"0\">\r\n</p>\r\n<br>\r\n<p>\r\n<b>\r\nHinges priced and sold individually (each).\r\n</b>\r\n</p>\r\n<br>",
+            "seo": {
+                "title": "83-inch Bommer Wide Throw Full Mortise Continuous Geared Hinge WTFM83HD",
+                "description": "WTFM83HD - 83 Bommer Wide Throw Full Mortise Continuous Geared Hinge.",
+                "keywords": "WTFM83HD, Bommer, Wide Throw, Full Mortise, Continuous Geared, Hinge, heavy duty,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Bommer Continuous Gear Hinges",
+                    "sort": "100"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: WTFM83HD-628 (Grade 1) - Clear Anodized",
+                "Select Finish: WTFM83HD-393 (Grade 1) - Dark Bronze Anodized"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "WTFM83HD-628 (Grade 1) - Clear Anodized",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "WTFM83HD-628"
+                },
+                {
+                    "value": "WTFM83HD-393 (Grade 1) - Dark Bronze Anodized",
+                    "price_impact": 100.9,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "WTFM83HD-393"
+                }
+            ]
+        }
+    ]
+}

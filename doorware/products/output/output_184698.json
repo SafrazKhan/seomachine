@@ -1,0 +1,111 @@
+{
+    "legacy_product_id": "184698",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Kawneer Style TOP Offset Door Pivots TH1118-T",
+            "vendor": "Global",
+            "status": "ARCHIVED",
+            "sku": "GLO-TH1118-T",
+            "mpn": "GLO-TH1118-T",
+            "price": "26.65",
+            "compare_at_price": "37.81",
+            "contractor_price": "23.2",
+            "shipping_weight": "1.0",
+            "tags": [
+                "GLO-TH1118-T",
+                "Global TH1118-T offset door pivot hinges",
+                "kawneer styles door pivots",
+                "kawneer door hinges",
+                "kawneer top pivot hinges",
+                "kawneer hinges",
+                "storefront door pivots",
+                "Global Door Controls door hinges",
+                "GLO-TH1118-T-DU",
+                "GLO-TH1118-T-AL"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/TH1118-T_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/TH1118-T_525.jpg?v=1716421742"
+        },
+        "text": {
+            "description_html": "<b>TH1118-T Global offset door pivot hinges, Kawneer style Top Pivot</b>\r\n<p>\r\nThe TH1118-T offset pivots are used for both flush face frame installation and 1/8\" recessed door applications. Kawneer Top Pivot Hinge.\r\n</p>\r\n<p>\r\nAlso available: <a href=\"/products/kawneer-style-offset-door-pivot-set-global-th1118\"><b>Kawnher Door Pivot Hinge Set</b></a> and <a href=\"/products/kawneer-door-bottom-center-hung-pivot-hinge\"><b>Kawneer Bottom Center Hung Pivot Hinge</b></a>\r\n</p>\r\n<p>\r\nSuitable for doors weighing up to 125 pounds. These Kawneer pivots are engineered for durability, style, and are easy to install.\r\n</p>\r\n<p>\r\n<b>Specifications:</b> <a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/TH1118-T.pdf?v=1704262219\" target=\"new\"><b>Global TH1118-T Dimensions (PDF)</b></a>\r\n\r\n<ul>\r\n<li>3/4\" offset pivots for aluminum doors and frames</li>\r\n<li>For flush door / frame and 1/8\" recessed doors</li>\r\n<li>Weather resistant</li>\r\n<li>Aluminum case construction</li>\r\n<li>Vertical adjustment 1/8\"</li>\r\n\r\n<li>Completely temper proof, yet easily removable, replacable in unlocked position</li>\r\n<li>Non-Handed</li>\r\n<li>Available in two finishes: AL- Aluminum or DU- Dark Bronze (Duronotic).</li>\r\n<li>Kawneer TOP pivot only (see image)</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold Individually.</b> Kawneer Top pivot only. <a href=\"/products/kawneer-style-offset-door-pivot-set-global-th1118\"><b>Click Here for Kawneer Pivot Hinge Set</b></a>.\r\n</p>",
+            "seo": {
+                "title": "Kawneer Style TOP Offset Door Pivots TH1118-T",
+                "description": "Global TH1118-T  offset door pivot hinges, Kawneer  door styles. Kawneer door top pivot hinge.  offset door pivot hinges for aluminum frame store front doors.",
+                "keywords": "GLO-TH1118-T, Global TH1118-T offset door pivot hinges, kawneer styles door pivots, kawneer door hinges, kawneer top pivot hinges, kawneer hinges, storefront door pivots, Global Door Controls door hinges, GLO-TH1118-T-DU, GLO-TH1118-T-AL,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Global Pivot Hinges",
+                    "sort": "6"
+                },
+                {
+                    "name": "Global Discontinued",
+                    "sort": "57"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "175957",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "184702",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "15357",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "175952",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "196107",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: TH1118-T-AL: Aluminum Finish",
+                "Select Finish: TH1118-T-DU:  Dark Bronze Finish"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TH1118-T-AL: Aluminum Finish",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-TH1118-T-AL"
+                },
+                {
+                    "value": "TH1118-T-DU:  Dark Bronze Finish",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-TH1118-T-DU"
+                }
+            ]
+        }
+    ]
+}

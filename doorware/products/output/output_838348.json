@@ -1,0 +1,74 @@
+{
+    "legacy_product_id": "838348",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Fusion Cylinder",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-CYL",
+            "mpn": "FUS-CYL",
+            "price": "99.0",
+            "compare_at_price": "99.0",
+            "contractor_price": "99.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "FUS-CYL",
+                "Fusion Replacement Cylinders",
+                "Fusion Cylinders",
+                "Fusion Schlage C Keyway Cylinders",
+                "Fusion cores"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-cyl-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-cyl-525.jpg?v=1717790323"
+        },
+        "text": {
+            "description_html": "<b>Fusion \"C\" Keyway Replacement Cylinder</b>\r\n\r\n<p>\r\nFull sized Fusion Cylinder. For use in < href=\"site/department.cfm?id=30773\">Fusion Tubular Entry Sets</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Fusion Schlage C Keyway Core:\r\n<ul>\r\n<li>Keyway: Standard 5 Pin \"C\" Keyway</li>\r\n<li>Come packaged with 2 keys.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i> Special Order <b>NOT Returnable</b>.\r\n</p>",
+            "seo": {
+                "title": "Fusion Cylinder",
+                "description": "Full sized Fusion Cylinder. For use in Fusion Tubular Entry Sets.",
+                "keywords": "FUS-CYL, Fusion Replacement Cylinders, Fusion Cylinders, Fusion Schlage C Keyway Cylinders, Fusion cores,"
+            },
+            "specifications": [
+                {
+                    "key": "Keyway",
+                    "value": "Standard 5 Pin \"C\" Keyway"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion-MISC-Discontinued",
+                    "sort": "103"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "184782",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "193377",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "413959",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Keyway: Standard 5 Pin \"C\" Keyway"
+            ]
+        }
+    },
+    "option_sets": []
+}

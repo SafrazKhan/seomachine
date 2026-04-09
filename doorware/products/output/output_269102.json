@@ -1,0 +1,124 @@
+{
+    "legacy_product_id": "269102",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Drive Assembly for  KABA 3001",
+            "vendor": "KABA",
+            "status": "ACTIVE",
+            "sku": "KABA-30x0",
+            "mpn": "KABA-30x0",
+            "price": "77.99",
+            "compare_at_price": "97.0",
+            "contractor_price": "77.99",
+            "shipping_weight": "2.0",
+            "tags": [
+                "KABA-30x0 Drive Assembly for  KABA 3001 keypad locks",
+                "KABA-3010",
+                "KABA-3020",
+                "KABA-3030",
+                "KABA-3040"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Drive Assembly for KABA 3001 Simplex Keypad Entry Lock</b>\r\n<p>\r\nFor use with <a href=\"/products/narrow-stile-storefront-door-keypad-entry-lock-kaba-3001\"><b>KABA 3001 Storefront Door Keypad Entry Lock</b></a>. \r\n</p>\r\n<p>\r\nThese Drive Assemblies are required to connect the KABA 3001 to a  <a href=\"/products/storefront-door-mortise-lock-deadlatch-body-th1103\"><b>Adams Rite Style Mortise Deadlatch</b></a>. \r\n</p>\r\n<p>\r\n4 different model Drive Assembles available:\r\n<ul>\r\n<li>KABA-3010: Right Hand Door, 31/32\" Backset</li>\r\n<li>KABA-3020: Left Hand Door, 31/32\" Backset</li>\r\n<li>KABA-3030: Right Hand Door, 1-1/8\" or 1-1/2\" Backset</li>\r\n<li>KABA-3040: Left Hand Door, 1-1/8\" or 1-1/2\" Backset</li>\r\n</ul>\r\n</p>\r\n\r\n<p><b>*Sold Individually. </b>\r\n</p>",
+            "seo": {
+                "title": "Drive Assembly for  KABA 3001",
+                "description": "Drive Assembly for KABA 3001 Simplex Keypad Entry Locks. These Drive Assemblies are required to connect the KABA 3001 to a  Adams Rite Style Mortise Deadlatch.",
+                "keywords": "KABA-30x0 Drive Assembly for  KABA 3001 keypad locks, KABA-3010, KABA-3020, KABA-3030, KABA-3040"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "KABA Accessories",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "269127",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "269017",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "209025",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "222081",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "247295",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "247325",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "150080",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Door Handing & Backset: KABA-3010: Right Hand Door, 31/32in. Backset",
+                "Select Door Handing & Backset: KABA-3020: Left Hand Door, 31/32in. Backset",
+                "Select Door Handing & Backset: KABA-3030: Right Hand Door, 1-1/8in. or 1-1/2in. Backset",
+                "Select Door Handing & Backset: KABA-3040: Left Hand Door, 1-1/8in. or 1-1/2in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Handing & Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "KABA-3010: Right Hand Door, 31/32in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KABA-3020: Left Hand Door, 31/32in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KABA-3030: Right Hand Door, 1-1/8in. or 1-1/2in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KABA-3040: Left Hand Door, 1-1/8in. or 1-1/2in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

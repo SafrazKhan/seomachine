@@ -1,0 +1,112 @@
+{
+    "legacy_product_id": "1012985",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3 Inch Spring Door Stop, Ives 060",
+            "vendor": "Ives",
+            "status": "ARCHIVED",
+            "sku": "IVES-060",
+            "mpn": "IVES-060",
+            "price": "1.04",
+            "compare_at_price": "1.3",
+            "contractor_price": "1.04",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Ives 3 Inch Flexible Door Stops",
+                "3 Inch Spring Door Stops",
+                "Ives 060"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/IVES-060F-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/IVES-060F-525.jpg?v=1716427670"
+        },
+        "text": {
+            "description_html": "<b>Ives 060, Spring Door Stop</b>\r\n\r\n<p>\r\nThe 3\" Spring Baseboard Mounted Spring Door Stop screws onto the baseboard casement or door bottom.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Ives 3 Inch Flexible Door Stops:\r\n<ul>\r\n<li>Material: Steel</li>\r\n<li>Length: 3\"</li>\r\n<li>Base Diameter: 1\"</li>\r\n<li>Bumper Diameter: 9/16\"</li>\r\n<li>Bumper Tip: White</li>\r\n<li>Packaged with Mounting Hardware</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "3 Inch Spring Door Stop",
+                "description": "The 3 inch Spring Baseboard Mounted Spring Door Stop screws onto the baseboard casement or door bottom.",
+                "keywords": "Ives 3 Inch Flexible Door Stops, 3 Inch Spring Door Stops, Ives 060"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Steel"
+                },
+                {
+                    "key": "Length",
+                    "value": "3\""
+                },
+                {
+                    "key": "Base Diameter",
+                    "value": "1\""
+                },
+                {
+                    "key": "Bumper Diameter",
+                    "value": "9/16\""
+                },
+                {
+                    "key": "Bumper Tip",
+                    "value": "White"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Ives",
+                    "sort": "15"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "889116",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "867496",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "448322",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "177490",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Material: Steel",
+                "Length: 3\"",
+                "Base Diameter: 1\"",
+                "Bumper Diameter: 9/16\"",
+                "Bumper Tip: White",
+                "Select Finish: F15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "F15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

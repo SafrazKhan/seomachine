@@ -1,0 +1,123 @@
+{
+    "legacy_product_id": "1154701",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Middlewich Cabinet Pull, Laurey 794",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "LAU-794",
+            "mpn": "LAU-794",
+            "price": "4.69",
+            "compare_at_price": "6.25",
+            "contractor_price": "4.46",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Middlewich Cabinet Pulls",
+                "Classic Traditions Pulls",
+                "Classic Traditions Pulls",
+                "LAU-794",
+                "Laurey 794",
+                "LAU-79439",
+                "Laurey 79439",
+                "LAU-79405",
+                "Laurey 79405",
+                "classic cabinet hardware",
+                "simple cabinet hardware",
+                "3 Inch Traditional Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LAU-794-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-794-525.jpg?v=1716428513"
+        },
+        "text": {
+            "description_html": "<b>Laurey 794, 3 Inch Traditional Cabinet Pull</b>\r\n\r\n\r\n<p>\r\nThe Middlewich Cabinet Pull is the perfect addition for classic homes. whether you use it in the kitchen on cabinets or as a furniture pull, this Traditional Cabinet Pull is at once beautiful and familiar. This Classic Traditions Pull comes from the Laurey Georgetown Collection. It will fit cabinets with 3 inch mounting holes and comes packaged with the hardware. \r\n</p>\r\n\r\n<p>\r\nThis cabinet pull is part of the <a href=\"//search?type=product&q=Laurey+Georgetown\">Laurey Georgetown Collection</a>.\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Laurey 3 Inch Middlewich Cabinet Pull:\r\n<ul>\r\n<li>Material: Zinc</li>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 4-1/4\"</li>\r\n<li>Width: 3/8\"</li>\r\n<li>Projection: 5/8\"</li>\r\n<li>Packaged with 1\" long #8-32 screws and 1-1/2\"  long #8-32 screws.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Middlewich Cabinet Pull",
+                "description": "The Middlewich Cabinet Pull is the perfect addition for classic homes. whether you use it in the kitchen on cabinets or as a furniture pull, this Traditional Cabinet Pull is at once beautiful and familiar. This Classic Traditions Pull comes from the Laurey Georgetown Collection. It will fit cabinets with 3 inch mounting holes and comes packaged with the hardware.",
+                "keywords": "Middlewich Cabinet Pulls, Classic Traditions Pulls, Classic Traditions Pulls, LAU-794, Laurey 794, LAU-79439, Laurey 79439, LAU-79405, Laurey 79405, classic cabinet hardware, simple cabinet hardware, 3 Inch Traditional Cabinet Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Laurey Cabinet Pulls",
+                    "sort": "102"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "558845",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "570600",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "576381",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "570918",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1035293",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "917020",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "304259",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "566545",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "563313",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: LAU-79405: Antique Brass",
+                "Select Finish: LAU-79439: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LAU-79405: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-79405-SM.jpg?v=1774582188",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-79405-LG.jpg?v=1711366630"
+                },
+                {
+                    "value": "LAU-79439: Satin Chrome",
+                    "price_impact": 0.14,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-79439-SM.jpg?v=1774582191",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-79439-LG.jpg?v=1711366630"
+                }
+            ]
+        }
+    ]
+}

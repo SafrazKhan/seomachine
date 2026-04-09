@@ -1,0 +1,130 @@
+{
+    "legacy_product_id": "1233674",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Heavy Duty Mortise Deadlatch, Adams Rite 4900-628",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "ADA-4900-628",
+            "mpn": "ADA-4900-628",
+            "price": "130.0",
+            "compare_at_price": "139.0",
+            "contractor_price": "130.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Heavy Duty Mortise Deadlatch",
+                "Adams Rite 4900-628"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ADA-4900-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ADA-4900-525.jpg?v=1769479544"
+        },
+        "text": {
+            "description_html": "<b>Mortise Deadlatch, Adams Rite 4900-628</b>\r\n<p>\r\nFlexibility of traffic control and easy installation is offered by 4900 Series Heavy Duty Deadlatches. A key-controlled bolt hold-back feature allows for two-way traffic for applications which require free entrance at certain times and exit-only at other times. This allows a \"locked\" entrance to be used as an exit by visitors already in the building. 1-3/4\" [44.5 mm] minimum door thickness required. Interchangeable, without stile modification, with any MS1850S deadbolt of same backset and faceplate shape. Also retrofits to existing 4510 and discontinued 4700 Deadlatch preparations.\r\n</p>\r\n<p>Turn key or operate handle or paddle to retract spring-loaded latchbolt. To hold bolt retracted, push it in and secure by reverse turn of key. Lock accepts any standard 1\" [25.4 mm] length, 1-5/32\" [29.4 mm] diameter mortise cylinder with MS® cam such as the 4036 Mortise Cylinder or thumbturn such as the 4066 Thumbturn, available separately. Lock accepts cylinder from either or both sides.  Both flat and radius faceplates are supplied. Flat faceplates can also be adjusted in the field for right or left beveled edge doors.\r\n\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications:</b> for Adams Rite 4900-628\r\n<ul>\r\n<li>Backset:  31/32\" [24.6 mm], 1-1/8\" [28.6mm], or 1-1/2\" 38.1 mm].</li>\r\n<li>Case: Steel with corrosion-resistant plating.</li>\r\n<li>Case Dimensions: 7/8\" x 5-13/16\" x depth [22.2mm x 147.6 mm x depth]. Depth varies by backset. </li>\r\n<li>Handed, Field Reversible</li>\r\n<li>Face plate: 1\" width x 6-7/8\" Length - Aluminum</li>\r\n\r\n<li>Latchbolt: 5/8\" x 1\" x 5/8\" Throw[15.9 mm x 25.4 mm x 15.9 mm] </li>\r\n<li>Finish: Aluminum</li>\r\n\r\n</ul>\r\n</p>\r\n\r\n<p>Individually boxed with strike plate, flat and radius faceplates, and mounting screws. Cylinder, paddle, handle available separately.</p>",
+            "seo": {
+                "title": "Heavy Duty Mortise Deadlatch",
+                "description": "Flexibility of traffic control and easy installation is offered by 4900 Series Heavy Duty Deadlatches. A key-controlled bolt hold-back feature allows for two-way traffic for applications which require free entrance at certain times and exit-only at other times. This allows a \"locked\" entrance to be used as an exit by visitors already in the building. 1-3/4\" [44.5 mm] minimum door thickness required. Interchangeable, without stile modification, with any MS1850S deadbolt of same backset and faceplate shape. Also retrofits to existing 4510 and discontinued 4700 Deadlatch preparations.",
+                "keywords": "Heavy Duty Mortise Deadlatch, Adams Rite 4900-628"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Adams Rite",
+                    "sort": "25"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Backset: ADA-4900-2: 31/32in. Backset",
+                "Select Backset: ADA-4900-3: 1-1/8in. Backset",
+                "Select Backset: ADA-4900-4: 1-1/2in. Backset",
+                "Select Handing: ADA-4900-x-5: LH or RHR",
+                "Select Handing: ADA-4900-x-5: RH or LHR",
+                "Select Strike Size: ADA-4900-x-x-1: 4-5/8in.",
+                "Select Strike Size: ADA-4900-x-x-2: 2-5/8in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ADA-4900-2: 31/32in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ADA-4900-3: 1-1/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ADA-4900-4: 1-1/2in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ADA-4900-x-5: LH or RHR",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ADA-4900-x-5: RH or LHR",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Strike Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ADA-4900-x-x-1: 4-5/8in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ADA-4900-x-x-2: 2-5/8in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

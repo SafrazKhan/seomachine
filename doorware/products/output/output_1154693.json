@@ -1,0 +1,115 @@
+{
+    "legacy_product_id": "1154693",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Georgetown Filigree Cabinet Pull, Laurey 791",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "LAU-791",
+            "mpn": "LAU-791",
+            "price": "3.08",
+            "compare_at_price": "4.1",
+            "contractor_price": "2.93",
+            "shipping_weight": "1.0",
+            "tags": [
+                "3 Inch Filigree Cabinet Pulls",
+                "Georgetown Filigree Cabinet Pulls",
+                "Laurey 791",
+                "Classic Traditions Filigree Pulls",
+                "LAU-791",
+                "Laurey 79139",
+                "Laurey 79105",
+                "Laurey 3 Inch Georgetown Cabinet Pulls",
+                "fancy cabinet hardware",
+                "ornate cabinet hardware",
+                "Vintage Drawer Pulls",
+                "antique furniture pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LAU-791-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-791-525.jpg?v=1716428510"
+        },
+        "text": {
+            "description_html": "<b>Laurey 791, 3 Inch Filigree Cabinet Pull</b>\r\n\r\n\r\n<p>\r\nThe Georgetown Filigree Cabinet Pull adds tasteful decoration to historic kitchens. Orate drawer pulls can also be used on antique furniture. The Filigree Cabinet Pull has 3 inch mounting centers and is 3.5 inches overall. Each pull comes packaged with the mounting hardware \r\n</p>\r\n\r\n<p>\r\nThis cabinet pull is part of the <a href=\"//search?type=product&q=Laurey+Georgetown\">Laurey Georgetown Collection</a>.\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Laurey 3 Inch Georgetown Cabinet Pull:\r\n<ul>\r\n<li>Material: Zinc</li>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 3-1/2\"</li>\r\n<li>Width: 1/2\"</li>\r\n<li>Projection: 1\"</li>\r\n<li>Packaged with 1\" long #8-32 screws and 1-1/2\"  long #8-32 screws.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Georgetown Filigree Cabinet Pull",
+                "description": "The Georgetown Filigree Cabinet Pull adds tasteful decoration to historic kitchens. Orate drawer pulls can also be used on antique furniture. The Filigree Cabinet Pull has 3 inch mounting centers and is 3.5 inches overall. Each pull comes packaged with the mounting hardware",
+                "keywords": "3 Inch Filigree Cabinet Pulls, Georgetown Filigree Cabinet Pulls, Laurey 791, Classic Traditions Filigree Pulls, LAU-791, Laurey 79139, Laurey 79105,  Laurey 3 Inch Georgetown Cabinet Pulls, fancy cabinet hardware, ornate cabinet hardware, Vintage Drawer Pulls, antique furniture pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Laurey Cabinet Pulls",
+                    "sort": "101"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "567356",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "41288",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "562040",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "891123",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "907440",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "559851",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "1123355",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: LAU-79105: Antique Brass",
+                "Select Finish: LAU-79139: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LAU-79105: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-79105-SM.jpg?v=1774582181",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-79105-LG.jpg?v=1711366630"
+                },
+                {
+                    "value": "LAU-79139: Satin Chrome",
+                    "price_impact": 0.81,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-79139-SM.jpg?v=1774582184",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-79139-LG.jpg?v=1711366630"
+                }
+            ]
+        }
+    ]
+}

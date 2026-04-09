@@ -1,0 +1,140 @@
+{
+    "legacy_product_id": "569024",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Distressed Cabinet Knob Round Rose, RK International BP-486",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-BP-486",
+            "mpn": "RKI-BP-486",
+            "price": "11.99",
+            "compare_at_price": "15.07",
+            "contractor_price": "11.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "RKI-BP-486",
+                "Distressed Knob Backplates",
+                "RK International BP-486",
+                "Distressed Cabinet Knob Round Roses",
+                "distressed knob roses"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BP-486-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BP-486-525.jpg?v=1716424655"
+        },
+        "text": {
+            "description_html": "<b>RK International BP-486, Distressed Cabinet Knob Roses</b>\r\n\r\n<p>\r\nThe Distressed Cabinet Knob Round Rose is available in 6 beautiful finishes and can be used with any cabinet knob or pull. It's a great way to add the last finishing touch to any kitchen cabinet. This cabinet knob backplate has a 1-9/16 inch diameter. The distressed detailing really helps bring out the highlights of the finishes.\r\n</p>\r\n\r\n<p>\r\nUse with matching <a href=\"/products/distressed-beveled-edge-cabinet-knob-rk-international-ck-711\"><b>CK-711 Distressed Cabinet Knob</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International BP-486 Traditional Cabinet Knob Rosette:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter: 1-9/16\"</li>\r\n<li>Projection: 1/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MUL-T-LOCK-TR100_size.gif?v=1704354719\" width=\"600\" height=\"133\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Distressed Cabinet Knob Round Rose",
+                "description": "RK International BP-486 Distressed Cabinet Knob Round Rose - The Distressed Cabinet Knob Round Rose is available in 6 beautiful finishes and can be used with any cabinet knob or pull. It's a great way to add the last finishing touch to any kitchen cabinet. This cabinet knob backplate has a 1-9/16 inch diameter. The distressed detailing really helps bring out the highlights of the finishes.",
+                "keywords": "RKI-BP-486, Distressed Knob Backplates, RK International BP-486, Distressed Cabinet Knob Round Roses, distressed knob roses,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Cabinet Knob and Pull Rosettes",
+                    "sort": "1"
+                },
+                {
+                    "name": "RK International Cabinet Knob and Pull Rosettes",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "556543",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "552708",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "567783",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "556482",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "555656",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "557000",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: VB: Valencia Bronze",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "VB: Valencia Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "legacy_product_id": "913771",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "2-3/4 Inch Tall x 4 inch Extended Lip Strike, Don-Jo EL-204",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "DJO-EL-204",
+            "mpn": "DJO-EL-204",
+            "price": "24.8",
+            "compare_at_price": "31.0",
+            "contractor_price": "22.32",
+            "shipping_weight": "0.3",
+            "tags": [
+                "4 Inch Extended Full Lip Strike Plates",
+                "Don-Jo EL 204 Extended Full Lip Door Strike Plates",
+                "4 Inch Extended Lip Door Strike Plates",
+                "2-3/4 Inch Tall x 4 inch Extended Lip Strikes",
+                "Don-Jo EL-204",
+                "Don-Jo EL204",
+                "DJO-EL-204",
+                "long door strikes",
+                "long strike plates",
+                "Don-Jo EL204-SL",
+                "Don-Jo EL204-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-EL-204-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-EL-204-525.jpg?v=1716426836"
+        },
+        "text": {
+            "description_html": "<b>Don-Jo EL-204, 4 Inch Extended Full Lip Strike Plate</b>\r\n\r\n<p>\r\nThis 2-3/4 Inch Tall x 4 inch Extended Lip Strike is for use with any manufacturer's tubular entry locks, passage and privacy set. It is especially handy for custom installations and extra thick doors.\r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-EL-204-specifications.gif?v=1704354690\" width=\"417\" height=\"248\" border=\"0\" alt=\"Don-Jo EL-204 Specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Don-Jo EL 204 Extended Full Lip Door Strike Plate:\r\n<ul>\r\n<li>Base Width: 2-3/4\"</li>\r\n<li>Lip Extension Length: 4\" Lip</li>\r\n<li>Overall Length: 4-9/16\"</li>\r\n<li>Packaged with Mounting Screws</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually. </i>\r\n<p>",
+            "seo": {
+                "title": "2-3/4 Inch Tall x 4 inch Extended Lip Strike",
+                "description": "This 2-3/4 Inch Tall x 4 inch Extended Lip Strike is for use with any manufacturer's tubular entry locks, passage and privacy set. It is especially handy for custom installations and extra thick doors.",
+                "keywords": "4 Inch Extended Full Lip Strike Plates, Don-Jo EL 204 Extended Full Lip Door Strike Plates, 4 Inch Extended Lip Door Strike Plates, 2-3/4 Inch Tall x 4 inch Extended Lip Strikes, Don-Jo EL-204, Don-Jo EL204, DJO-EL-204, long door strikes, long strike plates, Don-Jo EL204-SL, Don-Jo EL204-DU,"
+            },
+            "specifications": [
+                {
+                    "key": "Base Width",
+                    "value": "2-3/4\""
+                },
+                {
+                    "key": "Lip Extension Length",
+                    "value": "4\" Lip"
+                },
+                {
+                    "key": "Overall Length",
+                    "value": "4-9/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Strike Plates",
+                    "sort": "43"
+                },
+                {
+                    "name": "Strike Plates",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "481346",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "749108",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "640238",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "289321",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Base Width: 2-3/4\"",
+                "Lip Extension Length: 4\" Lip",
+                "Overall Length: 4-9/16\"",
+                "Select Finish: SL: Silver Paint",
+                "Select Finish: DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SL: Silver Paint",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

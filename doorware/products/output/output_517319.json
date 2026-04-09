@@ -1,0 +1,113 @@
+{
+    "legacy_product_id": "517319",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Omnia Mortise Lock Box 1600F",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-1600F",
+            "mpn": "OMN-1600F",
+            "price": "328.0",
+            "compare_at_price": "328.0",
+            "contractor_price": "328.0",
+            "shipping_weight": "4.0",
+            "tags": [
+                "Omnia Mortise Lock Box",
+                "1600F"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52596.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52596.gif?v=1769505291"
+        },
+        "text": {
+            "description_html": "<b>Omnia Mortise Lock Box</b>\r\n\r\n<p>\r\nMortise box for Omnia handlesets with thumb lift exterior and lever interior. \r\n</p>\r\n\r\n<p>\r\n<ul>\r\n<li>Function: Panic Proof Entry</li>\r\n<li>Backset: 2-1/2\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Mortise Box Only. </b>\r\n</p>",
+            "seo": {
+                "title": "Omnia Mortise Lock Box 1600F",
+                "description": "Mortise box for Omnia handlesets with thumb lift exterior and lever interior. \r\n",
+                "keywords": "Omnia Mortise Lock Box, 1600F"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "52"
+                },
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "87"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "41068",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "690853",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "40658",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "40595",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Door Handing & Door Swing: LHR: Left Hand Door, Out-swing",
+                "Select Door Handing & Door Swing: LH: Left Hand Door, In-swing",
+                "Select Door Handing & Door Swing: RHR: Right Hand Door, Out-swing",
+                "Select Door Handing & Door Swing: RH: Right Hand Door, In-swing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Handing & Door Swing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LHR: Left Hand Door, Out-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LH: Left Hand Door, In-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RHR: Right Hand Door, Out-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RH: Right Hand Door, In-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

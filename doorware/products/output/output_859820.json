@@ -1,0 +1,172 @@
+{
+    "legacy_product_id": "859820",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Blank Victorian Switch Plate, Grandeur VICSWPLTB",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-VICSWPLTB",
+            "mpn": "GRA-VICSWPLTB",
+            "price": "29.99",
+            "compare_at_price": "37.0",
+            "contractor_price": "29.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Blank Victorian Switch Plates",
+                "Victorian Blank Switch Plates",
+                "Grandeur VICSWPLTB",
+                "GRA-VICSWPLTB",
+                "Blank Socket Covers",
+                "Victorian Blank Outlet Plates",
+                "Grandeur Blank Victorian Switch Plate Covers",
+                "Ornate switch plate covers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-VICSWPLTB-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-VICSWPLTB-525.jpg?v=1716426099"
+        },
+        "text": {
+            "description_html": "<b>Grandeur VICSWPLTB, Victorian Blank Outlet Plate</b>\r\n\r\n<p>\r\nThe Blank Victorian Switch Plate is a great addition to any traditional home. This ornate switch plate cover is a real show stopper. Its fancy design really stands out and adds a unique touch to your space. The Victorian Blank Outlet Plate is available in a wide selection of finishes for a look that shows off your wonderful personal style. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur Blank Victorian Switch Plate Cover:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Height: 6-3/8\"</li>\r\n<li>Width: 3-5/8\"</li>\r\n<li>Projection: 1/2\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Blank Victorian Switch Plate",
+                "description": "The Blank Victorian Switch Plate is a great addition to any traditional home. This ornate switch plate cover is a real show stopper. Its fancy design really stands out and adds a unique touch to your space. The Victorian Blank Outlet Plate is available in a wide selection of finishes for a look that shows off your wonderful personal style.",
+                "keywords": "Blank Victorian Switch Plates, Victorian Blank Switch Plates, Grandeur VICSWPLTB, GRA-VICSWPLTB, Blank Socket Covers, Victorian Blank Outlet Plates, Grandeur Blank Victorian Switch Plate Covers,Ornate switch plate covers,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Height",
+                    "value": "6-3/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3-5/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1/2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Electrical Outlet &amp; Switch Plates",
+                    "sort": "54"
+                },
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "65"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "859869",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "172885",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "861021",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "237870",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "172863",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "141908",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Height: 6-3/8\"",
+                "Width: 3-5/8\"",
+                "Projection: 1/2\"",
+                "Select Finish: TB: Timeless Bronze",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: ULB: Unlacquered Brass",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: AP: Antique Pewter"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ULB: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

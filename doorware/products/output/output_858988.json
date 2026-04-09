@@ -1,0 +1,169 @@
+{
+    "legacy_product_id": "858988",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Rope Toggle Switch Plate, Grandeur ROPSWPLTT1",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-ROPSWPLTT1",
+            "mpn": "GRA-ROPSWPLTT1",
+            "price": "28.99",
+            "compare_at_price": "35.5",
+            "contractor_price": "28.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Grandeur ROPSWPLTT1",
+                "GRA-ROPSWPLTT1",
+                "Rope Toggle Plates",
+                "Rope Toggle Switch Plates",
+                "Rope Toggle Light Switch Covers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-ROPSWPLTT1-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-ROPSWPLTT1-525.jpg?v=1716426090"
+        },
+        "text": {
+            "description_html": "<b>Grandeur ROPSWPLTT1, Rope Toggle Light Switch Cover</b>\r\n\r\n<p>\r\nThe Rope Toggle Switch Plate has rope detailing around the edge that elevates this light switch cover with elegance. It is available in a wide array of finishes. the traditional Rope Toggle Plate Cover comes packaged with the installation hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur Rope Toggle Plate Cover:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 5\"</li>\r\n<li>Width: 3-1/4\"</li>\r\n<li>Projection: 1/4\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Rope Toggle Switch Plate",
+                "description": "The Rope Toggle Switch Plate has rope detailing around the edge that elevates this light switch cover with elegance. It is available in a wide array of finishes. the traditional Rope Toggle Plate Cover comes packaged with the installation hardware.",
+                "keywords": "Grandeur ROPSWPLTT1, GRA-ROPSWPLTT1, Rope Toggle Plates, Rope Toggle Switch Plates, Rope Toggle Light Switch Covers,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "5\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3-1/4\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Electrical Outlet &amp; Switch Plates",
+                    "sort": "106"
+                },
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "60"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "558614",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "566268",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "37956",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "858705",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "858732",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "858976",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 5\"",
+                "Width: 3-1/4\"",
+                "Projection: 1/4\"",
+                "Select Finish: TB: Timeless Bronze",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: ULB: Unlacquered Brass",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: AP: Antique Pewter"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ULB: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

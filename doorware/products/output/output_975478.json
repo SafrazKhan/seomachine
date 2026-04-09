@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "975478",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Exit Device Roller Strike, GLO-ED-KITR",
+            "vendor": "Global",
+            "status": "ARCHIVED",
+            "sku": "GLO-ED-KITR",
+            "mpn": "GLO-ED-KITR",
+            "price": "77.17",
+            "compare_at_price": "96.46",
+            "contractor_price": "77.17",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Roller Strike for Exit Devices",
+                "Exit Devices Roller Strikes",
+                "GLO-ED-KITR",
+                "Global ED-KITR-AL Roller Strikes"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-ED-KITR-AL-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-ED-KITR-AL-525.jpg?v=1769495255"
+        },
+        "text": {
+            "description_html": "<b>Global ED-KITR-AL Roller Strike</b>\r\n\r\n<p>\r\nThis is a Global ED-KITR-AL Roller Strike for use with the <a href=\"/products/30-to-36-inch-wide-door-touch-bar-rim-exit-device-th1100edtbar\"> Global TH1100EDTBAR  Touch Bar Rim Exit Device</a>, <a href=\"/products/36-inch-or-less-grade-2-exit-device-global-ed-301\"> Global ED-301  Crash Bar Exit Device</a>, and <a href=\"/products/exit-door-locks-global-ed-501-al\"> Global ED-501 Touch Bar Rim Exit Device</a>. Comes packaged with roller strike, shim, and installation hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specification</b> of the Roller Strike for Exit Devices:\r\n<ul>\r\nRoller Strike:\r\n<ul>\r\n<li>Height: 2-7/8:</li>\r\n<li>Width: 1-1/4\"</li>\r\n<li>Total Projection: 3/4\"</li>\r\n</ul>\r\n<br>\r\nShim:\r\n<ul> \r\n<li>Height: 2-7/8\"</li>\r\n<li>Width: 1-1/4\"</li>\r\n<li>Thickness: 1/32\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "Exit Device Roller Strike",
+                "description": "This is a Global ED-KITR-AL Roller Strike for use with the Global TH1100EDTBAR Touch Bar Rim Exit Device, Global ED-301 Crash Bar Exit Device, and Global ED-501 Touch Bar Rim Exit Device.",
+                "keywords": "Roller Strike for Exit Devices, Exit Devices Roller Strikes, GLO-ED-KITR, Global ED-KITR-AL Roller Strikes,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Global Discontinued",
+                    "sort": "39"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "175455",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "174671",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "756789",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "354503",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "833253",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "753723",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "377026",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DU: Dark Bronze",
+                "Select Finish: AL: Aluminum"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

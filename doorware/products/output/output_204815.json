@@ -1,0 +1,80 @@
+{
+    "legacy_product_id": "204815",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "AHI SIG Series Stainless Steel Set Screw",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-SIG-Screw",
+            "mpn": "AHI-SIG-Screw",
+            "price": "7.99",
+            "compare_at_price": "8.0",
+            "contractor_price": "8.0",
+            "shipping_weight": "0.3",
+            "tags": [
+                "AHI-SIG-Screws AHI SIG Series Stainless Steel Screw Set",
+                "AHI set screws",
+                "AHI  grub screws",
+                "AHI lever screws",
+                "AHI parts",
+                "needle point set screws"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AHI-6mm-set-screw_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-6mm-set-screw_525.jpg?v=1717788559"
+        },
+        "text": {
+            "description_html": "<b>AHI Stainless Steel Set Screw</b>\r\n<p>6mm needle point type set screw used for <a href=\"/collections/ahi-stainless-steel-levers\"><b>AHI Stainless Steel Lever sets</b></a>. \r\n</p>\r\n<p>\r\n These 5/16\" (7.5mm) long 6mm diameter needle point stainless steel set screws lock AHI stainless steel levers to the spindle. \r\n</p>\r\n<p><b>*Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "AHI SIG Series Stainless Steel Set Screw",
+                "description": "Set Screw for AHI Stainless Steel Levers. These 5/16  (7.5mm) long 6mm needle point stainless steel set screws lock AHI stainless steel levers to the spindle. ",
+                "keywords": "AHI-SIG-Screws AHI SIG Series Stainless Steel Screw Set, AHI set screws, AHI  grub screws, AHI lever screws, AHI parts, needle point set screws,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "AHI Miscellaneous Parts",
+                    "sort": "5"
+                },
+                {
+                    "name": "AHI Stainless Steel Levers",
+                    "sort": "102"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "158626",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "638069",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "142579",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "289327",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "999319",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

@@ -1,0 +1,136 @@
+{
+    "legacy_product_id": "1137119",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Half Privacy Arts and Crafts Lever Only, Emtek 5205AC-HALF",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-5205AC-HALF",
+            "mpn": "EMT-5205AC-HALF",
+            "price": "68.99",
+            "compare_at_price": "85.0",
+            "contractor_price": "68.99",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Half Privacy Arts and Crafts Lever Only",
+                "Emtek 5205AC-HALF",
+                "Emtek 5205AC Interior or Exterior Only"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-5055AC-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-5055AC-5251.jpg?v=1716428377"
+        },
+        "text": {
+            "description_html": "<b>Emtek 5205AC, Arts and Crafts Interior or Exterior Portion Only</b>\r\n\r\n<p>\r\nThis is the Arts and Crafts Lever with Arts and Crafts Rose packed with lever and rosette only. Please select Interior or Exterior.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Arts and Crafts Lever:\r\n<ul>\r\n<li>\r\n<li>Material: Solid Brass</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Lever Length: 4-3/8\"</li>\r\n<li>Lever Projection: 2-1/2\"</li>\r\n<li>Clearance: 1-7/8\"</li>\r\n<li>Rose Height: 4\"</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Half Privacy Arts and Crafts Lever Only",
+                "description": "This is the Arts and Crafts Lever with Arts and Crafts Rose packed with lever and rosette only. Please select Interior or Exterior.",
+                "keywords": "Half Privacy Arts and Crafts Lever Only, Emtek 5205AC-HALF, Emtek 5205AC Interior or Exterior Only"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Custom and Special Orders",
+                    "sort": "26"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "901015",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "876443",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "726546",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "726331",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "726418",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Interior or Exterior: Interior",
+                "Select Interior or Exterior: Exterior",
+                "Select Finish: US15: Satin Nickel",
+                "Handing: Right Handing",
+                "Handing: Left Handing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Interior or Exterior",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Interior",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Exterior",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Right Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Left Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

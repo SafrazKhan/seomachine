@@ -1,0 +1,122 @@
+{
+    "legacy_product_id": "454732",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1-1/4 Inch Mortise Cylinder, Schlage 20001C626114",
+            "vendor": "Schlage",
+            "status": "ACTIVE",
+            "sku": "SCH-20001C626114",
+            "mpn": "SCH-20001C626114",
+            "price": "87.2",
+            "compare_at_price": "109.0",
+            "contractor_price": "82.84",
+            "shipping_weight": "1.0",
+            "tags": [
+                "SCH-20001C626-114 1-1/4 Inch Mortise Cylinder",
+                "Schlage 20001C626-114 mortise Cylinders",
+                "1 1/4 Inch Mortise Cylinder Locks",
+                "panic device locks",
+                "Schlage alarm locks",
+                "Schlage  alarm cylinders",
+                "20001C626114 Schlage locks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/schlage-20001C-114_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/schlage-20001C-114_525.jpg?v=1717106090"
+        },
+        "text": {
+            "description_html": "<b>Schlage 1-1/4\" Mortise Cylinder Lock</b>\r\n<p>\r\n1-1/4\" length mortise cylinder with Straight style cam.  Used on panic device for dogging and alarm control. \r\n</p>\r\n<p>\r\nFor use with <a href=\"/products/alarm-rim-device-detex-v40eb62836\"><b>DETEX V40EB62836 Alarm Exit Device</b></a>, <a href=\"/products/alarm-exit-device-pdq-6200r-al\"><b>PDQ 6200R-AL Alarm Exit Device</b></a>, <a href=\"/products/surface-mount-door-alarm-alarm-lock-pg21\"><b>Alarm Lock PG21 Door Alarm</b></a>, Monarch and Von Duprin panic devices. \r\n</p>\r\n<p>\r\n<b>Specifications:</b> for Schlage 20001C626114 Mortise Cylinder\r\n<ul>\r\n<li>Mortise Cylinder Length: 1-1/4\"</li>\r\n<li>Cam: Straight Standard Yale Style</li>\r\n<li>Cylinder Diameter: Standard 1-5/32\" Diameter</li>\r\n<li>Cylinder: 6-pin Schlage \"C\" Keyway</li>\r\n<li>Finish: Brushed Chrome</li>\r\n</ul>\r\n</p>\r\n<br>",
+            "seo": {
+                "title": "1-1/4 Inch Mortise Cylinder, Schlage 20001C626114",
+                "description": "Schlage 20001C626-114 1-1/4 length mortise cylinder with Standard Yale style cam.  Used on panic device for dogging and alarm control. ",
+                "keywords": "SCH-20001C626-114 1-1/4 Inch Mortise Cylinder, Schlage 20001C626-114 mortise Cylinders, 1 1/4 Inch Mortise Cylinder Locks, panic device locks, Schlage alarm locks, Schlage  alarm cylinders, 20001C626114 Schlage locks"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "608452",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "184782",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "193377",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "266574",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "301722",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "304006",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "363580",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "363590",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Keying: I only ordered one",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I only ordered one",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

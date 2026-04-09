@@ -1,0 +1,68 @@
+{
+    "legacy_product_id": "465037",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "ADA Compliant Grab Bars",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "Grab-Bars",
+            "mpn": "Grab-Bars",
+            "price": "0.0",
+            "compare_at_price": "0.0",
+            "contractor_price": "0.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "ADA compliant Grab Bars",
+                "Stainless Steel Grab Bars",
+                "ADA approved grab bars",
+                "brass grabbars",
+                "solid brass grab bars",
+                "restroom grab bars",
+                "bathroom grab handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/buy-grab-bars_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/buy-grab-bars_525.jpg?v=1717789509"
+        },
+        "text": {
+            "description_html": "<p>\r\nADA approved stainless steel grab bars for residential and commercial use. Grab bars are typically used in restrooms to aid in toilet and shower use.\r\n</p>",
+            "seo": {
+                "title": "ADA Compliant Grab Bars",
+                "description": "ADA approved stainless steel grab bars for residential and commercial use. Grab bars are typically used in restrooms to aid in toilet and shower use.",
+                "keywords": "ADA compliant Grab Bars, Stainless Steel Grab Bars, ADA approved grab bars, brass grabbars, solid brass grab bars, restroom grab bars, bathroom grab handles,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Redirect Pages",
+                    "sort": "35"
+                },
+                {
+                    "name": "Bathroom Hardware",
+                    "sort": "42"
+                },
+                {
+                    "name": "Hospitality Hardware",
+                    "sort": "100"
+                },
+                {
+                    "name": "Don-Jo Hospitality Hardware",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

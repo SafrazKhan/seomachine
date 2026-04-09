@@ -1,0 +1,127 @@
+{
+    "legacy_product_id": "969081",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1-1/4 Inch Extended Lip Strike Plate, Emtek 86149",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-86149",
+            "mpn": "EMT-86149",
+            "price": "29.0",
+            "compare_at_price": "29.0",
+            "contractor_price": "29.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "EMT-86149",
+                "1-1/4 Inch Extended Lip Strike Plates",
+                "Emtek 86149",
+                "1-1/4 Extended Lip T Strike Plates",
+                "Emtek 86149 Strikeplates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86149-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86149-525.jpg?v=1716427281"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86149, 1-1/4\" Extended Lip T Strike Plate</b>\r\n\r\n<p>\r\nThis strike plate has a lip extension of 1-1/4\". It is solid brass and packaged with matching finish screws for easy installation. Extended lip door strike plates are normally used for thick door installations or to protect door jamb trim.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Emtek 86149 Strikeplate:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Overall Length: 2-1/2\"</li>\r\n<li>Lip Extension Length: 1-1/4\" </li>\r\n<li>Mounting Centers: 4-1/8\"</li>\r\n<li>Base Width: 24-7/8\"</li>\r\n<li>Lip Width: 3-3/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Made to Order. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "1-1/4 Inch Extended Lip Strike Plate",
+                "description": "This strike plate has a lip extension of 1-1/4 inches. It is solid brass and packaged with matching finish screws for easy installation. Extended lip door strike plates are normally used for thick door installations or to protect door jamb trim.",
+                "keywords": "EMT-86149, 1-1/4 Inch Extended Lip Strike Plates, Emtek 86149, 1-1/4 Extended Lip T Strike Plates, Emtek 86149 Strikeplates,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Overall Length",
+                    "value": "2-1/2\""
+                },
+                {
+                    "key": "Lip Extension Length",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Mounting Centers",
+                    "value": "4-1/8\""
+                },
+                {
+                    "key": "Base Width",
+                    "value": "24-7/8\""
+                },
+                {
+                    "key": "Lip Width",
+                    "value": "3-3/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "410754",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "941967",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "874754",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "753723",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "749108",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "289321",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Overall Length: 2-1/2\"",
+                "Lip Extension Length: 1-1/4\"",
+                "Mounting Centers: 4-1/8\"",
+                "Base Width: 24-7/8\"",
+                "Lip Width: 3-3/8\"",
+                "Select Finish: US19: Matte Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "legacy_product_id": "369243",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "ANSI Strike Hole Filler Plate, Don-Jo FS-260",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "DJO-FS-260",
+            "mpn": "DJO-FS-260",
+            "price": "4.16",
+            "compare_at_price": "5.2",
+            "contractor_price": "3.74",
+            "shipping_weight": "0.5",
+            "tags": [
+                "DJO-FS-260-PC ANSI Strike Hole Filler Plate",
+                "Don-Jo FS-260 ANSI Frame filler plates",
+                "metal door strikes",
+                "commercial metal frame block off plates",
+                "commercial Strike Plates",
+                "commercial frame filler plates",
+                "Don-Jo FS-260-PC",
+                "Don-Jo FS-260-CP"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-FS-260_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-FS-260_525.jpg?v=1716423441"
+        },
+        "text": {
+            "description_html": "<b>Don-Jo FS-260, ANSI Strike Hole Frame Filler Plate</b>\r\n\r\n<p>\r\nANSI strike plate hole frame filler plate. Normally used on commercial metal frame doors to cover the frame hole when a <a href=\"/collections/panic-devices\"><b>Panic Device</b></a> is used on the door. \r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/don-jo-FS-260_size.gif?v=1704354690\" width=\"600\" height=\"300\" border=\"0\" alt=\"Don-Jo FS-260 frame filler plate size\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Don-Jo FS-260 Filler Plate:\r\n<ul>\r\n<li>Plate Length: 4-7/8\"</li>\r\n<li>Plate Width: 1-1/4\"</li>\r\n<li>Plate Thickness: .090\" (13 Gauge)</li>\r\n<li>Material: Steel</li>\r\n<li>Finish: Optional Primer or Chrome plated</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FS-260.pdf?v=1704262278\" target=\"new\"><b>Don-Jo FS-260 Filler Plate Dimensions (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "ANSI Strike Hole Filler Plate, Don-Jo FS-260",
+                "description": "Don-Jo FS-260 Strike hole frame filler plate for commercial metal frame doors. Fits standard ANSI strike cut-out.",
+                "keywords": "DJO-FS-260-PC ANSI Strike Hole Filler Plate, Don-Jo FS-260 ANSI Frame filler plates, metal door strikes, commercial metal frame block off plates, commercial Strike Plates, commercial frame filler plates, Don-Jo FS-260-PC, Don-Jo FS-260-CP,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Length",
+                    "value": "4-7/8\""
+                },
+                {
+                    "key": "Plate Width",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Plate Thickness",
+                    "value": ".090\" (13 Gauge)"
+                },
+                {
+                    "key": "Material",
+                    "value": "Steel"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Optional Primer or Chrome plated"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Strike Plates",
+                    "sort": "15"
+                },
+                {
+                    "name": "Strike Plates",
+                    "sort": "50"
+                },
+                {
+                    "name": "Don-Jo Latch Conversion and Filler Plates",
+                    "sort": "7"
+                },
+                {
+                    "name": "Door Latch Conversion and Filler Plates",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1039571",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "368922",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "547923",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "540522",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "539039",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "236559",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "353918",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "236525",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "566535",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Plate Length: 4-7/8\"",
+                "Plate Width: 1-1/4\"",
+                "Plate Thickness: .090\" (13 Gauge)",
+                "Material: Steel",
+                "Finish: Optional Primer or Chrome plated",
+                "Select Finish: PC: Primer",
+                "Select Finish: CP: Chrome Plated"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PC: Primer",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CP: Chrome Plated",
+                    "price_impact": 11.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

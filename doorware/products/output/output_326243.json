@@ -1,0 +1,127 @@
+{
+    "legacy_product_id": "326243",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "5 Inch Kickdown Door Holder, Ives FS452-5",
+            "vendor": "Ives",
+            "status": "ACTIVE",
+            "sku": "IVES-FS452-5",
+            "mpn": "IVES-FS452-5",
+            "price": "49.04",
+            "compare_at_price": "61.3",
+            "contractor_price": "46.59",
+            "shipping_weight": "0.5",
+            "tags": [
+                "IVES-FS452-5 5 Inch Kickdown Door Holder",
+                "Ives FS452-5"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Ives FS452-5 5\" Kickdown Door Holder</b>\r\n<p>\r\nThis kickdown door holder mounts to the lower surface of the door to keep  it in an open position. You can flip it up in a locked position, and then flip it down when you want to have the door stay open.\r\n</p>\r\n<p>\r\nThese kickdown door stops are made of Solid Brass by Ives. It includes a non-skid easily replaceable rubber tip to protect the floor, and is supplied with new mounting screws. \r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> of Ives FS452-5 5\" Kickdown Door Holder\r\n<ul>\r\n<li>Total Length: 5-3/4\"</li>\r\n<li>Arm Length: 5\"</li>\r\n<li>Maximum Door Gap to Floor: 3\"</li>\r\n<li>Rubber Tip: Black</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Packaged with Mounting Screws</li>\r\n<li>Stainless Steel Spring</li>\r\n</ul>\r\n</p>\r\n<p><b>*Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "5 Inch Kickdown Door Holder, Ives FS452-5",
+                "description": "Ives FS452-5 5 inch kickdown door holder mounts to the lower surface of the door to keep  it in an open position. You can flip it up in a locked position, and then flip it down when you want to have the door stay open.",
+                "keywords": "IVES-FS452-5 5 Inch Kickdown Door Holder, Ives FS452-5"
+            },
+            "specifications": [
+                {
+                    "key": "Total Length",
+                    "value": "5-3/4\""
+                },
+                {
+                    "key": "Arm Length",
+                    "value": "5\""
+                },
+                {
+                    "key": "Maximum Door Gap to Floor",
+                    "value": "3\""
+                },
+                {
+                    "key": "Rubber Tip",
+                    "value": "Black"
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Ives",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "162238",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "478253",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "6802",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "485838",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Total Length: 5-3/4\"",
+                "Arm Length: 5\"",
+                "Maximum Door Gap to Floor: 3\"",
+                "Rubber Tip: Black",
+                "Material: Solid Brass",
+                "Select Finish: IVES-FS45226D-5 - Satin Chrome",
+                "Select Finish: IVES-FS45210B-5 - Oil Rubbed Bronze",
+                "Select Finish: IVES-FS45215-5 - Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "IVES-FS45226D-5 - Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "IVES-FS45210B-5 - Oil Rubbed Bronze",
+                    "price_impact": 12.24,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "IVES-FS45215-5 - Satin Nickel",
+                    "price_impact": 20.08,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

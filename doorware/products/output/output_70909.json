@@ -1,0 +1,297 @@
+{
+    "legacy_product_id": "70909",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Glynn Johnson 70 Series Heavy Duty Overhead Door Holder/Stop",
+            "vendor": "Glynn-Johnson",
+            "status": "ACTIVE",
+            "sku": "GLY-70-series",
+            "mpn": "GLY-70-series",
+            "price": "305.6",
+            "compare_at_price": "382.0",
+            "contractor_price": "305.6",
+            "shipping_weight": "5.0",
+            "tags": [
+                "GLY-70-series Glynn Johnson 70 Series Overhead Door Holder/Stop glynn johnson 70 series overhead door holder/stop",
+                "702S",
+                "703s",
+                "704S",
+                "705S",
+                "706S",
+                "702H",
+                "703H",
+                "704H",
+                "705H",
+                "706H",
+                "Glynn Johnson 70 Series Door Stops",
+                "door holders",
+                "door hold open",
+                "hold door open"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/5552.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/5552.jpg?v=1716421062"
+        },
+        "text": {
+            "description_html": "<b>Glynn Johnson 70 Series Heavy Duty Overhead Door Holder / Stop</b>\r\n<p>\r\n<b>The Glynn Johnson 70 series </b>provides a durable Hold-Open mechanism that can be turned off, allowing the unit to function as a shock-absorbing stop. The Hold-Open tension is simply adjusted incrementally for increased or decreased holding power by turning the nut at the end of the 1/2\" diameter stainless steel bar.  \r\n</p>\r\n<p>\r\n\r\n<b>Hold Open and Stop</b><br>\r\nHold-Open models provide a selective Hold-Open function with easy-to-adjust tension. A simple 90º rotation of the roller mechanism disables the Hold-Open function, allowing the unit to serve as a shock-absorbing stop. The Hold- Open function provides a convenient method of holding the door open at a predetermined position for short or long periods of time, permitting an unobstructed traffic flow through the opening.\r\n</p>\r\n<p>\r\n\r\n<b>Stop Only</b><br>\r\nWhen the Hold-Open function is not a requirement, Stop-Only models provide a reliable method of door control. Stop-Only models provide the same shock-absorbing capability as Hold-Open models. The Stop-Only model may be used on fire doors.\r\n</p>\r\n<p>\r\n<img src=..https://cdn.shopify.com/s/files/1/0766/1489/3857/files/gly-70-series-2.jpg?v=1704354773>\r\n</p>",
+            "seo": {
+                "title": "Glynn Johnson 70 Series Heavy Duty Overhead Door Holder/Stop",
+                "description": "The Glynn Johnson 70 series provides a durable Hold-Open mechanism that can be turned off, allowing the unit to function as a shock-absorbing stop. The Hold-Open tension is simply adjusted incrementally for increased or decreased holding power by turning the nut at the end of the bar.",
+                "keywords": "GLY-70-series Glynn Johnson 70 Series Overhead Door Holder/Stop glynn johnson 70 series overhead door holder/stop, 702S, 703s, 704S, 705S, 706S, 702H, 703H, 704H, 705H, 706H, Glynn Johnson 70 Series Door Stops, door holders, door hold open, hold door open,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Glynn-Johnson",
+                    "sort": "5"
+                },
+                {
+                    "name": "Overhead Holders And Stops",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "71498",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "71327",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "285720",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "71236",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "71570",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "430060",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "8987",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "1087203",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Size: 702H: Size 2, Hold-Open",
+                "Select Size: 703H: Size 3, Hold-Open",
+                "Select Size: 704H: Size 4, Hold-Open",
+                "Select Size: 705H: Size 5, Hold-Open",
+                "Select Size: 706H: Size 6, Hold-Open",
+                "Select Size: 702S: Size 2, Stop-Only",
+                "Select Size: 703S: Size 3, Stop-Only",
+                "Select Size: 704S: Size 4, Stop-Only",
+                "Select Size: 705S: Size 5, Stop-Only",
+                "Select Size: 706S: Size 6, Stop-Only",
+                "Select Finish: SP28: Aluminum",
+                "Select Finish: SP4: Brass",
+                "Select Finish: SP10: Bronze",
+                "Select Finish: SP313: Dark Bronze",
+                "Select Finish: SPBLK: Black",
+                "Select Finish: US26D: Satin Chrome",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US26: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "702H: Size 2, Hold-Open",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "702H"
+                },
+                {
+                    "value": "703H: Size 3, Hold-Open",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "703H"
+                },
+                {
+                    "value": "704H: Size 4, Hold-Open",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "704H"
+                },
+                {
+                    "value": "705H: Size 5, Hold-Open",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "705H"
+                },
+                {
+                    "value": "706H: Size 6, Hold-Open",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "706H"
+                },
+                {
+                    "value": "702S: Size 2, Stop-Only",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "702S"
+                },
+                {
+                    "value": "703S: Size 3, Stop-Only",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "703S"
+                },
+                {
+                    "value": "704S: Size 4, Stop-Only",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "704S"
+                },
+                {
+                    "value": "705S: Size 5, Stop-Only",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "705S"
+                },
+                {
+                    "value": "706S: Size 6, Stop-Only",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "706S"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SP28: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SP28"
+                },
+                {
+                    "value": "SP4: Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SP4"
+                },
+                {
+                    "value": "SP10: Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SP10"
+                },
+                {
+                    "value": "SP313: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SP313"
+                },
+                {
+                    "value": "SPBLK: Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SPBLK"
+                },
+                {
+                    "value": "US26D: Satin Chrome",
+                    "price_impact": 16.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26D"
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 38.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US3"
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 38.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US4"
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 38.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US10B"
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 16.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "legacy_product_id": "232191",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Adjustable T Door Strike, Deltana SP2751",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-SP2751",
+            "mpn": "DEL-SP2751",
+            "price": "6.26",
+            "compare_at_price": "8.34",
+            "contractor_price": "5.95",
+            "shipping_weight": "0.1",
+            "tags": [
+                "DEL-SP2751 Adjustable T Door Strikes",
+                "Deltana Solid Brass Adjustable T Door Strikes",
+                "deadbolt lip strike plates",
+                "Deltana SP2751 Strike Plates",
+                "DEL-SP2751U26D",
+                "DEL-SP2751U26",
+                "DEL-SP2751U3",
+                "DEL-SP2751U5"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-SP2751_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SP2751_525.jpg?v=1716422213"
+        },
+        "text": {
+            "description_html": "<b>Deltana SP2751, Adjustable \"T\" Lip Door Strike Plate</b>\r\n\r\n<p>\r\nThis adjustable length \"T\" lip door strike plate is available in 4 great finishes. Normally used with a door knob or door lever. The lip is adjustable from 1 3/8\" to 1 5/8\" - from center of the mounting screw. \r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-FLORDB-Specifications.gif?v=1704354730\" width=\"600\" height=\"250\" border=\"0\" alt=\"Deltana strike plate dimensions\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Deltana SP2751 Strike Plate:\r\n<ul>\r\n<li>Material: Steel</li>\r\n<li>Plate Height: 2-3/4\"</li>\r\n<li>Plate Width: 1-1/4\"</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SP2751.pdf?v=1691095377\" target=\"new\"><b>Deltana SP2751 Dimensions (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Adjustable T Door Strike, Deltana SP2751",
+                "description": "Deltana SP2751 These adjustable length T lip door strike plates are available in 4 great finishes.  Normally used with a door knob or door lever. Normally used with a door knob or door lever. The lip is adjustable from 1 3/8\" to 1 5/8\" - from center of the mounting screw. ",
+                "keywords": "DEL-SP2751 Adjustable T Door Strikes, Deltana Solid Brass Adjustable T Door Strikes, deadbolt lip strike plates, Deltana SP2751 Strike Plates, DEL-SP2751U26D, DEL-SP2751U26, DEL-SP2751U3, DEL-SP2751U5"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Steel"
+                },
+                {
+                    "key": "Plate Height",
+                    "value": "2-3/4\""
+                },
+                {
+                    "key": "Plate Width",
+                    "value": "1-1/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Deltana Strikes and Latches",
+                    "sort": "6"
+                },
+                {
+                    "name": "Strike Plates",
+                    "sort": "10"
+                },
+                {
+                    "name": "Door Latch Conversion and Filler Plates",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "610394",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "7108",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "161992",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "753723",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "162019",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "162050",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "161967",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "162022",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "285901",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Material: Steel",
+                "Plate Height: 2-3/4\"",
+                "Plate Width: 1-1/4\"",
+                "Select Finish: U26D: Satin Chrome",
+                "Select Finish: U26: Polished Chrome",
+                "Select Finish: U3: Polished Brass",
+                "Select Finish: U5: Antique Brass",
+                "Select Finish: US19: Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

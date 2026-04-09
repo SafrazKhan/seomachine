@@ -1,0 +1,206 @@
+{
+    "legacy_product_id": "1043565",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Brass Ball Catch, Emtek 8802",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-8802",
+            "mpn": "EMT-8802",
+            "price": "24.99",
+            "compare_at_price": "30.0",
+            "contractor_price": "24.99",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Solid Brass Ball Catches",
+                "Emtek 8802",
+                "EMT-8802",
+                "Solid Brass Door Ball Catches"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-8802-US4-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-8802-US4-525.jpg?v=1711366486"
+        },
+        "text": {
+            "description_html": "<b>Emtek 8802, Solid Brass Door Ball Catch</b>\r\n\r\n<p>\r\nBall catches are installed in the top, bottom and/or side of the door to hold them closed. Each Solid Brass Ball Catch is packaged with matching finish screws. Used in conjunction with dummy hardware. Supplied with strike. Made of solid brass.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Emtek 8802 Door Ball Catch:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Corner Type: Square</li>\r\n<li>Catch Faceplate Length: 2-1/8\"</li>\r\n<li>Catch Faceplate Width: 1\"</li>\r\n<li>Strike Plate Length: 2-1/8\" </li>\r\n<li>Strike Plate Width: 1-3/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Solid Brass Ball Catch",
+                "description": "Ball catches are installed in the top, bottom and/or side of the door to hold them closed. Each Solid Brass Ball Catch is packaged with matching finish screws. Used in conjunction with dummy hardware. Supplied with strike. Made of solid brass.\r\n",
+                "keywords": "Solid Brass Ball Catches, Emtek 8802, EMT-8802, Solid Brass Door Ball Catches,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Corner Type",
+                    "value": "Square"
+                },
+                {
+                    "key": "Catch Faceplate Length",
+                    "value": "2-1/8\""
+                },
+                {
+                    "key": "Catch Faceplate Width",
+                    "value": "1\""
+                },
+                {
+                    "key": "Strike Plate Length",
+                    "value": "2-1/8\""
+                },
+                {
+                    "key": "Strike Plate Width",
+                    "value": "1-3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Emtek Accessories",
+                    "sort": "10"
+                },
+                {
+                    "name": "Window and Door Catches",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "190140",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "156483",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "7069",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Corner Type: Square",
+                "Catch Faceplate Length: 2-1/8\"",
+                "Catch Faceplate Width: 1\"",
+                "Strike Plate Length: 2-1/8\"",
+                "Strike Plate Width: 1-3/4\"",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US15A: Antique Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US7: French Antique",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: TWB: Tumbled White Bronze",
+                "Select Finish: MB: Medium Bronze",
+                "Select Finish: US3NL: Unlacquered Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US7: French Antique",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TWB: Tumbled White Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MB: Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3NL: Unlacquered Brass",
+                    "price_impact": 16.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

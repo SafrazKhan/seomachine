@@ -1,0 +1,165 @@
+{
+    "legacy_product_id": "858616",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Rope Quad Outlet Plate, Grandeur ROPSWPLTD2",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-ROPSWPLTD2",
+            "mpn": "GRA-ROPSWPLTD2",
+            "price": "39.99",
+            "compare_at_price": "50.0",
+            "contractor_price": "39.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Grandeur ROPSWPLTD2",
+                "GRA-ROPSWPLTD2 Double Rope Outlet Cover Plates",
+                "Rope Quad Outlet Plates",
+                "Double Electrical Socket Covers",
+                "Grandeur Rope Outlet Covers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-ROPSWPLTD2-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-ROPSWPLTD2-5251.jpg?v=1716426083"
+        },
+        "text": {
+            "description_html": "<b>Grandeur ROPSWPLTD2, Rope Double Electrical Socket Cover</b>\r\n\r\n<p>\r\nThe Rope Quad Outlet Plate is a great way to add classic elegance to any space. It is easy to install and comes packaged with all the necessary mounting hardware. The Double Rope Outlet Cover Plate has a classic style that makes it a great finishing touch for traditional homes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur Rope Outlet Cover:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 5-1/8\"</li>\r\n<li>Width: 5-1/8\"</li>\r\n<li>Projection: 1/4\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Rope Quad Outlet Plate",
+                "description": "The Rope Quad Outlet Plate is a great way to add classic elegance to any space. It is easy to install and comes packaged with all the necessary mounting hardware. The Double Rope Outlet Cover Plate has a classic style that makes it a great finishing touch for traditional homes.",
+                "keywords": "Grandeur ROPSWPLTD2, GRA-ROPSWPLTD2 Double Rope Outlet Cover Plates, Rope Quad Outlet Plates, Double Electrical Socket Covers, Grandeur Rope Outlet Covers,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "5-1/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "5-1/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Electrical Outlet &amp; Switch Plates",
+                    "sort": "104"
+                },
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "55"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "562491",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "566268",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "858690",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "858705",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "858732",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 5-1/8\"",
+                "Width: 5-1/8\"",
+                "Projection: 1/4\"",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: AP: Antique Pewter",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: ULB: Unlacquered Brass",
+                "Select Finish: TB: Timeless Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ULB: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

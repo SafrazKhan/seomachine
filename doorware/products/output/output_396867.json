@@ -1,0 +1,132 @@
+{
+    "legacy_product_id": "396867",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "8 Inch Ribbon Pull, Fusion GRB-902",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-GRB-902",
+            "mpn": "FUS-GRB-902",
+            "price": "89.0",
+            "compare_at_price": "89.0",
+            "contractor_price": "66.75",
+            "shipping_weight": "2.0",
+            "tags": [
+                "FUS-GRB-902 8 Inch Ribbon Pulls",
+                "Fusion Ribbon grabs",
+                "fusion hardware Ribbon appliance pulls",
+                "solid brass refrigerator pulls",
+                "fusion hardware Ribbon collection",
+                "Ribbon door grabs",
+                "fusion grb-902",
+                "fusion hardware 8 inch appliance pulls",
+                "traditional appliance pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-GRB-902-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-GRB-902-525.jpg?v=1711365458"
+        },
+        "text": {
+            "description_html": "<b>Fusion GRB-902, 8 Inch Ribbon Pull</b>\r\n\r\n<p>\r\nFusion Hardware's Ribbon Grab has a stately manor. The handle itself is pillar shaped, granting it a grandeur that borders on exaltedness. Made out of solid brass, it will has an 8 inch center to center mounting. It is made out of solid brass and is available in 4 finishes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the 8\" Ribbon Pull:\r\n<ul>\r\n<li>Length: 8\" center to center</li>\r\n<li>Material: solid brass</li>\r\n<li>Packaged with appliance panel mounting screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>",
+            "seo": {
+                "title": "8 Inch Ribbon Pull, Fusion GRB-902",
+                "description": "Fusion GRB-902, Sonoma 8 Inch Door Grab - Fusion Hardware's Ribbon Grab has a stately manor. The handle itself is pillar shaped, granting it a grandeur that borders on exaltedness. Made out of solid brass, it will has an 8 inch center to center mounting. It is made out of solid brass and is available in 4 finishes.\r\n",
+                "keywords": "FUS-GRB-902 8 Inch Ribbon Pulls, Fusion Ribbon grabs, fusion hardware Ribbon appliance pulls, solid brass refrigerator pulls, fusion hardware Ribbon collection, Ribbon door grabs, fusion grb-902, fusion hardware 8 inch appliance pulls, traditional appliance pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Large Pulls",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "177852",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "283578",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "212306",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "194734",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "222100",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "141940",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "46407",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "325223",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: BRN - Brushed Nickel",
+                "Select Finish: ORB - Oil Rubbed Bronze",
+                "Select Finish: PVD - PVD Polished Brass",
+                "Select Finish: ATP - Antique Pewter"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BRN - Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PVD - PVD Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ATP - Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "legacy_product_id": "976256",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Thumbturn for Older Handlesets, Omnia 805.00",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-805.00",
+            "mpn": "OMN-805.00",
+            "price": "64.5",
+            "compare_at_price": "64.5",
+            "contractor_price": "64.5",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Omnia 805.00",
+                "Thumbturn for Older Handlesets",
+                "OMN-805.00"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52580.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52580.gif?v=1716427316"
+        },
+        "text": {
+            "description_html": "<b>Omnia 805.00, Thumbturn for Older Handlesets</b>\r\n\r\n<p>\r\nThis thumbturn is for older Omnia tubular handlesets that contained a mortise deadbolt. This will NOT fit on newer Omnia handlesets with tubular deadbolts. \r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i> <b>No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "Thumbturn for Older Handlesets",
+                "description": "This is a replacement Thumbturn for Omnia Handlesets",
+                "keywords": "Omnia 805.00, Thumbturn for Older Handlesets, OMN-805.00"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "68"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: US3: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

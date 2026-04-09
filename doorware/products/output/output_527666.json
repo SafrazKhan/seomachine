@@ -1,0 +1,89 @@
+{
+    "legacy_product_id": "527666",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Omnia #251 Lever Only, Finish: Polished Brass",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-251/xx.3",
+            "mpn": "OMN-251/xx.3",
+            "price": "97.0",
+            "compare_at_price": "108.0",
+            "contractor_price": "97.0",
+            "shipping_weight": "4.0",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Omnia 251, Ornate Door Lever <b>\r\n\r\n<p>\r\nFit for royalty, door lever features luxurious embellishments on the handle and the rose. It exudes richness that will lend its ornate styling well to fancier home décors.\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of the Embellished Lever:\r\n<ul>\r\n<li>Meets ADA accessibility requirements.</li>\r\n<li>Solid Brass Construction</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Omnia 251 Fancy Door Lever:\r\n<ul>\r\n<li>Lever Length: 4-3/4\"</li>\r\n<li>Lever Projection: 2-3/8\"</li>\r\n<li>Finish: Polished Brass</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Omnia #251 Lever Only, Finish: Polished Brass",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": [
+                {
+                    "key": "Lever Length",
+                    "value": "4-3/4\""
+                },
+                {
+                    "key": "Lever Projection",
+                    "value": "2-3/8\""
+                },
+                {
+                    "key": "Finish",
+                    "value": "Polished Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "67"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Lever Length: 4-3/4\"",
+                "Lever Projection: 2-3/8\"",
+                "Finish: Polished Brass",
+                "Select Handing: OMN-251/07.3-RH, Right Handed Door",
+                "Select Handing: OMN-251/17.3-LH, Left Handed Door"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-251/07.3-RH, Right Handed Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "OMN-251/17.3-LH, Left Handed Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

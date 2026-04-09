@@ -1,0 +1,65 @@
+{
+    "legacy_product_id": "1008790",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Thru-Bore Dummy Mounting Kit, Emtek 8900",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-8900",
+            "mpn": "EMT-8900",
+            "price": "26.99",
+            "compare_at_price": "26.99",
+            "contractor_price": "26.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Thru-Bore Dummy Mounting Kits",
+                "Emtek 8900",
+                "EMT-8900"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-8900-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-8900-525.jpg?v=1717790805"
+        },
+        "text": {
+            "description_html": "<b>Emtek 8900 Thru Bore Dummy Kit</b>\r\n\r\n<p>\r\nThis Emtek Thru Bore Dummy Kit is used for mounting a dummy pair on a door with a 2-1/8\" bore hole.\r\n</p>\r\n\r\n<p>\r\n<I><b>**Please specify Lever/Knob and rosette styles when ordering**</b></i>\r\n</p>",
+            "seo": {
+                "title": "Thru-Bore Dummy Mounting Kit",
+                "description": "This Emtek Thru Bore Dummy Kit is used for mounting a dummy pair on a door with a 2-1/8 inch bore hole.",
+                "keywords": "Thru-Bore Dummy Mounting Kits, Emtek 8900, EMT-8900"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "891936",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "889937",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "897709",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

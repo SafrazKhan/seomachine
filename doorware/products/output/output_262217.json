@@ -1,0 +1,152 @@
+{
+    "legacy_product_id": "262217",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Door Viewer Bezel, First Impressions 1301/02",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-1301/02",
+            "mpn": "FII-1301/02",
+            "price": "89.0",
+            "compare_at_price": "110.0",
+            "contractor_price": "89.0",
+            "shipping_weight": "0.75",
+            "tags": [
+                "First Impressions 1301/02 Decorative Peephole Ornaments",
+                "FII-1301/02 Decorative Door Viewer Bezels"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>First Impressions 1301/02 Decorative Door Viewer Bezel</b>\r\n<p>\r\nAdd beauty to that forgotten piece of hardware on your door, the door viewer (peephole)!  They install in as little as 5 minutes, and the only tool needed to add one to an existing door viewer is a quarter shaped object! For use with 1/2\" diameter door viewer. \r\n</p>\r\n<p>\r\nCan be used on both the exterior and interior of your door. \r\n</p>\r\n<p>\r\n<b>Specifications</b> for First Impressions 1301/02 Door Viewer Bezel\r\n<ul>\r\n<li>Outer Diameter: 1-15/16\"</li>\r\n<li>Inner Hole Diameter: 5/8\" (For use with 1/2\" diameter door viewer)</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Available Finishes: 5</li>\r\n</ul>\r\n</p>\r\n<p> \r\n<b>Door viewer is not included.</b>  \r\n</p>\r\n<p><b>*Sold Individually. </b>\r\n</p>",
+            "seo": {
+                "title": "Door Viewer Bezel, First Impressions 1301/02",
+                "description": "First Impressions 1301/02 Decorative Peephole Ornaments. Add beauty to that forgotten piece of hardware o your door, the door viewer (peephole)!  They install in as little as 5 minutes, and the only tool needed to add one to an existing door viewer is a quarter shaped object! For use with 1/2 inch diameter door viewer. ",
+                "keywords": "First Impressions 1301/02 Decorative Peephole Ornaments, FII-1301/02 Decorative Door Viewer Bezels,"
+            },
+            "specifications": [
+                {
+                    "key": "Outer Diameter",
+                    "value": "1-15/16\""
+                },
+                {
+                    "key": "Inner Hole Diameter",
+                    "value": "5/8\" (For use with 1/2\" diameter door viewer)"
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Available Finishes",
+                    "value": "5"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Door Accessories",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Outer Diameter: 1-15/16\"",
+                "Inner Hole Diameter: 5/8\" (For use with 1/2\" diameter door viewer)",
+                "Material: Solid Brass",
+                "Available Finishes: 5",
+                "Select Trim Option: FII-1302/02 Without Lid",
+                "Select Trim Option: FII-1302/01 With Lid",
+                "Select Finish: FII-1301/02-US15 - Satin Nickel",
+                "Select Finish: FII-1301/02-US14 - Polished Nickel",
+                "Select Finish: FII-1301/02-US26 - Polished Chrome",
+                "Select Finish: FII-1301/02-US3 - Polished Brass",
+                "Select Finish: FII-1301/02-US5 - Antique Brass",
+                "Select Finish: FII-1301/02-US10B - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Trim Option",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-1302/02 Without Lid",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-1302/01 With Lid",
+                    "price_impact": 7.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-1301/02-US15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-1301/02-US14 - Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-1301/02-US26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-1301/02-US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-1301/02-US5 - Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-1301/02-US10B - Oil Rubbed Bronze",
+                    "price_impact": 14.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

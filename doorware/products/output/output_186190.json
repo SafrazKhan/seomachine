@@ -1,0 +1,200 @@
+{
+    "legacy_product_id": "186190",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Black Iron Skeleton Key Mortise Lock, Acorn TM Series",
+            "vendor": "Acorn",
+            "status": "ARCHIVED",
+            "sku": "ACO-TM-Series",
+            "mpn": "ACO-TM-Series",
+            "price": "364.32",
+            "compare_at_price": "455.4",
+            "contractor_price": "346.1",
+            "shipping_weight": "5.0",
+            "tags": [
+                "ACO-TM-Series",
+                "Acorn TM series mortise lock boxes",
+                "mortise skeleton key locks",
+                "mortise skeleton key locksets",
+                "replacement mortise boxes",
+                "mortise handlesets",
+                "acorn TMGBG",
+                "acorn TMHBG",
+                "acorn TMJBG",
+                "acorn AMKBG",
+                "black iron mortise locks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/tm525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/tm525.jpg?v=1716421764"
+        },
+        "text": {
+            "description_html": "<b>Acorn TM Series Mortise Skeleton Key Lock Box Replacment</b>\r\n\r\n<p>\r\nThis mortise skeleton lock can be used with or without a turnpiece in conjunction with a lever or a knob. Specifically designed to be used with or replace an Acorn Skeleton Mortise Lockset, the TM Series Mortise Lock Box has a black iron finish. A double cylinder lock, the deadbolt is operated by skeleton key from both the interior and the exterior. The front measures 5-1/2\" by 1\". Made for doors with a 2-1/2\" backset.\r\n</p>\r\n\r\n<p>\r\nUnlike a simple tubular latch, this is a <b>mortise lock</b>. They are extremely durable and have a tighter clearance tolerance. You know it's a mortise lock when you hear that heavy, smooth, solid 'click' when the door closes shut.\r\n</p>\r\n\r\n<p>\r\n<b>Features:</b> of the Mortise Lock:\r\n<ul>\r\n<li>Finish: <b>Black</b></li>\r\n<li>Front Length: 5-1/2\"</li>\r\n<li>Front Width: 1\"</li>\r\n<li>Backset: 2-1/2\"</li>\r\n<li>Hub to center of lock 2-1/2\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>When selecting the Handing:</b>\r\n<br>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/door-handing-picture.gif?v=1704352978\" border=\"0\" width=\"410\" height=\"150\" alt=\"door handing - left or right handed lever\">\r\n</p>\r\n\r\n<p>\r\n<i>The handing actually refers to the mortise lock, rather than the knob or lever used.</i>\r\n</p>\r\n\r\n<p>\r\n<b>Double Cylinder:</b> A knob operates the latch from both the interior and the exterior while a key operates the deadbolt from both sides of the door.\r\n</p>",
+            "seo": {
+                "title": "Black Iron Skeleton Key Mortise Lock, Acorn TM Series",
+                "description": "Acorn TM Series Black Iron Skeleton Key Mortise Lock - This mortise skeleton lock can be used with or without a turnpiece in conjunction with a lever or a knob. Specifically designed to be used with or replace an Acorn Skeleton Mortise Lockset, the TM Series Mortise Lock Box has a black iron finish. A double cylinder lock, the deadbolt is operated by skeleton key from both the interior and the exterior. The front measures 5-1/2 inches by 1 inch. Made for doors with a 2-1/2 inch backset.",
+                "keywords": "ACO-TM-Series, Acorn TM series mortise lock boxes, mortise skeleton key locks, mortise skeleton key locksets, replacement mortise boxes, mortise handlesets, acorn TMGBG, acorn TMHBG, acorn TMJBG, acorn AMKBG, black iron mortise locks,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Acorn Discontinued",
+                    "sort": "100"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "186204",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "186226",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "186230",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "369161",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "931988",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "276806",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "178162",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "186234",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Style: TMGBG: Lock Box for Lever",
+                "Select Style: TMHBG: Lock Box for Knob",
+                "Select Style: TMJBG: Lock Box for Lever with Turnpiece",
+                "Select Style: TMKBG: Lock Box for Knob with Turnpiece",
+                "Select Door Thickness: 1-3/8in. Door Thickness",
+                "Select Door Thickness: 1-3/4in. Door Thickness",
+                "Select Door Handing & Door Swing: LHR: Left Hand Door, Out-swing",
+                "Select Door Handing & Door Swing: LH: Left Hand Door, In-swing",
+                "Select Door Handing & Door Swing: RHR: Right Hand Door, Out-swing",
+                "Select Door Handing & Door Swing: RH: Right Hand Door, In-swing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Style",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TMGBG: Lock Box for Lever",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "TMGBG"
+                },
+                {
+                    "value": "TMHBG: Lock Box for Knob ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "TMHBG"
+                },
+                {
+                    "value": "TMJBG: Lock Box for Lever with Turnpiece ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "TMJBG"
+                },
+                {
+                    "value": "TMKBG: Lock Box for Knob with Turnpiece",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "TMKBG"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1-3/8in. Door Thickness",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-3/4in. Door Thickness",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Handing & Door Swing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LHR: Left Hand Door, Out-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LH: Left Hand Door, In-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RHR: Right Hand Door, Out-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RH: Right Hand Door, In-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

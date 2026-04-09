@@ -1,0 +1,127 @@
+{
+    "legacy_product_id": "1082329",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Kingston Light Commercial Grade 2 Pin and Tumbler Entry Cylinder, Kwikset 83525",
+            "vendor": "Kwikset",
+            "status": "ARCHIVED",
+            "sku": "KWI-83525",
+            "mpn": "KWI-83525",
+            "price": "15.8",
+            "compare_at_price": "15.8",
+            "contractor_price": "15.8",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Light Commercial Grade 2 Pin and Tumbler Entry Cylinder for Kwikset Kingston",
+                "2 Pin and Tumbler Entry Cylinders",
+                "Kingston Light Commercial Grade 2 Pin and Tumbler Entry Cylinder",
+                "Kwikset 83525",
+                "KWI-83525"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525142.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525142.gif?v=1716428114"
+        },
+        "text": {
+            "description_html": "<b>Kwikset 83525,  Light Commercial Grade 2 Pin and Tumbler Entry Cylinder for Kwikset Kingston</b>\r\n\r\n<p>\r\nThis is a  Light Commercial Grade 2 Pin and Tumbler Entry Cylinder for Kwikset's <a href=\"/products/kwikset-kingston-light-commercial-lever-set\">Kingston Lever Set</a>.\r\n</p>\r\n\r\n<p>\r\n<i>Special ordered item. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Kingston Light Commercial Grade 2 Pin and Tumbler Entry Cylinder",
+                "description": "This is a  Light Commercial Grade 2 Pin and Tumbler Entry Cylinder for Kwikset's Kingston Lever Set.",
+                "keywords": "Light Commercial Grade 2 Pin and Tumbler Entry Cylinder for Kwikset Kingston, 2 Pin and Tumbler Entry Cylinders, Kingston Light Commercial Grade 2 Pin and Tumbler Entry Cylinder, Kwikset 83525, KWI-83525"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Kwikset Parts",
+                    "sort": "20"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "139879",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "507787",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "11564",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "173605",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US26D:  Satin Chrome",
+                "Keying: I only ordered one Lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26D:  Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I only ordered one Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

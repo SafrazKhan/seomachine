@@ -1,0 +1,125 @@
+{
+    "legacy_product_id": "1175540",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4 x 4 Square Corner Ball Bearing Hinge, Baldwin 1041",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-1041",
+            "mpn": "BAL-1041",
+            "price": "53.0",
+            "compare_at_price": "67.0",
+            "contractor_price": "53.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Baldwin 1041",
+                "4 x 4 Ball Bearing Mortise Square Hinges",
+                "4 x 4 Square Corner .13 Thick Ball Bearing Hinges",
+                "BAL-1041"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-1041-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-1041-525.jpg?v=1716428774"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 1041, 4\" x 4\" Ball Bearing Mortise Square Hinge</b>\r\n\r\n<p>\r\nThis is a 4\" x 4\" full mortise hinge. It has square corned and is made from brass. It features 5 knuckles with ball bearings. The 4\" x 4\" Ball Bearing Mortise Square Hinge has a removable pin.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the 4 Brass Hinge with Ball Bearings:\r\n<ul>\r\n<li>Hinge Material: Solid Brass</li>\r\n<li>Height: 4\"</li>\r\n<li>Width: 4\"</li>\r\n<li>Corner: Square</li>\r\n<li>Thickness: 0.130\"</li>\r\n<li>Standard Template Hole Pattern</li>\r\n<li> Ball Bearings</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "4 x 4 Square Corner .13 Thick Ball Bearing Hinge",
+                "description": "This is a 4 inch x 4 inch full mortise hinge. It has square corned and is made from brass. It features 5 knuckles with ball bearings. The 4 inch x 4 inch Ball Bearing Mortise Square Hinge has a removable pin.",
+                "keywords": "Baldwin 1041, 4 x 4 Ball Bearing Mortise Square Hinges, 4 x 4 Square Corner .13 Thick Ball Bearing Hinges, BAL-1041"
+            },
+            "specifications": [
+                {
+                    "key": "Hinge Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Height",
+                    "value": "4\""
+                },
+                {
+                    "key": "Width",
+                    "value": "4\""
+                },
+                {
+                    "key": "Corner",
+                    "value": "Square"
+                },
+                {
+                    "key": "Thickness",
+                    "value": "0.130\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Baldwin Door Hardware",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "8705",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "877122",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "61870",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "496232",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "8193",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "61753",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "8818",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Hinge Material: Solid Brass",
+                "Height: 4\"",
+                "Width: 4\"",
+                "Corner: Square",
+                "Thickness: 0.130\"",
+                "Select Finish: 056: PVD Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "056: PVD Satin Nickel ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

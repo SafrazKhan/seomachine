@@ -1,0 +1,143 @@
+{
+    "legacy_product_id": "294886",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3-1/4 Inch Projection Base Door Stop, Fusion BSDS-01",
+            "vendor": "Fusion",
+            "status": "ACTIVE",
+            "sku": "FUS-BSDS-01",
+            "mpn": "FUS-BSDS-01",
+            "price": "12.0",
+            "compare_at_price": "12.0",
+            "contractor_price": "9.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "fusion base door stops",
+                "fus-bsds-01",
+                "fusion bsds-01",
+                "3-1/4 inch projection door stops",
+                "fusion hardware base door stops",
+                "fusion bsds-brn-01",
+                "fusion-bsds-orb-01",
+                "fusion bsds-pvd-01"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUSION-BSDS-01-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUSION-BSDS-01-525.jpg?v=1711365257"
+        },
+        "text": {
+            "description_html": "<b>Fusion BSDS-01, Base Door Stop</b>\r\n\r\n<p>\r\nFusion's Base Door Stop is a great way to protect your wall and your door knobs. This door stop has a 3-1/4 inch projection.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</B> of the Fusion BSDS Base Plate Door Stop:\r\n<ul>\r\n<li>Tip Diameter: 9/16\"</li>\r\n<li>Base Diameter: 1\"</li>\r\n<li>Projection: 3-1/4\"</li>\r\n<li>One-piece Styling.</li>\r\n<li>Easily screws into base.</li>\r\n<li>Designed with square head to accommodate wrench or pliers when installing.</li>\r\n<li>Made from solid Brass.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>\r\n\r\n<p>\r\n<b>** This item is being discontinued. Very limited quantities available.</b>\r\n</p>",
+            "seo": {
+                "title": "3-1/4 Inch Projection Base Door Stop, Fusion BSDS-01",
+                "description": "Fusion's Base Door Stop is a great way to protect your wall and your door knobs. This door stop has a 3-1/4 inch projection.",
+                "keywords": "fusion base door stops, fus-bsds-01, fusion bsds-01, 3-1/4 inch projection door stops, fusion hardware base door stops, fusion bsds-brn-01, fusion-bsds-orb-01, fusion bsds-pvd-01,"
+            },
+            "specifications": [
+                {
+                    "key": "Tip Diameter",
+                    "value": "9/16\""
+                },
+                {
+                    "key": "Base Diameter",
+                    "value": "1\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "3-1/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Door Stops",
+                    "sort": "1"
+                },
+                {
+                    "name": "Door Stops, Bumpers, and Holders",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "162260",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "162262",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "396049",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "474020",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "302477",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "396040",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "422165",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "6647",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Tip Diameter: 9/16\"",
+                "Base Diameter: 1\"",
+                "Projection: 3-1/4\"",
+                "Select Finish: FUS-BSDS-ORB-01: Oil Rubbed Bronze",
+                "Select Finish: FUS-BSDS-BRN-01: Brushed Nickel",
+                "Select Finish: FUS-BSDS-PVD-01: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FUS-BSDS-ORB-01: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FUS-BSDS-BRN-01: Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FUS-BSDS-PVD-01: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

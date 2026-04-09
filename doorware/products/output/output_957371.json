@@ -1,0 +1,77 @@
+{
+    "legacy_product_id": "957371",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3/4 Inch Offset Electric Intermediate Pivot Hinge, ABH E-019",
+            "vendor": "ABH",
+            "status": "ARCHIVED",
+            "sku": "ABH-E-019-630",
+            "mpn": "ABH-E-019-630",
+            "price": "386.4",
+            "compare_at_price": "483.0",
+            "contractor_price": "347.76",
+            "shipping_weight": "5.0",
+            "tags": [
+                "ABH-E-019-630",
+                "ABH E-019",
+                "ABH 3/4 Inch Offset Intermediate Pivot Hinge"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ABH-E-019-630-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ABH-E-019-630-525.jpg?v=1717106373"
+        },
+        "text": {
+            "description_html": "<b>ABH 3/4 Inch Offset Electric Intermediate Pivot Hinge E-019</b>\r\n\r\n<p>\r\nProvides electrical power transfer from the frame to the door. For use with 3/4\" offset pivot sets. Helps maintain door alignment.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b> for ABH-019-3/4\r\n<ul>\r\n<li>Hinge Material: Stainless Steel</li>\r\n<li>Finish: Satin Stainless Steel</li>\r\n<li>Height: 5\"</li>\r\n<li>Width: 5-3/4\"</li>\r\n<li>(8) 30 AWG Wires</li>\r\n<li>Thickness: 5/16\" </li>\r\n<li>UL Listed for use on 3-hour fire rated doors</li>\r\n<li>Heavy duty stainless steel needle bearings</li>\r\n<li>Machine Screws: #12-24 x 1/2\"</li>\r\n<li>BHMA Certified Hinge</li>\r\n<li>Handed</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nPackage with matching finish machine screws. For metal and doors.\r\n</p>\r\n\r\n<p>\r\n<b>*Sold Individually (1 door hinge)</b>\r\n</p>",
+            "seo": {
+                "title": "ABH 3/4 Inch Offset Electric Intermediate Pivot Hinge E-019",
+                "description": "Provides electrical power transfer from the frame to the door. For use with 3/4 inch offset pivot sets. Helps maintain door alignment.\r\n",
+                "keywords": "ABH-E-019-630,  ABH E-019, ABH 3/4 Inch Offset Intermediate Pivot Hinge"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "ABH-Disc-Misc",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Door Hand: Left Hand Door",
+                "Select Door Hand: Right Hand Door"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Hand",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Left Hand Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Right Hand Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

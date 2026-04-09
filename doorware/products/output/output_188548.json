@@ -1,0 +1,115 @@
+{
+    "legacy_product_id": "188548",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Parallel Arm Mount Bracket, Global PAB-1245",
+            "vendor": "Global",
+            "status": "ARCHIVED",
+            "sku": "GLO-PAB-1245",
+            "mpn": "GLO-PAB-1245",
+            "price": "14.38",
+            "compare_at_price": "14.38",
+            "contractor_price": "14.38",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Parallel Arm Mount Brackets",
+                "Global PAB-1245",
+                "GLO-PAB-1245-AL",
+                "GLO-PAB-1245-DU",
+                "Parallel Arm brackets",
+                "Global Door Controls TC200"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PAB-1245_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PAB-1245_525.jpg?v=1716421819"
+        },
+        "text": {
+            "description_html": "<b>Parallel Arm Mount Bracket</b>\r\n\r\n<p>\r\nFor use with Global Door Controls TC200 series and TC2200 series with <a href=\"/products/regular-door-closer-arm-global-ra-1240\"><b>Standard Closer Arm</b></a>. Can be used with any surface mounted closer where the arm Shoe has a 1-3/4\" Center to Center hole pattern.\r\n</p>\r\n<p>\r\nAlso available: <a href=\"/products/hold-open-arm-parallel-mount-bracket-global-ho-pab-1245\"><b>Hold Open Arm Parallel Mount Bracket</b></a>\r\n</p>\r\n<p>\r\n<b>Specifications</b> for Global PAB-1245 Parallel Arm Mount Bracket\r\n<ul>\r\n<li>Length: 3-1/2\"</li>\r\n <li>Width at Header Mount: 3-1/2\"</li>\r\n <li>Shoe Mount Holes: 1-3/4\" Center to Center</li>\r\n<li>1/8\" Thick Steel</li>\r\n</ul>\r\n</p>\r\n<br>\r\n<p>\r\n<br><br>\r\n<b>** Item Discontinued. </b> Use <a href=\"/products/parallel-arm-mount-bracket-pin-mount-global-pab-2200\"><b>Global PAB-2200 Parallel Mount Bracket</b></a>\r\n<br><br>\r\n</p>",
+            "seo": {
+                "title": "Parallel Arm Mount Bracket, Global PAB-1245",
+                "description": "Global PAB-1245 - Parallel Arm Mount Bracket for Global TC200 and TC2200 series surface mounted door closers,  available in aluminum or dark bronze (duro) finish.",
+                "keywords": "Parallel Arm Mount Brackets, Global PAB-1245, GLO-PAB-1245-AL, GLO-PAB-1245-DU, Parallel Arm brackets, Global Door Controls TC200,"
+            },
+            "specifications": [
+                {
+                    "key": "Length",
+                    "value": "3-1/2\""
+                },
+                {
+                    "key": "Width at Header Mount",
+                    "value": "3-1/2\""
+                },
+                {
+                    "key": "Shoe Mount Holes",
+                    "value": "1-3/4\" Center to Center"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Global Discontinued",
+                    "sort": "27"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "232302",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "184039",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "184036",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "180865",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Length: 3-1/2\"",
+                "Width at Header Mount: 3-1/2\"",
+                "Shoe Mount Holes: 1-3/4\" Center to Center",
+                "Select Finish: GLO-PAB-1245-AL - Aluminum",
+                "Select Finish: GLO-PAB-1245-DU - Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GLO-PAB-1245-AL - Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-PAB-1245-AL"
+                },
+                {
+                    "value": "GLO-PAB-1245-DU - Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-PAB-1245-DU"
+                }
+            ]
+        }
+    ]
+}

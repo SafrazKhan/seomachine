@@ -1,0 +1,50 @@
+{
+    "legacy_product_id": "1177559",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "PDQ Key Cut Charge",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PDQ-10 24 05-00",
+            "mpn": "PDQ-10 24 05-00",
+            "price": "17.0",
+            "compare_at_price": "17.0",
+            "contractor_price": "17.0",
+            "shipping_weight": "0.25",
+            "tags": [
+                "PDQ Key Cut Charge"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "PDQ Key Cut Charge",
+            "seo": {
+                "title": "PDQ Key Cut Charge",
+                "description": "PDQ Key Cut Charge",
+                "keywords": "PDQ Key Cut Charge"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Misc Hardware",
+                    "sort": "37"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

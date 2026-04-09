@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "214594",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Kwikset Laurel Knob Interior Kit for Single Cylinder Handleset",
+            "vendor": "Kwikset",
+            "status": "ARCHIVED",
+            "sku": "KWI-966L",
+            "mpn": "KWI-966L",
+            "price": "75.0",
+            "compare_at_price": "75.0",
+            "contractor_price": "75.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Laurel Egg Door Knob Pack for Kwikset Signature Series Handlesets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/special_order-52549.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/special_order-52549.jpg?v=1716422085"
+        },
+        "text": {
+            "description_html": "<b>Laurel Egg Door Knob Interior Trim Pack</b>\r\n<p>Interior trim pack set for  <a href=\"/collections/kwikset-signature-series\"><b>Kwikset Signature Series Single Cylinder Handlesets</b></a>. \r\n</p>\r\n<p>Note: Does NOT include the exterior handleset.\r\n</p>",
+            "seo": {
+                "title": "Kwikset Laurel Knob Interior Kit for Single Cylinder Handleset",
+                "description": "Laurel Egg Door Knob Pack for Kwikset Signature Series Handlesets.",
+                "keywords": "Laurel Egg Door Knob Pack for Kwikset Signature Series Handlesets"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Kwikset Parts",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: KWI-966L-11P: Venetian Bronze",
+                "Select Finish: KWI-966L-15: Satin Nickel",
+                "Select Finish: KWI-966L-15A: Antique Nickel",
+                "Select Finish: KWI-966L-26: Polished Chrome",
+                "Select Finish: KWI-966L-5: Antique brass",
+                "Select Finish: KWI-966L-514: Iron Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "KWI-966L-11P: Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KWI-966L-15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KWI-966L-15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KWI-966L-26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KWI-966L-5: Antique brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KWI-966L-514: Iron Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

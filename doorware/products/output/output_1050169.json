@@ -1,0 +1,141 @@
+{
+    "legacy_product_id": "1050169",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:12:18.460345"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Kwikset Smartkey Deadbolt Cylinder Without Housing, Kwikset 83373",
+            "vendor": "Kwikset",
+            "status": "ARCHIVED",
+            "sku": "KWI-83373",
+            "mpn": "KWI-83373",
+            "price": "31.0",
+            "compare_at_price": "31.0",
+            "contractor_price": "31.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "KWI-83373",
+                "Kwikset Smartkey Deadbolt Cylinder Without Housing",
+                "Kwikset 83373"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/KWI-83373-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/KWI-83373-525.jpg?v=1716427901"
+        },
+        "text": {
+            "description_html": "<b>Kwikset Smartkey Deadbolt Cylinder Without Housing</b>\r\n\r\n<p>\r\nThis is a replacement Kwikset Smartkey Deadbolt Cylinder. It comes packaged as cylinder only--no housing.\r\n</p>\r\n\r\n<p>\r\n<I><B>SPECIAL ORDER ITEM, NOT RETURNABLE</b></i>\r\n</p>",
+            "seo": {
+                "title": "Kwikset Smartkey Deadbolt Cylinder Without Housing,",
+                "description": "This is a replacement Kwikset Smartkey Deadbolt Cylinder. It comes packaged as cylinder only--no housing.",
+                "keywords": "KWI-83373, Kwikset Smartkey Deadbolt Cylinder Without Housing, Kwikset 83373"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Kwikset Parts",
+                    "sort": "17"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "944490",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "687924",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "687903",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "240763",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "139879",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "414293",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "379317",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "943886",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 001: Brass",
+                "Select Finish: 002: Silver",
+                "Keying: I only ordered one Lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "001: Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "002: Silver",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I only ordered one Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

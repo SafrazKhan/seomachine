@@ -1,0 +1,113 @@
+{
+    "legacy_product_id": "330569",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1 Inch Diameter Contemporary Door Pull, First Impressions 3240/12-US15",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-3240/12-US15",
+            "mpn": "FII-3240/12-US15",
+            "price": "99.0",
+            "compare_at_price": "150.0",
+            "contractor_price": "99.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "1 Inch Diameter Contemporary Door Pull",
+                "First Impressions FII-3240/12-US15"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>12\" Contemporary Door Pull</b>\r\n<p>\r\nThis contemporary 1\" diameter door pull can be used in many applications such as:\r\n</p>\r\n<p>\r\n<b>\r\n<ul>\r\n<li>Entrance and Patio Doors</li>\r\n<li>Appliances, such as Refrigerators and Freezers</li>\r\n<li>Glass Doors, such as on Showers or Storefront doors</li>\r\n<li>Just about anywhere a door pull is needed.</li>\r\n</ul>\r\n</b>\r\n</p>\r\n<p>\r\nThese 12\" long contemporary door pulls are very high quality and available in your choice of Satin Nickel or Polished Chrome finish.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of First Impressions 3240/12-US15 Contemporary Door Pull\r\n<ul>\r\n<li>Total Length: 12\"</li>\r\n<li>Pull Diameter: 1\"</li>\r\n<li>Pull Projection: 2-5/8\"</li>\r\n<li>Bracket Diameter: 3/4\"</li>\r\n<li>Material: Solid Aluminum Bar Stock</li>\r\n</ul>\r\n</p>\r\n\r\n<p>Packaged standard for Thrubolt Mounting (bolts thru the door). Optional Surface mounting or Back to Back Mounting (2 door pulls attached to each other) kits \r\nare available. <b>Note: Back to Back Mounting Requires 2 pulls. Order 2 Pulls</b>. \r\n</p>\r\n<p>\r\n<b>Sold individually</b>. \r\n</p>",
+            "seo": {
+                "title": "1 Inch Diameter Contemporary Door Pull, First Impressions 3240/12-US15",
+                "description": "1 Inch Diameter Contemporary Door Pull, First Impressions FII-3240/12-US15",
+                "keywords": "1 Inch Diameter Contemporary Door Pull, First Impressions FII-3240/12-US15"
+            },
+            "specifications": [
+                {
+                    "key": "Total Length",
+                    "value": "12\""
+                },
+                {
+                    "key": "Pull Diameter",
+                    "value": "1\""
+                },
+                {
+                    "key": "Pull Projection",
+                    "value": "2-5/8\""
+                },
+                {
+                    "key": "Bracket Diameter",
+                    "value": "3/4\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Aluminum Bar Stock"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Custom-Misc-Items",
+                    "sort": "14"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Total Length: 12\"",
+                "Pull Diameter: 1\"",
+                "Pull Projection: 2-5/8\"",
+                "Bracket Diameter: 3/4\"",
+                "Material: Solid Aluminum Bar Stock",
+                "Select Mounting Choice: Thrubolt Mounted",
+                "Select Mounting Choice: Surface Mounted",
+                "Select Mounting Choice: Back to Back Mounted (Requires 2 Pulls)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Mounting Choice",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Thrubolt Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Thrubolt"
+                },
+                {
+                    "value": "Surface Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Surface"
+                },
+                {
+                    "value": "Back to Back Mounted (Requires 2 Pulls)",
+                    "price_impact": 32.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Back"
+                }
+            ]
+        }
+    ]
+}

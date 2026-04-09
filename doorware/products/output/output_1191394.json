@@ -1,0 +1,76 @@
+{
+    "legacy_product_id": "1191394",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Push Bar Pair Installation Hardware, Global TH1100-OPB33HWPK",
+            "vendor": "Global",
+            "status": "ARCHIVED",
+            "sku": "GLO-TH1100-OPB33HWPK",
+            "mpn": "GLO-TH1100-OPB33HWPK",
+            "price": "28.75",
+            "compare_at_price": "28.75",
+            "contractor_price": "28.75",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Push Bar Pair Installation Hardware",
+                "Global TH1100-OPB33HWPK"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DWD-OPBR-HDW-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DWD-OPBR-HDW-525.jpg?v=1711366739"
+        },
+        "text": {
+            "description_html": "<b>Installation Hardware for Store Door Push Bar Pair</b>\r\n\r\n<p>\r\nReplacement Installation Hardware Pack for Global TH1100-OPB33-PR Push Bar Pair.  Contains (2) set screws, (2) back to back mounting bolts, and (2) sleeve nuts\r\n</p>\r\n\r\n\r\n\r\n\r\n<p>\r\nAvailable in Aluminum or Dark Bronze finishes to match the common glass store door frame colors.\r\n</p>\r\n\r\n<p>\r\n<i>Sold as a Set for 1 pair of push bars</i>\r\n</p>",
+            "seo": {
+                "title": "Push Bar Pair Installation Hardware",
+                "description": "Push Bar Pair Installation Hardware, Global TH1100-OPB33HWPK",
+                "keywords": "Push Bar Pair Installation Hardware, Global TH1100-OPB33HWPK"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Store Front Door Hardware",
+                    "sort": "80"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: DU: Dark Bronze",
+                "Select Finish: AL: Aluminum"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

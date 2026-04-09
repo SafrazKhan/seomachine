@@ -1,0 +1,166 @@
+{
+    "legacy_product_id": "858614",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Rope Outlet Plate, Grandeur ROPSWPLTD",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-ROPSWPLTD",
+            "mpn": "GRA-ROPSWPLTD",
+            "price": "28.99",
+            "compare_at_price": "35.5",
+            "contractor_price": "28.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Grandeur ROPSWPLTD",
+                "GRA-ROPSWPLTD",
+                "Rope Outlet Cover Plates",
+                "Rope Outlet Plates",
+                "Electrical Socket Covers",
+                "Grandeur Rope Outlet Covers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-ROPSWPLTD-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-ROPSWPLTD-525.jpg?v=1716426082"
+        },
+        "text": {
+            "description_html": "<b>Grandeur ROPSWPLTD, Rope Electrical Socket Cover</b>\r\n\r\n<p>\r\nThe Rope Outlet Plate features classic rope detailing. Its classic look makes it a great choice for historic remodels and traditional homes alike. The Single Rope Outlet Cover Plate is available in a wide selection of finishes.  \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur Rope Outlet Cover:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 5\"</li>\r\n<li>Width: 3-1/4\"</li>\r\n<li>Projection: 1/4\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Rope Outlet Plate",
+                "description": "The Rope Outlet Plate features classic rope detailing. Its classic look makes it a great choice for historic remodels and traditional homes alike. The Single Rope Outlet Cover Plate is available in a wide selection of finishes.  \r\n",
+                "keywords": "Grandeur ROPSWPLTD, GRA-ROPSWPLTD, \r\n Rope Outlet Cover Plates, Rope Outlet Plates, Electrical Socket Covers, Grandeur Rope Outlet Covers,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "5\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3-1/4\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Electrical Outlet &amp; Switch Plates",
+                    "sort": "101"
+                },
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "54"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "562491",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "566268",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "37956",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "726913",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "858976",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 5\"",
+                "Width: 3-1/4\"",
+                "Projection: 1/4\"",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: ULB: Unlacquered Brass",
+                "Select Finish: TB: Timeless Bronze",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: AP: Antique Pewter"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ULB: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

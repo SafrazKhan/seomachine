@@ -1,0 +1,89 @@
+{
+    "legacy_product_id": "610781",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "8 Inch Round Acrylic Door Stop, First Impressions DS-ARx8.0",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-DS-ARx8.0",
+            "mpn": "FII-DS-ARx8.0",
+            "price": "47.0",
+            "compare_at_price": "53.74",
+            "contractor_price": "47.0",
+            "shipping_weight": "1.0",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>First Impressions DS-ARx8.0, 8\" Round Acrylic Door Stops</b>\r\n<p>\r\nContemporary design acrylic baseboard door stop from the <a href=\"/collections/acrylic-collection\"><b>First Impressions Acrylic Collection</b></a>. They are available in <b>Crystal Clear or Frosted Acrylic</b>. Easy to install with included mounting hardware.\r\n</p>\r\n<p>\r\nPictured below is a clear acrylic door stop on a bath room door. These door stops are <b>So Clear They Disappear</b>. \r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/clear-acrylic-door-stop.jpg?v=1704442272\" width=\"446\" height=\"350\" border=\"0\" alt=\"First Impressions clear acrylic door stop\">\r\n</p>\r\n\r\n\r\n<p>\r\nThese 8 inch long acrylic door stops screw onto the baseboard casement, door bottom or wall anchor, to protect not just the wall and door, but your door knob or lever as well. \r\n</p>\r\n<p>\r\nAlso available:  <a href=\"/products/4-inch-round-acrylic-door-stop-first-impressions-ds-arx400\"><b>4 Inch Acrylic Door Stop and</b></a><a href=\"/products/3-1-4-inch-round-acrylic-door-stop-first-impressions-ds-arx325\"><b> 3-1/4\" Acrylic Door Stop</b></a>..\r\n</p>\r\n<p>\r\n<b>Specifications</b> for First Impressions DS-ARx8.0 Round Acrylic Door Stop\r\n<ul>\r\n<li>Total Length: 8\"</li>\r\n<li>Diameter: 3/4\"</li>\r\n<li>Material: Extruded Acrylic</li>\r\n</ul>\r\n</p>\r\n<p><b>*Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "8 Inch Round Acrylic Door Stop, First Impressions DS-ARx8.0",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": [
+                {
+                    "key": "Total Length",
+                    "value": "8\""
+                },
+                {
+                    "key": "Diameter",
+                    "value": "3/4\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Extruded Acrylic"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Custom-Misc-Items",
+                    "sort": "53"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Total Length: 8\"",
+                "Diameter: 3/4\"",
+                "Material: Extruded Acrylic",
+                "Select Acrylic Choice: FII-DS-ARC8.0 - Crystal Clear",
+                "Select Acrylic Choice: FII-DS-ARF8.0 - Frosted"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Acrylic Choice",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-DS-ARC8.0 - Crystal Clear",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-DS-ARF8.0 - Frosted",
+                    "price_impact": 4.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

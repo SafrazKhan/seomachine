@@ -1,0 +1,101 @@
+{
+    "legacy_product_id": "260741",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Deadlatch for Global GLC Series Keyed Light Commercial Levers",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-GLC-deadlatch",
+            "mpn": "GLO-GLC-deadlatch",
+            "price": "8.72",
+            "compare_at_price": "10.9",
+            "contractor_price": "7.85",
+            "shipping_weight": "0.2",
+            "tags": [
+                "GLO-GLC-deadlatch Global GLC Series deadlatches",
+                "Springlatch for Global GLC Series key entry Commercial Levers",
+                "commercial door latches",
+                "global entry lever latches",
+                "global dead latches",
+                "commercial lever latches"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-GLC-deadlatch_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-GLC-deadlatch_525.jpg?v=1717105853"
+        },
+        "text": {
+            "description_html": "<b>Global GLC Series Deadlatch</b>\r\n<p>For <a href=\"/products/light-duty-brushed-chrome-commercial-leversets-global-glc-series\">Global GLC Series Light Commercial Door Levers</a>\r\n</p>\r\n<p>\r\nDeadlatch for  Keyed function (Entry and Storeroom) Levers. Available with 2-3/4\" or 2-3/8\" backsets.\r\n</p>\r\n<p>\r\n<li>2-3/4\" Backset latch includes 1-1/8\" wide x 2-3/8\" high face plate with <b>Satin Chrome</b> finish.</li>\r\n<li>2-3/8\" Backset latch includes 1\" wide x 2-3/8\" high face plate with <b>Satin Chrome</b> finish.</li>\r\n\r\n</p>",
+            "seo": {
+                "title": "Deadlatch for Global GLC Series Keyed Light Commercial Levers",
+                "description": "For Global GLC Series Light Commercial Door Levers. Deadlatch for  Keyed function (Entry, Storeroom) Levers. Available with 2-3/8 or 2-3/4 backsets.",
+                "keywords": "GLO-GLC-deadlatch Global GLC Series deadlatches, Springlatch for Global GLC Series key entry Commercial Levers, commercial door latches, global entry lever latches, global dead latches, commercial lever latches,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Global Lock Sets",
+                    "sort": "14"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "260732",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "278370",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "165202",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "236650",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "260609",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Backset: GLC096-S1-626: 2-3/4in. Backset",
+                "Select Backset: GLC085-S2-626: 2-3/8in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GLC096-S1-626: 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GLC085-S2-626: 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

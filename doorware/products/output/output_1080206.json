@@ -1,0 +1,92 @@
+{
+    "legacy_product_id": "1080206",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Estates Collection Button Tip Finial, Pair, Baldwin1035.xxx.ITIP",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-1035.xxx.ITIP",
+            "mpn": "BAL-1035.xxx.ITIP",
+            "price": "14.0",
+            "compare_at_price": "14.0",
+            "contractor_price": "14.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Ball Tip Solid Brass Finial",
+                "Baldwin 1035.xxx.ITIP",
+                "brass hinge ball tips",
+                "BAL-1035.xxx.ITIP",
+                "Baldwin1035.xxx.ITIP"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-1035.xxx.ITIP-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-1035.xxx.ITIP-525.jpg?v=1716428106"
+        },
+        "text": {
+            "description_html": "<b>Button Tip Solid Brass Finial, Pair, Baldwin 1035.xxx.ITIP</b>\r\n\r\n<p>\r\nAn easy screw-on installation makes this hinge finial an effortless way to add the finishes details that help turn a house into a beautiful home. The Button finial is made by Baldwin out of durable solid brass so you know it will last through years of continuous use. \r\n</p>\r\n\r\n<p>Hinge Finials (tips) are packaged and sold by the pair. Order 1 pair per hinge.</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Baldwin Button Tip Finial:\r\n<ul>\r\n<li>Easy screw-on installation</li>\r\n<li>Sold in pairs</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Sold in pairs</b>\r\n</p>",
+            "seo": {
+                "title": "Estates Collection Button Tip Finial",
+                "description": "An easy screw-on installation makes this hinge finial an effortless way to add the finishes details that help turn a house into a beautiful home. The Button finial is made by Baldwin out of durable solid brass so you know it will last through years of continuous use.",
+                "keywords": "Ball Tip Solid Brass Finial, Baldwin 1035.xxx.ITIP ,brass hinge ball tips, BAL-1035.xxx.ITIP, Baldwin1035.xxx.ITIP"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Baldwin Door Hardware",
+                    "sort": "11"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "290152",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "8410",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "290284",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "620205",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "8459",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 150: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "150: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

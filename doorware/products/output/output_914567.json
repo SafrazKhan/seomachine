@@ -1,0 +1,45 @@
+{
+    "legacy_product_id": "914567",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Acorn Expedite Fee",
+            "vendor": "Acorn",
+            "status": "ARCHIVED",
+            "sku": "ACO-EXPEDITE",
+            "mpn": "ACO-EXPEDITE",
+            "price": "0.0",
+            "compare_at_price": "0.0",
+            "contractor_price": "0.0",
+            "shipping_weight": "0.0",
+            "tags": [
+                "Acorn Expedite Fee"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/special_order-52527.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/special_order-52527.jpg?v=1717790506"
+        },
+        "text": {
+            "description_html": "<b>Acorn Expedite Fee<b>",
+            "seo": {
+                "title": "Acorn Expedite Fee",
+                "description": "Acorn Expedite Fee",
+                "keywords": "Acorn Expedite Fee"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

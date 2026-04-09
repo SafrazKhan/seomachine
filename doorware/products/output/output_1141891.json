@@ -1,0 +1,89 @@
+{
+    "legacy_product_id": "1141891",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Complete Hardware Pack for Emtek Sandcast Dummy Handlesets",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-DUMMY-HARDWARE-SANDCAST",
+            "mpn": "EMT-DUMMY-HARDWARE-SANDCAST",
+            "price": "50.0",
+            "compare_at_price": "50.0",
+            "contractor_price": "50.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Emtek Dummy function Handleset Replacement Hardware Pack",
+                "Complete Hardware Pack for Emtek Sandcast Dummy Handlesets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525181.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525181.gif?v=1716428407"
+        },
+        "text": {
+            "description_html": "<b>Emtek Dummy function Handleset Replacement Hardware Pack</b>\r\n\r\n<p>\r\nThis is a replacement hardware pack for <a href=\"/collections/emtek-tubular-handlesets\"></b>Emtek Dummy Function Handlesets</b></a>.\r\n</p>\r\n\r\n<p>\r\n<b>Package Includes:</b>\r\n<ul>\r\n<li>F703: screw pack</li>\r\n<li>MS4-PLTW716STDGRV: Dummy Mounting Plate</li>\r\n<li>MS4-ENTRYWSHR: Threaded Washer</li>\r\n<li>MS4-DSGNCAP: Designer Washer Cap</li>\r\n<li>DB4-DUMMYPLUG-O: Dummy Plug</li>\r\n<li>MS4-OVTHRDSTD: Deadbolt Mounting Plate</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually. <b>No Returns.</b></i>\r\n</p>",
+            "seo": {
+                "title": "Complete Hardware Pack for Emtek Sandcast Dummy Handlesets",
+                "description": "This is a replacement hardware pack for Emtek dummy function handlesets.\r\n\r\n",
+                "keywords": "Emtek Dummy function Handleset Replacement Hardware Pack, Complete Hardware Pack for Emtek Sandcast Dummy Handlesets,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "27"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "897396",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "902968",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1038415",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1000556",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "884332",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MB: Medium Bronze Patina"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MB: Medium Bronze Patina",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

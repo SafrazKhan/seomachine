@@ -1,0 +1,114 @@
+{
+    "legacy_product_id": "1123635",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Concealed Overhead Door Closer, Rixon 91DCP",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "RIX-91DCP",
+            "mpn": "RIX-91DCP",
+            "price": "710.68",
+            "compare_at_price": "836.0",
+            "contractor_price": "710.68",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Concealed Overhead Door Closers",
+                "RIX-91DCP",
+                "Rixon 91DCP",
+                "Rixon 91DCP Overhead Concealed Closers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RIX-91DCP-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RIX-91DCP-525.jpg?v=1716428328"
+        },
+        "text": {
+            "description_html": "<b>Rixon 91DCP, Concealed Overhead Door Closer</b>\r\n\r\n<p>\r\nThe 91DCP Concealed Overhead Door Closer is to be used for offset hung doors. This door closer has an adjustable spring that complies to accessibility codes. Adjustable spring, backcheck, and closing speed valves. The Rixon 91DCP Overhead Concealed Closer is a Grade 1 per ANSI A156.4 and is fire rated UL10C for doors tested for overhead concealed products up to 3 hours.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Overhead Concealed Closer\r\nArchitectural Grade:\r\n<ul>\r\n<li>For use on exterior or interior doors.</li>\r\n<li>Door weight: up to 250 lbs.</li>\r\n<li>Maximum door size: exterior 4' x 8', interior 4'6\" x 8'</li>\r\n<li>Can be used in aluminum, hollow metal or wood frames</li>\r\n<li>Single acting, offset hung</li>\r\n<li>Heavy-duty cast iron closer body</li>\r\n<li>Forged arms</li>\r\n<li>Steel alloy track</li>\r\n<li>One-piece mounting plate</li>\r\n<li>Piston Diameter: 1-1/4\" </li>\r\n<li>Adjustable spring 3-6 for larger doors or fire rated openings.</li>\r\n<li> All weather fluid (accommodates a temperature range\r\nfrom - 40° to 150°F.)</li>\r\n<li>Handed</li>\r\n<li>Staked, brass adjusting valves</li>\r\n<li>Comes packaged with: dress cover plate, all wood and all metal screws</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Concealed Overhead Door Closer",
+                "description": "The 91DCP Concealed Overhead Door Closer is to be used for offset hung doors. This door closer has an adjustable spring that complies to accessibility codes. Adjustable spring, backcheck, and closing speed valves. The Rixon 91DCP Overhead Concealed Closer shall be is a Grade 1 per ANSI A156.4 and is fire rated UL10C for doors tested for overhead concealed products up to 3 hours.",
+                "keywords": "Concealed Overhead Door Closers, RIX-91DCP, Rixon 91DCP, Rixon 91DCP Overhead Concealed Closers,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Rixson",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "690209",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "197509",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "70075",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "334270",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "558557",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 689: Aluminum",
+                "Select Handing: RH: Right Hand",
+                "Select Handing: LH: Left Hand"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "689: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RH: Right Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LH: Left Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

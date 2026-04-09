@@ -1,0 +1,102 @@
+{
+    "legacy_product_id": "921898",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Global TC2205 with Back Check and Cover, GLO TC2205-BC/COV",
+            "vendor": "Global",
+            "status": "ARCHIVED",
+            "sku": "GLO-TC2205-BC/COV",
+            "mpn": "GLO-TC2205-BC/COV",
+            "price": "79.98",
+            "compare_at_price": "114.26",
+            "contractor_price": "79.98",
+            "shipping_weight": "10.0",
+            "tags": [
+                "GLO-TC2205 Store Front Door Closers",
+                "TC2205 Global Door Controls Door Surface Mount Door Closers",
+                "size 3 door closers",
+                "fire rated",
+                "10c"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/tc2205-global-closers.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/tc2205-global-closers.jpg?v=1716426881"
+        },
+        "text": {
+            "description_html": "<b>TC2205-BC/COV Global Door Controls Door Surface Mount Door Closer</b>\r\n\r\n<p>\r\nGlobal Series TC2205  Size 5 for heavy doors. This Door Closer is for use on interior or exterior doors in commercial and storefront applications. They fit 8 3/16\" x 3/4\" mounting hole pattern and packaged complete with wood and machine screws. Global Series TC2205 Door Closers are non handed and, for standard non-hold open or hold open applications. \r\n</p>\r\n\r\n<p>\r\n<i>Back Check Speed Adjustment</i> for out-swing doors that are subject to wind gust. Back Check slows the door in the opening swing to help keep it from hitting an adjacent wall or having wind throw it out of your control. Backcheck resistance is only felt near the fully open position.  \r\n</p>\r\n\r\n<p>\r\n<b>\r\nSpecifications and Features:</b>\r\n<ul>\r\n<li>Adjustable closing speed</li>\r\n<li>Adjustable latching speed</li>\r\n<li>Adjustable Back Check</li>\r\n<li>Aluminum Alloy Shell</li>\r\n<li>Closer Body Length: 8-7/8\"</li>\r\n<li>Horizontal Mounting Holes: 8-3/16\"</li>\r\n<li>Vertical Mounting Holes: 3/4\"</li>\r\n<li>Maximum Door Weight: 250 lbs</li>\r\n<li>Maximum Door Size: 48\" interior / 42\" exterior</li>\r\n<li>Non Handed</li>\r\n<li>Grade 3</li>\r\n<li>UL 10C (Fire test) Approved</li>\r\n<li>Spring Size: 3</li>\r\n<li>10 Year Manufacture Warranty</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Global TC2205 with Back Check and Cover",
+                "description": "TC2205 Global Door Controls Door Surface Mount Door Closer - Global Series TC2205  Size 5 for heavy doors. This Door Closer is for use on interior or exterior doors in commercial and storefront applications. They fit 8 3/16 inch x 3/4 inch mounting hole pattern and packaged complete with wood and machine screws.",
+                "keywords": "GLO-TC2205 Store Front Door Closers, TC2205 Global Door Controls Door Surface Mount Door Closers, size 3 door closers, fire rated, 10c"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Global Discontinued",
+                    "sort": "37"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "173111",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "173123",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "195856",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "236952",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "175952",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: AL: Aluminum",
+                "Select Finish: DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AL"
+                },
+                {
+                    "value": "DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DU"
+                }
+            ]
+        }
+    ]
+}

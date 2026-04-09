@@ -1,0 +1,147 @@
+{
+    "legacy_product_id": "389198",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Vertical Rod Exit Device Extension Rod, PDQ 429021",
+            "vendor": "PDQ",
+            "status": "ACTIVE",
+            "sku": "PDQ-429021",
+            "mpn": "PDQ-429021",
+            "price": "32.99",
+            "compare_at_price": "44.0",
+            "contractor_price": "29.7",
+            "shipping_weight": "1.0",
+            "tags": [
+                "PDQ-429021 Vertical Rod Exit Device Extension Rod",
+                "PDQ 429021 1 Foot Extension Rods",
+                "8 foot tall door Vertical Rod Exit Devices",
+                "tall door Vertical Rods"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDQ-429021_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PDQ-429021_525.jpg?v=1716423793"
+        },
+        "text": {
+            "description_html": "<b>Vertical Rod Exit Device Extension Rod</b>\r\n\r\n<p>\r\n1 foot extension rod for use with <a href=\"/products/grade-1-commercial-vertical-rod-exit-device-for-30-36-inch-door-pdq-4200v\"><b>PDQ 4200 Series Vertical Rod Exit Device</b></a>, <a href=\"/products/grade-1-satin-chrome-vertical-rod-exit-device-for-38-48-inch-door-pdq-4200v-a626\"><b>PDQ Satin Chrome Vertical Rod Exit Device</b></a> and <a href=\"/products/grade-1-commercial-vertical-rod-exit-device-for-38-48-inch-door-pdq-4200va\"><b>PDQ 4200 Series Vertical Rod Exit Device for wide door</b></a>. \r\n </a>\r\n</p>\r\n<p>\r\n<b>Specifications</b> for PDQ 429021 Extension Rod\r\n<ul>\r\n<li>Total Length: 12 1/2\"</li>\r\n<li>Rod Extension Length: 12\" (1 ft)</li>\r\n<li>Rod Width: 3/8\" Square</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nThis rod extends the top vertical bar for doors that are over 7 feet tall. Up to 1 foot of extension. Field sizeable (cut to length as needed).\r\n</p>",
+            "seo": {
+                "title": "Vertical Rod Exit Device Extension Rod, PDQ 429021",
+                "description": "1 foot extension rod for use with PDQ 4200 Series Vertical Rod Exit Device Global TH1100EDSVTBAR Surface Vertical Rod Panic Devices. Rod extends the top vertical bar for doors that are over 7 feet tall.",
+                "keywords": "PDQ-429021 Vertical Rod Exit Device Extension Rod, PDQ 429021 1 Foot Extension Rods, 8 foot tall door Vertical Rod Exit Devices, tall door Vertical Rods,"
+            },
+            "specifications": [
+                {
+                    "key": "Total Length",
+                    "value": "12 1/2\""
+                },
+                {
+                    "key": "Rod Extension Length",
+                    "value": "12\" (1 ft)"
+                },
+                {
+                    "key": "Rod Width",
+                    "value": "3/8\" Square"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "PDQ Exit Devices",
+                    "sort": "52"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "632060",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "480302",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "352110",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "352282",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "239752",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "250676",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "351730",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Total Length: 12 1/2\"",
+                "Rod Extension Length: 12\" (1 ft)",
+                "Rod Width: 3/8\" Square",
+                "Select Finish: 429021-689: Aluminum",
+                "Select Finish: 429021-695: Dark Bronze",
+                "Select Finish: 429021-605: Polished Brass",
+                "Select Finish: 429021-626: Satin Chrome",
+                "Select Finish: 429021-630: Satin Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "429021-689: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "429021-695: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "429021-605: Polished Brass",
+                    "price_impact": 6.81,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "429021-626: Satin Chrome",
+                    "price_impact": 6.81,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "429021-630: Satin Stainless Steel",
+                    "price_impact": 6.81,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

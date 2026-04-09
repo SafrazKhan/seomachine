@@ -1,0 +1,189 @@
+{
+    "legacy_product_id": "275077",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Latch for Omnia Knobsets",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "OMN-Knob-Latch",
+            "mpn": "OMN-Knob-Latch",
+            "price": "46.4",
+            "compare_at_price": "58.0",
+            "contractor_price": "44.08",
+            "shipping_weight": "0.3",
+            "tags": [
+                "OMN-Knob-Latch Omnia Door Knob Latches",
+                "door latch for Omnia Knobsets",
+                "Omnia 2-3/4 backset latch",
+                "2-3/8 backset latch",
+                "omnia passage latch",
+                "omnia privacy latch",
+                "Omnia passage spring latches",
+                "Omnia privacy door latches",
+                "omnia latches",
+                "omnia parts",
+                "omnia hardware parts"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Door Latch for Omnia Knobsets</b>\r\n<p>\r\nFor <a href=\"/collections/omnia-levers\"><b>Omnia Knobsets</b></a>\r\n</p>\r\n<p>\r\nNote: Use with door knobs only (NOT used for <a href=\"/collections/omnia-levers\"><b>Omnia Door Levers</b></a> or <a href=\"/collections/omnia-stainless-steel-levers\"><b>Omnia Stainless Door Levers</b></a>). \r\n</p>\r\n<p>\r\nAlso available:  <a href=\"/products/latch-for-omnia-leversets\">Omnia Leverset  Latch</a> and <a href=\"/products/latch-for-omnia-stainless-steel-leversets\">Omnia Stainless Steel Latch</a>\r\n</p>\r\n<p>Available for Passage (Hall/Closet) or Privacy (Bath/Bedroom)  functions in 2-3/8\" or 2-3/4\" backsets.\r\n</p>\r\n<p>\r\nFor use with Omnia door Knobs with a 7 mm hub for the spindle. \r\n</p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Latch for Omnia Knobsets",
+                "description": "Door latch  for Omnia  Knobsets. Springlatch for Passage or Privacy function in 2-3/8  or 2-3/4  backset.",
+                "keywords": "OMN-Knob-Latch Omnia Door Knob Latches, door latch for Omnia Knobsets, Omnia 2-3/4 backset latch, 2-3/8 backset latch, omnia passage latch, omnia privacy latch, Omnia passage spring latches, Omnia privacy door latches, omnia latches, omnia parts, omnia hardware parts,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "227181",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "317307",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "330497",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "158187",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "283615",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "236191",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Function and Backset: 105KPA38:  Passage Function, 2-3/8in. Backset",
+                "Select Function and Backset: 105KPA34: Passage Function, 2-3/4in. Backset",
+                "Select Function and Backset: 106KPR38: Privacy Function, 2-3/8in. Backset",
+                "Select Function and Backset: 106KPR34: Privacy Function, 2-3/4in. Backset",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US26D: Brushed Chrome",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: SB: Shaded Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function and Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "105KPA38:  Passage Function, 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "105KPA34: Passage Function, 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "106KPR38: Privacy Function, 2-3/8in. Backset",
+                    "price_impact": 4.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "106KPR34: Privacy Function, 2-3/4in. Backset",
+                    "price_impact": 4.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26D: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SB: Shaded Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

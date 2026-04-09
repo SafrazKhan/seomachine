@@ -1,0 +1,105 @@
+{
+    "legacy_product_id": "781883",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Adhesive Perimeter Gasketing, Pemko PK33D",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "PEM-PK33D",
+            "mpn": "PEM-PK33D",
+            "price": "27.0",
+            "compare_at_price": "32.0",
+            "contractor_price": "27.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Pemko Prene Adhesive Smoke/Fire Seals",
+                "Adhesive Perimeter Gasketing",
+                "Pemko PK33D17",
+                "PEM-PK33D17",
+                "PemkoPrene Adhesive Perimeter Gasketing",
+                "Fire/Smoke Seals"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PEM-PK33D17-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PEM-PK33D17-525.jpg?v=1717106256"
+        },
+        "text": {
+            "description_html": "<b>Pemko PK33D, Adhesive Perimeter Gasketing</b>\r\n\r\n<p>\r\nThe Adhesive Perimeter Gasketing is typically used as a fire or smoke seal on commercial doors. It is dark brown in color and is sold as a 17 foot coil or 510 foot coil. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the PemkoPrene Adhesive Perimeter Gasketing, Fire/Smoke Seal:\r\n<ul>\r\n<li>Color: <b>Dark Brown</b></li>\r\n<li>Excellent resistance to compression set, particularly at elevated temperatures and for extended periods of time.</li>\r\n<li>Stays flexible between -40 degrees (F) and 250 degrees (F) with very high resistance to flex fatigue.</li>\r\n<li>Outstanding ozone resistance rating.</li>\r\n<li> Smoke tested in accordance with UL1784-01; meets the requirements of NFPA 105 \"Standard for the Installation of Smoke Door Assemblies and Other Opening Protectives\".</li>\r\n<li>Designed for tighter frames.</li>\r\n<li>Demonstrates extremely low closing force.</li>\r\n<li>Seal begins compressing at 3/16\"; compresses to seal up to a 1/16\" gap.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nSpecial ordered item. <b>Not Returnable</b>.\r\n</p>",
+            "seo": {
+                "title": "Adhesive Perimeter Gasketing",
+                "description": "Pemko PK33D17, Adhesive Perimeter Gasketing - The Adhesive Perimeter Gasketing is typically used as a fire or smoke seal on commercial doors. It is dark brown in color and is sold as a 17 foot coil.",
+                "keywords": "Pemko Prene Adhesive Smoke/Fire Seals, Adhesive Perimeter Gasketing, Pemko PK33D17, PEM-PK33D17, PemkoPrene Adhesive Perimeter Gasketing, Fire/Smoke Seals,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Pemko",
+                    "sort": "23"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "247555",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "246787",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "232553",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "232492",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "247335",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "232550",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Length: PK33D17 - Length: 17'",
+                "Select Length: PK33D510 - Length 510'"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PK33D17 - Length: 17'",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PK33D510 - Length 510'",
+                    "price_impact": 522.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

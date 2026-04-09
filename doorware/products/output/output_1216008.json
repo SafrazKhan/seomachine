@@ -1,0 +1,127 @@
+{
+    "legacy_product_id": "1216008",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "100mm European Cylinder, INOX CYEU-5050TK-19G",
+            "vendor": "Inox",
+            "status": "ARCHIVED",
+            "sku": "INX-CYEU-5050TK-19G",
+            "mpn": "INX-CYEU-5050TK-19G",
+            "price": "73.0",
+            "compare_at_price": "73.0",
+            "contractor_price": "73.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Euro Double Profile Cylinder",
+                "100mm European Cylinder",
+                "INOX CYEU-5050TK",
+                "European Double Profile Cylinder"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CYEU4040TK-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CYEU4040TK-5251.jpg?v=1769496896"
+        },
+        "text": {
+            "description_html": "<p>INOX CYEU-5050TK-19G, European Double Profile Cylinder</p>\r\n\r\n<p>\r\nThe 100mm European Cylinder measures 50 mm on the thumbturn side of the cylinder and 50 mm on the key side of the cylinder. It is made out of solid brass.  \r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> of the INOX CYEU Series European Cylinder:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Schlage C keyway.</li>\r\n<li>Thumbturn Length: 31 mm</li>\r\n<li>Thumbturn Width: 14.5 mm</li>\r\n<li>Thumbturn Projection: 24.5 mm</li>\r\n<li>Thumbturn Side Cylinder Length: 50mm</li>\r\n<li>Key Side Cylinder Length: 50mm</li>\r\n<li>European Cylinder Length: 100mm</li>\r\n<li><b>Finish: Black</b></li>\r\n<li>Includes 1 breakable machine screw to fix cylinder to multipoint lock case with backset up to 2-3/4\"</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "100mm European Cylinder",
+                "description": "The 100mm European Cylinder measures 50 mm on the thumbturn side of the cylinder and 50 mm on the key side of the cylinder. It is made out of solid brass.",
+                "keywords": "Euro Double Profile Cylinder, 100mm European Cylinder, INOX CYEU-5050TK, European Double Profile Cylinder"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Thumbturn Length",
+                    "value": "31 mm"
+                },
+                {
+                    "key": "Thumbturn Width",
+                    "value": "14.5 mm"
+                },
+                {
+                    "key": "Thumbturn Projection",
+                    "value": "24.5 mm"
+                },
+                {
+                    "key": "Thumbturn Side Cylinder Length",
+                    "value": "50mm"
+                },
+                {
+                    "key": "Key Side Cylinder Length",
+                    "value": "50mm"
+                },
+                {
+                    "key": "European Cylinder Length",
+                    "value": "100mm"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Black"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "INOX Miscellaneous",
+                    "sort": "15"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Thumbturn Length: 31 mm",
+                "Thumbturn Width: 14.5 mm",
+                "Thumbturn Projection: 24.5 mm",
+                "Thumbturn Side Cylinder Length: 50mm",
+                "Key Side Cylinder Length: 50mm",
+                "European Cylinder Length: 100mm",
+                "Finish: Black",
+                "Keying: I Only Ordered One Lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

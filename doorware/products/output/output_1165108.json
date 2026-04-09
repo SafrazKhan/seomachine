@@ -1,0 +1,93 @@
+{
+    "legacy_product_id": "1165108",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Adams Rite 4066 Thumbturn",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "ADA-4066",
+            "mpn": "ADA-4066",
+            "price": "53.0",
+            "compare_at_price": "53.0",
+            "contractor_price": "53.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Adams Rite 4066 Thumbturns",
+                "ADA-4066"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ADA-4066-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ADA-4066-525.jpg?v=1716428681"
+        },
+        "text": {
+            "description_html": "<b>Adams Rite 4066 Mortise Thumbturn for Storefront Doors</b>\r\n\r\n<p>\r\nTo operate deadlock or deadlatch without key. Interchanges with standard 1\" [25.4 mm] length, 1-5/32\" [29.4 mm] diameter mortise cylinder. Cams are available to suit the particular Adams Rite deadlock or deadlatch. \r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> for the Adams Rite Mortise Cylinder Thumbturn:\r\n<ul>\r\n<li>1\" Body Length</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Special Ordered. No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "Adams Rite 4066 Thumbturn",
+                "description": "Storefront Door Mortise Cylinder Thumbturn",
+                "keywords": "Adams Rite 4066 Thumbturns, ADA-4066"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Adams Rite",
+                    "sort": "21"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "825232",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "532868",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "491233",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "184797",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 628: Anodized Aluminum",
+                "Select Finish: 313:  Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "628: Anodized Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "313:  Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "legacy_product_id": "247830",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Decorative Floral Cabinet Knob, First Impressions 1229K",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-1229K",
+            "mpn": "FII-1229K",
+            "price": "21.24",
+            "compare_at_price": "26.55",
+            "contractor_price": "20.18",
+            "shipping_weight": "0.2",
+            "tags": [
+                "FII-1229K Floral Cabinet Knobs",
+                "Decorative Floral Cabinet Knobs",
+                "First Impressions 1229K cabinet knobs",
+                "flowers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-1229K-cabinet-knob_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-1229K-cabinet-knob_525.jpg?v=1716422407"
+        },
+        "text": {
+            "description_html": "<b>First Impressions Decorative Floral Cabinet Knob</b>\r\n\r\n<p>\r\nThis decorative floral cabinet knob is available in 5 different finishes to compliment  your cabinet doors. The highly detailed design is impeccably crafted from solid forged brass. \r\n</p>\r\n\r\n<p>\r\nThe decorative design matches First Impressions <a href=\"/products/17-inch-castle-appliance-pull-first-impressions-ap-svy875017sbr\"><b>CF1229/1/17  Ornate Appliance Pull</b></a>.\r\n</p>\r\n\r\n<p>\r\nAlso available: Matching  <a href=\"/products/decorative-floral-cabinet-knob-rosette-first-impressions-cst02001\"><b>Floral Rosette</b></a> for an extra level of decoration. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for First Impressions 1229K Floral Cabinet Knob\r\n<ul>\r\n<li>Diameter: 1-1/8\"</li>\r\n<li>Projection: 1\"</li>\r\n<li>Material: Solid Forged Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Decorative Floral Cabinet Knob, First Impressions 1229K",
+                "description": "First Impressions 1229K - This decorative floral cabinet knob is available in 5 different finishes to compliment  your cabinet doors. The highly detailed design is impeccably crafted from solid forged brass. ",
+                "keywords": "FII-1229K Floral Cabinet Knobs, Decorative Floral Cabinet Knobs, First Impressions 1229K cabinet knobs, flowers,"
+            },
+            "specifications": [
+                {
+                    "key": "Diameter",
+                    "value": "1-1/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Forged Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "219"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "244058",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "247809",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "247851",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "235804",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "237708",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "247742",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Diameter: 1-1/8\"",
+                "Projection: 1\"",
+                "Material: Solid Forged Brass",
+                "Select Finish: FII-1229K-US10B - Oil Rubbed Bronze",
+                "Select Finish: FII-1229K-US15 - Satin Nickel",
+                "Select Finish: FII-1229K-US3 - Polished Brass",
+                "Select Finish: FII-1229K-US5 - Antique Brass",
+                "Select Finish: FII-1229K-AgB - Aged Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-1229K-US10B - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-1229K-US15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-1229K-US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-1229K-US5 - Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-1229K-AgB - Aged Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

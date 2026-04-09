@@ -1,0 +1,164 @@
+{
+    "legacy_product_id": "456040",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Stainless Steel Round Thumbturn Door Bolt , AHI SIG250PV-630",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-SIG250PV-630",
+            "mpn": "AHI-SIG250PV-630",
+            "price": "108.99",
+            "compare_at_price": "155.0",
+            "contractor_price": "108.99",
+            "shipping_weight": "2.0",
+            "tags": [
+                "AHI-SIG250PV-630 Stainless Steel Round Privacy Door Bolt",
+                "AHI SIG250PV Stainless Steel Thumbturn Door Bolts",
+                "AHI single turn bolts",
+                "door turn bolts",
+                "stainless dead bolts",
+                "stainless steel deadbolts",
+                "thumb turn locks",
+                "patio locks",
+                "patio door locks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AHI-SIG250_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-SIG250_525.jpg?v=1717106091"
+        },
+        "text": {
+            "description_html": "<b>AHI SIG250PV-630 Round Stainless Steel Door Bolt </b>\r\n<p>\r\nThis door bolt is operated by a thumbturn inside with no access from the outside. The exterior has no trim plate. All stainless steel construction with a <b>Satin Stainless Steel</b> finish. \r\n</p>\r\n<p>\r\nStainless Steel doorbolt, extremely resistant to corrosion, knocks, scratches and abrasion making it an ideal material for industrial and commercial door hardware. It needs little looking after and does not degrade in appearance or function with use. \r\n</p>\r\n<p>\r\nNormally used on patio doors. For use on any doors that require <b>locking from inside only</b>. For use with <b>3/4\" bore hole</b>.\r\n</p>\r\n<p>\r\n<b>Specifications</b> for AHI SIG250PV-630 Round Stainless Steel Doorbolt\r\n<ul>\r\n<li>Diameter: 2.1\" (53 mm)</li>\r\n<li>Thumbturn Projection: 1.22\" (31 mm)</li>\r\n<li>Thumbturn Length: 1.45\" (37 mm)</li>\r\n<li>Thumbturn Width: 0.67\" (17 mm)</li>\r\n<li>Bore Hole: 3/4\" (19 mm)</li>\r\n<li>Material: Stainless Steel</li>\r\n<li><b>Satin Stainless Steel Finish</b></li>\r\n</ul>\r\n</p>\r\n<p>\r\n*Does <b>NOT</b> fit a <b>2-1/8\" bore hole</b>. \r\n</p>\r\n<p>\r\nSold as complete set. Inside Thumbturn, Door Bolt and Strike Plate. \r\n</p>",
+            "seo": {
+                "title": "Stainless Steel Round Thumbturn Door Bolt , AHI SIG250PV-630",
+                "description": "AHI SIG250PV-630 This door bolt is operated by a thumbturn inside with no access from the outside.  All stainless steel construction with a Satin Stainless Steel finish. ",
+                "keywords": "AHI-SIG250PV-630 Stainless Steel Round Privacy Door Bolt, AHI SIG250PV Stainless Steel Thumbturn Door Bolts, AHI single turn bolts, door turn bolts, stainless dead bolts, stainless steel deadbolts, thumb turn locks, patio locks, patio door locks,"
+            },
+            "specifications": [
+                {
+                    "key": "Diameter",
+                    "value": "2.1\" (53 mm)"
+                },
+                {
+                    "key": "Thumbturn Projection",
+                    "value": "1.22\" (31 mm)"
+                },
+                {
+                    "key": "Thumbturn Length",
+                    "value": "1.45\" (37 mm)"
+                },
+                {
+                    "key": "Thumbturn Width",
+                    "value": "0.67\" (17 mm)"
+                },
+                {
+                    "key": "Bore Hole",
+                    "value": "3/4\" (19 mm)"
+                },
+                {
+                    "key": "Material",
+                    "value": "Stainless Steel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "AHI  Security Deadbolts",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "29322",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "260308",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "143925",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "143923",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "29317",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "204691",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Diameter: 2.1\" (53 mm)",
+                "Thumbturn Projection: 1.22\" (31 mm)",
+                "Thumbturn Length: 1.45\" (37 mm)",
+                "Thumbturn Width: 0.67\" (17 mm)",
+                "Bore Hole: 3/4\" (19 mm)",
+                "Material: Stainless Steel",
+                "Select Door Thickness: 1-3/8in. (34.9 mm) Thick Door",
+                "Select Door Thickness: 1-3/4in. (44.5 mm) Thick Door",
+                "Select Backset: 2-3/8in. Backset",
+                "Select Backset: 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1-3/8in. (34.9 mm) Thick Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-3/4in. (44.5 mm) Thick Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2"
+                },
+                {
+                    "value": "2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2"
+                }
+            ]
+        }
+    ]
+}

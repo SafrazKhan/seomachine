@@ -1,0 +1,131 @@
+{
+    "legacy_product_id": "809095",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:09:42.603466"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Traditional Arched Patio Deadbolt, Baldwin PTTAD",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-PTTAD",
+            "mpn": "BAL-PTTAD",
+            "price": "42.0",
+            "compare_at_price": "42.0",
+            "contractor_price": "42.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "BAL-PTTAD",
+                "Baldwin PTTAD",
+                "Traditional Arched Patio Deadbolts",
+                "Baldwin Reserve Traditional Patio Deadbolts",
+                "Classic Arch Patio Deadbolts",
+                "Arch Rose Patio Deadbolts"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-PATAD-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-PATAD-525.jpg?v=1716425789"
+        },
+        "text": {
+            "description_html": "<b>Baldwin PATAD, One-Sided Arch Rose Patio Deadbolt</b>\r\n\r\n<p>\r\nThis Traditional Arched Patio Deadbolt is normally used on patio doors because it has a thumbturn on the inside and no lock cylinder or plate on the outside of the door. It has an adjustable backset for 2-3/8 inch or 2-3/4 inch. The Traditional Arched Rose Patio Deadbolt is a great way to add a classic touch to any home.\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of the Classic Arch Patio Deadbolt:\r\n<ul>\r\n<li>Function: Patio Deadbolt (One Sided)</li>\r\n<li>Made out of solid forged brass.</li>\r\n<li>1-7/8\" Counterbore. 1\" edge bore for latch.</li>\r\n<li>One inch throw bolt latch.</li>\r\n<li>Tested to exceed ANSI/BHMA Grade 2 Security.</li>\r\n<li>Warranty: 25 year finish warranty and a limited lifetime mechanical warranty.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Baldwin Reserve Traditional Arched Deadbolt:\r\n<ul>\r\n<li>Width: 2-11/16\"</li>\r\n<li>Length: 3-1/16\"</li>\r\n<li>Projection: 1-7/16\"</li>\r\n<li>Door Thickness Standard: 1-3/4\" - 2\" </li>\r\n<li>Backset: Adjustable for 2-3/4\" or 2-3/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<b>One-Sided Deadbolt:</b> The deadbolt thrown or retracted from interior side only. There is no plate or exposed trim on the exterior.\r\n</p>",
+            "seo": {
+                "title": "Traditional Arched Patio Deadbolt",
+                "description": "This traditionally designed deadbolt is normally used on patio doors because it has a thumbturn on the inside and no lock cylinder or plate on the outside of the door. It has an adjustable backset for 2-3/8 inch or 2-3/4 inch. The Traditional Arched Rose Patio Deadbolt is a great way to add a classic touch to any home.",
+                "keywords": "BAL-PTTAD, Baldwin PTTAD, Traditional Arched Patio Deadbolts, Baldwin Reserve Traditional Patio Deadbolts, Classic Arch Patio Deadbolts, Arch Rose Patio Deadbolts,"
+            },
+            "specifications": [
+                {
+                    "key": "Width",
+                    "value": "2-11/16\""
+                },
+                {
+                    "key": "Length",
+                    "value": "3-1/16\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-7/16\""
+                },
+                {
+                    "key": "Door Thickness Standard",
+                    "value": "1-3/4\" - 2\""
+                },
+                {
+                    "key": "Backset",
+                    "value": "Adjustable for 2-3/4\" or 2-3/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Baldwin Discontinued",
+                    "sort": "120"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "316225",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "315638",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "170839",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "158838",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "147502",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "456040",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "652421",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "200564",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Width: 2-11/16\"",
+                "Length: 3-1/16\"",
+                "Projection: 1-7/16\"",
+                "Door Thickness Standard: 1-3/4\" - 2\"",
+                "Backset: Adjustable for 2-3/4\" or 2-3/8\"",
+                "Select Finish: 049 - Matte Brass and Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "049 - Matte Brass and Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

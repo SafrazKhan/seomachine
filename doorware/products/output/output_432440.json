@@ -1,0 +1,76 @@
+{
+    "legacy_product_id": "432440",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Schlage E Keyway Key in Knob Lock Cylinder, Schlage 40-100E-626",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-40-100E-626",
+            "mpn": "SCH-40-100E-626",
+            "price": "68.0",
+            "compare_at_price": "68.0",
+            "contractor_price": "68.0",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Schlage E Keyway Key in Knob Lock Cylinder",
+                "Schlage 40-100E-626"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Schlage E Keyway Key in Knob Lock Cylinder, Schlage 40-100E-626</b>\r\n<p>Schlage classic conventional lock cylinder with E keyway for keyed levers or knobs.  Satin chrome finished face.</p>",
+            "seo": {
+                "title": "Schlage E Keyway Key in Knob Lock Cylinder, Schlage 40-100E-626",
+                "description": "Schlage E Keyway Key in Knob Lock Cylinder, Schlage 40-100E-626",
+                "keywords": "Schlage E Keyway Key in Knob Lock Cylinder, Schlage 40-100E-626"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "100"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Keying: Keyed Different",
+                "Select Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "legacy_product_id": "41418",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Simple Vintage Finish Cabinet Knob, Omnia 9100/31",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "OMN-9100/31-V",
+            "mpn": "OMN-9100/31-V",
+            "price": "17.6",
+            "compare_at_price": "22.0",
+            "contractor_price": "16.72",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9100 vintage cabinet knobs",
+                "solid brass cabinet knobs",
+                "kitchen cabinet knobs",
+                "omnia cabinet knobs",
+                "omn-9100/25",
+                "omn-9100/31",
+                "omn-9100/40",
+                "Simple vintage brass knobs",
+                "vintage kitchen cabinet knobs Omnia 9100",
+                "solid brass drawer knobs",
+                "Simple Omnia 9100 drawer pulls",
+                "Simple Vintage Finish Cabinet Knobs",
+                "Vintage Collection Simple Cabinet Knob"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/kwi-9100-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/kwi-9100-525.jpg?v=1716420790"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9100/31, Vintage Collection Simple Cabinet Knob</b>\r\n\r\n<p>\r\nThis Simple Vintage Finish Cabinet Knob is available in 3 finishes, all of which are crafted to have the look of naturally weathered metal. The beautiful finish will be sure to add a classic look to any home. The Vintage Collection Simple Cabinet Knob is great for restoration projects. It has an authentic old world look that will blend into the look of historic home hardware.\r\n</p>\r\n\r\n<p>\r\nAlso available <a href=\"/products/simple-cabinet-knob-omnia-9100-31\"><b>Omnia 9100 Simple Cabinet Knob in Other Finishes</b></a> and  <a href=\"/products/simple-stainless-steel-cabinet-knob-omnia-9100-us32d\"><b>Omnia 9100-US32D Simple Cabinet Knob in Brushed Stainless Steel</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Simple Cabinet Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter: 1-7/32\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Simple Vintage Finish Cabinet Knob",
+                "description": "This Simple Vintage Finish Cabinet Knob is available in 3 finishes, all of which are crafted to have the look of naturally weathered metal. The beautiful finish will be sure to add a classic look to any home. The Vintage Collection Simple Cabinet Knob is great for restoration projects. It has an authentic old world look that will blend into the look of historic home hardware.\r\n",
+                "keywords": "omnia 9100 vintage cabinet knobs, solid brass cabinet knobs, kitchen cabinet knobs, omnia cabinet knobs, omn-9100/25, omn-9100/31, omn-9100/40, Simple vintage brass knobs, vintage kitchen cabinet knobs Omnia 9100, solid brass drawer knobs, Simple Omnia 9100 drawer pulls, Simple Vintage Finish Cabinet Knobs, Vintage Collection Simple Cabinet Knob,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Diameter",
+                    "value": "1-7/32\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-1/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia Vintage Collection Cabinet Knobs And Pulls",
+                    "sort": "1"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "10"
+                },
+                {
+                    "name": "Omnia Cabinet Knobs",
+                    "sort": "17"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "41288",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "41380",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "42711",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "42886",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "41449",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "42944",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "42141",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Diameter: 1-7/32\"",
+                "Projection: 1-1/8\"",
+                "Select Finish: VI: Vintage Iron",
+                "Select Finish: VC: Vintage Copper",
+                "Select Finish: VB: Vintage Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "VI: Vintage Iron",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "VI"
+                },
+                {
+                    "value": "VC: Vintage Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "VC"
+                },
+                {
+                    "value": "VB: Vintage Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "VB"
+                }
+            ]
+        }
+    ]
+}

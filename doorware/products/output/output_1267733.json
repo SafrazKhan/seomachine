@@ -1,0 +1,97 @@
+{
+    "legacy_product_id": "1267733",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Full Plastic Cover for 7100 Series Closers, PDQ 719006",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PDQ-719006",
+            "mpn": "PDQ-719006",
+            "price": "32.0",
+            "compare_at_price": "45.0",
+            "contractor_price": "32.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Full Plastic Cover for 7100 Series Closers",
+                "PDQ 719006"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDQ-719006-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PDQ-719006-525.jpg?v=1769504821"
+        },
+        "text": {
+            "description_html": "<b>PDQ 719/006 Full Plastic Door Closer Cover</b>\r\n\r\n<p>Full plastic replacement cover for PDQ 7100 Series Door Closer.\r\nNon Handed (reversible for left or right hand doors).  Available in Aluminum or Dark Bronze Finish.\r\n</p>",
+            "seo": {
+                "title": "Full Plastic Cover for 7100 Series Closers",
+                "description": "Full Plastic Cover for 7100 Series Closers, PDQ 719006",
+                "keywords": "Full Plastic Cover for 7100 Series Closers, PDQ 719006"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Door Closer Accessories",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "165224",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "264861",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1117428",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "233110",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "212953",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 689: Aluminum Paint",
+                "Select Finish: 695: Dark Bronze Paint"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "689: Aluminum Paint",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "695: Dark Bronze Paint",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

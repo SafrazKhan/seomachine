@@ -1,0 +1,51 @@
+{
+    "legacy_product_id": "1072700",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Acorn Strike Plate Screw, Black",
+            "vendor": "Acorn",
+            "status": "ARCHIVED",
+            "sku": "ACO-Strike-Screw",
+            "mpn": "ACO-Strike-Screw",
+            "price": "0.5",
+            "compare_at_price": "0.6",
+            "contractor_price": "0.5",
+            "shipping_weight": "0.3",
+            "tags": [
+                "ACO-Strike-Screw Acorn Strike Plate Screw",
+                "Black"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/special_order-5251213.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/special_order-5251213.jpg?v=1717790990"
+        },
+        "text": {
+            "description_html": "<b>Acorn Strike Plate Screw</b>\r\n<p>\r\nBlack finished Flat Head Screw for Acorn Mortise Strike Plates.\r\n</p>",
+            "seo": {
+                "title": "Acorn Strike Plate Screw, Black",
+                "description": "",
+                "keywords": "ACO-Strike-Screw Acorn Strike Plate Screw, Black"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Acorn Parts",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

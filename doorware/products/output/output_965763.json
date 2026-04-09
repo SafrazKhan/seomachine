@@ -1,0 +1,103 @@
+{
+    "legacy_product_id": "965763",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "2-5/8 Inch Replacement Rose Cover Omnia 671/PA",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-671/PA",
+            "mpn": "OMN-671/PA",
+            "price": "27.0",
+            "compare_at_price": "27.0",
+            "contractor_price": "27.0",
+            "shipping_weight": "1.5",
+            "tags": [
+                "Omnia Traditional Roses",
+                "2-5/8 Inch Replacement Roses",
+                "Omnia 671/07",
+                "OMN-671/07"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-671-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-671-525.jpg?v=1716427268"
+        },
+        "text": {
+            "description_html": "<b>Omnia 671/07,  Traditional Rose</b> \r\n\r\n<p>\r\nThis is a 2-5/8 Inch Replacement Rose for <a href=\"/collections/omnia-levers\">Omnia Leversets</a> and <a href=\"/collections/omnia-knobs\">Omnia Knobsets</a>. The Omnia 671/07  Traditional Rose is made of solid brass.\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. No Returns</i>\r\n</p>",
+            "seo": {
+                "title": "2-5/8 Inch Replacement Rose Cover",
+                "description": "This is a 2-5/8 Inch Replacement Rose for Omnia Leversets and Omnia Knobsets. The Omnia 671/07 Thru-Bolted Traditional Rose is made out of solid brass.",
+                "keywords": "Omnia Traditional Roses, 2-5/8 Inch Replacement Roses, Omnia 671/07, OMN-671/07,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "66"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "798205",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "576833",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "410183",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "481236",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "91284",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "617128",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 26D: Satin Chrome",
+                "Select Finish: 26: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

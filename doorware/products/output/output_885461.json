@@ -1,0 +1,90 @@
+{
+    "legacy_product_id": "885461",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Pembroke Lever Single Cylinder Interior Trim for Wellington Handleset, Kwikset 966PML",
+            "vendor": "Kwikset",
+            "status": "ARCHIVED",
+            "sku": "KWI-966PML",
+            "mpn": "KWI-966PML",
+            "price": "75.0",
+            "compare_at_price": "75.0",
+            "contractor_price": "75.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Pembroke Lever Single Cylinder Interior Trim for Wellington Handlesets",
+                "Kwikset 966PML",
+                "Single Cylinder Interior Trim",
+                "KWI-966PML",
+                "Kwikset Pembroke Lever Interior Trip for the 800WN Oval Wellington Door Entry Sets",
+                "Single Cylinder Wellington Handleset Interior Trim Replacement with Pembroke Levers",
+                "Pembroke lever with thumbturns"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/KWI-966PML-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/KWI-966PML-525.jpg?v=1716426374"
+        },
+        "text": {
+            "description_html": "<b>Kwikset 966PML, Single Cylinder Wellington Handleset Interior Trim Replacement with Pembroke Lever</b>\r\n\r\n<p>\r\nThis is a <a href=\"/site/product.cfm?id=10030\">Single Cylinder Wellington Handleset</a> Interior Trim Replacement with Pembroke Lever. The Pembroke Lever Single Cylinder Interior Trim for Wellington Handleset delivers elegant style by evoking a sense of the past. With traditional style, the Kwikset 966PML Pembroke Lever with Thumbturns is a great addition to classic homes.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Kwikset Pembroke Lever Interior Trip for the 800WN Oval Wellington Door Entry Set:\r\n<ul>\r\n<li>Rose Diameter: 2-5/8\"</li>\r\n<li>Lever Length: 3-3/4\"</li>\r\n<li>Lever Projection: 2-7/18\"</li>\r\n<li>Deadbolt to Latch Spacing: 5-1/2\" center to center</li>\r\n<li>Non-handed levers (except half dummy function).</li>\r\n<li>Concealed screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nSpecial Ordered Item. <b>No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "Pembroke Lever Single Cylinder Interior Trim for Wellington Handleset",
+                "description": "This is a Single Cylinder Wellington Handleset Interior Trim Replacement with Pembroke Lever. The Pembroke Lever Single Cylinder Interior Trim for Wellington Handleset delivers elegant style by evoking a sense of the past. With traditional style, the Kwikset 966PML Pembroke Lever with Thumbturns is a great addition to classic homes.",
+                "keywords": "Pembroke Lever Single Cylinder Interior Trim for Wellington Handlesets, Kwikset 966PML, Single Cylinder Interior Trim, KWI-966PML, Kwikset Pembroke Lever Interior Trip for the 800WN Oval Wellington Door Entry Sets, Single Cylinder Wellington Handleset Interior Trim Replacement with Pembroke Levers, Pembroke lever with thumbturns,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Kwikset Parts",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "106137",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "10030",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "10032",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "10034",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: U26 - Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

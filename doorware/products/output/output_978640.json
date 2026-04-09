@@ -1,0 +1,92 @@
+{
+    "legacy_product_id": "978640",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4\" x 4\" x Square Corners Heavy Duty Ball Bearing, Plated Steel Hinge Pair, Emtek 94014",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-94014",
+            "mpn": "EMT-94014",
+            "price": "33.6",
+            "compare_at_price": "33.6",
+            "contractor_price": "33.6",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Emtek 94014",
+                "4 x 4 x Square Corners Heavy Duty Steel Hinge with Ball Bearings",
+                "4 Inch Ball Bearing Hinge Heavy Duty",
+                "EMT-94014",
+                "4 Inch Ball Bearing Hinges"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-9841432D-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-9841432D-525.jpg?v=1716427333"
+        },
+        "text": {
+            "description_html": "<b>Emtek 94014, 4\" x 4\" x Square Corners Heavy Duty Steel Hinge with Ball Bearings</b>\r\n\r\n<p>\r\nPackage includes a pair of hinges (2) with matching finish steel screws. These hinges are 4 inch x 4 inch with square corners.\r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-94014-specifications.jpg?v=1704442293\" width=\"357\" height=\"285\" border=\"0\" alt=\"Emtek 94014 Hinge Specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Specification:</b> of the 4 Inch Ball Bearing Hinge:\r\n<ul>\r\n<li>Hinge Material: Steel</li>\r\n<li>Height: 4\"</li>\r\n<li>Width: 4\"</li>\r\n<li>Corners: Square</li>\r\n<li>Dual Ball-Bearings: 2 BB\r\n<li>Thickness: 0.113\" - 0.132\" (Heavy Duty)</li>\r\n<li>Standard Template Hole Pattern</li>\r\n<li>Hinge Pin: Steel</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Sold in Pairs (2 Hinges)</b>\r\n</p>",
+            "seo": {
+                "title": "4\" x 4\" x Square Corners Heavy Duty Ball Bearing, Plated Steel Hinge Pair",
+                "description": "Package includes a pair of hinges (2) with matching finish steel screws. These hinges are 4 inch x 4 inch with square corners.",
+                "keywords": "Emtek 94014, 4 x 4 x Square Corners Heavy Duty Steel Hinge with Ball Bearings, 4 Inch Ball Bearing Hinge Heavy Duty, EMT-94014, 4 Inch Ball Bearing Hinges,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Emtek Hinges",
+                    "sort": "99"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "8297",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "8615",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "8242",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "8626",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "61753",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US19: Matte Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

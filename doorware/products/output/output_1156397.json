@@ -1,0 +1,79 @@
+{
+    "legacy_product_id": "1156397",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin Estate Set Screw for Levers and Knobs, Baldwin 1327",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-1327",
+            "mpn": "BAL-1327",
+            "price": "10.0",
+            "compare_at_price": "10.0",
+            "contractor_price": "10.0",
+            "shipping_weight": "0.1",
+            "tags": [
+                "Baldwin Estate Set Screw for Levers and Knobs",
+                "Baldwin 1327",
+                "Baldwin Estate Knob and Lever Set Screws",
+                "BAL-1327"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-132009-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-132009-525.jpg?v=1716428541"
+        },
+        "text": {
+            "description_html": "<b>Set Screw for Baldwin Estate Levers and Knobs</b>\r\n\r\n<p>\r\n1/4 inch set screw for use with <a href=\"/collections/baldwin-estates-door-knob-sets\"><b>Baldwin Estates Door Knob Sets</b></a> and <a href=\"/collections/baldwin-estates-door-lever-sets\"><b>Baldwin Estates Door Lever Sets</b></a>.\r\n</p>\r\n\r\n<p>\r\n<i>Sold in Pairs (2 Set Screws). Special Ordered Item <b>NO RETURNS</b></i>\r\n</p>",
+            "seo": {
+                "title": "Baldwin Estate Set Screw for Levers and Knobs",
+                "description": "",
+                "keywords": "Baldwin Estate Set Screw for Levers and Knobs, Baldwin 1327, Baldwin Estate Knob and Lever Set Screws, BAL-1327,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "51"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "204815",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "289327",
+                    "sort": "2"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 009: Black Oxide"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "009: Black Oxide",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

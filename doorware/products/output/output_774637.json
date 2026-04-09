@@ -1,0 +1,122 @@
+{
+    "legacy_product_id": "774637",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Rectangular Single Cylinder Deadbolt, Rocky Mountain DB507",
+            "vendor": "Rocky Mountain",
+            "status": "ARCHIVED",
+            "sku": "RMH-DB507-WM-XXX-214-DB",
+            "mpn": "RMH-DB507-WM-XXX-214-DB",
+            "price": "313.0",
+            "compare_at_price": "369.0",
+            "contractor_price": "313.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Rectangular Single Cylinder Deadbolts",
+                "Rocky Mountain DB507",
+                "Traditional Rectangular Deadbolts",
+                "RMH-DB507-WM-XXX-214-DB",
+                "Rectangular Single Cylinder Dead Bolts"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RMH-DB507-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RMH-DB507-525.jpg?v=1717106251"
+        },
+        "text": {
+            "description_html": "<b>Rocky Mountain Hardware DB507, Rectangular Single Cylinder Dead Bolts,</b>\r\n\r\n<p>\r\nThis Rectangular Single Cylinder Deadbolt is made by Rocky Mountain Hardware. It is 2-1/2 inches wide and 3 inches high. It will fit 2-1/4 inch thick doors with either 2-3/8 inch or 2-3/4 inch backsets.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Rectangular Single Cylinder Deadbolt:\r\n<ul>\r\n<li>Finish: <b>White Bronze Medium</b></li>\r\n<li>Width: 2-1/2\"</li>\r\n<li>Length: 3\"</li>\r\n<li>Door Thickness: 2-1/4\"</li>\r\n<li>Backset: available for either 2-3/8\" or 2-3/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. Additional inbound and outbound freight charges maybe added to normal shipping charges.</i>\r\n</p>",
+            "seo": {
+                "title": "Rectangular Single Cylinder Deadbolt, Rocky Mountain DB507",
+                "description": "Rocky Mountain DB507, Rectangular Single Cylinder Deadbolt - This Rectangular Single Cylinder Deadbolt is made by Rocky Mountain Hardware. It is 2-1/2 inches wide and 3 inches high. It will fit 2-1/4 inch thick doors with either 2-3/8 inch or 2-3/4 inch backsts.",
+                "keywords": "Rectangular Single Cylinder Deadbolts, Rocky Mountain DB507, Traditional Rectangular Deadbolts, RMH-DB507-WM-XXX-214-DB, Rectangular Single Cylinder Dead Bolts,"
+            },
+            "specifications": [
+                {
+                    "key": "Finish",
+                    "value": "White Bronze Medium"
+                },
+                {
+                    "key": "Width",
+                    "value": "2-1/2\""
+                },
+                {
+                    "key": "Length",
+                    "value": "3\""
+                },
+                {
+                    "key": "Door Thickness",
+                    "value": "2-1/4\""
+                },
+                {
+                    "key": "Backset",
+                    "value": "available for either 2-3/8\" or 2-3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Rocky Mountain Hardware",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "714206",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "568092",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "478892",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "204714",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Finish: White Bronze Medium",
+                "Width: 2-1/2\"",
+                "Length: 3\"",
+                "Door Thickness: 2-1/4\"",
+                "Backset: available for either 2-3/8\" or 2-3/4\"",
+                "Select Backset: 2-3/8in. Backset",
+                "Select Backset: 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

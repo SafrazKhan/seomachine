@@ -1,0 +1,91 @@
+{
+    "legacy_product_id": "1181570",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Ball Insert for a CPSH Door Closer Arm, Sargent 63-3788",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "SAR-63-3788",
+            "mpn": "SAR-63-3788",
+            "price": "60.0",
+            "compare_at_price": "60.0",
+            "contractor_price": "60.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "SAR-63-3788",
+                "Sargent 63-3788",
+                "Sargent 63-3788 Ball Insert for Sargent CPSH Door Closer Arms",
+                "Sargent Door Closer Arm Ball Inserts"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SAR-63-3788-EN-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SAR-63-3788-EN-525.jpg?v=1716428806"
+        },
+        "text": {
+            "description_html": "<b>Sargent 63-3788 Ball Insert for Sargent CPSH Door Closer Arm</b>\r\n\r\n<p>\r\nThis is a replacement Ball Insert Assembly for a Sargent CPSH Door Closer Arm.\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Ball Insert for a CPSH Door Closer Arm",
+                "description": "This is a replacement Ball Insert Assembly for a Sargent CPSH Door Closer Arm.",
+                "keywords": "SAR-63-3788, Sargent 63-3788, Sargent 63-3788 Ball Insert for Sargent CPSH Door Closer Arms, Sargent Door Closer Arm Ball Inserts,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Sargent",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "221512",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "221485",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "188632",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "777807",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "195856",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: EN: Aluminum"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "EN: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

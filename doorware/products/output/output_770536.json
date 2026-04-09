@@ -1,0 +1,120 @@
+{
+    "legacy_product_id": "770536",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Colonial Switch Plate, Baldwin 47x6",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-47x6",
+            "mpn": "BAL-47x6",
+            "price": "10.4",
+            "compare_at_price": "13.0",
+            "contractor_price": "10.4",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Colonial Toggle Switch Plates",
+                "Colonial Switch Plate",
+                "Baldwin 4756",
+                "BAL-4756",
+                "Baldwin 4766",
+                "light switch covers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-4756-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-4756-525.jpg?v=1716425535"
+        },
+        "text": {
+            "description_html": "<b> Baldwin 47x6, Colonial Toggle Switch Plate</b>\r\n\r\n<p>\r\nThe Colonial Switch Plate has a stately look that is perfect for traditionally styled homes. Choose from a single toggle switch or a double toggle. \r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Types:</b>\r\n<ul>\r\n\r\n<b>BAL-4756 - Single Toggle</b> \r\n<ul>\r\n<li>Height: 5.125\"</li>\r\n<li>Width: 3\"</li>\r\n</ul>\r\n<br>\r\n\r\n<b>BAL-4766 - Double Toggle</b> \r\n<ul>\r\n<li>Height: 5.125\"</li>\r\n<li>Width: 5.125\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Colonial Switch Plate, Baldwin 47x6",
+                "description": "Colonial Switch Plate, Baldwin 4756 - The Colonial Switch Plate has a stately look that is perfect for traditionally styled homes. Choose from a single toggle switch or a double toggle. \r\n",
+                "keywords": "Colonial Toggle Switch Plates, Colonial Switch Plate, Baldwin 4756, BAL-4756, Baldwin 4766,  light switch covers,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Home Decor",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "13621",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "73383",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "73377",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "73352",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "421618",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "421650",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Type: BAL-4756 - Single Toggle",
+                "Select Type: BAL-4766 - Double Toggle",
+                "Select Finish: 260 - Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Type",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BAL-4756 - Single Toggle",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": " BAL-4766 - Double Toggle",
+                    "price_impact": 4.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "260 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

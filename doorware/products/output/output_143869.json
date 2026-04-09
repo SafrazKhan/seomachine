@@ -1,0 +1,161 @@
+{
+    "legacy_product_id": "143869",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Colonial Door Knocker, Brass Accents A07-K5520",
+            "vendor": "BrassAccents",
+            "status": "ACTIVE",
+            "sku": "BRA-A07-K5520",
+            "mpn": "BRA-A07-K5520",
+            "price": "59.99",
+            "compare_at_price": "75.0",
+            "contractor_price": "57.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "A07-K5520 Solid Brass Accents Traditional Door Knockers",
+                "Brass Accents A07-K5520 Traditional Door Knockers",
+                "Colonial American style door knockers",
+                "8 inch brass door knockers",
+                "4-1/2 inch center to center door knockers",
+                "8 inch Colonial Door Knockers",
+                "Colonial Door Knockers",
+                "BRA-A07-K5520",
+                "urn tip door knockers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BA-A07-K5520_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BA-A07-K5520_525.jpg?v=1716421398"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents A07-K5520, Colonial Door Knocker</b>\r\n\r\n<p>\r\nThe Colonial Knocker is beautiful door knocker featuring a traditional urn tip design. This front door colonial knocker is 8 inches tall with 4-9/16 inch center to center mounting. Made out of solid brass, it is available in a wide array of finishes. Come packaged with all the necessary mounting hardware. \r\n</p>\r\n\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance. <a href=\"/collections/brass-accents-door-knockers\">Brass Accents Door Knockers</a> are hand finished in the USA. They are one of the world's leading crafters of cast-brass and hot-forged decorative brass hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Brass Accents A07-K5520 Colonial Door Knocker:\r\n<ul>\r\n<li>Height: 8\"</li>\r\n<li>Width: 4-1/4\"</li>\r\n<li>Mounting Centers: 4-9/16\"</li>\r\n<li>Max Thickness of Door Knocker: 1-3/8\"</li>\r\n<li>Solid Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>",
+            "seo": {
+                "title": "Colonial Door Knocker | Colonial Knocker",
+                "description": "This colonial door knocker is solid brass and available in a variety of finishes. Buy the Brass Accent's colonial knocker from Doorware.com for a bold design!",
+                "keywords": "A07-K5520 Solid Brass Accents Traditional Door Knockers, Brass Accents A07-K5520 Traditional Door Knockers, Colonial American style door knockers, 8 inch brass door knockers, 4-1/2 inch center to center door knockers, 8 inch Colonial Door Knockers, Colonial Door Knockers, BRA-A07-K5520, urn tip door knockers,"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "4-1/4\""
+                },
+                {
+                    "key": "Mounting Centers",
+                    "value": "4-9/16\""
+                },
+                {
+                    "key": "Max Thickness of Door Knocker",
+                    "value": "1-3/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knockers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knockers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-6",
+            "collections": [
+                {
+                    "name": "Brass Accents Door Knockers",
+                    "sort": "11"
+                },
+                {
+                    "name": "Door Knockers",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "195685",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "143788",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "143420",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "143885",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "207292",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "76709",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Height: 8\"",
+                "Width: 4-1/4\"",
+                "Mounting Centers: 4-9/16\"",
+                "Max Thickness of Door Knocker: 1-3/8\"",
+                "Select Finish: Polished Brass",
+                "Select Finish: Antique Brass",
+                "Select Finish: Satin Nickel",
+                "Select Finish: Venetian Bronze",
+                "Select Finish: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Polished"
+                },
+                {
+                    "value": "Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Antique"
+                },
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Satin"
+                },
+                {
+                    "value": "Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Oil"
+                }
+            ]
+        }
+    ]
+}

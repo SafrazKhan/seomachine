@@ -1,0 +1,128 @@
+{
+    "legacy_product_id": "1170622",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Modern Cabinet Pull, RK International CP-531",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CP-531",
+            "mpn": "RKI-CP-531",
+            "price": "10.99",
+            "compare_at_price": "13.75",
+            "contractor_price": "10.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Modern Cabinet Pulls",
+                "Modern Cabinet Pulls",
+                "RKI-CP-531",
+                "RK International CP-531",
+                "Modern Cabinet Pulls",
+                "RK International CP-532",
+                "144mm c/c Modern Pulls",
+                "128m c/c modern pulls",
+                "RK International Modern Kitchen Cabinet Pulls",
+                "box ends bar pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-CP-531-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-CP-531-525.jpg?v=1716428758"
+        },
+        "text": {
+            "description_html": "<b>RK International CP 531, Modern Cabinet Pull</b>\r\n\r\n<p>\r\nThe Modern Cabinet Pull is available in 2 sizes: a 128mm and a 144mm. Choose from polished chrome or satin nickel. The Modern Cabinet Pull comes packaged with the installation hardware. It will add a chic sleekness to your kitchen cabinet door and drawers. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International Modern Kitchen Cabinet Pull:\r\n<ul>\r\n<li>Material: Zinc</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>RKI-CP-531:</b>\r\n<ul>\r\n<li>Length c.c. (center to center): 128mm</li>\r\n<li>Overall Length: 150mm</li>\r\n<li>Projection: 34mm</li>\r\n<li>Width: 12mm</li>\r\n</ul>\r\n<br>\r\n<b>RKI-CP-532:</b>\r\n<ul>\r\n<li>Length c.c. (center to center): 144mm</li>\r\n<li>Overall Length: 166mm</li>\r\n<li>Projection: 34mm</li>\r\n<li>Width: 12mm</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Modern Cabinet Pull",
+                "description": "The Modern Cabinet Pull is available in 2 sizes: a 128mm and a 144mm. Choose from polished chrome or satin nickel. The Modern Cabinet Pull comes packaged with the installation hardware. It will add a chic sleekness to your kitchen cabinet door and drawers.",
+                "keywords": "Modern Cabinet Pulls, Modern Cabinet Pulls, RKI-CP-531, RK International CP-531, Modern Cabinet Pulls, RK International CP-532, 144mm c/c Modern Pulls, 128m c/c modern pulls, RK International Modern Kitchen Cabinet Pulls, box ends bar pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Pulls and Flush Pulls",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "240986",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "901076",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "454078",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "882439",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1100954",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Size: RKI-CP-531: 128mm",
+                "Select Size: RKI-CP-532: 144mm",
+                "Select Finish: PC: Polished Chrome",
+                "Select Finish: P: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RKI-CP-531: 128mm",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RKI-CP-532: 144mm",
+                    "price_impact": 0.44,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PC: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

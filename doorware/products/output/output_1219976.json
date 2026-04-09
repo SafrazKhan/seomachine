@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "1219976",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Knoxville Lower Half Interior Handleset Trim with Rope Lever, Emtek 8108RL-US7-INTERIOR TRIM ONLY",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-8108RL-US7-INTERIOR TRIM ONLY",
+            "mpn": "EMT-8108RL-US7-INTERIOR TRIM ONLY",
+            "price": "99.0",
+            "compare_at_price": "99.0",
+            "contractor_price": "99.0",
+            "shipping_weight": "8.0",
+            "tags": [
+                "Knoxville Lower Half Interior Handleset Trim with Rope Lever",
+                "Emtek 8108RL-US7-INTERIOR TRIM ONLY"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525278.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525278.gif?v=1769499390"
+        },
+        "text": {
+            "description_html": "<b>Knoxville Lower Half Interior Handleset Trim with Rope Lever, Emtek 8108RL-US7-INTERIOR TRIM ONLY</b>\r\n\r\n<p>\r\nThis is interior lower half trim only for the 4310 Knoxville Single Cylinder Entry Door Lockset with Rope Lever, French Antique finish.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Knoxville Lower Half Interior Handleset Trim with Rope Lever:\r\n\r\n<ul>\r\n<li>Material: Brass</li>\r\n\r\n<li>Interior Trim Rose Height: 4-3/8\"</li>\r\n<li>Interior Trim Rose Width: 2-9/16\"</li>\r\n<li>Lever Length: 4-7/16\"</li>\r\n<li>Lever Projection: 2-7/8\"</li>\r\n<li>Clearance: 1-1/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually, NOT Returnable</i>\r\n</p>",
+            "seo": {
+                "title": "Knoxville Interior Handleset Trim",
+                "description": "Knoxville Lower Half Interior Handleset Trim with Rope Lever, Emtek 8108RL-US7-INTERIOR TRIM ONLY",
+                "keywords": "Knoxville Lower Half Interior Handleset Trim with Rope Lever, Emtek 8108RL-US7-INTERIOR TRIM ONLY"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Interior Trim Rose Height",
+                    "value": "4-3/8\""
+                },
+                {
+                    "key": "Interior Trim Rose Width",
+                    "value": "2-9/16\""
+                },
+                {
+                    "key": "Lever Length",
+                    "value": "4-7/16\""
+                },
+                {
+                    "key": "Lever Projection",
+                    "value": "2-7/8\""
+                },
+                {
+                    "key": "Clearance",
+                    "value": "1-1/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Tubular Handlesets",
+                    "sort": "73"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Material: Brass",
+                "Interior Trim Rose Height: 4-3/8\"",
+                "Interior Trim Rose Width: 2-9/16\"",
+                "Lever Length: 4-7/16\"",
+                "Lever Projection: 2-7/8\"",
+                "Clearance: 1-1/8\"",
+                "Select Handing: RH: Right Handing",
+                "Select Handing: LH: Left Handing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RH: Right Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LH: Left Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

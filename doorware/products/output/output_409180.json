@@ -1,0 +1,155 @@
+{
+    "legacy_product_id": "409180",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "European Profile Lock Cylinder, AHI-P Series",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-P Series",
+            "mpn": "AHI-P Series",
+            "price": "71.0",
+            "compare_at_price": "75.0",
+            "contractor_price": "56.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "European Profile Lock Cylinder",
+                "AHI-P Series"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>European Profile Lock Cylinder, AHI-P Series</b>\r\n<p>\r\nFor use with all AHI European mortise locks.\r\n</p>\r\n<p>\r\n<b>Specifications:</b> for P Series Profile Lock Cylinder\r\n<ul>\r\n<li>Key Cylinder 5-pin Schlage \"C\" Keyway</li>\r\n<li>7 Available Stock Sizes</li>\r\n<li>DIN Cam</li>\r\n<li>Includes 2 Keys</li>\r\n<li>Key/Tumbturn</li>\r\n<li> Solid Brass Cylinder</b>\r\n</ul>\r\n</p>\r\n<p>Available in satin nickel or raw brass finish.</p>\r\n<p><b>Thumbturn Sold Separately</b></p>\r\n\r\n\r\n\r\n\r\n</p>",
+            "seo": {
+                "title": "European Profile Lock Cylinder, AHI-P Series",
+                "description": "European Profile Lock Cylinder, AHI-P Series",
+                "keywords": "European Profile Lock Cylinder, AHI-P Series"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "AHI-Discontinued-and-Custom",
+                    "sort": "25"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Size: AHI-PKT3131 - 30.5mm x 30.5mm",
+                "Select Size: AHI-PKT3140 - 30mm x 40mm",
+                "Select Size: AHI-PKT3535 - 35mm x 35mm",
+                "Select Size: AHI-PKT3540 - 35mm x 40mm",
+                "Select Size: AHI-PKT4040 - 40mm x 40mm",
+                "Select Size: AHI-PKT4545 - 45mm x 45mm",
+                "Select Size: AHI-PKT5050 - 50mm x 50mm",
+                "Select Size: AHI-PKT5555 - 55mm x 55mm",
+                "Select Size: AHI-PKT6060 - 60mm x 60mm",
+                "Select Finish: 619 - Satin Nickel",
+                "Select Finish: 606 - Raw Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AHI-PKT3131 - 30.5mm x 30.5mm",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AHI-PKT3140 - 30mm x 40mm",
+                    "price_impact": 14.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AHI-PKT3535 - 35mm x 35mm",
+                    "price_impact": 6.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AHI-PKT3540 - 35mm x 40mm",
+                    "price_impact": 16.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AHI-PKT4040 - 40mm x 40mm",
+                    "price_impact": 16.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AHI-PKT4545 - 45mm x 45mm",
+                    "price_impact": 26.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AHI-PKT5050 - 50mm x 50mm",
+                    "price_impact": 42.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AHI-PKT5555 - 55mm x 55mm",
+                    "price_impact": 68.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AHI-PKT6060 - 60mm x 60mm",
+                    "price_impact": 98.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "619 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "606 - Raw Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

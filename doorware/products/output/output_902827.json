@@ -1,0 +1,122 @@
+{
+    "legacy_product_id": "902827",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "14 x 3 Petal Push Plate, Emtek 86181",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-86181",
+            "mpn": "EMT-86181",
+            "price": "169.99",
+            "compare_at_price": "212.0",
+            "contractor_price": "169.99",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Emtek Petal Push Plates",
+                "Cast Bronze 14 x 3 Petal Push Plates",
+                "14 x 3 Petal Push Plates",
+                "Emtek 86181",
+                "EMT-86181",
+                "Emtek Petal Push Plates",
+                "traditional door push plates",
+                "rustic push plates",
+                "tuscan push plates",
+                "tuscany push plates",
+                "tuscany hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86181-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86181-525.jpg?v=1716426712"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86181, Cast Bronze 14 x 3 Petal Push Plate</b>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86181-specifications.gif?v=1704354775\" width=\"198\" height=\"267\" border=\"0\" align=\"right\" atl=\"Emtek 86181 Specifications\">\r\nThe 14 x 3 Petal Push Plate is made out of cast bronze and is available in flat black or medium bronze finishes. This 14 x 3 Petal Push Plate is reminiscent of Tuscan hardware, with its nod to the natural world and metal material. Push Plates like this one are typically used in commercial buildings such as restaurants or restrooms, but this Tuscany Petal Push Plate will look stunning in your home too.\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Emtek Petal Push Plate:\r\n<ul>\r\n<li>Material: Lost Wax Cast Bronze</li>\r\n<li>Plate Height: 14\"</li>\r\n<li>Plate Width: 3\"</li>\r\n<li>Packaged with Mounting Screws</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86181-specifications.pdf?v=1704262359\"><b>Emtek 86181 Specifications (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold individually.</i>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-lost-wax-finish.jpg?v=1704354555\" width=\"394\" height=\"189\" border=\"0\" alt=\"Emtek Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "14 x 3 Petal Push Plate",
+                "description": "The 14 x 3 Petal Push Plate is made out of cast bronze and is available in flat black or medium bronze finishes. This 14 x 3 Petal Push Plate is reminiscent of Tuscan hardware, with its nod to the natural world and metal material. Push Plates like this one are typically used in commercial buildings such as restaurants or restrooms, but this Tuscany Petal Push Plate will look stunning in your home too.",
+                "keywords": "Emtek Petal Push Plates, Cast Bronze 14 x 3 Petal Push Plates, 14 x 3 Petal Push Plates, Emtek 86181, EMT-86181, Emtek Petal Push Plates, traditional door push plates, rustic push plates, tuscan push plates, tuscany push plates, tuscany hardware,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Emtek Door Pulls and Push Plates",
+                    "sort": "45"
+                },
+                {
+                    "name": "Emtek Cast Bronze Hardware Collection",
+                    "sort": "21"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "891915",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "582032",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "376258",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "612984",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "567685",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "142882",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "880798",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "901716",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: FB: Flat Black Bronze Patina",
+                "Select Finish: MB: Medium Bronze Patina"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FB: Flat Black Bronze Patina",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MB: Medium Bronze Patina",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

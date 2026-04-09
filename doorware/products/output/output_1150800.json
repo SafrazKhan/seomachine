@@ -1,0 +1,115 @@
+{
+    "legacy_product_id": "1150800",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "ANSI Strike Plate, Schlage 10025",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-10025",
+            "mpn": "SCH-10025",
+            "price": "29.0",
+            "compare_at_price": "29.0",
+            "contractor_price": "29.0",
+            "shipping_weight": "0.3",
+            "tags": [
+                "Schlage 10-025 ANSI with Square Corners",
+                "ANSI Strike Plates",
+                "Schlage 10025",
+                "Schlage 10-025 ANSI Strike Plates",
+                "SCH-10025",
+                "Schlage 138 ANSI Strike"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SCH-10-025-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SCH-10-025-525.jpg?v=1716428468"
+        },
+        "text": {
+            "description_html": "<b>Schlage 10-025 ANSI with Square Corners</b>\r\n\r\n\r\n<p>\r\nANSI strike plate. Normally used on commercial doors. Suitable for use with Schlage AL-Series, Schlage D-Series Knobs, and Schlage ND-Series Levers. Package includes strike plate with installation screws for use on either wood or metal doors and frames. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of Schlage 138 ANSI Strike:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Strike: 1-1/4\" x 4-7/8\"</li>\r\n<li>Strike Lip Length: 1-3/8\"</li>\r\n<li>Strike Type: Full Lip</li>\r\n<li>Corner Type:  Square Corner,</li>\r\n<li>Packaged with installation screws</li>\r\n<li>No dust box.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nPackaged with 2 matching finish screws.\r\n</p>",
+            "seo": {
+                "title": "ANSI Strike Plate, Schlage 10025",
+                "description": "ANSI strike plate. Normally used on commercial doors. Suitable for use with Schlage AL-Series, Schlage D-Series Knobs, and Schlage ND-Series Levers. Package includes strike plate with installation screws for use on either wood or metal doors and frames.",
+                "keywords": "Schlage 10-025 ANSI with Square Corners, ANSI Strike Plates, Schlage 10025, Schlage 10-025 ANSI Strike Plates, SCH-10025, Schlage 138 ANSI Strike"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Strike",
+                    "value": "1-1/4\" x 4-7/8\""
+                },
+                {
+                    "key": "Strike Lip Length",
+                    "value": "1-3/8\""
+                },
+                {
+                    "key": "Strike Type",
+                    "value": "Full Lip"
+                },
+                {
+                    "key": "Corner Type",
+                    "value": "Square Corner,"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "107"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "540522",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "369243",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "236559",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "906124",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Strike: 1-1/4\" x 4-7/8\"",
+                "Strike Lip Length: 1-3/8\"",
+                "Strike Type: Full Lip",
+                "Corner Type: Square Corner,",
+                "Select Finish: 625: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "625: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

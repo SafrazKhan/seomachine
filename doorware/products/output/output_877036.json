@@ -1,0 +1,94 @@
+{
+    "legacy_product_id": "877036",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Omnia Knob Privacy Rose Kit, Omnia RKT/0.PR2",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-RKT/0.PR2",
+            "mpn": "OMN-RKT/0.PR2",
+            "price": "99.2",
+            "compare_at_price": "124.0",
+            "contractor_price": "99.2",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Omnia Privacy Rose Kit for knob sets",
+                "Omnia Knob Privacy Rose Kit",
+                "Omnia RKT/0.PR2",
+                "OMN-RKT/0.PR2"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52544.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52544.gif?v=1717106304"
+        },
+        "text": {
+            "description_html": "<b>Omnia RKT/0.PR2, Privacy Rose Kit for Knob Sets</b>\r\n\r\n<p>\r\nThis is a Privacy Rose Kit for <a href=\"/collections/omnia-knobs\">Omnia Knob Sets</a>.\r\n</p>",
+            "seo": {
+                "title": "Omnia Knob Privacy Rose Kit",
+                "description": "This is a Privacy Rose Kit for Omnia Knob Sets.",
+                "keywords": "Omnia Privacy Rose Kit for knob sets, Omnia Knob Privacy Rose Kit, Omnia RKT/0.PR2, OMN-RKT/0.PR2,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "57"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "629246",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "624357",
+                    "sort": "2"
+                }
+            ],
+            "filter_options": [
+                "Select Door Thickness: 1-3/4in. Door Thickness",
+                "Select Backset: 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1-3/4in. Door Thickness",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

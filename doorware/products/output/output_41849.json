@@ -1,0 +1,154 @@
+{
+    "legacy_product_id": "41849",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T16:10:28.616613"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Ring Cabinet Pull, Omnia 9466/57",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9466/57",
+            "mpn": "OMN-9466/57",
+            "price": "8.64",
+            "compare_at_price": "10.8",
+            "contractor_price": "8.21",
+            "shipping_weight": "0.25",
+            "tags": [
+                "omnia 9466 decorative cabinet ring pulls",
+                "solid brass cabinet pulls",
+                "elegant drop pulls",
+                "omnia decorative series pulls",
+                "omnia cabinet hardware",
+                "omn-9466/57"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-9466-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/omn-9466-525.jpg?v=1716420814"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9466/57 Solid Brass Ring Cabinet Pull</b>\r\n<p>\r\nMade of solid brass, this Omnia made ring pull has a simple elegance featuring symmetry. It is great for cabinet doors and light weight furniture drawers.</p>\r\n\r\n<p>\r\nOmnia's line of sophisticated cabinet hardware have been painstakingly crafted by artisans who understand that a beautiful design must be as comfortable to the hand as it is pleasing to the eyes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Decorative Series Omnia 9466/57 Ring Pull:\r\n<ul>\r\n<li>Solid brass construction regardless of finish.</li>\r\n<li>Backplate Diameter: 7/8\"</li>\r\n<li>Pull Width: 2-1/4\"</li>\r\n<li>Pull Height: 1-7/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "Ring Cabinet Pull, Omnia 9466/57",
+                "description": "Omnia 9466/57 Decorative Ring Cabinet Drop Pull - Made of solid brass, this Omnia made ring pull has a simple elegance featuring symmetry. It is great for cabinet doors and light weight furniture drawers. It is available in 5 finishes. \r\n",
+                "keywords": "omnia 9466 decorative cabinet ring pulls, solid brass cabinet pulls, elegant drop pulls, omnia decorative series pulls, omnia cabinet hardware, omn-9466/57"
+            },
+            "specifications": [
+                {
+                    "key": "Backplate Diameter",
+                    "value": "7/8\""
+                },
+                {
+                    "key": "Pull Width",
+                    "value": "2-1/4\""
+                },
+                {
+                    "key": "Pull Height",
+                    "value": "1-7/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "149"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "247851",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "41135",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "43096",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "41768",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42871",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "41711",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "37548",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Backplate Diameter: 7/8\"",
+                "Pull Width: 2-1/4\"",
+                "Pull Height: 1-7/8\"",
+                "Select Finish: US3 - Polished Brass",
+                "Select Finish: SB - Shaded Bronze",
+                "Select Finish: VB - Vintage Brass",
+                "Select Finish: VC - Vintage Copper",
+                "Select Finish: VI - Vintage Iron"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9466/57"
+                },
+                {
+                    "value": "SB - Shaded Bronze",
+                    "price_impact": 0.24,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9466/57"
+                },
+                {
+                    "value": "VB - Vintage Brass",
+                    "price_impact": 2.16,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9466/57"
+                },
+                {
+                    "value": "VC - Vintage Copper",
+                    "price_impact": 2.16,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9466/57"
+                },
+                {
+                    "value": "VI - Vintage Iron",
+                    "price_impact": 2.16,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9466/57"
+                }
+            ]
+        }
+    ]
+}

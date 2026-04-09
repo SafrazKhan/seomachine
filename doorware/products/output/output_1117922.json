@@ -1,0 +1,162 @@
+{
+    "legacy_product_id": "1117922",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "70mm European Cylinder with Thumbturn, INOX CYEU-3535TK",
+            "vendor": "Inox",
+            "status": "ARCHIVED",
+            "sku": "INX-CYEU-3535TK",
+            "mpn": "INX-CYEU-3535TK",
+            "price": "76.25",
+            "compare_at_price": "76.25",
+            "contractor_price": "76.25",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Euro Double Profile Cylinder with Thumb-turns",
+                "European Cylinder with Thumbturn",
+                "INOX CYEU-3535TK",
+                "European Double Profile Cylinder with Thumbturn"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/INX- CYEU-3535TK-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/INX-_20CYEU-3535TK-525.jpg?v=1711366568"
+        },
+        "text": {
+            "description_html": "<p>INOX CYEU-3535TK, European Double Profile Cylinder with Thumbturn</p>\r\n\r\n<p>\r\nThe European Cylinder measures 35 mm on the thumbturn side of the cylinder and 35 mm on the key side of the cylinder. It is made out of solid brass.  \r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> of the INOX CYEU Series European Cylinder:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Schlage C keyway.</li>\r\n<li>Thumbturn Length: 31 mm</li>\r\n<li>Thumbturn Width: 14.5 mm</li>\r\n<li>Thumbturn Projection: 24.5 mm</li>\r\n<li>Thumbturn Side Cylinder Length: 35 mm</li>\r\n<li>Key Side Cylinder Length: 35 mm</li>\r\n<li>European Cylinder Length: 70 mm</li>\r\n</ul>\r\n</p>\r\n\r\n<p>",
+            "seo": {
+                "title": "Offset European Cylinder",
+                "description": "The European Cylinder measures 35 mm on the thumbturn side of the cylinder and 35 mm on the key side of the cylinder. It is made out of solid brass.",
+                "keywords": "Euro Double Profile Cylinder with Thumb-turns, European Cylinder with Thumbturn, INOX CYEU-3535TK, European Double Profile Cylinder with Thumbturn,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Thumbturn Length",
+                    "value": "31 mm"
+                },
+                {
+                    "key": "Thumbturn Width",
+                    "value": "14.5 mm"
+                },
+                {
+                    "key": "Thumbturn Projection",
+                    "value": "24.5 mm"
+                },
+                {
+                    "key": "Thumbturn Side Cylinder Length",
+                    "value": "35 mm"
+                },
+                {
+                    "key": "Key Side Cylinder Length",
+                    "value": "35 mm"
+                },
+                {
+                    "key": "European Cylinder Length",
+                    "value": "70 mm"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "INOX Miscellaneous",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "982038",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "982053",
+                    "sort": "2"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Thumbturn Length: 31 mm",
+                "Thumbturn Width: 14.5 mm",
+                "Thumbturn Projection: 24.5 mm",
+                "Thumbturn Side Cylinder Length: 35 mm",
+                "Key Side Cylinder Length: 35 mm",
+                "European Cylinder Length: 70 mm",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US19G: Black",
+                "Keying: I Only Ordered One Lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19G: Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "legacy_product_id": "1062021",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4-1/2 x 4-1/2 x Square Corners Heavy Duty Steel Hinge, Grandeur BALHNGSTL45SQ3.3",
+            "vendor": "Grandeur",
+            "status": "ARCHIVED",
+            "sku": "GRA-BALHNGSTL45SQ3.3",
+            "mpn": "GRA-BALHNGSTL45SQ3.3",
+            "price": "16.2",
+            "compare_at_price": "18.0",
+            "contractor_price": "16.2",
+            "shipping_weight": "2.0",
+            "tags": [
+                "4-1/2 Inch Stainless Steel Hinges",
+                "GRA-BALHNGSTL45SQ3.3",
+                "Grandeur BALHNGSTL45SQ3.3",
+                "4-1/2 Inch Heavy Duty Steel Hinge"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-BALHNGSTL45SQ-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-BALHNGSTL45SQ-525.jpg?v=1716428017"
+        },
+        "text": {
+            "description_html": "<b>Grandeur BALHNGSTL45SQ2.2, 4-1/2\" x 4-1/2\"  Heavy Duty Steel Hinge With Ball Tips</b>\r\n\r\n<p>\r\nPackage includes a 4.5 inch by 4.5 inch square corner hinge with ball finials. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the 4-1/2 Inch Heavy Duty Steel Hinge:\r\n<ul>\r\n<li>Hinge Material: Steel</li>\r\n<li>Height: 4-1/2\"</li>\r\n<li>Width: 4-1/2\"</li>\r\n<li>Corners: Square</li>\r\n<li>Thickness: 3.3mm (Heavy Duty)</li>\r\n<li>4 Hole Template Hole Pattern</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "4-1/2 x 4-1/2 x Square Corners Steel Hinge",
+                "description": "4-1/2 x 4-1/2 x Square Corners Steel Hinge. Package includes a 4.5 inch by 4.5 inch square corner hinge with ball finials.",
+                "keywords": "4-1/2 Inch Stainless Steel Hinges, GRA-BALHNGSTL45SQ3.3, Grandeur BALHNGSTL45SQ3.3, 4-1/2 Inch Heavy Duty Steel Hinge"
+            },
+            "specifications": [
+                {
+                    "key": "Hinge Material",
+                    "value": "Steel"
+                },
+                {
+                    "key": "Height",
+                    "value": "4-1/2\""
+                },
+                {
+                    "key": "Width",
+                    "value": "4-1/2\""
+                },
+                {
+                    "key": "Corners",
+                    "value": "Square"
+                },
+                {
+                    "key": "Thickness",
+                    "value": "3.3mm (Heavy Duty)"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Grandeur Parts",
+                    "sort": "17"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "200435",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "460516",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "76581",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "75527",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "75692",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Hinge Material: Steel",
+                "Height: 4-1/2\"",
+                "Width: 4-1/2\"",
+                "Corners: Square",
+                "Thickness: 3.3mm (Heavy Duty)",
+                "Select Finish: AB: Antique Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

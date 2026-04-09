@@ -1,0 +1,91 @@
+{
+    "legacy_product_id": "843652",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Modern Round Turn Piece, Baldwin 6750",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-6750",
+            "mpn": "BAL-6750",
+            "price": "84.0",
+            "compare_at_price": "84.0",
+            "contractor_price": "84.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Baldwin Privacy Bolts Modern Round Turn Pieces",
+                "Modern Round Turn Pieces",
+                "Baldwin 6750",
+                "BAL-6750"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-6750150-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-6750150-525.jpg?v=1716425972"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 6750, Modern Round Turn Piece for Privacy Bolts</b>\r\n\r\n<p>\r\nThe Modern Round Turn Piece is used with with Baldwin privacy bolts. It is surface mounted and comes packaged with the thumb turn, rose, and spindle.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Baldwin 6750 Thumb Piece for Privacy Bolts:\r\n<ul>\r\n<li>Overall Projection: .906\"</li>\r\n<li>Rose Projection: .093\"</li>\r\n<li>Rose Diameter: 1.625\"</li>\r\n<li>Surface Mounted</li>\r\n<li>Comes packaged with spindle.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i> Special Ordered Item. <b>No Returns</a>\r\n</p>",
+            "seo": {
+                "title": "Modern Round Turn Piece",
+                "description": "The Modern Round Turn Piece is used with with Baldwin privacy bolts. It is surface mounted and comes packaged with the thumb turn, rose, and spindle.",
+                "keywords": "Baldwin Privacy Bolts Modern Round Turn Pieces, Modern Round Turn Pieces, Baldwin 6750, BAL-6750"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "31"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "29322",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "260308",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "305103",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "801241",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "456040",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 150 - Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "150 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

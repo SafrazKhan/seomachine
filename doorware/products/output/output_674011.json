@@ -1,0 +1,108 @@
+{
+    "legacy_product_id": "674011",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Commercial Entry Set GR2 Drive-In-Latch, Deltana G2DLE",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-G2DLE",
+            "mpn": "DEL-G2DLE",
+            "price": "19.62",
+            "compare_at_price": "26.16",
+            "contractor_price": "18.64",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Entry Drive-In-Latches",
+                "Entry Set GR2 Drive-In-Latches",
+                "Deltana G2DLE",
+                "DEL-G2DLE",
+                "Deltana G2DLE275U32D",
+                "Deltana G2DLE238U32D",
+                "GR2 Drive-In-Latch Entry",
+                "drive in laches",
+                "Keyed Entry Drive-In-Latches"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-G2DL-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-G2DL-525.jpg?v=1717106209"
+        },
+        "text": {
+            "description_html": "<b>Deltana G2DLE, Commercial Keyed Entry Drive-In-Latch</b>\r\n\r\n<p>\r\nThe Entry Set GR2 Drive-In-Latch is easy to install as it just requires bore hole and cross bore. Because there is no faceplate, there is nothing to mortise, that means you won't have to chisel anything out of your door. To install, just tap the latch into the hole. These Deltana G2DLE Drive-In-Latches will work with commercial Keyed Entry Function Sets like <a href=\"/collections/deltana-levers-knobs-and-locks\">Deltana Grade 1 and 2 Levers</a>, <a href=\"/collections/global-lock-sets\">Global Keyed Entry Sets</a>, <a href=\"//search?type=product&q=PDQ+SV+Series+levers\">PDQ SV Series Levers</a>. Available for 2-3/8\" or 2-3/4\" backsets.\r\n</p> \r\n\r\n<p>\r\n<b>Features and Specifications</b> of the GR2 Commercial Drive-In-Latch Entry:\r\n<ul>\r\n<li>Material: Stainless Steel / Zinc</li>\r\n<li>Diameter: 1\"</li>\r\n<li>Latch Bolt Length: 1/2\"</li>\r\n<li>Available for 2-3/8\" or 2-3/4\" backsets.</li>\r\n<li>For Keyed Entry Functions.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-G2DLE-specifiactions.pdf?v=1704262320\" target=\"new\"><b>Deltana G2DLE Drive in Latch Specifications (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*For Commercial Cylindrical type leversets only.</b>\r\n</p>",
+            "seo": {
+                "title": "Commercial Entry Set GR2 Drive-In-Latch, Deltana G2DLE",
+                "description": "Deltana G2DLE, Entry Set GR2 Drive-In-Latch - The Entry Set GR2 Drive-In-Latch is easy to install as it just requires bore hole and cross bore. Because there is no faceplate, there is nothing to mortise, that means you won't have to chisel anything out of your door. To install, just tap the latch into the hole. These Deltana G2DLE Drive-In-Latches will work with Entry Function Sets like: Deltana Grade 1 and 2 Levers, Global Entry Sets, PDQ SV Series Levers, and  Schlage's AL Series. Available for 2-3/8 inch or 2-3/4 inch backsets.",
+                "keywords": "Entry Drive-In-Latches, Entry Set GR2 Drive-In-Latches, Deltana G2DLE, DEL-G2DLE, Deltana G2DLE275U32D, Deltana G2DLE238U32D, GR2 Drive-In-Latch Entry, drive in laches, Keyed Entry Drive-In-Latches,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Deltana Strikes and Latches",
+                    "sort": "19"
+                },
+                {
+                    "name": "Deltana Levers, Knobs, and Locks",
+                    "sort": "200"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "260609",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "260741",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "335504",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "209025",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "222081",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Backset: DEL-G2DLE275U32D: 2-3/4in. Backset",
+                "Select Backset: DEL-G2DLE238U32D: 2-3/8in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DEL-G2DLE275U32D: 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DEL-G2DLE238U32D: 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

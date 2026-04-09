@@ -1,0 +1,139 @@
+{
+    "legacy_product_id": "567234",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Large Rope Cabinet Pull, RK International CP-3714",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CP-3714",
+            "mpn": "RKI-CP-3714",
+            "price": "16.99",
+            "compare_at_price": "20.79",
+            "contractor_price": "16.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "RKI-CP-3714",
+                "Traditional Clover End Pulls",
+                "RK International CP-3714",
+                "Big Rope Pull with Clover Ends",
+                "Rope Cabinet Pull with Clover Mounts",
+                "Rope cabinet Pull with Clover Ends",
+                "flower cabinet pulls",
+                "floral cabinet pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CP-3714-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CP-3714-525.jpg?v=1716424611"
+        },
+        "text": {
+            "description_html": "<b>RK International CP-3714, 3\" Traditional Rope End Pull</b>\r\n\r\n<p>\r\nMeasuring 3 inches c.c., the Rope Cabinet Pull with Clover Ends has traditional style with something more. Often times, traditional cabinet pulls are plain, but this handle made by RK International will be sure to bring a touch of beauty to any space. It is available in 5 finishes including oil rubbed bronze (pictured right), satin nickel, and antique english.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CP-3714 Rope Cabinet Pull with Clover Mounts:\r\n<ul>\r\n<li>Material: brass</li>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 4-3/8\"</li>\r\n<li>Width: 9/16\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MUL-T-LOCK-G55G1_size.gif?v=1704354738\" width=\"600\" height=\"146\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Large Rope Cabinet Pull",
+                "description": "RK International CP-3714, Rope Cabinet Pull with Clover Ends - Measuring 3 inches c.c., the Rope Cabinet Pull with Clover Ends has traditional style with something more. Often times, traditional cabinet pulls are plain, but this handle made by RK International will be sure to bring a touch of beauty to any space. It is available in 5 finishes including oil rubbed bronze, satin nickel, and antique english.",
+                "keywords": "RKI-CP-3714, Traditional Clover End Pulls, RK International CP-3714, Big Rope Pull with Clover Ends, Rope Cabinet Pull with Clover Mounts, Rope cabinet Pull with Clover Ends, flower cabinet pulls, floral cabinet pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Pulls and Flush Pulls",
+                    "sort": "7"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "396762",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "37150",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "65869",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "37512",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "41271",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "203528",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "551820",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: RB: Oil Rubbed Bronze",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

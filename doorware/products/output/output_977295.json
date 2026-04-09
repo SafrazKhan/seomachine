@@ -1,0 +1,127 @@
+{
+    "legacy_product_id": "977295",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Traditional Door Knocker, Rockwood 611",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "ROW-611",
+            "mpn": "ROW-611",
+            "price": "88.8",
+            "compare_at_price": "111.0",
+            "contractor_price": "88.8",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Traditional Front Door Knockers",
+                "Rockwood 611",
+                "Traditional Style Door Knockers",
+                "ROW-611",
+                "Victorian Door Knockers",
+                "DEL-DK7356"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RCK-611-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RCK-611-525.jpg?v=1716427322"
+        },
+        "text": {
+            "description_html": "<b>Rockwood 611, Traditional Style Door Knocker</b>\r\n\r\n<p>\r\nThis Traditional Door Knocker is made solid brass. It comes packaged with mounting hardware.  It is thru-bolt mounted with 6-1/4 inch center to center mounting holes (distance between the two mounting screw holes). This front door knocker features a classic urn tip that will enhance traditional homes; but it is still timeless enough to look great in almost any setting while still adding a beautiful a functional finishing touch to your front door. It can even be engraved for a personal touch.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Traditional Front Door Knocker:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Height: 6-3/4\"</li>\r\n<li>Width: 3-5/8\"</li>\r\n<li>Mounting Centers: 6-1/4\" c.c. (distance between the 2 mounting screws)</li>\r\n<li>Fastner: 2 ea. 8-32 x 2 FH MS (for standard 1-3/4\" doors); 2 ea. #8 Finish Washers</li>\r\n<li>Includes matching finish mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Traditional Door Knocker",
+                "description": "This Traditional Door Knocker is made solid brass. It comes packaged with mounting hardware.  It is thru-bolt mounted with 6-1/4 inch center to center mounting holes (distance between the two mounting screw holes).",
+                "keywords": "Traditional Front Door Knockers, Rockwood 611, Traditional Style Door Knockers, ROW-611, Victorian Door Knockers, DEL-DK7356,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Height",
+                    "value": "6-3/4\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3-5/8\""
+                },
+                {
+                    "key": "Mounting Centers",
+                    "value": "6-1/4\" c.c. (distance between the 2 mounting screws)"
+                },
+                {
+                    "key": "Fastner",
+                    "value": "2 ea. 8-32 x 2 FH MS (for standard 1-3/4\" doors); 2 ea. #8 Finish Washers"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knockers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knockers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-6",
+            "collections": [
+                {
+                    "name": "Rockwood Accessories",
+                    "sort": "15"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "76682",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "617128",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "903085",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "156727",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "903066",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "859892",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "726219",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Height: 6-3/4\"",
+                "Width: 3-5/8\"",
+                "Mounting Centers: 6-1/4\" c.c. (distance between the 2 mounting screws)",
+                "Fastner: 2 ea. 8-32 x 2 FH MS (for standard 1-3/4\" doors); 2 ea. #8 Finish Washers",
+                "Select Finish: US15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

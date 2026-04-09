@@ -1,0 +1,48 @@
+{
+    "legacy_product_id": "208880",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Extended Length Kit for AHI Deadbolts",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-SIG-DB-Kit",
+            "mpn": "AHI-SIG-DB-Kit",
+            "price": "10.0",
+            "compare_at_price": "10.0",
+            "contractor_price": "10.0",
+            "shipping_weight": "0.1",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Extended Length  Kit for AHI Deadbolts</b>\r\n<p>Extra long tail piece and screws for AHI 4850 and 4860 single cylinder deadbolts.\r\n</p>",
+            "seo": {
+                "title": "Extended Length Kit for AHI Deadbolts",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "AHI Miscellaneous Parts",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

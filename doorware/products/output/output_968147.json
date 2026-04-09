@@ -1,0 +1,210 @@
+{
+    "legacy_product_id": "968147",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Commercial Deadbolt, Extra Heavy Duty, PDQ KT Series",
+            "vendor": "PDQ",
+            "status": "ACTIVE",
+            "sku": "PDQ-KT",
+            "mpn": "PDQ-KT",
+            "price": "193.99",
+            "compare_at_price": "242.0",
+            "contractor_price": "184.0",
+            "shipping_weight": "1.5",
+            "tags": [
+                "Commercial Deadbolt",
+                "Extra Heavy Duty",
+                "PDQ KT Series",
+                "PDQ-KT",
+                "Extra Heavy Duty Commercial Deadbolts"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDQ-KT116-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PDQ-KT116-525.jpg?v=1716427275"
+        },
+        "text": {
+            "description_html": "<b>PDQ KT Extra Heavy Duty Commercial Deadbolt</b>\r\n\r\n<p>\r\nFits standard 2-1/8\" pre drilled doors. Available as <B>Single Cylinder</b> (Keyed lock on the outside with thumbturn inside) or <B>Double Cylinder</b> (Keyed lock on both outside and inside).\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the PDQ Extra Heavy Duty Commercial Deadbolt:\r\n<ul>\r\n<li>Door Thickness: Adjustable for 1-3/8\" to 1-3/4\" thick.</li>\r\n<li>Door Prop: Fits standard 2-1/8\" door prep.</li>\r\n<li>Backsets: 2-3/8\" or 2-3/4\"</li>\r\n<li>Deadbolt: 1\" throw with case-hardened roller pin. Brass.</li>\r\n<li>Strike: 2-3/4\" x 1-1/8\"</li>\r\n<li>Trim: wrought brass.</li>\r\n<li>Keyways: Schlage \"C\" Standard.</li>\r\n<li>Cylinder: Brass 6-pin cylinder keyed to 5-pins.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available Functions</b> for PDQ Standard Duty Commercial Deadbolt:\r\n<ul>\r\n<li>Single Cylinder: Keyed lock cylinder on the outside with thumbturn inside</li>\r\n<li>Double Cylinder: Keyed lock cylinder on both outside and inside</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Commercial Deadbolt, Extra Heavy Duty",
+                "description": "Extra Heavy Duty Commercial Deadbolt. Fits standard 2-1/8 inch pre drilled doors. Available as Single Cylinder (Keyed lock on the outside with thumbturn inside) or Double Cylinder (Keyed lock on both outside and inside).",
+                "keywords": "Commercial Deadbolt, Extra Heavy Duty, PDQ KT Series, PDQ-KT, Extra Heavy Duty Commercial Deadbolts"
+            },
+            "specifications": [
+                {
+                    "key": "Door Thickness",
+                    "value": "Adjustable for 1-3/8\" to 1-3/4\" thick."
+                },
+                {
+                    "key": "Door Prop",
+                    "value": "Fits standard 2-1/8\" door prep."
+                },
+                {
+                    "key": "Backsets",
+                    "value": "2-3/8\" or 2-3/4\""
+                },
+                {
+                    "key": "Deadbolt",
+                    "value": "1\" throw with case-hardened roller pin. Brass."
+                },
+                {
+                    "key": "Strike",
+                    "value": "2-3/4\" x 1-1/8\""
+                },
+                {
+                    "key": "Trim",
+                    "value": "wrought brass."
+                },
+                {
+                    "key": "Keyways",
+                    "value": "Schlage \"C\" Standard."
+                },
+                {
+                    "key": "Cylinder",
+                    "value": "Brass 6-pin cylinder keyed to 5-pins."
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "PDQ Commercial Locks",
+                    "sort": "10"
+                },
+                {
+                    "name": "Commercial Locks",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "194308",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "549603",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "310815",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "12610",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Door Thickness: Adjustable for 1-3/8\" to 1-3/4\" thick.",
+                "Door Prop: Fits standard 2-1/8\" door prep.",
+                "Backsets: 2-3/8\" or 2-3/4\"",
+                "Deadbolt: 1\" throw with case-hardened roller pin. Brass.",
+                "Strike: 2-3/4\" x 1-1/8\"",
+                "Trim: wrought brass.",
+                "Keyways: Schlage \"C\" Standard.",
+                "Cylinder: Brass 6-pin cylinder keyed to 5-pins.",
+                "Select Function: KT116 Single Cylinder",
+                "Select Function: KT137 Double Cylinder",
+                "Select Backset: 2-3/4in. Backset",
+                "Select Backset: 2-3/8in. Backset",
+                "Select Finish: US26D: Satin Chrome",
+                "Keying: Only Ordered One Lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "KT116 Single Cylinder",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KT137 Double Cylinder",
+                    "price_impact": 11.84,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

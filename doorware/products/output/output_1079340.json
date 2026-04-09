@@ -1,0 +1,86 @@
+{
+    "legacy_product_id": "1079340",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Threaded Tube Insert for Pocket Door Set, Emtek 2528INSRT/832x125",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-2528INSRT/832x125",
+            "mpn": "EMT-2528INSRT/832x125",
+            "price": "100.0",
+            "compare_at_price": "100.0",
+            "contractor_price": "100.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Emtek 2528INSRT/832x125",
+                "Threaded Tube Insert for Pocket Door Sets",
+                "EMT-2528INSRT/832x125"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-2528INSRT-832x125-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-2528INSRT-832x125-525.jpg?v=1716428104"
+        },
+        "text": {
+            "description_html": "<b>Emtek 2528INSRT/832x125, Threaded Tube Insert for Pocket Door Set</b>\r\n\r\n<p>\r\nThis is a threaded tube insert for an Emtek 2114 pocket door set. It includes bolt and tube insert.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually. </i>\r\n</p>",
+            "seo": {
+                "title": "Threaded Tube Insert for Pocket Door Set",
+                "description": "This is a threaded tube insert for an Emtek 2114 pocket door set. It includes bolt and tube insert.",
+                "keywords": "Emtek 2528INSRT/832x125, Threaded Tube Insert for Pocket Door Sets, EMT-2528INSRT/832x125"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "21"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "900459",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "900435",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "900389",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "900417",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US26: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

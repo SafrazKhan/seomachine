@@ -1,0 +1,105 @@
+{
+    "legacy_product_id": "452817",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Door Viewer Bezel with Lid, First Impressions 1297/01",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-1297/01",
+            "mpn": "FII-1297/01",
+            "price": "49.0",
+            "compare_at_price": "58.0",
+            "contractor_price": "46.55",
+            "shipping_weight": "1.0",
+            "tags": [
+                "First Impressions 1301/02 Decorative Peephole Ornaments",
+                "FII-1301/02 Decorative Door Viewer Bezels"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/1297-01-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/1297-01-525.jpg?v=1716424058"
+        },
+        "text": {
+            "description_html": "<b>First Impressions 1297/01 Decorative Door Viewer Bezel with Lid</b>\r\n<p>\r\nAdd beauty to that forgotten piece of hardware on your door, the door viewer (peephole)!  They install in as little as 5 minutes, and the only tool needed to add one to an existing door viewer is a quarter shaped object! For use with 1/2\" diameter door viewer. \r\n</p>\r\n<p>\r\nCan be used on both the exterior and interior of your door. \r\n</p>\r\n<p>\r\n<b>Specifications</b> for First Impressions 1297/01 Door Viewer Bezel with Lid\r\n<ul>\r\n<li>Outer Diameter: 1-15/16\"</li>\r\n<li>Inner Hole Diameter: 9/16\" (For use with 1/2\" diameter door viewer)</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Available Finishes: 5</li>\r\n</ul>\r\n</p>\r\n<p> \r\n<b>Door viewer is not included.</b>  \r\n</p>\r\n<p><b>*Sold Individually. </b>\r\n</p>",
+            "seo": {
+                "title": "Door Viewer Bezel with Lid, First Impressions 1297/01",
+                "description": "First Impressions 1301/02 Decorative Peephole Ornaments. Add beauty to that forgotten piece of hardware o your door, the door viewer (peephole)!  They install in as little as 5 minutes, and the only tool needed to add one to an existing door viewer is a quarter shaped object! For use with 1/2 inch diameter door viewer.",
+                "keywords": "First Impressions 1301/02 Decorative Peephole Ornaments, FII-1301/02 Decorative Door Viewer Bezels,"
+            },
+            "specifications": [
+                {
+                    "key": "Outer Diameter",
+                    "value": "1-15/16\""
+                },
+                {
+                    "key": "Inner Hole Diameter",
+                    "value": "9/16\" (For use with 1/2\" diameter door viewer)"
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Available Finishes",
+                    "value": "5"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Door Accessories",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Outer Diameter: 1-15/16\"",
+                "Inner Hole Diameter: 9/16\" (For use with 1/2\" diameter door viewer)",
+                "Material: Solid Brass",
+                "Available Finishes: 5",
+                "Select Finish: FII-1297/01-US3 - Polished Brass",
+                "Select Finish: FII-1297/01-US5 - Antique Brass",
+                "Select Finish: FII-1297/01-US19 - Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-1297/01-US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-1297/01-US5 - Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-1297/01-US19 - Satin Nickel",
+                    "price_impact": 3.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

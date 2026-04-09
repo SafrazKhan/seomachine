@@ -1,0 +1,173 @@
+{
+    "legacy_product_id": "979484",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Chalice Shower Door Knob Pair, SD-CHALICE",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DWD-SD-CHALICE",
+            "mpn": "DWD-SD-CHALICE",
+            "price": "43.13",
+            "compare_at_price": "57.5",
+            "contractor_price": "40.96",
+            "shipping_weight": "1.0",
+            "tags": [
+                "DWD-SD-CHALICE Chalice Shower Door Knobs",
+                "retro shower door knobs",
+                "bath room shower knobs",
+                "glass door knobs",
+                "Solid Brass shower knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/chalice-shower-knobs_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/chalice-shower-knobs_525.jpg?v=1716427335"
+        },
+        "text": {
+            "description_html": "<b>1\" Diameter Chalice Shower Door Knob Pair</b>\r\n\r\n<p>\r\nThe Chalice shaped knobs are stunning in their simplicity. The chic design that is highlighted by any of the 8 available finish colors. The 1\" diameter Chalice Knob features a concave center.\r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-15-specifications.gif?v=1704354573\" width=\"600\" height=\"180\" border=\"0\" alt=\"Chalice Shower Door Knob Specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the The Chalice Shower Door Knob:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Knob Diameter: 1\"</li>\r\n<li>Knob Projection: 29/32\"</li>\r\n<li>Glass Hole Diameter: 3/8\" - 1/2\"</li>\r\n\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nPackaged with 2 Chalice knobs and includes all the hardware for back to back mounting (knobs hook to each other) on 1/4\" to 1/2\" thick glass shower doors, with either a 3/8\" or 1/2\" diameter hole in the glass.\r\n</p>\r\n<p>\r\n<b>*Sold as a Pair (2 Knobs - 1 knob for each side of the glass)</b>\r\n</p>",
+            "seo": {
+                "title": "Chalice Shower Door Knob Pair",
+                "description": "The Chalice shaped knobs are stunning in their simplicity. The chic design that is highlighted by any of the 8 available finish colors. The 1 inch diameter Chalice Knob features a concave center.",
+                "keywords": "DWD-SD-CHALICE Chalice Shower Door Knobs, retro shower door knobs, bath room shower knobs, glass door knobs, Solid Brass shower knobs,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Knob Diameter",
+                    "value": "1\""
+                },
+                {
+                    "key": "Knob Projection",
+                    "value": "29/32\""
+                },
+                {
+                    "key": "Glass Hole Diameter",
+                    "value": "3/8\" - 1/2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Doorware Designs Shower Door Pulls",
+                    "sort": "10"
+                },
+                {
+                    "name": "Glass Shower Door Pulls",
+                    "sort": "20"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "304229",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "294822",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "868293",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "478275",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "961475",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Knob Diameter: 1\"",
+                "Knob Projection: 29/32\"",
+                "Glass Hole Diameter: 3/8\" - 1/2\"",
+                "Select Finish: U4: Satin Brass",
+                "Select Finish: U3: Polished Brass",
+                "Select Finish: U5: Antique Brass",
+                "Select Finish: U10B: Oil Rubbed Bronze",
+                "Select Finish: U14: Polished Nickel",
+                "Select Finish: U15: Satin Nickel",
+                "Select Finish: U19: Matte Black",
+                "Select Finish: U26: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

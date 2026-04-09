@@ -1,0 +1,109 @@
+{
+    "legacy_product_id": "1183449",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Knoxville Handleset Active Exterior Bottom Trim, Emtek 4310-EXTERIOR/BOTTOM",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-4310-EXTERIOR/BOTTOM",
+            "mpn": "EMT-4310-EXTERIOR/BOTTOM",
+            "price": "240.0",
+            "compare_at_price": "280.0",
+            "contractor_price": "240.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Knoxville Handleset Active Exterior Bottom Trim",
+                "Emtek 4310-EXTERIOR/BOTTOM",
+                "Bottom Exterior  Knoxville 4310 Handleset",
+                "EMT-4310-EXTERIOR/BOTTOM"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-4310-EXTERIOR-BOTTOM-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-4310-EXTERIOR-BOTTOM-525.jpg?v=1711366731"
+        },
+        "text": {
+            "description_html": "<b>Emtek 4310-EXTERIOR/BOTTOM  Bottom Exterior  Knoxville 4310 Handleset</b>\r\n\r\n<p>\r\nThis is the exterior bottom half of the Emtek <a href=\"/products/knoxville-handleset-emtek-4310\"> Knoxville Handleset</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Emtek Knoxville Entrance Handleset No Deadbolt:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Top Plate Height: 4-1/2\"</li>\r\n<li>Top Plate Width: 2-13/16\"</li>\r\n<li>Bottom Plate Diameter: 1-7/16\"</li>\r\n<li>Projection: 3\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Knoxville Handleset Active Exterior Bottom Trim",
+                "description": "This is the exterior bottom half of the Emtek  Knoxville Handleset.",
+                "keywords": "Knoxville Handleset Active Exterior Bottom Trim, Emtek 4310-EXTERIOR/BOTTOM, Bottom Exterior  Knoxville 4310 Handleset, EMT-4310-EXTERIOR/BOTTOM,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Top Plate Height",
+                    "value": "4-1/2\""
+                },
+                {
+                    "key": "Top Plate Width",
+                    "value": "2-13/16\""
+                },
+                {
+                    "key": "Bottom Plate Diameter",
+                    "value": "1-7/16\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "3\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Custom and Special Orders",
+                    "sort": "31"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "900740",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "879928",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "895964",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Top Plate Height: 4-1/2\"",
+                "Top Plate Width: 2-13/16\"",
+                "Bottom Plate Diameter: 1-7/16\"",
+                "Projection: 3\"",
+                "Select Finish: US3UNL: Unlacquered Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3UNL: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

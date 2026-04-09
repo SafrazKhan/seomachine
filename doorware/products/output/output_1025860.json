@@ -1,0 +1,169 @@
+{
+    "legacy_product_id": "1025860",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Schlage B60 Parts, Screws and Driver Bar",
+            "vendor": "Schlage",
+            "status": "ACTIVE",
+            "sku": "SCH-61-071",
+            "mpn": "SCH-61-071",
+            "price": "8.64",
+            "compare_at_price": "10.8",
+            "contractor_price": "8.64",
+            "shipping_weight": "0.25",
+            "tags": [
+                "SCH-61-071 Schlage Single Cylinder Deadbolt screws Kit",
+                "Schlage 61-071 B60 Deadbolts",
+                "Schlage  locks kit",
+                "Schlage B60 tail piece",
+                "Schlage driver bars",
+                "Schlage parts"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/schlage-B60-parts-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/schlage-B60-parts-525.jpg?v=1716427743"
+        },
+        "text": {
+            "description_html": "<b>Schlage B60 Deadbolt Screws and Driver Bar</b>\r\n<p>\r\nStandard replacement screws and driver bar (Tail Piece) for Schlage B60 single cylinder deadbolts. Available in 9 different finish colors.\r\n</p>\r\n<p>\r\n For use with <a href=\"/products/single-cylinder-maximum-security-grade-1-deadbolt-schlage-b60\"><b>Schlage B60 Deadbolts</b></a>, <a href=\"/products/camelot-single-cylinder-deadbolt-schlage-b60cam\"><b>Schlage B60 Camelot Deadbolts</b></a>, <a href=\"/products/brookshire-single-cylinder-deadbolt-schlage-b60brk\"><b>Schlage B60 Brookshire Deadbolts</b></a>, <a href=\"/products/wakefield-single-cylinder-deadbolt-schlage-b60wkf\"><b>Schlage B60 Wakefield Deadbolts</b></a>, <a href=\"/products/addison-single-cylinder-deadbolt-schlage-b60add\"><b>Schlage B60 Addison Deadbolts</b></a> and <a href=\"/products/century-single-cylinder-deadbolt-schlage-b60cen\"><b>Schlage B60 Century Deadbolts</b></a>\r\n</p>\r\n<p>\r\n<b>Specifications</b> of the Schlage 61-071 Parts Kit:\r\n<ul>\r\n<li>Screws: (2) each 1/4\"-28 x 2-3/8\"</li>\r\n<li>Driver Bar Length: 2\"</li>\r\n<li>Door Thickness: For 1-3/8\" to 1-3/4\" Thick Doors</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<b>*Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "Schlage B60 Parts, Screws and Driver Bar",
+                "description": "Standard replacement screws and driver bar (Tail Piece) for Schlage B60 single cylinder deadbolts. Available in 9 different finish colors.",
+                "keywords": "SCH-61-071 Schlage Single Cylinder Deadbolt screws Kit, Schlage 61-071 B60 Deadbolts, Schlage  locks kit, Schlage B60 tail piece, Schlage driver bars, Schlage parts,"
+            },
+            "specifications": [
+                {
+                    "key": "Screws",
+                    "value": "(2) each 1/4\"-28 x 2-3/8\""
+                },
+                {
+                    "key": "Driver Bar Length",
+                    "value": "2\""
+                },
+                {
+                    "key": "Door Thickness",
+                    "value": "For 1-3/8\" to 1-3/4\" Thick Doors"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1110312",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "721686",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "553072",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "999751",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "377850",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "336576",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Screws: (2) each 1/4\"-28 x 2-3/8\"",
+                "Driver Bar Length: 2\"",
+                "Door Thickness: For 1-3/8\" to 1-3/4\" Thick Doors",
+                "Select Finish: 61-071-609: Antique Brass",
+                "Select Finish: 61-071-613: Oil Rubbed Bronze",
+                "Select Finish: 61-071-618: Polished Nickel",
+                "Select Finish: 61-071-619: Satin Nickel",
+                "Select Finish: 61-071-622: Matte Black",
+                "Select Finish: 61-071-625: Bright Chrome",
+                "Select Finish: 61-071-626: Brushed Chrome",
+                "Select Finish: 61-071-716: Aged Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "61-071-609: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "61-071-613: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "61-071-618: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "61-071-619: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "61-071-622: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "61-071-625: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "61-071-626: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "61-071-716: Aged Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

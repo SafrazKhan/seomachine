@@ -1,0 +1,147 @@
+{
+    "legacy_product_id": "687040",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Sliding Pocket Door Edge Pull, Omnia 3917",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "OMN-3917",
+            "mpn": "OMN-3917",
+            "price": "18.4",
+            "compare_at_price": "23.0",
+            "contractor_price": "17.48",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Solid Brass Fingertip Edge Pulls",
+                "Omnia 3917",
+                "OMN-3917",
+                "Sliding Pocket Door Edge Pulls",
+                "pocket door hardware",
+                "pocket door handles",
+                "recessed pulls",
+                "Small Edge Door Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-3917-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-3917-5251.jpg?v=1716425284"
+        },
+        "text": {
+            "description_html": "<b>Omnia 3917, Pocket Door Fingertip Edge Pull</b>\r\n\r\n<p>\r\nThe Sliding Pocket Door Edge Pull features and easy, screw-in design. It is secured to the edge of a sliding pocket door so that you have something to grip in order to slide the door out of the pocket. Made out of solid brass, it is available in a wide array of finishes.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Small Edge Door Pull:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Length: 2-1/4\"</li>\r\n<li>Width: 1\"</li>\r\n<li>Projection: 7/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p align=\"left\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/made-usa-logo.jpg?v=1704354497\" width=\"515\" height=\"137\" border=\"0\" alt=\"Omnia Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "Sliding Pocket Door Edge Pull",
+                "description": "Omnia 3917, Sliding Pocket Door Edge Pull - The Sliding Pocket Door Edge Pull features and easy, screw-in design. It is secured to the edge of a sliding pocket door so that you have something to grip in order to slide the door out of the pocket. Made out of solid brass, it is available in a wide array of finishes.",
+                "keywords": "Solid Brass Fingertip Edge Pulls, Omnia 3917, OMN-3917, Sliding Pocket Door Edge Pulls, pocket door hardware, pocket door handles, recessed pulls, Small Edge Door Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "Pocket Door Hardware",
+                    "sort": "95"
+                },
+                {
+                    "name": "Omnia Sliding Door Hardware",
+                    "sort": "40"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "247016",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "7599",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "592240",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "674334",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "10491",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "586578",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "674344",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US26:Polished Chrome",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: SB: Shaded Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26:Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SB: Shaded Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

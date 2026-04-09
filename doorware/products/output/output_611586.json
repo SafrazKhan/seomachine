@@ -1,0 +1,108 @@
+{
+    "legacy_product_id": "611586",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Omnia Brass Deadbolt Latch",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "OMN-045-Latch",
+            "mpn": "OMN-045-Latch",
+            "price": "44.0",
+            "compare_at_price": "55.0",
+            "contractor_price": "41.8",
+            "shipping_weight": "0.5",
+            "tags": [
+                "OMN-045-Latch Omnia Brass Deadbolt Latch",
+                "Omnia 045.00 2-3/8 backset deadbolt",
+                "Omnia 045.10 2-3/4 backset deadbolt",
+                "Latch for Omnia Deadbolts",
+                "Latch for Omnia locks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omnia-deadbolt-latch_5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/omnia-deadbolt-latch_5251.jpg?v=1717106181"
+        },
+        "text": {
+            "description_html": "<b>Omnia Brass Deadbolt Latch</b>\r\n<p>\r\nThis is a replacement deadbolt latch only. Does not include face plate or screws. \r\n</p>\r\n<p>\r\nFor use with: \r\n<br><a href=\"/collections/omnia-tubular-entrysets\"><b>Omnia Entry Locksets</b></a>\r\n<br><a href=\"/products/low-profile-modern-deadbolt-omnia-d0806la\"><b>Omnia Low Profile Deadbolt</b></a>\r\n<br><a href=\"/products/low-profile-modern-double-cylinder-deadbolt-omnia-d0806lac\"><b>Omnia Low Profile Double Cylinder Deadbolt</b></a>\r\n<br><a href=\"/products/modern-deadbolt-omnia-d0806a\"><b>Omnia Modern Deadbolt</b></a>\r\n<br><a href=\"/products/modern-double-cylinder-deadbolt-omnia-d0806ac\"><b>Omnia Modern Double Cylinder Deadbolt</b></a>  \r\n<br><a href=\"/products/satin-chrome-traditional-deadbolt-omnia-d0806ta-26d\"><b>Omnia Traditional Deadbolt</b></a>  \r\n<br><a href=\"/products/traditional-double-cylinder-deadbolt-omnia-d0806tac\"><b>Omnia Traditional Double Cylinder Deadbolt</b></a>\r\n\r\n<br><a href=\"/products/stainless-steel-high-security-square-single-cylinder-deadbolt-ahi-4850\"><b>AHI 4850 Square Single Cylinder Deadbolt</b></a>  \r\n<br><a href=\"/products/contemporary-stainless-steel-deadbolt-ahi-4750\"><b>AHI 4750 Round Single Cylinder Deadbolt</b></a>  \r\n</p>\r\n<p>\r\n<b>*Not</b> for use with <a href=\"/collections/omnia-stainless-steel-handlesets-and-deadbolts\"><b>Omnia Stainless Steel Handlesets and Deadbolts</b></a>. Use <a href=\"/products/omnia-stainless-steel-deadbolt-latch\"><b>Omnia Stainless Steel Deadbolt-Latch</b></a>.\r\n</p>\r\n<p>\r\nAvailable  in 2-3/8\" or 2-3/4\" backsets.\r\n</p>\r\n\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Omnia Brass Deadbolt Latch",
+                "description": "This is a replacement deadbolt latch only. For Omnia Brass Handlesets, Brass Entrysets and Brass Deadbolts. Available in 2-3/8 or 2-3/4 backset.",
+                "keywords": "OMN-045-Latch Omnia Brass Deadbolt Latch, Omnia 045.00 2-3/8 backset deadbolt, Omnia 045.10 2-3/4 backset deadbolt, Latch for Omnia Deadbolts, Latch for Omnia locks,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "227205",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "275077",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "227181",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "330497",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "317307",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "283615",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "198616",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Backset: 045.00-26D: 2-3/8in. Backset",
+                "Select Backset: 045.10-26D: 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "045.00-26D: 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "045.10-26D: 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

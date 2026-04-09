@@ -1,0 +1,109 @@
+{
+    "legacy_product_id": "1155063",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Dorothy Cabinet Knob, Laurey 757",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "LAU-757",
+            "mpn": "LAU-757",
+            "price": "2.84",
+            "compare_at_price": "3.79",
+            "contractor_price": "2.84",
+            "shipping_weight": "0.5",
+            "tags": [
+                "1-1/4 Classic Traditions Knobs",
+                "Dorothy Cabinet Knobs",
+                "Laurey 75739",
+                "LAU-75739",
+                "Laurey 75705",
+                "LAU-75705",
+                "fancy cabinet hardware",
+                "traditional cabinet hardware",
+                "Vintage Drawer knobs",
+                "antique furniture pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LAU-757-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-757-525.jpg?v=1716428520"
+        },
+        "text": {
+            "description_html": "<b>Laurey 757, 1-1/4 Classic Traditions Dorothy Knob</b></a>\r\n\r\n<p>\r\nThe Dorothy Cabinet Knob is available in antique brass and satin chrome finishes. This traditional cabinet knob is great for historic buildings or on antique furniture. The 1-1/4 Classic Traditions Knob comes packaged with the mounting hardware. \r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Laurey 1-1/4 Diameter Dorothy Cabinet Knob:\r\n<ul>\r\n<li>Material: Zinc</li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1\"</li>\r\n<li>Packaged with 1\" long #8-32 screw and 1-1/2\" long #8-32 screw.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Dorothy Cabinet Knob",
+                "description": "The Dorothy Cabinet Knob is available in antique brass and satin chrome finishes. This traditional cabinet knob is great for historic buildings or on antique furniture. The 1-1/4 Classic Traditions Knob comes packaged with the mounting hardware.",
+                "keywords": "1-1/4 Classic Traditions Knobs, Dorothy Cabinet Knobs, Laurey 75739, LAU-75739, Laurey 75705, LAU-75705,  fancy cabinet hardware, traditional cabinet hardware, Vintage Drawer knobs, antique furniture pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Laurey Cabinet Knobs",
+                    "sort": "74"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "824166",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1154716",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "354599",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1154933",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "563313",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "1142104",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: LAU-75705: Antique Brass",
+                "Select Finish: LAU-75739: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LAU-75705: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-75705-SM.jpg?v=1774582229",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-75705-LG.jpg?v=1711366633"
+                },
+                {
+                    "value": "LAU-75739: Satin Chrome",
+                    "price_impact": 1.28,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-75739-SM1.jpg?v=1774582232",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-75739-LG.jpg?v=1711366632"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "legacy_product_id": "1169739",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "36 Inch Door Sweep, Pemko 307PK36",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "PEM-307PK36",
+            "mpn": "PEM-307PK36",
+            "price": "36.36",
+            "compare_at_price": "36.36",
+            "contractor_price": "36.36",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Pemko 36 Inch Door Bottom Sweeps",
+                "36 Inch Door Sweeps",
+                "Pemko 307PK36",
+                "PEM-307PK36"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PEM-307PK36-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PEM-307PK36-525.jpg?v=1716428750"
+        },
+        "text": {
+            "description_html": "<b>Pemko 36 Inch Door Bottom Sweep</b>\r\n\r\n<p>\r\nDoor Sweeps help seal the doors bottom specially if there is a gap. It features long lasting nylon brush type sweep blade. These can help save energy, lowering heating and AC costs.\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> for Pemko 307PK36 36 Inch Door Sweep\r\n<ul>\r\n<li>Nylon Brush Height: 1\"</li>\r\n<li>Total Height: 1-7/8\"</li>\r\n<li>Nylon Brush Length: 36\"</li>\r\n<li>Width: 1/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Factory Ordered. <b>Not Available for Return</b></i>\r\n</p>",
+            "seo": {
+                "title": "36 Inch Door Sweep",
+                "description": "36 Inch Door Sweep. Door Sweeps help seal the doors bottom specially if there is a gap. It features long lasting nylon brush type sweep blade. Field sizable for doors 36-1/2\" to 48\" wide. Powder coated non-rusting aluminum blade housing with drip guard. Packaged with installation screws.",
+                "keywords": "Pemko 36 Inch Door Bottom Sweeps, 36 Inch Door Sweeps, Pemko 307PK36, PEM-307PK36,"
+            },
+            "specifications": [
+                {
+                    "key": "Nylon Brush Height",
+                    "value": "1\""
+                },
+                {
+                    "key": "Total Height",
+                    "value": "1-7/8\""
+                },
+                {
+                    "key": "Nylon Brush Length",
+                    "value": "36\""
+                },
+                {
+                    "key": "Width",
+                    "value": "1/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Pemko",
+                    "sort": "30"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "232547",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "228988",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "232544",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "228975",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Nylon Brush Height: 1\"",
+                "Total Height: 1-7/8\"",
+                "Nylon Brush Length: 36\"",
+                "Width: 1/4\"",
+                "Select Finish: PW: White"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PW: White",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

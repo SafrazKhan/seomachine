@@ -1,0 +1,87 @@
+{
+    "legacy_product_id": "755179",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Privacy Bolt Turn Piece, Baldwin 6751.055",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-6751",
+            "mpn": "BAL-6751",
+            "price": "60.0",
+            "compare_at_price": "70.0",
+            "contractor_price": "60.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Turn Piece for Privacy Bolts",
+                "Privacy Bolt Turn Pieces",
+                "Baldwin 6751",
+                "BAL-6751"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-6751-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-6751-525.jpg?v=1716425489"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 6751, Privacy Bolt Thumbturn</b>\r\n\r\n<p>\r\nThis Privacy Bolt Turn Piece is for use on interior & exterior mortise locks, tubular bolts and sectional trim. It will accommodate doors up to 2.25 inches. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Turn Piece for Privacy Bolt:\r\n<ul>\r\n<li>Thumbturn Width: .75\"</li>\r\n<li>Thumbturn Length: 1.107\"</li>\r\n<li>Backplate Length: 2\"</li>\r\n<li>Backplate Width: 1.187\"</li>\r\n<li>Will accommodate doors up to 2.25\".</li>\r\n<li>For interior & exterior mortise locks, tubular bolts and sectional trim.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>Not Returnable</b>\r\n</p>",
+            "seo": {
+                "title": "Privacy Bolt Turn Piece, Baldwin 6751.055",
+                "description": "Baldwin 6751,  Privacy Bolt Turn Piece - This Privacy Bolt Turn Piece is for use on interior & exterior mortise locks, tubular bolts and sectional trim. It will accommodate doors up to 2.25 inches. \r\n",
+                "keywords": "Turn Piece for Privacy Bolts, Privacy Bolt Turn Pieces, Baldwin 6751, BAL-6751"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Discontinued",
+                    "sort": "117"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "306111",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "337756",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "185625",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "479464",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 055 - Polished Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "055 - Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

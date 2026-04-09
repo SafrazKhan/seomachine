@@ -1,0 +1,136 @@
+{
+    "legacy_product_id": "141753",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "L'Enfant Solid Brass Pull Plate, Brass Accents A04-P6601",
+            "vendor": "BrassAccents",
+            "status": "ACTIVE",
+            "sku": "BRA-A04-P6601",
+            "mpn": "BRA-A04-P6601",
+            "price": "287.99",
+            "compare_at_price": "359.0",
+            "contractor_price": "272.84",
+            "shipping_weight": "4.0",
+            "tags": [
+                "BRA-A04-P6601 Decorative 3 x 23 Door Pull Plates",
+                "Decorative  Push Plates",
+                "Brass Accents Apollo Pull Plates",
+                "A04-P6601 Solid Brass Apollo Pull Plate 3 x 23",
+                "Brass Accents Renaissance Collection door hardware sets",
+                "decorative door pulls",
+                "door pull handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/A04-P6601-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/A04-P6601-525.jpg?v=1716421328"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents Decorative L'Enfant Door Pull Plate 3\" Wide x 23\" High</b>\r\n\r\n<p>\r\nThis decorative Door Pull. Based on the Russian design made popular in the 1920's this piece features the classical dolphin and cornucopia under a strong transom arched top. Comes complete with matching finish mounting screws.\r\n</p>\r\n\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance, hand finished in the USA. They are one of the worlds leading crafters of decorative hot-forged  and cast brass door hardware.\r\n</p>\r\n\r\n<p>\r\nAlso Available: <b>Matching <a href=\"/products/lenfant-solid-brass-push-plate-brass-accents-a04-p6600\">Decorative L'Enfant Push Plate</a></b>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for L'Enfant Brass Accents A04-P6601 Decorative Pull Plate\r\n<ul>\r\n<li>Plate Width: 3\"</li>\r\n<li>Plate Height: 23-3/8\"</li>\r\n<li>Pull Handle Projection: 2.75\"</li>\r\n<li>Material: Cast Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nComes complete with matching finish mounting screws for easy installation.\r\n</p>\r\n\r\n<p>\r\n<b>***This item is discontinued.  Limited quantities available.</b>\r\n</p>",
+            "seo": {
+                "title": "L'Enfant Solid Brass Pull Plate, Brass Accents A04-P6601",
+                "description": "Brass Accents A04-P6601 decorative L'Enfant European Pull Plate--The design is based loosely on the Russian design made popular in the 1920's this piece features the classical dolphin and cornucopia under a strong transom arched top. Comes complete with matching finish mounting screws. Available in 12 different hand rubbed finishes. ",
+                "keywords": "BRA-A04-P6601 Decorative 3 x 23 Door Pull Plates, Decorative  Push Plates, Brass Accents Apollo Pull Plates, A04-P6601 Solid Brass Apollo Pull Plate 3 x 23, Brass Accents Renaissance Collection door hardware sets, decorative door pulls, door pull handles,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Width",
+                    "value": "3\""
+                },
+                {
+                    "key": "Plate Height",
+                    "value": "23-3/8\""
+                },
+                {
+                    "key": "Pull Handle Projection",
+                    "value": "2.75\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Cast Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Pull & Push Plates",
+                    "sort": "27"
+                },
+                {
+                    "name": "Decorative Door Pull and Push Plates",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "143720",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "141892",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "142025",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "142078",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "141940",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "239776",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "204030",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "7273",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "239951",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Plate Width: 3\"",
+                "Plate Height: 23-3/8\"",
+                "Pull Handle Projection: 2.75\"",
+                "Material: Cast Brass",
+                "Select Finish: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Polished"
+                }
+            ]
+        }
+    ]
+}

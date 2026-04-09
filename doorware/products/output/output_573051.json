@@ -1,0 +1,173 @@
+{
+    "legacy_product_id": "573051",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Two Pronged Wall Hook, RK International HK-5824",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-HK-5824",
+            "mpn": "RKI-HK-5824",
+            "price": "12.99",
+            "compare_at_price": "16.5",
+            "contractor_price": "12.99",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Double Wall Hooks",
+                "Two Pronged Wall Hooks",
+                "RK International HK-5824",
+                "RKI-HK5824",
+                "two pronged flared small hooks",
+                "solid brass hat hooks",
+                "drunken octopus hooks",
+                "heavy duty wall hooks",
+                "brass coat hooks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-HK-5824-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-HK-5824-525.jpg?v=1716424730"
+        },
+        "text": {
+            "description_html": "<b>RK International HK-5824, Two Pronged Flared Small Hook</b>\r\n\r\n<p>\r\nAvailable in 7 finishes, this wall hook will blend into any decor. It will be ready to bare a load when needed but will fade into the background when not in use; because, after all, who wants wall hooks to take center stage? The Two Pronged Wall Hook comes packaged with the installation screws.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Double Wall Hook:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 2\"</li>\r\n<li>Width: 2-7/8\"</li>\r\n<li>Projection: 3/4\"</li>\r\n<li>Packaged with matching finish screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/oil-bronze-crab.jpg?v=1704354545\" width=\"586\" height=\"116\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Two Pronged Wall Hook",
+                "description": "RK International HK-5824 Two Pronged Wall Hook - Available in 7 finishes, this wall hook will blend into any decor. It will be ready to bare a load when needed but will fade into the background when not in use; because, after all, who wants wall hooks to take center stage? The Two Pronged Wall Hook comes packaged with the installation screws.\r\n",
+                "keywords": "Double Wall Hooks, Two Pronged Wall Hooks, RK International HK-5824, RKI-HK5824, two pronged flared small hooks, solid brass hat hooks, drunken octopus hooks, heavy duty wall hooks, brass coat hooks,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "2\""
+                },
+                {
+                    "key": "Width",
+                    "value": "2-7/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Coat and Hat Hooks",
+                    "sort": "57"
+                },
+                {
+                    "name": "RK International Home Accessories",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "13342",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "13355",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "379832",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "13365",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "320415",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "572506",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 2\"",
+                "Width: 2-7/8\"",
+                "Projection: 3/4\"",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: B: Polished Brass",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "legacy_product_id": "1130669",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hager 4700 Rod Replacement Kit, Hager 4919",
+            "vendor": "Hagar",
+            "status": "ARCHIVED",
+            "sku": "HAG-4919",
+            "mpn": "HAG-4919",
+            "price": "37.4",
+            "compare_at_price": "37.4",
+            "contractor_price": "37.4",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Hager 4700 Rod Replacement Kit",
+                "Hager 4919",
+                "HAG-4919",
+                "47-1/4 Inch Vertical Rod Replacement Kit For Use with Hager Series 4700 Surface Vertical Rod Panic Devices"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/HAG-4919-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/HAG-4919-525.jpg?v=1716428361"
+        },
+        "text": {
+            "description_html": "<b>47-1/4 Inch Vertical Rod Replacement Kit For Use with Hager Series 4700 Surface Vertical Rod Panic Devices</b>\r\n\r\n<p>\r\nThis is a rod replacement kit for Hager 4700 surface vertical rod panic device. It measures 47-1/4 inches. The Hager Vertical Rod for a Maximum of 8ft. Devices from the 4700 Collection; it can be cut down to 7' if needed. Hager vertical rods are strong and secure.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Hager Vertical Rod for a Maximum of 8ft. Devices from the 4700 Collection:\r\n<ul>\r\n<li>Aluminum Construction\r\n<li>Fits 8' Device but Can be Cut Down to 7' Device\r\n<li>Package includes: rod guide, rod connector assembly, and all appropriate screws</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>NO RETURNS</b></i>\r\n</p>",
+            "seo": {
+                "title": "Hager 4700 Rod Replacement Kit",
+                "description": "This is a rod replacement kit for Hager 4700 surface vertical rod panic device. It measures 47-1/4 inches. The Hager Vertical Rod for a Maximum of 8ft. Devices from the 4700 Collection; it can be cut down to 7' if needed. Hager vertical rods are strong and secure.",
+                "keywords": "Hager 4700 Rod Replacement Kit, Hager 4919, HAG-4919, 47-1/4 Inch Vertical Rod Replacement Kit For Use with Hager Series 4700 Surface Vertical Rod Panic Devices,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Hager",
+                    "sort": "21"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "175466",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "174671",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "174586",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 32D: Satin Stainless Steel",
+                "Select Finish: ALM: Aluminum"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "32D: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ALM: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "legacy_product_id": "1036608",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "2 Inch Contemporary Rectangular Ring Pull, Omnia 9588/50",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "OMN-9588/50",
+            "mpn": "OMN-9588/50",
+            "price": "22.4",
+            "compare_at_price": "28.0",
+            "contractor_price": "21.28",
+            "shipping_weight": "0.5",
+            "tags": [
+                "OMN-9588/50 Contemporary Drop Ring Pulls",
+                "omnia 9588/60",
+                "Omnia 9588 Contemporary Rectangular Drop Ring Pulls",
+                "d drop pulls",
+                "drop rings",
+                "pull rings",
+                "2 inch ring pulls",
+                "square ring pulls",
+                "concealed screw drop rings pulls",
+                "Omnia drop pulls",
+                "cabinet drop rings",
+                "door pull rings",
+                "Omnia 9588/50 rectangle ring pulls",
+                "modern ring pulls",
+                "ring pulls omnia",
+                "omnia 9588 architectural hardware",
+                "solid brass ring pulls",
+                "square ring pulls",
+                "omnia 9580/50 flush pulls",
+                "rectangular flush pulls",
+                "omnia modern flush pulls",
+                "contemporary solid brass flush pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-9588-50-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/omn-9588-50-525.jpg?v=1716427809"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9588/50, 2\" Contemporary Rectangular Drop Pull Ring</b>\r\n\r\n<p>\r\nThe 2 Icnh Contemporary Rectangular Drop Pull Ring is great for cabinets or furniture. This contemporary rectangular ring pull must be mortised (door face cut out) 5/8 inches into the door's face. The mortising can be done with a router or small wood chisel. Choose from an array of stunning finishes for Contemporary Rectangular Ring Pull.\r\n</p>\r\n\r\n<p>\r\nCan be used on sliding by-pass doors. <b>Thru-Bolt mounted</b> from the back side with #8-32 screws (just like a cabinet door pull handle or cabinet knob). \r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of the Contemporary Rectangular Drop Pull Ring\r\n<ul>\r\n<li>Overall Height: 2\"</li>\r\n<li>Overall Width: 1-1/2\"</li>\r\n<li>Overall Depth: 3/8\"</li>\r\n<li>Door Cutout Depth: 1/2\"</li>\r\n<li>Projection: 1/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>\r\n<p><b>\r\nThis item is being discontinued. Very limited quantities available.</b>\r\n</p>",
+            "seo": {
+                "title": "2 Inch Contemporary Rectangular Ring Pull",
+                "description": "The 2 Icnh Contemporary Rectangular Drop Pull Ring is great for cabinets or furniture. This contemporary rectangular ring pull must be mortised (door face cut out) 5/8 inches into the door's face. The mortising can be done with a router or small wood chisel. Choose from an array of stunning finishes for Contemporary Rectangular Ring Pull.",
+                "keywords": "OMN-9588/50 Contemporary Drop Ring Pulls, omnia 9588/60, Omnia 9588 Contemporary Rectangular Drop Ring Pulls, d drop pulls, drop rings, pull rings, 2 inch ring pulls, square ring pulls, concealed screw drop rings pulls, Omnia drop pulls, cabinet drop rings, door pull rings, Omnia 9588/50 rectangle ring pulls, modern ring pulls, ring pulls omnia, omnia 9588 architectural hardware, solid brass ring pulls, square ring pulls, omnia 9580/50 flush pulls, rectangular flush pulls, omnia modern flush pulls, contemporary solid brass flush pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "Omnia Cabinet Pulls",
+                    "sort": "102"
+                },
+                {
+                    "name": "Omnia Sliding Door Hardware",
+                    "sort": "25"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "194877",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "7635",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "567647",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "590968",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "586578",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: SB: Shaded Bronze",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: US14: Polished Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SB: Shaded Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 2.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 2.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "legacy_product_id": "273653",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Fusion Deadbolt Latch",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-DBOLT-BRN",
+            "mpn": "FUS-DBOLT-BRN",
+            "price": "14.75",
+            "compare_at_price": "14.75",
+            "contractor_price": "14.75",
+            "shipping_weight": "1.0",
+            "tags": [
+                "FUS-DBOLT-BRN Deadbolt Latch Fusion",
+                "Fusion 2 3/4 dead bolts",
+                "Fusion Deadbolt Latches",
+                "fusion door bolts",
+                "Fusion 2 3/8 dead bolts",
+                "DBOLT-4",
+                "DBOLT-8"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/fusion-DBOLT-BRN_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/fusion-DBOLT-BRN_525.jpg?v=1717105874"
+        },
+        "text": {
+            "description_html": "<b>Fusion Deadbolt Latch</b>\r\n<p>For use with Fusion Deadbolt Locks and Fusion Entry Lock Sets.\r\n\r\n</p>\r\n<!-- <p>\r\nAlso available:  <a href=\"/products/passage-latch-for-fusion-leverets-plver-brn-8s\">Fusion Door Lever Latch</a> and <a href=\"/products/latch-for-fusion-knobsets\">Fusion Door Knob Latch</a>\r\n</p> -->\r\n<p>Available  in 2-3/8\" or 2-3/4\" backsets.\r\n</p>\r\n<p>\r\nDoor bolt only. Does NOT include the face plate, strike plate or screws. \r\n</p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Fusion Deadbolt Latch",
+                "description": "For use with Fusion Deadbolt locks and Fusion Entry Lock Sets. Available  in 2-3/8 or 2-3/4 inch  backsets.",
+                "keywords": "FUS-DBOLT-BRN Deadbolt Latch Fusion, Fusion 2 3/4 dead bolts, Fusion Deadbolt Latches, fusion door bolts, Fusion 2 3/8 dead bolts, DBOLT-4, DBOLT-8,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion-MISC-Discontinued",
+                    "sort": "2"
+                },
+                {
+                    "name": "Fusion Deadbolts",
+                    "sort": "20"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Backset: FUS-DBOLT-ORB-8 - 2-3/4in. Backset, Oil Rubbed Bronze",
+                "Select Backset: FUS-DBOLT-BRN-4 - 2-3/4in. Backset, Brushed Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FUS-DBOLT-ORB-8 - 2-3/4in. Backset, Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FUS-DBOLT-BRN-4 - 2-3/4in. Backset, Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

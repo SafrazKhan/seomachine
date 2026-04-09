@@ -1,0 +1,148 @@
+{
+    "legacy_product_id": "559583",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Octagonal Cabinet Knob, RK International CK-3252",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-3252",
+            "mpn": "RKI-CK-3252",
+            "price": "12.99",
+            "compare_at_price": "16.17",
+            "contractor_price": "12.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Modern Octagon Cabinet Knobs",
+                "Octagonal Cabinet Knob",
+                "RK Intrenational Octagonal Cabinet Knobs",
+                "RKI-CK-3252",
+                "RK International CK-3252",
+                "unique cabinet knobs",
+                "modern cabinet hardware",
+                "contemporary cabinet pulls",
+                "polished chrome cabinet hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-3252-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-3252-5251.jpg?v=1716424477"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-3252, 1-1/4\" Octagon Cabinet Knob</b>\r\n\r\n<p>\r\nFor modern and traditional decor alike, the Octagonal Cabinet Knob made by RK International is a uniquely shaped knob that brings personality to any space. The octagon shape itself is quickly gaining popularity among interior designers for its sleek look. This is one cabinet pull that adds class to any living space. It is available in 7 finishes (click the picture to the right to see them all).\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-3252 Octagonal Cabinet Pull:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Octagonal Cabinet Knob",
+                "description": "RK International CK-3252, Octagonal Cabinet Knob - For modern and traditional decor alike, the Octagonal Cabinet Knob made by RK International is a uniquely shaped knob that brings personality to any space. The octagon shape itself is quickly gaining popularity among interior designers for its sleek look. This is one cabinet pull that adds class to any living space. It is available in 7 finishes.",
+                "keywords": "Modern Octagon Cabinet Knobs, Octagonal Cabinet Knob, RK Intrenational Octagonal Cabinet Knobs, RKI-CK-3252, RK International CK-3252, unique cabinet knobs, modern cabinet hardware, contemporary cabinet pulls, polished chrome cabinet hardware,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "1"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "328290",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "439751",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "184240",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "41466",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "355485",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: C: Polished Chrome",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: B: Polished Brass",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "C: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

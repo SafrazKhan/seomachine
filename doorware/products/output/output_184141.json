@@ -1,0 +1,122 @@
+{
+    "legacy_product_id": "184141",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Glynn-Johnson 280 Series Sensaguard Holder/Release Smoke Detector",
+            "vendor": "Glynn-Johnson",
+            "status": "ARCHIVED",
+            "sku": "GLY-280-series",
+            "mpn": "GLY-280-series",
+            "price": "1300.0",
+            "compare_at_price": "1300.0",
+            "contractor_price": "1300.0",
+            "shipping_weight": "10.0",
+            "tags": [
+                "GLY-280-series  Glynn-Johnson 280 Series Sensaguard Holder Release Smoke Detector",
+                "door closer Smoke Detectors",
+                "Smoke Detector door holder",
+                "overhead door door holders",
+                "GJ-280-series Glynn Johnson Sensaguard"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/gylnn-johnson-280series-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/gylnn-johnson-280series-525.jpg?v=1716421731"
+        },
+        "text": {
+            "description_html": "<b>Glynn-Johnson 280 Series Sensaguard</b>\r\n<p>\r\nThe Glynn-Johnson 280 Series is designed to be a self-contained, all-in-one unit, \r\nthat allows fire doors to be held open and still meet fire codes.\r\n</'p>\r\n<p>\r\nThe Glynn-Johnson 280 is a battery powered detector/holder with an ionization chamber that when smoke or particles of combustion are detected will release the door. \r\n\r\n</p>\r\n<p>\r\nThe 280 Sensaguard is designed to be used in conjunction with a <a href=\"/collections/closer\">door closer</a> (not included). \r\nOnce the holder releases, the door closer should close the door.\r\n</p>\r\n<p>\r\nGlynn Johnson 280 series is non-handed and can be mounted on the push or pull side of the door.\r\n</p>\r\n<p>\r\n<b>Features:</b> for Glynn-Johnson Sensaguard \r\n<ul>\r\n<li>Fail Safe Operation - should the battery become low, the unit will release and the door will close</li>\r\n<li>Self-contained</li>\r\n<li>Adjustable hold open</li>\r\n<li>Built-in smoke detector</li>\r\n<li>Battery furnished with unit</li>\r\n<li>Non-handed</li>\r\n<li>UL Listed</li>\r\n<li>1-year warranty</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/gylnn-johnson-280.pdf?v=1704262219\" target=\"new\"><b>Glynn-Johnson Sensaguard Specification Sheet (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n<p>\r\n<br><br><br>\r\n<b>** This item is Discontinued</b>\r\n<br><br><br>\r\n</p>",
+            "seo": {
+                "title": "Glynn-Johnson 280 Series Sensaguard Holder/Release Smoke Detector",
+                "description": "Glynn-Johnson 280 Series  Sensaguard - Over head door holder with build in smoke detector. \r\nGlynn-Johnson 280 Series  Sensaguard is designed to be used in conjunction with a door closer. This  all-in-one unit, \r\nthat allows fire doors to be held open and still meet fire codes.",
+                "keywords": "GLY-280-series  Glynn-Johnson 280 Series Sensaguard Holder Release Smoke Detector, door closer Smoke Detectors, Smoke Detector door holder, overhead door door holders, GJ-280-series Glynn Johnson Sensaguard,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Glynn-Johnson",
+                    "sort": "20"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "216866",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "71570",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "216886",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "216848",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "246787",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "174671",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "175786",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "71498",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "70986",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "71236",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US28: Clear Anodized Aluminum",
+                "Select Finish: 313AN: Dark Bronze Anodized Aluminum"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US28: Clear Anodized Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GJ-280-US28"
+                },
+                {
+                    "value": "313AN: Dark Bronze Anodized Aluminum",
+                    "price_impact": 35.2,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GJ-280-313AN"
+                }
+            ]
+        }
+    ]
+}

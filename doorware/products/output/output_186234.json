@@ -1,0 +1,146 @@
+{
+    "legacy_product_id": "186234",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Stainless Steel Skeleton Key Mortise Lockset With Ball Knob, Acorn KTTJI",
+            "vendor": "Acorn",
+            "status": "ARCHIVED",
+            "sku": "ACO-KTTJI",
+            "mpn": "ACO-KTTJI",
+            "price": "650.32",
+            "compare_at_price": "812.9",
+            "contractor_price": "617.8",
+            "shipping_weight": "7.0",
+            "tags": [
+                "ACO-KTTJI",
+                "acorn KTTJI",
+                "Acorn Mortise Skeleton key locksets",
+                "stainless steel locksets",
+                "handmade stainless steel handlesets",
+                "ball knobs knobs",
+                "stainless steel mortise locksets",
+                "double cylinder handlesets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/kttji-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/kttji-525.jpg?v=1717105708"
+        },
+        "text": {
+            "description_html": "<b>Acorn KTTJI, Stainless Steel Mortise Handleset</b>\r\n\r\n<p>\r\nThis lockset is hand forged in stainless steel. The forging process darkens the hardware in an uneven pattern providing a natural finish similar to antique nickel or pewter. Made for interior doors, the oval shape grants this lockset a modern appearance. An Acorn made lockset, the deadbolt is operated by a skeleton key on both the interior and the exterior.\r\n</p>\r\n\r\n<p>\r\nUnlike a simple tubular latch, this is a <a href=\"/products/black-iron-skeleton-key-mortise-lock-acorn-tm-series\">mortise lock</a>. They are extremely durable and have a tighter clearance tolerance. You know it's a mortise lock when you hear that heavy, smooth, solid 'click' when the door closes shut.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Mortise Skeleton Key Lockset:\r\n<ul>\r\n<li>Finish: <b>Stainless Steel</b></li>\r\n<li>Height: 9-7/8\"</li>\r\n<li>Width: 2-3/8\"</li>\r\n<li>Projection: 3\"</li>\r\n<li>Knob Diameter: 2\"</li>\r\n<li>Door Thickness: 1-3/8\" or 1-3/4\"</li>\r\n<li>Backset: 2-1/2\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>When Selecting the Handing:</b>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/door-handing-picture.gif?v=1704352978\" border=\"0\" width=\"410\" height=\"150\" alt=\"door handing - left or right handed lever\">\r\n</p>\r\n\r\n<p>\r\n<i>The handing actually refers to the mortise lock, rather than the knob.</i>\r\n</p>\r\n\r\n<p>\r\n<b>Double Cylinder:</b> A knob operates the latch from both the interior and the exterior while a key operates the deadbolt from both sides of the door.\r\n</p>",
+            "seo": {
+                "title": "Stainless Steel Skeleton Key Mortise Lockset With Ball Knob, Acorn KTTJI",
+                "description": "Acorn KTTJI Oval Stainless Steel Lockset - This lockset is hand forged in stainless steel. The forging process darkens the hardware in an uneven pattern providing a natural finish similar to antique nickel or pewter. Made for interior doors, the oval shape grants this lockset a modern appearance. An Acorn made lockset, the deadbolt is operated by a skeleton key on both the interior and the exterior.",
+                "keywords": "ACO-KTTJI, acorn KTTJI, Acorn Mortise Skeleton key locksets, stainless steel locksets, handmade stainless steel handlesets, ball knobs knobs, stainless steel mortise locksets, double cylinder handlesets,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Acorn Discontinued",
+                    "sort": "55"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "186204",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "186226",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "186230",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "196514",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "185993",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "200795",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Door Thickness: 1-3/8in. Door Thickness",
+                "Select Door Thickness: 1-3/4in. Door Thickness",
+                "Select Door Handing & Door Swing: LHR: Left Hand Door, Out-swing",
+                "Select Door Handing & Door Swing: LH: Left Hand Door, In-swing",
+                "Select Door Handing & Door Swing: RHR: Right Hand Door, Out-swing",
+                "Select Door Handing & Door Swing: RH: Right Hand Door, In-swing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1-3/8in. Door Thickness",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-3/4in. Door Thickness",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Handing & Door Swing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LHR: Left Hand Door, Out-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LH: Left Hand Door, In-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RHR: Right Hand Door, Out-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RH: Right Hand Door, In-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

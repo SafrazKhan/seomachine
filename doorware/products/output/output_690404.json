@@ -1,0 +1,210 @@
+{
+    "legacy_product_id": "690404",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Best SFIC 7 Pin Lock Cylinder, Stanley 1C7A626",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "Stanley-1C7A626",
+            "mpn": "Stanley-1C7A626",
+            "price": "54.4",
+            "compare_at_price": "68.0",
+            "contractor_price": "54.4",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Best SFIC Replacement Lock Cylinders",
+                "Stanley Best Small Format Interchangeable Core 7 Pin Lock Cylinders",
+                "Best Small Format Interchangeable Cores",
+                "Stanley 1C7A626",
+                "Stanley-1C7A626",
+                "Best SFIC 7 Pin Lock Cylinders"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BET-1C6A1626-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BET-1C6A1626-525.jpg?v=1716425291"
+        },
+        "text": {
+            "description_html": "<b>Stanley Best Small Format Interchangeable Core 7 Pin Lock Cylinder</b>\r\n\r\n<p>\r\nThe Best SFIC 7 Pin Lock Cylinder was designed to fit a wide range of commercial applications. A Small Format Interchangeable Core are great for quick installation in re-keying jobs. It is backed by a life-time mechanical warranty.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Best SFIC Replacement Lock Cylinder:\r\n<ul>\r\n<li>Best 'A' Keyway</li>\r\n<li>Offers 7-pin configurations for security.</li>\r\n<li>Lifetime Mechanical Warranty</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Best SFIC 7 Pin Lock Cylinder, Stanley 1C7A626",
+                "description": "Stanley 1C7A626, Best SFIC 7 Pin Lock Cylinder - The Best SFIC 7 Pin Lock Cylinder was designed to fit a wide range of commercial applications. A Small Format Interchangeable Core are great for quick installation in re-keying jobs. It is backed by a life-time mechanical warranty.",
+                "keywords": "Best SFIC Replacement Lock Cylinders, Stanley Best Small Format Interchangeable Core 7 Pin Lock Cylinders, Best Small Format Interchangeable Cores, Stanley 1C7A626, Stanley-1C7A626, Best SFIC 7 Pin Lock Cylinders,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Stanley Best Security Solutions",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "491233",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "184782",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "184797",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "193377",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "193392",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 605 - Polished Brass",
+                "Select Finish: 626 - Satin Chrome",
+                "Select Finish: 690 - Dark Bronze",
+                "Select Keying Options: Uncombinated",
+                "Select Keying Options: Combinated to Random Code",
+                "Select Keying Options: Combinated to Existing Code",
+                "Control Keys: I don't need a control key",
+                "Control Keys: 1A2A2KS473KS800 - 1 Control Key",
+                "Control Keys: 1A2A2KS473KS800 - 2 Control Key",
+                "Control Keys: 1A2A2KS473KS800 - 3 Control Key",
+                "Cut Keys: 1A1A2KS473KS800 - 1 Key",
+                "Cut Keys: 1A1A2KS473KS800 - 2 Keys",
+                "Cut Keys: 1A1A2KS473KS800 - 3 Keys"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "605 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "626 - Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "690 - Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Keying Options",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Uncombinated",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Combinated to Random Code",
+                    "price_impact": 30.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Combinated to Existing Code",
+                    "price_impact": 40.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Control Keys",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I don't need a control key",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1A2A2KS473KS800 - 1 Control Key",
+                    "price_impact": 13.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1A2A2KS473KS800 - 2 Control Key",
+                    "price_impact": 26.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1A2A2KS473KS800 - 3 Control Key",
+                    "price_impact": 39.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Cut Keys",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1A1A2KS473KS800 - 1 Key",
+                    "price_impact": 12.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1A1A2KS473KS800 - 2 Keys",
+                    "price_impact": 24.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1A1A2KS473KS800 - 3 Keys",
+                    "price_impact": 36.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

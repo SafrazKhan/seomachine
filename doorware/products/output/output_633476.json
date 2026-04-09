@@ -1,0 +1,115 @@
+{
+    "legacy_product_id": "633476",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Shaker Rose Toilet Paper Holder, Fusion PH-S8",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-PH-S8",
+            "mpn": "FUS-PH-S8",
+            "price": "99.0",
+            "compare_at_price": "99.0",
+            "contractor_price": "74.25",
+            "shipping_weight": "4.0",
+            "tags": [
+                "Fusion Sonoma Collection Shaker Trim Toilet Paper Holders",
+                "Shaker Trim Toilet Tissue Holders",
+                "Fusion PH-S8",
+                "Shaker Rose Toilet Paper Holders",
+                "FUS-PH-S8",
+                "toilet paper holders",
+                "toilet paper roll holders",
+                "bathroom accessories",
+                "traditional bathroom toilet paper holders",
+                "classic bathroom toilet paper holders",
+                "toilet tissue holders",
+                "Wall Mounted Shaker Toilet Tissue Holders"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-PH-S8-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-PH-S8-525.jpg?v=1711365520"
+        },
+        "text": {
+            "description_html": "<b>Fusion PH-S8, Wall Mounted Shaker Toilet Tissue Holder</b>\r\n\r\n<p>\r\nThe Shaker Rose Toilet Paper Holder is a great example of rustic-chic decor. The earthiness of its styling makes it a go-to for many designers to add richness and luxury to a space that can sometimes seem so sterile. It is available in either medium bronze or oil rubbed bronze finishes. \r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/shaker-trim-towel-bar-fusion-tb-s8\"><b>Fusion TB-S8 Shaker Towel Bar</b></a>, \r\n<a href=\"/products/shaker-towel-ring-fusion-tr-s8\"><b>Fusion TR-S8 Shaker Towel Ring</b></a>, and\r\n<a href=\"/products/shaker-trim-robe-hook-fusion-rh-s8\"><b>Fusion RH-S8 Shaker Robe Hook</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Fusion Sonoma Collection Shaker Trim Toilet Paper Holder:\r\n<ul>\r\n<li>Mount Width: 2-1/2\"</li>\r\n<li>Mount Length: 4-1/4\"</li>\r\n<li>Reversible to hang in either direction.</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Shaker Rose Toilet Paper Holder, Fusion PH-S8",
+                "description": "Fusion PH-S8 Shaker Rose Toilet Paper Holder - The Shaker Rose Toilet Paper Holder is a great example of rustic-chic decor. The earthiness of its styling makes it a go-to for many designers to add richness and luxury to a space that can sometimes seem so sterile. It is available in either medium bronze or oil rubbed bronze finishes.",
+                "keywords": "Fusion Sonoma Collection Shaker Trim Toilet Paper Holders, Shaker Trim Toilet Tissue Holders, Fusion PH-S8, Shaker Rose Toilet Paper Holders, FUS-PH-S8, toilet paper holders, toilet paper roll holders, bathroom accessories, traditional bathroom toilet paper holders, classic bathroom toilet paper holders, toilet tissue holders, Wall Mounted Shaker Toilet Tissue Holders,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "21"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "631016",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "148820",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "566851",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "583367",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "378735",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "383122",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "384874",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MDB - Medium Bronze",
+                "Select Finish: ORB - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MDB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

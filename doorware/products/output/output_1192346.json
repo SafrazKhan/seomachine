@@ -1,0 +1,76 @@
+{
+    "legacy_product_id": "1192346",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Door Closer Sex Bolts, 4 Pack-PDQ-719020",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PDQ-719020",
+            "mpn": "PDQ-719020",
+            "price": "17.0",
+            "compare_at_price": "17.0",
+            "contractor_price": "17.0",
+            "shipping_weight": "0.2",
+            "tags": [
+                "Door Closer Sex Bolts",
+                "4 Pack-PDQ-719020"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525237.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525237.gif?v=1711366741"
+        },
+        "text": {
+            "description_html": "<b>4 Pack - Door Closer Sex Bolts</b>\r\n<p>\r\nSex bolt kit for thru-bolt mounting PDQ 7100 Series door closer on unreinforced hollow core, composite, or labeled fire doors 1-3/4\" thick.  Thru-bolt mounting greatly increases holding strength so the door closer does not rip off the door.\r\n</p>\r\n\r\n\r\n<p>\r\nAvailable in Aluminum or Dark Bronze finish.\r\n</p>\r\n<p>\r\n*Packaged as a set of 4 (4 sleeves and 4 screws). <br>\r\nEnough to mount 1 door closer.\r\n</p>",
+            "seo": {
+                "title": "Door Closer Sex Bolts, 4 Pack",
+                "description": "Sex bolt kit for thru-bolt mounting PDQ 7100 Series door closer on unreinforced hollow core, composite, or labeled fire doors 1-3/4\" thick.  Thru-bolt mounting greatly increases holding strength so the door closer does not rip off the door.",
+                "keywords": "Door Closer Sex Bolts, 4 Pack-PDQ-719020"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Door Closer Accessories",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: PDQ-719020-689: Aluminum",
+                "Select Finish: PDQ-719020-695: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PDQ-719020-689: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PDQ-719020-695: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "legacy_product_id": "1063068",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Modern 4 Inch Address Letters, Deltana RNB-LETTERS",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-RNB-LETTERS",
+            "mpn": "DEL-RNB-LETTERS",
+            "price": "24.54",
+            "compare_at_price": "32.72",
+            "contractor_price": "23.31",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Deltana B Series Modern Font Address Letters",
+                "Modern 4 Inch Address Letters",
+                "Deltana Series B Address Letters",
+                "Deltana RNB-LETTERS",
+                "DEL-RNB-LETTERS"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-RNB-L-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-RNB-L-5251.jpg?v=1716428024"
+        },
+        "text": {
+            "description_html": "<b>Deltana RNB, Modern Series B Stainless Steel 4 Inch House Letters</b>\r\n\r\n<p>\r\nThe Modern 4 Inch Address Letters are available in apartment letters A, B, C, and D as well as in the directional letters N, S, E , and W. The Modern Series B Stainless Steel 4 Inch House Letters can be flush mounted or can be mounted with a 11/16 inch projection using the included stand-offs. The Deltana Series B Address Letters come packaged with surface mount hardware. Choose from brushed stainless steel or matte black finishes. \r\n</p>\r\n\r\n\r\n<p>\r\nAlso Available Matching <a href=\"/products/modern-4-inch-address-numbers-deltana-rnb\"><b>Address Numbers</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Deltana B Series Modern Font Address Letters:\r\n<ul>\r\n<li>Material: Stainless Steel</li>\r\n<li>Height: 4\"</li>\r\n<li>Thickness: .275\"</li>\r\n<li>Packaged with all necessary installation hardware for surface mounting.</li>\r\n<li>Can be mounted flush or floating.</li>\r\n<li>There are variances in height for specific digits. Please <a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-RNB-L-Specifications.pdf?v=1704262418\" target=\"new\"><b>CLICK HERE to see the specifications of each letter (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-RNB-L-finishes.jpg?v=1704354631\" width=\"394\" height=\"190\" border=\"0\" atl=\"Deltana RNE Finishes\">\r\n</p>",
+            "seo": {
+                "title": "Modern 4 Inch Address Letters",
+                "description": "The Modern 4 Inch Address Letters are available in apartment letters A, B, C, and D as well as in the directional letters N, S, E , and W. The Modern Series B Stainless Steel 4 Inch House Letters can be flush mounted or can be mounted with a 11/16 inch projection using the included stand-offs. The Deltana Series B Address Letters come packaged with surface mount hardware. Choose from brushed stainless steel or matte black finishes.",
+                "keywords": "Deltana B Series Modern Font Address Letters, Modern 4 Inch Address Letters, Deltana Series B Address Letters, Deltana RNB-LETTERS, DEL-RNB-LETTERS,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Home Accessories",
+                    "sort": "1"
+                },
+                {
+                    "name": "Numbers and Letters",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1059104",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1054809",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "216398",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "216616",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1062802",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1062783",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "216660",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "144729",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "1026963",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "949580",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Letter: RNB-A: Letter in.Ain.",
+                "Select Letter: RNB-B: Letter in.Bin.",
+                "Select Letter: RNB-C: Letter in.Cin.",
+                "Select Letter: RNB-D: Letter in.Din.",
+                "Select Letter: RNB-E: Letter in.Ein.",
+                "Select Letter: RNB-N: Letter in.Nin.",
+                "Select Letter: RNB-S: Letter in.Sin.",
+                "Select Letter: RNB-W: Letter in.Win.",
+                "Select Finish: U32D: Brushed Stainless",
+                "Select Finish: U19: Matte Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Letter",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RNB-A: Letter in.Ain.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RNB-B: Letter in.Bin.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RNB-C: Letter in.Cin.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RNB-D: Letter in.Din.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RNB-E: Letter in.Ein.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RNB-N: Letter in.Nin.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RNB-S: Letter in.Sin.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RNB-W: Letter in.Win.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U32D: Brushed Stainless",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U19: Matte Black",
+                    "price_impact": 1.43,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

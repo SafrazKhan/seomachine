@@ -1,0 +1,80 @@
+{
+    "legacy_product_id": "594285",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T16:10:22.960527"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Commercial Interchangeable Core (IC) Lever, Standard Duty Grade 2 For Panic Device",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PDQ-429-LPxx-IC",
+            "mpn": "PDQ-429-LPxx-IC",
+            "price": "180.0",
+            "compare_at_price": "247.0",
+            "contractor_price": "180.0",
+            "shipping_weight": "4.0",
+            "tags": [
+                "PDQ-SD-PHLIC Commercial IC Levers",
+                "Commercial Interchangeable Core (IC) Levers",
+                "Standard IC door levers",
+                "PDQ SD Series lever locks",
+                "IC locksets",
+                "Commercial Door Philadelphia Levers  Standard  Duty"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<B>Commercial Interchangeable Core (IC) Lever For Panic Device</b>\r\n<p>\r\nPhiladelphia style commercial levers are  rated a Grade 2. Available in Night Light and Classroom functions.\r\n</p>\r\n<p>These commercial levers are ADA compliant. \r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/handicap-logo.jpg?v=1704353001\" width=\"100\" height=\"98\" border=\"0\" alt=\"ADA Compliant Handicap Logo\">\r\n</p>\r\n<p>\r\n<b>Specifications:</b> for PDQ SD Series IC Lever Locksets\r\n<ul>\r\n<li>Handing: Non-handed.</li>\r\n<li>Trim: Philadelphia Levers zinc diecast.</li>\r\n<li><b>Interchangeable Core:</b> Small format IC less core <b>(no lock cylinder)</b>. \r\n<li>Finish: <b>Satin Chrome</b></li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Available Functions:</b> for PDQ SD Series IC Lever Locksets\r\n<ul>\r\n<li>Night Latch: Night Latch Function Lever: Outside entrance by lever when latch bolt is retracted by Key. </li>\r\n<li>Classroom: Outside lever locked and unlocked by key. </li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Commercial Interchangeable Core (IC) Lever, Standard Duty Grade 2 For Panic Device",
+                "description": "PDQ SD Series Standard Duty Grade 2 Commercial Door Lever with Interchangeable Core (IC) for Panic Devices. Satin Chrome Philadelphia style leversets, available in Night Light and Classroom functions.",
+                "keywords": "PDQ-SD-PHLIC Commercial IC Levers, Commercial Interchangeable Core (IC) Levers, Standard IC door levers, PDQ SD Series lever locks, IC locksets, Commercial Door Philadelphia Levers  Standard  Duty,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Misc Hardware",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Function: Night Latch - 429-LPSH-IC",
+                "Select Function: Classroom - 429-LPKH-IC"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Night Latch - 429-LPSH-IC",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Classroom - 429-LPKH-IC",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

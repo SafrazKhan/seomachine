@@ -1,0 +1,136 @@
+{
+    "legacy_product_id": "198616",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Latch for Omnia Stainless Steel Leversets",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "OMN-SS-Latch",
+            "mpn": "OMN-SS-Latch",
+            "price": "46.4",
+            "compare_at_price": "58.0",
+            "contractor_price": "44.08",
+            "shipping_weight": "1.0",
+            "tags": [
+                "OMN-SS-Latch Omnia  Latch for Omnia Stainless Steel Leversets",
+                "Omnia 2-3/4 backset latch",
+                "2-3/8 backset latch",
+                "passage latch",
+                "privacy latch",
+                "Omnia  passage spring latches",
+                "Omnia  privacy latches",
+                "108",
+                "108LPR",
+                "107LPA38 omnia latch",
+                "108LPR38 2-3/8 backset latch",
+                "108LPR34 2-3/4 backset latch",
+                "107LPA34 2-3/4 backset latch"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Door Latch for Omnia Stainless Steel Leversets</b>\r\n<p>For <a href=\"/collections/omnia-stainless-steel-levers\">Omnia Stainless Steel Leversets</a>\r\n</p>\r\n<p>Available for Passage (Hall/Closet) or Privacy (Bath/Bedroom)  functions in 2-3/8\" or 2-3/4\" backsets.\r\n</p>\r\n<p>\r\nUS32D - <b>Brushed Stainless Steel Finish</b>\r\n</p>",
+            "seo": {
+                "title": "Latch for Omnia Stainless Steel Leversets",
+                "description": "Door latch  for Omnia Stainless Steel Leversets. Springlatch for Passage or Privacy function in 2-3/8 or 2-3/4 backset.",
+                "keywords": "OMN-SS-Latch Omnia  Latch for Omnia Stainless Steel Leversets, Omnia 2-3/4 backset latch, 2-3/8 backset latch, passage latch, privacy latch, Omnia  passage spring latches, Omnia  privacy latches, 108, 108LPR, 107LPA38 omnia latch, 108LPR38 2-3/8 backset latch, 108LPR34 2-3/4 backset latch, 107LPA34 2-3/4 backset latch,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "283615",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "437862",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "437831",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "283168",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "227205",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "227181",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "342457",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "285901",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Function and Backset: 107LPA38: Passage Function, 2-3/8in. Backset",
+                "Select Function and Backset: 107LPA34: Passage Function, 2-3/4in. Backset",
+                "Select Function and Backset: 108LPR38: Privacy Function, 2-3/8in. Backset",
+                "Select Function and Backset: 108LPR34: Privacy Function, 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function and Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "107LPA38: Passage Function, 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "107LPA34: Passage Function, 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "108LPR38: Privacy Function, 2-3/8in. Backset",
+                    "price_impact": 4.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "108LPR34: Privacy Function, 2-3/4in. Backset",
+                    "price_impact": 4.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

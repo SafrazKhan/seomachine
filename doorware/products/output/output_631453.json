@@ -1,0 +1,109 @@
+{
+    "legacy_product_id": "631453",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Oval Mount Toilet Tissue Holder, Fusion PH-C6",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-PH-C6",
+            "mpn": "FUS-PH-C6",
+            "price": "109.0",
+            "compare_at_price": "109.0",
+            "contractor_price": "81.75",
+            "shipping_weight": "0.0",
+            "tags": [
+                "FUS-PH-C6",
+                "River Rock Bronze Oval Toilet Paper Holders",
+                "Oval Mount Toilet Tissue Holders",
+                "Fusion PH-C6",
+                "Fusion Oval Wall Mounted Toilet Paper Holders",
+                "River Rock Collection Oval Toilet Tissue Holders"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-PH-C6-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-PH-C6-525.jpg?v=1711365517"
+        },
+        "text": {
+            "description_html": "<b>Fusion PH-C6, River Rock Collection Oval Toilet Tissue Holder</b>\r\n\r\n<p>\r\nAvailable in either medium bronze or dark bronze, the Oval Mount Toilet Tissue Holder is a stunning example of the beauty of simplicity. It is a little bit silly to describe a toilet paper holder as being beautiful, but the best designers know that the littlest details are what really make a room. The oval mount is not unlike the texture, shape, and color of the river rocks for which this toilet paper holder is named. It is easy to install and comes packaged with all the necessary hardware.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"https://door-hardware-inc.myshopify.com/products/traditional-oval-mount-towel-bar-fusion-tb-c6\"><b>Fusion TB-C6 River Rock Towel Bar</b></a>, <a href=\"/products/river-rock-bronze-oval-towel-ring-fusion-tr-c6\"><b>Fusion TR-C6 River Rock Towel Ring</b></a>, and <a href=\"https://door-hardware-inc.myshopify.com/products/river-rock-bronze-oval-robe-hook-fusion-rh-c6\"><b>Fusion RH-C6 River Rock Robe Hook</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Fusion Oval Wall Mounted Toilet Paper Holder:\r\n<ul>\r\n<li>Mount Width: 3\"</li>\r\n<li>Mount Length: 4-1/2\"</li>\r\n<li>Reversible to hang in either direction.</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Oval Mount Toilet Tissue Holder, Fusion PH-C6",
+                "description": "Fusion PH-C6, Oval Mount Toilet Tissue Holders - Available in either medium bronze or dark bronze, the Oval Mount Toilet Tissue Holder is a stunning example of the beauty of simplicity. It is a little bit silly to describe a toilet paper holder as being beautiful, but the best designers know that the littlest details are what really make a room. The oval mount is not unlike the texture, shape, and color of the river rocks for which this toilet paper holder is named. It is easy to install and comes packaged with all the necessary hardware.",
+                "keywords": "FUS-PH-C6, River Rock Bronze Oval Toilet Paper Holders, Oval Mount Toilet Tissue Holders, Fusion PH-C6, Fusion Oval Wall Mounted Toilet Paper Holders, River Rock Collection Oval Toilet Tissue Holders,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "24"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "379401",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "327786",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "383468",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "552950",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "384874",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "12149",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "31431",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MXB - Medium Bronze",
+                "Select Finish: DKB - Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MXB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DKB - Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

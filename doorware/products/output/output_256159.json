@@ -1,0 +1,110 @@
+{
+    "legacy_product_id": "256159",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Replacement Rubber Tip For Baseboard Door Bumper",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-BDS30-REPL-TIP",
+            "mpn": "DEL-BDS30-REPL-TIP",
+            "price": "1.38",
+            "compare_at_price": "1.71",
+            "contractor_price": "1.38",
+            "shipping_weight": "0.05",
+            "tags": [
+                "DEL-WH-BDS-REPL-TIP Replacement Rubber White tip For Baseboard Door Bumper",
+                "Deltana BDS30 Door Bumper Rubber Tips",
+                "DEL-BDS30 3.25 Inch Baseboard Door Bumper",
+                "DEL-BDS30-REPL-TIP",
+                "Gray Rubber Tips",
+                "White rubber tips",
+                "Deltana FDB138 rubber"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-BDS-REP-TIP-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-BDS-REP-TIP-525.jpg?v=1716422507"
+        },
+        "text": {
+            "description_html": "<b>Rubber Tips for Deltana BDS Baseboard Door Bumpers</b>\r\n\r\n<p>\r\nThis is a replacement  rubber tip for the Deltana Baseboard Door Bumpers and the 1-3/8 Floor Mount Door Bumper. Available in your choice of Gray or White rubber.\r\n</p>\r\n\r\n<p>\r\nFor use with: <br> \r\n <a href=\"/products/solid-brass-1-3-8-inch-short-baseboard-door-stop-deltana-bds125\"><b>Deltana BDS125 Baseboard Door Stops</b></a><br>\r\n<a href=\"/products/solid-brass-3-1-4-inch-baseboard-door-bumper-deltana-bds30\"><b>Deltana BDS30 Baseboard Door Stops</b></a><br>\r\n<a href=\"/products/solid-brass-4-inch-baseboard-door-bumper-deltana-bds425\"><b>Deltana BDS425 Baseboard Door Stops</b></a><br>\r\n<a href=\"/products/solid-brass-1-3-8-floor-mount-door-bumper-deltana-fdb138\"><b>Deltana FDB138 Floor Door Stops</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b> for Deltana  BDS30-REPL-TIP Rubber Tip Replacement\r\n<ul>\r\n<li>Diameter: 5/8\"</li>\r\n<li>Total Length: 3/8\"</li>\r\n<li>Optional Gray or White Rubber</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Warning:</b> These work for BDS series Baseboard Door Stops manufactured by Deltana. If you are not sure if your door stop was manufactured by Deltana, do NOT order these as they may not work properly.  \r\n</p>\r\n\r\n<p>\r\n<b>*Sold individually - NO RETURNS</b>\r\n</p>",
+            "seo": {
+                "title": "Replacement Rubber Tip For Baseboard Door Bumper",
+                "description": "White and Gray Rubber Tips for Deltana BDS Baseboard Door Bumpers. or use with Deltana BDS125 Baseboard Door Stops, Deltana BDS30 Baseboard Door Stops,  Deltana BDS425 Baseboard Door Stops and Deltana FDB138 Floor Door Stops.",
+                "keywords": "DEL-WH-BDS-REPL-TIP Replacement Rubber White tip For Baseboard Door Bumper, Deltana BDS30 Door Bumper Rubber Tips, DEL-BDS30 3.25 Inch Baseboard Door Bumper,  DEL-BDS30-REPL-TIP, Gray Rubber Tips, White rubber tips, Deltana FDB138 rubber,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Deltana Door Stops and Door Bumpers",
+                    "sort": "103"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "507543",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "162593",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "407752",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "211877",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "199463",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "292755",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "571757",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Color: BDS30-GRAY-REPL-TIP: Gray Rubber",
+                "Select Color: BDS30-WH-REPL-TIP: White Rubber"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Color",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BDS30-GRAY-REPL-TIP: Gray Rubber",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BDS30-WH-REPL-TIP: White Rubber",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

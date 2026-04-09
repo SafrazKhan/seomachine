@@ -1,0 +1,68 @@
+{
+    "legacy_product_id": "1209135",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4-1/2 x 4-1/2 Heavy Duty Ball Bearing Hinge, Hager BB11684545",
+            "vendor": "Hagar",
+            "status": "ARCHIVED",
+            "sku": "HAG-BB11684545",
+            "mpn": "HAG-BB11684545",
+            "price": "59.28",
+            "compare_at_price": "74.1",
+            "contractor_price": "59.28",
+            "shipping_weight": "1.0",
+            "tags": [
+                "4-1/2 x 4-1/2 Heavy Duty Ball Bearing Hinge",
+                "Hager BB11684545"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/HAG-BB1168-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/HAG-BB1168-525.jpg?v=1716428955"
+        },
+        "text": {
+            "description_html": "<b>Hager 4 1/2\" x 4 1/2\" x Square Corners Commercial Polished Brass Hinge</b>\r\n<p>Heavy duty Commercial grade door hinge with 4 ball bearings. Five knuckle hinge with non-rising removable pin for use on heavy weight doors and doors requiring high frequency service. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b>\r\n<ul>\r\n<li>Height: 4-1/2\"</li>\r\n<li>Width: 4-1/2\"</li>\r\n<li>Corners: Square</li>\r\n<li>Thickness: 0.180\" (Heavy Duty)</li>\r\n<li>4 Ball Bearings for Smooth Action</li>\r\n<li>Standard Template Hole Pattern</li>\r\n<li>Steel Hinge Pin</li>\r\n<li>Wood Screws: #12 x 1-1/4\"</li>\r\n<li>Machine Screws: #12-24 x 1/2\"</li>\r\n<li>Conforms to ANSI A8112 for Ball Bearing</li>\r\n</ul>\r\n</p>\r\n<p>\r\nPackage with matching finish machine screws and wood screws. For use with both metal and wood  doors.\r\n</p>\r\n<p><b>*Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "4-1/2 x 4-1/2 Heavy Duty Ball Bearing Hinge, Hager BB11684545",
+                "description": "Heavy duty Commercial grade door hinge with 4 ball bearings. Five knuckle hinge with non-rising removable pin for use on heavy weight doors and doors requiring high frequency service.",
+                "keywords": "4-1/2 x 4-1/2 Heavy Duty Ball Bearing Hinge, Hager BB11684545"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Hager",
+                    "sort": "25"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: US10: Satin Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10: Satin Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

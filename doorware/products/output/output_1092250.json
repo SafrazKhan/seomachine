@@ -1,0 +1,122 @@
+{
+    "legacy_product_id": "1092250",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "190 Degree UL Door Viewer with Cover, Rockwood 626",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "ROC-626",
+            "mpn": "ROC-626",
+            "price": "13.4",
+            "compare_at_price": "16.76",
+            "contractor_price": "13.4",
+            "shipping_weight": "1.0",
+            "tags": [
+                "UL Listed Door PeepHole with Covers",
+                "190 Degree UL Door Viewer with Cover",
+                "Rockwood 626",
+                "ROC-626"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ROC-626-5252.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ROC-626-5252.jpg?v=1769493241"
+        },
+        "text": {
+            "description_html": "<b>Rockwood 626, 190 Degree Door Eye Viewer</b>\r\n\r\n<p>\r\nFor doors 1-3/8 inches to 2-1/8 inches thick with a 9/16 inch diameter hole. The lens allows for 190 degree viewing. Privacy cover to prevent visual intrusion from outside of the room. UL listed.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Rockwood 626 Peephole Viewer:\r\n<ul> \r\n<li>Installation: Drill Hole 9/16\"</li>\r\n<li>Door Thickness: Adjustable 1-3/8\" - 2-1/8\" Thick Doors</li>\r\n<li>190 Degree Viewing</li>\r\n<li>Glass Lens</li>\r\n<li>UL Listed for Fire Doors</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually. Special ordered item. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "190 Degree UL Door Viewer with Cover",
+                "description": "For doors 1-3/8 inches to 2-1/8 inches thick with a 9/16 inch diameter hole. The lens allows for 190 degree viewing. Privacy cover to prevent visual intrusion from outside of the room. UL listed.",
+                "keywords": "UL Listed Door PeepHole with Covers, 190 Degree UL Door Viewer with Cover, Rockwood 626, ROC-626"
+            },
+            "specifications": [
+                {
+                    "key": "Installation",
+                    "value": "Drill Hole 9/16\""
+                },
+                {
+                    "key": "Door Thickness",
+                    "value": "Adjustable 1-3/8\" - 2-1/8\" Thick Doors"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Rockwood Accessories",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "7722",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "750570",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "755512",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "573514",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Installation: Drill Hole 9/16\"",
+                "Door Thickness: Adjustable 1-3/8\" - 2-1/8\" Thick Doors",
+                "Select Finish: BRS: Polished Brass",
+                "Select Finish: ANT: Antique Bronze",
+                "Select Finish: CRM: Bright Chrome",
+                "Select Finish: DCRM: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BRS: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ANT: Antique Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CRM: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DCRM: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

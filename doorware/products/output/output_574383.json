@@ -1,0 +1,109 @@
+{
+    "legacy_product_id": "574383",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:09:57.791950"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1 Inch White Porcelain Cabinet Knob with Metal Center, RK International CK-320",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-320",
+            "mpn": "RKI-CK-320",
+            "price": "9.99",
+            "compare_at_price": "12.21",
+            "contractor_price": "9.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RKI-CK-319",
+                "RKI-CK-320",
+                "Traditional White Porcelain Cabinet Knobs",
+                "1 Inch White Porcelain Cabinet Knob with Metal Centers",
+                "RK International CK-319",
+                "RK International CK-320",
+                "retro door knobs",
+                "White porcelain knob with brass",
+                "tip",
+                "White porcelain knob with chrome tips"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Ck-320-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Ck-320-525.jpg?v=1716424743"
+        },
+        "text": {
+            "description_html": "<b>RK International White Porcelain Knob with Metal Tip</b>\r\n\r\n<p>\r\nThe 1 Inch White Porcelain Cabinet Knob with Metal Center has a clean look. Pair with either a polished brass rose or a polished chrome rose for a retro feel. It is easy to install as it comes with the mounting hardware.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/1-1-4-inch-white-porcelain-cabinet-knob-with-metal-center-rk-international-ck-316\"><b>1-1/4\" White Porcelain Cabinet Knob with Metal Center</b></a> and <a href=\"/products/1-inch-black-porcelain-cabinet-knob-with-metal-center-rk-international-ck-317\"><b>1\" Black Porcelain Cabinet Knob with Metal Center</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International 1\" White Porcelain Cabinet Knob:\r\n<ul>\r\n<li>Material: porcelain with brass steam</li>\r\n<li>Porcelain Color: <b>White</b></li>\r\n<li>Diameter: 1\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "1 Inch White Porcelain Cabinet Knob with Metal Center",
+                "description": "RK International CK-319, 1 Inch White Porcelain Cabinet Knob with Metal Center - The 1 Inch White Porcelain Cabinet Knob with Metal Center has a clean look. Pair with either a polished brass rose or a polished chrome rose for a retro feel. It is easy to install as it comes with the mounting hardware.",
+                "keywords": "RKI-CK-319, RKI-CK-320, Traditional White Porcelain Cabinet Knobs, 1 Inch White Porcelain Cabinet Knob with Metal Centers, RK International CK-319, RK International CK-320, retro door knobs, White porcelain knob with brass, tip, White porcelain knob with chrome tips,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "2"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "379923",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "564747",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "554384",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "554095",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "253857",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: CK-320: Polished Brass",
+                "Select Finish: CK-319: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "CK-320: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CK-319: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

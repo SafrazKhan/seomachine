@@ -1,0 +1,116 @@
+{
+    "legacy_product_id": "1149252",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Melrose Stainless Steel Flat Top Knob, Laurey 89401",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "LAU-89401",
+            "mpn": "LAU-89401",
+            "price": "35.78",
+            "compare_at_price": "47.71",
+            "contractor_price": "35.78",
+            "shipping_weight": "0.5",
+            "tags": [
+                "LAU-89301",
+                "LAU-89401",
+                "Melrose Stainless Steel Flat Top Knobs",
+                "89401 Melrose Stainless Steel Large Flat Top Knobs",
+                "89301 Melrose Stainless Steel Small Flat Top Knobs",
+                "Laurey Satin Stainless Steel Melrose Cabinet Knobs",
+                "Laurey Satin Stainless Flat Top Cabinet Knobs",
+                "MNG 88908 savannah Cabinet Knobs",
+                "MNG 88907 savannah Cabinet Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LAU-89301-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-89301-525.jpg?v=1717106589"
+        },
+        "text": {
+            "description_html": "<b>Laurey Satin Stainless Steel Melrose Cabinet Knob</b>\r\n\r\n<p>\r\nThe Melrose Stainless Steel Flat Top Knob is available in small and large sizes. Made with quality in mind, this stainless steel knob has a modern satin stainless finish. Each contemporary kitchen cabinet knob comes packaged with mounting hardware. The Satin Stainless Steel Melrose Cabinet Knob is easy to install.\r\n</p>\r\n\r\n<p>\r\nThis cabinet knob is part of the <a href=\"//search?type=product&q=Laurey+Melrose\">Laurey Melrose Collection</a>.\r\n<table width=\"600\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" align=\"center\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Laurey Satin Stainless Flat Top Cabinet Knob:\r\n<ul>\r\n<li>Material: Stainless Steel</li>\r\n<li>Finish: Satin Stainless Steel</li>\r\n<li>Packaged with 1\" long #8-32 screw and 1-1/2\" long #8-32 screw.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n\r\n<b>LAU-89301 - Large</b>\r\n<ul>\r\n<li>Diameter: 1-1/2\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n</ul>\r\n</ul>\r\n<ul>\r\n<b>LAU-89401 - Small</b>\r\n<ul>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Melrose Stainless Steel Flat Top Knob",
+                "description": "The Melrose Stainless Steel Flat Top Knob is available in small and large sizes. Made with quality in mind, this stainless steel knob has a modern satin stainless finish. Each contemporary kitchen cabinet knob comes packaged with mounting hardware. The Satin Stainless Steel Melrose Cabinet Knob is easy to install.",
+                "keywords": "LAU-89301, LAU-89401, Melrose Stainless Steel Flat Top Knobs, 89401 Melrose Stainless Steel Large Flat Top Knobs, 89301 Melrose Stainless Steel Small Flat Top Knobs, Laurey Satin Stainless Steel Melrose Cabinet Knobs,  Laurey Satin Stainless Flat Top Cabinet Knobs, MNG 88908 savannah Cabinet Knobs, MNG 88907 savannah Cabinet Knobs"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "8"
+                },
+                {
+                    "name": "Laurey Cabinet Knobs",
+                    "sort": "34"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1149083",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1148904",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1100954",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "352581",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1029661",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "1149070",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "895367",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Size: LAU-89301: Large 1-1/2in.",
+                "Select Size: LAU-89401: Small 1-1/4in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LAU-89301: Large 1-1/2in. ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LAU-89401: Small 1-1/4in.",
+                    "price_impact": 8.96,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

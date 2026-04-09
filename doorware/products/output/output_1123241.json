@@ -1,0 +1,91 @@
+{
+    "legacy_product_id": "1123241",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Light to Medium Duty Door Closer, Falcon SC61A",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "FAL-SC61A",
+            "mpn": "FAL-SC61A",
+            "price": "146.0",
+            "compare_at_price": "183.0",
+            "contractor_price": "146.0",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Light to Medium Duty Door Closer",
+                "Falcon SC61A",
+                "Falcon SC61A Door Closer",
+                "FAL-SC61A"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FAL-SC61DKB-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FAL-SC61DKB-525.jpg?v=1716428316"
+        },
+        "text": {
+            "description_html": "<b>Falcon SC71AL, ADA Compliant Full Cover Heavy Duty Door Closer</b>\r\n\r\n<p>\r\nWhen you need a dependable closer for a standard-duty application, the Falcon SC61A Series gets the job done. Designed for use with an aluminum storefront, the SC61A Series offers ANSI grade 1 durability backed by a ten-year warranty. Most common hole pattern in the industry for versatile use and easy retrofit.\r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/handicap-logo.jpg?v=1704353001\" width=\"100\" height=\"98\" border=\"0\" align=\"right\" alt=\"ADA Compliant Handicap Logo\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> for the Falcon SC61A Commercial Door Closer:\r\n<ul>\r\n<li>Adjustable closing speed</li>\r\n<li>Adjustable latching speed</li>\r\n<li>Adjustable Back Check</li>\r\n<li>Single piece cast aluminum body</li>\r\n<li>Non-Handed</li>\r\n<li><b>Grade 1 (Highest Grade)</b></li>\r\n<li>UL 10C Approved</li>\r\n<li>Spring Size: 1-5</li>\r\n<li><a href=\"/pages/ada-compliant\">ADA Compliant</a></li>\r\n<li>10 Year Warranty</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n\r\n<p>\r\nThe Falcon SC61A is ADA Compliant offering adjustable spring power sizes 1 - 5.\r\n</p>",
+            "seo": {
+                "title": "Light to Medium Duty Door Closer",
+                "description": "When you need a dependable closer for a standard-duty application, the Falcon SC61A Series gets the job done. Designed for use with an aluminum storefront, the SC61A Series offers ANSI grade 1 durability backed by a ten-year warranty. Most common hole pattern in the industry for versatile use and easy retrofit.",
+                "keywords": "Light to Medium Duty Door Closer, Falcon SC61A, Falcon SC61A Door Closer, FAL-SC61A,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Falcon",
+                    "sort": "18"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "190767",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "190760",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "165202",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "236650",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "70733",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DBK: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DBK: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

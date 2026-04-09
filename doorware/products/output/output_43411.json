@@ -1,0 +1,111 @@
+{
+    "legacy_product_id": "43411",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Classic Aluminum Cabinet Pull, Omnia AL403",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-AL403",
+            "mpn": "OMN-AL403",
+            "price": "11.15",
+            "compare_at_price": "13.9",
+            "contractor_price": "10.55",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Omnia AL403 Aluminum Door Pulls",
+                "omnia al-403 aluminum cabinet pulls",
+                "al403/76",
+                "al403/152",
+                "3 inch cabinet pull",
+                "6 inch cabinet pulls",
+                "modern cabinet hardware",
+                "traditional cabinet hardware",
+                "classic cabinet hardware",
+                "aluminum cabinet hardware omnia",
+                "cabinet handles aluminum",
+                "durable cabinet knobs",
+                "aluminum drawer pulls",
+                "omnia classic aluminum cabinet pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-brass-AL403_300x3351.jpg",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Omnia AL403 Aluminum Cabinet Hardware</b>\r\n\r\n<p>AA simple, good looking, durable cabinet pull can do wonders for almost any style home. This Classic Aluminum Pull will add a touch of sophistication to all your cabinet drawers and doors. It is just as easily paired with modern decor as it is with traditional-style homes; and since it is available in either a 3 inch or a 6 inch length, you will be sure to find the right fit. The aluminum (US28) finish is a beautiful addition to an already stylish cabinet pull, making it an excellent choice for anyone looking for an inexpensive way to update their cabinet hardware without the worries of it not matching the existing decor.    \r\n</p>\r\n\r\n<p>\r\nOmnia's line of sophisticated Aluminum cabinet hardware have been painstakingly crafted by artisans who understand that a beautiful design must be as comfortable to the hand as it is pleasing to the eyes.\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<li><b>OMN-AL403/76</b> - Center to Center Mount Hole Spacing: 3, Overall Length: 4-5/16\", Projection: 1\"</li>\r\n<li><b>OMN-AL403/152</b> - Center to Center Mount Hole Spacing: 6\", Overall Length: 9-7/16\", Projection: 1\"</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Classic Aluminum Cabinet Pull, Omnia AL403",
+                "description": "Omnia AL403 Aluminum Door Pull - A simple, good looking, durable cabinet pull can do wonders for almost any style home. This Classic Aluminum Pull will add a touch of sophistication to all your cabinet drawers and doors. It is just as easily paired with modern decor as it is with traditional-style homes; and since it is available in either a 3 inch or a 6 inch length, you will be sure to find the right fit. The aluminum (US28) finish is a beautiful addition to an already stylish cabinet pull, making it an excellent choice for anyone looking for an inexpensive way to update their cabinet hardware without the worries of it not matching the existing decor.    ",
+                "keywords": "Omnia AL403 Aluminum Door Pulls, omnia al-403 aluminum cabinet pulls, al403/76, al403/152, 3 inch cabinet pull, 6 inch cabinet pulls, modern cabinet hardware, traditional cabinet hardware, classic cabinet hardware, aluminum cabinet hardware omnia, cabinet handles aluminum, durable cabinet knobs, aluminum drawer pulls, omnia classic aluminum cabinet pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "192859",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "213065",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "249536",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "187972",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "247906",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Size: OMN-AL403/76 - Center to Center Hole Spacing: 3in.",
+                "Select Size: OMN-AL403/152 - Center to Center Hole Spacing: 6in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-AL403/76 - Center to Center Hole Spacing: 3in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-AL-403/76"
+                },
+                {
+                    "value": "OMN-AL403/152 - Center to Center Hole Spacing: 6in.",
+                    "price_impact": 4.1,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-AL-403/152"
+                }
+            ]
+        }
+    ]
+}

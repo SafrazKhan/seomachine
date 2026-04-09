@@ -1,0 +1,98 @@
+{
+    "legacy_product_id": "1182446",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Standard Perimeter Gasketing, Pemko 305-N",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "PEM-305-N",
+            "mpn": "PEM-305-N",
+            "price": "70.0",
+            "compare_at_price": "70.0",
+            "contractor_price": "70.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Standard Perimeter Gasketing",
+                "Pemko 305-N",
+                "PEM-305-N",
+                "Pemko Standard Perimeter Gasketing"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PEM-305_N-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PEM-305_N-525.jpg?v=1716428816"
+        },
+        "text": {
+            "description_html": "<b>Pemko 305 Standard Perimeter Gasketing</b>\r\n\r\n<p>\r\nThis is  Pemko 305_N Standard Perimeter Gasketing. This perimeter gasketing is supplied with an EPDM (\"N\" insert - item number E2 (BL, GR). It is Air Infiltration Tested, BHMA Certified, Smoke Tested - UL1784Smoke Tested - UL1784, Fire Rated - UL10C - Positive PressureFire Rated - UL10C - Positive Pressure, and GREENGUARD Gold Certified.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Pemko Standard Perimeter Gasketing:\r\n<ul>\r\n<li>Material: Anodized Aluminum</li>\r\n<li>Color: Black EPDM insert</li>\r\n<li>Rigid jamb weatherstrip is shown mounted on openings with 1/16\" gaps; however, each weatherstrip can seal gaps up to the depth of its seal.</li>\r\n<li>Smoke Tested - UL1784/li>\r\n<li>Fire Rated - UL10C - Positive PressureFire Rated - UL10C - Positive Pressure</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special ordred item. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Standard Perimeter Gasketing",
+                "description": "This is  Pemko 305_N Standard Perimeter Gasketing. This perimeter gasketing is supplied with an EPDM (N insert - item number E2 (BL, GR). It is Air Infiltration Tested, BHMA Certified, Smoke Tested - UL1784Smoke Tested - UL1784, Fire Rated - UL10C - Positive PressureFire Rated - UL10C - Positive Pressure, and GREENGUARD Gold Certified.",
+                "keywords": "Standard Perimeter Gasketing, Pemko 305-N, PEM-305-N,  Pemko Standard Perimeter Gasketing"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Pemko",
+                    "sort": "38"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "232547",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1078630",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "232067",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Size: 84in.",
+                "Select Finish: D: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "84in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "D: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

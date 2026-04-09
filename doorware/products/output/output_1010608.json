@@ -1,0 +1,119 @@
+{
+    "legacy_product_id": "1010608",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:09:12.077702"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Mackenzie Lever with Traditional Rose, Brass Accents D07-L150X-MKZ",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "BRA-D07-L150X-MKZ",
+            "mpn": "BRA-D07-L150X-MKZ",
+            "price": "131.15",
+            "compare_at_price": "163.9",
+            "contractor_price": "131.15",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Brass Accents D07-L150X-MKZ",
+                "Drop Tail Mackenzie Door Lever with Round Roses",
+                "Mackenzie Lever with Traditional Roses",
+                "BRA-D07-L150X-MKZ",
+                "Traditional Rose with Mackenzie Levers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BRA-D07-L150X-MKZ-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BRA-D07-L150X-MKZ-525.jpg?v=1716427658"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents D07-L150X-MKZ, Drop Tail Mackenzie Door Lever with Round Rose</b>\r\n\r\n<p>\r\nThe Mackenzie Lever with Traditional Rose is done in the contemporary style in the early 20th century, but reflects the more romantic approach of the neo-French look while offering the simplicity craved by the federal American Period.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Brass Accents D07-L150X-MKZ Traditional Rose with Mackenzie Lever:\r\n<ul>\r\n<li>Lever Length: 4-3/8\"</li>\r\n<li>Rose Diameter: 2-5/8\"</li>\r\n<li>Backset: 2\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>When Selecting a Function:</b> \r\n<ul>\r\n<li><b>Single Dummy:</b> For use as a pull or to match trim on one side of the door. It does not latch and does not lock.</li>\r\n<li><b>Double Dummy:</b> For use as a pull or to match trim on both sides of the door. They do not latch and do not lock</b>\r\n<li><b>Passage (hall or closet):</b> For doors that don't need locking. Latches but does not lock.</li>\r\n<li><b>Privacy (bedroom or bathroom):</b> For doors that could need locking. The lock is activated by a push button while turning the inside lever releases the lock. It can be opened from the outside with a small tool.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "Mackenzie Lever with Traditional Rose",
+                "description": "This lever done in the contemporary style in the early 20th century, but reflects the more romantic approach of the neo-French look while offering the simplicity craved by the federal American Period.",
+                "keywords": "Brass Accents D07-L150X-MKZ, Drop Tail Mackenzie Door Lever with Round Roses, Mackenzie Lever with Traditional Roses, BRA-D07-L150X-MKZ, Traditional Rose with Mackenzie Levers,"
+            },
+            "specifications": [
+                {
+                    "key": "Lever Length",
+                    "value": "4-3/8\""
+                },
+                {
+                    "key": "Rose Diameter",
+                    "value": "2-5/8\""
+                },
+                {
+                    "key": "Backset",
+                    "value": "2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "BRA-discontinued-custom",
+                    "sort": "27"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "10355",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "883078",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "884766",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "886971",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Lever Length: 4-3/8\"",
+                "Rose Diameter: 2-5/8\"",
+                "Backset: 2\"",
+                "Select Function: Passage (Hall or Closet)",
+                "Select Finish: US15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Passage (Hall or Closet)",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

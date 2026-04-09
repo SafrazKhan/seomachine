@@ -1,0 +1,74 @@
+{
+    "legacy_product_id": "941349",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Omnia 251-US3-LH",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "Omnia 251-US3-LH",
+            "mpn": "Omnia 251-US3-LH",
+            "price": "91.8",
+            "compare_at_price": "110.0",
+            "contractor_price": "91.8",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Omnia 251-US3-LH Omnia 251 Lever Only",
+                "Polished Brass",
+                "Left Hand Door"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/251-US3-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/251-US3-525.jpg?v=1717790576"
+        },
+        "text": {
+            "description_html": "<b>Omnia 251 Lever Only, Polished Brass, Left Hand Door</b>\r\n\r\nOmnia 251-US3-LH\r\n<p>\r\n<b>Specifications</b> for the Omnia 251  Lever:\r\n<ul>\r\n<li>Lever Length: 4-3/4\"</li>\r\n<li>Lever Projection: 2-3/8\"</li>\r\n<li>Finish: Polished Brass</li>\r\n<li>Handing: Left Hand Door</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Omnia 251-US3-LH",
+                "description": "",
+                "keywords": "Omnia 251-US3-LH Omnia 251 Lever Only, Polished Brass, Left Hand Door"
+            },
+            "specifications": [
+                {
+                    "key": "Lever Length",
+                    "value": "4-3/4\""
+                },
+                {
+                    "key": "Lever Projection",
+                    "value": "2-3/8\""
+                },
+                {
+                    "key": "Finish",
+                    "value": "Polished Brass"
+                },
+                {
+                    "key": "Handing",
+                    "value": "Left Hand Door"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "175"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Lever Length: 4-3/4\"",
+                "Lever Projection: 2-3/8\"",
+                "Finish: Polished Brass",
+                "Handing: Left Hand Door"
+            ]
+        }
+    },
+    "option_sets": []
+}

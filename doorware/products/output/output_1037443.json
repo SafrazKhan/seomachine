@@ -1,0 +1,173 @@
+{
+    "legacy_product_id": "1037443",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Bezier Cabinet Knob, Emtek 86410",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-86410",
+            "mpn": "EMT-86410",
+            "price": "9.6",
+            "compare_at_price": "12.0",
+            "contractor_price": "9.12",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Bezier Cabinet Knob",
+                "Emtek 86410",
+                "Bezier Cabinet Knobs",
+                "Emtek 86411",
+                "Emtek Bezier Knobs",
+                "Emtek Bezier Cabinet Knobs",
+                "modern cabinet knobs",
+                "contemporary cabinet knobs",
+                "sliver cabinet knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86317-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86317-525.jpg?v=1716427822"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86410, Bezier Knob</b>\r\n\r\n<p>\r\nChoose from sleek, contemporary finishes for this Emtek Bezier Knob. This kitchen cabinet knob is available in two sizes. The Bezier Cabinet Knob features a unique wave design that adds fluidity and a chic look. \r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86410-specifications.gif?v=1704354762\" width=\"600\" height=\"118\" border=\"0\" atl=\"Emtek 86410 specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Emtek Bezier Cabinet Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Comes packaged with installation screws.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86410-specifications.pdf?v=1704262413\" target=\"new\"><b>Emtek Bezier Cabinet Knob Specifications (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>EMT-86410:</b>\r\n<ul>\r\n<li>Length: 1-3/8\" square</li>\r\n<li>Projection: 1\"</li>\r\n<li>Base Diameter: 1/2\"</li>\r\n</ul>\r\n<br>\r\n<b>EMT-86411:</b>\r\n<ul>\r\n<li>Length: 1-5/8\" square</li>\r\n<li>Projection: 1\"</li>\r\n<li>Base Diameter: 5/8\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Bezier Cabinet Knob",
+                "description": "Choose from sleek, contemporary finishes for this Emtek Bezier Knob. This kitchen cabinet knob is available in two sizes. The Bezier Cabinet Knob features a unique wave design that adds fluidity and a chic look.",
+                "keywords": "Bezier Cabinet Knob, Emtek 86410, Bezier Cabinet Knobs, Emtek 86411, Emtek Bezier Knobs, Emtek Bezier Cabinet Knobs, modern cabinet knobs, contemporary cabinet knobs, sliver cabinet knobs,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Cabinet Hardware",
+                    "sort": "300"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "7709",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "668650",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "567252",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "161664",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "925810",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "480353",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "826630",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "907380",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "456269",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Select Size: 86410: 1-3/8in.",
+                "Select Size: 86411: 1-5/8in.",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US10B: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "86410: 1-3/8in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "86411: 1-5/8in.",
+                    "price_impact": 7.2,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

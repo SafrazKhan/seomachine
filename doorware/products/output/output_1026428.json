@@ -1,0 +1,139 @@
+{
+    "legacy_product_id": "1026428",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Brass Door Eye Viewer, Emtek 2610",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-2610",
+            "mpn": "EMT-2610",
+            "price": "24.99",
+            "compare_at_price": "30.0",
+            "contractor_price": "24.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "EMT-2610 Security Door Peep Holes",
+                "Emtek 2610 door viewers",
+                "door viewer 200 degree peek holes",
+                "peep holes",
+                "Door Peep Hole",
+                "door peepholes",
+                "door peek holes",
+                "Wide Angle Viewer",
+                "security door eye viewers",
+                "Emtek 2610 eye viewers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-2610-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-2610-525.jpg?v=1716427752"
+        },
+        "text": {
+            "description_html": "<b>Emtek 2610, Solid Brass Door Eye Viewer</b>\r\n\r\n<p>\r\nThis door viewer is used for both security and privacy. It is handy when you have a solid door with no windows, so you can see who is at your doorway before opening the door. The Solid Brass Door Eye Viewer includes an interior viewer cover so no one can look in though the outside. This door peep hole has a 200 degree wide viewing angle. The Door Security Glass Eye Viewer 200 Degree fits metal and wood doors 1-3/8\" - 2\" thick. Solid brass construction.\r\n</p>\r\n\r\n<table width=\"300\" align=\"right\">\r\n<tr>\r\n<td>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-2610-specifications.jpg?v=1704354676\" width=\"237\" height=\"243\" border=\"0\" alt=\"Emtek 2610 Eye Viewer Size\">\r\n</td>\r\n</tr>\r\n</table>\r\n\r\n<p>\r\n<b>Specifications</b> for the Emtek 2610 Eye Viewer:\r\n<ul> \r\n<li>Door Thickness: 1-3/8\" - 2\"</li>\r\n<li>Hole Diameter: 5/8\"</li>\r\n<li>200 Degree Viewing</li>\r\n<li>Exterior Diameter: 1-3/16\"</li>\r\n<li>Glass Lens Diameter: 7/8\"</li>\r\n<li>Interior Diameter: 1\"</li>\r\n<li>Includes interior viewer cover so no one can look in though the outside.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Solid Brass Door Eye Viewer",
+                "description": "This door viewer is used for both security and privacy. It is handy when you have a solid door with no windows, so you can see who is at your doorway before opening the door. The Solid Brass Door Eye Viewer includes an interior viewer cover so no one can look in though the outside. This door peep hole has a 200 degree wide viewing angle. The Door Security Glass Eye Viewer 200 Degree fits metal and wood doors 1-3/8 inches - 2 inches thick. Solid brass construction.",
+                "keywords": "EMT-2610 Security Door Peep Holes, Emtek 2610 door viewers, door viewer 200 degree peek holes, peep holes, Door Peep Hole, door peepholes, door peek holes, Wide Angle Viewer, security door eye viewers, Emtek 2610 eye viewers,"
+            },
+            "specifications": [
+                {
+                    "key": "Door Thickness",
+                    "value": "1-3/8\" - 2\""
+                },
+                {
+                    "key": "Hole Diameter",
+                    "value": "5/8\""
+                },
+                {
+                    "key": "Exterior Diameter",
+                    "value": "1-3/16\""
+                },
+                {
+                    "key": "Glass Lens Diameter",
+                    "value": "7/8\""
+                },
+                {
+                    "key": "Interior Diameter",
+                    "value": "1\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Accessories",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "7671",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "7722",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "750570",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "755512",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "573514",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Door Thickness: 1-3/8\" - 2\"",
+                "Hole Diameter: 5/8\"",
+                "Exterior Diameter: 1-3/16\"",
+                "Glass Lens Diameter: 7/8\"",
+                "Interior Diameter: 1\"",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

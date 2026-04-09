@@ -1,0 +1,124 @@
+{
+    "legacy_product_id": "398936",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Heavy Duty Aluminum Double Box Track for By-Pass Sliding Doors, Hagar 9602",
+            "vendor": "Hagar",
+            "status": "ARCHIVED",
+            "sku": "HAG-9602",
+            "mpn": "HAG-9602",
+            "price": "22.04",
+            "compare_at_price": "27.55",
+            "contractor_price": "20.94",
+            "shipping_weight": "25.0",
+            "tags": [
+                "Heavy Duty Aluminum Double Box Track for By-Pass Sliding Doors",
+                "Hagar 9602"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Heavy Duty Aluminum Double Box Track for By-Pass Sliding Doors, Hagar 9602</b>\r\n<p>Heavy duty aluminum double box track for sliding bypass doors has a jump proof double twin channel design.  Made from .050\" extruded aluminum to handle doors up to 150 lbs.  Available in 6 different lengths.</p>\r\n<p>\r\n<b>Specifications</b> of Hagar Heavy Duty Aluminum Double Box Track:\r\n<ul>\r\n<li>Lengths:  46\" to 142\"</li>\r\n<li>Gauge:  .050 (1.3mm)</li>\r\n<li>Track:  1-1/16\" x 3-1/8\"</li>\r\n</ul></p>",
+            "seo": {
+                "title": "Heavy Duty Aluminum Double Box Track for By-Pass Sliding Doors, Hagar 9602",
+                "description": "Heavy Duty Aluminum Double Box Track for By-Pass Sliding Doors, Hagar 9602",
+                "keywords": "Heavy Duty Aluminum Double Box Track for By-Pass Sliding Doors, Hagar 9602"
+            },
+            "specifications": [
+                {
+                    "key": "Lengths",
+                    "value": "46\" to 142\""
+                },
+                {
+                    "key": "Gauge",
+                    "value": ".050 (1.3mm)"
+                },
+                {
+                    "key": "Track",
+                    "value": "1-1/16\" x 3-1/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "Hager",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Lengths: 46\" to 142\"",
+                "Gauge: .050 (1.3mm)",
+                "Track: 1-1/16\" x 3-1/8\"",
+                "Select Track Length: HAG-9602-46 - 46in.",
+                "Select Track Length: HAG-9602-58 - 58in.",
+                "Select Track Length: HAG-9602-70 - 70in.",
+                "Select Track Length: HAG-9602-94 - 94in.",
+                "Select Track Length: HAG-9602-118 - 118in.",
+                "Select Track Length: HAG-9602-142 - 142in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Track Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "HAG-9602-46 - 46in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "HAG-9602-58 - 58in.",
+                    "price_impact": 7.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "HAG-9602-70 - 70in.",
+                    "price_impact": 12.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "HAG-9602-94 - 94in.",
+                    "price_impact": 23.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "HAG-9602-118 - 118in.",
+                    "price_impact": 34.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "HAG-9602-142 - 142in.",
+                    "price_impact": 80.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

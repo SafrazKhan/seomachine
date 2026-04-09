@@ -1,0 +1,115 @@
+{
+    "legacy_product_id": "491233",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Storefront Door Mortise ADA Thumbturn, TH1100-ZTO",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-TH1100-ZTO",
+            "mpn": "GLO-TH1100-ZTO",
+            "price": "17.63",
+            "compare_at_price": "25.19",
+            "contractor_price": "15.87",
+            "shipping_weight": "0.5",
+            "tags": [
+                "GLO-TH1100-ZT0 Storefront Door Mortise ADA Thumbturns",
+                "GLO-TH1100-ZTO Mortise ADA Thumbturns",
+                "Global TH1100-ZTO Storefront Door Mortise Cylinder Zinc Thumbturn",
+                "storefront doors turn locks",
+                "Aluminum Doors thumb turns",
+                "store doors ADA compliant Thumbturn",
+                "Global TH1100-ZTO-AL",
+                "Global TH1100-ZTO-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-TH1100-ZTO_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-TH1100-ZTO_525.jpg?v=1716424242"
+        },
+        "text": {
+            "description_html": "<b>Mortise ADA Compliant Thumbturn for Aluminum Storefront Doors</b>\r\n<p>\r\nStorefront door mortise (threaded) Thumbturn with oversized ADA compliant thumb turn for Adams Rite style <a href=\"/products/storefront-door-mortise-lock-deadbolt-body-th1101\"><b>Mortise Deadbolt</b></a>, <a href=\"/products/storefront-door-mortise-lock-deadlatch-body-th1103\"><b>Mortise Deadlatch</b></a> or \r\n<a href=\"/products/sliding-door-mortise-lock-hookbolt-body-th1102\"><b>Mortise Hookbolt</b></a>.\r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/handicap-logo.jpg?v=1704353001\" width=\"100\" height=\"98\" border=\"0\" align=\"right\" alt=\"ADA Compliant Handicap Logo\">\r\n</p>\r\n<p>\r\n<b>Specifications:</b>  Mortise ADA Thumbturn\r\n<ul>\r\n<li>Mortise Lock Thumbturn</li>\r\n<li>1\" Body Length</li>\r\n<li>Adams Rite (A/R) Cam</li>\r\n<li>Material: Zinc</li>\r\n<li>Oversized Thumbturn, ADA Compliant</li>\r\n<li>Includes 3/16\" Stamped Trim Ring</li>\r\n</ul>\r\n</p>\r\n<p>Available in aluminum or dark bronze finish.\r\n</p>",
+            "seo": {
+                "title": "Storefront Door Mortise ADA Thumbturn, TH1100-ZTO",
+                "description": "Global TH1100-ZTO ADA Thumbturn for aluminum commercial and storefront doors. Available in aluminum or dark bronze finish.",
+                "keywords": "GLO-TH1100-ZT0 Storefront Door Mortise ADA Thumbturns, GLO-TH1100-ZTO Mortise ADA Thumbturns, Global TH1100-ZTO Storefront Door Mortise Cylinder Zinc Thumbturn, storefront doors turn locks, Aluminum Doors thumb turns, store doors ADA compliant Thumbturn, Global TH1100-ZTO-AL, Global TH1100-ZTO-DU,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Store Front Door Hardware",
+                    "sort": "18"
+                },
+                {
+                    "name": "Store Door Hardware",
+                    "sort": "103"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "184797",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "184782",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "193377",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1008084",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "193539",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "277408",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "193392",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: TH1100-ZTO-AL: Aluminum",
+                "Select Finish: TH1100-ZTO-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TH1100-ZTO-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TH1100-ZTO-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

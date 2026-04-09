@@ -1,0 +1,175 @@
+{
+    "legacy_product_id": "1275517",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T16:10:18.680804"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Podium Cabinet Knob, Emtek 86319",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-86319",
+            "mpn": "EMT-86319",
+            "price": "12.8",
+            "compare_at_price": "16.0",
+            "contractor_price": "12.16",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Square Podium Cabinet Knobs",
+                "Emtek 86319",
+                "Emtek 86320",
+                "Emtek Podium Knobs",
+                "EMT-86319",
+                "EMT-86320",
+                "Modern Podium Knobs",
+                "Emtek Podium Cabinet Knobs",
+                "square cabinet knobs",
+                "black cabinet hardware",
+                "modern cabinet hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86319-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86319-525.jpg?v=1769479295"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86319, Modern Podium Cabinet Knob</b>\r\n\r\n<p>\r\nThe Podium Cabinet Knob is available in 1-1/4 inch or 1-3/4 inch sizes. This modern square cabinet knob comes in your choice of contemporary finish colors. Emtek's Modern Podium Knob can be used on small doors and drawers anywhere in the house. It comes packaged with the mounting hardware.\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86319-specifications.gif?v=1774586591\" width=\"600\" height=\"157\" border=\"0\" atl=\"Emtek Podium Cabinet Knob Specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Emtek Podium Cabinet Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Comes packaged with installation screws.</li>\r\n</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>EMT-86319:</b>\r\n<ul>\r\n<li>Overall Width: 1-1/4\" Square</li>\r\n<li>Projection: 1-1/8\"</li>\r\n</ul>\r\n<br>\r\n<b>EMT-86320:</b>\r\n<ul>\r\n<li>Overall Width: 1-3/4\" Square</li>\r\n<li>Projection: 1-1/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-modern-5-Finishes.jpg?v=1704354501\" width=\"511\" height=\"111\" border=\"0\" alt=\"Emtek Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "Podium Cabinet Knob, Emtek 86319",
+                "description": "The Podium Cabinet Knob is available in 1-1/4 inch or 1-3/4 inch sizes. This modern square cabinet knob comes in your choice of contemporary finish colors. Emtek's Modern Podium Knob can be used on small doors and drawers anywhere in the house. It comes packaged with the mounting hardware.",
+                "keywords": "Square Podium Cabinet Knobs, Emtek 86319, Emtek 86320, Emtek Podium Knobs, EMT-86319, EMT-86320, Modern Podium Knobs, Emtek Podium Cabinet Knobs, square cabinet knobs, black cabinet hardware, modern cabinet hardware,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Cabinet Hardware",
+                    "sort": "37"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "919493",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "558070",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1100954",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1095032",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "352581",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "1170622",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Select Size: 86319: Small",
+                "Select Size: 86320: Large",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US4: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "86319: Small",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "86320: Large",
+                    "price_impact": 8.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

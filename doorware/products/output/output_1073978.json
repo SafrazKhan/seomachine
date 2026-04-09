@@ -1,0 +1,86 @@
+{
+    "legacy_product_id": "1073978",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "LCN 4000 Series Regular Arm, LCN 4010-3077",
+            "vendor": "LCN",
+            "status": "ARCHIVED",
+            "sku": "LCN-4010-3077",
+            "mpn": "LCN-4010-3077",
+            "price": "108.0",
+            "compare_at_price": "120.0",
+            "contractor_price": "108.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "LCN 4000 Series Regular Arm",
+                "Regular Arm for LCN 4000 Series",
+                "LCN-4010-3077"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525132.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525132.gif?v=1716428054"
+        },
+        "text": {
+            "description_html": "<b>LCN 4010-3077, Regular Arm for LCN 4000 Series</b>\r\n\r\n<p>\r\nStandard duty door closer arm for regular mounting. For use with LCN 4000 Series Door Closers.\r\n</p>\r\n\r\n<p>\r\nNon-handed\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "LCN 4000 Series Regular Arm",
+                "description": "Standard duty door closer arm for regular mounting. For use with LCN 4000 Series Door Closers.",
+                "keywords": "LCN 4000 Series Regular Arm, Regular Arm for LCN 4000 Series, LCN-4010-3077"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closer Parts",
+                    "sort": "107"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "499842",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "71772",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "140413",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "229628",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: AL: Aluminum"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

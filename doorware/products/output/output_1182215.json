@@ -1,0 +1,112 @@
+{
+    "legacy_product_id": "1182215",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1-1/2 Inch Mortise Cylinder, Emtek THRDCY150",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-THRDCY150",
+            "mpn": "EMT-THRDCY150",
+            "price": "41.0",
+            "compare_at_price": "41.0",
+            "contractor_price": "41.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Emtek THRDCY150 Mortise 1-1/2 inch Cylinder for Handlesets",
+                "1-1/2 Inch Mortise Cylinders",
+                "Emtek THRDCY150",
+                "EMT-THRDCY150"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525226.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525226.gif?v=1716428813"
+        },
+        "text": {
+            "description_html": "<b>Emtek THRDCY150 Mortise 1-1/2\" Cylinder for Handlesets</b>\r\n\r\n<p>\r\nThis is a replacement 1.5 Inch Mortise Cylinder for <a href=\"/collections/emtek-mortise-handlesets\"><b>Emtek Mortise Handlesets</b></a>.\r\n</p>",
+            "seo": {
+                "title": "1-1/2 Inch Mortise Cylinder",
+                "description": "This is a replacement 1.5 Inch Mortise Cylinder for Emtek Mortise Handlesets.",
+                "keywords": "Emtek THRDCY150 Mortise 1-1/2 inch Cylinder for Handlesets, 1-1/2 Inch Mortise Cylinders, Emtek THRDCY150, EMT-THRDCY150"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "33"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "184782",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "193377",
+                    "sort": "2"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: SS: Satin Stainless Steel",
+                "Keying: I Only Ordered One Lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SS: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "legacy_product_id": "634165",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Blacksmith Trim Towel Bar, Fusion TB-E2",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-TB-E2",
+            "mpn": "FUS-TB-E2",
+            "price": "129.0",
+            "compare_at_price": "129.0",
+            "contractor_price": "96.75",
+            "shipping_weight": "7.0",
+            "tags": [
+                "Blacksmith Towel Bars",
+                "Blacksmith Trim Towel Bars",
+                "Fusion TB-E2",
+                "FUS-TB-E2",
+                "Traditional bathroom hardware",
+                "Traditional bathroom towel bars",
+                "hand towel bars",
+                "bathroom towel hooks",
+                "bath towel bars",
+                "Fusion TB-1-E2 18 inch towel bar",
+                "Fusion TB-2-E2 24 inch towel bar",
+                "Fusion TB-3-E2 30 inch towel bar",
+                "Saint Charles Trim Towel Bars",
+                "St. Charles Towel Bars",
+                "Blacksmith Mount Towel Bars"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-TB-E2-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-TB-E2-525.jpg?v=1711365522"
+        },
+        "text": {
+            "description_html": "<b>Fusion TB-E2, Blacksmith Mount Towel Bar</b>\r\n\r\n<p>\r\nThe Blacksmith Trim Towel Bar is available in 3 sizes: 18 inch, 24 inch, and 30 inches. It comes packaged with all the necessary mounting hardware. Choose from antique copper, antique pewter, or oil rubbed bronze finishes. Neither too overwhelming nor too plain, this bathroom towel bar's attention to detail is on par with even the most put together rooms.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/blacksmith-hand-towel-ring-fusion-tr-e2\"><b>Fusion TR-E2 Blacksmith Towel Ring</b></a>, \r\n<a href=\"/products/blacksmith-robe-hook-fusion-rh-e2\"><b>Fusion RH-E2 Blacksmith Robe Hook</b></a>, and\r\n<a href=\"/products/blacksmith-toilet-paper-holder-fusion-ph-e2\"><b>Fusion PH-E2 Blacksmith Toilet Paper Holder</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 sizes:</b>\r\n<ul>\r\n<b>TB-1-E2</b>\r\n<ul>\r\n<li>Length: 18\"</li>\r\n<li>Mount Length: 4\"</li>\r\n<li>Mount Width: 2-3/4\"</li>\r\n</ul>\r\n\r\n<br>\r\n\r\n<b>TB-2-E2</b>\r\n<ul>\r\n<li>Length: 24\"</li>\r\n<li>Mount Length: 4\"</li>\r\n<li>Mount Width: 2-3/4\"</li>\r\n</ul>\r\n\r\n<br>\r\n\r\n<b>TB-3-E2</b>\r\n<ul>\r\n<li>Length: 30\"</li>\r\n<li>Mount Length: 4\"</li>\r\n<li>Mount Width: 2-3/4\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Blacksmith Trim Towel Bar, Fusion TB-E2",
+                "description": "Fusion TB-E2, Blacksmith Trim Towel Bars - The Blacksmith Trim Towel Bar is available in 3 sizes: 18 inch, 24 inch, and 30 inches. It comes packaged with all the necessary mounting hardware. Choose from antique copper, antique pewter, or oil rubbed bronze finishes. Neither too overwhelming nor too plain, this bathroom towel bar's attention to detail is on par with even the most put together rooms.",
+                "keywords": "Blacksmith Towel Bars, Blacksmith Trim Towel Bars, Fusion TB-E2, FUS-TB-E2, Traditional bathroom hardware, Traditional bathroom towel bars, hand towel bars, bathroom towel hooks, bath towel bars, Fusion TB-1-E2 18 inch towel bar, Fusion TB-2-E2 24 inch towel bar, Fusion TB-3-E2 30 inch towel bar, Saint Charles Trim Towel Bars, St. Charles Towel Bars, Blacksmith Mount Towel Bars,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "20"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "396573",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "379482",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "187079",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "405078",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "383122",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "384446",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: ATP - Antique Pewter",
+                "Select Finish: ATC - Antique Copper",
+                "Select Finish: BRN - Brushed Nickel",
+                "Select Size: TB-1-E2 - 18in. Towel Bar",
+                "Select Size: TB-2-E2 - 24in. Towel Bar",
+                "Select Size: TB-3-E2 - 30in. Towel Bar"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ATP - Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ATC - Antique Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRN - Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TB-1-E2 - 18in. Towel Bar",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB-2-E2 - 24in. Towel Bar",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB-3-E2 - 30in. Towel Bar",
+                    "price_impact": 10.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

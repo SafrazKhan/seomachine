@@ -1,0 +1,110 @@
+{
+    "legacy_product_id": "1009025",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1/4-20 Surface Mount Bolt, Don-Jo SM-BOLT",
+            "vendor": "Don-Jo",
+            "status": "ARCHIVED",
+            "sku": "DJO-SM-BOLT",
+            "mpn": "DJO-SM-BOLT",
+            "price": "10.0",
+            "compare_at_price": "12.0",
+            "contractor_price": "10.0",
+            "shipping_weight": "0.4",
+            "tags": [
+                "1/4-20 Surface Mount Bolt for Pulls",
+                "Don-Jo SM-BOLT",
+                "DJO-SM-BOLT",
+                "1/4-20 Surface Mount Bolts"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-SM-BOLT-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-SM-BOLT-525.jpg?v=1717790806"
+        },
+        "text": {
+            "description_html": "<b> Don-Jo 1/4-20 Surface Mounting Bolt</b>\r\n\r\n<p>\r\n1/4-20\" Surface Mounting Bolt: For door pulls made by Don-Jo, when the door pull has a 1/2\" diameter hole to receive 1/2\" bolt head\r\n</p>\r\n<p>\r\nAlso available: For door pulls with smaller 3/8\" diameter hole use <a href=\"/products/surface-mount-bolt-for-don-jo-pulls-don-jo-sm1-bolt\"><b>Don-Jo Type6 SM1-BOLT</a></b>\r\n</p>\r\n<p>\r\n<b>Specifications</b> of the DJO-SM-BOLT:\r\n<ul>\r\n<li>Overall Length: 1-8\"</li>\r\n<li>Thread Length: 7/16\"</li>\r\n<li>Diameter: 1/4-20 Thread</li>\r\n<li>Head: 1/2\" (.500)</li>\r\n<li>Material: Steel</li>\r\n<li>Finish: Zinc Plated</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Sold individually. (One Bolt)\r\n</p>",
+            "seo": {
+                "title": "Surface Mount Bolt",
+                "description": "1/4-20 inch Surface Mounting Bolt for door pulls made by Don-Jo.",
+                "keywords": "1/4-20 Surface Mount Bolt for Pulls, Don-Jo SM-BOLT, DJO-SM-BOLT, 1/4-20 Surface Mount Bolts,"
+            },
+            "specifications": [
+                {
+                    "key": "Overall Length",
+                    "value": "1-8\""
+                },
+                {
+                    "key": "Thread Length",
+                    "value": "7/16\""
+                },
+                {
+                    "key": "Diameter",
+                    "value": "1/4-20 Thread"
+                },
+                {
+                    "key": "Head",
+                    "value": "1/2\" (.500)"
+                },
+                {
+                    "key": "Material",
+                    "value": "Steel"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Zinc Plated"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Misc",
+                    "sort": "1"
+                },
+                {
+                    "name": "Installation Hardware",
+                    "sort": "19"
+                },
+                {
+                    "name": "Tools and Fasteners",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "216988",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "217002",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "217014",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "216976",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Overall Length: 1-8\"",
+                "Thread Length: 7/16\"",
+                "Diameter: 1/4-20 Thread",
+                "Head: 1/2\" (.500)",
+                "Material: Steel",
+                "Finish: Zinc Plated"
+            ]
+        }
+    },
+    "option_sets": []
+}

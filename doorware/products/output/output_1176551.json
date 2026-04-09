@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "1176551",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "5 x 1/4 Door Saddle Threshold, Pemko 271A",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PEM-271A",
+            "mpn": "PEM-271A",
+            "price": "154.3",
+            "compare_at_price": "188.0",
+            "contractor_price": "154.3",
+            "shipping_weight": "25.0",
+            "tags": [
+                "Pemko 271D Saddle Thresholds",
+                "Door Saddle Thresholds",
+                "PEM-271A"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PEM-271-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PEM-271-525.jpg?v=1717106640"
+        },
+        "text": {
+            "description_html": "<b>Pemko 271A  Mill Finish Aluminum Saddle Threshold</b>\r\n\r\n<p>\r\nThe Pemko Door Saddle Threshold is made from non rusting extruded aluminum. It meets ADA Barrier Free Requirements.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Pemko Door Threshold:\r\n<ul>\r\n<li>Material: Aluminum</li>\r\n<li>Finish: Mill Finish Aluminum</li>\r\n<li>Height: 1/4\"</li>\r\n<li>Width: 5\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nMeets <b>ADA Barrier Free Requirements</b>:\r\n<ul>\r\n<li>Overall height is no greater than 1/2\"</li>\r\n<li>A vertical rise no more than 1/4\" and/or change in elevation being beveled with a slope of 1:2</li>\r\n<li>Non-Skid/Pemkote – Meets the requirements of ASTM D 2047, UL 410, and Federal Specifications P-F-</li>\r\n<li>430C for high static coefficient of friction resulting in a slip resistance surface</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nSpecial Ordered Item. <b>No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "Door Saddle Threshold",
+                "description": "The Pemko Door Saddle Threshold is made from non rusting extruded aluminum. It meets ADA Barrier Free Requirements. The Finish is Dark Anodized.",
+                "keywords": "Pemko 271D Saddle Thresholds,  Door Saddle Thresholds, PEM-271A,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Aluminum"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Mill Finish Aluminum"
+                },
+                {
+                    "key": "Height",
+                    "value": "1/4\""
+                },
+                {
+                    "key": "Width",
+                    "value": "5\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Pemko",
+                    "sort": "35"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "969105",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "969135",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "968788",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "968790",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Material: Aluminum",
+                "Finish: Mill Finish Aluminum",
+                "Height: 1/4\"",
+                "Width: 5\"",
+                "Select Length: 96in. Length"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "96in. Length",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

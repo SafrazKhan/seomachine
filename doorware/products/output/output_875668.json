@@ -1,0 +1,125 @@
+{
+    "legacy_product_id": "875668",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1 Foot Vertical Rod Extension, GLO-ED-ROD12",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-ED-ROD12",
+            "mpn": "GLO-ED-ROD12",
+            "price": "14.42",
+            "compare_at_price": "20.61",
+            "contractor_price": "14.42",
+            "shipping_weight": "1.5",
+            "tags": [
+                "1 Foot Vertical Rod Extension",
+                "GLO-ED-ROD12 Global ED-VR531 Extension Rods",
+                "12 inch Extension Rod for Global ED-VR531",
+                "1 Foot Surface Mount Vertical Rod Extensions",
+                "GLO-TH1100-EXTROD Global ED-VR531ALARM-ALVertical Rod Extensions",
+                "Global ED-VR531ALARM-AL"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/global-ED-ROD12-AL_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/global-ED-ROD12-AL_525.jpg?v=1716426217"
+        },
+        "text": {
+            "description_html": "<b>12\" Vertical Rod Exit Device Extension Rod</b>\r\n\r\n<p>\r\n1 foot extension rod for use with the <a href=\"/products/surface-vertical-rod-exit-device-global-ed-vr531-al\"><b>Global ED-VR531-AL</b></a>, <a href=\"/products/dark-bronze-surface-vertical-rod-exit-device-global-ed-vr531-du\"><b>Global ED-VR531-DU</b></a> and <a href=\"/products/surface-vertical-rod-alarm-exit-device-global-ed-vr531alarm-al\"><b>Global ED-VR531ALARM-AL</b></a> surface mount vertical rod panic devices.\r\n</p>\r\n\r\n<p>\r\n<b>*Note:</b> Not for use with Concealed Vertical Rod Panic Devices.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for GLO-ED-ROD12 1 Foot Extension Rod:\r\n<ul>\r\n<li>Rod Diameter: 1/2\"</li>\r\n<li>Rod Extension Length: 12\" (1 ft)</li>\r\n<li>Rod Overall Length: 12-3/4\"</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<i>\r\nSold Individually\r\n</i>\r\n</p>",
+            "seo": {
+                "title": "Global ED-VR531 Extension Rods",
+                "description": "1 foot extension rod for use with the Global ED-VR531 and Global ED-VR531ALARM-AL surface mount vertical rod panic devices. ",
+                "keywords": "1 Foot Vertical Rod Extension, GLO-ED-ROD12 Global ED-VR531 Extension Rods, 12 inch Extension Rod for Global ED-VR531, 1 Foot Surface Mount Vertical Rod Extensions, GLO-TH1100-EXTROD Global ED-VR531ALARM-ALVertical Rod Extensions, Global ED-VR531ALARM-AL"
+            },
+            "specifications": [
+                {
+                    "key": "Rod Diameter",
+                    "value": "1/2\""
+                },
+                {
+                    "key": "Rod Extension Length",
+                    "value": "12\" (1 ft)"
+                },
+                {
+                    "key": "Rod Overall Length",
+                    "value": "12-3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Global Panic Hardware",
+                    "sort": "62"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "480302",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "849410",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "6476",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "317296",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "175455",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "174671",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "874495",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Rod Diameter: 1/2\"",
+                "Rod Extension Length: 12\" (1 ft)",
+                "Rod Overall Length: 12-3/4\"",
+                "Select Finish: ED-ROD12-AL: Aluminum",
+                "Select Finish: ED-ROD12-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ED-ROD12-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ED-ROD12-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

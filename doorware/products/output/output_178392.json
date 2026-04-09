@@ -1,0 +1,135 @@
+{
+    "legacy_product_id": "178392",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Brass Round Rope Design Flush Pull FII-802",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-802",
+            "mpn": "FII-802",
+            "price": "41.95",
+            "compare_at_price": "50.0",
+            "contractor_price": "39.9",
+            "shipping_weight": "0.5",
+            "tags": [
+                "first impressions FII-802",
+                "rope style pocket passage locks",
+                "round pull",
+                "solid brass sliding door pocket locks passage",
+                "passage Pocket Door Locks",
+                "sliding doors",
+                "handle pocket doors",
+                "Pocket Door Hardware. First Impressions 802 Rope Flush Pulls",
+                "french door",
+                "dutch door",
+                "pocketdoor locks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-802_5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-802_5251.jpg?v=1716421702"
+        },
+        "text": {
+            "description_html": "<b>First Impressions Solid Brass Round Rope Style Sliding Pocket Door Flush Pull</b>\r\n\r\n<p>\r\nThis Solid Brass sliding pocket door flush pull is of the finest quality, offering both fashion and function. With the classic Rope design, it beautiful and yet classic in style. For over 10 years, First Impressions has been designing and manufacturing beautiful custom decor for homes, right here is the U.S.A. They offer some of the most diverse and beautiful styles we carry.\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> for the First Impressions 802 Rope Flush Pull:\r\n<ul>\r\n<li>Diameter: 2-1/4\" Round</li>\r\n<li>Projection: 1/4\"</li>\r\n<li>Mounting Hole Depth:  5/16\"</li>\r\n<li>Material: Solid Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>\r\n<p>\r\n<br><br>\r\n<b>*This item is Discontinued.</b>\r\n<br><br>\r\n</p>",
+            "seo": {
+                "title": "Solid Brass Round Rope Design Flush Pull FII-802",
+                "description": "FII 802 First Impressions  Rope design sliding pocket door flush pulls. Available in 5 different finishes including Oil Rubbed Bronze, Antique Brass and Satin Nickel",
+                "keywords": "first impressions FII-802, rope style pocket passage locks,  round pull, solid brass sliding door pocket locks passage, passage Pocket Door Locks, sliding doors, handle pocket doors, Pocket Door Hardware. First Impressions 802 Rope Flush Pulls, french door, dutch door, pocketdoor locks,"
+            },
+            "specifications": [
+                {
+                    "key": "Diameter",
+                    "value": "2-1/4\" Round"
+                },
+                {
+                    "key": "Projection",
+                    "value": "1/4\""
+                },
+                {
+                    "key": "Mounting Hole Depth",
+                    "value": "5/16\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "52"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "177099",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "182568",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "156724",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "156727",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "207435",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Diameter: 2-1/4\" Round",
+                "Projection: 1/4\"",
+                "Mounting Hole Depth: 5/16\"",
+                "Material: Solid Brass",
+                "Select Finish: FII-802-US3 - Polished Brass",
+                "Select Finish: FII-802-US10B - Oil Rubbed Bronze",
+                "Select Finish: FII-802-US5 - Antique Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-802-US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-802-US10B - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-802-US5 - Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "legacy_product_id": "422165",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3-1/4 Decorative Door Bumper, First Impressions FII-SG325",
+            "vendor": "First Impressions",
+            "status": "ACTIVE",
+            "sku": "FII-SG325",
+            "mpn": "FII-SG325",
+            "price": "39.95",
+            "compare_at_price": "50.0",
+            "contractor_price": "38.0",
+            "shipping_weight": "0.3",
+            "tags": [
+                "FII-SG325 Decorative Door Bumpers",
+                "First Impressions # SG 3.25  Solid Brass 3-1/4 inch long decorative door stops",
+                "3-1/4 Inch Wall Mount Decorative Door Bumpers",
+                "brass baseboard stops",
+                "3.25 inch door bumpers",
+                "3 1/4 inch stops",
+                "wood door bumpers",
+                "wood door stops",
+                "325 inches door stops",
+                "3 1/4 inches door stopper",
+                "first impressions base board door stops"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SG325_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SG325_525.jpg?v=1716423977"
+        },
+        "text": {
+            "description_html": "<b>First Impressions Solid Brass 3-1/4\" Decorative Door Stop</b>\r\n<p>\r\nThese decorative solid brass door bumpers screw onto the baseboard casement or door bottom, to protect  the door hardware and wall.   Traditional designer styling and hand finished by the master craftsmen at First Impressions International.\r\n</p>\r\n\r\n<p>\r\nAlso available: Other \r\n<a href=\"/collections/decorative-door-stops\"><b>Decorative Door Stops by First Impressions</b></a>.\r\n<p>\r\n\r\n<p>\r\n<b>Specifications</b> for First Impressions  FII-SG325 Decorative Door Bumper\r\n<ul>\r\n<li>Length: 3-1/4\"</li>\r\n<li>Base Diameter: 3/8\"</li>\r\n<li>Includes Mounting Screw Stud</li>\r\n<li>Bumper Tip: White</li>\r\n<li>Material: Solid Brass</li>\r\n<li>Finishes: <b>Antique Brass</b> or <b>Polished Brass</b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>\r\n\r\n<p>\r\n<b>** This item is being discontinued. Very limited quantities available.</b>\r\n</p>",
+            "seo": {
+                "title": "3-1/4 Decorative Door Bumper, First Impressions FII-SG325",
+                "description": "First Impressions SG325 Solid Brass 3-1/4 inch long decorative door stops. They screw onto the  baseboard casement or door bottom. Designer styling from First Impressions available in Antique or Polished Brass",
+                "keywords": "FII-SG325 Decorative Door Bumpers, First Impressions # SG 3.25  Solid Brass 3-1/4 inch long decorative door stops, 3-1/4 Inch Wall Mount Decorative Door Bumpers, brass baseboard stops, 3.25 inch door bumpers,  3 1/4 inch stops, wood door bumpers, wood door stops, 325 inches door stops, 3 1/4 inches door stopper, first impressions base board door stops,"
+            },
+            "specifications": [
+                {
+                    "key": "Length",
+                    "value": "3-1/4\""
+                },
+                {
+                    "key": "Base Diameter",
+                    "value": "3/8\""
+                },
+                {
+                    "key": "Bumper Tip",
+                    "value": "White"
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Finishes",
+                    "value": "Antique Brass or Polished Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Decorative Door Stops",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "223409",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "214215",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "214182",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "214204",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Length: 3-1/4\"",
+                "Base Diameter: 3/8\"",
+                "Bumper Tip: White",
+                "Material: Solid Brass",
+                "Finishes: Antique Brass or Polished Brass",
+                "Select Finish: SG325-US5: Antique Brass",
+                "Select Finish: SG325-US3: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SG325-US5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SG325-US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

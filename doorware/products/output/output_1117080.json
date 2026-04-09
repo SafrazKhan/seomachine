@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "1117080",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Colonial Revival Pull, Brass Accents C02-P5710",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "BRA-C02-P5710",
+            "mpn": "BRA-C02-P5710",
+            "price": "53.0",
+            "compare_at_price": "53.0",
+            "contractor_price": "53.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Brass Accents C02-P5710",
+                "7-1/2 Inch Colonial Revival Pulls",
+                "Colonial Revival Pulls",
+                "BRA-C02-P5710"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BRA-C02-P5710-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BRA-C02-P5710-525.jpg?v=1716428287"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents C02-P5710, 7-1/2 Inch Colonial Revival Pull</b>\r\n\r\n<p>\r\nThis 7-1/2 Inch Center to Center (CTC) Colonial Revival Pull is made from solid round bar stock.  Its traditional design makes it a great choice for historic buildings. The 7-1/2 Inch Colonial Revival Pull is 8-1/2 inches in overall length with a 2 inch projection.  \r\n</p>\r\n\r\n<p class=\"text\">\r\n<b>Specifications</b> for the Brass Accent Colonial Revival Pull:\r\n<ul>\r\n<li>Center to Center (CTC): 7-1/2\"</li>\r\n<li>Total Pull Length: 8-1/2\"</li>\r\n<li>Projection: 2\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold individually (1 door pull handle).</i>\r\n</p>",
+            "seo": {
+                "title": "Colonial Revival Pull",
+                "description": "This 7-1/2 Inch Center to Center (CTC) Colonial Revival Pull is made from solid round bar stock.  Its traditional design makes it a great choice for historic buildings. The 7-1/2 Inch Colonial Revival Pull is 8-1/2 inches in overall length with a 2 inch projection.",
+                "keywords": "Brass Accents C02-P5710, 7-1/2 Inch Colonial Revival Pulls, Colonial Revival Pulls, BRA-C02-P5710"
+            },
+            "specifications": [
+                {
+                    "key": "Center to Center (CTC)",
+                    "value": "7-1/2\""
+                },
+                {
+                    "key": "Total Pull Length",
+                    "value": "8-1/2\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "BRA-discontinued-custom",
+                    "sort": "56"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "873288",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "563048",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "143869",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "12442",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1111054",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Center to Center (CTC): 7-1/2\"",
+                "Total Pull Length: 8-1/2\"",
+                "Projection: 2\"",
+                "Select Finish: US5: Antique Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

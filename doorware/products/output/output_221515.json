@@ -1,0 +1,100 @@
+{
+    "legacy_product_id": "221515",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hold Open Cush-N-Stop Arm for LCN 1461 Closer, LCN-1460-3049CNS",
+            "vendor": "LCN",
+            "status": "ACTIVE",
+            "sku": "LCN-1460-3049CNS",
+            "mpn": "LCN-1460-3049CNS",
+            "price": "319.6",
+            "compare_at_price": "376.0",
+            "contractor_price": "303.62",
+            "shipping_weight": "4.0",
+            "tags": [
+                "LCN-1460-3049CNS LCN 1461 Hold Open Cushion Arms",
+                "Hold Open Cush-N-Stop Arm for LCN 1460 Series door closers",
+                "LCN 1460-3049CNS hold open arms",
+                "LCN door closer arms",
+                "LCN 14603049CNS door closer arms"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LCN-1460-3049CNS_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LCN-1460-3049CNS_525.jpg?v=1716422162"
+        },
+        "text": {
+            "description_html": "<b>LCN 1460-3049CNS Heavy Duty Hold Open Cush-N-Stop Arm</b>\r\n<p>\r\nCush-N-Stop arm with Hold Open for  <a href=\"/products/lcn-1461-commercial-door-closer\"><b>LCN 1461 Door Closers</b></a>. \r\n</p>\r\n<p>\r\n<b>Parallel Arm Mount Only</b>\r\n</p>\r\n\r\n<p>Heavy duty rigid arm assembly and soffit plate with field reversible dead stop. \"T\" handle style hold open feature allows for easy on/off setting. \r\n</p>\r\n<p>\r\n Available in 2 finishes of Aluminum or Dark Bronze .\r\n</p>",
+            "seo": {
+                "title": "Hold Open Cush-N-Stop Arm for LCN 1461 Closer, LCN-1460-3049CNS",
+                "description": "LCN 1460-3049CNS Hold Open Cushion Arms. Cush-N-Stop arm with Hold Open for LCN 1460 Series Style Closers. Heavy duty T handle Hold Open Cushion Arms fits LNC 1461 door closers.",
+                "keywords": "LCN-1460-3049CNS LCN 1461 Hold Open Cushion Arms, Hold Open Cush-N-Stop Arm for LCN 1460 Series door closers, LCN 1460-3049CNS hold open arms, LCN door closer arms, LCN 14603049CNS door closer arms"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closer Parts",
+                    "sort": "25"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "221512",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "221509",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "221485",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "221503",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "221494",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 1460-3049CNS-AL: Aluminum",
+                "Select Finish: 1460-3049CNS-DKBRZ: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1460-3049CNS-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1460-3049CNS-DKBRZ: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

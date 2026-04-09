@@ -1,0 +1,181 @@
+{
+    "legacy_product_id": "837847",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Steel Wood Screws 10 x 1 bag of 600 Deltana SCWS1010",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-SCWS1010",
+            "mpn": "DEL-SCWS1010",
+            "price": "4.99",
+            "compare_at_price": "6.25",
+            "contractor_price": "4.75",
+            "shipping_weight": "0.05",
+            "tags": [
+                "DEL-SCWS1010",
+                "deltana SCWS1010",
+                "sSteel Wood Screw 10 x 1 Inch",
+                "screw for hinge Steel wood screw 10 x 1",
+                "Steel hinge screws",
+                "DEL-SCWS1010U3",
+                "DEL-SCWS1010U4",
+                "DEL-SCWS1010U5",
+                "DEL-SCWS1010U10B",
+                "DEL-SCWS1010U1B",
+                "DEL-SCWS1010U15",
+                "DEL-SCWS1010U15A",
+                "DEL-SCWS1010U26",
+                "DEL-SCWS1010U26D"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-SCWS1010-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SCWS1010-525.jpg?v=1716425947"
+        },
+        "text": {
+            "description_html": "<b>Deltana SCWS1010,  #10 x 1\" Steel Wood Screws Bag of 600 </b>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SCWS101-specifications.gif?v=1704354721\" width=\"573\" height=\"207\" border=\"0\" alt=\"Deltana SCWS1010 #10 x 1 Inch Wood Screw\">\r\n</p>\r\n\r\n<p>\r\n<ul>\r\n<li>Material: Steel</li>\r\n<li>Screw Size: #10</li>\r\n<li>Length: 1.007\"</li>\r\n<li>Type: Wood Screw</li>\r\n<li>Head: Flat, Phillips Drive</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Steel Wood Screws 10 x 1 Qty 600",
+                "description": "Deltana SCWS1010 - Steel Wood Screws #10 x 1 inch long, available in 10 different finishes.  Sold in bag of 600.",
+                "keywords": "DEL-SCWS1010, deltana SCWS1010, sSteel Wood Screw 10 x 1 Inch, screw for hinge Steel wood screw 10 x 1, Steel hinge screws, DEL-SCWS1010U3, DEL-SCWS1010U4, DEL-SCWS1010U5, DEL-SCWS1010U10B, DEL-SCWS1010U1B, DEL-SCWS1010U15, DEL-SCWS1010U15A, DEL-SCWS1010U26, DEL-SCWS1010U26D"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Machine and Wood Screws",
+                    "sort": "21"
+                },
+                {
+                    "name": "Installation Hardware",
+                    "sort": "13"
+                },
+                {
+                    "name": "Tools and Fasteners",
+                    "sort": "38"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "395131",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "154882",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "576446",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "154907",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "499437",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: U3: Polished Brass",
+                "Select Finish: U4: Brushed Brass",
+                "Select Finish: U5: Antique Brass",
+                "Select Finish: U10B: Oil Rubbed Bronze",
+                "Select Finish: U1B: Matte Black",
+                "Select Finish: U14: Polished Nickel",
+                "Select Finish: U15: Satin Nickel",
+                "Select Finish: U15A: Antique Nickel",
+                "Select Finish: U26:  Polished Chrome",
+                "Select Finish: U26D: Brushed Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U4: Brushed Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U1B: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26:  Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26D: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

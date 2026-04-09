@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "1085898",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin 5048 Estate Rose, Pair",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-5048",
+            "mpn": "BAL-5048",
+            "price": "100.0",
+            "compare_at_price": "100.0",
+            "contractor_price": "100.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Baldwin Estates Collection 5048 Rosettes",
+                "Baldwin 5048 Estate Rose",
+                "BAL-5048",
+                "Baldwin 5048 Round Roses"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-5048-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-5048-525.jpg?v=1716428126"
+        },
+        "text": {
+            "description_html": "<b>Baldwin Estates Collection 5048 Rosette Pair</b>\r\n\r\n<p>\r\nThis is a Pair of Baldwin 5048 Estate Rosettes. The 5048 Rose has a 2.625 inch diameter and  was designed to conceal 2.125 inch pre-drilled door bore hole. The Baldwin Estates Collection 5048 Rosette is made out of solid forged brass.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Baldwin 5048 Round Rose:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Knob Diameter: 2-5/8\"</li>\r\n<li>Designed to conceal 2-1/8\" pre-bored doors</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold as a pair (2)</i>\r\n</p>",
+            "seo": {
+                "title": "Baldwin 5048 Estate Rose, Pair",
+                "description": "This is a Baldwin 5048 Estate Rose. It has a 2.625 inch diameter and  was designed to conceal 2.125 inch pre-drilled door bore hole. The Baldwin Estates Collection 5048 Rosette is made out of solid forged brass",
+                "keywords": "Baldwin Estates Collection 5048 Rosettes, Baldwin 5048 Estate Rose, BAL-5048, Baldwin 5048 Round Roses"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "44"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "476935",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "400623",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "324984",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "600206",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "576396",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "939548",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "172953",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 003: PVD Polished Brass",
+                "Select Finish: 260: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "003: PVD Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "260: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

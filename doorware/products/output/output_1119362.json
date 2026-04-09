@@ -1,0 +1,86 @@
+{
+    "legacy_product_id": "1119362",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "New Mechanics Handlesets Repair Kit, Baldwin 5399-H",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-5399-H",
+            "mpn": "BAL-5399-H",
+            "price": "85.0",
+            "compare_at_price": "85.0",
+            "contractor_price": "85.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "New Mechanics Handlesets Repair Kits",
+                "BAL-5399-H",
+                "Baldwin 5399-H Estates Repair Kit for Sectional & Escutcheon Handlesets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-5399003H-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-5399003H-525.jpg?v=1716428308"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 5399-H Estates Repair Kit for Sectional & Escutcheon Handlesets</b>\r\n\r\n<p>\r\nThis is a mechanical component repair kit for <a href=\"/site/department.cfm?id=338650\">Baldwin Estates Handlesets</a>.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "New Mechanics Handlesets Repair Kit",
+                "description": "This is a mechanical component repair kit for Baldwin Estates Handlesets.",
+                "keywords": "New Mechanics Handlesets Repair Kits, BAL-5399-H, Baldwin 5399-H Estates Repair Kit for Sectional & Escutcheon Handlesets,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "47"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "236567",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "338674",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "167521",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "867031",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 003: PVD Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "003: PVD Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

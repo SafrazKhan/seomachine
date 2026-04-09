@@ -1,0 +1,127 @@
+{
+    "legacy_product_id": "1149276",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Satin Nickel Contempo Cabinet Pull, Laurey CONTEMPO-SN",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "LAU-CONTEMPO-SN",
+            "mpn": "LAU-CONTEMPO-SN",
+            "price": "9.23",
+            "compare_at_price": "12.31",
+            "contractor_price": "8.77",
+            "shipping_weight": "2.0",
+            "tags": [
+                "modern cabinet pulls",
+                "Laurey Contempo Hardware",
+                "Laurey Contempo Collection",
+                "Satin Nickel Contempo Cabinet Pulls",
+                "Strategic Brands Contempo Cabinet Pulls",
+                "LAU-CONTEMPO-SN",
+                "Laurey 55728 3\" Contempo Satin Nickel",
+                "LAU-55728",
+                "Laurey 55828 96mm Contempo Satin Nickel",
+                "LAU-55828",
+                "Laurey 54528 128mm Contempo Satin Nickel",
+                "LAU-54528"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LAU-CONTEMPO-SN-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-CONTEMPO-SN-525.jpg?v=1717106592"
+        },
+        "text": {
+            "description_html": "<a name=\"LAU-CONTEMPO-SN\"><b>Laurey Contempo Satin Nickel Cabinet Pull</b></a>\r\n</p>\r\n\r\n<p>\r\nAvailable in 3 sizes, the Satin Nickel Contempo Cabinet Pull is good for modern kitchens. The Satin Nickel finish is extremely popular in the home decor world right now. The Contempo Satin Nickel Cabinet Pull comes packaged with the mounting hardware. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Laurey Contempo Satin Nickel Cabinet Pull:\r\n<ul>\r\n<li>Material: Zinc</li>\r\n<li>Finish: Satin Nickel</li>\r\n<li>Packaged with 1\" long #8-32 screws and 1-1/2\"  long #8-32 screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 3 Sizes:</b>\r\n<ul>\r\n<b>LAU-55728:</b>\r\n<ul>\r\n<li>C/C Length: 3\"</li>\r\n<li>Overall Length: 5-1/4\"</li>\r\n<li>Width: 1/2\"</li>\r\n<li>Projection: 1\"</li>\r\n</ul>\r\n<br>\r\n<b>LAU-55828:</b>\r\n<ul>\r\n<li>C/C Length: 3-3/4\"</li>\r\n<li>Total Length: 6-1/4\"</li>\r\n<li>Width: 1/2\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n</ul>\r\n<br>\r\n<b>LAU-54528:</b>\r\n<ul>\r\n<li>C/C Length: 5\"</li>\r\n<li>Total Length: 7-3/4\"</li>\r\n<li>Width: 1/2\"</li>\r\n<li>Projection: 1-1/4\"</li>\r\n</ul>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Satin Nickel Contempo Cabinet Pull",
+                "description": "Available in 3 sizes, the Satin Nickel Contempo Cabinet Pull is good for modern kitchens. The Satin Nickel finish is extremely popular in the home decor world right now. The Contempo Satin Nickel Cabinet Pull comes packaged with the mounting hardware. \r\n",
+                "keywords": "modern cabinet pulls, Laurey Contempo Hardware, Laurey Contempo Collection, Satin Nickel Contempo Cabinet Pulls, Strategic Brands Contempo Cabinet Pulls,  \r\nLAU-CONTEMPO-SN, \r\nLaurey 55728 3\" Contempo Satin Nickel, LAU-55728, \r\nLaurey 55828 96mm Contempo Satin Nickel, LAU-55828 , \r\nLaurey 54528 128mm Contempo Satin Nickel, LAU-54528,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "10"
+                },
+                {
+                    "name": "Laurey Cabinet Pulls",
+                    "sort": "58"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1149305",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1148692",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "883011",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1029661",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1148742",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "1146587",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "1146499",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Size: LAU-55728: C/C Length: 3in.",
+                "Select Size: LAU-55828: C/C Length: 3-3/4in.",
+                "Select Size: LAU-54528: C/C Length: 5in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LAU-55728: C/C Length: 3in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LAU-55828: C/C Length: 3-3/4in.",
+                    "price_impact": 0.84,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LAU-54528: C/C Length: 5in.",
+                    "price_impact": 2.78,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

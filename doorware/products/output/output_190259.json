@@ -1,0 +1,129 @@
+{
+    "legacy_product_id": "190259",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Heavy Duty Door Saver Arm for American Eagle 5100",
+            "vendor": "PDQ",
+            "status": "ACTIVE",
+            "sku": "PDQ-999005",
+            "mpn": "PDQ-999005",
+            "price": "119.99",
+            "compare_at_price": "160.0",
+            "contractor_price": "108.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "PDQ-999005",
+                "PDQ-519005 Door Saver Arm for American Eagle 5100 door closers",
+                "American Eagle 519005 Heavy Duty Door Saver Arm for American Eagle 5100 door closers",
+                "PDQ 519005 Door saver arms",
+                "heavy duty closer Arms"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AE-519005-525.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AE-519005-525.gif?v=1716421830"
+        },
+        "text": {
+            "description_html": "<b>PDQ Heavy Duty Door Saver Arm</b>\r\n<p>\r\nFits <a href=\"/products/commercial-ada-compliant-full-cover-surface-mount-closer-american-eagle-5100\"><b>American Eagle 5100 Door Closers</b></a> and <a href=\"/products/ada-compliant-delayed-action-handicap-door-closer-american-eagle-5141-bcpa\"><b>American Eagle 5141 Delayed Action Handicap Door Closer</b></a> (for 11 mm closer pinion shaft). \r\n</p>\r\n<p><b>Parallel Arm Mount Only (door closer mounted on the push side of the door)</b>\r\n</p>\r\n<p>\r\nHeavy duty rigid arm assembly and soffit plate with field reversible dead stop. Normally used on outswing doors that are subjected to wind. The built in closer arm dead stop protects the closer, door and frame from damage when the door is swung open by the wind. \r\n</p>\r\n<p>\r\n Available in 3 painted finishes of Aluminum, Dark Bronze or Gold and 2 plated finishes, Polished Brass or Satin Chrome.\r\n</p>",
+            "seo": {
+                "title": "Heavy Duty Door Saver Arm for American Eagle 5100",
+                "description": "PDQ 999005 Door saver arm. Heavy Duty Door Saver Arm for American Eagle 5100 door closers. Parallel Arm Mount Only (door closer mounted on the push side of the door). Available in 3 painted finishes of Aluminum, Dark Bronze or Gold and 2 plated finishes, Polished Brass or Satin Chrome.",
+                "keywords": "PDQ-999005, PDQ-519005 Door Saver Arm for American Eagle 5100 door closers, American Eagle 519005 Heavy Duty Door Saver Arm for American Eagle 5100 door closers, PDQ 519005 Door saver arms, heavy duty closer Arms,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "American Eagle 5100",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "190257",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "190833",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "222892",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "222877",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "190266",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: PDQ-999005-689: Aluminum",
+                "Select Finish: PDQ-999005-695: Dark Bronze",
+                "Select Finish: PDQ-999005-696: Gold Paint",
+                "Select Finish: PDQ-999005-605: Polished Brass",
+                "Select Finish: PDQ-999005-626: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PDQ-999005-689: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-519005-689"
+                },
+                {
+                    "value": "PDQ-999005-695: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-519005-695"
+                },
+                {
+                    "value": "PDQ-999005-696: Gold Paint",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-519005-696"
+                },
+                {
+                    "value": "PDQ-999005-605: Polished Brass",
+                    "price_impact": 37.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-519005-605"
+                },
+                {
+                    "value": "PDQ-999005-626: Satin Chrome",
+                    "price_impact": 37.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-519005-626"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "legacy_product_id": "190658",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Friction Hold Open Arm Parallel Arm Bracket for American Eagle 5100, PDQ 999022",
+            "vendor": "PDQ",
+            "status": "ACTIVE",
+            "sku": "PDQ-999022",
+            "mpn": "PDQ-999022",
+            "price": "24.99",
+            "compare_at_price": "33.0",
+            "contractor_price": "22.28",
+            "shipping_weight": "0.5",
+            "tags": [
+                "PDQ-999022",
+                "PDQ-519022 Friction Hold Open Arm Parallel Brackets",
+                "PDQ American Eagle 519022",
+                "Friction Hold Open Arm Parallel Arm Bracket for American Eagle 5100 door closers",
+                "PDQ 519022 Parallel Mounting Brackets",
+                "PDQ 999022 closer bracket"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AE-519022_525.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AE-519022_525.gif?v=1711365192"
+        },
+        "text": {
+            "description_html": "<b>PDQ Parallel Arm Bracket for American Eagle 5100</b>\r\n\r\n<p>\r\nFits <a href=\"/products/commercial-ada-compliant-full-cover-surface-mount-closer-american-eagle-5100\"><b>American Eagle 5100 Door Closers</b></a> and <a href=\"/products/ada-compliant-delayed-action-handicap-door-closer-american-eagle-5141-bcpa\"><b>American Eagle 5141 Delayed Action Handicap Door Closer</b></a> (for 11 mm closer pinion shaft). \r\n</p>\r\n<p><b>For <a href=\"/products/friction-hold-open-arm-for-american-eagle-5100-pdq-999002\">Friction Hold Open Closer Arm</a> Only</b>. Not for use with the non-hold open standard closer arm.  \r\n</p>\r\n<p>\r\nAlso available:  <a href=\"https://door-hardware-inc.myshopify.com/products/standard-parallel-arm-bracket-for-american-eagle-5100-pdq-999001-190653\"><b>PDQ 999001 Standard Arm Parallel Bracket</b></a>.\r\n</p>\r\n<p>\r\nParallel arm mounting brackets are used when the door closer is installed on the Push Side of the door.\r\n</p>\r\n<p>\r\n Available in 3 painted finishes of Aluminum, Dark Bronze or Gold.\r\n</p>",
+            "seo": {
+                "title": "Friction Hold Open Arm Parallel Arm Bracket for American Eagle 5100",
+                "description": "American Eagle 999022 - Use for Parallel Arm mounting American Eagle 5100 series door closer with friction hold open arm. Available in 3 painted finishes of Aluminum, Dark Bronze or Gold and 2 plated finishes, Polished Brass or Satin Chrome.",
+                "keywords": "PDQ-999022, PDQ-519022 Friction Hold Open Arm Parallel Brackets, PDQ American Eagle 519022, Friction Hold Open Arm Parallel Arm Bracket for American Eagle 5100 door closers, PDQ 519022 Parallel Mounting Brackets, PDQ 999022 closer bracket"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "American Eagle 5100",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "190682",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "191066",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "190791",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "190255",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "239752",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "285720",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 689: Aluminum",
+                "Select Finish: 695: Dark Bronze",
+                "Select Finish: 696: Gold Paint"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "689: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-519022-689"
+                },
+                {
+                    "value": "695: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-519022-695"
+                },
+                {
+                    "value": "696: Gold Paint",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AE-519022-696"
+                }
+            ]
+        }
+    ]
+}

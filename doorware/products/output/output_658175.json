@@ -1,0 +1,146 @@
+{
+    "legacy_product_id": "658175",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "AHI Magnetic Latch, AHI TLM",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-TLM",
+            "mpn": "AHI-TLM",
+            "price": "125.0",
+            "compare_at_price": "150.0",
+            "contractor_price": "125.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "AHI TLM Magnetic Latches",
+                "AHI Magnetic Latches",
+                "AHI TLM",
+                "AHI-TLM",
+                "AHI TLM1625",
+                "AHI TLM1661",
+                "AHI TLM1725",
+                "AHI TLM1762"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AHI-TLM-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-TLM-525.jpg?v=1716425178"
+        },
+        "text": {
+            "description_html": "<b>AHI TLM, Magnetic Latch</b>\r\n\r\n<p>\r\nThe AHI TLM Magnetic Latch is available in either polished chrome or stain chrome finishes. It is available with privacy and passage functions in both 2-3/8 inch and 2-3/4 inch backsets. It comes packaged with all mounting hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> for the AHI Magnetic Latch:\r\n<ul>\r\n<li>Face Plate Length: 57.4 mm</li>\r\n<li>Latch Width: 20 mm</li>\r\n<li>Latch Overall Thickness: 19.2 mm</li>\r\n<li>Packaged with mounting hardware.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-TLM-specifications.pdf?v=1691093355\" target=\"new\"><b>AHI TLM Dimensions (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "AHI Magnetic Latch, AHI TLM",
+                "description": "AHI TLM, Magnetic Latch - The AHI TLM Magnetic Latch is available in either polished chrome or stain chrome finishes. It is available with privacy and passage functions in both 2-3/8 inch and 2-3/4 inch backsets. It comes packaged with all mounting hardware.",
+                "keywords": "AHI TLM Magnetic Latches, AHI Magnetic Latches, AHI TLM, AHI-TLM, AHI TLM1625, AHI TLM1661, AHI TLM1725, AHI TLM1762,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "AHI Miscellaneous Parts",
+                    "sort": "15"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "448488",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "260741",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "198616",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "335504",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "142823",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "142579",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Function and Backset: TLM1625 - Passage with 2-3/8in. Backset",
+                "Select Function and Backset: TLM1725 - Passage with 2-3/4in. Backset",
+                "Select Function and Backset: TLM1661 - Privacy with 2-3/8in. Backset",
+                "Select Function and Backset: TLM1761 - Privacy with 2-3/4in. Backset",
+                "Select Finish: 626 - Satin Chrome",
+                "Select Finish: 625 - Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function and Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TLM1625 - Passage with 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TLM1725 - Passage with 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TLM1661 - Privacy with 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TLM1761 - Privacy with 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "626 - Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "625 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

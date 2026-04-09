@@ -1,0 +1,196 @@
+{
+    "legacy_product_id": "156724",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Victorian Rope Door Knocker, Deltana DKR75",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-DKR75",
+            "mpn": "DEL-DKR75",
+            "price": "51.28",
+            "compare_at_price": "68.37",
+            "contractor_price": "48.71",
+            "shipping_weight": "1.0",
+            "tags": [
+                "DEL-DKR75 Victorian Door Knockers",
+                "Deltana  DKR75 Victorian Rope Door Knockers",
+                "rope design victorian styling",
+                "doorknockers",
+                "solid brass door knockers",
+                "deltana doorknocker Victorian designs",
+                "solid brass victorian Door Knockers",
+                "victorian style door hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-DKR75-victorian-door-knocker_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-DKR75-victorian-door-knocker_525.jpg?v=1716421487"
+        },
+        "text": {
+            "description_html": "<b>Deltana DKR75, Victorian Rope Door Knocker</b>\r\n\r\n<p>\r\nThe Victorian design door knocker features the distinctive rope pattern that is both classic and sophisticated. Manufactured by Deltana, the Victorian Rope Door Knocker is made solid brass. It is thru-bolt mounted with 4-7/8\" center to center mounting holes (distance between the 2 mounting screw holes). It comes packaged with mounting hardware to make installing it easy. \r\n</p>\r\n\r\n<table width=\"342\" align=\"right\">\r\n<tr>\r\n<td>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-DKR75-Specifications.gif?v=1704354645\" width=\"342\" height=\"266\" border=\"0\" alt=\"Deltana DKR75 Victorian Style Door Knocker Specifications\">\r\n</td>\r\n</tr>\r\n</table>\r\n\r\n<p>\r\n<b>\r\nSpecifications:</b> of the Deltana DKR75 Rope Design Solid Brass Door Knocker:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Total Height: 7-3/4\"</li>\r\n<li>Total Width: 3-7/8\"</li>\r\n<li>Mounting Centers: 4-7/8\" c.c. (distance between the 2 mounting screw holes)</li>\r\n<li>Mounting: Thru-Bolted (screws go thru the door)</li>\r\n<li>Includes matching finish mounting hardware.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DKR75.pdf?v=1704262208\" target=\"new\"><b>Deltana DKR75 Dimensions (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>",
+            "seo": {
+                "title": "Victorian Rope Door Knocker, Deltana DKR75",
+                "description": "Rope Design Solid Brass Door Knocker Deltana DKR75 -The Victorian design door knocker features the distinctive rope pattern that is both classic and sophisticated. Manufactured by Deltana, the Victorian Rope Door Knocker is made solid brass. It is thru-bolt mounted with 4-7/8 inch center to center mounting holes (distance between the 2 mounting screw holes). It comes packaged with mounting hardware to make installing it easy. Available in 9 great finishes. ",
+                "keywords": "DEL-DKR75 Victorian Door Knockers,   Deltana  DKR75 Victorian Rope Door Knockers, rope design victorian styling, doorknockers, solid brass door knockers, deltana doorknocker Victorian designs, solid brass victorian Door Knockers, victorian style door hardware,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knockers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knockers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-6",
+            "collections": [
+                {
+                    "name": "Deltana Door Accessories",
+                    "sort": "3"
+                },
+                {
+                    "name": "Door Knockers",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "156727",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "172863",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "845792",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "143885",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "159529",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "845780",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "421577",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "143849",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "172881",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "76682",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "207527",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: U5: Antique Brass",
+                "Select Finish: U10B: Oil Rubbed Bronze",
+                "Select Finish: U15: Satin Nickel",
+                "Select Finish: U15A: Antique Nickel",
+                "Select Finish: U19: Matte Black",
+                "Select Finish: U26: Polished Chrome",
+                "Select Finish: U26D: Brushed Chrome",
+                "Select Finish: U3: Polished Brass",
+                "Select Finish: CR003: PVD Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DEL-DKR75U5"
+                },
+                {
+                    "value": "U10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DEL-DKR75U10B"
+                },
+                {
+                    "value": "U15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DEL-DKR75U15"
+                },
+                {
+                    "value": "U15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DEL-DKR75U15A"
+                },
+                {
+                    "value": "U19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DEL-DKR75U19"
+                },
+                {
+                    "value": "U26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DEL-DKR75U26"
+                },
+                {
+                    "value": "U26D: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DEL-DKR75U26D"
+                },
+                {
+                    "value": "U3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DEL-DKR75U3"
+                },
+                {
+                    "value": "CR003: PVD Polished Brass",
+                    "price_impact": 2.85,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DEL-DKR75CR003"
+                }
+            ]
+        }
+    ]
+}

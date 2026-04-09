@@ -1,0 +1,91 @@
+{
+    "legacy_product_id": "1176189",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Stonebriar Single Cylinder Handleset Exterior, Weslock 7631",
+            "vendor": "Weslock",
+            "status": "ARCHIVED",
+            "sku": "WES-7631",
+            "mpn": "WES-7631",
+            "price": "279.65",
+            "compare_at_price": "317.0",
+            "contractor_price": "279.65",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Stonebriar Single Cylinder Handleset Exterior",
+                "Weslock 7631",
+                "WES-7631"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/WES-7631-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/WES-7631-525.jpg?v=1716428779"
+        },
+        "text": {
+            "description_html": "<b>Weslock 7631,  Exterior Only Single Cylinder Stonebriar Handleset</b>\r\n\r\n<p>\r\nStonebriar Single Cylinder Handleset Exterior Only.\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of the Weslock Stonebriar Single Cylinder Exterior:\r\n<ul>\r\n<li>Length: 18-1/2\"</li>\r\n<li>Width: 2-3/4\"</li>\r\n<li>Projection: 2-3/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Stonebriar Single Cylinder Handleset Exterior",
+                "description": "Stonebriar Single Cylinder Handleset Exterior Only.",
+                "keywords": "Stonebriar Single Cylinder Handleset Exterior, Weslock 7631, WES-7631"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Westlock Parts and Accessories",
+                    "sort": "16"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "11850",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "11852",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "11848",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 1: Oil Rubbed Bronze",
+                "Select Finish: 2: Matte Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "WES-76321"
+                },
+                {
+                    "value": "2: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

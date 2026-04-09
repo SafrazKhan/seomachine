@@ -1,0 +1,120 @@
+{
+    "legacy_product_id": "1144899",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Cabinet Invisible Latch, Ives CL11",
+            "vendor": "Ives",
+            "status": "ARCHIVED",
+            "sku": "IVES-CL11",
+            "mpn": "IVES-CL11",
+            "price": "46.3",
+            "compare_at_price": "46.3",
+            "contractor_price": "46.3",
+            "shipping_weight": "1.5",
+            "tags": [
+                "IVES-CL11-US26D Invisible Latch",
+                "Ives CL11 Invisible Door Latch",
+                "hidden doors",
+                "hide away door latches",
+                "door catches",
+                "Ives CL11 US26S brushed chrome hidden latch"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/IVES-CL11-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/IVES-CL11-525.jpg?v=1716428453"
+        },
+        "text": {
+            "description_html": "<b> Ives CL11, Invisible Door Latch for Cabinet</b>\r\n\r\n<p>\r\nThe Ives CL11 invisible latch is ideal for installations where no visible door latch is desired. Unit can be installed at the top, bottom or side of the door.  It can be mortised into the stop or surface mounted to the stop.  Recommended for use on small panels, lightweight doors, or cabinetes. \r\n</p>\r\n\r\n<p>\r\nOperation is simple, latching is accomplished by a slight push. To unlatch the door, a harder push releases the door and pushes the door outwards with 13 lbs of pressure. Brass and plastic construction, satin chrome finish. Packaged with installation hardware. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Ives CL11 Invisible Door Latch:\r\n<ul>\r\n<li>Latch Body Width: 1-1/4\"</li>\r\n<li>Latch Body Height: 1-7/8\"</li>\r\n<li>Latch Body Thickness:  7/16\"</li>\r\n<li>Strike Width: 9/16\"</li>\r\n<li>Strike Height:  1-5/16\"</li>\r\n<li>Strike Projection:  9/16\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Cabinet Invisible Latch, Ives CL11",
+                "description": "The Ives CL11 invisible latch is ideal for installations where no visible door latch is desired. Unit can be installed at the top, bottom or side of the door.  It can be mortised into the stop or surface mounted to the stop.  Recommended for use on small panels, lightweight doors, or cabinetes.",
+                "keywords": "IVES-CL11-US26D Invisible Latch, Ives CL11 Invisible Door Latch, hidden doors, hide away door latches, door catches, Ives CL11 US26S brushed chrome hidden latch,"
+            },
+            "specifications": [
+                {
+                    "key": "Latch Body Width",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Latch Body Height",
+                    "value": "1-7/8\""
+                },
+                {
+                    "key": "Latch Body Thickness",
+                    "value": "7/16\""
+                },
+                {
+                    "key": "Strike Width",
+                    "value": "9/16\""
+                },
+                {
+                    "key": "Strike Height",
+                    "value": "1-5/16\""
+                },
+                {
+                    "key": "Strike Projection",
+                    "value": "9/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Ives",
+                    "sort": "19"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "852033",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "777051",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "308181",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "485838",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Latch Body Width: 1-1/4\"",
+                "Latch Body Height: 1-7/8\"",
+                "Latch Body Thickness: 7/16\"",
+                "Strike Width: 9/16\"",
+                "Strike Height: 1-5/16\"",
+                "Strike Projection: 9/16\"",
+                "Select Finish: US26D: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

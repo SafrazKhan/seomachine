@@ -1,0 +1,101 @@
+{
+    "legacy_product_id": "1081857",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Interchangeable Core Mortise Cylinder Housing for Best Cylinder, PDQ I5317",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PDQ-I5317",
+            "mpn": "PDQ-I5317",
+            "price": "85.0",
+            "compare_at_price": "85.0",
+            "contractor_price": "85.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Interchangeable Core Mortise Cylinder Housing for Best Cylinder",
+                "PDQ I5317 Small Format Interchangeable Core",
+                "PDQ-I5317"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDQ-I5317-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PDQ-I5317-525.jpg?v=1716428112"
+        },
+        "text": {
+            "description_html": "<b>PDQ I5317, Interchangeable Core Mortise Cylinder Housing for Best Cylinder</b>\r\n\r\n<p>\r\nThis is a 1-1/2 Inch Mortise Interchangeable Core Cylinder Housing for small format Best 6 or 7 pin pin cores.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the For Small Format Interchangeable Core:\r\n<ul>\r\n<li>For Small Format Interchangeable Core</li>\r\n<li>For use with 6 or 7 pin cylinders</li>\r\n<li>Best Compatible</li>\r\n<li>Length: 1-1/2\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nCylinder Housing only, cylinder not included.\r\n</p>",
+            "seo": {
+                "title": "Interchangeable Core Mortise Cylinder Housing for Best Cylinder,",
+                "description": "This is a 1-1/2 Inch Mortise Interchangeable Core Cylinder Housing for small format Best 6 or 7 pin pin cores..",
+                "keywords": "Interchangeable Core Mortise Cylinder Housing for Best Cylinder, PDQ I5317 Small Format Interchangeable Core, PDQ-I5317"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Misc Hardware",
+                    "sort": "22"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "193213",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "460103",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "532868",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "353453",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US26D: Satin Chrome",
+                "Select Cam: Adams Rite"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Cam",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Adams Rite",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "legacy_product_id": "41759",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Fancy Cabinet Drop Pull, Omnia 9447/100",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9447/100",
+            "mpn": "OMN-9447/100",
+            "price": "14.0",
+            "compare_at_price": "17.5",
+            "contractor_price": "13.3",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9447/100 fancy cabinet ring pulls",
+                "solid brass ornate pulls",
+                "rustic cabinet drop pulls",
+                "omnia decorative series cabinet hardware",
+                "fancy brass cabinet hardware",
+                "omnia ornate solid brass cabinet pulls",
+                "omn-9447/100"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/omn-9447-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/omn-9447-525.jpg?v=1716420809"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9447/100 Fancy Solid Brass Cabinet Ring Pull</b>\r\n\r\n<p>\r\nThis Decorative Series Cabinet Pull brings to mind images of the days of unabashed ornate decorating.  This pull invokes this centuries old  styling with a stunning ring pull that is both expensive looking and lovely. It is a great choice for those looking for an inexpensive way to enhance the old world richness of their home.\r\n</p>\r\n\r\n<p>\r\nAlso available: Similar design <a href=\"/site/department.cfm?id=41701\"><b>Omnia Ornate Cabinet Pulls</b></a>. \r\n</p>\r\n\r\n<p>\r\nOmnia's line of sophisticated cabinet hardware have been painstakingly crafted by artisans who understand that a beautiful design must be as comfortable to the hand as it is pleasing to the eyes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Decorative Series Omnia 9447 Cabinet Pull:\r\n<ul>\r\n<li>Solid brass construction regardless of finish.</li>\r\n<li>Backplate Width: 1-3/8\"\r\n<li>Backplate Height: 4\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>\r\n*Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "Fancy Cabinet Drop Pull, Omnia 9447/100",
+                "description": "Omnia 9447/100 Fancy Cabinet Pull - Available in 5 finishes, this Decorative Series Cabinet Pull brings to mind images of the days of unabashed ornate decorating.  This pull invokes this centuries old  styling with a stunning ring pull that is both expensive looking and lovely. It is a great choice for those looking for an inexpensive way to enhance the old world richness of their home.",
+                "keywords": "omnia 9447/100 fancy cabinet ring pulls, solid brass ornate pulls, rustic cabinet drop pulls, omnia decorative series cabinet hardware, fancy brass cabinet hardware, omnia ornate solid brass cabinet pulls, omn-9447/100,"
+            },
+            "specifications": [
+                {
+                    "key": "Backplate Width",
+                    "value": "1-3/8\""
+                },
+                {
+                    "key": "Backplate Height",
+                    "value": "4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "147"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "41438",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "41711",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "37548",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "250872",
+                    "sort": "12"
+                },
+                {
+                    "legacy_product_id": "225835",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "237301",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "244058",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "237259",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "43096",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "41768",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "41380",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "176138",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Backplate Width: 1-3/8\"",
+                "Backplate Height: 4\"",
+                "Select Finish: US3 - Polished Brass",
+                "Select Finish: SB - Shaded Bronze",
+                "Select Finish: VB - Vintage Brass",
+                "Select Finish: VC - Vintage Copper",
+                "Select Finish: VI - Vintage Iron"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9447/100"
+                },
+                {
+                    "value": "SB - Shaded Bronze",
+                    "price_impact": 0.64,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9447/100"
+                },
+                {
+                    "value": "VB - Vintage Brass",
+                    "price_impact": 3.52,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9447/100"
+                },
+                {
+                    "value": "VC - Vintage Copper",
+                    "price_impact": 3.52,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9447/100"
+                },
+                {
+                    "value": "VI - Vintage Iron",
+                    "price_impact": 3.52,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9447/100"
+                }
+            ]
+        }
+    ]
+}

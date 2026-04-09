@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "1044457",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "2-3/8 Spring Latch for Schlage A Series, Schlage 11-068",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-11-068",
+            "mpn": "SCH-11-068",
+            "price": "71.0",
+            "compare_at_price": "71.0",
+            "contractor_price": "71.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Schlage 11-068",
+                "Spring Latch for A Series 2-3/8 Backsets",
+                "2-3/8 Spring Latch for Schlage A Series",
+                "Schlage 11 068",
+                "SCH-11-068",
+                "Schlage A Series Spring Latches",
+                "replacement Schlage latches",
+                "Schlage 11-068 Spring latch Square corner 2-3/8 Backsetsm"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SCH-11-068-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SCH-11-068-525.jpg?v=1716427874"
+        },
+        "text": {
+            "description_html": "<b>Schlage 11-068, A Series Spring Latch Square Corner 2-3/8\" Backset</b>\r\n\r\n<p>\r\nThe Schlage A Series Spring comes with a 2-3/8 inch backset. The latch faceplate is 1 inches wide and 2-1/4 inches tall. For use with Schlage's Commercial A Series levers and knobs</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Replacement latch for Schlage's Commercial ND Series:\r\n<ul>\r\n<li>Faceplate: 1” x 2-1/4” square corner</li>\r\n<li>Backset: 2-3/8” </li>\r\n<li>Diameter: 7/8</li> \r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "2-3/8 Spring Latch for Schlage A Series",
+                "description": "The Schlage A Series Spring comes with a 2-3/8 inch backset. The latch faceplate is 1 inches wide and 2-1/4 inches tall. For use with Schlage's Commercial A Series levers and knobs</a>.",
+                "keywords": "Schlage 11-068, Spring Latch for A Series 2-3/8 Backsets, 2-3/8 Spring Latch for Schlage A Series, Schlage 11 068, SCH-11-068, Schlage A Series Spring Latches, replacement Schlage latches, Schlage 11-068 Spring latch Square corner 2-3/8 Backsetsm"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "101"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "19723",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "950154",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "260609",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "260741",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "19699",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "331945",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 626: Satin Chrome",
+                "Select Finish: 613: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "613: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

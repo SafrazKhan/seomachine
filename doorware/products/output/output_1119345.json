@@ -1,0 +1,106 @@
+{
+    "legacy_product_id": "1119345",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Finger Cabinet Pull, RK International CK-794",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-794",
+            "mpn": "RKI-CK-794",
+            "price": "8.16",
+            "compare_at_price": "10.2",
+            "contractor_price": "7.75",
+            "shipping_weight": "0.5",
+            "tags": [
+                "modern cabinet hardware",
+                "contemporary cabinet hardware",
+                "Finger Cabinet Pulls",
+                "Hook Front Knobs",
+                "RKI-CK-794",
+                "RK International CK-794",
+                "RK International CK 794"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-CK-794-525 .jpg",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>RK International CK-794, Hook Front Knob</b>\r\n\r\n<p>\r\nThe modern Finger Cabinet Pull is for use on kitchen cabinets. It is easy to install and comes packaged with the mounting hardware. The Hook Front Knob is available in satin nickel or polished chrome finishes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Finger Cabinet Pull:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n<li>Length: 55mm\"</li>\r\n<li>Width: 20mm</li>\r\n<li>Projection: 28mm</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Finger Cabinet Pull",
+                "description": "The modern Finger Cabinet Pull is for use on kitchen cabinets. It is easy to install and comes packaged with the mounting hardware. The Hook Front Knob is available in satin nickel or polished chrome finishes.",
+                "keywords": "modern cabinet hardware, contemporary cabinet hardware, Finger Cabinet Pulls, Hook Front Knobs, RKI-CK-794, RK International CK-794, RK International CK 794,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Pulls and Flush Pulls",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1038343",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1038878",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "852516",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "255998",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "378801",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "1038203",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: PC: Polished Chrome",
+                "Select Finish: P: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish ",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PC: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

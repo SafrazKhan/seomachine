@@ -1,0 +1,132 @@
+{
+    "legacy_product_id": "347282",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Door Knob Drive-in Springlatch for Weslock",
+            "vendor": "Weslock",
+            "status": "ARCHIVED",
+            "sku": "WES-12725",
+            "mpn": "WES-12725",
+            "price": "9.1",
+            "compare_at_price": "9.1",
+            "contractor_price": "9.1",
+            "shipping_weight": "0.5",
+            "tags": [
+                "WES-12725 Weslock Door Knob Latches",
+                "Privacy latches",
+                "Passage  Door Latches for Weslock Molton Bronze Series",
+                "Elegance Series",
+                "Weslock Traditional Collection door latches",
+                "Weslock Springlatch",
+                "tube latch",
+                "tubular latch",
+                "tube latches",
+                "tubular latches",
+                "tubular latches",
+                "Weslock Door Knob Latches",
+                "Weslock Traditional Collection door latches",
+                "Weslock 600 series latches",
+                "Weslock Drive-in Springlatch",
+                "Weslock Drive-in latches",
+                "Weslock Drive-in door latches"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/weslock-12725_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/weslock-12725_525.jpg?v=1716423260"
+        },
+        "text": {
+            "description_html": "<b>Drive-in Springlatch Assembly for Weslock Door Knobs</b>\r\n<p>\r\nFor Privacy and Passage function Weslock <b>Door Knobs</b>. \r\n<ul>\r\n<li>Privacy (Bedroom or Bathroom): For doors that could need locking such as a bathroom door.</li>\r\n<li>Passage (Hall or Closet): For doors that don't need locking. Latches but does not lock.</li>\r\n</ul>\r\n</p>\r\n<p>\r\nAlso available: <a href=\"/products/door-knob-drive-in-deadlatch-for-weslock\">Weslock Drive-in Deadlatch</a> for Keyed Entry Door Knob (door knobs with lock cylinder inside).\r\n</p>\r\n<p>\r\nWeslock 600 series. For use with <a href=\"/collections/weslock-molten-bronze-collection\">Weslock Molton Bronze Collection</a>, <a href=\"/collections/weslock-elegance-collection\">Weslock Elegance Collection</a> and <a href=\"/collections/weslock-traditionale-collection\">Weslock Traditionale Collection</a>, <b>Door Knobs</b> (not door levers) and <b>Entry Handles with Door Knobs</b>. \r\n</p>\r\n<p>\r\n<b>*Note: </b>If you have a Weslock Door Lever use, <a href=\"/products/door-lever-drive-in-springlatch-for-weslock\">Weslock Door Lever Drive-in Latch</a>.\r\n</p>\r\n<p>\r\nAdjustable  for both 2-3/8\" and 2-3/4\" backsets. <br>\r\nDrive-in type latch (*Does NOT use a faceplate).\r\n</p>",
+            "seo": {
+                "title": "Door Knob Drive-in Springlatch for Weslock",
+                "description": "Privacy and Passage Function drive-in type door latch for Weslock door knob sets- Fit Weslock Molton Bronze Series, Elegance Series and Traditional Collection.",
+                "keywords": "WES-12725 Weslock Door Knob Latches,  Privacy latches, Passage  Door Latches for Weslock Molton Bronze Series, Elegance Series, Weslock Traditional Collection door latches, Weslock Springlatch, tube latch, tubular latch, tube latches, tubular latches, tubular latches, Weslock Door Knob Latches, Weslock Traditional Collection door latches,  Weslock 600 series latches, Weslock Drive-in Springlatch, Weslock Drive-in latches, Weslock Drive-in door latches,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Westlock Parts and Accessories",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "347250",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "337810",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "12644",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "12305",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "12308",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "292653",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "158187",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "283615",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 12725X1: Oil Rubbed Bronze",
+                "Select Finish: 12725X4: Brushed Brass",
+                "Select Finish: 12725XD: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "12725X1: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "12725X4: Brushed Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "12725XD: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

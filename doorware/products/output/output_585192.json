@@ -1,0 +1,133 @@
+{
+    "legacy_product_id": "585192",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Arts and Crafts Pull Plate, Brass Accents A05-P5351",
+            "vendor": "BrassAccents",
+            "status": "ACTIVE",
+            "sku": "BRA-A05-P5351",
+            "mpn": "BRA-A05-P5351",
+            "price": "115.99",
+            "compare_at_price": "144.0",
+            "contractor_price": "109.44",
+            "shipping_weight": "4.0",
+            "tags": [
+                "BRA-A05-P5351",
+                "Arts and Crafts Pull Plates",
+                "Brass Accents A05-P5351",
+                "Solid Brass Arts and Crafts Pulls",
+                "traditional door pulls",
+                "southwest door pulls",
+                "southwestern door plates",
+                "11-1/4 inch Arts and Crafts Door Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BRA-A05-P5351-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BRA-A05-P5351-525.jpg?v=1716424781"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents A05-P5351, 11-1/4\" Arts and Crafts Door Pull</b>\r\n\r\n<p>\r\nWith the textured plate and square cut-outs, the Arts and Crafts Pull Plate has a rustic look. It is available in a wide array of finishes including the ever popular polished brass, satin nickel, and venetian bronze. The indents on the backplate helps to bring out the highlights of each of the available finishes. This door pull with plate measures 11-1/4 inches high and 2-7/8 inches wide, making it an impressive statement on any door. \r\n</p>\r\n\r\n<p>\r\nAlso Available: <b><a href=\"/products/arts-and-crafts-push-plate-brass-accents-a05-p5350\">Arts and Crafts Push Plate</a></b>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Arts and Crafts Decorative Pull Plate\r\n<ul>\r\n<li>Plate Width: 2-7/8\"</li>\r\n<li>Plate Height: 11-1/4\"</li>\r\n<li>Pull Length: 6-1/4\"</li>\r\n<li>Pull Handle Projection: 2-1/4\"</li>\r\n<li>Material: Cast Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nComes complete with matching finish mounting screws for easy installation.\r\n</p>\r\n<BR><BR>\r\n<p><b>***THIS ITEM IS DISCONTINUED, VERY LIMITED QUANTITIES AVAILABLE***</b></p>",
+            "seo": {
+                "title": "Arts and Crafts Pull Plate, Brass Accents A05-P5351",
+                "description": "Brass Accents A05-P5351, Arts and Crafts Pull Plate -- With the textured plate and square cut-outs, the Arts and Crafts Pull Plate has a rustic look. It is available in a wide array of finishes including the ever popular polished brass, satin nickel, and venetian bronze. The indents on the backplate helps to bring out the highlights of each of the available finishes. This door pull with plate measures 11-1/4 inches high and 2-7/8 inches wide, making it an impressive statement on any door.",
+                "keywords": "BRA-A05-P5351, Arts and Crafts Pull Plates, Brass Accents A05-P5351, Solid Brass Arts and Crafts Pulls, traditional door pulls, southwest door pulls, southwestern door plates, 11-1/4 inch Arts and Crafts Door Pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Width",
+                    "value": "2-7/8\""
+                },
+                {
+                    "key": "Plate Height",
+                    "value": "11-1/4\""
+                },
+                {
+                    "key": "Pull Length",
+                    "value": "6-1/4\""
+                },
+                {
+                    "key": "Pull Handle Projection",
+                    "value": "2-1/4\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Cast Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Decorative Door Pull and Push Plates",
+                    "sort": "10"
+                },
+                {
+                    "name": "Pull & Push Plates",
+                    "sort": "16"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "332514",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "141956",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "566851",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "239293",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "12103",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "562087",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "6581",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Plate Width: 2-7/8\"",
+                "Plate Height: 11-1/4\"",
+                "Pull Length: 6-1/4\"",
+                "Pull Handle Projection: 2-1/4\"",
+                "Material: Cast Brass",
+                "Select Finish: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

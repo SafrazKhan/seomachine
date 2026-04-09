@@ -1,0 +1,45 @@
+{
+    "legacy_product_id": "582512",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "UPS Redirect Fee",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "UPS Redirect Fee",
+            "mpn": "UPS Redirect Fee",
+            "price": "20.0",
+            "compare_at_price": "20.0",
+            "contractor_price": "20.0",
+            "shipping_weight": "0.0",
+            "tags": [
+                "UPS Redirect Fee"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/special_order-52524.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/special_order-52524.jpg?v=1717789904"
+        },
+        "text": {
+            "description_html": "<b>UPS Redirect Fee</b>",
+            "seo": {
+                "title": "UPS Redirect Fee",
+                "description": "UPS Redirect Fee",
+                "keywords": "UPS Redirect Fee"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

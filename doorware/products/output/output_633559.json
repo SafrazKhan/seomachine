@@ -1,0 +1,155 @@
+{
+    "legacy_product_id": "633559",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "St. Charles Towel Bar, Fusion TB-E5",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-TB-E5",
+            "mpn": "FUS-TB-E5",
+            "price": "129.0",
+            "compare_at_price": "129.0",
+            "contractor_price": "96.75",
+            "shipping_weight": "7.0",
+            "tags": [
+                "Traditional bathroom hardware",
+                "Traditional bathroom towel bars",
+                "hand towel bars",
+                "bathroom towel hooks",
+                "bath towel bars",
+                "Fusion TB-1-E5 18 inch towel bar",
+                "Fusion TB-2-E5 24 inch towel bar",
+                "Fusion TB-3-E5 30 inch towel bar",
+                "Saint Charles Trim Towel Bars",
+                "St. Charles Towel Bars",
+                "Fusion TB-E5",
+                "fleur-de-lis home decor",
+                "St. Charles Rose Towel Bars"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-TB-E5-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-TB-E5-525.jpg?v=1711365521"
+        },
+        "text": {
+            "description_html": "<b>Fusion TB-E5, St. Charles Rose Towel Bar</b>\r\n\r\n<p>\r\nThe St. Charles Towel Bar features the fleur-de-lis along the outer edge, making it a must have for those who want to add a royal elegance to their home. This bathroom towel bar is available in 3 sizes: 18 inch, 24 inch, and 30 inches. Choose from either medium bronze and oil rubbed bronze finishes. \r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/st-charles-hand-towel-ring-fusion-tr-e5\"><b>Fusion TR-E5 St. Charles Towel Ring</b></a>, \r\n<a href=\"/products/st-charles-toilet-tissue-holder-fusion-ph-e5\"><b>Fusion PH-E5 St. Charles Toilet Paper Holder</b></a>, and\r\n<a href=\"/products/st-charles-robe-hook-fusion-rh-e5\"><b>Fusion RH-E5 St. Charles Robe Hook</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 sizes:</b>\r\n<ul>\r\n<b>TB-1-E5</b>\r\n<ul>\r\n<li>Length: 18\"</li>\r\n<li>Mount Diameter: 2-5/8\"</li>\r\n</ul>\r\n\r\n<br>\r\n\r\n<b>TB-2-E5</b>\r\n<ul>\r\n<li>Length: 24\"</li>\r\n<li>Mount Diameter: 2-5/8\"</li>\r\n</ul>\r\n\r\n<br>\r\n\r\n<b>TB-3-E5</b>\r\n<ul>\r\n<li>Length: 30\"</li>\r\n<li>Mount Diameter: 2-5/8\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "St. Charles Towel Bar, Fusion TB-E5",
+                "description": "Fusion TB-E5, St. Charles Towel Bar - The St. Charles Towel Bar features the fleur-de-lis along the outer edge, making it a must have for those who want to add a royal elegance to their home. This bathroom towel bar is available in 3 sizes: 18 inch, 24 inch, and 30 inches. Choose from either medium bronze and oil rubbed bronze finishes.",
+                "keywords": "Traditional bathroom hardware, Traditional bathroom towel bars, hand towel bars, bathroom towel hooks, bath towel bars, Fusion TB-1-E5 18 inch towel bar, Fusion TB-2-E5 24 inch towel bar, Fusion TB-3-E5 30 inch towel bar, Saint Charles Trim Towel Bars, St. Charles Towel Bars, Fusion TB-E5, fleur-de-lis home decor, St. Charles Rose Towel Bars,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "11"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "384446",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "382866",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "209101",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "380602",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "382949",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "216588",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "383122",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "32770",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "384874",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MDB - Medium Bronze",
+                "Select Finish: ORB - Oil Rubbed Bronze",
+                "Select Size: TB-1-E5 - 18in. Towel Bar",
+                "Select Size: TB-2-E5 - 24in. Towel Bar",
+                "Select Size: TB-3-E5 - 30in. Towel Bar"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MDB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TB-1-E5 - 18in. Towel Bar",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB-2-E5 - 24in. Towel Bar",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB-3-E5 - 30in. Towel Bar",
+                    "price_impact": 10.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

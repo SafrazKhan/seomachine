@@ -1,0 +1,186 @@
+{
+    "legacy_product_id": "621719",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Brooklyn Square Cabinet Pull, Field Enterprise SCP",
+            "vendor": "Field Enterprise",
+            "status": "ACTIVE",
+            "sku": "FEI-SCP",
+            "mpn": "FEI-SCP",
+            "price": "21.84",
+            "compare_at_price": "28.0",
+            "contractor_price": "20.75",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Square Brooklyn Pulls",
+                "Brooklyn Square Cabinet Pulls",
+                "Field Enterprise SCP",
+                "FEI-SCP-350",
+                "FEI-SCP-400",
+                "FEI-SCP-600",
+                "Field Enterprise SCP 400 4 inch pulls",
+                "Field Enterprise SCP 350 3-1/2 inch pulls",
+                "Field Enterprise SCP 600 6 inch pulls",
+                "modern square pulls",
+                "square cabinet pulls",
+                "dresser pulls",
+                "dresser drawer pulls",
+                "furniture pulls",
+                "Modern Brooklyn Pulls",
+                "Square Brooklyn Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FEI-SCP-350-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FEI-SCP-350-525.jpg?v=1716424991"
+        },
+        "text": {
+            "description_html": "<b>Field Enterprise SCP, Modern Brooklyn Pull</b>\r\n\r\n<p>\r\nOver the years we have seen the popularity of square designs grow in home decor and we don't think that it only has to do with minimal design. With its clean lines, a square pull can take on so much personality. Choose an oil rubbed bronze finish for a show-stopping, bold statement; or pair with a polished brass finish for a modern pull with a vintage feel. We love the Brooklyn Square Cabinet Pull because it has its finger on the pulse of modern design: sharp, bold, and always beautiful. Available in 3 sizes: 3-1/2 inch, 4 inch, and 6 inch.\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Features and Specifications</b> for the Square Brooklyn Pull:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Includes all mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 3 Sizes:</b>\r\n<ul>\r\n<b>SCP-350:</b>\r\n<ul>\r\n<li>Length c.c. (center to center): 3-1/2\"</li>\r\n</ul>\r\n\r\n<br>\r\n\r\n<b>SCP-400:</b>\r\n<ul>\r\n<li>Length c.c. (center to center): 4\"</li>\r\n</ul>\r\n\r\n<br>\r\n\r\n<b>SCP-600:</b>\r\n<ul>\r\n<li>Length c.c. (center to center): 6\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Brooklyn Square Cabinet Pull, Field Enterprise SCP",
+                "description": "Field Enterprise SCP, Brooklyn Square Cabinet Pull - Over the years we have seen the popularity of square designs grow in home decor and we don't think that it only has to do with minimal design. With its clean lines, a square pull can take on so much personality. Choose an oil rubbed bronze finish for a show-stopping, bold statement; or pair with a polished brass finish for a modern pull with a vintage feel. We love the Brooklyn Square Cabinet Pull because it has its finger on the pulse of modern design: sharp, bold, and always beautiful. Available in 3 sizes: 3-1/2 inch, 4 inch, and 6 inch.",
+                "keywords": "Square Brooklyn Pulls, Brooklyn Square Cabinet Pulls, Field Enterprise SCP, FEI-SCP-350, FEI-SCP-400, FEI-SCP-600, Field Enterprise SCP 400 4 inch pulls, Field Enterprise SCP 350 3-1/2 inch pulls, Field Enterprise SCP 600 6 inch pulls, modern square pulls, square cabinet pulls, dresser pulls, dresser drawer pulls, furniture pulls, Modern Brooklyn Pulls, Square Brooklyn Cabinet Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Field Enterprises Cabinet Hardware",
+                    "sort": "4"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "823033",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "861533",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "823183",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "258237",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "823193",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "235000",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "861523",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "579525",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "325356",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US3: Polished Brass",
+                "Select Size: SCP-350: 3-1/2in. center to center",
+                "Select Size: SCP-400: 4in. center to center",
+                "Select Size: SCP-600: 6in. center to center"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SCP-350: 3-1/2in. center to center",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCP-400: 4in. center to center",
+                    "price_impact": 7.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCP-600: 6in. center to center",
+                    "price_impact": 15.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "legacy_product_id": "566755",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Split Rope Bail Pull, RK International CP-3708",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CP-3708",
+            "mpn": "RKI-CP-3708",
+            "price": "21.99",
+            "compare_at_price": "26.95",
+            "contractor_price": "21.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Rope Bail Cabinet Pulls",
+                "Split Rope Bail Pulls",
+                "RK International CP-3708",
+                "RKI-CP-3708",
+                "traditional cabinet hardware",
+                "traditional bail pulls",
+                "rope pulls",
+                "rope designs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CP-3708-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CP-3708-525.jpg?v=1716424600"
+        },
+        "text": {
+            "description_html": "<b>RK International CP-3708,  3\" Split Rope Bail Pull</b>\r\n\r\n<p>\r\nThe Split Rope Bail Pull has an interesting design that picks up the highlights of the 5 available finishes. Perfect for use in the kitchen as well as in the bathroom or even on media stand doors, this cabinet door pull comes packaged with the necessary mounting hardware. It has a 3 inch center to center and a 3-3/4 inch overall length. Made by RK International, this bail pull with the rope design is a true classic with the beauty of tried and true designs to back it up.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CP-3708 Traditional Split Rope Bail Pull:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 3-15/16\"</li>\r\n<li>Width: 1/2\"</li>\r\n<li>Projection: 5/8\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MUL-T-LOCK-G55G1_size.gif?v=1704354738\" width=\"600\" height=\"146\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Split Rope Bail Pull",
+                "description": "RK International CP-3708, Split Rope Bail Pull - The Split Rope Bail Pull has an interesting design that picks up the highlights of the 5 available finishes. Perfect for use in the kitchen as well as in the bathroom or even on media stand doors, this cabinet door pull comes packaged with the necessary mounting hardware. It has a 3 inch center to center and a 3-3/4 inch overall length. Made by RK International, this bail pull with the rope design is a true classic with the beauty of tried and true designs to back it up.",
+                "keywords": "Rope Bail Cabinet Pulls, Split Rope Bail Pulls, RK International CP-3708, RKI-CP-3708, traditional cabinet hardware, traditional bail pulls, rope pulls, rope designs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Pulls and Flush Pulls",
+                    "sort": "4"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "558614",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "566268",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "235337",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "13290",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "562491",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "12646",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "37956",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: AE: Antique English",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

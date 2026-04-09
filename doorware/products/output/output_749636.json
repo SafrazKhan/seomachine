@@ -1,0 +1,108 @@
+{
+    "legacy_product_id": "749636",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "SOSS Hinge Router Guide Templates",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "SOSS-212-IT",
+            "mpn": "SOSS-212-IT",
+            "price": "37.96",
+            "compare_at_price": "37.96",
+            "contractor_price": "37.96",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Invisible Hinge Router Guide Templates",
+                "SOSS Hinge Router Guide Templates",
+                "Compatible Router Template for 216 hinges",
+                "Compatible Router Template for 212 hinges",
+                "SOSS-RGT212"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SOSS-212US26D-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SOSS-212US26D-525.jpg?v=1717106240"
+        },
+        "text": {
+            "description_html": "<b>Invisible Hinge Router Guide Template</b>\r\n\r\n<p>\r\nThe SOSS Hinge Router Guide Templates allows for quicker and easier installation of SOSS Invisible Hinges. For use with an 1/2\" router bit. \r\n</p>\r\n<p>\r\nFor use with SOSS RGB100 template guide and lock nut, or the Porter-Cable template guide #42024 and #42237 (Lock Nut).\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "SOSS Hinge Router Guide Templates",
+                "description": "SOSS Hinge Router Guide Templates - The SOSS Hinge Router Guide Templates allows for quicker and easier installation of SOSS Invisible Hinges. For use with an 1/2 inch router bit.",
+                "keywords": "Invisible Hinge Router Guide Templates, SOSS Hinge Router Guide Templates, Compatible Router Template for 216 hinges, Compatible Router Template for 212 hinges, SOSS-RGT212,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "SOSS",
+                    "sort": "40"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "309542",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "549591",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "549474",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "308181",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "485838",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Choose Compatible Router Template: 216-IT: Router Template for 216 Hinges",
+                "Choose Compatible Router Template: 212-IT: Router Template for 212 Hinges",
+                "Choose Compatible Router Template: 218-IT: Router Template for 218 Hinges"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Choose Compatible Router Template",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "216-IT: Router Template for 216 Hinges",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "212-IT: Router Template for 212 Hinges",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "218-IT: Router Template for 218 Hinges",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

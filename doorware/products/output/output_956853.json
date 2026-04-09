@@ -1,0 +1,101 @@
+{
+    "legacy_product_id": "956853",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Cylinder Operated Flushbolt, Adams Rite 1870",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "ADA-1870-30",
+            "mpn": "ADA-1870-30",
+            "price": "140.0",
+            "compare_at_price": "149.0",
+            "contractor_price": "140.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "1870 Cylinder-Operated Flushbolts",
+                "Cylinder Operated Flushbolt for Aluminum Stile Doors",
+                "Adams Rite 1870",
+                "ADA-1870-30",
+                "Cylinder Operated Flush Bolts",
+                "Flushbolt for Aluminum Stile Doorss"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ADA-1870-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ADA-1870-525.jpg?v=1716427249"
+        },
+        "text": {
+            "description_html": "<b>Adams Rite 1870, Cylinder Operated Flushbolt for Aluminum Stile Doors</b>\r\n\r\n<p>\r\nDesigned for use instead of conventional flip-lever operated flushbolts, the Adams Rite 1870 Cylinder-Operated Flushbolt grants key control of the inactive leaf of paired doors. This will prevent unauthorized persons from unlocking the inactive door of a set of double doors or French Doors. Recommended for installation at both top and bottom of inactive door for the best security. May be installed to lock at threshold or at header. The Cylinder Operated Flushbolt for Aluminum Stile Doors <b>does not come packaged with a cylinder</b>. We recommend the <a href=\"/products/1-inch-brass-mortise-cylinder-lock-for-storefront-door-th1100-bc\">GLO-TH1100-BC 1 Inch Mortise Cylinder</a> with <a href=\"/products/storefront-door-mortise-cylinder-brass-thumbturn-th1100-bt\">GLO-TH1100-BT Mortise Cylinder Thumbturn</a></li>.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Lockable Flushbolt:\r\n<ul>\r\n<li>For hollow metal store front doors.</li>\r\n<li>Cylinder Height: 12\" standard</li>\r\n<li>Case Width: 1\"</li>\r\n<li>Case Height: 6\"</li>\r\n<li>Case Depth: 1-25/32\"</li>\r\n<li>Face Plate Style: Flat 1\" x 6-7/8\"</li>\r\n<li>Adams Rite style cam.</li>\r\n<li>Backset: 1-1/8\"</li>\r\n<li>Fits 31/32\" or 1-1/8\" Cylinders</li>\r\n<li>Non-handed</li>\r\n<li><b>Does not include cylinder.</b>  Can use <a href=\"/products/1-inch-brass-mortise-cylinder-lock-for-storefront-door-th1100-bc\">GLO-TH1100-BC 1 Inch Mortise Lock Cylinder for Storefront Doors</a> with <a href=\"/products/storefront-door-mortise-cylinder-brass-thumbturn-th1100-bt\">GLO-TH1100-BT Storefront Door Mortise Cylinder Brass Thumbturn</a></li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ADA-1870-specifications.pdf?v=1691093324\"><b>Adams Rite 1870 Dimensions Diagram (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>NO Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Cylinder Operated Flushbolt",
+                "description": "Designed for use instead of conventional flip-lever operated flushbolts, the Adams Rite 1870 Cylinder-Operated Flushbolt grants key control of the inactive leaf of paired doors. This will prevent unauthorized persons from unlocking the inactive door of a set of double doors or French Doors. Recommended for installation at both top and bottom of inactive door for the best security. May be installed to lock at threshold or at header. The Cylinder Operated Flushbolt for Aluminum Stile Doors does not come packaged with a cylinder.",
+                "keywords": "1870 Cylinder-Operated Flushbolts, Cylinder Operated Flushbolt for Aluminum Stile Doors, Adams Rite 1870, ADA-1870-30, Cylinder Operated Flush Bolts,  Flushbolt for Aluminum Stile Doorss,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Adams Rite",
+                    "sort": "11"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "532868",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "481441",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "193669",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "193539",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "184801",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "277408",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "455850",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 313: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "313: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

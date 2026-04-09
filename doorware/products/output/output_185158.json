@@ -1,0 +1,141 @@
+{
+    "legacy_product_id": "185158",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "First Impressions Aluminum Door Pull FII-3240",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-3240",
+            "mpn": "FII-3240",
+            "price": "108.0",
+            "compare_at_price": "135.0",
+            "contractor_price": "102.6",
+            "shipping_weight": "0.0",
+            "tags": [
+                "FII-3240",
+                "First Impressions",
+                "aluminum",
+                "Door Pull",
+                "3240/300",
+                "3240/600"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/3245-5001.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/3245-5001.jpg?v=1716421760"
+        },
+        "text": {
+            "description_html": "<b>FII-3240 First Impressions Door Pull - 3240/300, 3240/600</b>\r\n<p>\r\nThis incredible door pull can be used in many applications such as:\r\n</p>\r\n<p>\r\n<b>\r\n<ul>\r\n<li>Entrance and Patio Doors</li>\r\n<li>Appliances, such as Refrigerators and Freezers</li>\r\n<li>Glass Doors, such as on Showers or Storefronts</li>\r\n<li>Furniture, such as Amoures and Cabinets</li>\r\n<li>Just about anywhere a door pull is needed.</li>\r\n</ul>\r\n</b>\r\n</p>\r\n<p>\r\nThese pulls are very high quality, and very versatile as functional decor. \r\n</p>\r\nEveryone who visits will wonder were you got these incredible pulls, they are very dramatic, and unforgettable.\r\n</p>\r\n<p>\r\n<br>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/kaba-simplex-902-size.gif?v=1704354717\" width=\"100\" height=\"72\" border=\"0\">\r\n<br>\r\n</p>\r\n<p>\r\nThis door pull is available in 2 lengths.<br>\r\nThickness of pull is 1\" hollow Aluminum.<br>\r\n</p>\r\n<b>\r\n3240/300 - Total Length 11-13/16\", Center to Center Mount - 10\"<br>\r\n3240-600 - Total Length 23-5/8\", Center to Center Mount - 21-13/16\"<br>\r\n</b>\r\n</p>\r\n<p>\r\nSold individually.\r\n</p>",
+            "seo": {
+                "title": "First Impressions Aluminum Door Pull FII-3240",
+                "description": "FII-3240/300, 3240/600,  First Impressions Aluminum Door Pull",
+                "keywords": "FII-3240, First Impressions, aluminum, Door Pull, 3240/300, 3240/600,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "24"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Length: 3240/300 - 11-13/16in. Length",
+                "Select Length: 3240/600 - 23-5/8in. Length",
+                "Select Finish: 3240-BN Brushed Nickel",
+                "Select Finish: 3240-PC Polished Chrome",
+                "Select Mounting Choice: Thrubolt Mounted",
+                "Select Mounting Choice: Surface Mounted",
+                "Select Mounting Choice: Back to Back Mounted (Requires 2 Pulls)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "3240/300 - 11-13/16in. Length",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "3240/300"
+                },
+                {
+                    "value": "3240/600 - 23-5/8in. Length",
+                    "price_impact": 55.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "3240/600"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "3240-BN Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "3240-BN"
+                },
+                {
+                    "value": "3240-PC Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "3240-PC"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Mounting Choice",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Thrubolt Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Thrubolt"
+                },
+                {
+                    "value": "Surface Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Surface"
+                },
+                {
+                    "value": "Back to Back Mounted (Requires 2 Pulls)",
+                    "price_impact": 32.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Back"
+                }
+            ]
+        }
+    ]
+}

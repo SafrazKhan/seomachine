@@ -1,0 +1,125 @@
+{
+    "legacy_product_id": "448221",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "8 Inch Decorative Shower Door Pulls, Pair, First Impressions SD-MGRBS/8CTC",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-SD-MGRBS/8CTC",
+            "mpn": "FII-SD-MGRBS/8CTC",
+            "price": "752.0",
+            "compare_at_price": "940.0",
+            "contractor_price": "714.4",
+            "shipping_weight": "6.0",
+            "tags": [
+                "FII-SD-MGRBS/8CTC 8 Inch Decorative Shower Door Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SD-MGRBS-8_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SD-MGRBS-8_525.jpg?v=1716424035"
+        },
+        "text": {
+            "description_html": "<b>First Impressions 8 Inch Decorative  Shower Door Pulls</b>\r\n<p>\r\nThe detailed filigree end brackets of this truly unique decorative glass door pull will add incredible beauty to your bathroom.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for First Impressions FII-SD-MGRBAx-12 Acrylic Shower Door Pull\r\n<ul>\r\n<li>Mounting Centers: 8\" Center to Center</li>\r\n<li>Overall Length: 10-3/4\"</li>\r\n<li>Pull Handle Diameter: 1\"</li>\r\n<li>Total Projection: 2-5/8\"</li>\r\n<li>Pull Material: Solid Brass</li>\r\n</ul>\r\n</p>\r\n<p>\r\nNote: These decorative door pulls are handmade in the USA when you order it—allowing it to be custom designed to fit your specific door application, including <b>Other Lengths</b>. Unfortunately, because of the made-to-order nature of the door handle, it is <b>Not Returnable.</b> Please <a href=\"/pages/contact\">Contact Us</a> with your requirements or if you have any questions.\r\n</p>\r\n<p>Packaged with 2 door pull handles and includes the hardware for back to back mounting on 1/4\" to 1/2\" thick glass shower doors. \r\n</p>\r\n<p>\r\n<b>*Sold as a Pair (2 Pulls)</b>\r\n</p>",
+            "seo": {
+                "title": "8 Inch Decorative Shower Door Pulls, Pair, First Impressions SD-MGRBS/8CTC",
+                "description": "First Impressions MGRBS 8 inch center to center decorative solid brass shower door pulls.",
+                "keywords": "FII-SD-MGRBS/8CTC 8 Inch Decorative Shower Door Pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Mounting Centers",
+                    "value": "8\" Center to Center"
+                },
+                {
+                    "key": "Overall Length",
+                    "value": "10-3/4\""
+                },
+                {
+                    "key": "Pull Handle Diameter",
+                    "value": "1\""
+                },
+                {
+                    "key": "Total Projection",
+                    "value": "2-5/8\""
+                },
+                {
+                    "key": "Pull Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "212"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Mounting Centers: 8\" Center to Center",
+                "Overall Length: 10-3/4\"",
+                "Pull Handle Diameter: 1\"",
+                "Total Projection: 2-5/8\"",
+                "Pull Material: Solid Brass",
+                "Select Finish: FII-SD-MGRBS/8CTC-US3 - Polished Brass",
+                "Select Finish: FII-SD-MGRBS/8CTC-US5 - Antique Brass",
+                "Select Finish: FII-SD-MGRBS/8CTC-US10BPC - Oil Rubbed Bronze",
+                "Select Finish: FII-SD-MGRBS/8CTC-DB - Duro Bronze",
+                "Select Finish: FII-SD-MGRBS/8CTC-US19 - Matte Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-SD-MGRBS/8CTC-US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-SD-MGRBS/8CTC-US5 - Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-SD-MGRBS/8CTC-US10BPC - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-SD-MGRBS/8CTC-DB - Duro Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-SD-MGRBS/8CTC-US19 - Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

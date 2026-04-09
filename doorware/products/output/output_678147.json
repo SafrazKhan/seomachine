@@ -1,0 +1,146 @@
+{
+    "legacy_product_id": "678147",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Interior European Mortise Lockset, AHI SIG245-630",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-SIG245-630/EU1000",
+            "mpn": "AHI-SIG245-630/EU1000",
+            "price": "88.0",
+            "compare_at_price": "110.0",
+            "contractor_price": "88.0",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Modern European Mortise Entrysets",
+                "Interior European Mortise Locksets",
+                "AHI SIG245-630",
+                "AHI-SIG245-630",
+                "Modern Interior European Mortise Lock Sets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SIG-245_122-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SIG-245_122-525.jpg?v=1717106214"
+        },
+        "text": {
+            "description_html": "<b>AHI SIG245-630, Modern Interior European Mortise Lock Set</b>\r\n\r\n<p>\r\nThe Interior European Mortise Lockset has a modern look great for contemporary spaces. It is made out of solid stainless steel with a satin stainless steel finish. \r\n</p>\r\n\r\n<p>\r\nAHI-EU1000 Mortise Lock Specifications:\r\n<br>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-EU1000-specifications.gif?v=1704442282\" width=\"587\" height=\"249\" border=\"0\" alt=\"AHI-EU1000-Specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Modern European Mortise Entryset:\r\n<ul>\r\n<li>Material: Stainless Steel</li>\r\n<li>Finish: Satin Stainless Steel</li>\r\n<li>Backset:  50mm</li>\r\n<li>Plate Length: 9-11/16\"</li>\r\n<li>Plate Length Center to Center: 8-3/16\"</li>\r\n<li>Plate Width: 1-7/8\"</li>\r\n<li>Plate Thickness: 1/4\"</li>\r\n<li>Lever Hole Cut-out Diameter: 5/8\"</li>\r\n<li>Length From Top of Plate to Center of Lever Cut-Out: 3-7/16\"</li>\r\n<li>Comes packaged with trim plates, lever, and EU1000 mortise lock body.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<b>When Selecting a Function:</b>\r\n<ul>\r\n<li><b>Single Dummy:</b> For use as a door pull or to match trim. Trim is on one side of door. Comes packaged with trim plates and  levers.</li>\r\n<li><b>Passage (hall or closet):</b> For doors that don't need locking. Latch operates from either side of door. Comes packaged with trim plates, levers, and EU1000 mortise lock body.</li>\r\n<li><b>Privacy (bedroom or bathroom):</b> For doors that could need privacy locking. Latch operates from either side.\r\nComes packaged with trim plates, levers, and EU1000 mortise lock body.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold individually</i>\r\n</p>",
+            "seo": {
+                "title": "Interior European Mortise Lockset, AHI SIG245-630",
+                "description": "AHI SIG245-630, Interior European Mortise Lockset - The Interior European Mortise Lockset has a modern look great for contemporary spaces. It is made out of solid stainless steel with a satin stainless steel finish. \r\n",
+                "keywords": "Modern European Mortise Entrysets, Interior European Mortise Locksets, AHI SIG245-630, AHI-SIG245-630, Modern Interior European Mortise Lock Sets,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "AHI-Discontinued-and-Custom",
+                    "sort": "46"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "273662",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "288212",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "652496",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "40924",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42954",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "235000",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "42544",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Function: AHI-SIG245- Single Dummy",
+                "Select Function: AHI-SIG245-91 - Passage (hall or closet)",
+                "Select Function: AHI-SIG245-92 -  Privacy (bedroom or bathroom)",
+                "Select Inside Trim: SIG122 Lever",
+                "Select Handing: Right Hand Door, Out-Swing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AHI-SIG245- Single Dummy",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AHI-SIG245-91 - Passage (hall or closet)",
+                    "price_impact": 156.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AHI-SIG245-92 -  Privacy (bedroom or bathroom)",
+                    "price_impact": 220.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Inside Trim",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SIG122 Lever",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/sig-122-2041.jpg?v=1774586717",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/sig-122-204-ahi1.jpg?v=1711365553"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Right Hand Door, Out-Swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

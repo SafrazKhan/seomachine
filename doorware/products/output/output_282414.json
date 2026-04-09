@@ -1,0 +1,195 @@
+{
+    "legacy_product_id": "282414",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Steel Wood Screw 10 x 2-1/2 , Bag of 600, Deltana SCWS1025",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-SCWS1025",
+            "mpn": "DEL-SCWS1025",
+            "price": "179.99",
+            "compare_at_price": "240.0",
+            "contractor_price": "171.0",
+            "shipping_weight": "0.0",
+            "tags": [
+                "DEL-SCWS1025 Deltana Steel Wood Screw 10 x 2.5",
+                "DEL-SCWS1025",
+                "number 10 screw for hinges",
+                "#10 x 2-1/2 Wood Screws",
+                "long wood screws",
+                "DEL-SCWS1025U15",
+                "DEL-SCWS1025U15A",
+                "DEL-SCWS1025U10B",
+                "DEL-SCWS1025U2D",
+                "DEL-SCWS1025U1B",
+                "DEL-SCWS1025U26",
+                "DEL-SCWS1025U26D",
+                "DEL-SCWS1025U3",
+                "DEL-SCWS1025U5"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SCWS1025_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SCWS1025_525.jpg?v=1716422691"
+        },
+        "text": {
+            "description_html": "<b>Deltana SCWS1025 - #10 x 2-1/2\" Steel Wood Screw, Bag of 600</b>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/deltana-SCWS1025_size.gif?v=1704354560\" width=\"580\" height=\"200\" border=\"0\" alt=\"deltana SCWS1025  #10 x 2-1/2 inches wood screw\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> \r\n<ul>\r\n<li>Screw Size: #10</li>\r\n<li>Length: 2-1/2\"</li>\r\n<li>Type: Wood Screw</li>\r\n<li>Head: Flat, Phillips Drive</li>\r\n<li>Material: Steel</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nAvailable in 8 different finishes.\r\n</p>",
+            "seo": {
+                "title": "Steel Wood Screw 10 x 2-1/2 , Bag of 600, Deltana SCWS1025",
+                "description": "Deltana SCWS1025 - Steel Wood Screw #10 x 2-1/2 inches long, available in 8 different finishes. Sold in bag of 600.",
+                "keywords": "DEL-SCWS1025 Deltana Steel Wood Screw 10 x 2.5, DEL-SCWS1025, number 10 screw for hinges, #10 x 2-1/2 Wood Screws, long wood screws, DEL-SCWS1025U15, DEL-SCWS1025U15A, DEL-SCWS1025U10B, DEL-SCWS1025U2D, DEL-SCWS1025U1B, DEL-SCWS1025U26, DEL-SCWS1025U26D, DEL-SCWS1025U3, DEL-SCWS1025U5"
+            },
+            "specifications": [
+                {
+                    "key": "Screw Size",
+                    "value": "#10"
+                },
+                {
+                    "key": "Length",
+                    "value": "2-1/2\""
+                },
+                {
+                    "key": "Type",
+                    "value": "Wood Screw"
+                },
+                {
+                    "key": "Head",
+                    "value": "Flat, Phillips Drive"
+                },
+                {
+                    "key": "Material",
+                    "value": "Steel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Machine and Wood Screws",
+                    "sort": "22"
+                },
+                {
+                    "name": "Installation Hardware",
+                    "sort": "14"
+                },
+                {
+                    "name": "Tools and Fasteners",
+                    "sort": "39"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "837847",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "200859",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "200882",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "395131",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "154882",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "154907",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Screw Size: #10",
+                "Length: 2-1/2\"",
+                "Type: Wood Screw",
+                "Head: Flat, Phillips Drive",
+                "Material: Steel",
+                "Select Finish: U15: Satin Nickel",
+                "Select Finish: U10B: Oil Rubbed Bronze",
+                "Select Finish: U1B: Matte Black",
+                "Select Finish: U15A: Antique Nickel",
+                "Select Finish: U26: Polished Chrome",
+                "Select Finish: U26D: Brushed Chrome",
+                "Select Finish: U3: Polished Brass",
+                "Select Finish: U5: Antique Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U1B: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26D: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

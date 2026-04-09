@@ -1,0 +1,127 @@
+{
+    "legacy_product_id": "1161134",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Thumbprint Cabinet Knob, MNG 164",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "MNG-164",
+            "mpn": "MNG-164",
+            "price": "9.2",
+            "compare_at_price": "12.26",
+            "contractor_price": "8.74",
+            "shipping_weight": "0.5",
+            "tags": [
+                "1-1/2 Inch Thumbprint Cabinet Knobs",
+                "Thumbprint Cabinet Knobs",
+                "traditional cabinet hardware",
+                "1-1/2 Knob Vanilla collection",
+                "Transitional cabinet knobs",
+                "MNG 164 Thumbprint Cabinet Knobs",
+                "1.5 Inch Diameter Thumbprint Knobs",
+                "1 1/2 Thumbprint Potato Knobs",
+                "MNG-164",
+                "MNG 164",
+                "MNG 16413",
+                "MNG-16413",
+                "MNG-16414",
+                "MNG-16414",
+                "MNG-16421",
+                "MNG-16421"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MNG-164-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-164-525.jpg?v=1716428643"
+        },
+        "text": {
+            "description_html": "<b>MNG 164, 1.5 Inch Diameter Thumbprint Knob</b>\r\n\r\n<p>\r\nThe Thumbprint Cabinet Knob has a simple design that will look great in almost any kitchen. The MNG Vanilla Collection Cabinet Pull is available in some of the top trending finish colors of the year. Each Cabinet knob comes packaged with mounting hardware. The 1.5 Inch Diameter Thumbprint Knob can be used on almost any lightweight door or drawer. \r\n</p>\r\n\r\n<p>\r\nThis cabinet knob is part of the <a href=\"/site/search.cfm?search=MNG+ Vanilla\">MNG Vanilla Collection</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the MNG 164 Thumbprint Cabinet Knob:\r\n<ul>\r\n<li>Base Material: Zinc </li>\r\n<li>Diameter: 1-1/2\"</li>\r\n<li>Projection: 1\"</li>\r\n<li>Packaged with 1\" long #8-32 screw and 1-1/2\" long #8-32 screw.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i> \r\n</p>",
+            "seo": {
+                "title": "Thumbprint Cabinet Knob",
+                "description": "The Thumbprint Cabinet Knob has a simple design that will look great in almost any kitchen. The MNG Vanilla Collection Cabinet Pull is available in some of the top trending finish colors of the year. Each Cabinet knob comes packaged with mounting hardware. The 1.5 Inch Diameter Thumbprint Knob can be used on almost any lightweight door or drawer.",
+                "keywords": "1-1/2 Inch Thumbprint Cabinet Knobs, Thumbprint Cabinet Knobs, traditional cabinet hardware, 1-1/2 Knob Vanilla collection, Transitional cabinet knobs, MNG 164 Thumbprint Cabinet Knobs, 1.5 Inch Diameter Thumbprint Knobs, 1 1/2 Thumbprint Potato Knobs,\r\nMNG-164, MNG 164,\r\nMNG 16413, MNG-16413, \r\nMNG-16414, MNG-16414,\r\nMNG-16421, MNG-16421,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "MNG Cabinet Hardware",
+                    "sort": "54"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "30400",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "559197",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "994611",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "560227",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42677",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "558489",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "40097",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MNG-16421: Satin Antique Nickel",
+                "Select Finish: MNG-16413: Oil Rubbed Bronze",
+                "Select Finish: MNG-16414: Polished Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MNG-16421: Satin Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-16421-SM.jpg?v=1774586566",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-16421-LG.jpg?v=1711366672"
+                },
+                {
+                    "value": "MNG-16413: Oil Rubbed Bronze",
+                    "price_impact": 0.54,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-16413-SM.jpg?v=1774586566",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-16413-LG.jpg?v=1711366672"
+                },
+                {
+                    "value": "MNG-16414: Polished Nickel",
+                    "price_impact": 1.36,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-16414-SM.jpg?v=1774586566",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-16414-LG.jpg?v=1711366673"
+                }
+            ]
+        }
+    ]
+}

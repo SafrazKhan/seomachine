@@ -1,0 +1,132 @@
+{
+    "legacy_product_id": "480680",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Single Cylinder Deadbolt, Brass Accents BRA-D09-D0050",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "BRA-D09-D0050",
+            "mpn": "BRA-D09-D0050",
+            "price": "70.0",
+            "compare_at_price": "70.0",
+            "contractor_price": "70.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Single Cylinder Deadbolt",
+                "Brass Accents BRA-D09-D0050"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/d09d0050-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/d09d0050-525.jpg?v=1716424213"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents Single Cylinder Deadbolt</b>\r\n<p>\r\nThe Brass Accents Single Cylinder Deadbolt is keyed on the outside with a thumbturn on the inside.\r\n</p>\r\n\r\n<p>\r\nThese single cylinder deadbolts are made with high quality brass lock cylinders and trim. Plated in your choice of 14 finishes that are highly resistant to tarnishing.\r\n</p>\r\n<p>\r\n<b>Features</b> of Brass Accents BRA-D09-D0050 Single Cylinder Deadbolt\r\n<ul>\r\n<li>Backset:  2\"</li>\r\n<li>Fit standard pre-drilled doors</li>\r\n<li>Includes matching mounting hardware</li>\r\n<li>Easy to install</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Single Cylinder Deadbolt, Brass Accents BRA-D09-D0050",
+                "description": "Single Cylinder Deadbolt, Brass Accents BRA-D09-D0050",
+                "keywords": "Single Cylinder Deadbolt, Brass Accents BRA-D09-D0050"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Accessories",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: US5: Antique Brass",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: VB: Venetian Bronze",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "VB: Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

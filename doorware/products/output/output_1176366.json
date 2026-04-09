@@ -1,0 +1,63 @@
+{
+    "legacy_product_id": "1176366",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Deltana SDL980 Latch Assembly",
+            "vendor": "Deltana",
+            "status": "ARCHIVED",
+            "sku": "DEL-SDL980-LATCH",
+            "mpn": "DEL-SDL980-LATCH",
+            "price": "13.8",
+            "compare_at_price": "13.8",
+            "contractor_price": "13.8",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Deltana SDL980 Latch Assembly"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525218.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525218.gif?v=1717791480"
+        },
+        "text": {
+            "description_html": "<b>Deltana SDL980 Latch Assembly</b>\r\n\r\n<p>\r\nThis is a latch assembly is for the <a herf=\"/site/product.cfm?id=170839\">Deltana SDL980 Screen / Storm Door Latch Set</a>\r\n</p>",
+            "seo": {
+                "title": "Deltana SDL980 Latch Assembly",
+                "description": "Deltana SDL980 Latch Assembly",
+                "keywords": "Deltana SDL980 Latch Assembly"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Discontinued and Special Items",
+                    "sort": "80"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "170839",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "147502",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1045258",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

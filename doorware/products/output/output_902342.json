@@ -1,0 +1,149 @@
+{
+    "legacy_product_id": "902342",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "12 x 3 Modern Push Plate, Emtek 86436",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-86436",
+            "mpn": "EMT-86436",
+            "price": "101.99",
+            "compare_at_price": "127.0",
+            "contractor_price": "101.99",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Emtek Modern Push Plates",
+                "12 x 3 Modern Push Plates",
+                "Emtek 86436",
+                "EMT-86436",
+                "Solid Brass 12 x 3 Modern Push Plates",
+                "3 x 12 modern push plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86436-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86436-525.jpg?v=1716426701"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86436, Solid Brass 12 x 3 Modern Push Plate</b>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86436-specifications.gif?v=1704354731\" width=\"229\" height=\"288\" border=\"0\" align=\"right\" atl=\"Emtek 86436 Specifications\">\r\n\r\nThe 12 x 3 Modern Push Plate is made out of solid brass. Choose from several contemporary finishes for a chic end look. Push plates are commonly used in commercial buildings such as in restaurants or on restroom doors, but this Modern Push Plate made by Emtek looks good enough for homes. It is easy to install and comes with the mounting screws. \r\n</p>\r\n\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Emtek Modern Push Plate:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Plate Height: 12\"</li>\r\n<li>Plate Width: 3\"</li>\r\n<li>Packaged with Mounting Screws</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86436-specifications.pdf?v=1704262359\"><b>Emtek 86436 Specifications (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold individually.</i>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-modern7-Finishes.jpg?v=1704354499\" width=\"599\" height=\"111\" border=\"0\" alt=\"Emtek Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "12 x 3 Modern Push Plate",
+                "description": "The 12 x 3 Modern Push Plate is made out of solid brass. Choose from several contemporary finishes for a chic end look. Push plates are commonly used in commercial buildings such as in restaurants or on restroom doors, but this Modern Push Plate made by Emtek looks good enough for homes. It is easy to install and comes with the mounting screws. \r\n",
+                "keywords": "Emtek Modern Push Plates, 12 x 3 Modern Push Plates, Emtek 86436, EMT-86436, Solid Brass 12 x 3 Modern Push Plates, 3 x 12 modern push plates,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Emtek Door Pulls and Push Plates",
+                    "sort": "41"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "334128",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "652077",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "652095",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "334417",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "334428",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "901042",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "901076",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: US3NL: Unlacquered Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3NL: Unlacquered Brass",
+                    "price_impact": 16.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

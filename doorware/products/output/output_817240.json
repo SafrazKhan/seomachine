@@ -1,0 +1,87 @@
+{
+    "legacy_product_id": "817240",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Rod Guide for 4200V Surface Vertical Rod Exit Device, PDQ 429027",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PDQ-429027",
+            "mpn": "PDQ-429027",
+            "price": "7.0",
+            "compare_at_price": "7.0",
+            "contractor_price": "7.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Guide for 4200V Vertical Rods",
+                "Rod Guide for 4200V Surface Vertical Rod Exit Devices",
+                "PDQ 429027",
+                "4200V Surface Vertical Rod Exit Device Rod Guides"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDQ-429027-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PDQ-429027-525.jpg?v=1716425798"
+        },
+        "text": {
+            "description_html": "<b>PDQ 429027, 4200V Surface Vertical Rod Exit Device Rod Guide</b>\r\n\r\n<p>\r\nThis is a replacement guide for the <a href=\"/products/grade-1-satin-chrome-vertical-rod-exit-device-for-30-36-inch-door-pdq-4200v-626\">4200V Surface Vertical Rod Exit Device</a> made by PDQ.\r\n</p>\r\n\r\n<p>\r\n<b>Sold Individually - NO RETURNS</b>\r\n</p>",
+            "seo": {
+                "title": "Rod Guide for 4200V Surface Vertical Rod Exit Device",
+                "description": "This is a replacement guide for the 4200V Surface Vertical Rod Exit Device made by PDQ.",
+                "keywords": "Guide for 4200V Vertical Rods, Rod Guide for 4200V Surface Vertical Rod Exit Devices, PDQ 429027, 4200V Surface Vertical Rod Exit Device Rod Guides,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Misc Hardware",
+                    "sort": "13"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "201068",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "550432",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "201073",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "201092",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 689 - Aluminum"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "689 - Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

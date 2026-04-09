@@ -1,0 +1,155 @@
+{
+    "legacy_product_id": "634125",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Contemporary Square Mount Towel Bar, Fusion TB-S7",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-TB-S7",
+            "mpn": "FUS-TB-S7",
+            "price": "119.0",
+            "compare_at_price": "119.0",
+            "contractor_price": "89.25",
+            "shipping_weight": "7.0",
+            "tags": [
+                "modern bathroom hardware",
+                "modern bathroom towel bars",
+                "hand towel bars",
+                "bathroom towel hooks",
+                "bath towel bars",
+                "Fusion TB-1-E5 18 inch towel bar",
+                "Fusion TB-2-E5 24 inch towel bar",
+                "Fusion TB-3-E5 30 inch towel bar",
+                "Contemporary Towel Bars",
+                "Contemporary Trim Towel Bars",
+                "Contemporary Square Mount Towel Bars",
+                "Fusion TB-S7",
+                "FUS-TB-S7"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-TB-S7-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-TB-S7-525.jpg?v=1711365521"
+        },
+        "text": {
+            "description_html": "<b>Fusion TB-S7, Contemporary Towel Bar</b>\r\n\r\n<p>\r\nThe Contemporary Square Mount Towel Bar is available in 3 sizes: 18 inch, 24 inch, and 30 inch. The modern, square design makes for a clean look. It is available in brushed nickel or polished chrome finishes. The contemporary towel bar is at the peek of what is hot in home decorating, so update your bathroom with this easy to install accessory. \r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: <a href=\"/products/contemporary-toilet-tissue-holder-fusion-ph-s7\"><b>Fusion PH-S7 Contemporary Toilet Paper Holder</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 sizes:</b>\r\n<ul>\r\n<b>TB-1-S7</b>\r\n<ul>\r\n<li>Length: 18\"</li>\r\n<li>Mount Length: 2-1/2\" square</li>\r\n</ul>\r\n\r\n<br>\r\n\r\n<b>TB-2-S7</b>\r\n<ul>\r\n<li>Length: 24\"</li>\r\n<li>Mount Length: 2-1/2\" square</li>\r\n</ul>\r\n\r\n<br>\r\n\r\n<b>TB-3-S7</b>\r\n<ul>\r\n<li>Length: 30\"</li>\r\n<li>Mount Length: 2-1/2\" square</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Contemporary Square Mount Towel Bar, Fusion TB-S7",
+                "description": "Fusion TB-S7, Contemporary Square Mount Towel Bar - The Contemporary Square Mount Towel Bar is available in 3 sizes: 18 inch, 24 inch, and 30 inch. The modern, square design makes for a clean look. It is available in brushed nickel or polished chrome finishes. The contemporary towel bar is at the peek of what is hot in home decorating, so update your bathroom with this easy to install accessory.",
+                "keywords": "modern bathroom hardware, modern bathroom towel bars, hand towel bars, bathroom towel hooks, bath towel bars, Fusion TB-1-E5 18 inch towel bar, Fusion TB-2-E5 24 inch towel bar, Fusion TB-3-E5 30 inch towel bar, Contemporary Towel Bars, Contemporary Trim Towel Bars, Contemporary Square Mount Towel Bars, Fusion TB-S7, FUS-TB-S7,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "16"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "384084",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "320415",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "40882",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "384180",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "408111",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "383978",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "378801",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "378559",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "563296",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: BRN - Brushed Nickel",
+                "Select Finish: PLC - Polished Chrome",
+                "Select Size: TB-1-S7 - 18in. Towel Bar",
+                "Select Size: TB-2-S7 - 24in. Towel Bar",
+                "Select Size: TB-3-S7 - 30in. Towel Bar"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BRN - Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PLC - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TB-1-S7 - 18in. Towel Bar",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB-2-S7 - 24in. Towel Bar",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB-3-S7 - 30in. Towel Bar",
+                    "price_impact": 10.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "legacy_product_id": "857542",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "New York Toggle Plate, Grandeur NYKSWPLTT1",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-NYKSWPLTT1",
+            "mpn": "GRA-NYKSWPLTT1",
+            "price": "23.99",
+            "compare_at_price": "30.0",
+            "contractor_price": "23.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Grandeur NYKSWPLTT1",
+                "GRA-NYKSWPLTT1",
+                "New York Toggle Plates",
+                "New York Toggle Switch Plates",
+                "Contemporary Toggle light Switch Plates",
+                "New York Toggle Light Switch Covers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-NYKSWPLTT1-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-NYKSWPLTT1-525.jpg?v=1716426070"
+        },
+        "text": {
+            "description_html": "<b>Grandeur NYKSWPLTT1, New York Toggle Light Switch Cover</b>\r\n\r\n<p>\r\nIf you are looking for an easy way to add a touch of elegance to your home, just change out the switch covers. The New York Toggle Plate will add elegance. Its timelessness makes it a great choice no matter your decor. Choose from a wide selection of finish colors. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur New York Toggle Switch Plate:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 4-5/8\"</li>\r\n<li>Width: 2-7/8\"</li>\r\n<li>Projection: 5/16\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "New York Toggle Plate",
+                "description": "If you are looking for an easy way to add a touch of elegance to your home, just change out the switch covers. The New York Toggle Plate will add elegance. Its timelessness makes it a great choice no matter your decor. Choose from a wide selection of finish colors.",
+                "keywords": "Grandeur NYKSWPLTT1, GRA-NYKSWPLTT1, New York Toggle Plates, New York Toggle Switch Plates, Contemporary Toggle light Switch Plates, New York Toggle Light Switch Covers,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "4-5/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "2-7/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "5/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Electrical Outlet &amp; Switch Plates",
+                    "sort": "96"
+                },
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "48"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "857246",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "857564",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "857581",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "823055",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 4-5/8\"",
+                "Width: 2-7/8\"",
+                "Projection: 5/16\"",
+                "Select Finish: TB: Timeless Bronze",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: ULB: Unlacquered Brass",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: AP: Antique Pewter"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ULB: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

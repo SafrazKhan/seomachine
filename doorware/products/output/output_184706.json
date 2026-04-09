@@ -1,0 +1,151 @@
+{
+    "legacy_product_id": "184706",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Rim Cylinder Lock, Global TH1100-RC",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-TH1100-RC",
+            "mpn": "GLO-TH1100-RC",
+            "price": "20.77",
+            "compare_at_price": "29.67",
+            "contractor_price": "18.69",
+            "shipping_weight": "0.5",
+            "tags": [
+                "GLO-TH1100-RC Rim Lock Cylinders",
+                "Global  TH1100-RC Rim Cylinders",
+                "rim cylinder locks",
+                "Global Door ControlsTH1100-RC-AL Rim Cylinder aluminum",
+                "Global Door ControlsTH1100-RC-DU Rim Cylinder duro"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/global-TH1100-RC-AL_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/global-TH1100-RC-AL_525.jpg?v=1716421746"
+        },
+        "text": {
+            "description_html": "<b>Global TH1100-RC Rim Cylinder Lock</b>\r\n<p>\r\nCommercial door rim cylinder lock. Rim cylinders are normally used on the doors exterior to unlatch <a href=\"/collections/panic-devices\"><b>Rim Panic Devices</b></a>. Available in Aluminum or Dark Bronze finish.\r\n</p>\r\n<p>\r\nAlso available: <a href=\"/products/store-front-door-rim-cylinder-global-th1100-rcb\"><b>Store Front Door Rim Cylinder</b></a> packaged with Flat Head screws.\r\n</p>\r\n<p>\r\n<b>Specifications:</b> for Global TH1100-RC Rim Cylinder\r\n<ul>\r\n<li>Keyed Rim Cylinder</li>\r\n<li>Standard 5-pin Schlage \"C\" Keyway</li>\r\n<li>Flat \"cut to size\" horizontal tail piece</li>\r\n<li>For 1-3/4\" to 2-1/4\" thick doors</li>\r\n<li>Packed with 1-7/8\" diameter trim ring</li>\r\n<li>Includes mounting plate and two (2) #12 x 1-7/8\" machine screws</li>\r\n</ul>\r\n</p>\r\n<br>",
+            "seo": {
+                "title": "Rim Cylinder Lock, Global TH1100-RC",
+                "description": "Global TH1100-RC Rim Cylinder - Commercial door rim cylinder lock. Rim cylinders are normally used on the doors exterior to unlatch Panic Devices. Available in Aluminum or Dark Bronze finish. Key Cylinder 5-pin Schlage C Keyway.",
+                "keywords": "GLO-TH1100-RC Rim Lock Cylinders, Global  TH1100-RC Rim Cylinders, rim cylinder locks, Global Door ControlsTH1100-RC-AL Rim Cylinder aluminum, Global Door ControlsTH1100-RC-DU Rim Cylinder duro,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Store Front Door Hardware",
+                    "sort": "4"
+                },
+                {
+                    "name": "Store Door Hardware",
+                    "sort": "9"
+                },
+                {
+                    "name": "Global Panic Hardware",
+                    "sort": "37"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "184782",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "193377",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "175455",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "175466",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "174671",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "174586",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "233075",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "832090",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: TH1100-RC-AL: Aluminum",
+                "Select Finish: TH1100-RC-DU: Dark Bronze",
+                "Keying: Only Ordered One Lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TH1100-RC-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TH1100-RC-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

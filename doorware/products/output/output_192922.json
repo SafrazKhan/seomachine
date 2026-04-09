@@ -1,0 +1,162 @@
+{
+    "legacy_product_id": "192922",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "15 Inch Traditional Style Solid Cast Bronze Pull, Hamilton AP-111.15",
+            "vendor": "Hamilton",
+            "status": "ARCHIVED",
+            "sku": "HAMI-AP-111.15",
+            "mpn": "HAMI-AP-111.15",
+            "price": "89.99",
+            "compare_at_price": "218.0",
+            "contractor_price": "89.99",
+            "shipping_weight": "5.0",
+            "tags": [
+                "HAMI-111.15",
+                "HAMI-111",
+                "AP-111-15",
+                "AP-111-18",
+                "AP-111-24",
+                "AP-111-30",
+                "Traditional Style Solid Cast Bronze Appliance Pulls",
+                "Hamilton AP-111 appliance pulls",
+                "hamilton bronze appliance pulls",
+                "hamilton drawer pulls",
+                "hamilton 111 series",
+                "hamilton sinkler appliance handles",
+                "Hamilton Bronze Traditional Appliance Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/hamilton-ap-111_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/hamilton-ap-111_525.jpg?v=1717105725"
+        },
+        "text": {
+            "description_html": "<b>Hamilton AP-111.15, 15\" Traditional Style Solid Cast Bronze Pull</b>\r\n\r\n<p>\r\nTraditional Style pull for your refrigerator, appliances or other doors, cast in solid bronze with high quality craftsmanship. The Hamilton AP-111.15 pull is packaged standard for Thrubolt Mounting and features a circular mounting base.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Hamilton Traditional Style Bronze Pull:\r\n<ul>\r\n<li>Finish: <b>Bronze Patina</b></li>\r\n<li>Length c.c.: 15\"</li>\r\n<li>Projection: 2-1/8\"</li>\r\n<li>Pull Diameter: 5/8\"</li>\r\n<li>Mounting Base Diameter: 1-5/8\"</li>\r\n<li>Bronze Patina finish over Solid Cast Bronze</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AP-111.pdf?v=1704262223\" target=\"new\"><b>Hamilton AP-111 Specifications (PDF)</a></b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>\r\n\r\n<p>\r\n<b>\r\n<br><br>\r\nThis item is Discontinued.\r\n<br><br>\r\n</b>\r\n</p>",
+            "seo": {
+                "title": "15 Inch Traditional Style Solid Cast Bronze Pull, Hamilton AP-111.15",
+                "description": "Hamilton AP-111.15 - Traditional Style pull for your refrigerator or other appliances, cast in solid bronze with high quality craftsmanship.The Hamilton AP-111.15 pull is packaged standard for Thrubolt Mounting for a Refrigerator/Appliance panel and features a circular mounting base.",
+                "keywords": "HAMI-111.15, HAMI-111, AP-111-15, AP-111-18, AP-111-24,  AP-111-30, Traditional Style Solid Cast Bronze Appliance Pulls, Hamilton AP-111 appliance pulls, hamilton bronze appliance pulls, hamilton drawer pulls, hamilton 111 series, hamilton sinkler appliance handles,  Hamilton Bronze Traditional Appliance Pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Finish",
+                    "value": "Bronze Patina"
+                },
+                {
+                    "key": "Length c.c.",
+                    "value": "15\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "2-1/8\""
+                },
+                {
+                    "key": "Pull Diameter",
+                    "value": "5/8\""
+                },
+                {
+                    "key": "Mounting Base Diameter",
+                    "value": "1-5/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Hamilton Appliance Pulls",
+                    "sort": "1"
+                },
+                {
+                    "name": "Hamilton Door Accessories",
+                    "sort": "16"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "29524",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "187774",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "187998",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "192953",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "158960",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "492183",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "944956",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "175123",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "945309",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "194728",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "194734",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Finish: Bronze Patina",
+                "Length c.c.: 15\"",
+                "Projection: 2-1/8\"",
+                "Pull Diameter: 5/8\"",
+                "Mounting Base Diameter: 1-5/8\"",
+                "Select Door Thickness: 1/4in. to 1in.",
+                "Select Door Thickness: 1-1/8in. to 2in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1/4in. to 1in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-1/8in. to 2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "legacy_product_id": "283512",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Rockwood Double Push, Offset Pull Bar Set Rockwood BF157A47-2",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "ROC-BF157A47-2",
+            "mpn": "ROC-BF157A47-2",
+            "price": "808.56",
+            "compare_at_price": "808.56",
+            "contractor_price": "808.56",
+            "shipping_weight": "22.0",
+            "tags": [
+                "ROC-BF157A47-2 Rockwood Double Push",
+                "Pull Bar Set"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RW-BF157A47-2_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RW-BF157A47-2_525.jpg?v=1716422697"
+        },
+        "text": {
+            "description_html": "<b>Rockwood Double Push Bar with Offset Pull Bar Set</b>\r\n\r\n<p>\r\nSet contains two (2) 33\" inside push bars with one (1) 9\" offset pulls bar and concealed screw mounting hardware.\r\n</p>\r\n\r\n<p><b>Specifications</b> for Rockwood BF157A47-2\r\n<ul>\r\n<li>Inside Push Bars Length: 33\" CTC</li>\r\n<li>Inside Push Bars Projection: 2-1/2\"</li>\r\n<li>Inside Push Bars Clearance:  1-1/2\"</li>\r\n<li>Inside Push Bars Diameter: 1\"</li>\r\n<li>Outside Pull Bar Height: 9\" CTC</li>\r\n<li>Outside Pull Bar Projection:  3-1/2\"</li>\r\n<li>Outside Pull Bar Clearance:  2-1/2\"</li>\r\n<li>Outside Pull Bar Diameter: 1\"</li>\r\n<li>Material: Solid Brass</li>\r\n</ul>",
+            "seo": {
+                "title": "Rockwood Double Push, Offset Pull Bar Set",
+                "description": "Set contains two (2) 33 inch inside push bars with one (1) 9 inch offset pulls bar and concealed screw mounting hardware.",
+                "keywords": "ROC-BF157A47-2 Rockwood Double Push, Pull Bar Set"
+            },
+            "specifications": [
+                {
+                    "key": "Inside Push Bars Length",
+                    "value": "33\" CTC"
+                },
+                {
+                    "key": "Inside Push Bars Projection",
+                    "value": "2-1/2\""
+                },
+                {
+                    "key": "Inside Push Bars Clearance",
+                    "value": "1-1/2\""
+                },
+                {
+                    "key": "Inside Push Bars Diameter",
+                    "value": "1\""
+                },
+                {
+                    "key": "Outside Pull Bar Height",
+                    "value": "9\" CTC"
+                },
+                {
+                    "key": "Outside Pull Bar Projection",
+                    "value": "3-1/2\""
+                },
+                {
+                    "key": "Outside Pull Bar Clearance",
+                    "value": "2-1/2\""
+                },
+                {
+                    "key": "Outside Pull Bar Diameter",
+                    "value": "1\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Rockwood Door Pulls",
+                    "sort": "9"
+                },
+                {
+                    "name": "Rockwood Accessories",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Inside Push Bars Length: 33\" CTC",
+                "Inside Push Bars Projection: 2-1/2\"",
+                "Inside Push Bars Clearance: 1-1/2\"",
+                "Inside Push Bars Diameter: 1\"",
+                "Outside Pull Bar Height: 9\" CTC",
+                "Outside Pull Bar Projection: 3-1/2\"",
+                "Outside Pull Bar Clearance: 2-1/2\"",
+                "Outside Pull Bar Diameter: 1\"",
+                "Material: Solid Brass",
+                "Select Finish: ROC-BF157A47-2-US26D - Satin Chrome",
+                "Select Finish: ROC-BF157A47-2-US3 - Polished Brass",
+                "Select Finish: ROC-BF157A47-2-US4 - Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ROC-BF157A47-2-US26D - Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ROC-BF157A47-2-US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ROC-BF157A47-2-US4 - Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

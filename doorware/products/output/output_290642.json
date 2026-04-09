@@ -1,0 +1,100 @@
+{
+    "legacy_product_id": "290642",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Deadbolt Spin Ring, Grandeur",
+            "vendor": "Grandeur",
+            "status": "ARCHIVED",
+            "sku": "GRA-81512x",
+            "mpn": "GRA-81512x",
+            "price": "21.7",
+            "compare_at_price": "25.0",
+            "contractor_price": "21.7",
+            "shipping_weight": "0.1",
+            "tags": [
+                "Grandeur Deadbolt Spin Ring",
+                "GRA 81512x.  Required for installing Grandeur deadbolts on a 1 3/8 thick door.   Available in 5 matching finishes."
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Grandeur Deadbolt Spin Ring, GRA 81512x</b><p>Grandeur Deadbolt Spin Ring is required for installing Grandeur deadbolts on a 1 3/8\" thick door.   Available in 5 matching finishes.</p>",
+            "seo": {
+                "title": "Deadbolt Spin Ring, Grandeur",
+                "description": "Grandeur Deadbolt Spin Ring, GRA 81512x.  Required for installing Grandeur deadbolts on a 1 3/8 thick door.   Available in 5 matching finishes.",
+                "keywords": "Grandeur Deadbolt Spin Ring, GRA 81512x.  Required for installing Grandeur deadbolts on a 1 3/8 thick door.   Available in 5 matching finishes."
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Grandeur Parts",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: GRA-815122 - Antique Pewter",
+                "Select Finish: GRA-815125 - Satin Nickel",
+                "Select Finish: GRA-815124 - Timeless Bronze",
+                "Select Finish: GRA-815121 - Vintage Brass",
+                "Select Finish: GRA-815120 - PVD Lifetime Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GRA-815122 - Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-815125 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-815124 - Timeless Bronze ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-815121 - Vintage Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-815120 - PVD Lifetime Polished Brass",
+                    "price_impact": 1.3,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

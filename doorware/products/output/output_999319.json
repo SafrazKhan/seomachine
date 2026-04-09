@@ -1,0 +1,114 @@
+{
+    "legacy_product_id": "999319",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "AHI 201 Round Rose Assembly",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-201",
+            "mpn": "AHI-201",
+            "price": "43.99",
+            "compare_at_price": "55.0",
+            "contractor_price": "43.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "AHI-201 stainless steel rose sets",
+                "AHI 201 Round Rose Assemble",
+                "Stainless Steel Leversets With Round Rosettes",
+                "Round Rose Nylon Sub-Rose Cassettes",
+                "sub-roses for levers with round roses",
+                "Omnia replacement roses",
+                "AHI replacement sub-roses"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AHI-201-rose_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-201-rose_525.jpg?v=1717106402"
+        },
+        "text": {
+            "description_html": "<b>AHI Nylon Sub-Rose Assembly for Stainless Steel Leversets with Round Rosettes</b>\r\n\r\n<p>\r\nAHI's nylon sub-rose assembly features self-aligning thru-bolts and fits a standard 2-1/8\" bore hole. This is a self-aligning, spring-assisted rose. Optional, for use with passage and privacy functions (select function below). \r\n</p>\r\n<p>\r\nThe Nylon Sub-Rose Assembly for  <a href=\"/collections/ahi-stainless-steel-levers\"><b>AHI Stainless Steel Leverets</b></a> has a 8mm hub that fits 8mm  Spindle.\r\n<p>\r\n\r\n\r\n\r\n<p>\r\n<b>Specifications</b> for the AHI Nylon Sub-Rose Cassette For Round Roses:\r\n<ul>\r\n<li>Finish: Brushed Stainless Steel</li>\r\n<li>Diameter: 2-7/16\"</li>\r\n<li>Projection: 1/2\"</li>\r\n<li>Fits standard 2-1/8\" Bore Hole</li>\r\n<li>8mm Square Hub (for 8mm Square Spindle)</li>\r\n<li>Comes packaged with (2) round stainless steel rosettes and sub-roses.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "AHI 201 Round Rose Assembly",
+                "description": "AHI nylon sub-rose assembly features self-aligning thru-bolts and fits a standard 2-1/8 inch bore hole. Lever strength spring assisted inside and outside for Stainless Steel Door Levers only. Optional for use with passage and privacy functions.",
+                "keywords": "AHI-201 stainless steel rose sets, AHI 201 Round Rose Assemble, Stainless Steel Leversets With Round Rosettes, Round Rose Nylon Sub-Rose Cassettes, sub-roses for levers with round roses, Omnia replacement roses, AHI replacement sub-roses,"
+            },
+            "specifications": [
+                {
+                    "key": "Finish",
+                    "value": "Brushed Stainless Steel"
+                },
+                {
+                    "key": "Diameter",
+                    "value": "2-7/16\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1/2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "AHI Miscellaneous Parts",
+                    "sort": "3"
+                },
+                {
+                    "name": "AHI Stainless Steel Levers",
+                    "sort": "101"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "204778",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "204786",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "158626",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Finish: Brushed Stainless Steel",
+                "Diameter: 2-7/16\"",
+                "Projection: 1/2\"",
+                "Select Function: AHI-201PA-630: Passage",
+                "Select Function: AHI-201PV-630: Privacy"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AHI-201PA-630: Passage",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AHI-201PV-630: Privacy",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

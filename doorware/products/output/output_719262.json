@@ -1,0 +1,123 @@
+{
+    "legacy_product_id": "719262",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Thick Door Extension Kit for Baldwin Reserve Single Cylinder Deadbolts",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-8BR0704",
+            "mpn": "BAL-8BR0704",
+            "price": "7.0",
+            "compare_at_price": "7.0",
+            "contractor_price": "7.0",
+            "shipping_weight": "0.1",
+            "tags": [
+                "Thick Door Extension Kit for Baldwin Reserve Single Cylinder Deadbolts"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/special_order-5256.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/special_order-5256.jpg?v=1716425383"
+        },
+        "text": {
+            "description_html": "<b>Thick Door Kit for Baldwin Reserve Single Cylinder Deadbolts</b><p>For doors from 2\" to 2-1/2\" thick.</p>",
+            "seo": {
+                "title": "Thick Door Extension Kit for Baldwin Reserve Single Cylinder Deadbolts",
+                "description": "Thick Door Extension Kit for Baldwin Reserve Single Cylinder Deadbolts",
+                "keywords": "Thick Door Extension Kit for Baldwin Reserve Single Cylinder Deadbolts"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "28"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: BAL-8BR0704-001 - Polished Brass",
+                "Select Finish: BAL-8BR0704-002 - Matte Brass & Black",
+                "Select Finish: BAL-8BR0704-003 - Venetian Bronze",
+                "Select Finish: BAL-8BR0704-004 - Satin Nickel",
+                "Select Finish: BAL-8BR0704-005 - Matte Antique Nickel",
+                "Select Finish: BAL-8BR0704-006 - Polished Chrome",
+                "Select Finish: BAL-8BR0704-007 - Dark Bronze",
+                "Select Finish: BAL-8BR0704-008 - White Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BAL-8BR0704-001 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BAL-8BR0704-002 - Matte Brass & Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BAL-8BR0704-003 - Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BAL-8BR0704-004 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BAL-8BR0704-005 - Matte Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BAL-8BR0704-006 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BAL-8BR0704-007 - Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BAL-8BR0704-008 - White Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

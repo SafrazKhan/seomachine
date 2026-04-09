@@ -1,0 +1,111 @@
+{
+    "legacy_product_id": "631426",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Arched Wall Mounted Towel Ring, Fusion TR-A3",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-TR-A3",
+            "mpn": "FUS-TR-A3",
+            "price": "109.0",
+            "compare_at_price": "109.0",
+            "contractor_price": "81.75",
+            "shipping_weight": "4.0",
+            "tags": [
+                "Wall Mounted River Rock Hand Towel Rings",
+                "Arched Wall Mounted Towel Rings",
+                "Fusion TR-A3",
+                "FUS-TR-A3",
+                "River Rock Hand Towel Ring with Arched Mounts",
+                "Bronze Scalloped Hand Towel Rings",
+                "traditional bathroom hardware",
+                "traditional bath towel rings"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-TR-A3-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-TR-A3-525.jpg?v=1711365518"
+        },
+        "text": {
+            "description_html": "<b>Fusion TR-A3, River Rock Hand Towel Ring with Arched Mounts</b>\r\n\r\n<p>\r\nWe love the Arched Wall Mounted Towel Ring not only because it is functional--keeping those damp hand towels out of the bathroom sink--but also because it is truly beautiful. Some traditional bathroom accessories are dated, but not this bronze scalloped towel ring. It has a simplistic beauty that makes it a lovely accompaniment to any powder room. Choose from medium bronze or dark bronze finishes.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"https://door-hardware-inc.myshopify.com/products/river-rock-scalloped-mount-towel-bar-fusion-tb-a3\"><b>Fusion TB-A3 Arched Towel Bar</b></a>, \r\n<a href=\"/products/bronze-river-rock-arched-mount-robe-hook-fusion-rh-a3\"><b>Fusion RH-A3 Arched Robe Hook</b></a>, \r\nand <a href=\"/products/arched-mount-toilet-paper-holder-fusion-ph-a3\"><b>Fusion PH-A3 Arched Toilet Paper Holder</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Bronze Scalloped Hand Towel Ring:\r\n<ul>\r\n<li>Mount Width: 2-7/8\"</li>\r\n<li>Mount Length: 3-5/8\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Arched Wall Mounted Towel Ring, Fusion TR-A3",
+                "description": "Fusion TR-A3, Arched Wall Mounted Towel Ring - We love the Arched Wall Mounted Towel Ring not only because it is functional--keeping those damp hand towels out of the bathroom sink--but also because it is truly beautiful. Some traditional bathroom accessories are dated, but not this bronze scalloped towel ring. It has a simplistic beauty that makes it a lovely accompaniment to any powder room. Choose from medium bronze or dark bronze finishes.",
+                "keywords": "Wall Mounted River Rock Hand Towel Rings, Arched Wall Mounted Towel Rings, Fusion TR-A3, FUS-TR-A3, River Rock Hand Towel Ring with Arched Mounts, Bronze Scalloped Hand Towel Rings,  traditional bathroom hardware, traditional bath towel rings,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "384084",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "31431",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "384446",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "65853",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "33080",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "405450",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "600206",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MXB - Medium Bronze",
+                "Select Finish: DKB - Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MXB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DKB - Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

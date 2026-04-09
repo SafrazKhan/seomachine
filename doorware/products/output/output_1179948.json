@@ -1,0 +1,158 @@
+{
+    "legacy_product_id": "1179948",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hammered Cabinet Knob, Emtek 86037",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-86037",
+            "mpn": "EMT-86037",
+            "price": "19.99",
+            "compare_at_price": "25.0",
+            "contractor_price": "19.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "EMT-86037",
+                "EMT-86213",
+                "Hammered Cabinet Knobs",
+                "Emtek 86037",
+                "Emtek 86213",
+                "Emtek Round Dimpled Knobs",
+                "Round Dimpled Cabinet Knobs",
+                "Emtek Round Hammered Cabinet Knobs",
+                "Emtek arts and crafts cabinet hardware",
+                "modern Tuscan Kitchen hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86037-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86037-525.jpg?v=1716428803"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86037, Round Dimpled Cabinet Knob</b>\r\n\r\n<p>\r\nThe Hammered Cabinet Knob is available in two sizes a small and a large. The hammered design is trending amongst those who want a modern Tuscan Kitchen. The hammered detail adds interest without looking dated.  The Round Dimpled Cabinet Knob is available as satin brass cabinet knobs, oil rubbed bronze kitchen hardware, and satin nickel pulls. Each is packaged with mounting hardware. \r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: <a href=\"/products/hammered-cabinet-pull-emtek-86046\"><b>Hammered Cabinet Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Emtek Round Hammered Cabinet Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Comes packaged with installation screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>86037: Small</b>\r\n<ul>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Total Projection: 1-1/4\"</li>\r\n</ul>\r\n<br>\r\n<b>86213: Large</b>\r\n<ul>\r\n<li>Diameter: 1-3/4\"</li>\r\n<li>Total Projection: 1-1/2\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-artsandcrafts-finish.jpg?v=1704354691\" width=\"345\" height=\"133\" border=\"0\" align=\"left\" alt=\"Emtek Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "Hammered Cabinet Knob",
+                "description": "The Hammered Cabinet Knob is available in two sizes a small and a large. The hammered design is trending amongst those who want a modern Tuscan Kitchen. The hammered detail adds interest without looking dated.  The Round Dimpled Cabinet Knob is available as satin brass cabinet knobs, oil rubbed bronze kitchen hardware, and satin nickel pulls. Each is packaged with mounting hardware.",
+                "keywords": "EMT-86037, EMT-86213, Hammered Cabinet Knobs, Emtek 86037, Emtek 86213, Emtek Round Dimpled Knobs, Round Dimpled Cabinet Knobs, Emtek Round Hammered Cabinet Knobs, Emtek arts and crafts cabinet hardware,  modern Tuscan Kitchen hardware,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Cabinet Hardware",
+                    "sort": "141"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "589258",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "901015",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1150242",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "894646",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "876443",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "726546",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "822749",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "883959",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "1150246",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Select Size: 86037: Small 1-1/4in.",
+                "Select Size: 86213: Large 1-3/4in.",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: US10B: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "86037: Small 1-1/4in. ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "86213: Large 1-3/4in. ",
+                    "price_impact": 22.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

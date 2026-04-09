@@ -1,0 +1,108 @@
+{
+    "legacy_product_id": "862012",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Lexington Active Exterior Trim, Weslock 1444",
+            "vendor": "Weslock",
+            "status": "ARCHIVED",
+            "sku": "WES-1444",
+            "mpn": "WES-1444",
+            "price": "182.0",
+            "compare_at_price": "227.5",
+            "contractor_price": "182.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Weslock 1444 Lexington Handlesets",
+                "WES-1444",
+                "Weslock 1444 Lexington handlesets",
+                "Lexington Active Exterior Trim",
+                "Weslock 1444 Active Exterior Trim"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/WES-1444-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/WES-1444-525.jpg?v=1716426133"
+        },
+        "text": {
+            "description_html": "<b>Weslock 1444, Lexington Exterior Trim</b>\r\n\r\n<p>\r\nThis Lexington Active Exterior Trim features an oval mount. The Weslock 1444 Active Exterior Trim is a stylish addition to any home.\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of the Weslock 1444 Active Exterior Trim:\r\n<ul>\r\n<li>Solid brass.</li>\r\n<li><b>Limited Lifetime Mechanical Warranty</b></li>\r\n<li><b>Limited Lifetime Finish Warranty</b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Lexington Entrance Set:\r\n<ul>\r\n<li>Length: 14-15/16\"</li>\r\n<li>Width: 3-1/2\"</li>\r\n<li>Projection: 2-13/16\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Packaged with Active Exterior Trim Only</i>\r\n</p>",
+            "seo": {
+                "title": "Lexington Active Exterior Trim",
+                "description": "This Lexington Active Exterior Trim features an oval mount. The Weslock 1444 Active Exterior Trim is a stylish addition to any home.",
+                "keywords": "Weslock 1444 Lexington Handlesets, WES-1444, Weslock 1444 Lexington handlesets, Lexington Active Exterior Trim, Weslock 1444 Active Exterior Trim,"
+            },
+            "specifications": [
+                {
+                    "key": "Length",
+                    "value": "14-15/16\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3-1/2\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "2-13/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Discontinued Weslock",
+                    "sort": "21"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "12781",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "12434",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "12825",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "12432",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "12430",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Length: 14-15/16\"",
+                "Width: 3-1/2\"",
+                "Projection: 2-13/16\"",
+                "Select Finish: 1 - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1 - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

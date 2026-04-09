@@ -1,0 +1,98 @@
+{
+    "legacy_product_id": "939040",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Stainless Steel American Mortise Lock Entry Leverset, AHI SIG116-AA9148",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-SIG116-AA9148",
+            "mpn": "AHI-SIG116-AA9148",
+            "price": "556.76",
+            "compare_at_price": "792.0",
+            "contractor_price": "556.76",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Stainless Steel American Mortise Lock Set"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/special_order-52532.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/special_order-52532.jpg?v=1717106356"
+        },
+        "text": {
+            "description_html": "<b>AHI Black Stainless Steel American Mortise Lock Lever Sets</b>\r\n<p>\r\nAmerican style entry door leverset with black stainless steel door levers and 2-3/16\" black square roses. <b> American Mortise Lockcase:</b> Heavy duty for residential, commercial and multifamily housing. Entry door lock function uses American mortise cylinder with Schlage C keyway. \r\n</p>\r\n\r\n\r\n<p>\r\n<b>All Stainless Steel Black Powdercoat Trim:</b> Extremely resistant to corrosion, knocks, scratches and abrasion making it an ideal material for door hardware. It needs little looking after and does not degrade in appearance or function with use.\r\n</p>\r\n<p>\r\n<b>Specifications:</b> \r\n<ul>\r\n<li>Function: Single Cylinder Entry (key outside with thumbturn inside)</li>\r\n\r\n<li>Grade:  ANSI Grade 1</li>\r\n<li>Listing:  UL Listed 3 hour</li>\r\n<li>Case:  Heavy Gauge, Plated Steel</li>\r\n<li>Mortise Case Faceplate: Black Powdercoated Stainless steel 8\" x 1 1/4'' stainless steel</li>\r\n<li>Latch Bolt: Brass Anti friction type, 3/4” throw</li>\r\n<li>Deadbolt: Brass with hardened steel inserts, 1” throw</li>\r\n<li>Hub to Cylinder:  3-5/8\" CTC</li>\r\n<li>Hub to Thumbturn:  2-7/16\" CTC</li>\r\n<li>Lever Hub: 8mm (5/16\") square</li>\r\n<li>Backset: 70mm (2-3/4\")</li>\r\n<li>Door Thickness:  1-3/4\" Minimum thickness, optional up to 3\" thick</li>\r\n<li>Strike plate: Black Powdercoated Stainless steel </li>\r\n<li>Trim Plates: 55mm (2-7/16\") Square </li>\r\n<li>Trim Plate Thickness: 11mm (7/16\")</li>\r\n<li>Solid Stainless Steel Trim</li>\r\n<li>Finish: <b>Matte Black Powdercoat</b></li>\r\n\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nSold as a set, (for 1 door). Set includes two (2) door levers with 55mm square roses, American mortise cylinder with 55mm square roses, mortise lock case, face plate, strike plate, spindles and installation screws. \r\n</p>",
+            "seo": {
+                "title": "Stainless Steel American Mortise Lock Entry Leverset, AHI SIG116-AA9148",
+                "description": "Stainless Steel American Mortise Lock Set",
+                "keywords": "Stainless Steel American Mortise Lock Set"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "AHI-Discontinued-and-Custom",
+                    "sort": "67"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Handing: Right Hand Door, Out-Swing",
+                "Keying (Select Keyed Different or Keyed Alike): I only ordered one",
+                "Keying (Select Keyed Different or Keyed Alike): Keyed Different",
+                "Keying (Select Keyed Different or Keyed Alike): Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Right Hand Door, Out-Swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying (Select Keyed Different or Keyed Alike)",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I only ordered one",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 8.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

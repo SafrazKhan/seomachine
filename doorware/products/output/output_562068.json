@@ -1,0 +1,146 @@
+{
+    "legacy_product_id": "562068",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Plain Knob with Beaded Edge, RK International CK-9310",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-9310",
+            "mpn": "RKI-CK-9310",
+            "price": "11.2",
+            "compare_at_price": "14.0",
+            "contractor_price": "10.64",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Plain Knob with Beaded Edges",
+                "RK International CK-9310",
+                "RKI-CK-9310",
+                "Simple Beaded Knobs",
+                "Simple Raised Beading Cabinet Knobs",
+                "Beaded Cabinet Knobs",
+                "traditional cabinet hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-9310-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-9310-525.jpg?v=1716424520"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-9310, Raised Beading Cabinet Knob</b>\r\n\r\n<p>\r\nAvailable in 6 finishes, this beaded cabinet knob has a classic design that will add old world charm to any space. RK International's Plain Knob with Beaded Edge has a 1-1/2 inch diameter making it the perfect size for almost any small door or drawer.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: <a href=\"/products/round-beaded-cabinet-knob-rose-rk-international-bp-7822\"><b>Round Beaded Cabinet Knob Rose</b></a> and <a href=\"/products/beaded-edge-cabinet-pull-rk-international-cp-2617\"><b>Beaded Cabinet Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-9310 Beaded Cabinet Knob:\r\n<ul>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MUL-T-LOCK-TSR25_size.gif?v=1704354575\" width=\"600\" height=\"133\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Plain Knob with Beaded Edge",
+                "description": "RK International CK-9310, Plain Knob with Beaded Edge - Available in 6 finishes, this beaded cabinet knob has a classic design that will add old world charm to any space. RK International's Plain Knob with Beaded Edge has a 1-1/2 inch diameter making it the perfect size for almost any small door or drawer.",
+                "keywords": "Plain Knob with Beaded Edges, RK International CK-9310, RKI-CK-9310, Simple Beaded Knobs, Simple Raised Beading Cabinet Knobs, Beaded Cabinet Knobs, traditional cabinet hardware,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "7"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "563078",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "566511",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "237960",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "878608",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "27352",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "600195",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "558845",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

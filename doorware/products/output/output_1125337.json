@@ -1,0 +1,95 @@
+{
+    "legacy_product_id": "1125337",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "6 Way Adjustable Plain Passage Latch, Kwikset 81826",
+            "vendor": "Kwikset",
+            "status": "ARCHIVED",
+            "sku": "KWI-81826",
+            "mpn": "KWI-81826",
+            "price": "13.0",
+            "compare_at_price": "13.0",
+            "contractor_price": "13.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Adjustable Plain Latches",
+                "KWI-81826",
+                "Kwikset 81826",
+                "6 Way Adjustable Plain Passage Latches"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525170.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525170.gif?v=1716428345"
+        },
+        "text": {
+            "description_html": "<b>Kwikset 81845, 6 Way Adjustable Plain Passage Latch</b>\r\n\r\n<p>\r\nThis is a 6 Way Adjustable Plain Latch with a Brass tongue.  It is a Passage Function Latch. \r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually. Packaged with Latch only (no face plate). <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Adjustable Plain Latch",
+                "description": "This is a 6 Way Adjustable Plain Latch with a Brass tongue.  It is a Passage Function Latch.",
+                "keywords": "Adjustable Plain Latches, KWI-81826, Kwikset 81826, 6 Way Adjustable Plain Passage Latches"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Kwikset Parts",
+                    "sort": "22"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "931868",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "240763",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "139879",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "952626",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "351730",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "999251",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US3: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "legacy_product_id": "1054724",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin Estates Lever 5141",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-5141xxxLMR",
+            "mpn": "BAL-5141xxxLMR",
+            "price": "103.0",
+            "compare_at_price": "103.0",
+            "contractor_price": "103.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Baldwin 5141",
+                "Estates Collection 5141 Levers",
+                "BAL-5141",
+                "Baldwin Estates Lever 5141"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-5141-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-5141-525.jpg?v=1716427952"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 5141, Estates Collection 5141 Lever</b>\r\n\r\n<p>\r\nThis is a single 5141 Lever packaged without rosettes.\r\n</p>\r\n\r\n<p>\r\n<b>Specification and Features</b> of the 5141 Estates Lever:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Lever Projection: 2.8\"</li>\r\n<li>Length of lever from center mount to tip: 4.6\"</li>\r\n<li>Handing: Left</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Levers are sold individually</b>\r\n</p>",
+            "seo": {
+                "title": "Baldwin Estates Lever 5141",
+                "description": "This is a single 5141 Lever packaged without rosettes.",
+                "keywords": "Baldwin 5141, Estates Collection 5141 Levers, BAL-5141, Baldwin Estates Lever 5141,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Baldwin Discontinued",
+                    "sort": "170"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "273653",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "248460",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "852978",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "213962",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 190: Satin Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "190: Satin Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

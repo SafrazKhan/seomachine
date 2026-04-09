@@ -1,0 +1,91 @@
+{
+    "legacy_product_id": "1119099",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Handleset Designer Cap Replacement, Emtek MS4-DSGNCAP",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-MS4-DSGNCAP",
+            "mpn": "EMT-MS4-DSGNCAP",
+            "price": "7.0",
+            "compare_at_price": "7.0",
+            "contractor_price": "7.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Handleset Designer Cap Replacements",
+                "Handleset Designer Cap Emtek MS4-DSGNCAP",
+                "EMT-MS4-DSGNCAP",
+                "Replacement Designer Cap for Handleset"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-5251593.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-5251593.gif?v=1716428302"
+        },
+        "text": {
+            "description_html": "<b>Emtek-MS4-DSGNCAP, Handleset Designer Cap Replacement</b>\r\n\r\n<p>\r\nThis is a replacement designer cap for <a href=\"/collections/emtek-tubular-handlesets\"></b>Emtek handlesets</b></a>.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually. <b>No Returns.</b></i>\r\n</p>",
+            "seo": {
+                "title": "Handleset Designer Cap",
+                "description": "This is a replacement designer cap for Emtek handlesets.",
+                "keywords": "Handleset Designer Cap Replacements, Handleset Designer Cap Emtek MS4-DSGNCAP, EMT-MS4-DSGNCAP, Replacement Designer Cap for Handleset"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "24"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "894056",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "895367",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "871379",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1104817",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "416171",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: FB: Flat Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FB: Flat Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

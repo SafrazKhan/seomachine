@@ -1,0 +1,158 @@
+{
+    "legacy_product_id": "141956",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Academy Rope Solid Brass Push Plate, Brass Accents A06-P0240",
+            "vendor": "BrassAccents",
+            "status": "ACTIVE",
+            "sku": "BRA-A06-P0240",
+            "mpn": "BRA-A06-P0240",
+            "price": "69.99",
+            "compare_at_price": "87.0",
+            "contractor_price": "66.12",
+            "shipping_weight": "4.0",
+            "tags": [
+                "BRA-A06-P0240 Decorative 3 x 12 Door Push Plates",
+                "Decorative  Push Plates",
+                "Brass Accents academy Push Plates",
+                "A06-P0240 Solid Brass academy Push Plate 3 x 12",
+                "Brass Accents Renaissance Collection door hardware sets",
+                "decorative door push plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/A06-P0240-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/A06-P0240-525.jpg?v=1716421340"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents A06-P0240 Decorative Academy Door Push Plate 3-1/8\" Wide by 12\" High</b>\r\n\r\n<p>\r\nThis plate is a reproduction of the Georgian Design shown in the Phoenix Lock catalog of 1898.\r\n</p>\r\n\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance, hand finished in the USA. They are one of the worlds leading crafters of decorative hot-forged  and cast brass door hardware.\r\n</p>\r\n\r\n\r\n<p>\r\nAlso Available Matching: <b><a href=\"/products/academy-rope-solid-brass-pull-and-plate-brass-accents-a06-p0241\">Academy Rope Plate With Door Pull</a></b>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Brass Accents A06-P0240 Decorative Academy Push Plate:\r\n<ul>\r\n<li>Plate Width: 3-1/8\"</li>\r\n<li>Plate Height: 12\"</li>\r\n<li>Flat Surface: 2-1/4\" x 11-3/16\"</li>\r\n<li>Material: Cast Brass</li>\r\n</ul>\r\n</p>\r\n\r\n</p>\r\nComes complete with matching finish mounting screws for easy installation.\r\n</p>",
+            "seo": {
+                "title": "Academy Rope Solid Brass Push Plate, Brass Accents A06-P0240",
+                "description": "Brass Accents A06-P0240 Academy Rope Push Plate--This plate is a reproduction of the Georgian Design shown in the Phoenix Lock catalog of 1898. \r\n",
+                "keywords": "BRA-A06-P0240 Decorative 3 x 12 Door Push Plates, Decorative  Push Plates, Brass Accents academy Push Plates, A06-P0240 Solid Brass academy Push Plate 3 x 12, Brass Accents Renaissance Collection door hardware sets, decorative door push plates,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Width",
+                    "value": "3-1/8\""
+                },
+                {
+                    "key": "Plate Height",
+                    "value": "12\""
+                },
+                {
+                    "key": "Flat Surface",
+                    "value": "2-1/4\" x 11-3/16\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Cast Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Pull & Push Plates",
+                    "sort": "22"
+                },
+                {
+                    "name": "Decorative Door Pull and Push Plates",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "147528",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "143788",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "143720",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "195685",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "142025",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "143869",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "142110",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "207527",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Plate Width: 3-1/8\"",
+                "Plate Height: 12\"",
+                "Flat Surface: 2-1/4\" x 11-3/16\"",
+                "Material: Cast Brass",
+                "Select Finish: Polished Brass",
+                "Select Finish: Antique Brass",
+                "Select Finish: Satin Nickel",
+                "Select Finish: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Polished"
+                },
+                {
+                    "value": "Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Antique"
+                },
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Satin"
+                },
+                {
+                    "value": "Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Oil"
+                }
+            ]
+        }
+    ]
+}

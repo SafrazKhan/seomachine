@@ -1,0 +1,76 @@
+{
+    "legacy_product_id": "1274710",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Single Disc Rosette Privacy Bolt, Emtek 8681ARCUS15",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-8681ARCUS15",
+            "mpn": "EMT-8681ARCUS15",
+            "price": "54.99",
+            "compare_at_price": "68.0",
+            "contractor_price": "54.99",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Single Disc Rosette Privacy Bolt",
+                "Emtek 8681ARCUS15"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525374.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525374.gif?v=1769494560"
+        },
+        "text": {
+            "description_html": "<b>Emtek 8681ARCUS15, Single Disc Rosette Privacy Bolt</b>\r\n\r\n<p>\r\nPrivacy bolt with single disc rosette and arched thumbturn in satin nickel finish.  Privacy bolt has a thumb turn on inside trim and emergency release trim with key on the exterior and can be paired with any brass passage set.  Includes latch, strike plate, and emergency release tool.  \r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of the Single Disc Rosette Privacy Bolt:\r\n<ul>\r\n<li>Solid brass trim</li>\r\n<li>Fits standard door cut outs (2-1/8\" pre-drilled doors).</li>\r\n<li>Backset: 2-3/8\" or 2-3/4\"</li>\r\n<li>Door Thickness: 1-3/8\" - 1-3/4\"</li>\r\n<li>Finish: Satin Nickel</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Single Disc Rosette Privacy Bolt, Emtek 8681ARCUS15",
+                "description": "Single Disc Rosette Privacy Bolt, Emtek 8681ARCUS15",
+                "keywords": "Single Disc Rosette Privacy Bolt, Emtek 8681ARCUS15"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Custom and Special Orders",
+                    "sort": "39"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Backset: 2-3/8in. Backset",
+                "Select Backset: 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

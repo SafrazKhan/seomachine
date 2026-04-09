@@ -1,0 +1,176 @@
+{
+    "legacy_product_id": "542807",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Alder Cabinet Knob, RK International CK-161",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-161",
+            "mpn": "RKI-CK-161",
+            "price": "10.99",
+            "compare_at_price": "12.87",
+            "contractor_price": "10.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Timeless Alder Cabinet Knobs",
+                "Alder Cabinet Knobs",
+                "RKI-CK-161",
+                "RK International CP-161",
+                "RK International CK 161 traditional cabinet hardware",
+                "classic cabinet Knobs",
+                "simple cabinet Knobs",
+                "timeless cabinet knobs",
+                "square cabinet knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-161-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-161-5251.jpg?v=1716424329"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-161, Timeless Alder Cabinet Knob</b>\r\n\r\n<p>\r\nRK International is a new brand for us at Doorware.com but we had to add their <a href=\"/collections/rk-international\">extensive line of cabinet hardware</a> because we fell in love with the timelessness of their products. One Such example is the Alder Collection Cabinet Knob. What we love about this knob is how versatile it is--its classic design will look great in almost any setting. We imagine this as the perfect finishing touch to upscale rental homes, where versatility is a must for renters with different tastes. However, the Adler Cabinet Knob is so beautiful you probably will adorn your own cabinets with it. Available in 7 stunning finishes including black (pictured right), satin nickel, and oil rubbed bronze.\r\n</p>\r\n\r\n<p>\r\nAlso Available: <a href=\"/products/alder-cabinet-pull-rk-international\"><b>Matching Alder Cabinet Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Alder Collection Cabinet Knob:\r\n<ul>\r\n<li>Material: Zinc</li>\r\n<li>Length: 1-1/4\" square</li>\r\n<li>Projection: 1-1/32\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Alder Cabinet Knob",
+                "description": "RK International CK-161, Alder Cabinet Knob - RK International is a new brand for us at Doorware.com but we had to add their extensive line of cabinet hardware because we fell in love with the timelessness of their products. One Such example is the Alder Collection Cabinet Knob. What we love about this knob is how versatile it is--its classic design will look great in almost any setting. We imagine this as the perfect finishing touch to upscale rental homes, where versatility is a must for renters with different tastes. However, the Adler Cabinet Knob is so beautiful you probably will adorn your own cabinets with it. Available in 7 stunning finishes including black, satin nickel, and oil rubbed bronze.",
+                "keywords": "Timeless Alder Cabinet Knobs, Alder Cabinet Knobs, RKI-CK-161, RK International CP-161, RK International CK 161 traditional cabinet hardware, classic cabinet Knobs, simple cabinet Knobs, timeless cabinet knobs, square cabinet knobs,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Zinc"
+                },
+                {
+                    "key": "Length",
+                    "value": "1-1/4\" square"
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-1/32\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "5"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1056692",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "818345",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "304259",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "41768",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "43133",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "43208",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "185113",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "976915",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Material: Zinc",
+                "Length: 1-1/4\" square",
+                "Projection: 1-1/32\"",
+                "Select Finish: BL: Black",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: WN: Weathered Nickel",
+                "Select Finish: BE: Brushed English",
+                "Select Finish: VB: Valencia Bronze",
+                "Select Finish: RB: Oil Rubbed Bronze",
+                "Select Finish: PN: Polished Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BL: Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "WN: Weathered Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BE: Brushed English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "VB: Valencia Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

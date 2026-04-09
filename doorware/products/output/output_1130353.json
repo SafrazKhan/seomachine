@@ -1,0 +1,79 @@
+{
+    "legacy_product_id": "1130353",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Thumbturn for L Series Mortise Lock, Schlage 09-509-027",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-09-509-027",
+            "mpn": "SCH-09-509-027",
+            "price": "97.8",
+            "compare_at_price": "97.8",
+            "contractor_price": "97.8",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Schlage Thumbturn for L Series Mortise Locks",
+                "Thumbturn for L Series Mortise Locks",
+                "Schlage 09-509-027",
+                "SCH-09-509-027"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SCH-09-509-027-626-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SCH-09-509-027-626-525.jpg?v=1716428357"
+        },
+        "text": {
+            "description_html": "<B>Schlage 09-509-027, Thumbturn for L Series Mortise Lock</b>\r\n\r\n<p>\r\nThis is a basic thumbturn for the Schlage L Series mortise lock. 1-3/8 inch to 1-7/8 inch door range, extended equally.\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>NO Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Thumbturn for L Series Mortise Lock",
+                "description": "This is a basic thumbturn for the Schlage L Series mortise lock. 1-3/8 inch to 1-7/8 inch door range, extended equally.",
+                "keywords": "Schlage Thumbturn for L Series Mortise Locks, Thumbturn for L Series Mortise Locks, Schlage 09-509-027, SCH-09-509-027"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "106"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "222835",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "12629",
+                    "sort": "2"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 626: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

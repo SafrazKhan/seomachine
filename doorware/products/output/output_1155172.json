@@ -1,0 +1,117 @@
+{
+    "legacy_product_id": "1155172",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Pacifica Cabinet Pull, Laurey 159",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "LAU-159",
+            "mpn": "LAU-159",
+            "price": "6.6",
+            "compare_at_price": "8.8",
+            "contractor_price": "6.27",
+            "shipping_weight": "1.0",
+            "tags": [
+                "96mm Pacifica Squigly Pulls",
+                "Pacifica Cabinet Pull",
+                "Laurey 159",
+                "LAU-159",
+                "Laurey 15926",
+                "LAU-15926",
+                "Laurey 15959",
+                "LAU-15959",
+                "modern cabinet hardware",
+                "unique cabinet hardware",
+                "beach cabinet hardware",
+                "miami cabinet pulls",
+                "3-3/4 Inch Pacifica Cabinet Handles",
+                "Laurey 96mm Pacifica Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LAU-159-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-159-525.jpg?v=1716428523"
+        },
+        "text": {
+            "description_html": "<b>Laurey 159, 3-3/4 Inch Pacifica Cabinet Handle</b>\r\n\r\n\r\n<p>\r\nThe Pacifica Cabinet Pull is a show stopper with stylish finish color options and a unique sense of movement. This 3-3/4 inch center to center cabinet handle can be installed in any orientation you like: horizontal, vertical, and even diagonal. The 96mm Pacifica Squigly Pull comes packaged with the mounting hardware. \r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Laurey 96mm Pacifica Cabinet Pull:\r\n<ul>\r\n<li>Material: Zinc</li>\r\n<li>Length c.c. (center to center): 3-3/4\"</li>\r\n<li>Overall Length: 5\"</li>\r\n<li>Width: 1/4\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n<li>Packaged with 1\" long #8-32 screws and 1-1/2\"  long #8-32 screws.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Pacifica Cabinet Pull",
+                "description": "The Pacifica Cabinet Pull is a show stopper with stylish finish color options and a unique sense of movement. This 3-3/4 inch center to center cabinet handle can be installed in any orientation you like: horizontal, vertical, and even diagonal. The 96mm Pacifica Squigly Pull comes packaged with the mounting hardware.",
+                "keywords": "96mm Pacifica Squigly Pulls, Pacifica Cabinet Pull, Laurey 159, LAU-159, Laurey 15926, LAU-15926, Laurey 15959, LAU-15959, modern cabinet hardware, unique cabinet hardware, beach cabinet hardware, miami cabinet pulls, 3-3/4 Inch Pacifica Cabinet Handles,  Laurey 96mm Pacifica Cabinet Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Laurey Cabinet Pulls",
+                    "sort": "106"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1100954",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "352581",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "553879",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "352914",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "948300",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "907380",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "565698",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: LAU-15959: Satin Nickel",
+                "Select Finish: LAU-15926: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LAU-15959: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-15959-SM.jpg?v=1774582236",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-15959-LG.jpg?v=1711366633"
+                },
+                {
+                    "value": "LAU-15926: Polished Chrome",
+                    "price_impact": 0.88,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-15926-SM.jpg?v=1774582239",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-15926-LG.jpg?v=1711366633"
+                }
+            ]
+        }
+    ]
+}

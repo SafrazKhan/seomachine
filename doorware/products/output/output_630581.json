@@ -1,0 +1,121 @@
+{
+    "legacy_product_id": "630581",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Southern Manor Toilet Paper Holder, Fusion PH-T9",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-PH-T9",
+            "mpn": "FUS-PH-T9",
+            "price": "109.0",
+            "compare_at_price": "109.0",
+            "contractor_price": "81.75",
+            "shipping_weight": "4.0",
+            "tags": [
+                "Ahwahnee Paper Holders",
+                "Southern Manor  Toilet Paper Holders",
+                "Fusion PH-T9",
+                "FUS-PH-T9",
+                "American Relic Series Toilet Tissue Wall Mounts",
+                "toilet paper holders",
+                "toilet paper roll holders",
+                "bathroom accessories",
+                "traditional bathroom toilet paper holders",
+                "classic bathroom toilet paper holders",
+                "toilet tissue holders",
+                "Fusion Ahwahnee Trim American Relic toilet paper holder",
+                "American Relic Series Southern Manor Toilet Tissue Wall Mounts",
+                "Fusion Southern Manor Trim Paper Holders"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-PH-T9-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-PH-T9-525.jpg?v=1711365515"
+        },
+        "text": {
+            "description_html": "<b>Fusion PH-T9, American Relic Series Southern Manor Toilet Tissue Wall Mount</b>\r\n\r\n<p>\r\nThe Southern Manor Toilet Paper Holder has old world charm by remaining true to the classic silhouettes of early American architecture. This wall-mounted toilet paper holder is easy to install and comes with all the necessary mounting hardware. A large toilet tissue holder, the PH-T9 made by Fusion can accommodate even the biggest of rolls.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/southern-manor-towel-bar-fusion-tb-t9\"><b>Southern Manor Towel Bar</b></a>, <a href=\"/products/southern-manor-towel-ring-fusion-tr-t9\"><b>Southern Manor Towel Ring</b></a>, and <a href=\"/products/southern-manor-robe-hook-fusion-rh-t9\"><b>Southern Manor Robe Hook</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Fusion Southern Manor Trim Paper Holder:\r\n<ul>\r\n<li>Mount Width: 2-3/4\"</li>\r\n<li>Mount Length: 3-1/2\"</li>\r\n<li>Mount Projection: 1/2\"</li>\r\n<li>Reversible to hang in either direction.</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Southern Manor Toilet Paper Holder, Fusion PH-T9",
+                "description": "Fusion PH-T9 Southern Manor  Toilet Paper Holder - The Southern Manor Toilet Paper Holder has old world charm by remaining true to the classic silhouettes of early American architecture. This wall-mounted toilet paper holder is easy to install and comes with all the necessary mounting hardware. A large toilet tissue holder, the PH-T9 made by Fusion can accommodate even the biggest of rolls.",
+                "keywords": "Ahwahnee Paper Holders, Southern Manor  Toilet Paper Holders, Fusion PH-T9, FUS-PH-T9,  American Relic Series Toilet Tissue Wall Mounts, toilet paper holders, toilet paper roll holders, bathroom accessories, traditional bathroom toilet paper holders, classic bathroom toilet paper holders, toilet tissue holders, Fusion Ahwahnee Trim American Relic toilet paper holder, American Relic Series Southern Manor Toilet Tissue Wall Mounts,  Fusion Southern Manor Trim Paper Holders,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "379317",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "384434",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "43208",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "295864",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "565581",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "383468",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DRB - Dark Relic Bronze",
+                "Select Finish: MRB - Medium Relic Bronze",
+                "Select Finish: ARP - Antique Relic Pewter"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DRB - Dark Relic Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MRB - Medium Relic Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ARP - Antique Relic Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

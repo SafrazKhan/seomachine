@@ -1,0 +1,131 @@
+{
+    "legacy_product_id": "76598",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Bommer Industries 5\" x 4 1/2\" BB5004-545 Steel Heavy Weight Ball Bearings",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "BOM-BB5004-545",
+            "mpn": "BOM-BB5004-545",
+            "price": "48.91",
+            "compare_at_price": "75.25",
+            "contractor_price": "46.47",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Bommer Industries 5\" x 4 1/2\" BB5004-545 Steel Heavy Duty Ball Bearings bommer industries 5\" x 4 1/2\" bb5004-545 steel heavy weight ball bearings"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Bommer Industries 5\" x 4 1/2\" BB5004-545 Steel Heavy Weight Ball Bearings<br>\r\n<br>\r\nHinges priced per each<br>\r\nSize: 5\" x 4 1/2\"<br>\r\nFull Mortise<br>\r\nHeavy Weight<br>\r\nBall Bearing<br>\r\nGauge: .190<br>\r\nNumber of Holes: 8<br>\r\nMachine Screws: 12-24 X 1/2<br>\r\nWood Screws: 12 x 1 1/4<br>\r\n<br>\r\n<a href=\"https://www.bommer.com/Images/Templates/BB5004-500-T.pdf\" target=\"popup\">click here</a> to view more product dimensions<br>\r\n<br>\r\nClick below to choose Finish",
+            "seo": {
+                "title": "Bommer Industries 5\" x 4 1/2\" BB5004-545 Steel Heavy Weight Ball Bearings",
+                "description": "Bommer Industries 5 x 4 1/2 BB5004-545 Steel Heavy Weight Ball Bearings\r\n\r\nHinges priced per each\r\nSize: 5 x 4 1/2\r\nFull Mortise\r\nHeavy Weight\r\nBall Bearing\r\nGauge: .190\r\nNumber of Holes: 8\r\nMachine Screws: 12-24 X 1/2\r\nWood Screws: 12 x 1 1/4\r\n\r\n",
+                "keywords": "Bommer Industries 5\" x 4 1/2\" BB5004-545 Steel Heavy Duty Ball Bearings bommer industries 5\" x 4 1/2\" bb5004-545 steel heavy weight ball bearings"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Bommer Butt Hinges",
+                    "sort": "20"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: 600 - Primed For Painting",
+                "Select Finish: 632 - Bright Brass, Clear Coated",
+                "Select Finish: 633 - Satin Brass, Clear Coated",
+                "Select Finish: 639 - Satin Bronze, Clear Coated",
+                "Select Finish: 640 - Oil Rubbed Bronze",
+                "Select Finish: 643 - Dark Satin Bronze, Clear Coated",
+                "Select Finish: 651 - Bright Chrome",
+                "Select Finish: 652 - Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "600 - Primed For Painting",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "600"
+                },
+                {
+                    "value": "632 - Bright Brass, Clear Coated",
+                    "price_impact": 25.76,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "632"
+                },
+                {
+                    "value": "633 - Satin Brass, Clear Coated",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "633"
+                },
+                {
+                    "value": "639 - Satin Bronze, Clear Coated",
+                    "price_impact": 2.03,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "639"
+                },
+                {
+                    "value": "640 - Oil Rubbed Bronze",
+                    "price_impact": 25.76,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "640"
+                },
+                {
+                    "value": "643 - Dark Satin Bronze, Clear Coated",
+                    "price_impact": 25.76,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "643"
+                },
+                {
+                    "value": "651 - Bright Chrome",
+                    "price_impact": 25.76,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "651"
+                },
+                {
+                    "value": "652 - Satin Chrome",
+                    "price_impact": 4.05,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "652"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "legacy_product_id": "637715",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Deadbolt Strike Filler Plate, Don-Jo EF-161",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "DJO-EF-161",
+            "mpn": "DJO-EF-161",
+            "price": "4.0",
+            "compare_at_price": "5.0",
+            "contractor_price": "3.6",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Don-Jo EF-161",
+                "Latch Hole Filler Plates",
+                "Deadbolt Strike Filler Plates",
+                "DJO-EF-161-S",
+                "Deadbolt Latch Hole Filler Plate for 2-3/4 inch x 1-1/8 inch Cut Outs",
+                "deadbolt striker hole covers",
+                "deadbolt hole covers",
+                "Don Jo Latch Filler Don-Jo EF 161 S",
+                "Don-Jo  ef161s",
+                "Don-Jo ef-161s",
+                "Don-Jo EF-161-PC",
+                "Don-Jo EF-161-BP",
+                "Don-Jo EF-161-CP",
+                "Don-Jo EF-161-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-EP-161-S-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-EP-161-S-525.jpg?v=1716425081"
+        },
+        "text": {
+            "description_html": "<b>Don-Jo EF-161, Deadbolt Strike Hole Filler Plate for 2-3/4\" x 1-1/8\" Cut Out</b>\r\n\r\n<p>\r\nThe Deadbolt Strike Filler Plate is 2-3/4\" high by 1-1/8\" wide and covers a standard  door deadbolt strike plate hole. Packaged with 2 installation screws.\r\n\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Don-Jo EF-161-S S Deadbolt Strike Plate Filler:\r\n<ul>\r\n<li>Plate Height: 2-3/4\"</li>\r\n<li>Plate Width: 1-1/8\"</li>\r\n<li>Center to Center for Attachment Holes:  2-7/64\"</li>\r\n<li>Material: 11 gauge steel</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Deadbolt Strike Filler Plate, Don-Jo EF-161",
+                "description": "Don-Jo EF-161-S Deadbolt Strike Filler Plate - The Deadbolt Strike Filler Plate is 2-3/4 inches high by 1-1/8 inches wide and covers a standard  door deadbolt strike plate hole. Packaged with 2 installation screws. These are normally used when a panic device is installed on a pre-drilled hollow metal commercial door to cover the door latch hole.",
+                "keywords": "Don-Jo EF-161, Latch Hole Filler Plates, Deadbolt Strike Filler Plates, DJO-EF-161-S, Deadbolt Latch Hole Filler Plate for 2-3/4 inch x 1-1/8 inch Cut Outs, deadbolt striker hole covers, deadbolt hole covers, Don Jo Latch Filler Don-Jo EF 161 S, Don-Jo  ef161s, Don-Jo ef-161s, Don-Jo EF-161-PC, Don-Jo EF-161-BP, Don-Jo EF-161-CP, Don-Jo EF-161-DU"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Height",
+                    "value": "2-3/4\""
+                },
+                {
+                    "key": "Plate Width",
+                    "value": "1-1/8\""
+                },
+                {
+                    "key": "Center to Center for Attachment Holes",
+                    "value": "2-7/64\""
+                },
+                {
+                    "key": "Material",
+                    "value": "11 gauge steel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Latch Conversion and Filler Plates",
+                    "sort": "2"
+                },
+                {
+                    "name": "Door Latch Conversion and Filler Plates",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "353918",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "368922",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "278370",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "257781",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "435615",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "227181",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Plate Height: 2-3/4\"",
+                "Plate Width: 1-1/8\"",
+                "Center to Center for Attachment Holes: 2-7/64\"",
+                "Material: 11 gauge steel",
+                "Select Finish: PC: Primer",
+                "Select Finish: BP: Brass Plated",
+                "Select Finish: CP: Chrome Plated",
+                "Select Finish: DU: Duro (Dark Bronze)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PC: Primer",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BP: Brass Plated",
+                    "price_impact": 9.3,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CP: Chrome Plated",
+                    "price_impact": 9.3,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DU: Duro (Dark Bronze)",
+                    "price_impact": 4.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

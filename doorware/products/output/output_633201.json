@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "633201",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Shaker Towel Ring, Fusion TR-S8",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-TR-S8",
+            "mpn": "FUS-TR-S8",
+            "price": "99.0",
+            "compare_at_price": "99.0",
+            "contractor_price": "74.25",
+            "shipping_weight": "4.0",
+            "tags": [
+                "Sonoma Series Shaker Rose Towel Rings",
+                "Shaker Hand Towel Rings",
+                "Shaker Towel Rings",
+                "Fusion TR-S8",
+                "Shaker Trim Hand Towel Rings",
+                "FUS-TR-S8",
+                "traditional bathroom hardware",
+                "traditional bath towel rings"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-TR-S8-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-TR-S8-525.jpg?v=1711365520"
+        },
+        "text": {
+            "description_html": "<b>Fusion TR-S8, Shaker Hand Towel Ring</b>\r\n\r\n<p>\r\nThe Shaker Towel Ring has a rustic look that is very popular with today's home decorators. Every detail about this hand towel ring makes it perfect for bathrooms with ann earthy feel. Choose from either medium bronze or oil rubbed bronze finishes. The Shaker Trim Towel Ring is mounted to the wall near the bathroom sink. It is easy to install and comes packaged with the mounting screws.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/shaker-trim-towel-bar-fusion-tb-s8\"><b>Fusion TB-S8 Shaker Towel Bar</b></a>, \r\n<a href=\"/products/shaker-trim-robe-hook-fusion-rh-s8\"><b>Fusion RH-S8 Shaker Robe Hook</b></a>, and\r\n<a href=\"/products/shaker-rose-toilet-paper-holder-fusion-ph-s8\"><b>Fusion PH-S8 Shaker Toilet Paper Holder</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Sonoma Series Shaker Rose Towel Ring:\r\n<ul>\r\n<li>Mount Width: 2-1/2\"</li>\r\n<li>Mount Length: 4-1/4\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Shaker Towel Ring, Fusion TR-S8",
+                "description": "Fusion TR-S8, Shaker Towel Ring - The Shaker Towel Ring has a rustic look that is very popular with today's home decorators. Every detail about this hand towel ring makes it perfect for bathrooms with an earthy feel. Choose from either medium bronze or oil rubbed bronze finishes. The Shaker Trim Towel Ring is mounted to the wall near the bathroom sink. It is easy to install and comes packaged with the mounting screws.",
+                "keywords": "Sonoma Series Shaker Rose Towel Rings, Shaker Hand Towel Rings, Shaker Towel Rings, Fusion TR-S8, Shaker Trim Hand Towel Rings, FUS-TR-S8,  traditional bathroom hardware, traditional bath towel rings,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "21"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "631518",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "187070",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "379571",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "383169",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "447053",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "385163",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MDB - Medium Bronze",
+                "Select Finish: ORB - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MDB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

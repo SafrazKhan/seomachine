@@ -1,0 +1,125 @@
+{
+    "legacy_product_id": "178360",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "S - Style Door Knockers Baldwin 0113",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BALD-0113",
+            "mpn": "BALD-0113",
+            "price": "144.8",
+            "compare_at_price": "181.0",
+            "contractor_price": "144.8",
+            "shipping_weight": "3.0",
+            "tags": [
+                "BALD-0113",
+                "Baldwin 0113 door knocker. Traditional Doctors Door Knocker",
+                "baldwin door knockers",
+                "baldwin s style"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-0113-525x586.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-0113-525x586.jpg?v=1716421696"
+        },
+        "text": {
+            "description_html": "<b>Baldwin \"S\" Style (doctor style) Door Knocker</b>\r\n<p>\r\nThe \"S\" style, also know as the Traditional Doctors Door Knocker is ideal for the modest entryway where elegance is important to the owner.\r\n</p>\r\n<p>\r\n<b>Specifications:</b>\r\n<ul>\r\n<li>Height  -  7 3/4\"</li>\r\n<li>Width - 2\"</li>\r\n<li>Mounting Centers -  5\"</li>\r\n<li>Max Thickness - 2 3/4\"</li>\r\n<li>Solid Brass</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "S - Style Door Knockers Baldwin 0113",
+                "description": "Baldwin 0113 door knocker BALD-0113 - Baldwin S style (doctor type) door knocker. Available in 7 different finishes  (oil rubbed bronze, polished brass, venetian bronze. satin nickel, antique nickel, polished chrome and PVD lifetime polished brass).",
+                "keywords": "BALD-0113, Baldwin 0113 door knocker. Traditional Doctors Door Knocker, baldwin door knockers, baldwin s style ,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Door Knockers",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: BALD-0113-030 - Polished Brass",
+                "Select Finish: BALD-0113-102 - Oil Rubbed Bronze",
+                "Select Finish: BALD-0113-112 - Venetian Bronze",
+                "Select Finish: BALD-0113-150 - Satin Nickel",
+                "Select Finish: BALD-0113-151 - Antique Nickel",
+                "Select Finish: BALD-0113-260 - Polished Chrome",
+                "Select Finish: BALD-0113-003 - PVD Lifetime Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BALD-0113-030 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "BALD-0113-030"
+                },
+                {
+                    "value": "BALD-0113-102 - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "BALD-0113-102"
+                },
+                {
+                    "value": "BALD-0113-112 - Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "BALD-0113-112"
+                },
+                {
+                    "value": "BALD-0113-150 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "BALD-0113-150"
+                },
+                {
+                    "value": "BALD-0113-151 - Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "BALD-0113-151"
+                },
+                {
+                    "value": "BALD-0113-260 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "BALD-0113-260"
+                },
+                {
+                    "value": "BALD-0113-003 - PVD Lifetime Polished Brass",
+                    "price_impact": 25.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "BALD-0113-003"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "legacy_product_id": "1171714",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Strike for Mortise Locksets, Omnia 015/A",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-015/A",
+            "mpn": "OMN-015/A",
+            "price": "64.0",
+            "compare_at_price": "64.0",
+            "contractor_price": "64.0",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Omnia 015/A",
+                "OMN-015/A",
+                "Strike for Mortise Locksets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525208.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525208.gif?v=1716428761"
+        },
+        "text": {
+            "description_html": "<b>Omnia 015/A Strike for Mortise Locksets</b>\r\n<p>Strike plate for Omnia Mortise Locksets.</p>",
+            "seo": {
+                "title": "Strike for Mortise Locksets",
+                "description": " Omnia 015/A Strike for Mortise Locksets",
+                "keywords": "Omnia 015/A, OMN-015/A, Strike for Mortise Locksets"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "111"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: 26D: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

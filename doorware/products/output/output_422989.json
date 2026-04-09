@@ -1,0 +1,76 @@
+{
+    "legacy_product_id": "422989",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Polished Brass Lever Trim for 88 Series Exit Device, Von Duprin 373L",
+            "vendor": "Von Duprin",
+            "status": "ARCHIVED",
+            "sku": "VON-373L3",
+            "mpn": "VON-373L3",
+            "price": "511.0",
+            "compare_at_price": "639.0",
+            "contractor_price": "400.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Polished Brass Lever Trim for 88 Series Exit Device",
+                "Von Duprin 373L"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Polished Brass Lever Trim for 88 Series Exit Device, Von Duprin 373L</b>\r\n<p>\r\nThis is a Entry Function Lever (key locks and unlocks lever) for Von Duprin  <a href=\"/products/polished-brass-88-series-rim-exit-device-with-lever-trim-von-duprin-88l3\">88 Series Rim Exit Device</b></a>.\r\n</p>\r\n<p>\r\nPackaged with mounting hardware, instructions, and 2 keys.\r\n</p>\r\n<p>\r\n<b>Features</b> for Von Duprin Series 373L Keyed Entry Lever\r\n<ul>\r\n<li>Function: Entry - Key locks and unlocks the lever. When unlocked turning the lever unlatches the exit device. </li>\r\n<li>Escutcheon Plate 7/8\" Thick Forged Brass</li>\r\n<li>Lever Length: 5\"</li>\r\n<li>Lever Projection: 2-5/8\"</li>\r\n<li>Finish: <b>Polished Brass</b> </li>\r\n<li>Handed</li>\r\n<li>Supplied with 2 keys</li>\r\n<li>ADA Compliant</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/handicap-logo.jpg?v=1704353001\" width=\"100\" height=\"98\" border=\"0\" alt=\"ADA Compliant Handicap Logo\">\r\n</p>",
+            "seo": {
+                "title": "Polished Brass Lever Trim for 88 Series Exit Device, Von Duprin 373L",
+                "description": "Polished Brass Lever Trim for 88 Series Exit Device, Von Duprin 373L",
+                "keywords": "Polished Brass Lever Trim for 88 Series Exit Device, Von Duprin 373L"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Von Duprin",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Handing: RH - Right Hand",
+                "Select Handing: LH - Left Hand"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RH - Right Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LH - Left Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

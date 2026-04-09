@@ -1,0 +1,193 @@
+{
+    "legacy_product_id": "653164",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Regency Door Knocker, Brass Accents A03-K4014",
+            "vendor": "BrassAccents",
+            "status": "ACTIVE",
+            "sku": "BRA-A03-K4014",
+            "mpn": "BRA-A03-K4014",
+            "price": "42.99",
+            "compare_at_price": "53.0",
+            "contractor_price": "40.28",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Brass Accents A03-K4014",
+                "Regency Door Knockers",
+                "Regency Knockers",
+                "BRA-A03-K4014",
+                "historical building decorating",
+                "traditional home decorating",
+                "Georgian architecture",
+                "colonial america decor",
+                "engravable door knockers",
+                "family name door knockers",
+                "Solid Brass 6-1/8 Regency Knockers",
+                "Traditional Regency Front Door Knockers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BRA-A03-K4014-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BRA-A03-K4014-525.jpg?v=1716425172"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents A03-K4014, Solid Brass 6-1/8\" Regency Knocker</b>\r\n\r\n<p>\r\nThe Regency Door Knocker is beautiful with strong roots in historical design. It is made out of solid brass and available in a wide array of stunning finishes including all of the most popular like polished nickel and oil rubbed bronze. The Regency Knocker is 6-1/8 inches tall with a 4-1/4 inch center to center. Add charm to your front door with this elegant knocker.\r\n</p>\r\n\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance. Their products are hand finished in the USA. They are one of the world's leading crafters of cast-brass and hot-forged decorative brass hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Traditional Regency Front Door Knocker:\r\n<ul>\r\n<li>Height: 6-1/8\"</li>\r\n<li>Width: 3-1/4\"</li>\r\n<li>Mounting Center: 4-1/4\"</li>\r\n<li>Projection: 7/8\"</li>\r\n<li>Material: Solid Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>",
+            "seo": {
+                "title": "Regency Door Knocker, Brass Accents A03-K4014",
+                "description": "Brass Accents A03-K4014 Regency Door Knocker - The Regency Door Knocker is beautiful with strong roots in historical design. It is made out of solid brass and available in a wide array of stunning finishes including all of the most popular like polished nickel and oil rubbed bronze. The Regency Knocker is 6-1/8 inches tall with a 4-1/4 inch center to center. Add charm to your front door with this elegant knocker.",
+                "keywords": "Brass Accents A03-K4014, Regency Door Knockers, Regency Knockers, BRA-A03-K4014, historical building decorating, traditional home decorating, Georgian architecture, colonial america decor, engravable door knockers, family name door knockers, Solid Brass 6-1/8 Regency Knockers, Traditional Regency Front Door Knockers,"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "6-1/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3-1/4\""
+                },
+                {
+                    "key": "Mounting Center",
+                    "value": "4-1/4\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "7/8\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knockers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knockers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-6",
+            "collections": [
+                {
+                    "name": "Brass Accents Door Knockers",
+                    "sort": "20"
+                },
+                {
+                    "name": "Door Knockers",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "143869",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "29821",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "76695",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "617171",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "156724",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "294228",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "27583",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Height: 6-1/8\"",
+                "Width: 3-1/4\"",
+                "Mounting Center: 4-1/4\"",
+                "Projection: 7/8\"",
+                "Material: Solid Brass",
+                "Select Finish: Polished Brass",
+                "Select Finish: Antique Brass",
+                "Select Finish: Satin Brass",
+                "Select Finish: Matte Black",
+                "Select Finish: Oil Rubbed Bronze",
+                "Select Finish: Satin Nickel",
+                "Select Finish: Antique Nickel",
+                "Select Finish: Venetian Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "legacy_product_id": "164713",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Brass Drop Tail Door Leverset with Traditional Rose",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-AD-F2",
+            "mpn": "FUS-AD-F2",
+            "price": "113.4",
+            "compare_at_price": "126.0",
+            "contractor_price": "107.75",
+            "shipping_weight": "6.0",
+            "tags": [
+                "FUS-AD-F2",
+                "Fusion AD-F2",
+                "Traditional Brass Drop Tail Levers",
+                "fusion hardware",
+                "fusion door hardware",
+                "custom lever",
+                "lever sets",
+                "brass lever",
+                "solid brass lever set",
+                "custom lever set",
+                "keyed entry levers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-AD-F2_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-AD-F2_525.jpg?v=1711365169"
+        },
+        "text": {
+            "description_html": "<b>Fusion  Keyed Entry Traditional Brass Drop Tail Lever with Traditional Rose</b>\r\n<p>\r\nHigh Quality Solid Brass Levers backed by a lifetme limited warranty. When you demand quality and craftmanship make a statement with Fusion. \r\n</p>\r\n<p>\r\n<b>\r\n<ul>\r\n<li>Dual Spring Assist- To eliminate Lever Wobble</li>\r\n<li>Auto-adjust- For Easy Installation</li>\r\n<li>Conforms To ANSI Grade 2 Latch Standards</li>\r\n<li>Standard Door Installation</li>\r\n<li>Sold As Complete Sets</li><br>\r\n</ul>\r\n</b>\r\n</p>\r\n<br>",
+            "seo": {
+                "title": "Solid Brass Drop Tail Door Leverset with Traditional Rose",
+                "description": "Fusion AD-F2 Traditional Brass Drop Tail Lever with Traditional Rose. Solid Brass Keyed Entry Lever advailable in  5 finishes. Excellent quality. Fits standard door prep. Comes as complete set",
+                "keywords": "FUS-AD-F2, Fusion AD-F2, Traditional Brass Drop Tail Levers, fusion hardware, fusion door hardware, custom lever, lever sets, brass lever, solid brass lever set, custom lever set, keyed entry levers,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion-MISC-Discontinued",
+                    "sort": "35"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: MDB - Medium Bronze",
+                "Select Finish: ATP - Antique Pewter",
+                "Select Finish: BRN - Brushed Nickel",
+                "Select Finish: ATC - Antique Copper",
+                "Select Finish: ORB - Oil Rubbed Bronze",
+                "Select Backset: 2 3/8in. Backset",
+                "Select Backset: 2 3/4in. Backset",
+                "Select Handing: (R) - Right Hand",
+                "Select Handing: (L) - Left Hand",
+                "Keying-Mortise: I Only Ordered One Lock",
+                "Keying-Mortise: Keyed Different",
+                "Keying-Mortise: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MDB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "PVD"
+                },
+                {
+                    "value": "ATP - Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "ATP"
+                },
+                {
+                    "value": "BRN - Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "BRN"
+                },
+                {
+                    "value": "ATC - Antique Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "ATC"
+                },
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "ORB"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2 3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2"
+                },
+                {
+                    "value": "2 3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "(R) - Right Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "R"
+                },
+                {
+                    "value": "(L) - Left Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "L"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying-Mortise",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                }
+            ]
+        }
+    ]
+}

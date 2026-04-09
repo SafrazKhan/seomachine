@@ -1,0 +1,183 @@
+{
+    "legacy_product_id": "1263562",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Norwich Cabinet Knob, Emtek 86610",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-86610",
+            "mpn": "EMT-86610",
+            "price": "15.99",
+            "compare_at_price": "19.0",
+            "contractor_price": "15.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Emtek Norwich Knobs",
+                "Norwich Cabinet Knobs",
+                "Emtek 86610",
+                "Emtek 86611",
+                "transitional Norwich cabinet knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86610-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86610-525.jpg?v=1769496138"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86610, Cabinet Norwich Knob</b>\r\n\r\n<p>\r\nIf you are looking for cabinet hardware that will introduce a since of style and movement to your space, the Norwich Cabinet Knob is just what you need. This stylish, transitional cabinet knob is available in 2 sizes. Choose from an array of beautiful finish colors. The Norwich Cabinet Knob comes packaged with mounting hardware.</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Emtek Norwich Cabinet Knob:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>86610: Small</b>\r\n<ul>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n</ul>\r\n<br>\r\n<b>86464: Large</b>\r\n<ul>\r\n<li>Diameter: 1-5/8\"</li>\r\n<li>Projection: 1-1/2\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Norwich Cabinet Knob",
+                "description": "If you are looking for cabinet hardware that will introduce a since of style and movement to your space, the Norwich Cabinet Knob is just what you need. This stylish, transitional cabinet knob is available in 2 sizes. Choose from an array of beautiful finish colors. The Norwich Cabinet Knob comes packaged with mounting hardware.",
+                "keywords": "Emtek Norwich Knobs, Norwich Cabinet Knobs, Emtek 86610, Emtek 86611, transitional Norwich cabinet knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Cabinet Hardware",
+                    "sort": "84"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "7297",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1169484",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1058352",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "569755",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "821998",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Size: 86610: 1-1/4in.",
+                "Select Size: 86611: 1-1/2in.",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US7: French Antique",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15A: Antique Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US3NL: Unlacquered Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "86610: 1-1/4in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "86611: 1-1/2in.",
+                    "price_impact": 8.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US7: French Antique",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3NL: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

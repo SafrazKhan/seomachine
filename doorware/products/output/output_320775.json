@@ -1,0 +1,121 @@
+{
+    "legacy_product_id": "320775",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Lavatory Panel and Pilaster Double Flange Bracket, Bommer 1141-1",
+            "vendor": "Bommer",
+            "status": "ARCHIVED",
+            "sku": "BOM-1141-1",
+            "mpn": "BOM-1141-1",
+            "price": "44.27",
+            "compare_at_price": "73.78",
+            "contractor_price": "39.84",
+            "shipping_weight": "2.0",
+            "tags": [
+                "BOM-1141-1 Lavatory Panel Mounting Brackets",
+                "Lavatory Panel Double Flange Brackets",
+                "Bommer 1141-1 Lavatory Pilaster Double Flange Brackets",
+                "restroom partition mounting brackets",
+                "commercial restroom wall brackets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/bommer-1141-1_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/bommer-1141-1_525.jpg?v=1716423088"
+        },
+        "text": {
+            "description_html": "<b>Bommer 1141-1, Restroom Wall Double Flange Bracket</b>\r\n\r\n<p>\r\nTypically used on commercial restroom walls to mount partition and/or pilasters. Double flange mounting base. For use with <b>3/4\" thick partitions only</b>.\r\n</p>\r\n\r\n<p>\r\nPanels are through bolted with included hardware to the bracket. Bracket mounts to wall or floor with included AJ's. Made in the USA.\r\n</p>\r\n\r\n<table width=\"100\" align=\"right\">\r\n<tr>\r\n<td>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/kaba-simplex-902-size.gif?v=1704354717\" width=\"100\" height=\"72\" border=\"0\" alt=\"Bommer made in the USA\">\r\n</td>\r\n</tr>\r\n</table>\r\n\r\n<p>\r\n<b>Specifications</b> for the Bommer 1141-1 Restroom Wall Double Flange Bracket:\r\n<ul>\r\n<!-- <li>Material: Wrought Brass</li> -->\r\n<li>Mounting Base Plate Length: 3.500\"</li>\r\n<li>Mounting Base Plate Width: 1.500\"</li>\r\n<li>Total Height: 3.312\"</li>\r\n<li>Packaged with through bolts and AJ's.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/1141-1.pdf?v=1691094993\" target=\"new\"><b>Bommer 1141-1 Dimensional  Diagram (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Lavatory Panel and Pilaster Double Flange Bracket, Bommer 1141-1",
+                "description": "Bommer 1141-1 Lavatory Pilaster Double Flange Brackets Typically used on commercial restroom walls to mount partition and/or pilasters. Double flange mounting base. For use with 3/4 inch thick partitions only. Panels are through bolted with included hardware to the bracket. Bracket mounts to wall or floor with included AJ's. Made in the USA.",
+                "keywords": "BOM-1141-1 Lavatory Panel Mounting Brackets, Lavatory Panel Double Flange Brackets, Bommer 1141-1 Lavatory Pilaster Double Flange Brackets, restroom partition mounting brackets, commercial restroom wall brackets,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Wrought Brass"
+                },
+                {
+                    "key": "Mounting Base Plate Length",
+                    "value": "3.500\""
+                },
+                {
+                    "key": "Mounting Base Plate Width",
+                    "value": "1.500\""
+                },
+                {
+                    "key": "Total Height",
+                    "value": "3.312\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Bommer Discontinued and Custom",
+                    "sort": "27"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "321126",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "320856",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "322387",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "260308",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "147431",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Wrought Brass",
+                "Mounting Base Plate Length: 3.500\"",
+                "Mounting Base Plate Width: 1.500\"",
+                "Total Height: 3.312\"",
+                "Select Finish: 626: Brushed Chrome",
+                "Select Finish: 625: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "626: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "625: Polished Chrome",
+                    "price_impact": 1.7,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

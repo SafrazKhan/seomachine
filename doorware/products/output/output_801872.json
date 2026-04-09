@@ -1,0 +1,86 @@
+{
+    "legacy_product_id": "801872",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Schlage Extension Kit for B250 Gate Latch",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-B502999-B520087626",
+            "mpn": "SCH-B502999-B520087626",
+            "price": "15.0",
+            "compare_at_price": "20.0",
+            "contractor_price": "15.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "SCH-B502999-B520087626",
+                "Schlage Extension Kit for B250 Gate Latches",
+                "Schlage B502999-B520087626",
+                "Extension Kit for a Schlage B250 Gate Lock",
+                "SCH-B250PD",
+                "Schlage B250PD",
+                "Gate Lock Single Cylinder Extension kits"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52519.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52519.gif?v=1716425698"
+        },
+        "text": {
+            "description_html": "<b>Extension Kit for a Schlage B250 Gate Lock</b>\r\n\r\n<p>\r\nThis is an extension kit for B250 Gate Latch for a 1-3/4 inch - 2-1/4 inch thick door/gate. For use with <a href=\"/products/gate-lock-single-cylinder-schlage-b250pd\"><b>Schlage B250PD Deadbolt</b></a> and <a href=\"/products/gate-lock-single-cylinder-schlage-b250pd\"><b>Schlage B252PD Double Cylinder Deadbolt</b></a>.\r\n</p>\r\n\r\n<p>\r\nIncludes 2 screws and a tail piece. \r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "Schlage Extension Kit for B250 Gate Latch",
+                "description": "This is an extension kit for B250 Gate Latch for a 1-3/4 inch - 2-1/4 inch thick door/gate. For use with Schlage B250PD Deadbolt and Schlage B252PD Double Cylinder Deadbolt.",
+                "keywords": "SCH-B502999-B520087626, Schlage Extension Kit for B250 Gate Latches, Schlage B502999-B520087626, Extension Kit for a Schlage B250 Gate Lock, SCH-B250PD, Schlage B250PD, Gate Lock Single Cylinder Extension kits,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "100"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "248479",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "248460",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "331945",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 626 - Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish ",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "626 - Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

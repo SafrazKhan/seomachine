@@ -1,0 +1,136 @@
+{
+    "legacy_product_id": "253147",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Ornate Victorian Floor Door Stop, First Impressions 918R-F",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-918R-F",
+            "mpn": "FII-918R-F",
+            "price": "87.95",
+            "compare_at_price": "110.0",
+            "contractor_price": "83.6",
+            "shipping_weight": "1.0",
+            "tags": [
+                "FII-918R-F Victorian Design Door Stops",
+                "Ornate Victorian Floor Door Stop",
+                "First Impressions 918R-F Decorative Door Stops",
+                "Victorian style hardware",
+                "Victorian style door stops",
+                "Victorian door bumpers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-918R-F-victorian-door-stop.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-918R-F-victorian-door-stop.jpg?v=1716422459"
+        },
+        "text": {
+            "description_html": "<b>First Impressions 918R-F Victorian Design Door Stop</b>\r\n<p>\r\nConstructed of solid forged brass this very decorative  victorian style floor mount door stop adds a touch of wow to any room.  It is equally suited for use in private residential or high end commercial applications. \r\n</p>\r\n<p>\r\nNot only is it very decorative, the floor mount design provides excellent protection for your walls and door hardware. Highly detailed victorian design, heavy and solid.\r\n</p>\r\n<p>\r\nOnly one hole to drill makes installation fast and easy.  Packaged with mounting hardware  for wood, tile or marble floor mount applications.\r\n</p>\r\n<p>\r\n<b>Specifications</b> of First Impressions 918R-F Victorian Design Door Stop\r\n<ul>\r\n<li>Total Height: 3-3/8\"</li>\r\n<li>Floor base Diameter: 1-15/16\"</li>\r\n<li>Rubber Bumper Diameter:  1-1/4\"</li>\r\n<li>Rubber Bumper Color: Black</li>\r\n<li>Material: Solid Forged Brass</li>\r\n<li>Finish: <b>Polished Brass</b></li>\r\n</ul>\r\n</p>\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>\r\n\r\n<p>\r\n<br><br>\r\n<b>** This item is Discontinued.</b> See available <a href=\"/collections/stops-bumpers\">Decorative Door Stops</a>.\r\n<br><br>\r\n</p>",
+            "seo": {
+                "title": "Ornate Victorian Floor Door Stop, First Impressions 918R-F",
+                "description": "First Impressions 918R-F Constructed of solid forged brass this very decorative  victorian style floor mount door stop adds a touch of wow to any room.  It is equally suited for use in private residential or high end commercial applications.",
+                "keywords": "FII-918R-F Victorian Design Door Stops, Ornate Victorian Floor Door Stop, First Impressions 918R-F Decorative Door Stops, Victorian style hardware, Victorian style door stops, Victorian door bumpers,"
+            },
+            "specifications": [
+                {
+                    "key": "Total Height",
+                    "value": "3-3/8\""
+                },
+                {
+                    "key": "Floor base Diameter",
+                    "value": "1-15/16\""
+                },
+                {
+                    "key": "Rubber Bumper Diameter",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Rubber Bumper Color",
+                    "value": "Black"
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Forged Brass"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Polished Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "226"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "177141",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "223409",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "214204",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "247698",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "247809",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "240331",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "238373",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "261968",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Total Height: 3-3/8\"",
+                "Floor base Diameter: 1-15/16\"",
+                "Rubber Bumper Diameter: 1-1/4\"",
+                "Rubber Bumper Color: Black",
+                "Material: Solid Forged Brass",
+                "Finish: Polished Brass",
+                "Select Finish: FII-918R-F-US3 - Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-918R-F-US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

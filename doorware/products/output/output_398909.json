@@ -1,0 +1,105 @@
+{
+    "legacy_product_id": "398909",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Aluminum Fascia for Sliding By-Pass Doors, Hagar 9709",
+            "vendor": "Hagar",
+            "status": "ARCHIVED",
+            "sku": "HAG-9709",
+            "mpn": "HAG-9709",
+            "price": "55.0",
+            "compare_at_price": "55.0",
+            "contractor_price": "55.0",
+            "shipping_weight": "15.0",
+            "tags": [
+                "Aluminum Fascia for Sliding By-Pass Doors",
+                "Hagar 9709"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Aluminum Fascia for Hagar 9602 Series Sliding By-Pass Doors</b>\r\n<p>Aluminum fascia for installation over sliding door tracks.  Made of Extruded aluminum with grooves for painting and pre-punched holes for easy installation.</p>\r\n<p>\r\n<b>Specifications</b> of Hagar Aluminum Fascia:\r\n<ul>\r\n<li>Lengths:  48\", 60\" and 72\"</li>\r\n<li>Gauge:  .062 (2mm)</li>\r\n<li>Lip:  5/8\" (16mm)</li>\r\n<li>Width:  2-3/4\" (70mm)</li>\r\n</ul><p/>",
+            "seo": {
+                "title": "Aluminum Fascia for Sliding By-Pass Doors, Hagar 9709",
+                "description": "Aluminum Fascia for Sliding By-Pass Doors, Hagar 9709",
+                "keywords": "Aluminum Fascia for Sliding By-Pass Doors, Hagar 9709"
+            },
+            "specifications": [
+                {
+                    "key": "Lengths",
+                    "value": "48\", 60\" and 72\""
+                },
+                {
+                    "key": "Gauge",
+                    "value": ".062 (2mm)"
+                },
+                {
+                    "key": "Lip",
+                    "value": "5/8\" (16mm)"
+                },
+                {
+                    "key": "Width",
+                    "value": "2-3/4\" (70mm)"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "Hager",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Lengths: 48\", 60\" and 72\"",
+                "Gauge: .062 (2mm)",
+                "Lip: 5/8\" (16mm)",
+                "Width: 2-3/4\" (70mm)",
+                "Select Length: HAG-9709 - 48in.",
+                "Select Length: HAG-9709 - 60in.",
+                "Select Length: HAG-9709 - 72in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "HAG-9709 - 48in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "HAG-9709 - 60in.",
+                    "price_impact": 21.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "HAG-9709 - 72in.",
+                    "price_impact": 32.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

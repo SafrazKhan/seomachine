@@ -1,0 +1,89 @@
+{
+    "legacy_product_id": "472643",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Latch for Hamilton Tubular Sets, LT786LS8-10B",
+            "vendor": "Hamilton",
+            "status": "ARCHIVED",
+            "sku": "Hamilton Door Latch, LT786LS8-10B",
+            "mpn": "Hamilton Door Latch, LT786LS8-10B",
+            "price": "50.0",
+            "compare_at_price": "60.0",
+            "contractor_price": "50.0",
+            "shipping_weight": "0.5",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Door Latch For Hamilton Tubular Sets</b>\r\n</p>\r\n<p>Available for Passage (Hall/Closet) or Privacy (Bath/Bedroom)  functions in 2-3/8\" or 2-3/4\" backsets.\r\n</p>\r\n<p>Finish: Bronze Patina\r\n</p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Latch for Hamilton Tubular Sets, LT786LS8-10B",
+                "description": "Door latch  Hamilton Tubular Sets.  Passage or Privacy function in 2-3/8 or 2-3/4 backset.",
+                "keywords": ""
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Misc Parts",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Function and Backset: LT783LS8: Passage Function, 2-3/8in. Backset",
+                "Select Function and Backset: LT786LS8: Passage Function, 2-3/4in. Backset",
+                "Select Function and Backset: LT786LS8: Privacy Function, 2-3/8in. Backset",
+                "Select Function and Backset: LT786LS8: Privacy Function, 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function and Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LT783LS8: Passage Function, 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LT786LS8: Passage Function, 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LT786LS8: Privacy Function, 2-3/8in. Backset",
+                    "price_impact": 8.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LT786LS8: Privacy Function, 2-3/4in. Backset",
+                    "price_impact": 8.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

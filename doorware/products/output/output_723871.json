@@ -1,0 +1,182 @@
+{
+    "legacy_product_id": "723871",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin 6321 Emergency Egress Mortise Lock Body",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-6321",
+            "mpn": "BAL-6321",
+            "price": "468.8",
+            "compare_at_price": "504.0",
+            "contractor_price": "468.8",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Baldwin Entry Mortise Lock Body",
+                "Baldwin Emergency Egress Mortise Lock Body",
+                "BAL-6321",
+                "Baldwin 6321",
+                "Emergency Egress Mortise Lock Body for Handlesets with Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-6321-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-6321-525.jpg?v=1716425388"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 6321, Emergency Egress Mortise Lock Body for Handlesets with Knobs / Levers</b>\r\n\r\n<p>\r\nThis is a mortise lock body for use on handlesets. It has an emergency egress function so that a single turn of an interior knob will unlock the mortise. It has a 2-1/2 inch backset. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Baldwin Entry Mortise Lock Body:\r\n<ul>\r\n<li>Backset: 2.5\"</li>\r\n<li>1\" (25mm) throw Deadbolt with saw-proof inserts</li>\r\n<li>Comes packaged with strike plate.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Baldwin Emergency Egress Mortise Lock Body",
+                "description": "Baldwin 6321 Emergency Egress Mortise Lock Body - This is a mortise lock body for use on handlesets with knobs. It has an emergency egress function so that a single turn of an interior knob will unlock the mortise. It has a 2-1/2 inch backset.",
+                "keywords": "Baldwin Entry Mortise Lock Body, Baldwin Emergency Egress Mortise Lock Body, BAL-6321, Baldwin 6321, Emergency Egress Mortise Lock Body for Handlesets with Knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Discontinued",
+                    "sort": "115"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "233075",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "445088",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "337462",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "330372",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "369177",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "248979",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Type: BAL-6321xxL: Lever Strength",
+                "Select Type: BAL-6321xx: Knob Strength",
+                "Select Finish: 150: Satin Nickel",
+                "Select Finish: 056: PVD Satin Nickel",
+                "Select Finish: 260:  Bright Chrome",
+                "Select Finish: 190:  Satin Black",
+                "Select Handing: Right Hand Door, Out-Swing",
+                "Select Handing: Right Hand Door, In-Swing",
+                "Select Handing: Left Hand Door, Out-Swing",
+                "Select Handing: Left Hand Door, In-Swing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Type",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BAL-6321xxL: Lever Strength",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BAL-6321xx: Knob Strength",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "150: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "056: PVD Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "260:  Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "190:  Satin Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Right Hand Door, Out-Swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Right Hand Door, In-Swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Left Hand Door, Out-Swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Left Hand Door, In-Swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

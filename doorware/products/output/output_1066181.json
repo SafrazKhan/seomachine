@@ -1,0 +1,134 @@
+{
+    "legacy_product_id": "1066181",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "London Cabinet Pull, Amerock BP36650BBRBBZ",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "AMK-BP36650BBRBBZ",
+            "mpn": "AMK-BP36650BBRBBZ",
+            "price": "31.99",
+            "compare_at_price": "31.99",
+            "contractor_price": "31.99",
+            "shipping_weight": "2.0",
+            "tags": [
+                "London Cabinet Pulls",
+                "London Black Bronze Cabinet Pulls",
+                "London Collection Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AMK-BP36648BBRBBZ-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AMK-BP36648BBRBBZ-525.jpg?v=1717106445"
+        },
+        "text": {
+            "description_html": "<b>London Black Bronze Cabinet Pull</b>\r\n\r\n<p>\r\nWith its faceted forms and clean geometric patterns, the London Collection Cabinet Pulls create a sophisticated modern statement. Crisp lines marry with an assembled, split finish design for something truly dramatic.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the London Collection Cabinet Pulls:\r\n<ul>\r\n<li>Finish: Black Bronze/Golden Champagne</li>\r\n<li>Material: Zinc</li>\r\n<li>Projection: 1-9/16\"</li>\r\n<li>Screw Size(s): Includes mounting hardware: (Size(s): #8-32 x 1in LGTH T.H. Machine Screw; #8-32 x 1-1/2in LGTH T.H. Machine Screw</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 5 Sizes:</b>\r\n<ul>\r\n<b>BP36648BBRBBZ:</b>\r\n<ul>\r\n<li>Total Length: 6-5/6\"</li>\r\n<li>Center to Center Length: 3-3/4\"</li>\r\n<li>Width: 13/16\"</li>\r\n</ul>\r\n<br>\r\n<b>BP36649BBRBBZ:</b>\r\n<ul>\r\n<li>Total Length: 7-1/2\"</li>\r\n<li>Center to Center Length: 5-1/16</li>\r\n<li>Width: 13/16\"</li>\r\n</ul>\r\n<br>\r\n<b>BP36650BBRBBZ:</b>\r\n<ul>\r\n<li>Total Length: 8-3/4\"</li>\r\n<li>Center to Center Length: 6-5/16\"</li>\r\n<li>Width: 13/16\"</li>\r\n</ul>\r\n<br>\r\n<b>BP36663BBRBBZ:</b>\r\n<ul>\r\n<li>Total Length: 10-7/16\"</li>\r\n<li>Center to Center Length: 8\"</li>\r\n<li>Width: 13/16\"</li>\r\n</ul>\r\n<br>\r\n<b> BP36664BBRBBZ:</b>\r\n<ul>\r\n<li>Total Length: 12-1/2\"</li>\r\n<li>Center to Center Length: 10-7/16\"</li>\r\n<li>Width: 13/16\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Order. <b>NO RETURNS</b></i>\r\n</p>",
+            "seo": {
+                "title": "London Cabinet Pull",
+                "description": "With its faceted forms and clean geometric patterns, the London Collection Cabinet Pulls create a sophisticated modern statement. Crisp lines marry with an assembled, split finish design for something truly dramatic.",
+                "keywords": "London Cabinet Pulls, London Black Bronze Cabinet Pulls, London Collection Cabinet Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Amerock",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "908753",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "186190",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "985734",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "574257",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "240726",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "1024228",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "574283",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "253857",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Size: BP36648BBRBBZ: 3-3/4in. c/c",
+                "Select Size: BP36649BBRBBZ: 5-1/16in. c/c",
+                "Select Size: BP36650BBRBBZ: 6-5/16in. c/c",
+                "Select Size: BP36663BBRBBZ: 8in. c/c",
+                "Select Size: BP36664BBRBBZ: 10-7/16in. c/c"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BP36648BBRBBZ: 3-3/4in. c/c",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BP36649BBRBBZ: 5-1/16in. c/c",
+                    "price_impact": 5.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BP36650BBRBBZ: 6-5/16in. c/c",
+                    "price_impact": 10.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BP36663BBRBBZ: 8in. c/c",
+                    "price_impact": 16.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BP36664BBRBBZ: 10-7/16in. c/c",
+                    "price_impact": 26.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

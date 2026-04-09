@@ -1,0 +1,159 @@
+{
+    "legacy_product_id": "141972",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Academy Rope Solid Brass Pull And Plate, Brass Accents A06-P0241",
+            "vendor": "BrassAccents",
+            "status": "ACTIVE",
+            "sku": "BRA-A06-P0241",
+            "mpn": "BRA-A06-P0241",
+            "price": "112.99",
+            "compare_at_price": "141.0",
+            "contractor_price": "107.16",
+            "shipping_weight": "4.0",
+            "tags": [
+                "BRA-A06-P0241 Decorative 3-1/8 x 12 Door Pull Plates",
+                "Decorative Push Plates",
+                "Brass Accents academy Pull Plates",
+                "A06-P0241 Solid Brass academy Pull Plate 3 x 12",
+                "Brass Accents Renaissance Collection door hardware sets",
+                "decorative door pulls",
+                "door pull handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/A06-P0241-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/A06-P0241-5251.jpg?v=1716421344"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents A06-P0241, Decorative Academy Door Pull Plate 3-1/8\" Wide by 12\" High</b>\r\n\r\n<p>\r\nThis plate is a reproduction of the Georgian Design shown in the Phoenix Lock catalog of 1898. \r\n</p>\r\n\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance, hand finished in the USA. They are one of the worlds leading crafters of decorative hot-forged  and cast brass door hardware.\r\n</p>\r\n\r\n<p>\r\nAlso Available: <b><a href=\"/products/academy-rope-solid-brass-push-plate-brass-accents-a06-p0240\">Academy Rope Push Plate</a></b>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Academy Brass Accents A06-P0241 Decorative Pull Plate\r\n<ul>\r\n<li>Plate Width: 3-1/8\"</li>\r\n<li>Plate Height: 12\"</li>\r\n<li>Pull Length: 6\"</li>\r\n<li>Pull Handle Projection: 2.5\"</li>\r\n<li>Material: Cast Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nComes complete with matching finish mounting screws for easy installation.\r\n</p>",
+            "seo": {
+                "title": "Academy Rope Solid Brass Pull And Plate, Brass Accents A06-P0241",
+                "description": "Brass Accents A06-P0241 Academy Rope Door Pull And Plate 3-1/8 x 12--This plate is a reproduction of the Georgian Design shown in the Phoenix Lock catalog of 1898 - The flat surface of the push plate measures 2 3/8 W x 11 3/8H. ",
+                "keywords": "BRA-A06-P0241 Decorative 3-1/8 x 12 Door Pull Plates, Decorative Push Plates, Brass Accents academy Pull Plates, A06-P0241 Solid Brass academy Pull Plate 3 x 12, Brass Accents Renaissance Collection door hardware sets, decorative door pulls, door pull handles,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Width",
+                    "value": "3-1/8\""
+                },
+                {
+                    "key": "Plate Height",
+                    "value": "12\""
+                },
+                {
+                    "key": "Pull Length",
+                    "value": "6\""
+                },
+                {
+                    "key": "Pull Handle Projection",
+                    "value": "2.5\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Cast Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Pull & Push Plates",
+                    "sort": "23"
+                },
+                {
+                    "name": "Decorative Door Pull and Push Plates",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "6687",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "143788",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "157008",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "142041",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "142078",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "143420",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "143885",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Plate Width: 3-1/8\"",
+                "Plate Height: 12\"",
+                "Pull Length: 6\"",
+                "Pull Handle Projection: 2.5\"",
+                "Material: Cast Brass",
+                "Select Finish: Polished Brass",
+                "Select Finish: Satin Nickel",
+                "Select Finish: Antique Brass",
+                "Select Finish: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Polished"
+                },
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Satin"
+                },
+                {
+                    "value": "Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Oil"
+                }
+            ]
+        }
+    ]
+}

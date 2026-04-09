@@ -1,0 +1,160 @@
+{
+    "legacy_product_id": "232492",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "48 Inch Door Threshold",
+            "vendor": "Door Controls",
+            "status": "ACTIVE",
+            "sku": "DC-YDT309x-48",
+            "mpn": "DC-YDT309x-48",
+            "price": "39.98",
+            "compare_at_price": "57.2",
+            "contractor_price": "38.0",
+            "shipping_weight": "50.0",
+            "tags": [
+                "DC-YDT309x-48 Door Threshold 48 Inches",
+                "48 Inch Door Thresholds",
+                "store door long thresholds",
+                "48 thresholds"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DC-YDT303x-48_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DC-YDT303x-48_525.jpg?v=1716422218"
+        },
+        "text": {
+            "description_html": "<b>48\"  Door Threshold ADA Compliant</b>\r\n<p>\r\nDoor Thresholds help seal the doors bottom gap helping to save energy, lowering heating and AC costs. These 48 inch long thresholds are made from non rusting extruded aluminum. \r\n</p>\r\n\r\n<p>\r\nAlso available: <a href=\"/products/36-inch-door-threshold\"><b>36\"  Door Threshold</b></a> and <a href=\"/products/72-inch-door-threshold\"><b>72\"  Door Threshold</b></a>\r\n</p>\r\n<p>\r\nField sizable for doors 36-1/2\" to 48\" wide. Powder coated finish.  Packaged with installation screws.\r\n</p>\r\n<p>\r\n<b>Specifications</b> for DC-YDT309x-48 Door Threshold\r\n<ul>\r\n<li>Length: 48\"</li>\r\n<li>Height: 1/2\"</li>\r\n<li>Width: 5\"</li>\r\n<li>Material: Aluminum</li>\r\n<li><b>ADA Compliant</b></li>\r\n</ul>\r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/handicap-logo.jpg?v=1704353001\" width=\"100\" height=\"98\" border=\"0\" alt=\"ADA Compliant Handicap Logo\">\r\n</p>\r\n<p>\r\nThis 48\" threshold is ramped on both sides for easy access. For use on either double acting (door swings both ways) or single acting doors.\r\n</p>\r\n<p>\r\nAvailable in Aluminum or Dark Bronze finish.\r\n</p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "48 Inch Door Threshold",
+                "description": "Door Thresholds help seal the doors bottom gap helping to save energy, lowering heating and AC costs. These 48 inch long thresholds are made from non rusting extruded aluminum. Available in Aluminum or Dark Bronze finish.",
+                "keywords": "DC-YDT309x-48 Door Threshold 48 Inches, 48 Inch Door Thresholds, store door long thresholds, 48 thresholds,"
+            },
+            "specifications": [
+                {
+                    "key": "Length",
+                    "value": "48\""
+                },
+                {
+                    "key": "Height",
+                    "value": "1/2\""
+                },
+                {
+                    "key": "Width",
+                    "value": "5\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Aluminum"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Door Controls",
+                    "sort": "5"
+                },
+                {
+                    "name": "Store Door Hardware",
+                    "sort": "128"
+                },
+                {
+                    "name": "Door Sweeps, Seals and Thresholds",
+                    "sort": "13"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "232501",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "184797",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "193669",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "208622",
+                    "sort": "12"
+                },
+                {
+                    "legacy_product_id": "1064197",
+                    "sort": "13"
+                },
+                {
+                    "legacy_product_id": "968790",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1056497",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "187554",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "942768",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "228975",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "187550",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "303733",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "204552",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Length: 48\"",
+                "Height: 1/2\"",
+                "Width: 5\"",
+                "Material: Aluminum",
+                "Select Finish: YDT309AV-48: Aluminum",
+                "Select Finish: YDT309DV-48: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "YDT309AV-48: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "YDT309DV-48: Dark Bronze",
+                    "price_impact": 3.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

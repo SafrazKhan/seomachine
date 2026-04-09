@@ -1,0 +1,117 @@
+{
+    "legacy_product_id": "451450",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Smooth Iron Bean Tip Privacy Rim Latchset, Acorn AT9BR",
+            "vendor": "Acorn",
+            "status": "ACTIVE",
+            "sku": "ACO-AT9BR",
+            "mpn": "ACO-AT9BR",
+            "price": "34.32",
+            "compare_at_price": "42.9",
+            "contractor_price": "32.6",
+            "shipping_weight": "5.0",
+            "tags": [
+                "ACO-AT9BR Bean Tip Rim Latch",
+                "colonial handles",
+                "victorian handles",
+                "acorn rim latches",
+                "rim latch sets",
+                "Rim Latches Sets For Exterior And Interior Doors",
+                "Rim Latch For Light Weight Doors",
+                "Bean Tip Rim Latches",
+                "Bean Tip Privacy Rim Latchsets",
+                "Acorn AT9BR"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ACO-AT9BR-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-AT9BR-525.jpg?v=1716424045"
+        },
+        "text": {
+            "description_html": "<b>Acorn Bean Tip Rim Latch</b>\r\n\r\n<p>\r\nAcorn Bean Tip Privacy Rim Latchset has an authentic looking colonial style that makes it perfect for historic home restoration projects. Good for 7/8\" to 1-3/4\" door thicknesses. Comes with a bean tip handle that is good for both the exterior and the interior use and an easy flip down locking device for privacy. Reversible for right or left handing and comes with reverse bevel so it will work on doors that open in or out. It made out of iron and comes with a smooth black iron finish.\r\n</p>\r\n\r\n<p>\r\n<b>Smooth Black Iron:</b> With a flat black appearance, smooth iron exemplifies the hardware as it was originally forged.\r\n</p>\r\n\r\n\r\n<p>\r\nAlso available <a href=\"/products/rough-iron-bean-tip-privacy-rim-latchset-acorn-rthbr\"><b>Rough Black Iron Bean Rim Latch Set</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b> of the Bean Tip Privacy Rim Latchset:\r\n<ul>\r\n<li>Passage door handle for hall side of door</li>\r\n<li>Reverse bevel / closet door handle for room side or exterior of storm door</li>\r\n<li>Includes all necessary hardware.</li>\r\n<li>Field reservable.</li>\r\n<li><b>Lifetime No-Rust Warranty!</b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of the Rim Latch Set:\r\n<ul>\r\n<li>Finish: <b>Smooth Black Iron</b></li>\r\n<li>Handle Height: 6-3/4\"</li>\r\n<li>Handle Width: 2-1/2\"</li>\r\n<li>Projection: 1-5/8\"</li>\r\n<li>Door Thickness: 7/8\" to 1 3/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold as a set.</i>\r\n</p>",
+            "seo": {
+                "title": "Smooth Iron Bean Tip Privacy Rim Latchset",
+                "description": "Bean Tip Rim Latch Acorn AT9BR - Acorn Bean Tip Privacy Rim Latchset has an authentic looking colonial style that makes it perfect for historic home restoration projects. Good for 7/8 inch to 1-3/4 inch door thicknesses. Comes with a bean tip handle that is good for both the exterior and the interior use and an easy flip down locking device for privacy. Reversible for right or left handing and comes with reverse bevel so it will work on doors that open in or out. It made out of iron and comes with a smooth black iron finish",
+                "keywords": "ACO-AT9BR Bean Tip Rim Latch, colonial handles, victorian handles, acorn rim latches, rim latch sets, Rim Latches Sets For Exterior And Interior Doors, Rim Latch For Light Weight Doors, Bean Tip Rim Latches, Bean Tip Privacy Rim Latchsets, Acorn AT9BR,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Acorn Door Rim Latches",
+                    "sort": "4"
+                },
+                {
+                    "name": "Door Handlesets",
+                    "sort": "5"
+                },
+                {
+                    "name": "Acorn Bean Tip Collection",
+                    "sort": "20"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "176011",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "67123",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "29853",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "175129",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "439132",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "449332",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: AT9BR: Smooth Black Iron",
+                "Select Finish: RTHBR: Rough Black Iron"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AT9BR: Smooth Black Iron",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RTHBR: Rough Black Iron",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

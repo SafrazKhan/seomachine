@@ -1,0 +1,100 @@
+{
+    "legacy_product_id": "808756",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Exit Only Plate for 6200 Exit Device, PDQ 6-P-01",
+            "vendor": "PDQ",
+            "status": "ARCHIVED",
+            "sku": "PDQ-6-P-01",
+            "mpn": "PDQ-6-P-01",
+            "price": "63.29",
+            "compare_at_price": "105.48",
+            "contractor_price": "56.96",
+            "shipping_weight": "1.5",
+            "tags": [
+                "PDQ-6-P-01 Exit Only Plate for 6200 Exit Device",
+                "PDQ 6-P-01-689 blank plate for bore holes",
+                "panic bar accessories",
+                "crash bar accessories",
+                "PDQ exit device accessories"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDQ-6-P-01_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PDQ-6-P-01_525.jpg?v=1716425781"
+        },
+        "text": {
+            "description_html": "<b>PDQ 6-P-01 Exit Only Plate</b>\r\n<p>\r\nThis is exit only block off plate for PDQ 6200 series: For use with <a href=\"/products/heavy-duty-rim-exit-device-for-30-36-inch-door-pdq-6300r\"><b>PDQ 6200R Rim Exit Device</b></a>. Packaged with  mounting hardware.\r\n</p>\r\n<p>\r\nUsed to cover a pre drilled bore hole. This blank plate is used when installing a <a href=\"/collections/panic-devices\"><b>Panic Device</b></a> on doors with pre drilled bore holes that do not require any exterior entry product. \r\n</p>\r\n<p>\r\n<b>Features</b> for PDQ 6-P-01 Exit Only Plate\r\n<ul>\r\n<li>Finish: Optional Aluminum or Dark Bronze</li>\r\n<li>Plate Height: 9\"</li>\r\n<li>Plate Width: 3\"</li>\r\n<li>Plate Thickness: 1/8\"</li>\r\n<li>Includes Sex Bolts</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Exit Only Plate for 6200 Exit Device, PDQ 6-P-01",
+                "description": "Exit Only Plate for 6200 Exit Device, PDQ 6-P-01 - Used to cover a pre drilled bore hole. This exit only blank plate is used when installing a PDQ 6200 series Panic Device on doors with pre drilled bore holes that do not require any exterior entry product such as a  Entry Door Lever.",
+                "keywords": "PDQ-6-P-01 Exit Only Plate for 6200 Exit Device, PDQ 6-P-01-689 blank plate for bore holes, panic bar accessories, crash bar accessories, PDQ exit device accessories,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "PDQ-Discontinued",
+                    "sort": "11"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "515621",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "354503",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "250992",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "301763",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "255780",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 6-P-01-689: Aluminum",
+                "Select Finish: 6-P-01-695: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "6-P-01-689: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "6-P-01-695: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

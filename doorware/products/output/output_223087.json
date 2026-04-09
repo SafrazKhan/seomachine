@@ -1,0 +1,120 @@
+{
+    "legacy_product_id": "223087",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Entry Function Latch for Schlage F-Series",
+            "vendor": "Schlage",
+            "status": "ACTIVE",
+            "sku": "SCH-16-211",
+            "mpn": "SCH-16-211",
+            "price": "24.0",
+            "compare_at_price": "24.0",
+            "contractor_price": "24.0",
+            "shipping_weight": "0.2",
+            "tags": [
+                "SCH-16-211 Schlage F-Series Dead Latches",
+                "Entry Function Latch for Schlage F-Series",
+                "Schlage F-Series latch",
+                "Schlage F-Series adjustable door latch",
+                "Schlage latch",
+                "Schlage door latches",
+                "SCH-latch",
+                "Schlage latch",
+                "schlage deadlatch"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Door Deadlatch Assembly for Schlage F-Series</b>\r\n<p>\r\nFor Entry Function (keyed entry door locksets). \r\n</p>\r\n\r\n<p>\r\nFits <a href=\"/collections/schlage-f-series\"><b>Schlage F-Series</b></a>. Triple option (Packaged with Radius Corner Faceplate,  Square Corner Faceplate and Drive in Faceplate).\r\n</p>\r\n<p>\r\nAdjustable  for both 2-3/8\" and 2-3/4\" backsets. <br>\r\n</p>",
+            "seo": {
+                "title": "Entry Function Latch for Schlage F-Series",
+                "description": "Schlage 16-211 Triple option adjustable door latch for Schlage F-Series Entry Function (deadlatch).",
+                "keywords": "SCH-16-211 Schlage F-Series Dead Latches, Entry Function Latch for Schlage F-Series,  Schlage F-Series latch, Schlage F-Series adjustable door latch, Schlage latch,  Schlage door latches, SCH-latch, Schlage latch, schlage deadlatch,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "27"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "274899",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "223064",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "331945",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 605:  Polished Brass",
+                "Select Finish: 609: Antique Brass",
+                "Select Finish: 613: Oil Rubbed Bronze",
+                "Select Finish: 619: Satin Nickel",
+                "Select Finish: 626: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "605:  Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "609: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "613: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "619: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

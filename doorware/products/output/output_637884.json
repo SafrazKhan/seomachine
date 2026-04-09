@@ -1,0 +1,153 @@
+{
+    "legacy_product_id": "637884",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin Standard Box Strike, BAL-5510-TSTR",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-5510-TSTR",
+            "mpn": "BAL-5510-TSTR",
+            "price": "24.0",
+            "compare_at_price": "24.0",
+            "contractor_price": "24.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "BAL-5510-TSTR",
+                "Baldwin Estates Collection T Strikes",
+                "Baldwin 5510-TSTR",
+                "Baldwin 5510.TSTR",
+                "Estates Collection T Strike Plates",
+                "Estates Collection T Strike Plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-5510.TSTR-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-5510.TSTR-525.jpg?v=1711365526"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 5510-TSTR, Estates Collection T Strike Plate</b>\r\n\r\n<p>\r\nThis standard T Strike is for use with Baldwin Estates passage and privacy strikes. It is available in a wide array of finishes. The Baldwin Standard Box Strike comes packaged with the mounting screws.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Baldwin  Estates Collection T Strike:\r\n<ul>\r\n<li>Length: 2.75\"</li>\r\n<li>Width: 1.125\"</li>\r\n<li>Lip Length: 1.5\"</li>\r\n<li>Lip Width: .75\"</li>\r\n<li>Thickness: .062\"</li>\r\n<li>Lip to Center Dimension: 1.312\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Baldwin Standard Box Strike, BAL-5510-TSTR",
+                "description": "Baldwin 5510-TSTRBaldwin Standard Box Strike - This standard T Strike is for use with Baldwin Estates passage and privacy strikes. It is available in a wide array of finishes. The Baldwin Standard Box Strike comes packaged with the mounting screws.",
+                "keywords": "BAL-5510-TSTR, Baldwin Estates Collection T Strikes, Baldwin 5510-TSTR, Baldwin 5510.TSTR, Estates Collection T Strike Plates, Estates Collection T Strike Plates,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "24"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "285901",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "66350",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "65964",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "566535",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 102: Oil Rubbed Bronze",
+                "Select Finish: 260: Polished Chrome",
+                "Select Finish: 264: Satin Chrome",
+                "Select Finish: 150: Satin Nickel",
+                "Select Finish: 151: Antique Nickel",
+                "Select Finish: 112: Venetian Bronze",
+                "Select Finish: 003: PVD Polished Brass",
+                "Select Finish: 055: PVD Polished Nickel",
+                "Select Finish: 056: PVD Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "102: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "260: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "264: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "150: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "151: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "112: Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "003: PVD Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "055: PVD Polished Nickel",
+                    "price_impact": 6.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "056: PVD Satin Nickel",
+                    "price_impact": 6.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

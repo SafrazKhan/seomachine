@@ -1,0 +1,185 @@
+{
+    "legacy_product_id": "214877",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Cast Iron Tropical Lizard Door Pull, First Impressions CI-LIZARD",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-CI-LIZARD",
+            "mpn": "FII-CI-LIZARD",
+            "price": "89.95",
+            "compare_at_price": "112.5",
+            "contractor_price": "85.5",
+            "shipping_weight": "3.0",
+            "tags": [
+                "FII-CI-LIZARD Tropical Lizard Door Pulls",
+                "First Impressions Cast Iron Lizard Door Pulls",
+                "First Impressions CI-LIZARD pulls",
+                "First Impressions animal door pulls",
+                "nature series door handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-lizard-door-pull_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-lizard-door-pull_525.jpg?v=1716422086"
+        },
+        "text": {
+            "description_html": "<b>First Impressions CI-LIZARD Cast Iron Tropical Lizard Door Pull</b>\r\n<p>\r\nAmazing Lizard door pull from the new <a href=\"/site/department.cfm?id=214719\">Nature Collection by First Impressions</a>. Made from heavy Cast Iron and finished in your choice of ultra durable Powder Coated colors.\r\n</p>\r\n<p>\r\nThe Powder Coated finish is very resistant to peeling, fading,  scratching and requires no maintenance to retain its beauty.\r\n</p>\r\n<p>\r\nUse this Lizard door pull on cabinets, pantry room doors,  armoires, almost any door. You could just mount it to the wall for decoration with the optional surface mounting kit if desired. Use your imagination and have fun!\r\n</p>\r\n<p>\r\n<b>Specifications</b> for First Impressions CI-LIZARD  Lizard Door Pull\r\n<ul>\r\n<li>Height: 9-1/2\"</li>\r\n<li>Width: 4-1/2\"</li>\r\n<li>Projection: 3\"</li>\r\n<li>Material: Cast Iron</li>\r\n<li>Available Finishes: 3</li>\r\n\r\n</ul>\r\n</p>\r\n<p>Packaged Standard with Thrubolt mounting (Bolts through the door). Optional Surface mounting or Glass Door mounting kits (for glass door up to 1/2\" thick, includes 2 inside screw covers).\r\n</p>\r\n<p>\r\n<b>*Sold individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Cast Iron Tropical Lizard Door Pull, First Impressions CI-LIZARD",
+                "description": "First Impressions CI-LIZARD - Amazing Lizard door pull from the new Nature Collection by First Impressions. Made from heavy Cast Iron and finished in your choice of ultra durable Powder Coated colors.",
+                "keywords": "FII-CI-LIZARD Tropical Lizard Door Pulls, First Impressions Cast Iron Lizard Door Pulls, First Impressions CI-LIZARD pulls, First Impressions animal door pulls, nature series door handles,"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "9-1/2\""
+                },
+                {
+                    "key": "Width",
+                    "value": "4-1/2\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "3\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Cast Iron"
+                },
+                {
+                    "key": "Available Finishes",
+                    "value": "3"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "59"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "214994",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "214981",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "214949",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "214953",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "179231",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "177120",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "177444",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "205675",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Height: 9-1/2\"",
+                "Width: 4-1/2\"",
+                "Projection: 3\"",
+                "Material: Cast Iron",
+                "Available Finishes: 3",
+                "Select Finish: Matte Black",
+                "Select Finish: Matte Silver",
+                "Select Finish: Duro Bronze",
+                "Select Mounting Choice: Standard Thrubolt Mounted",
+                "Select Mounting Choice: Surface Mounting Kit",
+                "Select Mounting Choice: Glass Door  Mounting Kit",
+                "Select Mounting Choice: Back to Back Mounting"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Matte Silver",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Duro Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Mounting Choice",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Standard Thrubolt Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Surface Mounting Kit",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Glass Door  Mounting Kit",
+                    "price_impact": 40.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Back to Back Mounting",
+                    "price_impact": 30.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

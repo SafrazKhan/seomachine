@@ -1,0 +1,168 @@
+{
+    "legacy_product_id": "964150",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Privacy Push Pin for Emtek Latch Sets, Emtek MM4-PRIV-PIN",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-MM4-PRIV-PIN",
+            "mpn": "EMT-MM4-PRIV-PIN",
+            "price": "9.0",
+            "compare_at_price": "9.0",
+            "contractor_price": "9.0",
+            "shipping_weight": "0.2",
+            "tags": [
+                "Emtek Privacy Locking Pins",
+                "Privacy Pin for Emtek Stainless Steel Latch Sets",
+                "Privacy Locking Pin",
+                "push pins",
+                "push locking pins",
+                "privacy pins",
+                "Privacy Push Pin for Emtek Latch Sets",
+                "EMT-MM4-PRIV-PIN",
+                "Emtek MM4-PRIV-PIN"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-MM4-PRIV-PIN-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-MM4-PRIV-PIN-525.jpg?v=1716427263"
+        },
+        "text": {
+            "description_html": "<b>Emtek Privacy Push Pin</b>\r\n\r\n<p>\r\nReplacement privacy locking pin for use with <a href=\"/collections/emtek-leversets\"></b>Emtek door lever sets</b></a> and <a href=\"/collections/emtek-knobsets\"></b>Emtek door knob sets</b></a>. Standard Length 1-1/4\" for door thickness 1-1/2\" - 2\". Screws into a Privacy function (Bed or Bathroom) door latch.\r\n</p>\r\n\r\n<p>\r\n<b>Warning:</b> These work for knobs and levers manufactured by Emtek only. If you are not sure if your hardware was manufactured by Emtek, do NOT order these as they may not work properly. \r\n</p>\r\n\r\n<p>\r\n<b>Sold Individually - NO RETURNS</b>\r\n</p>",
+            "seo": {
+                "title": "Privacy Push Pin for Emtek Latch Sets",
+                "description": "Replacement privacy locking pin for use with Emtek door lever sets and Emtek door knob sets. Standard Length: 1-1/4 inch. Screws into a Privacy function (Bed or Bathroom) door latch.",
+                "keywords": "Emtek Privacy Locking Pins, Privacy Pin for Emtek Stainless Steel Latch Sets, Privacy Locking Pin, push pins, push locking pins, privacy pins, Privacy Push Pin for Emtek Latch Sets, EMT-MM4-PRIV-PIN, Emtek MM4-PRIV-PIN,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "342457",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "878608",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "887705",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "884733",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "306111",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "888025",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "883032",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US7: French Antique",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US15A: Antique Nickel",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: TWB: Tumbled White Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US7: French Antique",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TWB: Tumbled White Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

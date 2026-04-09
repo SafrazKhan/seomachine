@@ -1,0 +1,108 @@
+{
+    "legacy_product_id": "1088977",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "8 Inch Surface Bolt, Rockwood 580-8",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "RKW-580-8",
+            "mpn": "RKW-580-8",
+            "price": "36.76",
+            "compare_at_price": "36.76",
+            "contractor_price": "36.76",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Surface Door Bolts",
+                "Rockwood 580-8",
+                "8 Inch Surface Bolt",
+                "RKW-580-8",
+                "Surface Bolt s"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKW-580-8-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKW-580-8-525.jpg?v=1716428127"
+        },
+        "text": {
+            "description_html": "<b>Rockwood 580-8, Surface Door Bolt</b>\r\n\r\n<p>\r\n Rockwood's 8\" surface mounted door bolts are made of steel and are UL Listed for fire doors. Available in Brushed Chrome, Polished Brass or Oil Rubbed Bronze finishes.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of Rockwood 580-8 8 Inch Surface Bolt:\r\n<ul>\r\n<li>Material: Steel</li>\r\n<li>Bolt Length: 8\"</li>\r\n<li>Bolt Width: 1/4\" x 3/4\"</li>\r\n<li>Bolt Throw: 1-1/8\"</li>\r\n<li>UL listed for use on inactive leaf of a pair of 3-hour fire door.</li>\r\n<li>Includes universal top strie and a mortise bottom strike.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "8 Inch Surface Bolt",
+                "description": "Rockwood 8 Inch Surface Door Bolt.",
+                "keywords": "Surface Door Bolts, Rockwood 580-8, 8 Inch Surface Bolt, RKW-580-8, Surface Bolt s,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Rockwood Accessories",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "205107",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "205104",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "6594",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "6284",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "6406",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US26D: Brushed Chrome",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US10B: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26D: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 7.01,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 9.24,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "legacy_product_id": "1262974",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "20 Inch Tall T Strike Plate, DJO-CUSTOM20",
+            "vendor": "Don-Jo",
+            "status": "ARCHIVED",
+            "sku": "DJO-CUSTOM20",
+            "mpn": "DJO-CUSTOM20",
+            "price": "302.4",
+            "compare_at_price": "302.4",
+            "contractor_price": "302.4",
+            "shipping_weight": "0.1",
+            "tags": [
+                "20 Inch Tall T Strike Plate",
+                "DJO-CUSTOM20"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-CUSTOM20-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-CUSTOM20-525.jpg?v=1769492559"
+        },
+        "text": {
+            "description_html": "<b>20 Inch Tall T Strike Plate, DJO-CUSTOM20</b>\r\n\r\n<p>\r\nCustom sized steel door latch T strike plate. Packaged with #9 x 3/4\" wood screws for easy installation. \r\n</p>\r\n\r\n\r\n\r\n\r\n<p>\r\n<b>Custom item. Final Sale</b>\r\n</p>",
+            "seo": {
+                "title": "20 Inch Tall T Strike Plate, DJO-CUSTOM20",
+                "description": "20 Inch Tall T Strike Plate, DJO-CUSTOM20",
+                "keywords": "20 Inch Tall T Strike Plate, DJO-CUSTOM20"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Custom Items",
+                    "sort": "108"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select finish: 622: Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "622: Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

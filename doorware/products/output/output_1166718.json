@@ -1,0 +1,139 @@
+{
+    "legacy_product_id": "1166718",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1 Inch x 2-1/4 Inch Radius Corner Deadbolt Strike, Kwikset 85063",
+            "vendor": "Kwikset",
+            "status": "ACTIVE",
+            "sku": "KWI-85063",
+            "mpn": "KWI-85063",
+            "price": "15.1",
+            "compare_at_price": "15.1",
+            "contractor_price": "15.1",
+            "shipping_weight": "0.1",
+            "tags": [
+                "Kwikset 85063 1 Inch x 2-1/4 Inch Radius Corner Deadbolt Strikes",
+                "KWI-85063"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/KWI-85063-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/KWI-85063-525.jpg?v=1716428697"
+        },
+        "text": {
+            "description_html": "<b>Kwikset 85063 1 Inch x 2-1/4 Inch Radius Corner Deadbolt Strike</b>\r\n\r\n<p>\r\nThe Kwikset 85063 1 Inch x 2-1/4 Inch Radius Corner Deadbolt Strike is for use with <a href=\"/collections/kwikset-locks\"><b>Kwikset Locks</b></a>. \r\n</p>\r\n\r\n\r\n<p><b>Specifications</b> of Kwikset 85063 Radius Corner Deadbolt Strike:\r\n<ul>\r\n<li>Height: 2-1/4\"</li>\r\n<li>Width: 1\"</li>\r\n<li>Corner Type: Radius Corner</li>\r\n<li>Center to Center Length: 1-5/8\"</li>\r\n<li>Material: Zinc</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</>\r\n</p>",
+            "seo": {
+                "title": "1 Inch x 2-1/4 Inch Radius Corner Deadbolt Strike",
+                "description": "The Kwikset 85063 1 Inch x 2-1/4 Inch Radius Corner Deadbolt Strike is for use with Kwikset Locks.",
+                "keywords": "Kwikset 85063 1 Inch x 2-1/4 Inch Radius Corner Deadbolt Strikes, KWI-85063,"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "2-1/4\""
+                },
+                {
+                    "key": "Width",
+                    "value": "1\""
+                },
+                {
+                    "key": "Corner Type",
+                    "value": "Radius Corner"
+                },
+                {
+                    "key": "Center to Center Length",
+                    "value": "1-5/8\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Zinc"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Kwikset Parts",
+                    "sort": "3"
+                },
+                {
+                    "name": "Strike Plates",
+                    "sort": "16"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "810639",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "913771",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "540540",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "327689",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Height: 2-1/4\"",
+                "Width: 1\"",
+                "Corner Type: Radius Corner",
+                "Center to Center Length: 1-5/8\"",
+                "Material: Zinc",
+                "Select Finish: 15: Satin Nickel",
+                "Select Finish: 11P/514: Venetian Bronze/Black",
+                "Select Finish: 3: Polished Brass",
+                "Select Finish: 26/26D: Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "11P/514: Venetian Bronze/Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "26/26D: Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

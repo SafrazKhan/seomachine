@@ -1,0 +1,90 @@
+{
+    "legacy_product_id": "176890",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Door Alarm Lock Double Electronic Digital Lock With Cards DL5300",
+            "vendor": "Alarm Lock",
+            "status": "ARCHIVED",
+            "sku": "DL5300 ",
+            "mpn": "DL5300 ",
+            "price": "1436.0",
+            "compare_at_price": "1795.0",
+            "contractor_price": "1364.0",
+            "shipping_weight": "12.0",
+            "tags": [
+                "DL5300",
+                "Double Electronic Digital Lock With Cards",
+                "card lock",
+                "push button lock",
+                "double sided lock"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DL5200-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DL5200-5251.jpg?v=1717105670"
+        },
+        "text": {
+            "description_html": "DL5300  Double Electronic Digital Lock With Cards. Double-sided Trilogy keypad door lock for keypad PIN-code access with keyless entry on two sides of door <br>\r\n<br>\r\n<b>SPECIFICATIONS: <br>\r\n\r\n<li>2000 user access using PIN-code and/or HID Prox card/fob with multilevel access hierarchy: Master, manager, supervisor and basic user. Access door lock users are individually programmed to use a card only, code only, or for the highest security, both card and code. (PIN codes: 3 to 6 digits)</li>\r\n<li>Keypad and/or computer programmable - Easy keypad door lock programming with fingertip at keypad or via PC with Alarm Lock's DL-Windows or AL-DTMIII Data Transfer Module for PC)</li>\r\n<li>Direction-specific access assignable per user programmable access for each user for one or both sides of the door (ie., each user can be allowed access to go into an area, out of an area or both ways) )</li>\r\n<li>Up to 40,000 event directional audit trail with time/date stamp for a printable record of door access activity by user also indicates direction of keyless entry door usage)</li>\r\n<li>500 scheduled events, including 4 quick schedules for programming the 4 most common time schedules in one step)</li>\r\n<li>Real time clock allows logging of events to within 1 second of accuracy)</li>\r\n<li>Programmable relays energize when one or more selected events occur)</li>\r\n<li>4 time-out functions allow a user to enable other users or unlock the lock for some time period without needing to return to the lock)</li>\r\n<li>Entry allowance from 5-15 seconds)</li>\r\n<li>Weatherproof performance, operational temperature range of -31°F to +151°F (-35°C to +66°C) )</li>\r\n<li>Temporary keypad door lockout after 3 unsuccessful attempts to enter code/ID)</li>\r\n<li>Primary Door Side has data port for programming lock and querying audit trail is on primary side of door, along with functioning mechanical key override)</li>\r\n<li>Tap & Add batch ID card enrollment mode allows many cards to be quickly added without PC - also downloadable from PC or enroller tool)</li>\r\n<li>Easy retrofits of cylindrical locksets and other access locks)</li>\r\n<li>Rugged clutch mechanism and Grade 1 durability ensure long life\r\n<li>Smart, standalone keypad door lock is long-life battery operated; uses 5 AA batteries; 60,000 cycles, typical. (Key-controlled chamber on secondary side) )</li>\r\n<li>Key override availabe in standard key override and interchangeable core models\r\n<li>Access lock vailable in two lever styles and five finishes (see back) )</li> \r\n<br>",
+            "seo": {
+                "title": "Door Alarm Lock Double Electronic Digital Lock With Cards DL5300",
+                "description": "DL5300  Double Electronic Digital Lock With Cards. Double Electronic Digital Lock With Cards. Double-sided Trilogy keypad door lock for keypad PIN-code access with keyless entry on two sides of door ",
+                "keywords": "DL5300,  Double Electronic Digital Lock With Cards, card lock, push button lock, double sided lock"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Alarm Lock",
+                    "sort": "11"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Proximity Card Option: ALHID1326 - Proximity Access Cards 100 Per Box",
+                "Select Proximity Card Option: ALHID1346 - Proximity Keyfob 10 Per Box",
+                "Select Proximity Card Option: ALHID1386 - Proximity And Photo ID Card Per Box"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Proximity Card Option",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ALHID1326 - Proximity Access Cards 100 Per Box",
+                    "price_impact": 460.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "ALHID1326"
+                },
+                {
+                    "value": "ALHID1346 - Proximity Keyfob 10 Per Box",
+                    "price_impact": 105.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "ALHID1346"
+                },
+                {
+                    "value": "ALHID1386 - Proximity And Photo ID Card Per Box",
+                    "price_impact": 845.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "ALHID1386"
+                }
+            ]
+        }
+    ]
+}

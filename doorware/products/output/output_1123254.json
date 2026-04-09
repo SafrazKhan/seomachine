@@ -1,0 +1,86 @@
+{
+    "legacy_product_id": "1123254",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hold Open Arm with PA Bracket, Falcon SC60-3049PA",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "FAL-SC60-3049PA",
+            "mpn": "FAL-SC60-3049PA",
+            "price": "78.0",
+            "compare_at_price": "97.0",
+            "contractor_price": "78.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Hold Open Arm with PA Bracket",
+                "FAL-SC60-3049PA",
+                "Falcon SC60-3049PA"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FAL-SC60-3049PA-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FAL-SC60-3049PA-525.jpg?v=1716428317"
+        },
+        "text": {
+            "description_html": "<b> Hold-Open Arm Assembly for Falcon SC60 Series Door Closer</b>\r\n\r\n<p>\r\nNon-handed, hold open arm with adjustable forearm assembly to accommodate a range of doors and frame reveal conditions. Mounts hinge side, top jamb, or parallel arm. PA shoe included to allow installation in a parallel arm configuration. For use with any Falcon SC60 series closer.\r\n</p>",
+            "seo": {
+                "title": "Hold Open Arm with PA Bracket",
+                "description": "Non-handed, hold open arm with adjustable forearm assembly to accommodate a range of doors and frame reveal conditions. Mounts hinge side, top jamb, or parallel arm. PA shoe included to allow installation in a parallel arm configuration. For use with any Falcon SC60 series closer.",
+                "keywords": "Hold Open Arm with PA Bracket, FAL-SC60-3049PA, Falcon SC60-3049PA"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Falcon",
+                    "sort": "19"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "188623",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "805011",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "804852",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "805285",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DBK: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DBK: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

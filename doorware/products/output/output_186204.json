@@ -1,0 +1,114 @@
+{
+    "legacy_product_id": "186204",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "12 Inch Skeleton Key Mortise Iron Lockset With Half Round Knob, Acorn WUTBI",
+            "vendor": "Acorn",
+            "status": "ARCHIVED",
+            "sku": "ACO-WUTBI",
+            "mpn": "ACO-WUTBI",
+            "price": "576.4",
+            "compare_at_price": "720.5",
+            "contractor_price": "547.58",
+            "shipping_weight": "5.0",
+            "tags": [
+                "ACORN-WUTBI",
+                "Acorn wutbi",
+                "wutbi",
+                "Mortise Skeleton Locks",
+                "skeleteon keys",
+                "skeleton locksets",
+                "skeleton mortise",
+                "Warwick rough iron handle sets",
+                "aco-wutbi",
+                "Acorn warwick mortise lock sets",
+                "rouch black iron mortise locksets",
+                "black iron handlesets",
+                "double cylinder handlesets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/WUTBI_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/WUTBI_525.jpg?v=1717105705"
+        },
+        "text": {
+            "description_html": "<b>ACORN-WUTBI, Mortise Skeleton Lockset.</b>\r\n<p>\r\nMade for interior doors, this is a skeleton key lockset. Using a skeleton key opens up the imagination to a world full of secret rooms and hidden treasures, just like the movies!</P>\r\n\r\n<p>\r\nThe keys look old, but the mortise lock is modern technology.\r\n</p>\r\n\r\n<p>Operated by a key on both the inside and the outside</p>\r\n\r\n<p>\r\nUnlike a simple tubular latch, this <a href=\"/products/black-iron-skeleton-key-mortise-lock-acorn-tm-series\">mortise lock</a> is extremely durable and has a tighter clearance tolerance. You know it's a mortise lock when you hear that heavy, smooth, solid 'click' when the door closes shut.\r\n</p>\r\n\r\n<p>This old world styling duplicates that found on the ironwork of many European castles and cathedrals and imitates the natural weathering of iron.\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of Mortise Door Lock:\r\n<ul>\r\n<li>Height: 12\"</li>\r\n<li>Width: 2-1/2\"</li>\r\n<li>Projection: 2\"</li>\r\n<li>Backset: 2-1/2\"</li>\r\n<li>Knob Style: round</li>\r\n<li>Finish: <b>Rough Black Iron</b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>When Selecting the Handing:</b>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/door-handing-picture.gif?v=1704352978\" border=\"0\" width=\"410\" height=\"150\" alt=\"door handing - left or right handed lever\">\r\n</p>\r\n\r\n<p>\r\n<i>The handing actually refers to the mortise lock, rather than the knob.</i>\r\n</p>",
+            "seo": {
+                "title": "12 Inch Skeleton Key Mortise Iron Lockset With Half Round Knob, Acorn WUTBI",
+                "description": "ACORN-WUTBI Acorn Mortise Skeleton Lockset for Interior Doors. Old style traditional lock with skeleton key for a sense of mystery.",
+                "keywords": "ACORN-WUTBI, Acorn wutbi, wutbi, Mortise Skeleton Locks, skeleteon keys, skeleton locksets, skeleton mortise, Warwick rough iron handle sets, aco-wutbi, Acorn warwick mortise lock sets, rouch black iron mortise locksets, black iron handlesets, double cylinder handlesets,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Acorn Discontinued",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "205890",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "186226",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "186230",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "186234",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "29821",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "29823",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Handing (Required for Levers and Knobs): Right Hand",
+                "Select Handing (Required for Levers and Knobs): Left Hand"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Handing (Required for Levers and Knobs)",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Right Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Right"
+                },
+                {
+                    "value": "Left Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Left"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "legacy_product_id": "184299",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "28 to 36-inch Grade 1 Polished Brass Finish HEAVY DUTY Rim Door Exit Device 8300 Series",
+            "vendor": "Tell mfg",
+            "status": "ARCHIVED",
+            "sku": "TEL-8300BUS3",
+            "mpn": "TEL-8300BUS3",
+            "price": "213.4",
+            "compare_at_price": "388.0",
+            "contractor_price": "244.44",
+            "shipping_weight": "10.0",
+            "tags": [
+                "tel-8300",
+                "Grade 1 Rim Exit Device TELL 8300 Series",
+                "Rim Devices",
+                "polished  brass  Exit Device",
+                "polished  brass touch bars",
+                "polished  brass panic devices"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/polished-brass-exit-bar_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/polished-brass-exit-bar_525.jpg?v=1717105686"
+        },
+        "text": {
+            "description_html": "<b>8300 Series Heavy-Duty Grade 1 Rim Exit Device with Polished Brass Finish</b>\r\n<p>\r\nTell Manufacturing, Inc. was incorporated in 1986 as a manufacturer and distributor of commercial locks and door hardware. Tell has expanded its customer profiles to include, contract hardware distribution, locksmith distributors, OEM manufacturers, and the modular office industry.\r\n</p>\r\n<p>\r\nThese Brass finish 8300's are popular with resort hotels or anywhere you want to add a sense of decor, rather that using a bland commercial aluminum exit device.\r\n</p>\r\n<p>\r\n<ul>\r\n<li>Certification: ANSI A156.3, 1994, Grade 1, UL Listed</li>\r\n<li><b>Rail: Fits 28\" to 36\" doors</b></li>\r\n<li>Latch: Stainless steel 5/8\" throw</li>\r\n<li>Backset: 2 3/4\"</li>\r\n<li>Strike: Adjustable with slotted holes for adjustments</li>\r\n<li>Fasteners: Accomodates wood or metal doors</li>\r\n<li>Door Range: 1 3/4\" to 2\" thickness</li>\r\n<li>Door Preparation: Surface Mounted</li>\r\n<li>Warranty: 10 year limited</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<b>US3 - Polished Brass Finish.</b>\r\n</p>",
+            "seo": {
+                "title": "28 to 36-inch Grade 1 Polished Brass Finish HEAVY DUTY Rim Door Exit Device 8300 Series",
+                "description": "Tell 8300 Series Polished Brass (US3) Heavy Duty Grade 1 Rim Exit Device. Available with matching polished brass finish keyed outside lever trim.",
+                "keywords": "tel-8300, Grade 1 Rim Exit Device TELL 8300 Series,  Rim Devices, polished  brass  Exit Device, polished  brass touch bars, polished  brass panic devices,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Tell mfg",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Trim: None Needed",
+                "Select Trim: CTL881US3 Bright Brass Entry Level Trim Lever",
+                "Keying-Mortise: I Only Ordered One Lock",
+                "Keying-Mortise: Keyed Different",
+                "Keying-Mortise: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Trim",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "None Needed",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/tel-no_trim31.gif?v=1774588070",
+                    "image_lg": null,
+                    "sku_ref": "None"
+                },
+                {
+                    "value": "CTL881US3 Bright Brass Entry Level Trim Lever",
+                    "price_impact": 119.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ctl881B_90x90_4709fda8-0478-48a0-a83c-8bfab5f9de46.jpg?v=1774590061",
+                    "image_lg": null,
+                    "sku_ref": "CTL881US3"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying-Mortise",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                }
+            ]
+        }
+    ]
+}

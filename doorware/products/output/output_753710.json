@@ -1,0 +1,129 @@
+{
+    "legacy_product_id": "753710",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Overhead Concealed Door Closer, Norton 7900",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "NOR-7900689",
+            "mpn": "NOR-7900689",
+            "price": "819.0",
+            "compare_at_price": "819.0",
+            "contractor_price": "819.0",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Overhead Concealed Door Closers",
+                "Norton 7900",
+                "Norton 7900 Series Door Closers",
+                "NOR-7900689",
+                "Norton Concealed Door Closers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/NOR-7900-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/NOR-7900-525.jpg?v=1717106245"
+        },
+        "text": {
+            "description_html": "<b>Norton 7900 Series Concealed Door Closer</b>\r\n\r\n<p>\r\nThe Norton 7900 door closer is a overhead concealed closer specially designed for where a closer is needed but concealment in the frame header is required or desired. It has an adjustable spring size and comes in an Aluminum Finish.\r\n</p> \r\n\r\n<p>\r\n<b>Features</b> for the Norton 7900 Door Closer:\r\n<ul>\r\n<li>Adjustable closing speed</li>\r\n<li>Adjustable latching speed</li>\r\n<li>Adjustable Back Check</li>\r\n<li>Aluminum Alloy Shell</li>\r\n<li>All Weather Fluid</li>\r\n<li>UL10C Compliant for Positive Pressure</li>\r\n</ul>\r\n</b>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Norton 7900 Series Door Closer:\r\n<ul>\r\n<li><b>Finish:</b> Aluminum</li>\r\n<li>Door Thickness: 1-3/4\" - 2-1/4\"</li>\r\n<li>Minimum Door Width: 27\"</li>\r\n<li>Maximum Door Weight: 250 lbs</li>\r\n<li>Spring Size 1-6</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Overhead Concealed Door Closer, Norton 7900",
+                "description": "Norton 7900, Overhead Concealed Door Closer - The Norton 7900 door closer is a overhead concealed closer specially designed for where a closer is needed but concealment in the frame header is required or desired.",
+                "keywords": "Overhead Concealed Door Closers, Norton 7900, Norton 7900 Series Door Closers, NOR-7900689, Norton Concealed Door Closers,"
+            },
+            "specifications": [
+                {
+                    "key": "Finish",
+                    "value": "Aluminum"
+                },
+                {
+                    "key": "Door Thickness",
+                    "value": "1-3/4\" - 2-1/4\""
+                },
+                {
+                    "key": "Minimum Door Width",
+                    "value": "27\""
+                },
+                {
+                    "key": "Maximum Door Weight",
+                    "value": "250 lbs"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Norton Closers",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "71327",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "71375",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "70986",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "508569",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "173756",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "334270",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "558557",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Finish: Aluminum",
+                "Door Thickness: 1-3/4\" - 2-1/4\"",
+                "Minimum Door Width: 27\"",
+                "Maximum Door Weight: 250 lbs",
+                "Select Handing: RH - Right Handing",
+                "Select Handing: LH - Left Handing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RH - Right Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LH - Left Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

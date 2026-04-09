@@ -1,0 +1,91 @@
+{
+    "legacy_product_id": "640686",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Interior Trim Plate with Lock Tab for SDK096PV",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-SDK096PV-IntTrm",
+            "mpn": "AHI-SDK096PV-IntTrm",
+            "price": "30.8",
+            "compare_at_price": "38.5",
+            "contractor_price": "30.8",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Interior Trim Plate with Lock Tab for SDK096PV"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/sdk096PVint-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/sdk096PVint-525.jpg?v=1716425088"
+        },
+        "text": {
+            "description_html": "<b>Interior Trim Plate with Lock Tab for SDK096PV</b><p>Replacement interior trim plate with tab for Reguitti SDK096PV privacy pocket door lock.</p>",
+            "seo": {
+                "title": "Interior Trim Plate with Lock Tab for SDK096PV",
+                "description": "Interior Trim Plate with Lock Tab for SDK096PV",
+                "keywords": "Interior Trim Plate with Lock Tab for SDK096PV"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "AHI Miscellaneous Parts",
+                    "sort": "13"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: AHI-SDK196PV-IntTrm-605 - Polished Brass",
+                "Select Finish: AHI-SDK196PV-IntTrm-625 - Polished Chrome",
+                "Select Finish: AHI-SDK196PV-IntTrm-619 - Satin Nickel",
+                "Select Finish: AHI-SDK196PV-IntTrm-613 - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AHI-SDK196PV-IntTrm-605 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AHI-SDK196PV-IntTrm-625 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AHI-SDK196PV-IntTrm-619 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AHI-SDK196PV-IntTrm-613 - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

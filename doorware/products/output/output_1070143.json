@@ -1,0 +1,153 @@
+{
+    "legacy_product_id": "1070143",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Drop Ring Pull Surface Mounted, Omnia 9587-60",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "OMN-9587-60",
+            "mpn": "OMN-9587-60",
+            "price": "22.4",
+            "compare_at_price": "28.0",
+            "contractor_price": "21.28",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9587/60",
+                "Omnia 9587 Contemporary Rectangular Drop Ring Pulls",
+                "OMN-9587-60 drop rings",
+                "pull rings",
+                "2 inch ring pulls",
+                "square ring pulls",
+                "Omnia drop pulls",
+                "cabinet drop rings",
+                "door pull rings",
+                "modern ring pulls",
+                "ring pulls omnia",
+                "solid brass ring pulls",
+                "square ring pulls",
+                "retangular flush pulls",
+                "omnia modern flush pulls",
+                "contemporary solid brass flush pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-9587-60-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-9587-60-525.jpg?v=1716428049"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9587-60, Surface Mounted Flush Ring Pull</b>\r\n\r\n<p>\r\nThe 2-3/8\" by 1-7/8\" surface mounted Ring Pull is great for cabinet doors, furniture, or cabinet drawers--anywhere that a ring pull is desired. The Surface Mounted Drop Ring Pull must be mortised (door face cut out) 5/8\" into the doors face. The mortising can be done with a router or small wood chisel. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Omnia  9587/60 Surface Mounted Flush Ring Pull\r\n<ul>\r\n<li>Overall Height: 2-3/8\"</li>\r\n<li>Overall Width: 1-7/8\"</li>\r\n<li>Overall Depth: 5/8\"</li>\r\n<li>Door Cutout Depth: 1/2\"</li>\r\n<li>Projection: 1/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n\r\n\r\n\r\n<p>\r\n<br><br>\r\n<b>** This item is being discontinued. Very limited quantities available.</b>\r\n</p>",
+            "seo": {
+                "title": "Drop Ring Pull Surface Mounted, Omnia 9587-60",
+                "description": "Omnia 9587-60, Drop Ring Pull - The Drop Ring Pull is great for cabinet doors, furniture, or cabinet drawers --- anywhere that a ring pull is desired. It is available in popular finish choices.",
+                "keywords": "omnia 9587/60, Omnia 9587 Contemporary Rectangular Drop Ring Pulls, OMN-9587-60 drop rings, pull rings, 2 inch ring pulls, square ring pulls,  Omnia drop pulls, cabinet drop rings, door pull rings, modern ring pulls, ring pulls omnia, solid brass ring pulls, square ring pulls, retangular flush pulls, omnia modern flush pulls, contemporary solid brass flush pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Overall Height",
+                    "value": "2-3/8\""
+                },
+                {
+                    "key": "Overall Width",
+                    "value": "1-7/8\""
+                },
+                {
+                    "key": "Overall Depth",
+                    "value": "5/8\""
+                },
+                {
+                    "key": "Door Cutout Depth",
+                    "value": "1/2\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia Sliding Door Hardware",
+                    "sort": "25"
+                },
+                {
+                    "name": "Omnia Cabinet Pulls",
+                    "sort": "120"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "194877",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "195651",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "708134",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1070043",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "748008",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "7635",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Overall Height: 2-3/8\"",
+                "Overall Width: 1-7/8\"",
+                "Overall Depth: 5/8\"",
+                "Door Cutout Depth: 1/2\"",
+                "Projection: 1/8\"",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: SB: Shaded Bronze",
+                "Select Finish: US4: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SB: Shaded Bronze",
+                    "price_impact": 0.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 2.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

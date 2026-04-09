@@ -1,0 +1,50 @@
+{
+    "legacy_product_id": "158389",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "40-132 Schlage Retail Keying Kit",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "40-132",
+            "mpn": "40-132",
+            "price": "400.0",
+            "compare_at_price": "500.0",
+            "contractor_price": "400.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Schlage Retail Keying Kit"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<br>Schlage Retail Keying Kit",
+            "seo": {
+                "title": "40-132 Schlage Retail Keying Kit",
+                "description": "Schlage Retail Keying Kit",
+                "keywords": "Schlage Retail Keying Kit"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Misc-Discontinued-Items",
+                    "sort": "66"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

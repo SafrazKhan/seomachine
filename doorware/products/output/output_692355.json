@@ -1,0 +1,117 @@
+{
+    "legacy_product_id": "692355",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Omnia Active 912 Lever with Passage MD Rose",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-912/07.xx-679/PA.xx-PA.L238.xx",
+            "mpn": "OMN-912/07.xx-679/PA.xx-PA.L238.xx",
+            "price": "52.4",
+            "compare_at_price": "65.5",
+            "contractor_price": "52.4",
+            "shipping_weight": "4.0",
+            "tags": [
+                "Omnia 912 Lever with MD Roses",
+                "OMN-912/07.xx-679/PA.xx-PA.L238.xx",
+                "Omnia Active 912 Lever with Passage MD Roses",
+                "Active Contemporary Lever Packaged with Modern Round Roses",
+                "solid brass levers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-912MD-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-912MD-5251.jpg?v=1716425303"
+        },
+        "text": {
+            "description_html": "<b>Omnia 912MD, Active Contemporary Lever Packaged with Modern Round Rose</b>\r\n\r\n<p>\r\nThe Omnia Active 912 Lever with Passage MD Rose is the perfect addition to contemporary homes with its sleek, clean lines that reflect the current style trends that are so popular in home decor right now. Comes packaged with 912 lever, MD rose for a passage set, and a 2-2/8\" lever strength latch.\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of the Modern Leverset:\r\n<ul>\r\n<li>Concealed screw mounting.</li>\r\n<li>55° rotation to retract latch.</li>\r\n<li>Covers 2-1/8\" bore hole.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Omnia 912MD Modern Lever With Round Rose:\r\n<ul>\r\n<li>Lever Length: 5-1/4\"</li>\r\n<li>Lever Projection: 3\"</li>\r\n<li>Rose Diameter: 2-5/8\"</li>\r\n<li>Backset: either 2-3/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Omnia Active 912 Lever with Passage MD Rose",
+                "description": "Omnia Active 912 Lever with Passage MD Rose - The Omnia Active 912 Lever with Passage MD Rose is the perfect addition to contemporary homes with its sleek, clean lines that reflect the current style trends that are so popular in home decor right now. Comes packaged with 912 lever, MD rose for a passage set, and a 2-2/8 inch lever strength latch.",
+                "keywords": "Omnia 912 Lever with MD Roses, OMN-912/07.xx-679/PA.xx-PA.L238.xx, Omnia Active 912 Lever with Passage MD Roses, Active Contemporary Lever Packaged with Modern Round Roses, solid brass levers,"
+            },
+            "specifications": [
+                {
+                    "key": "Lever Length",
+                    "value": "5-1/4\""
+                },
+                {
+                    "key": "Lever Projection",
+                    "value": "3\""
+                },
+                {
+                    "key": "Rose Diameter",
+                    "value": "2-5/8\""
+                },
+                {
+                    "key": "Backset",
+                    "value": "either 2-3/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "155"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "480300",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "680156",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "479464",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "480553",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Lever Length: 5-1/4\"",
+                "Lever Projection: 3\"",
+                "Rose Diameter: 2-5/8\"",
+                "Backset: either 2-3/8\"",
+                "Select Finish: US15 - Satin Nickel",
+                "Select Finish: US10B - Oil-Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B - Oil-Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

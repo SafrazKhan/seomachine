@@ -1,0 +1,135 @@
+{
+    "legacy_product_id": "1047690",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1 Inch Simple Cabinet Knob, Omnia 9100/25",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "OMN-9100/25",
+            "mpn": "OMN-9100/25",
+            "price": "6.13",
+            "compare_at_price": "8.6",
+            "contractor_price": "6.13",
+            "shipping_weight": "0.5",
+            "tags": [
+                "1 Inch Simple Cabinet Knobs",
+                "Omnia 9100/25",
+                "Omnia 9100/25 Simple Solid Brass Cabinet Knobs",
+                "OMN-9100/25"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-9100-25-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-9100-25-525.jpg?v=1716427895"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9100/25, 1 Inch Simple Solid Brass Cabinet Knob</b>\r\n\r\n<p>\r\nThis Simple Solid Brass Cabinet Knob is beautifully crafted. It will be sure to add a classic look to any home. The 1 Inch Simple Cabinet Knob comes packaged with the mounting hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Simple Cabinet Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter: 1\"</li>\r\n<li>Projection: 7/8\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>** Clearance Priced,  limited quantities available. \r\n<br><br>\r\nOnly (6) Polished Brass, (3) Vintage Brass, (1) Vintage Copper, and (3) Vintage Iron left.\r\n<br><br>\r\n</p>",
+            "seo": {
+                "title": "1 Inch Simple Cabinet Knob",
+                "description": "This Simple Solid Brass Cabinet Knob is beautifully crafted. It will be sure to add a classic look to any home. The 1 Inch Simple Cabinet Knob comes packaged with the mounting hardware.",
+                "keywords": "1 Inch Simple Cabinet Knobs, Omnia 9100/25, Omnia 9100/25 Simple Solid Brass Cabinet Knobs, OMN-9100/25"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Diameter",
+                    "value": "1\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "7/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Clearance Items",
+                    "sort": "29"
+                },
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "301"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "574367",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "794065",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "824146",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "37800",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42677",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Diameter: 1\"",
+                "Projection: 7/8\"",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: VB: Vintage Brass",
+                "Select Finish: VC: Vintage Cooper",
+                "Select Finish: VI: Vintage Iron"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "VB: Vintage Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "VC: Vintage Cooper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "VI: Vintage Iron",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

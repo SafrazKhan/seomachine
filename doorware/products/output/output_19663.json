@@ -1,0 +1,95 @@
+{
+    "legacy_product_id": "19663",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Design Hardware Spring Hinge 4.5\" x 4.5\"",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "DES-Spring Hinge",
+            "mpn": "DES-Spring Hinge",
+            "price": "6.5",
+            "compare_at_price": "13.0",
+            "contractor_price": "6.18",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Spring Hinge 4.5\" x 4.5\" design hardware spring hinge 4.5\" x 4.5\""
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Design Hardware Spring Hinge 4.5\" x 4.5\" <br>\r\n<br>\r\nItem is priced as each Hinge<br><br>\r\nMeets ANSI A156.17 for Grade 1 self closing<br><br>\r\nDimensions and tolerances conform to ANSI - A156.17<br><br>\r\nUL Listed for Fire Rated openings up to and including 3 hour, A label openings.<br><br>\r\nLifetime Warranty - Life of building<br><br>\r\nIncludes screws\r\n<br><br>\r\nSpring hinges 3.4mm thick<br><br>\r\nBase Material: Steel<br><br>\r\nMaximum Labeled Door Size - 3'-0\" wide x 7'-6\" tall x 1 3/4\" thick<br><br>\r\nNon-Labeled Doors - Maximum door size 4'-0\" x 7'6\" tall - Taller doors would require extra hinges<br><br><br>\r\n\r\n\r\nClick below to choose Finish",
+            "seo": {
+                "title": "Design Hardware Spring Hinge 4.5\" x 4.5\"",
+                "description": "Design Hardware Spring Hinge 4.5 x 4.5 \r\n\r\nItem is priced as each Hinge\r\nMeets ANSI A156.17 for Grade 1 self closing\r\nDimensions and tolerances conform to ANSI - A156.17\r\nUL Listed for Fire Rated openings up to and including 3 hour, A label openings.\r\nLifetime Warranty - Life of building\r\nIncludes screws\r\n\r\nSpring hinges 3.4mm thick\r\nBase Material: Steel\r\nMaximum Labeled Door Size - 3'-0 wide x 7'-6 tall x 1 3/4 thick\r\nNon-Labeled Doors - Maximum door size 4'-0 x 7'6 tall - Taller doors would require extra hinges\r\n\r\n\r\nClick below to choose Finish",
+                "keywords": "Spring Hinge 4.5\" x 4.5\" design hardware spring hinge 4.5\" x 4.5\""
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Design Hardware Hinges",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: DES-Spring Hinge USP-600 Prime",
+                "Select Finish: DES-Spring Hinge US26D-652 Brushed Satin Chrome",
+                "Select Finish: DES-Spring Hinge US3-632 Bright Polished Brass",
+                "Select Finish: DES-Spring Hinge US10B-640 Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DES-Spring Hinge USP-600 Prime",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DES-Spring"
+                },
+                {
+                    "value": "DES-Spring Hinge US26D-652 Brushed Satin Chrome",
+                    "price_impact": 2.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DES-Spring"
+                },
+                {
+                    "value": "DES-Spring Hinge US3-632 Bright Polished Brass",
+                    "price_impact": 2.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DES-Spring"
+                },
+                {
+                    "value": "DES-Spring Hinge US10B-640 Oil Rubbed Bronze",
+                    "price_impact": 2.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DES-Spring"
+                }
+            ]
+        }
+    ]
+}

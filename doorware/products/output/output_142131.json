@@ -1,0 +1,157 @@
+{
+    "legacy_product_id": "142131",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Brass Accents Push Plate",
+            "vendor": "BrassAccents",
+            "status": "ACTIVE",
+            "sku": "A07-P63_0",
+            "mpn": "A07-P63_0",
+            "price": "42.99",
+            "compare_at_price": "53.99",
+            "contractor_price": "40.99",
+            "shipping_weight": "4.0",
+            "tags": [
+                "BRA-A07-P6320",
+                "BRA-A07-P6340",
+                "BRA-A07-P6350",
+                "Decorative Door Push Plates",
+                "Decorative push Plates",
+                "Brass Accents Push Plates",
+                "A07-P6_1 Solid Brass Push Plate",
+                "Brass Accents Renaissance Collection door hardware sets",
+                "decorative door pulls",
+                "door pull handles",
+                "BRA-A07-P6_1 door push plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/A07-P6320-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/A07-P6320-525.jpg?v=1716421356"
+        },
+        "text": {
+            "description_html": "<b>Solid Brass Accents Door Push Plates</b>\r\n\r\n<p>\r\nPull plates are 16 ga. (.050) wrought and standard in all metals and finishes. Plates come packed with stainless steel sheet metal screws, plated to match the piece's finish.\r\n</p>\r\n\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance. Their products are hand finished in the USA. They are one of the worlds leading crafters of cast-brass and hot-forged decorative brass hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Available Plates Sizes:</b>\r\n<ul>\r\n<li>A07-P6320: 3\" Wide, 12\" High</li>\r\n<li>A07-P6340: 3-1/2\" Wide, 15\" High</li>\r\n<li>A07-P6350: 4\" Wide, 16\" High</li>\r\n<li>Material: Solid Brass </li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nAlso Available: <b>\r\n<a href=\"/products/solid-brass-door-pull-plates-brass-accents\">Brass Door Pull Plate</a>\r\n</b>\r\n</p>",
+            "seo": {
+                "title": "Brass Accents Push Plate",
+                "description": "Brass Accents A07-P6_0, Pull plates are 16 ga. (.050) wrought and standard in all metals and finishes. Plates come packed with stainless steel sheet metal screws, plated to match the piece's finish. Available in 3 sizes.",
+                "keywords": "BRA-A07-P6320, BRA-A07-P6340,  BRA-A07-P6350, Decorative Door Push Plates, Decorative push Plates, Brass Accents Push Plates, A07-P6_1 Solid Brass Push Plate, Brass Accents Renaissance Collection door hardware sets, decorative door pulls, door pull handles, BRA-A07-P6_1 door push plates,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Pull & Push Plates",
+                    "sort": "6"
+                },
+                {
+                    "name": "Decorative Door Pull and Push Plates",
+                    "sort": "50"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "163823",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "156838",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "162262",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "94601",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "94744",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "94766",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "91967",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "15345",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Size: A07-P6320: 3in. x 12in.",
+                "Select Size: A07-P6340: 3-1/2in. x 15in.",
+                "Select Size: A07-P6350: 4in. x 16in.",
+                "Select Finish: Polished Brass",
+                "Select Finish: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "A07-P6320: 3in. x 12in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "A07-P6320"
+                },
+                {
+                    "value": "A07-P6340: 3-1/2in. x 15in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "A07-P6340"
+                },
+                {
+                    "value": "A07-P6350: 4in. x 16in.",
+                    "price_impact": 4.99,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "A07-P6350"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Polished"
+                },
+                {
+                    "value": "Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

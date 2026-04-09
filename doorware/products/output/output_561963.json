@@ -1,0 +1,142 @@
+{
+    "legacy_product_id": "561963",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Ridged Cabinet Knob, RK International CK-9307",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-9307",
+            "mpn": "RKI-CK-9307",
+            "price": "10.99",
+            "compare_at_price": "13.31",
+            "contractor_price": "10.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Solid Brass Ridged Knobs",
+                "Ridged Cabinet Knobs",
+                "RKI-CK-9307",
+                "RK International CK-9307",
+                "RK International CK-9307 Solid Knob with Circle at Top",
+                "traditional cabinet knobs",
+                "simple cabinet knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-9307-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-9307-525.jpg?v=1716424516"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-9307, Solid Brass Ridged Knob</b>\r\n\r\n<p>\r\nThe Ridged Cabinet Knob made by RK International is a great way to add a quaint traditional feel to any space. It is available in 5 finishes including satin nickel, distressed copper, and oil rubbed bronze. This solid brass knob has a 1 inch diameter and comes packaged with all the necessary mounting hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-9307 Solid Knob with Circle at Top:\r\n<ul>\r\n<li>Diameter 1\"</li>\r\n<li>Projection: 7/8\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MUL-T-LOCK-G55G1_size.gif?v=1704354738\" width=\"600\" height=\"146\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Ridged Cabinet Knob",
+                "description": "RK International CK-9307 Ridged Cabinet Knob - The Ridged Cabinet Knob made by RK International is a great way to add a quaint traditional feel to any space. It is available in 5 finishes including satin nickel, distressed copper, and oil rubbed bronze. This solid brass knob has a 1 inch diameter and comes packaged with all the necessary mounting hardware.",
+                "keywords": "Solid Brass Ridged Knobs, Ridged Cabinet Knobs, RKI-CK-9307, RK International CK-9307, RK International CK-9307 Solid Knob with Circle at Top, traditional cabinet knobs, simple cabinet knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "5"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "561078",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "682348",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "237721",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "544623",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "12629",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "142110",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "906974",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "262498",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

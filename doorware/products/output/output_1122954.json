@@ -1,0 +1,87 @@
+{
+    "legacy_product_id": "1122954",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Riva Cabinet Pull, Amerock 55365",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "AMK-BP55365",
+            "mpn": "AMK-BP55365",
+            "price": "8.47",
+            "compare_at_price": "8.47",
+            "contractor_price": "8.47",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Riva Collection Cabinet Pulls",
+                "Amerock 55365",
+                "AMK-BP55365",
+                "Amerock BP55365G10"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AMK-BP55365G10-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AMK-BP55365G10-525.jpg?v=1716428312"
+        },
+        "text": {
+            "description_html": "<b>Amerock BP5536, Riva Cabinet Pull</b>\r\n\r\n<p>\r\nThe Riva Cabinet Pull focuses on the beauty of the straight line. By showcasing thoughtfully executed proportions, the Riva's minimalistic appearance creates a stand-out design. Its desirable, streamlined look enhances any space.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Riva Collection Cabinet Pull:\r\n<ul>\r\n<li>Material: Zinc</li>\r\n<li>Total Length: 4-7/16\"</li>\r\n<li>Center to Center Length: 3-3/4\"</li>\r\n<li>Width: 7/16\"</li>\r\n<li>Projection: 1-3/16\"</li>\r\n<li>Base: 3/4\" L x 7/16\" W>/li?\r\n<li>Screw Size(s): Includes mounting hardware: Size(s): #8-32 x 1in LGTH T.H. Machine Screw</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AMK-BP55365G10-specifications.pdf?v=1691094960\"><b>Amerock BP55365 Specifications Diagram (PDF)</b></a>\r\n</ul>\r\n</p>\r\n\r\n</p>\r\n\r\n<p>\r\n<i>Special Order. <b>NO RETURNS</b></i>\r\n</p>",
+            "seo": {
+                "title": "Riva Cabinet Pull",
+                "description": "The Riva Cabinet Pull focuses on the beauty of the straight line. By showcasing thoughtfully executed proportions, the Riva's minimalistic appearance creates a stand-out design. Its desirable, streamlined look enhances any space.",
+                "keywords": "Riva Collection Cabinet Pulls, Amerock 55365, AMK-BP55365, Amerock BP55365G10,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Amerock",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "942667",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "892703",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "600206",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "929133",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: G10: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "G10: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

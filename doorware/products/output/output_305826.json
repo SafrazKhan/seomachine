@@ -1,0 +1,179 @@
+{
+    "legacy_product_id": "305826",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Arched Push Plate 3.5 x 16 inches, Solid Brass, First Impressions FII-ARCH1",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-ARCH1",
+            "mpn": "FII-ARCH1",
+            "price": "177.0",
+            "compare_at_price": "220.0",
+            "contractor_price": "168.15",
+            "shipping_weight": "1.0",
+            "tags": [
+                "FII-ARCH1 Solid Brass Large Door Push Plates",
+                "First Impressions FII-ARCH1 Push Plates  3.5 x 16 inch push plates",
+                "brass push plates",
+                "Door Push Plates Solid Brass 3.5 x 16 Inches",
+                "3 1/2 inch push plates",
+                "16 inch tall push plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>First Impressions Arched Solid Brass 3.5\" x 20\" Door Push Plate</b>\r\n<p>\r\nLarge size door push plates primarily used in restaurants, warehouses and stores, but are popular in homes as well. Made of high quality solid brass for longevity. Packaged with matching finish brass mounting screws for easy installation. \r\n</p>\r\n<p>\r\nThese large solid brass push plates from First Impressions are hand finished in the USA.\r\n</p>\r\n<p>\r\n<b>Specifications</b> of First Impressions FII-ARCH1 Arched Door Push Plate\r\n<ul>\r\n<li>Plate Height: 16\"</li>\r\n<li>Plate Width: 3-1/2\"</li>\r\n<li>Material:  Solid Brass</li>\r\n<li>Available Finishes: 12</li>\r\n<li>Complete with Mounting Screws in Matching Finish</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Arched Push Plate 3.5 x 16 inches, Solid Brass, First Impressions FII-ARCH1",
+                "description": "First Impressions Push Plates Solid Brass 3.5 inch x 16 inch. These door push plates are supplied with mounting hardware and available in 12 different finishes.",
+                "keywords": "FII-ARCH1 Solid Brass Large Door Push Plates, First Impressions FII-ARCH1 Push Plates  3.5 x 16 inch push plates, brass push plates, Door Push Plates Solid Brass 3.5 x 16 Inches, 3 1/2 inch push plates,  16 inch tall push plates,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Height",
+                    "value": "16\""
+                },
+                {
+                    "key": "Plate Width",
+                    "value": "3-1/2\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Available Finishes",
+                    "value": "12"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Door Accessories",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Plate Height: 16\"",
+                "Plate Width: 3-1/2\"",
+                "Material: Solid Brass",
+                "Available Finishes: 12",
+                "Select Finish: PLB: Polished Brass",
+                "Select Finish: SNB: Satin Brass",
+                "Select Finish: ATB: Antique Brass",
+                "Select Finish: AGB: Aged Brass",
+                "Select Finish: PLN: Polished Nickel",
+                "Select Finish: SNN: Satin Nickel",
+                "Select Finish: PLC: Polished Chrome",
+                "Select Finish: ORB: Oil Rubbed Bronze",
+                "Select Finish: MBK: Matte Black",
+                "Select Finish: DBZ: Duro Bronze",
+                "Select Finish: LTH: Lithonia"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PLB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US3"
+                },
+                {
+                    "value": "SNB: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ATB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US5"
+                },
+                {
+                    "value": "AGB: Aged Brass",
+                    "price_impact": 52.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PLN: Polished Nickel",
+                    "price_impact": 40.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SNN: Satin Nickel",
+                    "price_impact": 40.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US15"
+                },
+                {
+                    "value": "PLC: Polished Chrome",
+                    "price_impact": 40.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US26"
+                },
+                {
+                    "value": "ORB: Oil Rubbed Bronze",
+                    "price_impact": 52.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US10B"
+                },
+                {
+                    "value": "MBK: Matte Black",
+                    "price_impact": 120.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DBZ: Duro Bronze",
+                    "price_impact": 120.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DB"
+                },
+                {
+                    "value": "LTH: Lithonia",
+                    "price_impact": 220.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

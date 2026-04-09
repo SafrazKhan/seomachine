@@ -1,0 +1,76 @@
+{
+    "legacy_product_id": "1197834",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Mounting Plate for LCN 1460 Series Door Closers, LCN 1460-18",
+            "vendor": "LCN",
+            "status": "ARCHIVED",
+            "sku": "LCN-1460-18",
+            "mpn": "LCN-1460-18",
+            "price": "63.2",
+            "compare_at_price": "79.0",
+            "contractor_price": "63.2",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Drop Plate for LCN 1460 Series Door Closers",
+                "LCN 1460-18"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-DP-1214_5252.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-DP-1214_5252.jpg?v=1711366746"
+        },
+        "text": {
+            "description_html": "<b>Mounting Plate for LCN 1460 Series Door Closer with a Narrow Top Jamb.</b>\r\n\r\n<p>\r\nThis is an aluminum mounting plate for the <a href=\"/products/lcn-1461-commercial-door-closer\"> <b>LCN 1460 Series Door Closer</b></a> with a narrow top jamb.\r\n</p>\r\n\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Mounting Plate for LCN 1460 Series Door Closers, LCN 1460-18",
+                "description": "This is an aluminum drop plate for the LCN 1460 Series Door Closer for mounting on narrow top jamb.",
+                "keywords": "Drop Plate for LCN 1460 Series Door Closers, LCN 1460-18"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closer Parts",
+                    "sort": "111"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: AL: Aluminum",
+                "Select Finish: DKB: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DKB: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

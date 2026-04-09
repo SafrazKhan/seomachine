@@ -1,0 +1,119 @@
+{
+    "legacy_product_id": "1155977",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "5 Inch Park Avenue Cabinet Pull, MNG 177",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "MNG-177",
+            "mpn": "MNG-177",
+            "price": "18.5",
+            "compare_at_price": "24.67",
+            "contractor_price": "18.5",
+            "shipping_weight": "1.0",
+            "tags": [
+                "5 Inch Park Avenue Cabinet Pulls",
+                "Park Avenue 5 Inch Cabinet Pulls",
+                "Park Avenue Cabinet Pulls",
+                "Park Avenue 5 Inch Pulls",
+                "traditional cabinet hardware",
+                "transitional cabinet hardware",
+                "MNG-177",
+                "MNG 177",
+                "MNG-17766",
+                "MNG 17766 oil rubbed bronze cabinet Pulls",
+                "MNG-17728",
+                "MNG 17728 satin nickel cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MNG-177-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-177-525.jpg?v=1716428533"
+        },
+        "text": {
+            "description_html": "<b>MNG 177, Park Avenue 5 Inch Cabinet Pull</b>\r\n\r\n<p>\r\nThe 5 Inch Park Avenue Cabinet Pull shows off how lovely traditional cabinet hardware can be. This iconic design elevates the decor around it. The  Park Avenue 5 Inch Cabinet Pull comes packaged with the mounting hardware. Choose your favorite classic finish color option. \r\n</p>\r\n\r\n<p>\r\nThis cabinet pull is part of the <a href=\"//search?type=product&q=MNG+Park+Avenue\">MNG Park Avenue Collection</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the MNG 177 Park Avenue 5 Inch Cabinet Pull:\r\n<ul>\r\n<li>Base Material: Zinc </li>\r\n<li>Length c.c. (center to center): 5\"</li>\r\n<li>Overall Length: 6\"</li>\r\n<li>Width: 1/2\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n<li>Packaged with 1\" long #8-32 screws and 1-1/2\"  long #8-32 screws.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i> \r\n</p>",
+            "seo": {
+                "title": "5 Inch Park Avenue Cabinet Pull",
+                "description": "The 5 Inch Park Avenue Cabinet Pull shows off how lovely traditional cabinet hardware can be. This iconic design elevates the decor around it. The  Park Avenue 5 Inch Cabinet Pull comes packaged with the mounting hardware. Choose your favorite classic finish color option.",
+                "keywords": "5 Inch Park Avenue Cabinet Pulls, Park Avenue 5 Inch Cabinet Pulls, Park Avenue Cabinet Pulls, Park Avenue 5 Inch Pulls, traditional cabinet hardware, transitional cabinet hardware, MNG-177, MNG 177, MNG-17766, MNG 17766 oil rubbed bronze cabinet Pulls, MNG-17728, MNG 17728 satin nickel cabinet Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "MNG Cabinet Hardware",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "330097",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1153403",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "26574",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "24482",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "935828",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "1154933",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "481236",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "142873",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MNG-17728: Satin Nickel",
+                "Select Finish: MNG-17766: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MNG-17728: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-17728-SM.jpg?v=1774582275",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-17828-LG.jpg?v=1711366636"
+                },
+                {
+                    "value": "MNG-17766: Oil Rubbed Bronze",
+                    "price_impact": 0.29,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-17766-SM.jpg?v=1774582278",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-17766-LG1.jpg?v=1711366636"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "legacy_product_id": "1182247",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1-1/4 Inch Diameter English Bridle Door Pull, Rockwood RM60610-60",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "RKW-RM60610-60",
+            "mpn": "RKW-RM60610-60",
+            "price": "2689.0",
+            "compare_at_price": "2689.0",
+            "contractor_price": "2689.0",
+            "shipping_weight": "12.0",
+            "tags": [
+                "1-1/4 Inch Diameter English Bridle Door Pulls",
+                "Rockwood RM60610-60",
+                "RKW-RM60610-60",
+                "60 Inch English Bridle Door Pull with 1-1/4 Inch Diameters"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RW-RM6060-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RW-RM6060-525.jpg?v=1716428813"
+        },
+        "text": {
+            "description_html": "<b>Rockwood RM60610-60, 60 Inch English Bridle Door Pull with 1-1/4 Inch Diameter</b>\r\n\r\n<p>\r\nThe 1-1/4 Inch Diameter English Bridle Door Pull is 60 inches overall. It has a 1-1/4 inch diameter. \r\n</p>\r\n\r\n\r\n\r\n<p>\r\n<b>Specifications</b> of the English Bridle Door Pull\r\n<ul>\r\n<li>Material: Stainless Steel with Leather</li>\r\n<li>Total Length: 60\"</li>\r\n<li>Diameter: 1-1/4\" leather thickness is about 1/8\" additional</li>\r\n<li>Projection: 3\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>NO RETURNS</b></i>\r\n</p>",
+            "seo": {
+                "title": "1-1/4 Inch Diameter English Bridle Door Pull",
+                "description": "The 1-1/4 Inch Diameter English Bridle Door Pull is 60 inches overall. It has a 1-1/4 inch diameter.",
+                "keywords": "1-1/4 Inch Diameter English Bridle Door Pulls,  Rockwood RM60610-60, RKW-RM60610-60, 60 Inch English Bridle Door Pull with 1-1/4 Inch Diameters,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Stainless Steel with Leather"
+                },
+                {
+                    "key": "Total Length",
+                    "value": "60\""
+                },
+                {
+                    "key": "Diameter",
+                    "value": "1-1/4\" leather thickness is about 1/8\" additional"
+                },
+                {
+                    "key": "Projection",
+                    "value": "3\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Rockwood Door Pulls",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1099128",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "883136",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "828785",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "828814",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "209150",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Stainless Steel with Leather",
+                "Total Length: 60\"",
+                "Diameter: 1-1/4\" leather thickness is about 1/8\" additional",
+                "Projection: 3\"",
+                "Select Finish: US32D: Satin Stainless & Dark Brown Leather",
+                "Select Door Thickness Range: 1/4in. to 1/2in.",
+                "Select Door Thickness Range: 5/8in. to 1in.",
+                "Select Door Thickness Range: 1-1/8in. to 1-1/2in.",
+                "Select Door Thickness Range: 1-5/8in. to 2in.",
+                "Select Door Thickness Range: 2-1/8 to 2-3/8in.",
+                "Select Door Thickness Range: 2-1/2in. to 3in.",
+                "Select Door Material: Metal",
+                "Select Door Material: Wood / Fiberglass",
+                "Select Door Material: Glass",
+                "Select Mounting Choice: Thru-Bolted Mounting",
+                "Select Mounting Choice: Surface Mounting",
+                "Select Mounting Choice: Back to Back Mounting (Requires 2 Pulls)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US32D: Satin Stainless & Dark Brown Leather",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness Range",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1/4in. to 1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5/8in. to 1in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-1/8in. to 1-1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-5/8in. to 2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-1/8 to 2-3/8in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-1/2in. to 3in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Material",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Metal",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Wood / Fiberglass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Glass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Mounting Choice",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Thru-Bolted Mounting",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Surface Mounting",
+                    "price_impact": 13.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Back to Back Mounting (Requires 2 Pulls)",
+                    "price_impact": 18.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

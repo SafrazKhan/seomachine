@@ -1,0 +1,87 @@
+{
+    "legacy_product_id": "843025",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Ornate Cremone Bolt, Omnia 2057",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-2057/M",
+            "mpn": "OMN-2057/M",
+            "price": "451.5",
+            "compare_at_price": "451.5",
+            "contractor_price": "451.5",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Ornate Cremone Bolts",
+                "Ornate Cremone Window Bolts",
+                "OMN-2057/M",
+                "Omnia 2057"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-2057-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-2057-525.jpg?v=1716425971"
+        },
+        "text": {
+            "description_html": "<b>Omnia 2057, Ornate Cremone Bolt</b>\r\n\r\n<p>\r\nThe Ornate Cremone Bolt is for use on an outswinging doors or casement windows. It allows the user to activate two separate locks at the top and bottom of door/window with one knob. \r\n</p>\r\n\r\n<p>\r\nMechanism only. DOES NOT include rods or latches.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the \r\n<ul>\r\n<li>Box Height: 7-3/16\"</li>\r\n<li>Box Width: 1-1/2\"</li>\r\n<li>Box Projection: 2-1/4\"</li>\r\n<li>Knob Height: 3\"<li>\r\n<li>Knob Width: 1-1/2\"</li>\r\n<li>Guide Height: 3-1/4\"</li>\r\n<li>Guide Width: 1-1/2\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i> Special order item, <b>NO Returns</b>.\r\n</p>",
+            "seo": {
+                "title": "Ornate Cremone Bolt",
+                "description": "The Ornate Cremone Bolt is for use on an outswinging doors or casement windows. It allows the user to activate two separate locks at the top and bottom of door/window with one knob.",
+                "keywords": "Ornate Cremone Bolts, Ornate Cremone Window Bolts, OMN-2057/M, Omnia 2057,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "164"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "327298",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "650057",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "602589",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "355883",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US3 - Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

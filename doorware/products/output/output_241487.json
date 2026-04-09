@@ -1,0 +1,126 @@
+{
+    "legacy_product_id": "241487",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Pull Trim with Rim Cylinder for Exit Device, Global TH1100-PLED-RC",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-TH1100-PLED-RC",
+            "mpn": "GLO-TH1100-PLED-RC",
+            "price": "31.88",
+            "compare_at_price": "45.54",
+            "contractor_price": "28.69",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Pull Trim with Rim Cylinder for TH1100 Crash Bar",
+                "GLO-TH1100-PLED-RC",
+                "panic bar lock",
+                "crash bar lock",
+                "exit device lock",
+                "panic bar accessories",
+                "crash bar accessories",
+                "exit device accessories",
+                "exit bar key lock",
+                "crash bar key lock",
+                "panic bar key lock",
+                "panic bar handle",
+                "crash bar handle",
+                "exit bar handle",
+                "exit device handles",
+                "Global Door Controls TH1100-PLED Exit Device Rim Cylinder and Pull Trim",
+                "TH1100 PLED RC",
+                "pled",
+                "th1100"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/TH1100-PLED_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/TH1100-PLED_525.jpg?v=1717105831"
+        },
+        "text": {
+            "description_html": "<b>Pull Trim with Rim Lock Cylinder for Panic Device</b>\r\n<p>\r\nThis is a Night Latch Function Pull Trim with <a href=\"/products/rim-cylinder-lock-global-th1100-rc\">Rim Lock Cylinder</a> (turn key to retract latch, release/remove key to engage latch) for Global <a href=\"/products/30-to-36-inch-wide-door-stainless-steel-touch-bar-rim-exit-device-th1100edtbarss\"><b>Stainless Steel Rim Exit Device</b></a>, <a href=\"/products/30-to-36-inch-wide-door-touch-bar-rim-exit-device-th1100edtbar\"><b>TH1100EDTBAR Touch Bar Exit Devices</b></a>, <a href=\"/products/44-inch-grade-2-touch-bar-rim-exit-device-edtbar44\"><b>44 Inch Rim Exit Devices</b></a> and others.\r\n</p>\r\n<p>\r\nAlso available: <a href=\"/products/pull-plate-trim-for-exit-device-global-th1100-pldum-al\"><b>Pull Plate Only (no lock hole)</b></a>\r\n</p>\r\n<p>\r\nPackaged with rim lock cylinder, pull trim, mounting hardware, instructions, and 2 keys.\r\n</p>\r\n<p>\r\n<b>Features</b> for Global TH1100-PLED-RC Pull Trim with Rim Cylinder \r\n<ul>\r\n<li>Function: Night Latch - Turn key to retract door latch on exit device, release/remove key to re-engage.</li>\r\n<li>Finish: Aluminum </li>\r\n<li>Pull Plate Height: 8\"</li>\r\n<li>Pull Plate Width: 3\"</li>\r\n<li>Pull Projection: 1-1/8\"</li>\r\n<li>Includes Mounting Hardware</li>\r\n<li>Includes Trim Ring</li>\r\n<li>Standard Schlage \"C\" Keyway</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Pull Trim with Rim Cylinder for Exit Device, Global TH1100-PLED-RC",
+                "description": "Global Door Controls TH1100-PLED  Night Latch Function Pull Trim with Rim Lock Cylinder (turn key to retract latch, release/remove key to engage latch) for Global  Touch Bar Exit Devices. ",
+                "keywords": "Pull Trim with Rim Cylinder for TH1100 Crash Bar, GLO-TH1100-PLED-RC, panic bar lock, crash bar lock, exit device lock, panic bar accessories, crash bar accessories, exit device accessories, exit bar key lock, crash bar key lock, panic bar key lock, panic bar handle, crash bar handle, exit bar handle, exit device handles, Global Door Controls TH1100-PLED Exit Device Rim Cylinder and Pull Trim, TH1100 PLED RC, pled, th1100,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Global Panic Hardware",
+                    "sort": "33"
+                },
+                {
+                    "name": "Panic Hardware",
+                    "sort": "36"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "222660",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "250724",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "250992",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "222657",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "222609",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Keying: I only ordered one",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I only ordered one",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

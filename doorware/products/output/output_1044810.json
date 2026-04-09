@@ -1,0 +1,135 @@
+{
+    "legacy_product_id": "1044810",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Metropolitan Cabinet Pull, RK International CP-556",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CP-556",
+            "mpn": "RKI-CP-556",
+            "price": "6.99",
+            "compare_at_price": "8.36",
+            "contractor_price": "6.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Metropolitan Cabinet Pulls",
+                "Modern Cabinet Pulls",
+                "RKI-CP-556",
+                "RK International CP-556",
+                "Modern Metropolitan Cabinet Pulls",
+                "RK International CP-557",
+                "99mm c/c Modern Pulls",
+                "128m c/c modern pulls",
+                "RK International Metropolitan Kitchen Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-CP556-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-CP556-525.jpg?v=1716427877"
+        },
+        "text": {
+            "description_html": "<b>RK International CP 556, Modern Metropolitan Cabinet Pull</b>\r\n\r\n<p>\r\nThe Metropolitan Cabinet Pull is available in 2 sizes: a 96m and a 128mm. Choose from polished chrome or satin nickel. The Modern Metropolitan Cabinet Pull comes packaged with the installation hardware. It will add a chic sleekness to your kitchen cabinet door and drawers. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International Metropolitan Kitchen Cabinet Pull:\r\n<ul>\r\n<li>Material: Zinc</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>RKI-CP-556:</b>\r\n<ul>\r\n<li>Length c.c. (center to center): 9mm</li>\r\n<li>Overall Length: 121mm</li>\r\n<li>Projection: 21mm</li>\r\n</ul>\r\n<br>\r\n<b>RKI-CP-557:</b>\r\n<ul>\r\n<li>Length c.c. (center to center): 128mm</li>\r\n<li>Overall Length: 155mm</li>\r\n<li>Projection: 21mm</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Metropolitan Cabinet Pull",
+                "description": "The Metropolitan Cabinet Pull is available in 2 sizes: a 96m and a 128mm. Choose from polished chrome or satin nickel. The Modern Metropolitan Cabinet Pull comes packaged with the installation hardware. It will add a chic sleekness to your kitchen cabinet door and drawers.",
+                "keywords": "Metropolitan Cabinet Pulls, Modern Cabinet Pulls, RKI-CP-556, RK International CP-556, Modern Metropolitan Cabinet Pulls, RK International CP-557, 99mm c/c Modern Pulls, 128m c/c modern pulls, RK International Metropolitan Kitchen Cabinet Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Pulls and Flush Pulls",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "353160",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "725078",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "352581",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "675348",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1002606",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "352914",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "929133",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Size: CP-556: 96m c/c",
+                "Select Size: CP-557: 128mm c/c",
+                "Select Finish: PC: Polished Chrome",
+                "Select Finish: P: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "CP-556: 96m c/c",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CP-557: 128mm c/c",
+                    "price_impact": 1.14,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PC: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "legacy_product_id": "558070",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Contemporary Square Cabinet Knob, RK International CK-771",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-771",
+            "mpn": "RKI-CK-771",
+            "price": "12.99",
+            "compare_at_price": "16.06",
+            "contractor_price": "12.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Contemporary Square Cabinet Knobs",
+                "RK International CK-771",
+                "RK International CK-770",
+                "RKI-CK-770",
+                "Square Cabinet Knob with Square Lines",
+                "modern cabinet hardware",
+                "contemporary cabinet hardware",
+                "square knobs",
+                "square cabinet hardware",
+                "square cabinet pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-771-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-771-525.jpg?v=1716424447"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-771, Square Cabinet Knob with Square Lines</b>\r\n\r\n<p>\r\nContemporary without being overly modern, this RK International made Square Cabinet Knob is the perfect choice for people looking for a fresh take on cabinet hardware. The square shape is made accessible to more traditional style homes with the rounded edges and the square grooves. It is available in  7/8 inch and 1-1/16 inch sizes. Choose from any of the 6 available finishes to achieve the look you desire.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-771 Square Cabinet Hardware:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes</b>\r\n<ul>\r\n<b>RKI-CK-771:</b>\r\n<ul>\r\n<li>Length: 7/8\" square</li>\r\n<li>Projection: 3/4\"</li>\r\n</ul>\r\n<br>\r\n<b>RKI-CK-770:</b>\r\n<ul>\r\n<li>Length: 1-1/16\" square</li>\r\n<li>Projection: 13/16\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MUL-T-LOCK-TSR25_size.gif?v=1704354575\" width=\"600\" height=\"146\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Contemporary Square Cabinet Knob",
+                "description": "RK International CK-771, Contemporary Square Cabinet Knob - Contemporary without being overly modern, this RK International made Square Cabinet Knob is the perfect choice for people looking for a fresh take on cabinet hardware. The square shape is made accessible to more traditional style homes with the rounded edges and the square grooves. It is available in  7/8 inch and 1-1/16 inch sizes. Choose from any of the 6 available finishes to achieve the look you desire.",
+                "keywords": "Contemporary Square Cabinet Knobs, RK International CK-771, RK International CK-770, RKI-CK-770, Square Cabinet Knob with Square Lines, modern cabinet hardware, contemporary cabinet hardware, square knobs, square cabinet hardware, square cabinet pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "5"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "438510",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "13829",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "160955",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "544867",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "238468",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "287166",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "343505",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "303052",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Size: CK-771: 7/8in. Diameter",
+                "Select Size: CK-770: 1-1/16in. Diameter",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "CK-771: 7/8in. Diameter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CK-770: 1-1/16in. Diameter",
+                    "price_impact": 2.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

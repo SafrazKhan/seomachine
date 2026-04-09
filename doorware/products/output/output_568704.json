@@ -1,0 +1,124 @@
+{
+    "legacy_product_id": "568704",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Flower Knob Backplate, RK International BP-482",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-BP-482",
+            "mpn": "RKI-BP-482",
+            "price": "7.99",
+            "compare_at_price": "9.24",
+            "contractor_price": "7.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RKI-BP-482",
+                "Fancy Floral Cabinet Knob Rosettes",
+                "Flower Knob Backplates",
+                "RK International BP-482",
+                "floral cabinet hardware",
+                "flower cabinet hardware",
+                "flower backplate",
+                "flower rose",
+                "cabinet knob roses"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BP-482-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BP-482-525.jpg?v=1716424649"
+        },
+        "text": {
+            "description_html": "<b>RK International BP-482, Fancy Flower Cabinet Knob Rosette</b>\r\n\r\n<p>\r\nThe floral design of this RK International cabinet rose is understated, ensuring that it is not too feminine. It is available in oil rubbed bronze, satin nickel, and polished brass finishes. The Flower Knob Backplate has a 1-1/2 inch diameter and is just ornate enough to add a point of interest to any kitchen cabinet. It can be used with most cabinet knobs, but we like it best with the matching <a href=\"/products/flower-cabinet-knob-rk-international-ck-182\">Flower Cabinet Knob</a> or behind something more simple to jazz it up like a <a href=\"/products/simple-half-round-cabinet-knob-rk-international-ck-1117\">Half-Round Cabinet Knob</a>. No matter which knob you choose to go with it, this flower knob backplate is sure to add beauty to it.\r\n</p>\r\n\r\n<p>\r\nUse with matching <a href=\"/products/flower-cabinet-knob-rk-international-ck-182\"><b>CP-182 Flower Cabinet Knob</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International BP-482 Fancy Floral Cabinet Knob Rosette:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Diameter: 1-1/2\"</li>\r\n<li>Width: 1-1/2\"</li>\r\n<li>Projection: 1/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Flower Knob Backplate",
+                "description": "RK International BP-482, Flower Knob Backplate - The floral design of this RK International cabinet rose is understated, ensuring that it is not too feminine. It is available in oil rubbed bronze, satin nickel, and polished brass finishes. The Flower Knob Backplate has a 1-1/2 inch diameter and is just ornate enough to add a point of interest to any kitchen cabinet. It can be used with most cabinet knobs; and no matter which knob you choose to go with it, this flower knob backplate is sure to add beauty to it.",
+                "keywords": "RKI-BP-482, Fancy Floral Cabinet Knob Rosettes, Flower Knob Backplates, RK International BP-482, floral cabinet hardware, flower cabinet hardware, flower backplate, flower rose, cabinet knob roses,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knob and Pull Rosettes",
+                    "sort": "4"
+                },
+                {
+                    "name": "Cabinet Knob and Pull Rosettes",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "41380",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "41271",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "58481",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "567356",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "37150",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "551820",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "58476",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: RB: Oil Rubbed Bronze",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: B: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

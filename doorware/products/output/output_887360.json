@@ -1,0 +1,85 @@
+{
+    "legacy_product_id": "887360",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Replacement Mul-T-Lock Captive Key Thumbturn and Blade",
+            "vendor": "Mul-T-Lock",
+            "status": "ARCHIVED",
+            "sku": "MTL-PLK-HD-TCC-xx/206S-KEYHRC-1",
+            "mpn": "MTL-PLK-HD-TCC-xx/206S-KEYHRC-1",
+            "price": "50.0",
+            "compare_at_price": "50.0",
+            "contractor_price": "50.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Replacement 206S-HDC Thumbturn Keys",
+                "Replacement Mul-t-lock Captive Key Thumbturn and Blades",
+                "MTL-PLK-HD-TCC-xx/206S-KEYHRC-1",
+                "MTL-206S-HDC replacement thumbturn",
+                "Replacement Thumbturn Piece and Key Blade for 206S-HDC",
+                "Thumb Turn for MUL-T-LOCK Hercular Captive Key Deadbolt"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MTL-PLK-HD-TCC-206S-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MTL-PLK-HD-TCC-206S-525.jpg?v=1716426384"
+        },
+        "text": {
+            "description_html": "<b>Replacement Thumbturn Piece and Key Blade for Mul-T-Lock 206S-HDC</b>\r\n\r\n<p>\r\nThis is a replacement thumbturn and key blade for the <a href=\"/products/grade-1-mul-t-lock-hercular-double-cylinder-captive-key-deadbolt\">MUL-T-LOCK 206S-HDC Hercular Captive Key Deadbolt</a>.\r\n</p>\r\n\r\n<p>\r\nSold individually. <b>No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "Replacement Mul-T-Lock Captive Key Thumbturn and Blade",
+                "description": "This is a replacement thumbturn for the MUL-T-LOCK 206S-HDC Hercular Captive Key Deadbolt.",
+                "keywords": "Replacement 206S-HDC Thumbturn Keys, Replacement Mul-t-lock Captive Key Thumbturn and Blades, MTL-PLK-HD-TCC-xx/206S-KEYHRC-1, MTL-206S-HDC replacement thumbturn, Replacement Thumbturn Piece and Key Blade for 206S-HDC, Thumb Turn for MUL-T-LOCK Hercular Captive Key Deadbolt"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Mul-T-Lock Accessories",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "163500",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "163489",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "70075",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 13 - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "13 - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

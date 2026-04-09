@@ -1,0 +1,156 @@
+{
+    "legacy_product_id": "571374",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Pipe Pulls, Pair, RK International PH-4900BM",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-PH-4900BM",
+            "mpn": "RKI-PH-4900BM",
+            "price": "509.99",
+            "compare_at_price": "636.9",
+            "contractor_price": "509.99",
+            "shipping_weight": "9.0",
+            "tags": [
+                "Pipe Back to Back Door Handles",
+                "Pipe Pulls",
+                "RK International PH-4900BM",
+                "RKI-PH-4900BM",
+                "back to back door pulls",
+                "Pipe Door Handles",
+                "Rustic Pipe Handles",
+                "cylinder middle door pulls",
+                "RK International PH-4901BM",
+                "RKI-PH-4901BM"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-PH4900BM-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-PH4900BM-525.jpg?v=1716424714"
+        },
+        "text": {
+            "description_html": "<b>RK International PH-4900BM, Rustic Pipe Handles</b>\r\n\r\n<p>\r\nIndustrial decor is much sought after and the Pipe Door Handle exudes a beauty in its rustic design that makes it the perfect fit for shabby chic lovers everywhere. This door pull is made to look like a pipe, but with an attention to style and form. It is available in oil rubbed bronze, satin nickel, and antique english finishes. Choose from a 12 inch or an 18 inch length. Made by RK International, the Pipe Pull is packaged and sold as a pair (2 pulls) with back to back mounting.\r\n</p>\r\n\r\n<p>\r\nPackaged with Back to Back mounting (2 door pulls bolted to each other - 1 door pull for each side of a door). Also Available Matching: <a href=\"/products/pipe-door-handle-rk-international-ph-4880\"><b>Pipe Through Bolt Mounted Door Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 sizes:</b>\r\n<ul>\r\n<b>PH-4900BM</b>\r\n<ul>\r\n<li>Length c.c. (center to center): 12\"</li>\r\n<li>Length Overall: 13-1/32\"</li>\r\n<li>Width: 1-1/8\"</li>\r\n<li>Projection: 2-1/2\"</li>\r\n</ul>\r\n<br>\r\n<b>PH-4901BM</b>\r\n<ul>\r\n<li>Length c.c. (center to center): 18\"</li>\r\n<li>Length Overall: 19-3/32\"</li>\r\n<li>Width: 1-1/8\"</li>\r\n<li>Projection: 2-1/2\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i> Sold as a Pair (2 Door Pulls) with Back to Back mounting.</i>\r\n</p>",
+            "seo": {
+                "title": "Pipe Pulls, Pair",
+                "description": "RK International PH-4900BM Pipe Pulls Pair - Industrial decor is much sought after and the Pipe Door Handle exudes a beauty in its rustic design that makes it the perfect fit for shabby chic lovers everywhere. This door pull is made to look like a pipe, but with an attention to style and form. It is available in oil rubbed bronze, satin nickel, and antique english finishes. Choose from a 12 inch or an 18 inch length. Made by RK International, the Pipe Pull is packaged and sold as a pair (2 pulls) with back to back mounting.\r\n",
+                "keywords": "Pipe Back to Back Door Handles, Pipe Pulls, RK International PH-4900BM, RKI-PH-4900BM, back to back door pulls, Pipe Door Handles, Rustic Pipe Handles, cylinder middle door pulls, RK International PH-4901BM, RKI-PH-4901BM"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "RK International Door Pulls",
+                    "sort": "5"
+                },
+                {
+                    "name": "Door Pulls",
+                    "sort": "2"
+                },
+                {
+                    "name": "Barn Door Hardware",
+                    "sort": "11"
+                },
+                {
+                    "name": "Modern and Transitional Door Pulls",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "452996",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "566126",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "12103",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "566851",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "565249",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "487393",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "562087",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Size: PH-4900BM: 12in. c.c.",
+                "Select Size: PH-4901BM: 18in. c.c.",
+                "Select Finish: RB: Oil Rubbed Bronze",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: AE: Antique English"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PH-4900BM: 12in. c.c.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PH-4901BM: 18in. c.c.",
+                    "price_impact": 104.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

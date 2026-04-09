@@ -1,0 +1,149 @@
+{
+    "legacy_product_id": "1234280",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3/4 Inch Round Sliding Barn Door Set, Don-Jo BD1815",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "DJO-BD1815",
+            "mpn": "DJO-BD1815",
+            "price": "82.99",
+            "compare_at_price": "103.04",
+            "contractor_price": "82.99",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Modern Round Door Pull and Flush Pull Sets",
+                "Modern Round Barn Door Pull Sets",
+                "Don-Jo BD1815",
+                "DJO BD1815",
+                "don jo BD1815",
+                "don-jo BD1815",
+                "6 Inch Sliding Barn Door Sets",
+                "cup flush pulls",
+                "door flush door pulls",
+                "door flush pulls",
+                "handle for sliding door",
+                "sliding door handles",
+                "barndoor pulls",
+                "barndoor hardware",
+                "midcentury modern door hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-1815-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-1815-525.jpg?v=1769504238"
+        },
+        "text": {
+            "description_html": "<b>Don-Jo BD1815, 3/4\" Round Barn Door Pull Set</b>\r\n\r\n<p>\r\nThe Don-Jo Barn Door Kit comes with everything you'll need to thru-bolt mount it on your sliding door including one door pull and a matching flush pull. This 3/4\" Round Barn Door Pull Set is available in three finishes including black, satin stainless steel, and oil rubbed bronze. \r\n\r\n</p>\r\n\r\n\r\n\r\n\r\n\r\n<p>\r\n<b>Specifications</b> of the 3/4\" Round Barn Door Pull Set:\r\n<ul>\r\n<li>Pull Total Length: 6.75\"</li>\r\n<li>Pull Center to Center Length: 6\"</li>\r\n<li>Pull Handle Diameter: 3/4\"</li>\r\n<li>Pull Total Projection: 2-1/4\"</li>\r\n<li>Flush Pull Cut-Out Height: 5\"</li>\r\n<li>Flush Pull Cut-Out Width: 1.245\"</li>\r\n\r\n\r\n\r\n\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold as a set</i>\r\n</p>",
+            "seo": {
+                "title": "3/4 Inch Round Sliding Barn Door Set",
+                "description": "The Don-Jo Barn Door Kit comes with everything you'll need to thru-bolt mount it on your sliding door including one door pull and a matching flush pull. This 3/4\" Round Barn Door Pull Set is available in three finishes including black, satin stainless steel, and oil rubbed bronze.",
+                "keywords": "Modern Round Door Pull and Flush Pull Sets, Modern Round Barn Door Pull Sets, Don-Jo BD1815, DJO BD1815, don jo BD1815, don-jo BD1815, 6 Inch Sliding Barn Door Sets, cup flush pulls, door flush door pulls,  door flush pulls, handle for sliding door, sliding door handles, barndoor pulls, barndoor hardware,  midcentury modern door hardware,"
+            },
+            "specifications": [
+                {
+                    "key": "Pull Total Length",
+                    "value": "6.75\""
+                },
+                {
+                    "key": "Pull Center to Center Length",
+                    "value": "6\""
+                },
+                {
+                    "key": "Pull Handle Diameter",
+                    "value": "3/4\""
+                },
+                {
+                    "key": "Pull Total Projection",
+                    "value": "2-1/4\""
+                },
+                {
+                    "key": "Flush Pull Cut-Out Height",
+                    "value": "5\""
+                },
+                {
+                    "key": "Flush Pull Cut-Out Width",
+                    "value": "1.245\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Barn Door Hardware",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "582949",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1002442",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1002428",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1211292",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1211422",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Pull Total Length: 6.75\"",
+                "Pull Center to Center Length: 6\"",
+                "Pull Handle Diameter: 3/4\"",
+                "Pull Total Projection: 2-1/4\"",
+                "Flush Pull Cut-Out Height: 5\"",
+                "Flush Pull Cut-Out Width: 1.245\"",
+                "Select Finish: DJO-BD1815-630: Satin Stainless Steel",
+                "Select Finish: DJO-BD1815-613: Oil Rubbed Bronze",
+                "Select Finish: DJO-BD1815-622: Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DJO-BD1815-630: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DJO-BD1815-613: Oil Rubbed Bronze",
+                    "price_impact": 22.74,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DJO-BD1815-622: Black",
+                    "price_impact": 28.56,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

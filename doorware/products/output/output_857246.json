@@ -1,0 +1,161 @@
+{
+    "legacy_product_id": "857246",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "New York Quad Outlet Plate, Grandeur NYKSWPLTD2",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-NYKSWPLTD2",
+            "mpn": "GRA-NYKSWPLTD2",
+            "price": "35.99",
+            "compare_at_price": "45.0",
+            "contractor_price": "35.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Grandeur NYKSWPLTD2",
+                "GRA-NYKSWPLTD2 Double New York Outlet Cover Plates",
+                "New York Quad Outlet Plates",
+                "Double Electrical Socket Covers",
+                "Grandeur New York Outlet Covers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-NYKSWPLTD2-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-NYKSWPLTD2-525.jpg?v=1716426057"
+        },
+        "text": {
+            "description_html": "<b>Grandeur NYKSWPLTD2, New York Double Electrical Socket Cover</b>\r\n\r\n<p>\r\nThe New York Quad Outlet Plate has a versatile look that can fit into almost any decor. Its clean lines and classic styling makes it a timeless addition to your home. It is available in a wide array of finishes. The New York Double Electrical Socket Cover comes packaged with all the mounting hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur New York Outlet Cover:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 4-5/8\"</li>\r\n<li>Width: 4-5/8\"</li>\r\n<li>Projection: 5/16\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "New York Quad Outlet Plate",
+                "description": "The New York Quad Outlet Plate has a versatile look that can fit into almost any decor. Its clean lines and classic styling makes it a timeless addition to your home. It is available in a wide array of finishes. The New York Double Electrical Socket Cover comes packaged with all the mounting hardware.",
+                "keywords": "Grandeur NYKSWPLTD2, GRA-NYKSWPLTD2 Double New York Outlet Cover Plates,  New York Quad Outlet Plates, Double Electrical Socket Covers, Grandeur New York Outlet Covers,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "4-5/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "4-5/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "5/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Electrical Outlet &amp; Switch Plates",
+                    "sort": "93"
+                },
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "42"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "857340",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "857526",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "857542",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "823230",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 4-5/8\"",
+                "Width: 4-5/8\"",
+                "Projection: 5/16\"",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: AP: Antique Pewter",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: ULB: Unlacquered Brass",
+                "Select Finish: TB: Timeless Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ULB: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

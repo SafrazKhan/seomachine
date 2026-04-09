@@ -1,0 +1,139 @@
+{
+    "legacy_product_id": "316484",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Latch Bolt for Baldwin Images Sectional, Escutcheon and Emergency Egress Entrance Lock sets",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BALD-5300.xxx.9",
+            "mpn": "BALD-5300.xxx.9",
+            "price": "60.0",
+            "compare_at_price": "60.0",
+            "contractor_price": "60.0",
+            "shipping_weight": "0.0",
+            "tags": [
+                "Latch Bolt for Baldwin Images Sectional",
+                "Escutcheon and Emergency Egress Entrance Lock sets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Latch Bolt for Baldwin Images Sectional, Escutcheon and Emergency Egress Entrance Lock sets</b>\r\n<p>\r\nLatch Bolt are for use with Baldwin Images Sectional, Escutcheon and Emergency Egress Entrance Lock sets and have an adjustable backset feature to accomodate 2 3/8\" or 2 3/4\" backsets.</p>\r\n<p>\r\n<b> Specifications of Baldwin 5300.xxx.9 Latch Bolts</b>\r\n</p>\r\n<p>\r\n<ul>\r\n<li>Latch Bolts have a .5\" (13mm) throw</li>\r\n<li>Latch Bolts are non-handed</li>\r\n<li>Fully adjustable fronts for use on beveled doors</li>\r\n<li>Front Length:  2.25\" (57mm)</li>\r\n<li>Front Width:  1\" (25mm)</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Latch Bolt for Baldwin Images Sectional, Escutcheon and Emergency Egress Entrance Lock sets",
+                "description": "Latch Bolt for Baldwin Images Sectional, Escutcheon and Emergency Egress Entrance Lock sets",
+                "keywords": "Latch Bolt for Baldwin Images Sectional, Escutcheon and Emergency Egress Entrance Lock sets"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Discontinued",
+                    "sort": "147"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: BALD-5300.003.9 - Lifetime Brass",
+                "Select Finish: BALD-5300.050.9 - Satin Brass and Black",
+                "Select Finish: BALD-5300.102.9 - Oil Rubbed Bronze",
+                "Select Finish: BALD-5300.112.9 - Venetian Bronze",
+                "Select Finish: BALD-5300.150.9 - Satin Nickel",
+                "Select Finish: BALD-5300.151.9 - Antique Nickel",
+                "Select Finish: BALD-5300.190.9 - Satin Black",
+                "Select Finish: BALD-5300.260.9 - Polished Chrome",
+                "Select Finish: BALD-5300.264.9 - Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BALD-5300.003.9 - Lifetime Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BALD-5300.003.9 - Lifetime Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BALD-5300.050.9 - Satin Brass and Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BALD-5300.102.9 - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BALD-5300.112.9 - Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BALD-5300.150.9 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BALD-5300.151.9 - Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BALD-5300.190.9 - Satin Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BALD-5300.260.9 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BALD-5300.264.9 - Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

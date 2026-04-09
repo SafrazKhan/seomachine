@@ -1,0 +1,95 @@
+{
+    "legacy_product_id": "1040028",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "LCN Hold Open Arm Bracket for 4040XP, LCN 4040XP62ADKB",
+            "vendor": "LCN",
+            "status": "ARCHIVED",
+            "sku": "LCN-4040XP62ADKB",
+            "mpn": "LCN-4040XP62ADKB",
+            "price": "40.0",
+            "compare_at_price": "40.0",
+            "contractor_price": "40.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Hold Open Bracket for LCN 4040XP Closer",
+                "LCN Hold Open Arm Bracket for 4040XP",
+                "LCN-4040XP62ADKB",
+                "LCN 4040XP62ADKB"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525118.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525118.gif?v=1716427859"
+        },
+        "text": {
+            "description_html": "<b>LCN 4040XP62ADKB, Hold Open Bracket for LCN 4040XP Closer</b>\r\n\r\n<p>\r\nThis is the replacement hold open bracket for <a href=\"/products/lcn-4040-super-smoothee-grade-1-door-closer\"><b>LCN 4040XPT Grade 1 Door Closer</b></a>. \r\n</p>\r\n\r\n<p><i>Sold Individually</i></p>",
+            "seo": {
+                "title": "LCN Hold Open Arm Bracket for 4040XP",
+                "description": "This is the replacement hold open bracket for a LCN 4040XPT Grade 1 Door Closer.",
+                "keywords": "Hold Open Bracket for LCN 4040XP Closer, LCN Hold Open Arm Bracket for 4040XP, LCN-4040XP62ADKB, LCN 4040XP62ADKB,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closer Parts",
+                    "sort": "105"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "499860",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "231652",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "499842",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "15351",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "71772",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "180802",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DKBRZ: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DKBRZ: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

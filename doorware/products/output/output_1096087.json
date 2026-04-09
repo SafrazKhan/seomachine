@@ -1,0 +1,227 @@
+{
+    "legacy_product_id": "1096087",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Goose Style Door Stop, Emtek 2253",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-2253",
+            "mpn": "EMT-2253",
+            "price": "34.99",
+            "compare_at_price": "43.0",
+            "contractor_price": "34.99",
+            "shipping_weight": "0.0",
+            "tags": [
+                "Floor mounted Door Stops",
+                "wood door bumpers",
+                "wood door stops",
+                "brass door bumpers",
+                "brass door stops",
+                "doorstops",
+                "door dampers",
+                "rubber door stops",
+                "doorstoppers",
+                "door stoppers",
+                "wooden door stops",
+                "Emtek 2-7/8 inch Floor mounted Door Stops",
+                "Emtek door stops",
+                "Solid Brass Gooseneck Floor Mounted Door Stops",
+                "Gooseneck Floor Stops",
+                "Emtek 2253 Goose Style Door Stop",
+                "EMT-2253",
+                "Emtek 2253 Goose Style Door Stop"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-2253-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-2253-525.jpg?v=1716428144"
+        },
+        "text": {
+            "description_html": "<b>Emtek 2253, Solid Brass Gooseneck Floor Mounted Door Stop</b>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-2253-specifications.gif?v=1704354710\" width=\"178\" height=\"239\" border=\"0\" align=\"right\" alt=\"Emtek 2253 Specifications\">\r\n</p>\r\n\r\n<p>\r\nThis 2-7/8\" high floor mounted door stop is made of solid brass by Emtek. It is packaged complete with all installation hardware. Choose from a huge selection of finish colors. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Emtek 2253 Goose Style Door Stop:\r\n<ul>\r\n<li>Height: 2-7/8\"</li>\r\n<li>Projection: 1-1/2\"</li>\r\n<li>Mount Length: 2-1/2\"</li>\r\n<li>Mount Width: 1-3/8\"</li>\r\n<li>Rubber Bumper: Grey</li>\r\n<li>Packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Goose Style Door Stop",
+                "description": "This 2-7/8\" high floor mounted door stop is made of solid brass by Emtek. It is packaged complete with all installation hardware. Choose from a huge selection of finish colors.",
+                "keywords": "Floor mounted Door Stops, wood door bumpers, wood door stops, brass door bumpers, brass door stops, doorstops, door dampers, rubber door stops, doorstoppers, door stoppers,  wooden door stops, Emtek 2-7/8 inch Floor mounted Door Stops, Emtek door stops, Solid Brass Gooseneck Floor Mounted Door Stops, Gooseneck Floor Stops, Emtek 2253 Goose Style Door Stop, EMT-2253, Emtek 2253 Goose Style Door Stop"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "2-7/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1-1/2\""
+                },
+                {
+                    "key": "Mount Length",
+                    "value": "2-1/2\""
+                },
+                {
+                    "key": "Mount Width",
+                    "value": "1-3/8\""
+                },
+                {
+                    "key": "Rubber Bumper",
+                    "value": "Grey"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Emtek Accessories",
+                    "sort": "13"
+                },
+                {
+                    "name": "Door Stops, Bumpers, and Holders",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "903419",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "984380",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "156838",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "214215",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "889116",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "7005",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Height: 2-7/8\"",
+                "Projection: 1-1/2\"",
+                "Mount Length: 2-1/2\"",
+                "Mount Width: 1-3/8\"",
+                "Rubber Bumper: Grey",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US15A: Antique Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US7: French Antique",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US4: Satin Brass",
+                "Select Finish: TWB: Tumbled White Bronze",
+                "Select Finish: MB: Medium Bronze",
+                "Select Finish: US3NL: Unlacquered Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US7: French Antique",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TWB: Tumbled White Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MB: Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3NL: Unlacquered Brass",
+                    "price_impact": 16.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

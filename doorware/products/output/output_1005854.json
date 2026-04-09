@@ -1,0 +1,127 @@
+{
+    "legacy_product_id": "1005854",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3-1/2 x 3-1/2 x 5/8 Radius Residential Spring Hinge, Imperial USA CPS3535",
+            "vendor": "Global",
+            "status": "ARCHIVED",
+            "sku": "GLO-CPS3535",
+            "mpn": "GLO-CPS3535",
+            "price": "15.87",
+            "compare_at_price": "19.84",
+            "contractor_price": "15.87",
+            "shipping_weight": "2.0",
+            "tags": [
+                "3-1/2 Inch Residential Spring Hinges",
+                "3-1/2 x 3-1/2 x 5/8 Radius Residential Spring Hinges",
+                "Imperial USA CPS3535",
+                "GLO-CPS3535",
+                "Residential 3-1/2 x 3-1/2 x 5/8 Inch Radius Single Action Spring Hinge"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-CSP3535-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-CSP3535-525.jpg?v=1716427631"
+        },
+        "text": {
+            "description_html": "<b> Residential 3-1/2\" x 3-1/2\" x 5/8\" Radius Single Action Spring Hinge</b>\r\n\r\n<p>\r\nPackaged complete with One Single Action Spring Door Hinge, Allen Adjusting Wrench, Locking Pins.  Utilizes template screw hole pattern.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Full Mortise Residential Spring Door Hinge:\r\n<ul>\r\n<li>Height: 3-1/2\"</li>\r\n<li>Width: 3-1/2\"</li>\r\n<li>Corners: 5/8\" Radius</li>\r\n<li>Thickness: 0.097\"</li>\r\n<i>Full Mortise Spring Hinge</li>\r\n<li>Standard Template Hole Pattern</li>\r\n<li>Wood Screws: 3/4\" x #9 Phillips head screws</li>\r\n<li>Hinge Material: Steel</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>*Sold Individually. </b>\r\n</p>",
+            "seo": {
+                "title": "3-1/2 x 3-1/2 x 5/8 Radius Residential Spring Hinge",
+                "description": "Packaged complete with One Single Action Spring Door Hinge, Allen Adjusting Wrench, Locking Pins.  Utilizes template screw hole pattern.",
+                "keywords": "3-1/2 Inch Residential Spring Hinges, 3-1/2 x 3-1/2 x 5/8 Radius Residential Spring Hinges, Imperial USA CPS3535, GLO-CPS3535, Residential 3-1/2 x 3-1/2 x 5/8 Inch Radius Single Action Spring Hinge"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "3-1/2\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3-1/2\""
+                },
+                {
+                    "key": "Corners",
+                    "value": "5/8\" Radius"
+                },
+                {
+                    "key": "Thickness",
+                    "value": "0.097\""
+                },
+                {
+                    "key": "Wood Screws",
+                    "value": "3/4\" x #9 Phillips head screws"
+                },
+                {
+                    "key": "Hinge Material",
+                    "value": "Steel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Global Discontinued",
+                    "sort": "43"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "332895",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "10229",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "8531",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "80803",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "61734",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "8589",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Height: 3-1/2\"",
+                "Width: 3-1/2\"",
+                "Corners: 5/8\" Radius",
+                "Thickness: 0.097\"",
+                "Wood Screws: 3/4\" x #9 Phillips head screws",
+                "Hinge Material: Steel",
+                "Select Finish: US4: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

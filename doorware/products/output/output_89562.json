@@ -1,0 +1,178 @@
+{
+    "legacy_product_id": "89562",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Bella Villa Scroll Egg Knob with Oval Floral Rose Fusion 34-D9",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-34-D9",
+            "mpn": "FUS-34-D9",
+            "price": "42.0",
+            "compare_at_price": "52.0",
+            "contractor_price": "40.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Fusion 34 D9",
+                "Bella Villa Scroll Egg Knob with Oval Floral Rose Fusion 34-D9",
+                "FUS-34-D9",
+                "FUS 34 D9"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Fusion_34-D9_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Fusion_34-D9_525.jpg?v=1711365126"
+        },
+        "text": {
+            "description_html": "<P><b>Bella Villa Scroll Egg Knob with Oval Floral Rose Fusion 34-D9 </b></P>\r\n\r\n<P><B>Specifications</B> for Bella Villa Scroll Egg Knob with Oval Floral Rose Fusion 34-D9:<UL>\r\n<LI>Solid Brass Forging and Casting</LI>\r\n<LI>True Bronze Product (Sandcast and Lost Wax) with over 90% Copper Content</LI>\r\n<LI>Standard Latch Rotation is 40 Degrees</LI>\r\n<LI>Cycle Tested to ANSI Standards</LI>\r\n<LI>All Dummy Interior (Single or Double) are surface mounted using Fusion \"Quick Install\" with safety ramp</LI>\r\n<li>Pre-Installed Rose saves time, money and perfect indexing on the door.</LI></UL></P>\r\n\r\n<P><B>Warranty</B> for Bella Villa Scroll Egg Knob with Oval Floral Rose Fusion 34-D9:<UL>\r\n<LI>Lifetime Limited Warranty on workmanship, materials, and operation</LI>\r\n<LI> Natural Bronze and Finishes over Bronze carry a one year warranty</LI>\r\n<LI>Lifetime Warranty for Polished Brass (PVD) Finish</LI>\r\n </UL></P>\r\n\r\n<p><B>Choosing a Function:</B><ul>\r\n<li>Single Dummy: For use as a pull or to match trim.</li>\r\n<li>Double Dummy: Stationary both sides of door</li>\r\n<li>Passage (Hall or Closet): For doors that don't need locking.</li>\r\n<li>Privacy (Bedroom or Bathroom): For doors that could need locking.</li></ul></p>",
+            "seo": {
+                "title": "Bella Villa Scroll Egg Knob with Oval Floral Rose Fusion 34-D9",
+                "description": "Bella Villa Scroll Egg Knob with Oval Floral Rose Fusion 34-D9",
+                "keywords": "Fusion 34 D9, Bella Villa Scroll Egg Knob with Oval Floral Rose Fusion 34-D9, FUS-34-D9, FUS 34 D9,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion-MISC-Discontinued",
+                    "sort": "48"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Function: D - Single Dummy",
+                "Select Function: DS - Double Dummy",
+                "Select Function: P - Passage (Hall or Closet)",
+                "Select Function: V - Privacy (Bedroom or Bathroom)",
+                "Select Finish: ORB - Oil Rubbed Bronze",
+                "Select Finish: BRN - Brushed Nickel",
+                "Select Finish: ATP - Antique Pewter",
+                "Select Finish: ATC - Antique Copper",
+                "Select Finish: MDB - Medium Bronze",
+                "Select Finish: PVD - Lifetime Polished Brass",
+                "Select Backset: 2 3/8in. Backset",
+                "Select Backset: 2 3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "D - Single Dummy",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "D"
+                },
+                {
+                    "value": "DS - Double Dummy",
+                    "price_impact": 42.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DS"
+                },
+                {
+                    "value": "P - Passage (Hall or Closet)",
+                    "price_impact": 42.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "P"
+                },
+                {
+                    "value": "V - Privacy (Bedroom or Bathroom)",
+                    "price_impact": 42.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "V"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BRN - Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ATP - Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ATC - Antique Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MDB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PVD - Lifetime Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2 3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2"
+                },
+                {
+                    "value": "2 3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "legacy_product_id": "1123536",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Latitude Lever with Kinsler Rose Non Turning Dummy Lock, Schlage FC172LAT-KIN",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-FC172LAT-KIN",
+            "mpn": "SCH-FC172LAT-KIN",
+            "price": "74.99",
+            "compare_at_price": "107.0",
+            "contractor_price": "74.99",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Schlage FC172LAT-KIN",
+                "Dummy Pair Latitude Lever with Kinsler Trim",
+                "Latitude Lever with Kinsler Rose Non Turning Dummy Locks",
+                "SCH-FC172LAT-KIN",
+                "Dummy Set Latitude Lever with Kinsler Rose"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SCH- FC172LATKIN-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SCH-_20FC172LATKIN-525.jpg?v=1711366569"
+        },
+        "text": {
+            "description_html": "<b>Schlage FC172LAT-KIN, Dummy Pair Latitude Lever with Kinsler Trim</b>\r\n\r\n<p>\r\nThe modern looking Latitude Lever with Kinsler Rose Non Turning Dummy Lock is for use on doors that do not need to be latched or locked. A dummy pair, it comes packaged with 2 levers and two rosettes but does not include a latch. For use on inactive doors in conjunction with a <a href=\"/products/latitude-lever-with-kinsler-trim-schlage-fc21lat-kin\"><b>hall-closet and bed-bath lock function Latitude Lever</b></a>. \r\n</p>\r\n\r\n<p>\r\n<b>Dummy Pair:</b> For use as a pull or to match trim on both sides of the door. This leverset does not latch and does not lock.\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of the Schlage Custom Latitude lever with Kinsler Trim:\r\n<ul>\r\n<li>Will fit most standard pre-drilled doors.</li>\r\n<li>Surface mounted.</li>\r\n<li>Lock and finish backed by limited lifetime warranty </li>\r\n<li>Installs in minutes with screwdriver.</li>\r\n<li><a href=\"/pages/ada-compliant\">ADA Compliant</a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Dummy Set Latitude Lever with Kinsler Rose:\r\n<ul>\r\n<li>Lever Length: 4.4375\"</li>\r\n<li>Projection: 2.375\"</li>\r\n<li>Non-handed</li>\r\n<li>Package Includes: 2 levers, 2 roses, and mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Latitude Lever with Kinsler Rose Non Turning Dummy Lock",
+                "description": "The modern looking Latitude Lever with Kinsler Rose Non Turning Dummy Lock is for use on doors that do not need to be latched or locked. A dummy pair, it comes packaged with 2 levers and two rosettes but does not include a latch. For use on inactive doors in conjunction with a hall-closet and bed-bath lock function Latitude Lever.",
+                "keywords": "Schlage FC172LAT-KIN, Dummy Pair Latitude Lever with Kinsler Trim, Latitude Lever with Kinsler Rose Non Turning Dummy Locks, SCH-FC172LAT-KIN, Dummy Set Latitude Lever with Kinsler Rose,"
+            },
+            "specifications": [
+                {
+                    "key": "Lever Length",
+                    "value": "4.4375\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "2.375\""
+                },
+                {
+                    "key": "Package Includes",
+                    "value": "2 levers, 2 roses, and mounting hardware."
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Levers",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "307518",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "372672",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "955862",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "557033",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "235072",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "992719",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "234902",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Lever Length: 4.4375\"",
+                "Projection: 2.375\"",
+                "Package Includes: 2 levers, 2 roses, and mounting hardware.",
+                "Select Finish: 626: Satin Chrome",
+                "Select Finish: 625: Bright Chrome",
+                "Select Finish: 619: Satin Nickel",
+                "Select Finish: 618: Polished Nickel",
+                "Select Finish: 608: Satin Brass",
+                "Select Finish: 622: Matte Black",
+                "Select Finish: 716: Aged Bronze",
+                "Select Finish: 530: Black Stainless"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "625: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "619: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "618: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "608: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "622: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "716: Aged Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "530: Black Stainless",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

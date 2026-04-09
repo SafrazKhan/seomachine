@@ -1,0 +1,122 @@
+{
+    "legacy_product_id": "633853",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "St. Charles Robe Hook, Fusion RH-E5",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-RH-E5",
+            "mpn": "FUS-RH-E5",
+            "price": "49.0",
+            "compare_at_price": "49.0",
+            "contractor_price": "36.75",
+            "shipping_weight": "4.0",
+            "tags": [
+                "Fusion Saint Charles Collection Robe Hooks",
+                "FUS-RH-E5",
+                "St. Charles Trim Robe Hooks",
+                "St. Charles Robe Hooks",
+                "Fusion RH-E5",
+                "traditional bathroom robe hooks",
+                "hand towel hooks",
+                "bathroom towel hooks",
+                "bath towel hooks",
+                "Kitchen towel rings",
+                "bathroom stall purse hooks",
+                "towel rings",
+                "towel bars",
+                "coat hooks",
+                "St. Charles Collection Robe Hook"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-RH-E5-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-RH-E5-525.jpg?v=1711365521"
+        },
+        "text": {
+            "description_html": "<b>Fusion RH-E5, St. Charles Collection Robe Hook</b>\r\n\r\n<p>\r\nThe St. Charles Robe Hook features fleur-de-lis designs on the mounts, making it a great way to add old-world elegance to your home. It is available in either medium bronze or oil rubbed bronze finishes. This Robe hook is not only great for use in the bathroom, but also in many other rooms in your house as well. Hang a few in the closet for extra storage; and add a few by the front door to catch all the bags, hats, and coats that seem to always end up on the floor. \r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/st-charles-towel-bar-fusion-tb-e5\"><b>Fusion TB-E5 St. Charles Towel Bar</b></a>, \r\n<a href=\"/products/st-charles-hand-towel-ring-fusion-tr-e5\"><b>Fusion TR-E5 St. Charles Towel Ring</b></a>, and\r\n<a href=\"/products/st-charles-toilet-tissue-holder-fusion-ph-e5\"><b>Fusion PH-E5 St. Charles Toilet Paper Holder</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Fusion Saint Charles Collection Robe Hook:\r\n<ul>\r\n<li>Mount Diameter: 2-5/8\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "St. Charles Robe Hook, Fusion RH-E5",
+                "description": "Fusion RH-E5, St. Charles Robe Hook - The St. Charles Robe Hook features fleur-de-lis designs on the mounts, making it a great way to add old-world elegance to your home. It is available in either medium bronze or oil rubbed bronze finishes. This Robe hook is not only great for use in the bathroom, but also in many other rooms in your house as well. Hang a few in the closet for extra storage; and add a few by the front door to catch all the bags, hats, and coats that seem to always end up on the floor.",
+                "keywords": "Fusion Saint Charles Collection Robe Hooks, FUS-RH-E5, St. Charles Trim Robe Hooks, St. Charles Robe Hooks, Fusion RH-E5, traditional bathroom robe hooks, hand towel hooks, bathroom towel hooks, bath towel hooks, Kitchen towel rings, bathroom stall purse hooks, towel rings, towel bars, coat hooks, St. Charles Collection Robe Hook"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "11"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "384111",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "41195",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "384446",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "29823",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "148845",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "384850",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "187070",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "209101",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MDB - Medium Bronze",
+                "Select Finish: ORB - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MDB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

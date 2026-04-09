@@ -1,0 +1,110 @@
+{
+    "legacy_product_id": "162593",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:09:55.805855"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Replacement Rubber Door Stop Ring, Deltana UFB4505RUB",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-UFB4505RUB",
+            "mpn": "DEL-UFB4505RUB",
+            "price": "4.65",
+            "compare_at_price": "5.81",
+            "contractor_price": "4.42",
+            "shipping_weight": "0.1",
+            "tags": [
+                "DEL-UFB4505RUB Round Rubber Replacement Rings",
+                "Deltana UFB4505RUB replacement door stop rubbers",
+                "round rubbers",
+                "replacement rings",
+                "doorstops  replacement rubber",
+                "Deltana UFB4505",
+                "Deltana UFB5000",
+                "Deltana UFBD4505",
+                "Deltana UFBD5000",
+                "Deltana UFBP4505",
+                "Deltana UFBP5000"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/deltana-UFB4505RUB_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/deltana-UFB4505RUB_525.jpg?v=1716421542"
+        },
+        "text": {
+            "description_html": "<b>Deltana UFB4505RUB  Replacement Rubber Door Stop Ring</b>\r\n<p>\r\nThis is a rubber replacement ring for the Deltana Universal floor door stops. It is available in Gray or Black rubber.\r\n</p>\r\n<p>\r\n For use with <a href=\"/products/solid-brass-1-1-2-inch-universal-door-stop-deltana-ufb4505\"><b>Deltana UFB4505</b></a>, <a href=\"/products/solid-brass-2-inch-universal-door-stop-deltana-ufb5000\"><b>Deltana UFB5000</b></a>, <a href=\"/products/solid-brass-1-5-8-inch-decorative-universal-door-stop-deltana-ufbd4505\"><b>Deltana UFBD4505</b></a>, <a href=\"/products/solid-brass-2-1-8-inch-decorative-universal-door-stop-deltana-ufbd5000\"><b>Deltana UFBD5000</b></a>, <a href=\"/products/solid-brass-1-5-8-inch-fancy-universal-door-stop-deltana-ufbp4505\"><b>Deltana UFBP4505</b></a> and <a href=\"/products/solid-brass-2-1-8-inch-fancy-universal-door-stop-deltana-ufbp5000\"><b>Deltana UFBP5000</b></a> floor door stops.\r\n</p>\r\n<p>\r\n<b>Specifications:</b> for Deltana UFB4505RUB  Replacement Rubber Door Stop Ring\r\n<ul>\r\n<li>Outer Diameter: 1-3/8\"</li>\r\n<li>Inner Diameter: 1\"</li>\r\n<li>Material: Optional Gray or Black Rubber</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<b>*Sold individually - NO RETURNS</b>\r\n<p>",
+            "seo": {
+                "title": "Replacement Rubber Door Stop Ring, Deltana UFB4505RUB",
+                "description": "Deltana UFB4505RUB - Replacement Rubber Door Stop Ring for Deltana UFB4505, UFB5000, UFBD4505 and UFBD5000  floor door stops. It is available in Gray or Black rubber.",
+                "keywords": "DEL-UFB4505RUB Round Rubber Replacement Rings, Deltana UFB4505RUB replacement door stop rubbers, round rubbers, replacement rings, doorstops  replacement rubber, Deltana UFB4505, Deltana UFB5000, Deltana UFBD4505,  Deltana UFBD5000, Deltana UFBP4505,  Deltana UFBP5000"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Deltana Door Stops and Door Bumpers",
+                    "sort": "100"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "256159",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "407752",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "199463",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "292755",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "6763",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "163823",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Rubber Color: UFB4505RUB: Gray Rubber",
+                "Select Rubber Color: UFB4505RUB-BK: Black Rubber"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Rubber Color",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "UFB4505RUB: Gray Rubber",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "UFB4505RUB-BK: Black Rubber",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

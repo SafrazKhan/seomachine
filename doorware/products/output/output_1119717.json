@@ -1,0 +1,82 @@
+{
+    "legacy_product_id": "1119717",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Mortise Door Bolt Latch, Baldwin 0418.LTP",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-0418.LTP",
+            "mpn": "BAL-0418.LTP",
+            "price": "45.0",
+            "compare_at_price": "45.0",
+            "contractor_price": "45.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Mortise Door Bolt Latches",
+                "Baldwin 0418.LTP",
+                "BAL-0418.LTP"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-0418.190.LTP-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-0418.190.LTP-525.jpg?v=1716428309"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 0418.LTP Contemporary Mortise Door Bolt Latch</b>\r\n\r\n<p>\r\nThis is a Contemporary Mortise Door Bolt Latch. The backset is 2-3/8\". Package does not include turn piece. \r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Mortise Door Bolt Latch",
+                "description": "his is a Contemporary Mortise Door Bolt Latch. The backset is 2-3/8 inch. Package does not include turn piece.",
+                "keywords": "Mortise Door Bolt Latches, Baldwin 0418.LTP, BAL-0418.LTP"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "48"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "353918",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "164813",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "227181",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 190: Matte Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "190: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

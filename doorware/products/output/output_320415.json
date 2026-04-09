@@ -1,0 +1,144 @@
+{
+    "legacy_product_id": "320415",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Contemporary Glass Shower Hook, First Impressions FII-3421",
+            "vendor": "First Impressions",
+            "status": "ACTIVE",
+            "sku": "FII-3421",
+            "mpn": "FII-3421",
+            "price": "213.0",
+            "compare_at_price": "266.4",
+            "contractor_price": "202.46",
+            "shipping_weight": "0.0",
+            "tags": [
+                "FII-3421-US26 Contemporary Chrome Shower Door Hooks",
+                "First Impressions glass hooks",
+                "First Impressions 3421 shower hooks",
+                "glass wall hooks",
+                "glass robe hooks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-3421-shower-hook_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-3421-shower-hook_525.jpg?v=1716423087"
+        },
+        "text": {
+            "description_html": "<b>First Impressions 3421 Contemporary Glass Shower Hook</b>\r\n<p>\r\n<p>\r\nThis contemporary designed shower door hook is constructed of durable brass and finished in bright Polished Chrome or soft or Satin Nickel. Sleek 90 degree angle adds to the shower door hook's clean fresh look. \r\n</p>\r\n<p>\r\nCan be mounted to a glass shower door or to a glass wall panel - easy to install.  Comes complete with all the glass mounting hardware and decorative screw cover. \r\n</p>\r\n<p>\r\n<b>Specifications</b> of First Impressions 3421-US26 Contemporary Glass Mount Hook\r\n<ul>\r\n<li>Hook Diameter: 1\"</li>\r\n<li>Material: Brass</li>\r\n<li>Finish: <b>Polished Chrome</b> or <b>Satin Nickel</b></li>\r\n</ul>\r\n</p>\r\n<p>Packaged with all the hardware for mounting on 1/4\" to 1/2\" thick glass. \r\n</p>\r\n<p>\r\n<b>*Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "Contemporary Glass Shower Hook, First Impressions FII-3421",
+                "description": "First Impressions 3421 This contemporary designed shower door hook is constructed of durable brass and finished in bright Polished Chrome or Satin Nickel. Sleek 90 degree angle adds to the shower door hook's clean fresh look.  Can be mounted to a glass shower door or to a glass wall panel - easy to install.  Comes complete with all the glass mounting hardware and decorative screw cover. ",
+                "keywords": "FII-3421-US26 Contemporary Chrome Shower Door Hooks, First Impressions glass hooks,  First Impressions 3421 shower hooks, glass wall hooks, glass robe hooks,"
+            },
+            "specifications": [
+                {
+                    "key": "Hook Diameter",
+                    "value": "1\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Polished Chrome or Satin Nickel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Bathroom Hardware",
+                    "sort": "20"
+                },
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "209"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "936148",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "295609",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "295573",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "257569",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "259652",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "187079",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "304229",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "212287",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "294822",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "7813",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "212278",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Hook Diameter: 1\"",
+                "Material: Brass",
+                "Finish: Polished Chrome or Satin Nickel",
+                "Select Finish: FII-3421-US26 - Polished Chrome",
+                "Select Finish: FII-3421-US15 - Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-3421-US26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-3421-US15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

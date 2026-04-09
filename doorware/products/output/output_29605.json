@@ -1,0 +1,162 @@
+{
+    "legacy_product_id": "29605",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Swirl Forged Iron Lever Set With Clover Rose, Acorn IUJBI",
+            "vendor": "Acorn",
+            "status": "ARCHIVED",
+            "sku": "ACO-IUJBI",
+            "mpn": "ACO-IUJBI",
+            "price": "220.0",
+            "compare_at_price": "275.0",
+            "contractor_price": "209.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "ACO-IUJBI",
+                "Acorn IUJBI",
+                "Acorn IUKBI",
+                "handmade door levers",
+                "Forged Iron Passage sets",
+                "forged iron Privacy Sets",
+                "Iron Art door levers",
+                "hand forged door hardware",
+                "black iron door levers",
+                "tendril door Levers",
+                "swirl door levers",
+                "black iron levers",
+                "passage door levers",
+                "privacy door levers",
+                "colonial levers",
+                "old world levers",
+                "country home hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Acorn IUJBI / IUKBI, Black Iron Swirl Lever With Clover Rose</b>\r\n\r\n<p>\r\nHand forged, this Acorn made black iron door lever's unique swirled shaped paired with the clover rose makes it not only beautiful but authentic looking as well. It will fit all standard pre-drilled doors 1-3/8\" to 1-3/4\" thick with backsets of 2-3/8\" or 2-3/4\". \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Iron Art Door Lever Set:\r\n<ul>\r\n<li>Finish: <b>Black Iron</b></li>\r\n<li>Lever Length: 4-1/2\"</li>\r\n<li>Projection: 2\"</li>\r\n<li>Rose Diameter: 3-1/2\"</li>\r\n<li>Door Thickness: 1-3/8\" or 1-3/4\"</li>\r\n<li>Backset: 2-3/8\" or 2-3/4\"</li>\r\n<li>Sets are suitable for predrilled doors.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>When Selecting a Function:</b>\r\n<ul>\r\n<li><b>Passage Set (hall or closet):</b> For doors that don't need locking. Latch operates from either side of door. Complete set - 2 levers, 2 roses, door latch, strike plate, dust box, faceplate, spindle, and mounting screws.</li>\r\n<li><b>Privacy Set (bedroom or bathroom):</b> For doors that could need locking. Latch operates from either side. Push button on interior lever engages privacy; emergency release hole is on exterior lever. Complete set - 2 levers, 2 roses, privacy button, door latch, strike plate, dust box, faceplate, spindle, and mounting screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Lifetime No-Rust Warranty!</b>\r\n</p>",
+            "seo": {
+                "title": "Swirl Forged Iron Lever Set With Clover Rose, Acorn IUJBI",
+                "description": "Acorn IUJBI / IUKBI Black Iron Swirl Door Lever - Hand forged, this Acorn made black iron door lever's unique swirled shaped paired with the clover rose makes it not only beautiful but authentic looking as well. It will fit all standard pre-drilled doors 1-3/8 inches to 1-3/4 inches thick with backsets of 2-3/8 inches or 2-3/4 inches. ",
+                "keywords": "ACO-IUJBI, Acorn IUJBI, Acorn IUKBI, handmade door levers, Forged Iron Passage sets, forged iron Privacy Sets, Iron Art door levers, hand forged door hardware, black iron door levers, tendril door Levers, swirl door levers, black iron levers, passage door levers, privacy door levers, colonial levers, old world levers, country home hardware,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Acorn Discontinued",
+                    "sort": "48"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "177854",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "29552",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "176130",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "30225",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "30112",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Function: IUJBI - Passage Set (hall or closet)",
+                "Select Function: IUKBI - Privacy Set (bedroom or bathroom)",
+                "Select Backset: 2-3/8in. Backset",
+                "Select Backset: 2-3/4in. Backset",
+                "Select Door Thickness: 1-3/8in. Door Thickness",
+                "Select Door Thickness: 1-3/4in. Door Thickness"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "IUJBI - Passage Set (hall or closet)",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "ACO-IUJBI"
+                },
+                {
+                    "value": "IUKBI - Privacy Set (bedroom or bathroom)",
+                    "price_impact": 4.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "ACO-IUKBI"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2"
+                },
+                {
+                    "value": "2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "2"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1-3/8in. Door Thickness",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-3/4in. Door Thickness",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

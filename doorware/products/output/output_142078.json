@@ -1,0 +1,132 @@
+{
+    "legacy_product_id": "142078",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Quaker Style Solid Brass Pull And Plate, Brass Accents A07-P5401",
+            "vendor": "BrassAccents",
+            "status": "ACTIVE",
+            "sku": "BRA-A07-P5401",
+            "mpn": "BRA-A07-P5401",
+            "price": "124.99",
+            "compare_at_price": "156.0",
+            "contractor_price": "124.99",
+            "shipping_weight": "4.0",
+            "tags": [
+                "BRA-A07-P5401 Decorative 2-3/4 x 10 Door pull",
+                "Decorative  pulls",
+                "Brass Accents quaker Pulls",
+                "A07-P5401 Solid Brass quaker pull Plate 2-3/4 x 10",
+                "Brass Accents Renaissance Collection door hardware sets",
+                "decorative door pull plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/A07-P5401-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/A07-P5401-525.jpg?v=1716421355"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents A07-P5401 Decorative Quaker Door Pull 2-3/4\" Wide x 10\" High</b>\r\n\r\n<p>\r\nSimple in design, this door pull is made from cast brass. Comes complete with matching finish mounting screws for easy installation.\r\n</p>\r\n\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance, hand finished in the USA. They are one of the worlds leading crafters of decorative hot-forged  and cast brass door hardware.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: <b><a href=\"/products/quaker-style-solid-brass-push-plate-brass-accents-a07-p5400\">Quaker Style Push Plate</a></b>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Brass Accents A07-P5401 Decorative Quaker Pull Plate\r\n<ul>\r\n<li>Plate Width: 2-3/4\"</li>\r\n<li>Plate Height: 10\"</li>\r\n<li>Pull Length: 6\"</li>\r\n<li>Pull Projection: 2.25\"</li>\r\n<li>Material: Cast Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nComes complete with matching finish mounting screws for easy installation.\r\n</p>",
+            "seo": {
+                "title": "Quaker Style Solid Brass Pull And Plate, Brass Accents A07-P5401",
+                "description": "A07-P5401 Brass Accents--2-3/4 inch x 10 inch brass accents quaker door pull. Simple in design, this door pull is made from cast brass. It has a 10 year warranty. Available in 12 finishes.",
+                "keywords": "BRA-A07-P5401 Decorative 2-3/4 x 10 Door pull, Decorative  pulls, Brass Accents quaker Pulls, A07-P5401 Solid Brass quaker pull Plate 2-3/4 x 10, Brass Accents Renaissance Collection door hardware sets, decorative door pull plates,"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Width",
+                    "value": "2-3/4\""
+                },
+                {
+                    "key": "Plate Height",
+                    "value": "10\""
+                },
+                {
+                    "key": "Pull Length",
+                    "value": "6\""
+                },
+                {
+                    "key": "Pull Projection",
+                    "value": "2.25\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Cast Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Pull & Push Plates",
+                    "sort": "32"
+                },
+                {
+                    "name": "Decorative Door Pull and Push Plates",
+                    "sort": "13"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "142152",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "142057",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "141940",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "162598",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "6776",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "163122",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "163155",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Plate Width: 2-3/4\"",
+                "Plate Height: 10\"",
+                "Pull Length: 6\"",
+                "Pull Projection: 2.25\"",
+                "Material: Cast Brass",
+                "Select Finish: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Polished"
+                }
+            ]
+        }
+    ]
+}

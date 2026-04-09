@@ -1,0 +1,133 @@
+{
+    "legacy_product_id": "562759",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Modern Square Cabinet Knob, RK International CK-9316",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-9316",
+            "mpn": "RKI-CK-9316",
+            "price": "14.99",
+            "compare_at_price": "18.59",
+            "contractor_price": "14.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Plain Cabinet Knob with Four Curves",
+                "Modern Square Knobs",
+                "Square Cabinet Knobs",
+                "RK International CK-9316",
+                "RKI-CK-9316",
+                "contemporary cabinet hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-9316-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-9316-525.jpg?v=1716424529"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-9316, Square Cabinet Knob</b>\r\n\r\n<p>\r\nThe Modern Square Cabinet Knob features the clean lines so popular in contemporary design. The blunt corners and the gentle curve of both the edges and the convex center of this cabinet pull soften the appearance to keep it from looking too cold and sterile. This plain knob with four curves is available in 5 finishes. It measures 1-1/8 inches through the middle.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-9316 Plain Cabinet Knob with Four Curves:\r\n<ul>\r\n<li>Length (through the middle): 1-1/8\"</li>\r\n<li>Projection 1\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MUL-T-LOCK-G55G1_size.gif?v=1704354738\" width=\"600\" height=\"146\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Modern Square Cabinet Knob",
+                "description": "RK International CK-9316, Modern Square Cabinet Knob - The Modern Square Cabinet Knob features the clean lines so popular in contemporary design. The blunt corners and the gentle curve of both the edges and the convex center of this cabinet pull soften the appearance to keep it from looking too cold and sterile. This plain knob with four curves is available in 5 finishes. It measures 1-1/8 inches through the middle.",
+                "keywords": "Plain Cabinet Knob with Four Curves, Modern Square Knobs, Square Cabinet Knobs, RK International CK-9316, RKI-CK-9316, contemporary cabinet hardware,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "3"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "261995",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "379344",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "42954",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "13850",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "447256",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "343505",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

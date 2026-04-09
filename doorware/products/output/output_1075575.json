@@ -1,0 +1,130 @@
+{
+    "legacy_product_id": "1075575",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "8 x 18 Glass Door Pull Handle Set, SD-SQPP8X18",
+            "vendor": "SGS",
+            "status": "ARCHIVED",
+            "sku": "DWD-SD-SQPP8X18",
+            "mpn": "DWD-SD-SQPP8X18",
+            "price": "110.0",
+            "compare_at_price": "110.0",
+            "contractor_price": "110.0",
+            "shipping_weight": "4.0",
+            "tags": [
+                "8 x 18 Glass Door Pull Handle Set",
+                "SD-SQPP8X18"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/special_order-52543.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/special_order-52543.jpg?v=1716428089"
+        },
+        "text": {
+            "description_html": "<b>8\" Pull x 18\" Towel Bar Set for Glass Doors</b>\r\n\r\n<p>\r\nSet of 8 inch square pull combined with a 18 inch horizontal bar for glass door mounting. The 18\" horizontal bar can be used as a towel bar or just a pull handle. Easy to grip 3/4\" square handles. Available in Oil Rubbed Bronze, Brushed Nickel or Polished Chrome finish. \r\n</p>\r\n<p>\r\nNon-Handed, reversible for left or right hand doors. Either length pull can be place on either side of your glass door. Includes all the hardware to mount one pull on each side of a Glass Door.\r\n</p> \r\n\r\n\r\n\r\n\r\n\r\n\r\n<p>\r\n<b>Specifications</b> of the 8 x 18 Glass Door Pull Handle Set:\r\n<ul>\r\n<li>Total Pull Length: 8-3/4\"</li>\r\n<li>Center to Center: 8\"</li>\r\n<li>Horizontal  Pull Length: 18-3/4\"</li>\r\n<li>Center to Center: 18\"</li>\r\n<li>Both Handle Diameter: 3/4\" square</li>\r\n<li>Both Handle Projection: 2-13/32\"</li>\r\n<li>Both Handle Clearance: 1-5/8\"</li>\r\n<li>Door Thickness: 1/4\" to 1/2\" Thick Glass</li>\r\n<li>Hole in Glass Diameter: 1/2\" (12 mm) Minimum</li>\r\n\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold as a set (8\" CTC x 18\" CTC) handles for Glass Door</i>\r\n</p>",
+            "seo": {
+                "title": "8 x 18 Glass Door Pull Handle Set, SD-SQPP8X18",
+                "description": "Set of 8 inch square pull combined with a 18 inch horizontal bar for glass door mounting. The 18\" horizontal bar can be used as a towel bar or just a pull handle. Easy to grip 3/4\" square handles. Available in Brushed Nickel, Oil Rubbed Bronze,  or Polished Chrome finish.",
+                "keywords": "8 x 18 Glass Door Pull Handle Set, SD-SQPP8X18"
+            },
+            "specifications": [
+                {
+                    "key": "Total Pull Length",
+                    "value": "8-3/4\""
+                },
+                {
+                    "key": "Center to Center",
+                    "value": "8\""
+                },
+                {
+                    "key": "Horizontal  Pull Length",
+                    "value": "18-3/4\""
+                },
+                {
+                    "key": "Center to Center",
+                    "value": "18\""
+                },
+                {
+                    "key": "Both Handle Diameter",
+                    "value": "3/4\" square"
+                },
+                {
+                    "key": "Both Handle Projection",
+                    "value": "2-13/32\""
+                },
+                {
+                    "key": "Both Handle Clearance",
+                    "value": "1-5/8\""
+                },
+                {
+                    "key": "Door Thickness",
+                    "value": "1/4\" to 1/2\" Thick Glass"
+                },
+                {
+                    "key": "Hole in Glass Diameter",
+                    "value": "1/2\" (12 mm) Minimum"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Structure Glass Solutions Misc Discontinued Items",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Total Pull Length: 8-3/4\"",
+                "Center to Center: 8\"",
+                "Horizontal  Pull Length: 18-3/4\"",
+                "Center to Center: 18\"",
+                "Both Handle Diameter: 3/4\" square",
+                "Both Handle Projection: 2-13/32\"",
+                "Both Handle Clearance: 1-5/8\"",
+                "Door Thickness: 1/4\" to 1/2\" Thick Glass",
+                "Hole in Glass Diameter: 1/2\" (12 mm) Minimum",
+                "Select Finish: 625:  Polished Chrome",
+                "Select Finish: 619:  Satin Nickel",
+                "Select Finish: 613:  Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "625:  Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "619:  Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "613:  Oil Rubbed Bronze",
+                    "price_impact": 15.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

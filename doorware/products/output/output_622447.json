@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "622447",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Schlage F60 Handleset Thick Door Extension Kit",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-61075",
+            "mpn": "SCH-61075",
+            "price": "25.0",
+            "compare_at_price": "25.0",
+            "contractor_price": "25.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "SCH-61075 Schlage F60 Handleset Thick Door Extension Kit"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Schlage F60 Handleset Thick Door Extension Kit</b>\r\n<p>\r\nThis extension kit allows F60 Single Cylinder Handlesets to be used on 1-7/8\" - 2-1/2\" thick doors and gates. \r\n</p>\r\n<p>\r\nFor use with <a href=\"/collections/schlage-handleset\"><b>Schlage F60 Single Cylinder Handlesets</b></a> only. \r\n</p>\r\n<p>\r\nKit includes extra long tail piece and screws.\r\n</p>\r\n<p>\r\n<b>*Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "Schlage F60 Handleset Thick Door Extension Kit",
+                "description": "",
+                "keywords": "SCH-61075 Schlage F60 Handleset Thick Door Extension Kit"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "100"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: 605: Bright Brass",
+                "Select Finish: 609: Antique Brass",
+                "Select Finish: 716/613: Aged Bronze/Oil Rubbed Bronze",
+                "Select Finish: 619: Satin Nickel",
+                "Select Finish: 626: Satin Chrome",
+                "Select Finish: 622: Matte Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "605: Bright Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "609: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "716/613: Aged Bronze/Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "619: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "622: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "legacy_product_id": "1072698",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Brass Wood Screw 14 x 1-1/4,  Bag of 100, Deltana SCWB14125",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-SCWB14125",
+            "mpn": "DEL-SCWB14125",
+            "price": "34.99",
+            "compare_at_price": "43.75",
+            "contractor_price": "33.24",
+            "shipping_weight": "0.1",
+            "tags": [
+                "Deltana SCWB14125 Solid Brass Wood Screws",
+                "14 x  1-1/2 brass wood screws",
+                "number 14 screw for hinges",
+                "14 x 1-1/2 Brass Wood Screw",
+                "brass hinge screws",
+                "DEL-SCWB14125"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-SCWB14125-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SCWB14125-525.jpg?v=1716428054"
+        },
+        "text": {
+            "description_html": "<b>Deltana SCWB14125 - #14 x 1-1/4\" Solid Brass Wood Screw, Bag of 100</b>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SCWB14125-specification.gif?v=1704354709\" width=\"600\" height=\"197\" border=\"0\" alt=\"deltana SCWB14125 #14 brass wood screw\">\r\n</p>\r\n\r\n<p>\r\n<ul>\r\n<li>Screw Size: #14</li>\r\n<li>Length: 1-1/4\"</li>\r\n<li>Type: Wood Screw</li>\r\n<li>Head: Flat, Phillips Drive</li>\r\n<li>Material: Solid Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Solid Brass Wood Screw 14 x 1-1/4, Bag of 100",
+                "description": "Deltana SCWB14125 - Solid Brass Wood Screw #14 x 1-1/2 inches long, available in many different finishes.",
+                "keywords": "Deltana SCWB14125 Solid Brass Wood Screws, 14 x  1-1/2 brass wood screws, number 14 screw for hinges, 14 x 1-1/2 Brass Wood Screw, brass hinge screws, DEL-SCWB14125"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Machine and Wood Screws",
+                    "sort": "14"
+                },
+                {
+                    "name": "Installation Hardware",
+                    "sort": "9"
+                },
+                {
+                    "name": "Tools and Fasteners",
+                    "sort": "34"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "395131",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "154882",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "576446",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "154907",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "499437",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: U3: Polished Brass",
+                "Select Finish: U3-UNL: Unlacquered Brass",
+                "Select Finish: U5: Antique Brass",
+                "Select Finish: U10B: Oil Rubbed Bronze",
+                "Select Finish: U14: Polished Nickel",
+                "Select Finish: U15: Satin Nickel",
+                "Select Finish: U15A: Antique Nickel",
+                "Select Finish: U19: Matte Black",
+                "Select Finish: U26: Polished Chrome",
+                "Select Finish: U26D: Brushed Chrome",
+                "Select Finish: CR003: PVD Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U3-UNL: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U5: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U15A: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U26D: Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CR003: PVD Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

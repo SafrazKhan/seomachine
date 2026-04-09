@@ -1,0 +1,159 @@
+{
+    "legacy_product_id": "989747",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Pocket Door Edge Pull, Omnia 7653",
+            "vendor": "Omnia",
+            "status": "ACTIVE",
+            "sku": "OMN-7653",
+            "mpn": "OMN-7653",
+            "price": "39.2",
+            "compare_at_price": "49.0",
+            "contractor_price": "37.24",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Sliding Pocket Door Edge Pulls",
+                "Pocket Door Edge Pulls",
+                "Omnia 7653",
+                "OMN-7653",
+                "pocket door pulls",
+                "pocketdoor pulls",
+                "pull for edge of doors",
+                "sliding door pulls",
+                "Pocket Door Hardware",
+                "flip pulls",
+                "flip out pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-7653-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-7653-525.jpg?v=1716427463"
+        },
+        "text": {
+            "description_html": "<b>Omnia 7653, Sliding Pocket Door Edge Pull</b>\r\n\r\n<p>\r\nThis door pull installs in the edge of the door, to pull a sliding door out of its pocket. The Pocket Door Edge Pull measures 3-7/8 inches high by 13/16 inches wide. The Sliding Pocket Door Edge Pul includes matching finish installation screws and is available in several great finish options. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Omnia 7653 Door Edge Pull:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Height: 3-7/8\"</li>\r\n<li>Width: 13/16\"</li>\r\n<li>Pull Projection: 1-7/16\"</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-7653-Install-Temp.pdf?v=1704262394\" target=\"new\"><b>Omnia 7653 Installation Template  Diagram (PDF)</b></a></li>\r\n\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Pocket Door Edge Pull",
+                "description": "This door pull installs in the edge of the door, to pull a sliding door out of its pocket. The Pocket Door Edge Pull measures 3-7/8 inches high by 13/16 inches wide. The Sliding Pocket Door Edge Pul includes matching finish installation screws and is available in several great finish options.",
+                "keywords": "Sliding Pocket Door Edge Pulls, Pocket Door Edge Pulls, Omnia 7653, OMN-7653, pocket door pulls, pocketdoor pulls, pull for edge of doors, sliding door pulls,  Pocket Door Hardware, flip pulls, flip out pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Height",
+                    "value": "3-7/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "13/16\""
+                },
+                {
+                    "key": "Pull Projection",
+                    "value": "1-7/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Doors",
+            "google_category": "Hardware > Building Materials > Doors",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-3",
+            "collections": [
+                {
+                    "name": "Omnia Sliding Door Hardware",
+                    "sort": "46"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "687040",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "239828",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "950456",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "488564",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "7525",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Height: 3-7/8\"",
+                "Width: 13/16\"",
+                "Pull Projection: 1-7/16\"",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: SB: Shaded Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SB: Shaded Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

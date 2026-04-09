@@ -1,0 +1,121 @@
+{
+    "legacy_product_id": "1027984",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Schlage B562P Double Cylinder Deadbolt",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-B562",
+            "mpn": "SCH-B562",
+            "price": "104.0",
+            "compare_at_price": "130.0",
+            "contractor_price": "104.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Schlage B562P Double Cylinder Deadbolts",
+                "SCH-B562",
+                "Schlage B562P Double Cylinder Deadbolt with Schlage C Keyway"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SCH- B562-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SCH-_20B562-525.jpg?v=1711366479"
+        },
+        "text": {
+            "description_html": "<b>Schlage B562P Double Cylinder Deadbolt with Schlage C Keyway</b>\r\n\r\n<p>\r\nThis double cylinder deadbolt made by Schlage will fit standard 2-1⁄8 inches (54 mm) preparations. It has an adjustable latch to fit 2-3/8 inch or 2-3/4 inch backsets; and it will fit door thicknesses of 2-1/4 inches. The Schlage B562P Double Cylinder Deadbolt is an ANSI Grade 2 deadbolt. Operated by a key on either side of the door, it is most commonly used on doors located near windows.\r\n</p>\r\n\r\n<p>\r\n<b>Double Cylinder Deadbolt:</b> Deadbolt thrown or retracted on both the inside and the outside by a key. Bolt automatically deadlocks when fully thrown.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of Schlage B562P Deadbolt:\r\n<ul>\r\n<li>ANSI A156.5, 2001, Grade 2 auxiliary lock.</li>\r\n<li>Comes packaged with two keys.</li>\r\n<li>1\" deadbolt with hardened steel core.</li>\r\n<Li>Has an anti-pick shield around the cylinder</li>\r\n<li>Zinc bolt with spinning hardened steel pin inside.</li>\r\n<li>Door thickness: 2-1/4\"</li>\r\n<li>Universal deadbolt fits both 2-3/8\" and 2-3/4\" backsets.</li>\r\n<li>Cylinder: Schlage \"C\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually. Special Factory Order. <b>NO RETURNS</b></i>\r\n</p>",
+            "seo": {
+                "title": "Schlage B562P Double Cylinder Deadbolt",
+                "description": "This double cylinder deadbolt made by Schlage will fit standard 2-1⁄8 inches (54 mm) preparations. It has an adjustable latch to fit 2-3/8 inch or 2-3/4 inch backsets; and it will fit door thicknesses of 2-1/4 inches. The Schlage B562P Double Cylinder Deadbolt is an ANSI Grade 2 deadbolt. Operated by a key on either side of the door, it is most commonly used on doors located near windows.",
+                "keywords": "Schlage B562P Double Cylinder Deadbolts, SCH-B562, Schlage B562P Double Cylinder Deadbolt with Schlage C Keyway"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Schlage Misc-Discontinued-Items",
+                    "sort": "49"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "637715",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1016454",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "175328",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "231531",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "172967",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 622: Matte Black",
+                "Keying: I only ordered one",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "622: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I only ordered one",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

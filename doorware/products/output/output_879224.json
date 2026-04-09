@@ -1,0 +1,137 @@
+{
+    "legacy_product_id": "879224",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Prodigy Collection Latch for Knobsets",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-PA.K234",
+            "mpn": "OMN-PA.K234",
+            "price": "14.0",
+            "compare_at_price": "14.0",
+            "contractor_price": "14.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "OMN-PA.K234.26",
+                "OMN-PR.K234.26",
+                "omnia PA.K234.26",
+                "omnia PR.K234.26",
+                "Omnia Door Knob Latches",
+                "door latch for Omnia Knobsets",
+                "omnia passage latch",
+                "omnia privacy latches",
+                "Omnia passage spring latches",
+                "Omnia privacy door latches",
+                "omnia latches",
+                "omnia parts",
+                "omnia hardware parts",
+                "Omnia Prodigy Collection Door Knob Latches",
+                "Prodigy Collection Latch for Knobsets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52547.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52547.gif?v=1716426260"
+        },
+        "text": {
+            "description_html": "<b>Omnia Prodigy Collection Door Knob Latch</b>\r\n\r\n<p>\r\nFor <a href=\"/collections/omnia-prodigy-collection\"><b>Omnia Prodigy Collection Knobsets</b></a>\r\n</p>\r\n\r\n<p>\r\nAvailable for Passage (Hall/Closet) or Privacy (Bath/Bedroom) functions.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i> <b>No Returns.</b>\r\n</p>",
+            "seo": {
+                "title": "Prodigy Collection Latch for Knobsets",
+                "description": "",
+                "keywords": "OMN-PA.K234.26, OMN-PR.K234.26,  omnia PA.K234.26, omnia PR.K234.26, Omnia Door Knob Latches, door latch for Omnia Knobsets,  omnia passage latch, omnia privacy latches, Omnia passage spring latches, Omnia privacy door latches, omnia latches, omnia parts, omnia hardware parts,  Omnia Prodigy Collection Door Knob Latches, Prodigy Collection Latch for Knobsets"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "59"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "275077",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "227181",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "283615",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "198616",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Function and Backset: OMN-PA.K234: Passage Function, 2-3/4in. Backset",
+                "Select Function and Backset: OMN-PA.K238:  Passage Function, 2-3/8in. Backset",
+                "Select Function and Backset: OMN-PR.K234: Privacy Function, 2-3/4in. Backset",
+                "Select Function and Backset: OMN-PR.K238: Privacy Function, 2-3/8in. Backset",
+                "Select Finish: US26 - Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function and Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "OMN-PA.K234: Passage Function, 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "OMN-PA.K238:  Passage Function, 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "OMN-PR.K234: Privacy Function, 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "OMN-PR.K238: Privacy Function, 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

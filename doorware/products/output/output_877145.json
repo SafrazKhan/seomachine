@@ -1,0 +1,116 @@
+{
+    "legacy_product_id": "877145",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Storm Door Latch Set Replacement Lever, Deltana SDLLEVER",
+            "vendor": "Deltana",
+            "status": "ARCHIVED",
+            "sku": "DEL-SDLLEVER",
+            "mpn": "DEL-SDLLEVER",
+            "price": "20.36",
+            "compare_at_price": "20.36",
+            "contractor_price": "20.36",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Storm Door Latch Set Replacement Levers",
+                "Accessory Lever for SDLS480",
+                "Deltana SDLLEVER",
+                "DEL-SDLLEVER",
+                "Replacement Lever for Storm Door Latch Sets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-SDLEVER-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SDLEVER-525.jpg?v=1716426239"
+        },
+        "text": {
+            "description_html": "<b>Deltana SDLLEVER, Replacement Lever for Storm Door Latch Set</b>\r\n\r\n<p>\r\nThis is a replacement lever for the <a href=\"/products/storm-door-latch-set-solid-brass-deltana-sdls480\">DEL-SDLS480 Screen and Storm Door Latch Set</a>. \r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SDLLEVER-specifications.gif?v=1704442284\" width=\"571\" height=\"193\" border=\"0\" alt=\"Deltana SDLLEVER Specifications\">\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the SDLLEVER Screen Door Replacement Lever for Deltana SDLS480:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Lever Length: 2-5/8\"</li>\r\n<li>Projection: 1-5/8\"</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-SDLLEVER-specifications.pdf?v=1704262348\"><b>Deltana SDLLEVER Dimensions (PDF)</b></a>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Check Your Hardware:</b> This work for the <a href=\"/products/storm-door-latch-set-solid-brass-deltana-sdls480\">DEL-SDLS480 Screen and Storm Door Latch Set</a> manufactured by Deltana. If you are not sure if your storm door latch set was manufactured by Deltana, do NOT order this as they may not work properly.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i> <b>No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "Storm Door Latch Set Replacement Lever",
+                "description": "This is a replacement lever for the Deltana SDLS480 Screen and Storm Door Latch Set.",
+                "keywords": "Storm Door Latch Set Replacement Levers, Accessory Lever for SDLS480, Deltana SDLLEVER, DEL-SDLLEVER, Replacement Lever for Storm Door Latch Sets,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Discontinued and Special Items",
+                    "sort": "55"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "276158",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "170839",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "158838",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "147502",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "6995",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DEL-SDLLEVERU3 - Polished Brass",
+                "Select Finish: DEL-SDLLEVERU15 - Brushed Nickel",
+                "Select Finish: DEL-SDLLEVERU10B - Oil Rubbed Bronze",
+                "Select Finish: DEL-SDLLEVERU19 - Matte Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DEL-SDLLEVERU3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DEL-SDLLEVERU15 - Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DEL-SDLLEVERU10B - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DEL-SDLLEVERU19 - Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

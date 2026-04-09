@@ -1,0 +1,103 @@
+{
+    "legacy_product_id": "260621",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Springlatch for Global GAL Series Non-Keyed Commercial Levers",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-GTA-springlatch",
+            "mpn": "GLO-GTA-springlatch",
+            "price": "12.88",
+            "compare_at_price": "16.1",
+            "contractor_price": "11.59",
+            "shipping_weight": "0.1",
+            "tags": [
+                "GLO-GTA-springlatch Global GAL Series Springlatches",
+                "Springlatch for Global GAL Series passage Commercial Levers",
+                "commercial door latches",
+                "global privacy lever latches",
+                "global passage lever latches",
+                "GLO-GTA068-SUL1-626",
+                "GLO-GTA068-SUL2-626",
+                "GLO-GTA116-SUL1-626"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GLO-GTA-springlatch_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GLO-GTA-springlatch_525.jpg?v=1717105852"
+        },
+        "text": {
+            "description_html": "<b>Global GAL Series Springlatch</b>\r\n<p>For <a href=\"/products/standard-commercial-leversets-global-gal-series\">Global GAL Series Commercial Door Levers</a>  and <a href=\"/products/grade-2-commercial-ball-knobset-global-svb-series\">Global SVB Series Commercial Door Knobs</a>\r\n</p>\r\n</p>\r\n<p>\r\nSpringlatch for  Non-Keyed function (Passage and Privacy)   Levers.  Available with 2-3/4\" or 2-3/8\" backsets.\r\n</p>\r\n<p>\r\nUL listed. Includes 1-1/8\" wide x 2-3/8\" high face plate with <b>Satin Chrome</b> finish.\r\n</p>",
+            "seo": {
+                "title": "Springlatch for Global GAL Series Non-Keyed Commercial Levers",
+                "description": "For Global GAL Series Commercial Door Levers.   Springlatch for  Non-Keyed function (Passage and Privacy)   Levers.  Available with 2-3/8 or 2-3/4 backsets. ",
+                "keywords": "GLO-GTA-springlatch Global GAL Series Springlatches, Springlatch for Global GAL Series passage Commercial Levers, commercial door latches, global privacy lever latches, global passage lever latches, GLO-GTA068-SUL1-626, GLO-GTA068-SUL2-626, GLO-GTA116-SUL1-626,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Global Lock Sets",
+                    "sort": "12"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "260609",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "626198",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "783743",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "260732",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "15120",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Backset: GTA116-SUL1-626: 2-3/4in. Backset",
+                "Select Backset: GTA068-SUL2-626: 2-3/8in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GTA116-SUL1-626: 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GTA068-SUL2-626: 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

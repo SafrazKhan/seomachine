@@ -1,0 +1,118 @@
+{
+    "legacy_product_id": "315951",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Large 4 Inch Crystal Door Knob, First Impressions CAB-CRK4x1/4",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-CAB-CRK4x1/4",
+            "mpn": "FII-CAB-CRK4x1/4",
+            "price": "174.0",
+            "compare_at_price": "217.5",
+            "contractor_price": "165.3",
+            "shipping_weight": "1.0",
+            "tags": [
+                "FII-CAB-CRK2x1/4 Large 4 Inch Crystal Cabinet Knobs",
+                "First Impressions 4 Inch Crystal knobs",
+                "extra large crystal knobs",
+                "crystal designer bathroom knobs",
+                "crystal bath room cabinet knobs",
+                "large crystal drawer knobs",
+                "large crystal door knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-CAB-CRK1-4-inch_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-CAB-CRK1-4-inch_525.jpg?v=1716423057"
+        },
+        "text": {
+            "description_html": "<b>First Impressions 4 Inch Crystal Door Knob</b>\r\n\r\n<p>\r\nThe extra large 4\" diameter crystal door knob is the perfect compliment for bold room designs. Made of imported 24% lead crystal with high quality brass mounting base for long life.  \r\n</p>\r\n\r\n<p>\r\nAlso available: Smaller <a href=\"/products/2-3-4-inch-crystal-cabinet-knob-first-impressions-cab-crk4x1-275\"><b>2-3/4\" Crystal Door Knob</b></a> and matching <a href=\"/products/large-4-inch-crystal-shower-door-knob-pair-first-impressions-sd-crk4-4\"><b>4\" Crystal Shower Door Knobs</b></a>\r\n</p> \r\n\r\n<p>\r\nThe extra large crystal knob has lots of facets that produce a gleaming color array. Packaged with 1/4-20 x 2\" screw for easy installation on doors up to 1-3/4\" thick. Available with either a bright polished chrome or a satin nickel finish. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b> for First Impressions 4 Inch Crystal Door Knob\r\n<ul>\r\n<li>Knob Diameter: 4\" (100 mm)</li>\r\n<li>Mounting Base Diameter: 3/4\"</li>\r\n<li>Projection: 2-7/8\"</li>\r\n<li>Glass Hole Diameter: 3/8\" - 1/2\"</li>\r\n<li>Material: 24% Lead Crystal / Solid Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nThis big crystal knob can be used on large drawers, cabinet doors, pantry doors, or anywhere a bold sparkling crystal knob would compliment your room's design. \r\n</p>\r\n\r\n<p>\r\n<b>*Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "Large 4 Inch Crystal Door Knob, First Impressions CAB-CRK4x1/4",
+                "description": "The extra large 4 inch diameter crystal door knob is the perfect compliment for bold room designs. Made of imported 24% lead crystal with high quality brass mounting base for long life.  This big crystal knob can be used on large drawers, cabinet doors, pantry doors, or anywhere a bold sparkling crystal knob would compliment your rooms design. Available in either a bright polished chrome or a satin nickel finish.",
+                "keywords": "FII-CAB-CRK2x1/4 Large 4 Inch Crystal Cabinet Knobs, First Impressions 4 Inch Crystal knobs, extra large crystal knobs, crystal designer bathroom knobs, crystal bath room cabinet knobs, large crystal drawer knobs, large crystal door knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Custom-Misc-Items",
+                    "sort": "103"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "304256",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "208235",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "315954",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "315926",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "315948",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "315906",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "315945",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "179231",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "208264",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: FII-CAB-CRK1/4-US26 - Polished Chrome",
+                "Select Finish: FII-CAB-CRK1/4-US15 - Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-CAB-CRK1/4-US26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-CAB-CRK1/4-US15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

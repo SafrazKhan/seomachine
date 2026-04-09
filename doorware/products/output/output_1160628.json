@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "1160628",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Century Handleset Bottom Only, Schlage FE285CEN",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-FE285CEN",
+            "mpn": "SCH-FE285CEN",
+            "price": "195.3",
+            "compare_at_price": "279.0",
+            "contractor_price": "185.54",
+            "shipping_weight": "10.0",
+            "tags": [
+                "Century Handleset Bottom Only",
+                "Schlage FE285CEN",
+                "Schlage Century Handleset No Deadbolts",
+                "SCH-FE285CEN",
+                "Bottom OnlyCentury Handleset with No Deadbolts"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SCH-FE285CEN-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SCH-FE285CEN-525.jpg?v=1716428633"
+        },
+        "text": {
+            "description_html": "<b>Schlage FE285CEN, Century Handleset Grip Bottom Only</b>\r\n\r\n<p>\r\nThis is a custom handleset. It comes packaged with the Schlage Custom Century Handleset Grip and your choice of interior trim knob or lever. No deadbolt. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Bottom OnlyCentury Handleset with No Deadbolt:\r\n<ul>\r\n<li>Exterior Total Projection: 2-1/4\"</li>\r\n<li>Exterior Center to Center Grip Range: adjustable 8-1/2\" to 9-3/4\"</li>\r\n<li>Exterior Deadbolt Escutcheon Height: 3-1/2\"</li>\r\n<li>Exterior Deadbolt Escutcheon Width: 2-1/2\"</li>\r\n<li>Exterior Top Grip Escutcheon Width: 2-1/2\"</li>\r\n<li>Exterior Grip Height: 11-7/8\"</li>\r\n<li>Door Thickness: will fit 1-5/8\" up to 1-3/4\" packaged with extra screws to accommodate 2\" doors</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Custom item, NOT Returnable</b>\r\n</p>",
+            "seo": {
+                "title": "Century Handleset Bottom Only",
+                "description": "This is a customer handleset. It comes packaged with the Schlage Custom Century Handleset Grip and your choice of interior trim knob or lever. No deadbolt.",
+                "keywords": "Century Handleset Bottom Only, Schlage FE285CEN, Schlage Century Handleset No Deadbolts, SCH-FE285CEN, Bottom OnlyCentury Handleset with No Deadbolts,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Schlage Custom and Special Orders",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "686326",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "760835",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "686120",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "705942",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "917020",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 619: Satin Nickel",
+                "Select Interior Trim: LAT: Latitude Lever (non-handed)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "619: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Interior Trim",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LAT: Latitude Lever (non-handed)",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SCH-LAT-SM111.jpg?v=1774588027",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SCH-LAT-LG111.jpg?v=1711366669"
+                }
+            ]
+        }
+    ]
+}

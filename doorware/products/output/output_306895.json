@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "306895",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Fifth Avenue S Grip Handleset, Exterior Half, Grandeur FAVSGR",
+            "vendor": "Grandeur",
+            "status": "ARCHIVED",
+            "sku": "FAVSGR",
+            "mpn": "FAVSGR",
+            "price": "195.75",
+            "compare_at_price": "261.0",
+            "contractor_price": "185.96",
+            "shipping_weight": "5.0",
+            "tags": [
+                "FAVSGR Fifth Avenue S Grip Handlesets",
+                "Grandeur FAVSGR Fifth Avenue S Grip Handlesets",
+                "front door locks",
+                "single cylinder handlesets",
+                "double cylinder handlesets",
+                "grandeur handlesets",
+                "nostalgic door hardware",
+                "Grandeur Fifth Avenue series",
+                "Grandeur Fifth Avenue Contemporary Handlesets"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Grandeur Fifth Avenue Contemporary Handleset, Exterior Half</b>\r\n<p>\r\nThis contemporary design handleset from Grandeur Decorative door hardware has a crisply tailored  look with universal appeal that works well on almost any home. \r\n</p>\r\n<p>\r\nEnjoy the peace of mind that comes from knowing your home is secure, while also enjoying the contemporary styling.\r\n</p>\r\n<p>\r\nClick here to see the entire <a href=\"/collections/grandeur-decorative\"><b>Grandeur</b></a> - <a href=\"/collections/grandeur-fifth-avenue-series\"><b>Fifth Avenue Series</b></a>\r\n</p>\r\n<p>\r\n<b>Features</b> of Grandeur Fifth Avenue Contemporary Handleset\r\n<ul>\r\n<li>Fifth Avenue S-Grip Handleset Height: 12.25\"</li>\r\n<li>Fifth Avenue S-Grip Handleset Width:  2.44\"</li>\r\n<li>Fifth Avenue S-Grip Handleset Projection:  3.29\"</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FAVSGR-handleset.pdf?v=1704262177\" target=\"new\"><b>Fifth Avenue S-Grip Handleset Dimensions (PDF)</b></a></li>\r\n<li>Available Finishes: 5</li>\r\n<li>Installation:  Standard</li>\r\n<li>Solid Forged Brass</li>\r\n<li>Lifetime Mechanical Warranty</li>\r\n<li>10 Year Finish Warranty</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-handleset.pdf?v=1704262176\" target=\"new\"><b>Grandeur Handleset Exploded View (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n<p>\r\n<br>",
+            "seo": {
+                "title": "Fifth Avenue S Grip Handleset, Exterior Half, Grandeur FAVSGR",
+                "description": "Grandeur Fifth Avenue S Grip Handlesets. This contemporary design handleset from Grandeur Decorative door hardware has a crisply tailored  look with universal appeal that works well on almost any home.",
+                "keywords": "FAVSGR Fifth Avenue S Grip Handlesets,  Grandeur FAVSGR Fifth Avenue S Grip Handlesets, front door locks, single cylinder handlesets, double cylinder handlesets, grandeur handlesets, nostalgic door hardware, Grandeur Fifth Avenue series, Grandeur Fifth Avenue Contemporary Handlesets,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Grandeur Parts",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: AP: Antique Pewter",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: TB: Timeless Bronze",
+                "Select Finish: VB: Vintage Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "VB: Vintage Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

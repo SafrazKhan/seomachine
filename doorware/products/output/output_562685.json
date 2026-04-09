@@ -1,0 +1,135 @@
+{
+    "legacy_product_id": "562685",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Brass Four Petal Cabinet Knob, RK International CK-9314",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-9314",
+            "mpn": "RKI-CK-9314",
+            "price": "11.99",
+            "compare_at_price": "14.3",
+            "contractor_price": "11.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RKI-CK-9314",
+                "Four Petal Knobs",
+                "Solid Brass Four Petal Cabinet Knobs",
+                "RK International CK-9314",
+                "Solid Four Petal Knobs",
+                "traditional cabinet hardware",
+                "classic cabinet knobs",
+                "simple cabinet knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-9314-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-9314-525.jpg?v=1716424527"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-9314, Four Petal Knob</b>\r\n\r\n<p>\r\nThe Solid Brass Four Petal Cabinet Knob made by RK International features a unique cut-out design that is reminiscent of floral shapes. It is available in 5 finishes including satin nickel (pictured right) and oil rubbed bronze. This cabinet door pull has a 1-1/4 inch diameter and comes packaged with the installation hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-9314 Solid Four Petal Knob:\r\n<ul>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-1/4\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MUL-T-LOCK-G55G1_size.gif?v=1704354738\" width=\"600\" height=\"146\" border=\"0\" alt=\"RKI Finishes Diagram\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Solid Brass Four Petal Cabinet Knob",
+                "description": "RK International CK-9314, Solid Brass Four Petal Cabinet Knob - The Solid Brass Four Petal Cabinet Knob made by RK International features a unique cut-out design that is reminiscent of floral shapes. It is available in 5 finishes including satin nickel and oil rubbed bronze. This cabinet door pull has a 1-1/4 inch diameter and comes packaged with the installation hardware.",
+                "keywords": "RKI-CK-9314, Four Petal Knobs, Solid Brass Four Petal Cabinet Knobs, RK International CK-9314, Solid Four Petal Knobs, traditional cabinet hardware, classic cabinet knobs, simple cabinet knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "1"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "37512",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "304259",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "41380",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "43133",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "13290",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "558569",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

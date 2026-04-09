@@ -1,0 +1,137 @@
+{
+    "legacy_product_id": "1181831",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3-1/2 x 1-1/8  Deadbolt Stainless Steel Strike Plate",
+            "vendor": "Don-Jo",
+            "status": "ARCHIVED",
+            "sku": "DJO-STRIKE-3.5x1.125",
+            "mpn": "DJO-STRIKE-3.5x1.125",
+            "price": "57.0",
+            "compare_at_price": "57.0",
+            "contractor_price": "57.0",
+            "shipping_weight": "0.1",
+            "tags": [
+                "3.5 x 1.125  Deadbolt Stainless Steel Strike Plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525225.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525225.gif?v=1716428839"
+        },
+        "text": {
+            "description_html": "<b>Deadbolt Strike Plate</b>\r\n\r\n<p>\r\nCustom sized steel door latch Deadbolt strike plate. Packaged with #9 x 3/4\" wood screws for easy installation. \r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> for the Don-Jo Deadbolt Strike Plate:\r\n<ul>\r\n<li>Material: Stainless Steel</li>\r\n<li>Plate Length: 3-1/2\"</li>\r\n<li>Plate Width to Lip: 1-1/8\"</li>\r\n<li>Cut-Out: 5/16\" x 11/16\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Custom item. Final Sale</b>\r\n</p>",
+            "seo": {
+                "title": "3-1/2 x 1-1/8  Deadbolt Stainless Steel Strike Plate",
+                "description": "Custom sized steel door latch deadbolt strike plate. Packaged with #9 x 3/4 wood screws for easy installation.",
+                "keywords": "3.5 x 1.125  Deadbolt Stainless Steel Strike Plates"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Stainless Steel"
+                },
+                {
+                    "key": "Plate Length",
+                    "value": "3-1/2\""
+                },
+                {
+                    "key": "Plate Width to Lip",
+                    "value": "1-1/8\""
+                },
+                {
+                    "key": "Cut-Out",
+                    "value": "5/16\" x 11/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Custom Items",
+                    "sort": "90"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "314803",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "539039",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "906124",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "637715",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "162019",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "7082",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Stainless Steel",
+                "Plate Length: 3-1/2\"",
+                "Plate Width to Lip: 1-1/8\"",
+                "Cut-Out: 5/16\" x 11/16\"",
+                "Select Finish: 630: Satin Stainless Steel",
+                "Select Finish: DU: Dark Bronze",
+                "Select Finish: 622: Black",
+                "Select Finish: BP: Brass Plate"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "630: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "622: Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BP: Brass Plate",
+                    "price_impact": 47.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

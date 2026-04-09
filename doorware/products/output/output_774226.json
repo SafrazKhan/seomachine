@@ -1,0 +1,161 @@
+{
+    "legacy_product_id": "774226",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Brass Wire Basket Hook, Deltana WBHOOK",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-WBHOOK",
+            "mpn": "DEL-WBHOOK",
+            "price": "26.17",
+            "compare_at_price": "34.9",
+            "contractor_price": "24.86",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Deltana WBHOOK",
+                "Solid Brass Wire Basket Hooks",
+                "Bathroom Wire Basket Hook Add On",
+                "DEL-WBHOOK",
+                "Wire Basket Hook Add-Ons"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-WBHOOK-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-WBHOOK-525.jpg?v=1716425543"
+        },
+        "text": {
+            "description_html": "<b>Deltana WBHOOK, Wire Basket Hook Add-On</b>\r\n\r\n<p>\r\nThis is a solid brass hook add-on for Deltana's Bathroom Wire Baskets. Since it is made out of solid brass, it will resists tarnishing. The Wire Basket Hook is perfectly designed to hold your toothbrush and razor, but it can hold a lot of other things too, since it is a hook. Hang your loofa on it or even your wash cloth to dry. \r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-WBHOOK-speicifiations.gif?v=1704354656\" width=\"599\" height=\"170\" border=\"0\" alt=\"DEL-WBHOOK Specifications\">\r\n</p>\r\n\r\n<p>\r\nSee our full selection of <a href=\"/collections/bathroom-hardware-1\">Deltana Wire Baskets</a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Bathroom Wire Basket Hook Add On:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Overall Height: 1.725\"</li>\r\n<li>Overall Width: 1.775\"</li>\r\n<li>Overall Projection: 1.83\"</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-WBHOOK-specifcations.pdf?v=1704262325\" target=\"new\"><b>DEL-WBHOOK Dimensions (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Solid Brass Wire Basket Hook, Deltana WBHOOK",
+                "description": "Deltana WBHOOK, Solid Brass Wire Basket Hook - This is a solid brass hook add-on for Deltana's Bathroom Wire Baskets. Since it is made out of solid brass, it will resists tarnishing. The Wire Basket Hook is perfectly designed to hold your toothbrush and razor, but it can hold a lot of other things too, since it is a hook. Hang your loofa on it or even your wash cloth to dry. \r\n",
+                "keywords": "Deltana WBHOOK, Solid Brass Wire Basket Hooks, Bathroom Wire Basket Hook Add On, DEL-WBHOOK, Wire Basket Hook Add-Ons,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Overall Height",
+                    "value": "1.725\""
+                },
+                {
+                    "key": "Overall Width",
+                    "value": "1.775\""
+                },
+                {
+                    "key": "Overall Projection",
+                    "value": "1.83\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Deltana Wire Baskets",
+                    "sort": "23"
+                },
+                {
+                    "name": "Bathroom Hardware",
+                    "sort": "180"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "387838",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "387512",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "387536",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "320415",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "384129",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "387168",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "387206",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "387234",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "13357",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "13342",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Overall Height: 1.725\"",
+                "Overall Width: 1.775\"",
+                "Overall Projection: 1.83\"",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US15: Brushed Nickel",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: CR003: PVD Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CR003: PVD Polished Brass",
+                    "price_impact": 2.85,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

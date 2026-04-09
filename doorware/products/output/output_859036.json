@@ -1,0 +1,168 @@
+{
+    "legacy_product_id": "859036",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Rope Triple Rocker Plate, Grandeur ROPSWPLTR3",
+            "vendor": "Grandeur",
+            "status": "ACTIVE",
+            "sku": "GRA-ROPSWPLTR3",
+            "mpn": "GRA-ROPSWPLTR3",
+            "price": "49.2",
+            "compare_at_price": "61.5",
+            "contractor_price": "46.74",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Grandeur ROPSWPLTR3",
+                "GRA-ROPSWPLTR3",
+                "Grandeur Rope Rocker Covers",
+                "Rope Triple Rocker Covers",
+                "Triple Rope Rocker Light Switch Covers",
+                "Rope Triple Rocker Switch Plates",
+                "Rope Triple Rocker Switch Cover Plates",
+                "Grandeur Rope Switch Covers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRA-ROPSWPLTR3-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRA-ROPSWPLTR3-525.jpg?v=1716426097"
+        },
+        "text": {
+            "description_html": "<b>Grandeur ROPSWPLTR3, Triple Rocker Rope Cover</b>\r\n\r\n<p>\r\nThe Rope Triple Rocker Plate is a true classic. The rope detailing has been around for centuries and for good reason. It is both elegant and timeless. The Triple Rocker Rope Cover is available in a wide array of finishes ranging from authentic to modern, for the perfect finishing touch for your home.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Grandeur Rope Rocker Cover:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 6-7/8\"</li>\r\n<li>Height: 5-1/8\"</li>\r\n<li>Projection: 1/4\"</li>\r\n<li>Comes packaged with installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Rope Triple Rocker Plate",
+                "description": "The Rope Triple Rocker Plate is a true classic. The rope detailing has been around for centuries and for good reason. It is both elegant and timeless. The Triple Rocker Rope Cover is available in a wide array of finishes ranging from authentic to modern, for the perfect finishing touch for your home.",
+                "keywords": "Grandeur ROPSWPLTR3, GRA-ROPSWPLTR3, Grandeur Rope Rocker Covers, Rope Triple Rocker Covers, Triple Rope Rocker Light Switch Covers, Rope Triple Rocker Switch Plates, Rope Triple Rocker Switch Cover Plates, Grandeur Rope Switch Covers,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "6-7/8\""
+                },
+                {
+                    "key": "Height",
+                    "value": "5-1/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Electrical Outlet &amp; Switch Plates",
+                    "sort": "108"
+                },
+                {
+                    "name": "Grandeur Accessories",
+                    "sort": "63"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "566268",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "168235",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "858616",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "858988",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "793312",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 6-7/8\"",
+                "Height: 5-1/8\"",
+                "Projection: 1/4\"",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: BC: Bright Chrome",
+                "Select Finish: AP: Antique Pewter",
+                "Select Finish: AB: Antique Brass",
+                "Select Finish: PB: Polished Brass",
+                "Select Finish: TB: Timeless Bronze",
+                "Select Finish: ULB: Unlacquered Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BC: Bright Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AB: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PB: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ULB: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

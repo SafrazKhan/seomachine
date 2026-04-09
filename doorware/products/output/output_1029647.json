@@ -1,0 +1,86 @@
+{
+    "legacy_product_id": "1029647",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Emtek Replacement Deadbolt Cylinder Housing DB4-CYCHOUSOS",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-DB4-CYCHOUSOS",
+            "mpn": "EMT-DB4-CYCHOUSOS",
+            "price": "19.0",
+            "compare_at_price": "19.0",
+            "contractor_price": "19.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Emtek Replacement Deadbolt Cylinder Housing DB4-CYCHOUSOS",
+                "EMT-DB4-CYCHOUSOS",
+                ">Emtek DB4-CYCHOUSOS Replacement Deadbolt Cylinder Housing"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525111.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525111.gif?v=1716427774"
+        },
+        "text": {
+            "description_html": "<b>Emtek DB4-CYCHOUSOS Replacement Deadbolt Cylinder Housing</b>\r\n\r\n<p>\r\nThis is a replacement Deadbolt Cylinder Housing to be used with <a href=\"/collections/emtek-deadbolts\">Emtek Single Cylinder Deadbolts</a>. \r\n</p>\r\n\r\n<p>\r\n<i>Housing only, cylinder not included.</i>\r\n</p>",
+            "seo": {
+                "title": "Emtek Replacement Deadbolt Cylinder Housing",
+                "description": "This is a replacement Deadbolt Cylinder Housing to be used with Emtek Single Cylinder Deadbolts.",
+                "keywords": "Emtek Replacement Deadbolt Cylinder Housing DB4-CYCHOUSOS, EMT-DB4-CYCHOUSOS, >Emtek DB4-CYCHOUSOS Replacement Deadbolt Cylinder Housing,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "20"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "880349",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "879725",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "247317",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1010828",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US15: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

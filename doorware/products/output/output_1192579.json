@@ -1,0 +1,84 @@
+{
+    "legacy_product_id": "1192579",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Rubber Replacement Tip for Deltana Door Stop, Deltana RUBBERTIP-ZBDS",
+            "vendor": "Deltana",
+            "status": "ARCHIVED",
+            "sku": "DEL-RUBBERTIP-ZBDS",
+            "mpn": "DEL-RUBBERTIP-ZBDS",
+            "price": "1.32",
+            "compare_at_price": "1.32",
+            "contractor_price": "1.32",
+            "shipping_weight": "0.05",
+            "tags": [
+                "Rubber Replacement Tip for Deltana Door Stop",
+                "Deltana RUBBERTIP-ZBDS"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525238.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525238.gif?v=1711366741"
+        },
+        "text": {
+            "description_html": "<b>Rubber Tips for Deltana ZBDS Baseboard Door Bumpers</b>\r\n\r\n<p>\r\nThis is a replacement rubber tip for the Deltana Baseboard Door Bumpers. Available in your choice of black, gray, or white rubber.\r\n</p>\r\n\r\n\r\n\r\n\r\n\r\n<p>\r\n<b>Warning:</b> These work for ZBDS series Baseboard Door Stops manufactured by <a href=\"/collections/deltana\"><b>Deltana</b></a>. If you are not sure if your door stop was manufactured by <a href=\"/collections/deltana\"><b>Deltana</b></a> do NOT order these as they may not work properly.  \r\n</p>\r\n\r\n<p>\r\n<b>*Sold individually - NO RETURNS</b>\r\n<p>",
+            "seo": {
+                "title": "Rubber Replacement Tip for Deltana Door Stop, Deltana RUBBERTIP-ZBDS",
+                "description": "Rubber Replacement Tip for Deltana Door Stop, Deltana RUBBERTIP-ZBDS",
+                "keywords": "Rubber Replacement Tip for Deltana Door Stop, Deltana RUBBERTIP-ZBDS"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Deltana Door Stops and Door Bumpers",
+                    "sort": "201"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Color: DEL-RUBBERTIP-ZBDS-WH: White",
+                "Select Color: DEL-RUBBERTIP-ZBDS-BK: Black",
+                "Select Color: DEL-RUBBERTIP-ZBDS-GR: Grey"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Color",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DEL-RUBBERTIP-ZBDS-WH: White",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DEL-RUBBERTIP-ZBDS-BK: Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DEL-RUBBERTIP-ZBDS-GR: Grey",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

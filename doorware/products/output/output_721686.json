@@ -1,0 +1,130 @@
+{
+    "legacy_product_id": "721686",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Schlage 5 Inch Backset Deadbolt Latch, Schlage 12633",
+            "vendor": "Schlage-Commercial",
+            "status": "ACTIVE",
+            "sku": "SCH-12633",
+            "mpn": "SCH-12633",
+            "price": "137.0",
+            "compare_at_price": "137.0",
+            "contractor_price": "137.0",
+            "shipping_weight": "1.5",
+            "tags": [
+                "Schlage 5 Backset Latch for Deadbolts",
+                "Schlage 5 Inch Backset Deadbolt Latches",
+                "Schlage 12633",
+                "SCH-12633",
+                "Schalge B60 5 Inch Backset latches",
+                "Schalge B500 5 Inch Backset latches",
+                "Schalge B600 5 Inch Backset latches",
+                "Schlage 5 inch latches",
+                "5 Backset Latch for Schlage B60",
+                "B500",
+                "and B600 Series Deadbolts"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SCH-12633-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SCH-12633-525.jpg?v=1716425388"
+        },
+        "text": {
+            "description_html": "<b>Schlage 12633, 5\" Backset Latch for Schlage B60, B500, and B600 Series Deadbolts</b>\r\n\r\n<p>\r\nThis is a 5\" Backset Latch.  <a href=\"/pages/how-to-order-door-hardware#backset\"><b>How to measure your door's backset</b></a>.\r\n</p>\r\n\r\n<p>\r\nFor use with <a href=\"//search?type=product&q=schlage+B60\"><b>Schlage B60 Series Deadbolts</b></a>, <a href=\"//search?type=product&q=schlage+b500\"><b>Schlage B500 Series Deadbolts</b></a>, and  <a href=\"//search?type=product&q=schlage+b600\"><b>Schlage B600 Series Deadbolts</b></a>.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "Schlage 5 Inch Backset Deadbolt Latch, Schlage 12633",
+                "description": "This is a 5 inch Backset deadbolt Latch use for Schlage B60 deadbolts.",
+                "keywords": "Schlage 5 Backset Latch for Deadbolts, Schlage 5 Inch Backset Deadbolt Latches, Schlage 12633, SCH-12633, Schalge B60 5 Inch Backset latches, Schalge B500 5 Inch Backset latches, Schalge B600 5 Inch Backset latches, Schlage 5 inch latches, 5 Backset Latch for Schlage B60, B500, and B600 Series Deadbolts"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "17"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "274899",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "240763",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "158187",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "331945",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "283615",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "309456",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "158626",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 605: Polished Brass",
+                "Select Finish: 626: Satin Chrome",
+                "Select Finish: 613: Oil Rubbed Bronze",
+                "Select Finish: 619: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "605: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "613: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "619: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

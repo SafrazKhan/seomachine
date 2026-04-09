@@ -1,0 +1,163 @@
+{
+    "legacy_product_id": "1195668",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Accent Lever Interior Dummy Trim Kit for Schlage F Series Handlesets, SCH-F94ACC",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-F94ACC",
+            "mpn": "SCH-F94ACC",
+            "price": "64.0",
+            "compare_at_price": "80.0",
+            "contractor_price": "64.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Accent Lever Interior Trim Kit for Schlage F Series  Handlesets",
+                "SCH-F94ACC"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/F94ACC605-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/F94ACC605-525.jpg?v=1711366744"
+        },
+        "text": {
+            "description_html": "<b> Accent Lever Interior Dummy Trim Kit for Schlage F Series Dummy Handlesets</b><p>Replacement interior trim kit for F Series Handlesets only.</p>",
+            "seo": {
+                "title": "Accent Lever Interior Dummy Trim for Schlage F Series Handlesets, SCH-F94ACC",
+                "description": "Accent Lever Interior Trim Kit for Schlage F Series  Handlesets, SCH-F94ACC",
+                "keywords": "Accent Lever Interior Trim Kit for Schlage F Series  Handlesets, SCH-F94ACC"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "110"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: SCH-F94ACC-605: Bright Brass",
+                "Select Finish: SCH-F94ACC-609: Antique Brass",
+                "Select Finish: SCH-F94ACC-613: Oil Rubbed Bronze",
+                "Select Finish: SCH-F94ACC-619: Satin Nickel",
+                "Select Finish: SCH-F94ACC-620: Antique Pewter",
+                "Select Finish: SCH-F94ACC-621: Distressed Nickel",
+                "Select Finish: SCH-F94ACC-622: Matte Black",
+                "Select Finish: SCH-F94ACC-625: Bright Chrome",
+                "Select Finish: SCH-F94ACC-626: Satin Chrome",
+                "Select Finish: SCH-F94ACC-716: Aged Bronze",
+                "Select Handing: SCH-F94ACC-RH: Right Hand",
+                "Select Handing: SCH-F94ACC: Left Hand"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SCH-F94ACC-605: Bright Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F94ACC-609: Antique Brass",
+                    "price_impact": 4.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F94ACC-613: Oil Rubbed Bronze",
+                    "price_impact": 4.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F94ACC-619: Satin Nickel",
+                    "price_impact": 4.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F94ACC-620: Antique Pewter",
+                    "price_impact": 4.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F94ACC-621: Distressed Nickel",
+                    "price_impact": 4.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F94ACC-622: Matte Black",
+                    "price_impact": 4.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F94ACC-625: Bright Chrome",
+                    "price_impact": 4.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F94ACC-626: Satin Chrome",
+                    "price_impact": 4.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F94ACC-716: Aged Bronze",
+                    "price_impact": 4.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "SCH-F94ACC-RH: Right Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SCH-F94ACC: Left Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

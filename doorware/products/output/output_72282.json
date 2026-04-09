@@ -1,0 +1,80 @@
+{
+    "legacy_product_id": "72282",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Alarm Lock Series Electronic Digital Lock With Audit Trail DL3000",
+            "vendor": "Alarm Lock",
+            "status": "ARCHIVED",
+            "sku": "DL3000 ",
+            "mpn": "DL3000 ",
+            "price": "1212.99",
+            "compare_at_price": "1515.94",
+            "contractor_price": "1152.11",
+            "shipping_weight": "5.0",
+            "tags": [
+                "DL3000",
+                "Electronic Digital Lock",
+                "push button lock",
+                "electronic lock",
+                "digital lock",
+                "keypad lock"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DL3000-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DL3000-525.jpg?v=1717788239"
+        },
+        "text": {
+            "description_html": "<br>\r\nElectronic battery operated digital lock. Holds up to \r\n300 codes, Master, Management, Supervisor & basic \r\nuser. 150 event schedule, real time clock & 1,600 event audit trail.<br>\r\n<br>PROGRAMMING: Locking modes, event schedules, group, individual, master, management, passage, emergency service codes. Lockout, remote override capability and allowable entry time (3, 10 or 15 seconds), are programmable<br>\r\n<br>\r\n<br>AUDIT TRAIL: Lock's activity log can be extracted by using the AL-DTMIII (data transfer module), the AL-PCI2 (PC interface) and/or can be on-site printed using the AL-IR1 (hand-held infrared printer)<br>\r\n<br>OPERATION: Authorized digital code allows lever to retract latch.<br>\r\n\r\n<br>\r\nSpecifications:</b><br>\r\n<br>\r\n<li>300 user with multilevel security - master, manager, supervisor, basic users and one-time service code.</li>\r\n<li>1600 event audit trail log, stamped by day, date, time and user.</li> \r\n<li>150 scheduled automatic lock/unlock events including 4 quick schedules for programming the most common time schedules</li> \r\n<li>Fingertip (keypad) or Window PC programmable.</li>\r\n<li>Relay may be programmed to energize on one or more selected events.</li>\r\n<li>Durable BHMA Grade 1 lockset.</li>\r\n<li>Vandal proof all-metal keypads.</li> \r\n<li>Specify WP weatherproof model with temperature range of -31° to + 151°F</li>\r\n<li>Non-handed for easy installation.</li>\r\n<li>5AA Battery operated; 80,000 cycles, typical.</li>\r\n<li><B>Satin Chrome Finish</B></li>\r\n<li>Schlage \"C\" IC Prep Cylinder NOT included</li>\r\n\r\n<br>\r\n<br>\r\nQuestions? Call Customer Service 1-954-776-5340<br></b>\r\n<br>",
+            "seo": {
+                "title": "Alarm Lock Series Electronic Digital Lock With Audit Trail DL3000",
+                "description": "DL3000 Series Electronic Digital Lock With Audit Trail. Trail.Electronic battery operated digital lock. Holds up to 300 codes, Master, Management, Supervisor & basic user. 150 event schedule, real time clock & 1,600 event audit trail",
+                "keywords": "DL3000, Electronic Digital Lock, push button lock, electronic lock, digital lock, keypad lock"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Alarm Lock",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select IC Core Keyway: I do not need a lock cylinder",
+                "Select IC Core Keyway: 23030C626/48056C:  Schlage in.Cin. IC Core + Control Key"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select IC Core Keyway",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I do not need a lock cylinder",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "23030C626/48056C:  Schlage in.Cin. IC Core + Control Key",
+                    "price_impact": 120.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

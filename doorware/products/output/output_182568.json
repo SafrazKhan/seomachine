@@ -1,0 +1,124 @@
+{
+    "legacy_product_id": "182568",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T16:10:02.827627"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Solid Brass Round Beaded Design Flush Pull FII-801",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-801",
+            "mpn": "FII-801",
+            "price": "50.0",
+            "compare_at_price": "50.0",
+            "contractor_price": "50.0",
+            "shipping_weight": "0.0",
+            "tags": [
+                "FII-801 first impressions flush pulls",
+                "bead style pocket door pulls",
+                "round pulls",
+                "beaded design door pulls",
+                "victorian style beaded flush pulls",
+                "sliding door pulls",
+                "pocket door hardware",
+                "pulls pocket doors"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FII-801-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FII-801-5251.jpg?v=1716421726"
+        },
+        "text": {
+            "description_html": "<b>First Impressions Solid Brass Beaded Round Style SlidingPocket Door Flush Pull</b>\r\n\r\n<p>\r\nThis Solid Brass sliding pocket door flush pull is of the finest quality, offering both fashion and function. With the Victorian beaded design, it is beautiful and yet classic in style. For over 10 years, First Impressions has been designing and manufacturing beautiful custom decor for homes, right here is the U.S.A. They offer some of the most diverse and beautiful styles we carry.\r\n</p>\r\n\r\n<p>\r\nWe also have available a <a href=\"/products/solid-brass-round-rope-design-flush-pull-fii-802\"><b>Rope Design Round Flush Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the First Impressions 801 Beaded Flush Pull:\r\n<ul>\r\n<li>Overall Diameter: 2-1/4\" </li>\r\n<li>Projection: 1/4\"</li>\r\n<li>Mounting Hole Depth:  5/16\"</li>\r\n<li>Material: Solid Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>** This item is discontinued.</b>\r\n</p>",
+            "seo": {
+                "title": "Solid Brass Round Beaded Design Flush Pull FII-801",
+                "description": "FII 801 First Impressions flush pulls - victorian style beaded round flush pull for sliding pocket door. These Solid Brass style sliding pocket door flush pulls are of the finest quality offering both fashion and function. ",
+                "keywords": "FII-801 first impressions flush pulls, bead style pocket door pulls,  round pulls, beaded design door pulls, victorian style beaded flush pulls, sliding door pulls, pocket door hardware, pulls pocket doors,"
+            },
+            "specifications": [
+                {
+                    "key": "Overall Diameter",
+                    "value": "2-1/4\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1/4\""
+                },
+                {
+                    "key": "Mounting Hole Depth",
+                    "value": "5/16\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "50"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "187049",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "206803",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "194887",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "7551",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "178392",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Overall Diameter: 2-1/4\"",
+                "Projection: 1/4\"",
+                "Mounting Hole Depth: 5/16\"",
+                "Material: Solid Brass",
+                "Select Finish: FII-801-US3 - Polished Brass",
+                "Select Finish: FII-801-US5 - Antique Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-801-US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-801-US5 - Antique Brass",
+                    "price_impact": 12.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

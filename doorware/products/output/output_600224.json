@@ -1,0 +1,150 @@
+{
+    "legacy_product_id": "600224",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Deco Ring Pull, Field Enterprises RPH-275",
+            "vendor": "Field Enterprise",
+            "status": "ACTIVE",
+            "sku": "FEI-RPH-275",
+            "mpn": "FEI-RPH-275",
+            "price": "35.88",
+            "compare_at_price": "46.0",
+            "contractor_price": "34.09",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Field Enterprises RPH-275",
+                "Field Enterprises RPH275",
+                "Field Enterprises RPH 275",
+                "RPH275 Hex Ring Pulls",
+                "Deco Ring Pulls",
+                "Retro Ring Pulls",
+                "Retro Cabinet Ring Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FEI-RPH-275-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FEI-RPH-275-525.jpg?v=1716424840"
+        },
+        "text": {
+            "description_html": "<b>Field Enterprises RPH-275, Retro Cabinet Ring Pull</b>\r\n\r\n<p>\r\nThe Deco Ring Pull will add retro style to any small door or drawer. Install on kitchen cabinets, on accordion closet doors, or even on an armoire. It is available in 5 finishes, but we think the polished brass really brings out the retro feel. No matter what finish you choose, this cabinet ring pull will look great. It is easy to install and comes with the mounting hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RPH275 Hex Ring Pull:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Overall Length: 2\"</li>\r\n<li>Widest Width: 1-7/8\"</li>\r\n<li>Projection: 7/8\"</li>\r\n<li>Mount Length: 1/2\" square</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Deco Ring Pull, Field Enterprises RPH-275",
+                "description": "Field Enterprises RPH-275, Deco Ring Pull -- The Deco Ring Pull will add retro style to any small door or drawer. Install on kitchen cabinets, on accordion closet doors, or even on an armoire. It is available in 5 finishes, but we think the polished brass really brings out the retro feel. No matter what finish you choose, this cabinet ring pull will look great. It is easy to install and comes with the mounting hardware.",
+                "keywords": "Field Enterprises RPH-275, Field Enterprises RPH275, Field Enterprises RPH 275, RPH275 Hex Ring Pulls, Deco Ring Pulls, Retro Ring Pulls, Retro Cabinet Ring Pulls"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Field Enterprises Cabinet Hardware",
+                    "sort": "11"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "600163",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "600154",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "561002",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "42944",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "855093",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "591778",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "294822",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "456486",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "563664",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "41849",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US3: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

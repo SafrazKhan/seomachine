@@ -1,0 +1,85 @@
+{
+    "legacy_product_id": "288951",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4-1/2 x 7 Wide Throw Brass Hinge with 2 Ball Bearings, Bommer BB5011-457-xxx",
+            "vendor": "Bommer",
+            "status": "ARCHIVED",
+            "sku": "BOM-BB5011-457-xxx",
+            "mpn": "BOM-BB5011-457-xxx",
+            "price": "237.0",
+            "compare_at_price": "237.0",
+            "contractor_price": "237.0",
+            "shipping_weight": "1.2",
+            "tags": [
+                "BOM-BB5011-457-xxx 4-1/2 x 7 Wide Throw Hinges",
+                "4-1/2 x 7 Wide Throw Brass Hinge with 2 Ball Bearings",
+                "Bommer BB5011-457 wide throw hinges"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Bommer BB5011-457 4-1/2\" x 7\" x Square Corners Wide Throw Brass Hinge</b>\r\n<p>\r\nPackage includes one (1) hinge, matching solid brass flathead, Phillips Drive #12 x 1-1/4\" wood screws and 12-24 x 1/2\" machine screws. \r\n</p>\r\n<p>\r\nFitted with a high grade non-rising, removable, rust resistant, stainless steel button tip hinge pin.\r\n Utilizes template screw hole pattern for use with wood or metal doors.\r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/kaba-simplex-902-size.gif?v=1704354717\" width=\"100\" height=\"72\" border=\"0\" alt=\"Bommer Hinges Made in the USA\">\r\n</p>\r\n<p>\r\n<b>Specifications:</b> for Bommer BB5011-457 4-1/2\" x 7\" Wide Throw Brass Hinge\r\n<ul>\r\n<li>Height: 4-1/2\"</li>\r\n<li>Width: 7\"</li>\r\n<li>Corners: Square</li>\r\n<li>Dual Ball-Bearing: 2 Ball Bearings</li>\r\n<li>Hinge Type: Full Mortise</li>\r\n<li>Thickness: 0.134\"</li>\r\n<li>Standard Template Hole Pattern</li>\r\n<li>Hinge Pin: Stainless Steel, Removable</li>\r\n<li>Wood Screws: #12 x 1-1/4\"</li>\r\n<li>Machine Screws: #12-24 x 1/2\"</li>\r\n<li>Hinge Material: Solid Brass</li>\r\n<li>ANSI A2112</li>\r\n<li>Available Finishes: 3</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/5000-450-T.pdf?v=1691094994\" target=\"new\"><b> Bommer BB5011-457 Dimensional Diagram</b></a>\r\n</ul>\r\n</p>\r\n<p>\r\nThis Bommer hinge is special order only, <b>please allow 3-5 weeks</b> for delivery. It is also available in other finishes, Please <a href=\"/pages/contact\"><b>Contact Us</b></a> with your requirements.\r\n</p>\r\n<p><b>*Sold Each (1 Door Hinge)</b>\r\n</p>",
+            "seo": {
+                "title": "4-1/2 x 7 Wide Throw Brass Hinge with 2 Ball Bearings, Bommer BB5011-457-xxx",
+                "description": "Bommer BB5011-457 4 1/2 x 7 x Square Corners Wide Throw Brass Hinges With 2 Ball Bearings,  Heavy Duty 0.134 thick. Utilizes template screw hole pattern for use with wood or metal doors, available in polished brass, oil rubbed bronze or satin chrome finish. Fitted with a high grade, removable, rust resistant, stainless steel button tip hinge pin. Made in the USA\r\n",
+                "keywords": "BOM-BB5011-457-xxx 4-1/2 x 7 Wide Throw Hinges, 4-1/2 x 7 Wide Throw Brass Hinge with 2 Ball Bearings, Bommer BB5011-457 wide throw hinges,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Bommer Brass Door Hinges",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: BOM-BB5011-457-626 - Brushed Chrome",
+                "Select Finish: BOM-BB5011-457-605 - Polished Brass",
+                "Select Finish: BOM-BB5011-457-613 - Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BOM-BB5011-457-626 - Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BOM-BB5011-457-605 - Polished Brass",
+                    "price_impact": 20.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BOM-BB5011-457-613 - Oil Rubbed Bronze",
+                    "price_impact": 20.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "legacy_product_id": "959513",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Plunger Door Stop, Omnia 2001",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-2001",
+            "mpn": "OMN-2001",
+            "price": "36.0",
+            "compare_at_price": "45.0",
+            "contractor_price": "34.2",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Omnia 2001",
+                "Spring Loaded Plunger Door stops",
+                "Plunger Door Holders",
+                "Plunger Doorstops",
+                "OMN-2001",
+                "hold door open",
+                "kick door stops",
+                "kick stops",
+                "door mount doorstops",
+                "door mount bumpers",
+                "rubber door stop",
+                "door stoppers",
+                "doorstoppers",
+                "Step On Door Holders",
+                "Omnia 2001-US26 polished chrome",
+                "Omnia 2001-US3 polished brass"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-2001-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-2001-525.jpg?v=1716427254"
+        },
+        "text": {
+            "description_html": "<b>Omnia 2001, Spring Loaded Plunger Door Stop</b>\r\n\r\n<p>\r\nA Plunger Door Stop like this one mounts to the lower surface of the door to keep it in an open position when activated. The Spring Loaded Plunger Door Stop is an easy to use, no hand door stop--just push the plunger down with your foot to activate then press the release tab to inactivate. This Plunger Door Holder is available with a polished brass finish.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Omnia 2001 Plunger Door Holder:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Height: 7-1/16\" </li>\r\n<li>Width: 1-1/8\"</li>\r\n<li>Throw: 2\"</li>\r\n<li>Maximum Door Gap to Floor: 1-1/4\"</li>\r\n<li>Rubber Tip Color: White</li>\r\n<li>Package includes: a non-skid rubber tip to protect the floor and mounting hardware.</li> \r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>\r\n\r\n<p>\r\n<b>*Limited quantities available. (This item is discontinued) </b>\r\n</p>",
+            "seo": {
+                "title": "Plunger Door Stop",
+                "description": "A Plunger Door Stop like this one mounts to the lower surface of the door to keep it in an open position when activated. The Spring Loaded Plunger Door Stop is an easy to use, no hand door stop--just push the plunger down with your foot to activate then press the release tab to inactivate. This Plunger Door Holder is available with a polished brass finish.\r\n",
+                "keywords": "Omnia 2001, Spring Loaded Plunger Door stops, Plunger Door Holders, Plunger Doorstops, OMN-2001, hold door open, kick door stops, kick stops, door mount doorstops, door mount bumpers, rubber door stop,  door stoppers, doorstoppers, Step On Door Holders, Omnia 2001-US26 polished chrome, Omnia 2001-US3 polished brass,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Height",
+                    "value": "7-1/16\""
+                },
+                {
+                    "key": "Width",
+                    "value": "1-1/8\""
+                },
+                {
+                    "key": "Throw",
+                    "value": "2\""
+                },
+                {
+                    "key": "Maximum Door Gap to Floor",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Rubber Tip Color",
+                    "value": "White"
+                },
+                {
+                    "key": "Package includes",
+                    "value": "a non-skid rubber tip to protect the floor and mounting hardware."
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Omnia Door Stops",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "783743",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "196514",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "530357",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "455455",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "862908",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "755734",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "626198",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Material: Solid Brass",
+                "Height: 7-1/16\"",
+                "Width: 1-1/8\"",
+                "Throw: 2\"",
+                "Maximum Door Gap to Floor: 1-1/4\"",
+                "Rubber Tip Color: White",
+                "Package includes: a non-skid rubber tip to protect the floor and mounting hardware.",
+                "Select Finish: US3: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

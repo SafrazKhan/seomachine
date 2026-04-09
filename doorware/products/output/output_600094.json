@@ -1,0 +1,151 @@
+{
+    "legacy_product_id": "600094",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "3 inch Ring Pull, Field Enterprises RPC-300",
+            "vendor": "Field Enterprise",
+            "status": "ACTIVE",
+            "sku": "FEI-RPC-300",
+            "mpn": "FEI-RPC-300",
+            "price": "43.68",
+            "compare_at_price": "56.0",
+            "contractor_price": "41.49",
+            "shipping_weight": "1.0",
+            "tags": [
+                "FEI-RPC-300",
+                "3 inch Ring Pull",
+                "Field Enterprises RPC-300",
+                "Field Enterprises RPC-300",
+                "Field Enterprises RPC300",
+                "Field Enterprises RPC 300",
+                "Modern 3 Inch Ring Pulls",
+                "3 Inch round Ring Pull",
+                "dresser drawer pulls",
+                "furniture ring pulls",
+                "closet door pulls",
+                "Field Enterprises circle ring pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FEI-RPT300-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FEI-RPT300-525.jpg?v=1716424828"
+        },
+        "text": {
+            "description_html": "<b>Field Enterprises RPC-300, Modern 3 Inch Ring Pull</b>\r\n\r\n<p>\r\nThe 3 inch Ring Pull is large enough for use on big furniture drawers such as dressers but it will also look great as a handle on closet doors, bathroom vanities, or even on kitchen cabinets. The circular cutout is very comfortable to hold. It is available in all 5 of the most popular finishes including polished chrome and oil rubbed bronze. It features easy screw on installation.\r\n</p>\r\n\r\n<p>\r\nAlso Available: Smaller <a href=\"/products/2-inch-ring-pull-field-enterprises-rpc-200\">2\" Ring Pull</a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RPC300 Circle Ring Pull:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Overall Diameter: 3\"</li>\r\n<li>Grip: 3/8\" square</li>\r\n<li>Grip Cutout Diameter: 2-5/16\"</li>\r\n<li>Projection: 7/8\"</li>\r\n<li>Mount Length: 1/2\" square</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "3 inch Ring Pull, Field Enterprises RPC-300",
+                "description": "Field Enterprises RPC-300, 3 inch Ring Pull - The 3 inch Ring Pull is large enough for use on big furniture drawers such as dressers but it will also look great as a handle on closet doors, bathroom vanities, or even on kitchen cabinets. The circular cutout is very comfortable to hold. It is available in all 5 of the most popular finishes including polished chrome and oil rubbed bronze. It features easy screw on installation.",
+                "keywords": "FEI-RPC-300, 3 inch Ring Pull, Field Enterprises RPC-300, Field Enterprises RPC-300, Field Enterprises RPC300, Field Enterprises RPC 300, Modern 3 Inch Ring Pulls, 3 Inch round Ring Pull, dresser drawer pulls, furniture ring pulls, closet door pulls, Field Enterprises circle ring pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Field Enterprises Cabinet Hardware",
+                    "sort": "5"
+                },
+                {
+                    "name": "Cabinet Pulls",
+                    "sort": "1"
+                },
+                {
+                    "name": "Door Pulls",
+                    "sort": "22"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "599810",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "568033",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "198717",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "552797",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "41849",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "194887",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "10491",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "599773",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US3: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

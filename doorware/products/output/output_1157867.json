@@ -1,0 +1,107 @@
+{
+    "legacy_product_id": "1157867",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Rosette and Thumbturn for Inox LD3 Deadbolt, Inox ECIXL31",
+            "vendor": "Inox",
+            "status": "ARCHIVED",
+            "sku": "INX-ECIXL31",
+            "mpn": "INX-ECIXL31",
+            "price": "40.0",
+            "compare_at_price": "40.0",
+            "contractor_price": "40.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "LD3 Deadbolt Rose and Thumbturns",
+                "Rosette and Thumbturn for Inox LD3 Deadbolts",
+                "Inox ECIXL31",
+                "INX-ECIXL31"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/INX-ECIXL31-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/INX-ECIXL31-525.jpg?v=1716428567"
+        },
+        "text": {
+            "description_html": "<b>INOX ECIXL31, LD3 Deadbolt Rose and Thumbturn</b>\r\n\r\n<p>\r\nThis is a replacement  Rose and Thumbturn for the <a href=\"/products/wrought-stainless-steel-single-cylinder-deadbolt-inox-ld310b\">Inox LD3 Deadbolt</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the INOX ECIXL31 Rosette and Thumbturn:\r\n<ul>\r\n<li>Material: Wrought Stainless Steel</li>\r\n<li>Length: 2-3/8\" Square</li>\r\n<li>Thumbturn Width: 23/32\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special ordered item. <b>No Returns.</b></i>\r\n</p>",
+            "seo": {
+                "title": "Rosette and Thumbturn for Inox LD3 Deadbolt",
+                "description": "This is a replacement  Rose and Thumbturn for the Inox LD3 Deadbolt.",
+                "keywords": "LD3 Deadbolt Rose and Thumbturns, Rosette and Thumbturn for Inox LD3 Deadbolts, Inox ECIXL31, INX-ECIXL31"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Wrought Stainless Steel"
+                },
+                {
+                    "key": "Length",
+                    "value": "2-3/8\" Square"
+                },
+                {
+                    "key": "Thumbturn Width",
+                    "value": "23/32\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "INOX Miscellaneous",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "648605",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "343505",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "343353",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "231547",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "948376",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Wrought Stainless Steel",
+                "Length: 2-3/8\" Square",
+                "Thumbturn Width: 23/32\"",
+                "Select Finish: 10B: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

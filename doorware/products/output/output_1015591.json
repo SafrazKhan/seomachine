@@ -1,0 +1,90 @@
+{
+    "legacy_product_id": "1015591",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Emergency Release Trim, Baldwin 0407",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-0407",
+            "mpn": "BAL-0407",
+            "price": "62.0",
+            "compare_at_price": "62.0",
+            "contractor_price": "62.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Emergency Release Trim",
+                "BAL-0407",
+                "Baldwin 0407"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-0407-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-0407-525.jpg?v=1716427690"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 0407, Emergency Release Trim</b>\r\n\r\n<p>\r\nThis Replacement Emergency Release Trim is for use with Baldwin Estates Collection. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Baldwin 0407 Emergency Release Trim:\r\n<ul>\r\n<li>Includes 0417 Key w/ 6701 Cover</li>\r\n<li>All Trim sets come with Emergency Release Key</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i> Special Ordered Item. <b>No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "Emergency Release Trim",
+                "description": "This Replacement Emergency Release Trim is for use with Baldwin Estates Collection.",
+                "keywords": "Emergency Release Trim, BAL-0407, Baldwin 0407"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "39"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "651961",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "939712",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "65983",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 260: Polished Chrome",
+                "Select Finish: 044: PVD Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "260: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "044: PVD Satin Brass",
+                    "price_impact": 4.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

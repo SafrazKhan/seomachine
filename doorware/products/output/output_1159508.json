@@ -1,0 +1,126 @@
+{
+    "legacy_product_id": "1159508",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Riverstone Button Knob, MNG 843",
+            "vendor": "",
+            "status": "ACTIVE",
+            "sku": "MNG-843",
+            "mpn": "MNG-843",
+            "price": "9.47",
+            "compare_at_price": "12.63",
+            "contractor_price": "9.47",
+            "shipping_weight": "0.5",
+            "tags": [
+                "1.25 Inch Diameter Riverstone Button Knobs",
+                "Riverstone Cabinet Knobs",
+                "Riverstone Button Knobs",
+                "MNG-843",
+                "MNG-843",
+                "MNG-84313",
+                "MNG-84313",
+                "MNG-84364",
+                "MNG-84364",
+                "MNG-84365",
+                "MNG-84365"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MNG-843-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-843-525.jpg?v=1716428605"
+        },
+        "text": {
+            "description_html": "<b>MNG 843, 1.25 Inch Diameter Riverstone Button Knob</b>\r\n\r\n<p>\r\nThe Riverstone Button Knob is a rustic cabinet knob great for farmhouse kitchens. This Riverstone Cabinet Knob comes packaged with the installation hardware. Choose from your favorite of the distressed finishes. \r\n</p>\r\n\r\n<p>\r\nThis cabinet knob is part of the <a href=\"/site/search.cfm?search=MNG+ Riverstone\">MNG Riverstone Collection</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the MNG 843 Riverstone Cabinet Knob:\r\n<ul>\r\n<li>Base Material: Zinc </li>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1\"</li>\r\n<li>Packaged with 1\" long #8-32 screw and 1-1/2\" long #8-32 screw.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i> \r\n</p>",
+            "seo": {
+                "title": "Riverstone Button Knob",
+                "description": "The Riverstone Button Knob is a rustic cabinet knob great for farmhouse kitchens. This Riverstone Cabinet Knob comes packaged with the installation hardware. Choose from your favorite of the distressed finishes.",
+                "keywords": "1.25 Inch Diameter Riverstone Button Knobs, Riverstone Cabinet Knobs, Riverstone Button Knobs, MNG-843, MNG-843, MNG-84313, MNG-84313, MNG-84364, MNG-84364, MNG-84365, MNG-84365"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "5"
+                },
+                {
+                    "name": "MNG Cabinet Hardware",
+                    "sort": "41"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1159491",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1159302",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "569024",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "567783",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "939474",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "566851",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "565249",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MNG-84364: Distressed Pewter",
+                "Select Finish: MNG-84365: Dark Antique Copper",
+                "Select Finish: MNG-84313: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MNG-84364: Distressed Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-84364-SM.jpg?v=1774582660",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-84364-LG.jpg?v=1711366658"
+                },
+                {
+                    "value": "MNG-84365: Dark Antique Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-84365-SM.jpg?v=1774582663",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-84365-LG.jpg?v=1711366658"
+                },
+                {
+                    "value": "MNG-84313: Oil Rubbed Bronze",
+                    "price_impact": 0.32,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-84313-SM.jpg?v=1774582666",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MNG-84313-LG.jpg?v=1711366658"
+                }
+            ]
+        }
+    ]
+}

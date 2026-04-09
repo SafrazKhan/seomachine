@@ -1,0 +1,127 @@
+{
+    "legacy_product_id": "180802",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "LCN 3133 Interior Door Concealed Door Closer",
+            "vendor": "LCN",
+            "status": "ACTIVE",
+            "sku": "LCN-3133",
+            "mpn": "LCN-3133",
+            "price": "728.0",
+            "compare_at_price": "910.0",
+            "contractor_price": "691.6",
+            "shipping_weight": "10.0",
+            "tags": [
+                "LCN 3133 Interior Door Concealed Door Closers",
+                "LCN-3133",
+                "LCN 3130 series door closers",
+                "Concealed overhead Door Closers",
+                "Concealed over head Door Closers",
+                "LCN closers",
+                "ul listed closers",
+                "hidden door closers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LCN3130-series-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LCN3130-series-525.jpg?v=1717105673"
+        },
+        "text": {
+            "description_html": "<b>Concealed Overhead Door Closers</b>\r\n<p>\r\nThe Concealed LCN 3133 is designed to mount in 1 3/4\" thick interior doors. Its compact design fits into the top of the door for a very clean appearance. \r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/KABA-6200-specifications.gif?v=1704442280\" width=\"600\" height=\"250\" border=\"0\" alt=\"LCN 3133 closer dimensions\">\r\n</p>\r\n<p>\r\nThe double lever arm provides superior door control, for doors up to 38\" wide. This is a handed closer with a spring size 3 and Aluminum finish.\r\n</p>\r\n<p><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/3130.pdf?v=1704262218\" target=\"new\"><b>LCN 3133  Installation Instructions (PDF).</b></a>\r\n</P>\r\n\r\n<p>\r\nThe LCN 3133 Concealed Overhead Door Closer is UL and ULC listed for self-closing doors and comes with a 15 year warranty. \r\nTested and certified under ANSI Standard A156.4, <b>Grade 1</b>.\r\n</p>\r\n<p>\r\nPackaged complete with door closer, mounting bracket, closer arm, track, roller and installation screws.\r\n</p>\r\n<p>\r\n<b>*Important</b> When selecting <b>Door Hand</b> for this door closer: \r\n<br>\r\n1. Stand on the <b>Push Side</b> of the door, facing the door. <br>\r\n2. If the \"Pivot Hinge\" is on your \"Left\", choose \"Left Hand Door\". <br>\r\n3. If the \"Pivot Hinge\" is on your \"Right\", choose \"Right Hand Door\". <br>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/closer-handing.gif?v=1704354510\"  width=\"410\" height=\"195\" border=\"0\"alt=\"door handing\">\r\n</p>",
+            "seo": {
+                "title": "LCN 3133 Interior Door Concealed Door Closer",
+                "description": "LCN 3130 Series - LCN 3133 Interior Door Concealed Overhead Door Closers for interior doors up to 38 inches wide.",
+                "keywords": "LCN 3133 Interior Door Concealed Door Closers,  LCN-3133, LCN 3130 series door closers, Concealed overhead Door Closers, Concealed over head Door Closers, LCN closers, ul listed closers, hidden door closers,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closers",
+                    "sort": "9"
+                },
+                {
+                    "name": "Door Closers",
+                    "sort": "61"
+                },
+                {
+                    "name": "Commercial Door Closers",
+                    "sort": "29"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "180789",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "183343",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "875931",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "183493",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "71765",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "180861",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "15351",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "183452",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "15357",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Door Hand: 3133-LH: Left Hand Door",
+                "Select Door Hand: 3133-RH: Right Hand Door"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Hand",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "3133-LH: Left Hand Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "3133-RH: Right Hand Door",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

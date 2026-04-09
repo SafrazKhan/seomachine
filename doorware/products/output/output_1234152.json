@@ -1,0 +1,112 @@
+{
+    "legacy_product_id": "1234152",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hospital Push / Pull Latch, DJO 4500",
+            "vendor": "Don-Jo",
+            "status": "ACTIVE",
+            "sku": "DJO 4500",
+            "mpn": "DJO 4500",
+            "price": "283.99",
+            "compare_at_price": "355.0",
+            "contractor_price": "269.8",
+            "shipping_weight": "10.0",
+            "tags": [
+                "DJO-4500",
+                "Don-Jo Push Pull Latch",
+                "Don Jo Push Pull Latch",
+                "don jo hospital latch",
+                "school doors",
+                "Don-Jo 4500 Hospital Latchsets",
+                "Don Jo 4500 Push / Pull Latch",
+                "don jo 4500",
+                "Hospital door handles",
+                "Hospital doors",
+                "DJO-4550",
+                "don jo 4550",
+                "Don-Jo 4550"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DJO-4500-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DJO-4500-525.jpg?v=1769482081"
+        },
+        "text": {
+            "description_html": "<b>Hospital Push / Pull Latch, Don-Jo 4500</b>\r\n\r\n<p>\r\nDon-Jo Hospital Push / Pull Latches for installations where both versatility and durability are critical. Ideal for use on hospital and industrial doors, including fire doors, when hands free door opening is required. \r\n</p>\r\n\r\n<p>\r\nAvailable in 2-3/4\" or 5\" backset. The short throw angle allows an easy push or pull action to open the door even when hands are not free.\r\n</p>\r\n\r\n<p>\r\nThe Don-Jo 4500 can be mounted in any of four different positions:\r\n<li>Both handles down</li>\r\n<li>Both handles up</li>\r\n<li>Both handles point away from latch</li>\r\n<li>Both handles point toward latch</li>\r\n</p>\r\n<table width=\"100\" align=\"right\">\r\n<tr>\r\n<td>\r\n<a href=\"/pages/ada-compliant\"><img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/handicap-logo.jpg?v=1704353001\" width=\"100\" height=\"98\" border=\"0\" alt=\"ADA Compliant Handicap\"></a>\r\n</td>\r\n</tr>\r\n</table>\r\n<p>\r\n<b>Features and Specifications</b> of the DJO 4500 Series Push/Pull Latch:\r\n<ul>\r\n<li>Finish: <b>US32D Satin Stainless Steel</b></li>\r\n<li>Backset: 2-3/4\" or 5\"</li>\r\n<li>Non Handed</li>\r\n<li><a href=\"/pages/ada-compliant\">ADA Compliant</a>.</li>\r\n<li>UL Listed</li>\r\n<li>Variable mounting positions</li>\r\n<li>Function: Passage</li>\r\n<li>Projection off Door: 3-1/4\" Maximum</li>\r\n<li>Body Width: 2.465\" Maximum</li>\r\n<li>Body Height: 4\"</li>\r\n<li>Push/Pull Handle Height: 4.9\"</li>\r\n<li> Door Thickness: 1-3/4\"</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/6500.pdf?v=1774584064\" target=\"new\"><b>Don-Jo 6500 Hospital Latch Dimensions (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Hospital Push / Pull Latch, DJO 4500",
+                "description": "Don-Jo Hospital Push / Pull Latches for installations where both versatility and durability are critical. Ideal for use on hospital and industrial doors, including fire doors, when hands free door opening is required.",
+                "keywords": "DJO-4500, Don-Jo Push Pull Latch, Don Jo Push Pull Latch, don jo hospital latch, school doors, Don-Jo 4500 Hospital Latchsets, Don Jo 4500 Push / Pull Latch, don jo 4500, Hospital door handles, Hospital doors,  DJO-4550, don jo 4550, Don-Jo 4550"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Don-Jo Hospital Push Pull Latches",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "175455",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "175466",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "174671",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "291285",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "1140777",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "71570",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Backset: DJO-4500:  2-3/4in. Backset",
+                "Select Backset: DJO-4550: 5in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DJO-4500:  2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DJO-4550: 5in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

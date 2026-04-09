@@ -1,0 +1,143 @@
+{
+    "legacy_product_id": "589489",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Augustine Cabinet Knob, RK International CK-120",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-120",
+            "mpn": "RKI-CK-120",
+            "price": "16.99",
+            "compare_at_price": "21.34",
+            "contractor_price": "16.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Augustine Ornate Cabinet Knobs",
+                "Augustine Cabinet Knobs",
+                "RK International CK-120",
+                "RKI-CK-120",
+                "ornate cabinet knobs",
+                "ornate cabinet handles",
+                "RK International Augustine collection",
+                "Ornate Augustine Cabinet Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-CK-120-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-CK-120-525.jpg?v=1716424797"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-120, Ornate Augustine Cabinet Knob</b>\r\n\r\n<p>\r\nThe ornate styling of the Augustine Cabinet Knob makes it perfect for adding a point of interest to any small door or drawer. It comes packaged with all the necessary mounting hardware and is easy to install. It has a 1-3/8 inch diameter and is available in 6 finishes.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: <a href=\"/products/augustine-cabinet-pull-rk-international-cp-620\"><b>Augustine Cabinet Pull</b></a> and <a href=\"/products/14-5-8-inch-ornate-door-pull-rk-international-ph-4620\"><b>14-5/8\" Augustine Door Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-120 Augustine Ornate Cabinet Knob:\r\n<ul>\r\n<li>Diameter: 1-3/8\"</li>\r\n<li>Projection: 1-3/16\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Augustine Cabinet Knob",
+                "description": "RK International CK-120, Augustine Cabinet Knob - The ornate styling of the Augustine Cabinet Knob makes it perfect for adding a point of interest to any small door or drawer. It comes packaged with all the necessary mounting hardware and is easy to install. It has a 1-3/8 inch diameter and is available in 6 finishes.",
+                "keywords": "Augustine Ornate Cabinet Knobs, Augustine Cabinet Knobs, RK International CK-120, RKI-CK-120, ornate cabinet knobs, ornate cabinet handles, RK International Augustine collection, Ornate Augustine Cabinet Knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "9"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "42871",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "41759",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "41303",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "564095",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "564918",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "562040",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: AE: Antique English",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: N: Polished Nickel",
+                "Select Finish: VB: Valencia Bronze",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "N: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "VB: Valencia Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "legacy_product_id": "221512",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Cush-N-Stop Arm for LCN 1461, LCN-1460-3077CNS",
+            "vendor": "LCN",
+            "status": "ACTIVE",
+            "sku": "LCN-1460-3077CNS",
+            "mpn": "LCN-1460-3077CNS",
+            "price": "236.3",
+            "compare_at_price": "278.0",
+            "contractor_price": "224.49",
+            "shipping_weight": "4.0",
+            "tags": [
+                "LCN-1460-3077CNS LCN 1461 Cushion Arms",
+                "Heavy Duty Cush-N-Stop Arms",
+                "LCN 1460-3077CNS Door Closer Arms",
+                "Cushion arms",
+                "LCN closer arms",
+                "LCN 14603077CNS"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LCN-1460-3077CNS_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LCN-1460-3077CNS_525.jpg?v=1716422162"
+        },
+        "text": {
+            "description_html": "<b>LCN 1460-3077CNS Heavy Duty Door Saver Arm - Cush-N-Stop Arm</b>\r\n<p>\r\nCush-N-Stop arm for  <a href=\"/products/lcn-1461-commercial-door-closer\"><b>LCN 1461 Door Closers</b></a>. \r\n</p>\r\n<p>\r\n<b>Parallel Arm Mount Only</b>\r\n</p>\r\n\r\n<p>Heavy duty rigid arm assembly and soffit plate with field reversible dead stop. \r\n</p>\r\n<p>\r\n Available in 2 finishes of Aluminum or Dark Bronze .\r\n</p>",
+            "seo": {
+                "title": "Cush-N-Stop Arm for LCN 1461, LCN-1460-3077CNS",
+                "description": "LCN 1460-3077CNS Cush-N-Stop arm for LCN 1460 Series Style Closers. Heavy duty Cushion Arm fits LCN 1461door closer.",
+                "keywords": "LCN-1460-3077CNS LCN 1461 Cushion Arms,  Heavy Duty Cush-N-Stop Arms, LCN 1460-3077CNS Door Closer Arms, Cushion arms, LCN closer arms, LCN 14603077CNS"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closer Parts",
+                    "sort": "24"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "221509",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "221515",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "221485",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 1460-3077CNS-AL: Aluminum",
+                "Select Finish: 1460-3077CNS-DKBRZ: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1460-3077CNS-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1460-3077CNS-DKBRZ: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "legacy_product_id": "1245259",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Dust Proof Strike, Rockwood 570",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "ROC-570",
+            "mpn": "ROC-570",
+            "price": "23.27",
+            "compare_at_price": "23.27",
+            "contractor_price": "23.27",
+            "shipping_weight": "1.0",
+            "tags": [
+                "ROC-570 Dust Proof  Door Bolt Strikes",
+                "Rockwood 570 door bolt strikes. dust proof door strikes",
+                "flush bolt strikes",
+                "door strikes",
+                "adjustable strikes",
+                "door strike plates",
+                "ROC-570-613",
+                "ROC-570-606",
+                "ROC-570-626"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ROC-570--525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ROC-570--525.jpg?v=1769499749"
+        },
+        "text": {
+            "description_html": "<b>Rockwood 570, Dust Proof Strike</b>\r\n\r\n<p>\r\nThe brass 570 Dust Proof Strike, which works with all Rockwood manual and automatic flush bolts, features a removable face plate for use with thresholds and adjustable height for carpeted areas.  Available in Satin Chrome, Satin Brass, and Oil Rubbed Bronze.\r\n</p>\r\n\r\n\r\n\r\n<p>\r\n<b>Specifications</b> for the Rockwood 570-613  Dust Proof Strike:\r\n<ul> \r\n<li>Strike Length: 2-7/8\"</li>\r\n<li>Strike Width: 1-3/8\"</li>\r\n<li>Strike Depth: 2-1/8\"</li>\r\n<li>Strike Hole Diameter: 3/4\"</li>\r\n\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Dust Proof Strike, Rockwood 570",
+                "description": "The brass 570 Dust Proof Strike, which works with all Rockwood manual and automatic flush bolts, features a removable face plate for use with thresholds and adjustable height for carpeted areas.  Available in Satin Chrome, Satin Brass, and Oil Rubbed Bronze.",
+                "keywords": "ROC-570 Dust Proof  Door Bolt Strikes, Rockwood 570 door bolt strikes. dust proof door strikes, flush bolt strikes, door strikes, adjustable strikes, door strike plates, ROC-570-613, ROC-570-606, ROC-570-626"
+            },
+            "specifications": [
+                {
+                    "key": "Strike Length",
+                    "value": "2-7/8\""
+                },
+                {
+                    "key": "Strike Width",
+                    "value": "1-3/8\""
+                },
+                {
+                    "key": "Strike Depth",
+                    "value": "2-1/8\""
+                },
+                {
+                    "key": "Strike Hole Diameter",
+                    "value": "3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Rockwood Accessories",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "161992",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "161967",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "192415",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "192441",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "192438",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Strike Length: 2-7/8\"",
+                "Strike Width: 1-3/8\"",
+                "Strike Depth: 2-1/8\"",
+                "Strike Hole Diameter: 3/4\"",
+                "Select Finish: 626: Satin Chrome",
+                "Select Finish: 606: Satin Brass",
+                "Select Finish: 613: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "606: Satin Brass",
+                    "price_impact": 4.36,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "613: Oil Rubbed Bronze",
+                    "price_impact": 7.54,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

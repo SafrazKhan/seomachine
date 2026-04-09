@@ -1,0 +1,115 @@
+{
+    "legacy_product_id": "638688",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Emtek Rope Lever with Round Rope Rose Keyed Entry in Oil Rubbed Bronze",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-51x1RL",
+            "mpn": "EMT-51x1RL",
+            "price": "142.2",
+            "compare_at_price": "158.0",
+            "contractor_price": "142.2",
+            "shipping_weight": "0.0",
+            "tags": [
+                "Emtek Rope Lever with Round Rope Rose",
+                "EMT-51x1R"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Emtek Rope Lever Keyed Entry with Round Rope Rose, EMT-51x1R</b>\r\n\r\n<p>From Emtek's Classic Brass Collection. Round rope rosette combined with elegantly appointed Rope lever.\r\n</p>\r\n<p>\r\n<b>Features:</b>\r\n<ul>\r\n<li>Adjustable for 1-3/8\" - 1-3/4\" Thick Doors</li>\r\n<li>Standard 2-3/8\" Backset - Optional 2-3/4\" Backset </li>\r\n<li>Strike: Standard Full Lip with Square Corner</li>\r\n<li>Latch:  Standard Square Corner Faceplate</li>\r\n<li>Fits all pre-drilled Doors</li>\r\n<li>Finish: Oil Rubbed Bronze</li>\r\n<li>Handed Levers</li>\r\n<li>Sold as Complete Set</li>\r\n<li>Solid Brass Construction</li>\r\n<li>Easy to Install</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available Functions:</b>\r\n<ul>\r\n<li>Entry Lever: Key on outside, turn button lock on inside.</li>\r\n<li>Dummy Pair: Rigid - For use as a pull or to match trim.</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Emtek Rope Lever with Round Rope Rose Keyed Entry in Oil Rubbed Bronze",
+                "description": "Emtek Rope Lever with Round Rope Rose, EMT-51x1R",
+                "keywords": "Emtek Rope Lever with Round Rope Rose, EMT-51x1R"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Discontinued",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Function: EMT-5151RL - Dummy Pair for Keyed Entry",
+                "Select Function: EMT-5101RL - Keyed Entry",
+                "Select Door Handing & Door Swing: Left Hand Door, Out-swing",
+                "Select Door Handing & Door Swing: Left Hand Door, In-swing",
+                "Select Door Handing & Door Swing: Right Hand Door, Out-swing",
+                "Select Door Handing & Door Swing: Right Hand Door, In-swing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "EMT-5151RL - Dummy Pair for Keyed Entry",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "EMT-5101RL - Keyed Entry",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Door Handing & Door Swing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Left Hand Door, Out-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Left Hand Door, In-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Right Hand Door, Out-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Right Hand Door, In-swing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "legacy_product_id": "194731",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "7-Inch Rustic Scrolled Appliance Pull, Fusion GRB-907",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "GRB-907",
+            "mpn": "GRB-907",
+            "price": "63.0",
+            "compare_at_price": "79.0",
+            "contractor_price": "60.0",
+            "shipping_weight": "2.0",
+            "tags": [
+                "Fusion hardware 7-Inch Rustic Scrolled Appliance Pull",
+                "Fusion GRB-907 rustic  Refrigerator door  pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/GRB-907_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/GRB-907_525.jpg?v=1716421888"
+        },
+        "text": {
+            "description_html": "<b>Fusion GRB-907 7-Inch Rustic Scrolled Cast Brass Refrigerator/Appliance Pulls</b>\r\n<p>This 7 inch appliance pull is <b>solid brass</b> with a very decorative scrolled design made by master casting craftsmen. Fusion hardware famous for their high quality distinctive designs at affordable prices.\r\n</p>\r\n<p>7\" center to center mounting. \r\n<br>Packaged with appliance panel mounting screws. \r\n</p>\r\n<p>Available in your choice of Antique Copper, Antique Pewter, Brushed Nickel, Oil Rubbed Bronze or Polished Brass.\r\n</p>",
+            "seo": {
+                "title": "7-Inch Rustic Scrolled Appliance Pull, Fusion GRB-907",
+                "description": "Fusion GRB-907 7-Inch  Rustic Scrolled Appliance Pulls.  Available in your choice of Antique Copper, Antique Pewter, Brushed Nickel, Oil Rubbed Bronze or Polished Brass.",
+                "keywords": "Fusion hardware 7-Inch Rustic Scrolled Appliance Pull, Fusion GRB-907 rustic  Refrigerator door  pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Push Plates",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Push Plates",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-7",
+            "collections": [
+                {
+                    "name": "Fusion-MISC-Discontinued",
+                    "sort": "37"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: GRB-907-ATC: Antique Copper",
+                "Select Finish: GRB-907-ATP: Antique Pewter",
+                "Select Finish: GRB-907-BRN: Brushed Nickel",
+                "Select Finish: GRB-907-ORB: Oil Rubbed Bronze",
+                "Select Finish: GRB-907-PVD: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GRB-907-ATC: Antique Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRB-907-ATP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRB-907-BRN: Brushed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRB-907-ORB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRB-907-PVD: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

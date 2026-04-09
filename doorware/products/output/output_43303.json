@@ -1,0 +1,173 @@
+{
+    "legacy_product_id": "43303",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "2-1/2 Cabinet Cup Pull, Omnia OMN-9454/64",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9454/64",
+            "mpn": "OMN-9454/64",
+            "price": "23.7",
+            "compare_at_price": "31.6",
+            "contractor_price": "22.52",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Omnia 9454/64 Brass Cabinet Cup Pulls",
+                "omn-9454/64",
+                "solid brass cabinet cup pulls",
+                "solid brass kitchen hardware",
+                "kitchen cupboard handles"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-9454-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-9454-525.jpg?v=1716420860"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9454/64 Solid Brass Cabinet Cup Pull</b>\r\n\r\n<p>\r\nThis solid brass cabinet cup pull is available in 7 finishes. Simple in design, this cup pull is made with the quality that is only to be expected from Omnia. The 2-1/2 Cabinet Cup Pul is for use on kitchen drawers. It is easy to maintain and comes packaged with the mounting hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Omnia 9454/65 Cup Pull:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length (center to center): 2-1/2\"</li>\r\n<li>Width: 3-5/8\"</li>\r\n<li>Height: 1-9/16\"</li>\r\n<li>Projection: 15/16\"</li>\r\n<li>Decorative Faux Screwheads</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "2-1/2 Cabinet Cup Pul",
+                "description": "Omnia 9454/64 Brass Cabinet Cup Pull - This solid brass cabinet cup pull is available in 7 finishes. Simple in design, this cup pull is made with the quality that is only to be expected from Omnia.",
+                "keywords": "Omnia 9454/64 Brass Cabinet Cup Pulls, omn-9454/64, solid brass cabinet cup pulls, solid brass kitchen hardware, kitchen cupboard handles,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length (center to center)",
+                    "value": "2-1/2\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3-5/8\""
+                },
+                {
+                    "key": "Height",
+                    "value": "1-9/16\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "15/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "226"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "192953",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "13284",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "41271",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "41418",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "41482",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length (center to center): 2-1/2\"",
+                "Width: 3-5/8\"",
+                "Height: 1-9/16\"",
+                "Projection: 15/16\"",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: VB: Vintage Brass",
+                "Select Finish: VI: Vintage Iron",
+                "Select Finish: VC: Vintage Copper"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US3"
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 4.58,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US14"
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 4.58,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US15"
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 4.58,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "US10B"
+                },
+                {
+                    "value": "VB: Vintage Brass",
+                    "price_impact": 5.25,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "VB"
+                },
+                {
+                    "value": "VI: Vintage Iron",
+                    "price_impact": 5.25,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "VI"
+                },
+                {
+                    "value": "VC: Vintage Copper",
+                    "price_impact": 5.25,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "VC"
+                }
+            ]
+        }
+    ]
+}

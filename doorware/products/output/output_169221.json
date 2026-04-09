@@ -1,0 +1,182 @@
+{
+    "legacy_product_id": "169221",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "5400 Hager Surface Door Closer Traditional",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "5400",
+            "mpn": "5400",
+            "price": "0.0",
+            "compare_at_price": "65.0",
+            "contractor_price": "0.0",
+            "shipping_weight": "20.0",
+            "tags": [
+                "Hager 5400",
+                "light duty",
+                "commercial",
+                "surface door closer",
+                "traditional",
+                "Grade 2",
+                "Adjustable valving",
+                "Non-handed",
+                "Hardware",
+                "cush-n-stop",
+                "parallel mount"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/5400-525x586.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/5400-525x586.jpg?v=1716421589"
+        },
+        "text": {
+            "description_html": "<b>Hager 5400 Light Duty commercial traditional surface door closer. </b>\r\n<p>\r\nGrade 2.  Adjustable valving. Non-handed. Hardware included.\r\n</p>\r\n<p>\r\n<b>Dimensions: <a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/5400_Install.pdf?v=1704263625\">Specifications Diagram (PDF).</a></b>\r\n</p>\r\n<p>\r\n<b>Certifications:</b> BHMA Certified ANSI A156.4, Grade 2.<br>\r\nUL/cUL listed for up to 3 hours.<br>\r\nUL10C Positive Pressure Rated<br>\r\nUL10B Neutral Pressure Rated<br>\r\n</p>\r\n<p>\r\n<b>Closer Body:</b> Aluminum.\r\n</p>\r\n<p>\r\n<b>Springs:</b>Double heat treated steel, tempered springs.<br>\r\nPrecision machined, heat treated steel piston.<br>\r\nTriple heat treated steel spindle<br>\r\n</p>\r\n<p>\r\n<b>Valves:</b> Adjustable latching and sweep speed valve.<br>\r\n</p>\r\n<p>\r\n<b>Cover:</b>NO COVER is included with this model. It is available seperately if needed, <a href=\"/products/5401-hager-5400-door-closer-cover\">CLICK HERE for this part</a>.\r\n</p>\r\n<p>\r\n<b>Arms & Brackets:</b> Tri-pack, regular arms, top jamb and parallel arm is standard.<br>\r\n15% power adjustment in arm.\r\n</p>\r\n<p>\r\n<b>Fasteners:</b>Self tapping wood and machine screws, sex nuts and bolts are all standard.\r\n</p>\r\n<p>\r\n<b>Door Thickness:</b> 1 3/4 is standard.<br>\r\n1 3/8 - 2\" is optional.\r\n</p>\r\n<p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/5400-chart.jpg?v=1704442264\">\r\n</p>\r\n<p>\r\n</p>",
+            "seo": {
+                "title": "5400 Hager Surface Door Closer Traditional",
+                "description": "Hager 5400 traditonal surface door closer. Grade 2.  Adjustable valving. Non-handed. Hardware included. Since 1849, Hager has been manufaturing the finest commercial products.",
+                "keywords": "Hager 5400, light duty, commercial, surface door closer, traditional, Grade 2, Adjustable valving, Non-handed, Hardware, cush-n-stop, parallel mount,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Hager",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: ALM - Aluminum",
+                "Select Finish: BRZ - Bronze",
+                "Select Finish: DBZ - Dark Bronze",
+                "Select Finish: GOL - Gold",
+                "Choose Size Spec - (Door Closing Force): Size 1 - 2 pounds of closing force, minimum",
+                "Choose Size Spec - (Door Closing Force): Size 2 - 3 pounds of closing force, minimum",
+                "Choose Size Spec - (Door Closing Force): Size 3 - 5 pounds of closing force, minimum",
+                "Choose Size Spec - (Door Closing Force): Size 4 - 8 pounds of closing force, minimum",
+                "Choose Size Spec - (Door Closing Force): Size 5 - 11 pounds of closing force, minimum",
+                "Choose Size Spec - (Door Closing Force): Size 6 - 14 pounds of closing force, minimum",
+                "5400 Custom Option (select only if needed): 5400 - Backcheck Valve"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ALM - Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "ALM"
+                },
+                {
+                    "value": "BRZ - Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "BRZ"
+                },
+                {
+                    "value": "DBZ - Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DBZ"
+                },
+                {
+                    "value": "GOL - Gold",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GOL"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Choose Size Spec - (Door Closing Force)",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Size 1 - 2 pounds of closing force, minimum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Size"
+                },
+                {
+                    "value": "Size 2 - 3 pounds of closing force, minimum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Size"
+                },
+                {
+                    "value": "Size 3 - 5 pounds of closing force, minimum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Size"
+                },
+                {
+                    "value": "Size 4 - 8 pounds of closing force, minimum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Size"
+                },
+                {
+                    "value": "Size 5 - 11 pounds of closing force, minimum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Size"
+                },
+                {
+                    "value": "Size 6 - 14 pounds of closing force, minimum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Size"
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "5400 Custom Option (select only if needed)",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "5400 - Backcheck Valve",
+                    "price_impact": 10.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "5400"
+                }
+            ]
+        }
+    ]
+}

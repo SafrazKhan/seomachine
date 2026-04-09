@@ -1,0 +1,116 @@
+{
+    "legacy_product_id": "947290",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "American Mortise Lock Body, AHI AA1000",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-AA1000",
+            "mpn": "AHI-AA1000",
+            "price": "360.0",
+            "compare_at_price": "400.0",
+            "contractor_price": "304.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Schlage C Series North American Mortise Cylinders",
+                "American Mortise Locks",
+                "AHI-AA1000",
+                "AHI AA1000",
+                "AHI AA1756"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AHI-AA1756-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-AA1756-525.jpg?v=1717106361"
+        },
+        "text": {
+            "description_html": "<b>AHI AA1000 Series American Mortise Lock</b>\r\n\r\n<p>\r\nThis is a Grade 3 North American Mortise Lock body.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the American Mortise Lock:\r\n<ul>\r\n<li>Cylinder: 5 pin Schlage C keyway</li>\r\n<li>UL-LISTED: All locks are UL-listed for 3 hours</li>\r\n<li>Grade: ANSI Grade 3</li>    \r\n<li>Backset: 2-3/4”</li>\r\n<li>C-C (Hub to cylinder): 87 mm</li>\r\n<li>C-C (Hub to turn piece): 57 mm</li>\r\n<li>Hub: 8.0 SQ × 7.3D</li>\r\n<li>Armored front: Brass, 201 × 31× 4mm</li>\r\n<li>Face plate: Stainless steel or brass 203 x 32 x 1.6mm</li>\r\n<li>Latch bolt: 15mm × 17mm/ Brass</li>\r\n<li>Dead bolt: 30mm × 13mm × 25mm/ Brass</li>\r\n<li>Strike plate: 124 x 32 x 2mm/ Stainless steel or Brass</li>\r\n<li>Handing: Lock hand is field reversible</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-AA1756-specifications.pdf?v=1691093352\" target=\"new\"><b>AHI AA1700 Specifications Diagram (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nSpecial Ordered Item. <b>NO RETURNS</b>\r\n</p>",
+            "seo": {
+                "title": "American Mortise Lock Body",
+                "description": "This is an Schlage C Series North American Mortise Lock for use with  AHI American mortise locks.",
+                "keywords": "Schlage C Series North American Mortise Cylinders, American Mortise Locks, AHI-AA1000, AHI AA1000, AHI AA1756"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "AHI Miscellaneous Parts",
+                    "sort": "27"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "193220",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "232931",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "193837",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "330372",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "248979",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Function: AHI-AA1756 - Classroom/Entry",
+                "Select Function: AHI-AA1767 - Entrance /Apartment",
+                "Select Function: AHI-AA1748 - Entrance",
+                "Select Function: AHI-AA1748TG - Entrance Function for Handleset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AHI-AA1756 - Classroom/Entry",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AHI-AA1767 - Entrance /Apartment",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AHI-AA1748 - Entrance ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AHI-AA1748TG - Entrance Function for Handleset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

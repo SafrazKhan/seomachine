@@ -1,0 +1,100 @@
+{
+    "legacy_product_id": "1041218",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Simplex Latch for 7108 Deadbolt, KABA 202064",
+            "vendor": "KABA",
+            "status": "ARCHIVED",
+            "sku": "KABA-202064",
+            "mpn": "KABA-202064",
+            "price": "50.0",
+            "compare_at_price": "50.0",
+            "contractor_price": "50.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Simplex Latch for 7108 Deadbolts",
+                "KABA 202064",
+                "KABA-202064"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/KABA-202064-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/KABA-202064-525.jpg?v=1716427860"
+        },
+        "text": {
+            "description_html": "<b>Simplex 202064 Replacement Latch for 7108 Deadbolt</b>\r\n\r\n<p>\r\nReplacement 2-3/8\" latch for use with <a href=\"/products/simplex-keypad-deadbolt-lock-kaba-710x\">KABA 7100 Series</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> Replacement latch for use with KABA 7100.:\r\n<ul>\r\n<li>Backset: 2-3/8\" </li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Simplex Latch for 7108 Deadbolt",
+                "description": "Replacement 2-3/8 latch for use with KABA 7108 Series",
+                "keywords": "Simplex Latch for 7108 Deadbolts, KABA 202064, KABA-202064"
+            },
+            "specifications": [
+                {
+                    "key": "Backset",
+                    "value": "2-3/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "KABA Accessories",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "269528",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "270028",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "270218",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "270203",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "150080",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "269517",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Backset: 2-3/8\"",
+                "Select Finish: 26D: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

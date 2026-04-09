@@ -1,0 +1,104 @@
+{
+    "legacy_product_id": "1170351",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Adjustable Eco-V Top Threshold, Pemko 250DV",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "PEM-250DV",
+            "mpn": "PEM-250DV",
+            "price": "189.6",
+            "compare_at_price": "189.6",
+            "contractor_price": "189.6",
+            "shipping_weight": "4.0",
+            "tags": [
+                "Adjustable Eco-V Top Thresholds",
+                "Pemko 250_V Adjustable Vinyl Top Thresholds",
+                "PEM-250DV",
+                "Pemko 250_V"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PEM-250-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PEM-250-525.jpg?v=1717106637"
+        },
+        "text": {
+            "description_html": "<b>Pemko 250_V Adjustable Vinyl Top Threshold</b>\r\n\r\n<p>\r\nThis Pemko 250_V Adjustable Eco-V Top Threshold is furnished with weather-sealed mounting screws and adjustment mechanism. Vinyl seal section adjusts to overcome swelling and/or shrinking of door and floor. Vinyl-top creates a seal at the bottom of the door, eliminating the need for door sweeps or door shoes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for Pemko 250 Residential Thresholds:Adjustable Eco-V Top Thresholds:\r\n<ul>\r\n<li>Finish: <b>Dark Anodized</b></li>\r\n<li>Material: Dark Bronze Anodized Aluminum/li>\r\n<li>Height: 7/8\"</li>\r\n<li>Width: 4\"</li>\r\n<li>This threshold is supplied with a Vinyl (\"V\") insert.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special ordred item. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Adjustable Eco-V Top Threshold",
+                "description": "This Pemko 250_V Adjustable Eco-V Top Threshold is furnished with weather-sealed mounting screws and adjustment mechanism. Vinyl seal section adjusts to overcome swelling and/or shrinking of door and floor. Vinyl-top creates a seal at the bottom of the door, eliminating the need for door sweeps or door shoes.",
+                "keywords": "Adjustable Eco-V Top Thresholds, Pemko 250_V Adjustable Vinyl Top Thresholds, PEM-250DV, Pemko 250_V"
+            },
+            "specifications": [
+                {
+                    "key": "Finish",
+                    "value": "Dark Anodized"
+                },
+                {
+                    "key": "Material",
+                    "value": "Dark Bronze Anodized Aluminum/li>"
+                },
+                {
+                    "key": "Height",
+                    "value": "7/8\""
+                },
+                {
+                    "key": "Width",
+                    "value": "4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Pemko",
+                    "sort": "34"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "228975",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1078474",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "303733",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Finish: Dark Anodized",
+                "Material: Dark Bronze Anodized Aluminum/li>",
+                "Height: 7/8\"",
+                "Width: 4\"",
+                "Select Length: PEM-250DV72: 72in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Length",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PEM-250DV72: 72in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

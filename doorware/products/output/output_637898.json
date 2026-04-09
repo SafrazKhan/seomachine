@@ -1,0 +1,132 @@
+{
+    "legacy_product_id": "637898",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin Estates R004 Rose for Dummy, BAL-R004xxxIDM",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-R004xxxIDM",
+            "mpn": "BAL-R004xxxIDM",
+            "price": "36.0",
+            "compare_at_price": "45.0",
+            "contractor_price": "36.0",
+            "shipping_weight": "0.25",
+            "tags": [
+                "Baldwin Estates R004 Rose for Dummy",
+                "BAL-R004xxxIDM"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/special_order-19543.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/special_order-19543.jpg?v=1716425083"
+        },
+        "text": {
+            "description_html": "<b>Baldwin Estates R004 Rose for Dummy, BAL-R004xxxIDM</b><p>Individual rose and surface mounted dummy spindle for single dummy application.</p>",
+            "seo": {
+                "title": "Baldwin Estates R004 Rose for Dummy, BAL-R004xxxIDM",
+                "description": "Baldwin Estates R004 Rose for Dummy, BAL-R004xxxIDM",
+                "keywords": "Baldwin Estates R004 Rose for Dummy, BAL-R004xxxIDM"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Discontinued",
+                    "sort": "172"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: 102: Oil Rubbed Bronze",
+                "Select Finish: 260: Polished Chrome",
+                "Select Finish: 264: Satin Chrome",
+                "Select Finish: 150: Satin Nickel",
+                "Select Finish: 151: Antique Nickel",
+                "Select Finish: 112: Venetian Bronze",
+                "Select Finish: 003: PVD Polished Brass",
+                "Select Finish: 055: PVD Polished Nickel",
+                "Select Finish: 056: PVD Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "102: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "260: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "264: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "150: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "151: Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "112: Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "003: PVD Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "055: PVD Polished Nickel",
+                    "price_impact": 6.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "056: PVD Satin Nickel",
+                    "price_impact": 6.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

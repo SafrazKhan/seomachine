@@ -1,0 +1,114 @@
+{
+    "legacy_product_id": "165153",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T16:09:59.803337"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Deltana Door Closer Sex Bolts, DCSB175",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-DCSB175",
+            "mpn": "DEL-DCSB175",
+            "price": "8.72",
+            "compare_at_price": "11.62",
+            "contractor_price": "8.28",
+            "shipping_weight": "0.25",
+            "tags": [
+                "DCSB175",
+                "Deltana DC40 Sex Bolts for door closers",
+                "sex nut",
+                "sleeve bolt",
+                "DEL-DCSB175 door closer screws",
+                "deltana door closers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-DCSB175-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-DCSB175-525.jpg?v=1716421566"
+        },
+        "text": {
+            "description_html": "<b>DCSB175 Deltana Sex Bolt for Door Closer.</b>\r\n\r\n<p>\r\nUse with  <a href=\"/collections/deltana-door-closers\">Deltana Door Closers.</a> Maximum extension: 2-1/4\". Available in 3 finishes to match your door closer. <b>Package includes (4) sex nuts and screws.</b>\r\n</p>\r\n\r\n<p align=\"center\">\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-DCSB175-specifications.gif?v=1704354771\" width=\"510\" height=\"176\" border=\"0\" alt=\"DEL DCSB175 Specifications\">\r\n</p>\r\n\r\n<p>\r\n<i>Sold 4 Pack. </i>\r\n</p>",
+            "seo": {
+                "title": "Deltana Door Closer Sex Bolts, DCSB175",
+                "description": "DCSB175 Deltana Sex Bolt for Deltana Door Closers including the DC40. Maximum extension: 2 1/4.",
+                "keywords": "DCSB175, Deltana DC40 Sex Bolts for door closers, sex nut, sleeve bolt, DEL-DCSB175 door closer screws, deltana door closers,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Deltana Door Closers",
+                    "sort": "20"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "233110",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "165160",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "165179",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "285720",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "165190",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "165216",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: AL: Aluminum",
+                "Select Finish: DURO: Dark Bronze",
+                "Select Finish: GOLD: Gold Paint"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "DCSB175-AL"
+                },
+                {
+                    "value": "DURO: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GOLD: Gold Paint",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "legacy_product_id": "222609",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Storeroom Lever for Panic Device, Global TH1100-LHST",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-TH1100-LHST",
+            "mpn": "GLO-TH1100-LHST",
+            "price": "87.34",
+            "compare_at_price": "127.01",
+            "contractor_price": "80.01",
+            "shipping_weight": "3.5",
+            "tags": [
+                "GLO-TH1100-LHST Panic Device Outside Levers",
+                "Storeroom Lever for Panic Device",
+                "Global TH1100-LHST storeroom function touch bar levers",
+                "Global Series TH1100EDTBAR outside trim"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/TH1100-LHST-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/TH1100-LHST-525.jpg?v=1716422171"
+        },
+        "text": {
+            "description_html": "<b>Storeroom Function Lever for Global Series TH1100EDTBAR</b>\r\n<p>\r\nThis is a Storeroom Function Lever (lever is fixed, entry by key only) for Global <a href=\"/products/30-to-36-inch-wide-door-touch-bar-rim-exit-device-th1100edtbar\"><b>TH1100EDTBAR Touch Bar Rim Exit Devices</b></a> and other manufactures <a href=\"/collections/panic-devices\"><b>Panic Devices</b></a>.\r\n</p>\r\n<p>\r\nPackaged with mounting hardware, instructions, and 2 keys.\r\n</p>\r\n<p>\r\nWill fit a standard 2-1/8\" bore hole. Removable studs so it works with doors prepared with and with out commercial thru-bolt holes.\r\n</p>\r\n<p>\r\n<b>Features</b> for Global TH1100-LHST Storeroom Function Lever\r\n<ul>\r\n<li>Function: Storeroom - Entry by turning key. Key does NOT unlock the lever. Key unlatches the exit device when turned so you can open the door from the outside. </li>\r\n<li>Rosette Diameter: 3-1/8\"</li>\r\n<li>Lever Length: 5\"</li>\r\n<li>Lever Projection: 2-3/4\"</li>\r\n<li>Finish: <b>Satin Chrome</b> or <b>Dark Bronze</b></li>\r\n<li>Non Handed</li>\r\n<li>Fits standard door preps</li>\r\n<li>Standard Schlage \"C\" Keyway</li>\r\n<li>Supplied with 2 keys</li>\r\n<li>ADA Compliant</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/handicap-logo.jpg?v=1704353001\" width=\"100\" height=\"98\" border=\"0\" alt=\"ADA Compliant Handicap Logo\">\r\n</p>",
+            "seo": {
+                "title": "Storeroom Lever for Panic Device, Global TH1100-LHST",
+                "description": "Global TH1100-LHST This is a Storeroom Function Lever (lever is fixed, entry by key only) for Global TH1100EDTBAR Touch Bar Rim Exit Devices. Packaged with mounting hardware, instructions, and 2 keys.",
+                "keywords": "GLO-TH1100-LHST Panic Device Outside Levers, Storeroom Lever for Panic Device, Global TH1100-LHST storeroom function touch bar levers, Global Series TH1100EDTBAR outside trim,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Global Panic Hardware",
+                    "sort": "30"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "248628",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "222660",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "246787",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "251183",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "250992",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "250724",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "197367",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "247325",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "250676",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: TH1100-LHST-626: Satin Chrome",
+                "Select Finish: TH1100-LHST-DU: Dark Bronze",
+                "Keying: I only ordered one",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "TH1100-LHST-626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TH1100-LHST-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I only ordered one",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

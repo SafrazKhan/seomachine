@@ -1,0 +1,159 @@
+{
+    "legacy_product_id": "227787",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Full Lip Strike Plate Square Corners, Schlage 10026",
+            "vendor": "Schlage",
+            "status": "ACTIVE",
+            "sku": "SCH-10026",
+            "mpn": "SCH-10026",
+            "price": "11.2",
+            "compare_at_price": "11.2",
+            "contractor_price": "11.2",
+            "shipping_weight": "0.1",
+            "tags": [
+                "SCH-10026 Full Lip Door Strikes",
+                "Schlage 10026 Door strikes",
+                "square corner strike plates",
+                "strike plates",
+                "Schlage F-series door strike plate",
+                "Schlage Full Lip Strike Plate Square Corners"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/SCH-10026-strike-plate_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/SCH-10026-strike-plate_525.jpg?v=1716422199"
+        },
+        "text": {
+            "description_html": "<b>Schlage 10026 Full Lip Strike Plate with Square Corners</b>\r\n<p>For use with <a href=\"/collections/schlage-f-series\"><b>Schlage F-Series</b></a>  door knobs, levers and handlesets. \r\n</p>\r\n<p>\r\nAlso available: <a href=\"/products/full-lip-strike-plate-round-corners-schlage-10027\"><b>Schlage Round Corner Strike Plate</b></a>\r\n</p>\r\n<p><b>Specifications</b> of Schlage 10026 Full Lip Strike Plate\r\n<ul>\r\n<li>Height: 2-1/4\"</li>\r\n<li>Strike Lip Length: 1-1/4\"</li>\r\n<li>Strike Type: Full Lip</li>\r\n<li>Corner Type: Square Corner</li>\r\n<li>Material: Brass</li>\r\n</ul>\r\n</p>\r\n<p>\r\nPackaged with 2 matching finish screws.\r\n</p>",
+            "seo": {
+                "title": "Full Lip Strike Plate Square Corners, Schlage 10026",
+                "description": "Schlage 10026 Full Lip Strike Plate with Square Corners. For use with Schlage F-Series and Schlage Accents Series door knobs, levers and handlesets. ",
+                "keywords": "SCH-10026 Full Lip Door Strikes, Schlage 10026 Door strikes, square corner strike plates, strike plates, Schlage F-series door strike plate, Schlage Full Lip Strike Plate Square Corners"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "2-1/4\""
+                },
+                {
+                    "key": "Strike Lip Length",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Strike Type",
+                    "value": "Full Lip"
+                },
+                {
+                    "key": "Corner Type",
+                    "value": "Square Corner"
+                },
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "29"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "610838",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "874754",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "435629",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "955029",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "410726",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Height: 2-1/4\"",
+                "Strike Lip Length: 1-1/4\"",
+                "Strike Type: Full Lip",
+                "Corner Type: Square Corner",
+                "Material: Brass",
+                "Select Finish: 605: Bright Brass",
+                "Select Finish: 609: Antique Brass",
+                "Select Finish: 613: Oil Rubbed Bronze",
+                "Select Finish: 619: Satin Nickel",
+                "Select Finish: 620: Antique Pewter",
+                "Select Finish: 626: Satin Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "605: Bright Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "609: Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "613: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "619: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "620: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

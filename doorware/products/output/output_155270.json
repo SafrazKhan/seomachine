@@ -1,0 +1,158 @@
+{
+    "legacy_product_id": "155270",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Manchester Door Lever Trim Kit, DoralLock TK6201",
+            "vendor": "Doralock",
+            "status": "ARCHIVED",
+            "sku": "DOR-TK6201",
+            "mpn": "DOR-TK6201",
+            "price": "20.0",
+            "compare_at_price": "20.0",
+            "contractor_price": "20.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Dorallock TK6201",
+                "DOR-TK6201",
+                "Manchester Trim Kits",
+                "Manchester inside lever replacements",
+                "Manchester lever Trim Kits",
+                "Manchester lever Trim Kits",
+                "dorallock Manchester levers",
+                "doral lock Manchester levers",
+                "dorallock tk6201 manchester lever TrimKits",
+                "handover handleset lever replacements",
+                "montego handleset lever replacements"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/dorallock-manchester.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/dorallock-manchester.jpg?v=1716421474"
+        },
+        "text": {
+            "description_html": "<b>DoralLock TK6201, Manchester Lever Trim Kit for Handlesets</b>\r\n\r\n<p>\r\nMade with the styling of traditional décor, DoralLock's Manchester Lever Trim Kit exemplifies how simple, classic designs can be truly beautiful. This traditional lever is made out of solid brass and is available in 7 finishes. The Manchester Lever Inside Trim Kit used with the DoralLock <a href=\"/products/hanover-single-cylinder-handleset-dorallock-803871b\">Hanover Handleset</a> and the <a href=\"/products/single-cylinder-montego-handleset-dorallock-810871\">Montego Handleset</a>. This is an replacement inside handle kit for these handelsets only as it is just the lever and rosette.\r\n</p>\r\n\r\n<p>\r\nClick here or a complete <a href=\"/products/solid-brass-manchester-lever-dorallock-6200\">Manchester Lever Set</a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the DoralLock TK6201 Manchester Lever Trim Kit:\r\n<li>Lever Length: 5\"</li>\r\n<li>Projection: 2-/12\"</li>\r\n<li>Rose Diameter: 2-1/2\"</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DOR-TK6201-specifications.pdf?v=1704262207\" target=\"new\"><b>DoralLock TK6201 Manchester Trim Kit (PDF)</b></a>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Manchester Door Lever Trim Kit, DoralLock TK6201",
+                "description": "Dorallock TK6201 Manchester Lever Trim Kit - Made with the styling of traditional décor, DoralLock's Manchester Lever Trim Kit exemplifies how simple, classic designs can be truly beautiful. This traditional lever is made out of solid brass and is available in 7 finishes. The Manchester Lever Inside Trim Kit used with the DoralLock Hanover Handleset and the Montego Handleset. This is an replacement inside handle kit for these handelsets only as it is just the lever and rosette.",
+                "keywords": "Dorallock TK6201, DOR-TK6201, Manchester Trim Kits, Manchester inside lever replacements, Manchester lever Trim Kits, Manchester lever Trim Kits, dorallock Manchester levers, doral lock Manchester levers, dorallock tk6201 manchester lever TrimKits, handover handleset lever replacements, montego handleset lever replacements,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "DoralLock Discontinued Misc",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "234661",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "304259",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "27104",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "27128",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "172953",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "326018",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "354247",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "200564",
+                    "sort": "8"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US10B - Oil Rubbed Bronze",
+                "Select Finish: US15 - Satin Nickel",
+                "Select Finish: US15A - Antique Nickel",
+                "Select Finish: US26 - Polished Chrome",
+                "Select Finish: US26D - Brushed Chrome",
+                "Select Finish: US5 - Antique Brass",
+                "Select Finish: CR003- PVD Lifetime Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15A - Antique Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26D - Brushed Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US5 - Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CR003- PVD Lifetime Polished Brass",
+                    "price_impact": 0.3,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

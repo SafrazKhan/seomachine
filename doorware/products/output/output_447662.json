@@ -1,0 +1,165 @@
+{
+    "legacy_product_id": "447662",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "54 x 1-1/2 Inch Diameter Door Pull, First Impressions 8412/54-40CTC-US32D",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "8412/54-40CTC-US32D",
+            "mpn": "8412/54-40CTC-US32D",
+            "price": "464.0",
+            "compare_at_price": "629.5",
+            "contractor_price": "464.0",
+            "shipping_weight": "10.0",
+            "tags": [],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>54\" x 1-1/2\" Diameter Satin Stainless Door Pull</b>\r\n<p>\r\n<b>Specifications</b> of First Impressions 8412/54-40CTC-US32D Door Pull\r\n<ul>\r\n<li>Total Length: 54\" </li>\r\n<li>Mounting Centers: 40\" Center to Center </li>\r\n<li>Pull Diameter: 1-1/2\"</li>\r\n<li>Material: Stainless Steel Tubing</li>\r\n<li>Finish: <b>Satin Stainless Steel </b></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Sold individually</b>. \r\n</p>\r\n<p>\r\n*This item is <b>Made to Order (as per spec sheet emailed on 9/11/12) and is NOT Returnable.</b> Please allow 3-4 weeks to ship.\r\n</p>",
+            "seo": {
+                "title": "54 x 1-1/2 Inch Diameter Door Pull, First Impressions 8412/54-40CTC-US32D",
+                "description": "",
+                "keywords": ""
+            },
+            "specifications": [
+                {
+                    "key": "Total Length",
+                    "value": "54\""
+                },
+                {
+                    "key": "Mounting Centers",
+                    "value": "40\" Center to Center"
+                },
+                {
+                    "key": "Pull Diameter",
+                    "value": "1-1/2\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Stainless Steel Tubing"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Satin Stainless Steel"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Custom-Misc-Items",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Total Length: 54\"",
+                "Mounting Centers: 40\" Center to Center",
+                "Pull Diameter: 1-1/2\"",
+                "Material: Stainless Steel Tubing",
+                "Finish: Satin Stainless Steel",
+                "Select Door Thickness Range: 1/4in. to 1/2in.",
+                "Select Door Thickness Range: 5/8in. to 1in.",
+                "Select Door Thickness Range: 1-1/8in. to 1-1/2in.",
+                "Select Door Thickness Range: 1-5/8in. to 2in.",
+                "Select Door Thickness Range: 2-1/8 to 2-1/2in.",
+                "Select Door Thickness Range: 2-5/8in. to 3in.",
+                "Select Mounting Choice: Thrubolt Mounted",
+                "Select Mounting Choice: Surface Mounted",
+                "Select Mounting Choice: Back to Back Mounted (Requires 2 Pulls)"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Door Thickness Range",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "1/4in. to 1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "5/8in. to 1in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-1/8in. to 1-1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "1-5/8in. to 2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-1/8 to 2-1/2in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-5/8in. to 3in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Mounting Choice",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Thrubolt Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Thrubolt"
+                },
+                {
+                    "value": "Surface Mounted",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Surface"
+                },
+                {
+                    "value": "Back to Back Mounted (Requires 2 Pulls)",
+                    "price_impact": 32.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Back"
+                }
+            ]
+        }
+    ]
+}

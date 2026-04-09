@@ -1,0 +1,99 @@
+{
+    "legacy_product_id": "928116",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "ILCO 1 Inch Mortise Cylinder with Schlage Keyway, Adams Rite 7165SC2",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "ADA-7165SC2",
+            "mpn": "ADA-7165SC2",
+            "price": "18.0",
+            "compare_at_price": "18.0",
+            "contractor_price": "18.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "5 pin Schlage Key Ilco 1 inch Mortise Cylinders",
+                "ILCO 1 Inch Mortise Cylinder with Schlage Keyway",
+                "ADA-7165SC2",
+                "Adams Rite 7165SC2"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ADA-7165SC2-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ADA-7165SC2-525.jpg?v=1716426925"
+        },
+        "text": {
+            "description_html": "<b>ILCO 1 Inch Mortise Cylinder with Schlage Keyway</b>\r\n\r\n<p>\r\n1\" length mortise cylinder with a 5-pin Schlage C keyway. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b> for 7165SC2 1\" Mortise Lock Cylinder:\r\n<ul>\r\n<li>Keyed Mortise Cylinder (threaded to screw into mortise lock body)</li>\r\n<li>Key Cylinder 5-pin Schlage \"C\" Keyway</li>\r\n<li>Cylinder Length: 1\"</li>\r\n<li>Cam: Adams Rite</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Sold Individually</b>\r\n</p>",
+            "seo": {
+                "title": "ILCO 1 Inch Mortise Cylinder with Schlage Keyway",
+                "description": "1 inch length mortise cylinder with a 5-pin Schlage C keyway.",
+                "keywords": "5 pin Schlage Key Ilco 1 inch Mortise Cylinders, ILCO 1 Inch Mortise Cylinder with Schlage Keyway, ADA-7165SC2, Adams Rite 7165SC2,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Adams Rite",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "184782",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "193377",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "184797",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "269127",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "184801",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 26D - Satin Chrome",
+                "Select Finish: 32D - Satin Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "26D - Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "32D - Satin Stainless Steel",
+                    "price_impact": 2.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

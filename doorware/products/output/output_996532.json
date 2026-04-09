@@ -1,0 +1,67 @@
+{
+    "legacy_product_id": "996532",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Deadbolt Standard Strike Box, Schlage B520-283",
+            "vendor": "Schlage",
+            "status": "ARCHIVED",
+            "sku": "SCH-B520-283",
+            "mpn": "SCH-B520-283",
+            "price": "4.0",
+            "compare_at_price": "4.0",
+            "contractor_price": "4.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Schlage Deadbolt Standard Strike Boxes"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52590.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52590.gif?v=1717790768"
+        },
+        "text": {
+            "description_html": "<b>Schlage B520-283 Deadbolt Standard Strike Box</b>\r\n\r\n<p>\r\nThis is a black plastic dust box for Schlage deadbolts. \r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>NO RETURNS</b></i>\r\n</p>",
+            "seo": {
+                "title": "Schlage Deadbolt Standard Strike Box",
+                "description": "This is a black plastic dust box for Schlage deadbolts.",
+                "keywords": "Schlage Deadbolt Standard Strike Boxes,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Schlage Parts",
+                    "sort": "100"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "760835",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "51978",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "310445",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "9213",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

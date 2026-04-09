@@ -1,0 +1,148 @@
+{
+    "legacy_product_id": "937663",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "1-3/16 Inch Decorative Reed Rosette, First Impressions BST01001R",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-BST01001R",
+            "mpn": "FII-BST01001R",
+            "price": "17.6",
+            "compare_at_price": "22.0",
+            "contractor_price": "16.72",
+            "shipping_weight": "0.3",
+            "tags": [
+                "FII-BST01001R",
+                "1-3/16 Inch Decorative Reed Rosette"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BST01001RAGB-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BST01001RAGB-525.jpg?v=1716426982"
+        },
+        "text": {
+            "description_html": "<b>First Impressions BST01001R, Decorative Round Reed Rosette</b>\r\n\r\n<p>\r\nThis small 1-3/16\" round rosette can be added to door pulls or cabinet knobs to make them even more dramatic and decorative. \r\n</p>\r\n\r\n<p>\r\nAvailable in many different finishes to compliment and match your door pulls. The highly detailed design is impeccably crafted from solid forged brass. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the First Impressions BST01001R Boston Reed Rosette:\r\n<ul>\r\n<li>Material: Solid Forged Brass</li>\r\n<li>Overall Diameter: 1-3/16\"</li>\r\n<li>Inside Hole Diameter: 3/8\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nA door pull typically has at least two mounting points, so you need to order a rosette for each mount point.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "Large Decorative Reed Rosette",
+                "description": "This large 1-3/16 inch round rosette can be added to door pulls to make them even more dramatic and decorative. Available in many different finishes to compliment and match your door pulls, the highly detailed design of the Large Decorative Reed Rosette is impeccably crafted from solid forged brass.",
+                "keywords": "FII-BST01001R, 1-3/16 Inch Decorative Reed Rosette,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Solid Forged Brass"
+                },
+                {
+                    "key": "Overall Diameter",
+                    "value": "1-3/16\""
+                },
+                {
+                    "key": "Inside Hole Diameter",
+                    "value": "3/8\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Custom-Misc-Items",
+                    "sort": "120"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Material: Solid Forged Brass",
+                "Overall Diameter: 1-3/16\"",
+                "Inside Hole Diameter: 3/8\"",
+                "Select Finish: PLB - Polished Brass",
+                "Select Finish: SNB - Satin Brass",
+                "Select Finish: ATB - Antique Brass",
+                "Select Finish: AGB - Aged Brass",
+                "Select Finish: SNN - Satin Nickel",
+                "Select Finish: PLC - Polished Chrome",
+                "Select Finish: ORB - Oil Rubbed Bronze",
+                "Select Finish: MBK - Matte Black",
+                "Select Finish: DBZ - Duro Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PLB - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SNB - Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ATB - Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AGB - Aged Brass",
+                    "price_impact": 36.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SNN - Satin Nickel ",
+                    "price_impact": 36.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PLC - Polished Chrome",
+                    "price_impact": 36.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ORB - Oil Rubbed Bronze",
+                    "price_impact": 36.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "MBK - Matte Black ",
+                    "price_impact": 36.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DBZ - Duro Bronze",
+                    "price_impact": 36.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

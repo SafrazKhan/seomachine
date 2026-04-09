@@ -1,0 +1,140 @@
+{
+    "legacy_product_id": "937547",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Emtek Deadbolt Latch, Emtek LC4-DBLTCH2",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-LC4-DBLTCH2",
+            "mpn": "EMT-LC4-DBLTCH2",
+            "price": "17.99",
+            "compare_at_price": "17.99",
+            "contractor_price": "17.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "EMT-LC4-DBLTCH2 Emtek Deadbolt Latch",
+                "Emtek 2 3/4 dead bolts",
+                "Emtek Deadbolt Latches",
+                "fusion door bolts",
+                "Emtek 2 3/8 dead bolts",
+                "Emtek Deadbolts"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/emtek-deadbolt-latch-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/emtek-deadbolt-latch-525.jpg?v=1716426979"
+        },
+        "text": {
+            "description_html": "<b>Emtek Deadbolt Latch</b>\r\n<p>For use with <a href=\"/collections/emtek-deadbolts\"><b>Emtek Deadbolt Locks</b></a> and <a href=\"/collections/emtek-tubular-handlesets\"><b>Emtek Entry Lock Sets</b></a>.\r\n\r\n</p>\r\n\r\n</p>\r\n<p>Available  in 2-3/8\" or 2-3/4\" backsets.\r\n</p>\r\n<p>\r\nDoor bolt only with Square Corner Face Plate. Does NOT include the strike plate or screws. \r\n</p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Emtek Deadbolt Latch",
+                "description": "For use with Emtek Deadbolt locks and Emtek Entry Lock Sets. Available  in 2-3/8 or 2-3/4 inch  backsets.",
+                "keywords": "EMT-LC4-DBLTCH2 Emtek Deadbolt Latch, Emtek 2 3/4 dead bolts, Emtek Deadbolt Latches, fusion door bolts, Emtek 2 3/8 dead bolts, Emtek Deadbolts,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "978840",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1002383",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "278370",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US3: Polished Brass",
+                "Select Backset: 2-3/8in. Backset",
+                "Select Backset: 2-3/4in. Backset"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

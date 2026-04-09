@@ -1,0 +1,106 @@
+{
+    "legacy_product_id": "631016",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "River Rock Round Mount Toilet Paper Holder, Fusion PH-A6",
+            "vendor": "Fusion",
+            "status": "ARCHIVED",
+            "sku": "FUS-PH-A6",
+            "mpn": "FUS-PH-A6",
+            "price": "109.0",
+            "compare_at_price": "109.0",
+            "contractor_price": "81.75",
+            "shipping_weight": "4.0",
+            "tags": [
+                "FUS-PH-A6",
+                "Bronze Round Radius Toilet Paper Holders",
+                "River Rock Round Mount Toilet Paper Holders",
+                "Fusion PH-A6",
+                "Bronze River Rock Wall Mounted Toilet Tissue Holders",
+                "toilet paper holders",
+                "toilet paper roll holders",
+                "bathroom accessories",
+                "traditional bathroom toilet paper holders",
+                "classic bathroom toilet paper holders",
+                "toilet tissue holders"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/FUS-PH-A6-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/FUS-PH-A6-525.jpg?v=1711365516"
+        },
+        "text": {
+            "description_html": "<b>Fusion PH-A6, Bronze River Rock Wall Mounted Toilet Tissue Holder</b>\r\n\r\n<p>\r\nThe River Rock Round Mount Toilet Paper Holder is a great example of the beauty of the simplistic. The rich luster of this bronze toilet tissue holder is only enhanced by the two available finishes. Choose from either dark bronze or medium bronze finishes. A wall mounted toilet paper holder, the Fusion made PH-A6 is easy to install and comes with all the necessary mounting hardware.\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: \r\n<a href=\"/products/bronze-river-rock-rope-hook-with-round-mount-fusion-rh-a6\"><b>Fusion RH-A6 Bronze River Rock Robe Hook</b></a>, <a href=\"/products/round-mount-bronze-towel-bar-fusion-tb-a6\"><b>Fusion TB-A6 Bronze River Rock Towel Bar</b></a>, and <a href=\"/products/round-mount-river-rock-towel-ring-fusion-tr-a6\"><b>Fusion TR-A6 Bronze River Rock Towel Ring</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Fusion Bronze Round Radius Toilet Paper Holder:\r\n<ul>\r\n<li>Mount Diameter: 3\"</li>\r\n<li>Reversible to hang in either direction.</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "River Rock Round Mount Toilet Paper Holder, Fusion PH-A6",
+                "description": "Fusion PH-A6, River Rock Round Mount Toilet Paper Holder - The River Rock Round Mount Toilet Paper Holder is a great example of the beauty of the simplistic. The rich luster of this bronze toilet tissue holder is only enhanced by the two available finishes. Choose from either dark bronze or medium bronze finishes. A wall mounted toilet paper holder, the Fusion made PH-A6 is easy to install and comes with all the necessary mounting hardware.",
+                "keywords": "FUS-PH-A6, Bronze Round Radius Toilet Paper Holders, River Rock Round Mount Toilet Paper Holders, Fusion PH-A6, Bronze River Rock Wall Mounted Toilet Tissue Holders, toilet paper holders, toilet paper roll holders, bathroom accessories, traditional bathroom toilet paper holders, classic bathroom toilet paper holders, toilet tissue holders,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Fusion Bathroom Accessories",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "187079",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "31431",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "304229",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "33080",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "384850",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: MXB - Medium Bronze",
+                "Select Finish: DKB - Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "MXB - Medium Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DKB - Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

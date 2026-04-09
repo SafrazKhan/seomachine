@@ -1,0 +1,160 @@
+{
+    "legacy_product_id": "653206",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Churchill Solid Brass Knocker, Brass Accents A03-K4020",
+            "vendor": "BrassAccents",
+            "status": "ACTIVE",
+            "sku": "BRA-A03-K4020",
+            "mpn": "BRA-A03-K4020",
+            "price": "46.99",
+            "compare_at_price": "58.0",
+            "contractor_price": "44.08",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Churchill Front Door Knockers",
+                "Brass Accents A03-K4020",
+                "Churchill Solid Brass Knockers",
+                "BRA-A03-K4020",
+                "historical building decorating",
+                "traditional home decorating",
+                "colonial america decor",
+                "engravable door knockers",
+                "family name door knockers",
+                "Churchill Knockers",
+                "Churchill Door Knockers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BRA-A03-K4020-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BRA-A03-K4020-525.jpg?v=1716425173"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents A03-K4020, Churchill Knocker</b>\r\n\r\n<p>\r\nThe Churchill Solid Brass Knocker is available in a wide array of finishes including polished brass, satin nickel, and oil rubbed bronze. A traditional door knocker, it has old-world charm. The the Churchill front door knocker is 6-3/4 inches long and 3-3/4 inches wide. \r\n</p>\r\n\r\n<p>\r\nBrass Accents provides distinctive craftsmanship with old-world tradition for a lifetime of elegance. Their products are hand finished in the USA. They are one of the world's leading crafters of cast-brass and hot-forged decorative brass hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Churchill Door Knocker:\r\n<ul>\r\n<li>Height: 6-3/4\"</li>\r\n<li>Width: 3-3/4\"</li>\r\n<li>Mounting Center: 3-5/8\"</li>\r\n<li>Projection: 5/8\"</li>\r\n<li>Material: Solid Brass</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nNo matter which finish you choose for the outside, it will still be solid brass material inside.\r\n</p>",
+            "seo": {
+                "title": "Churchill Solid Brass Knocker, Brass Accents A03-K4020",
+                "description": "Brass Accents A03-K4020, Churchill Solid Brass Knocker - The Churchill Solid Brass Knocker is available in a wide array of finishes including polished brass, satin nickel, and oil rubbed bronze. A traditional door knocker, it has old-world charm. The the Churchill front door knocker is 6-3/4 inches long and 3-3/4 inches wide.",
+                "keywords": "Churchill Front Door Knockers, Brass Accents A03-K4020, Churchill Solid Brass Knockers, BRA-A03-K4020, historical building decorating, traditional home decorating, colonial america decor, engravable door knockers, family name door knockers, Churchill Knockers, Churchill Door Knockers,"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "6-3/4\""
+                },
+                {
+                    "key": "Width",
+                    "value": "3-3/4\""
+                },
+                {
+                    "key": "Mounting Center",
+                    "value": "3-5/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "5/8\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Solid Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knockers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knockers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-6",
+            "collections": [
+                {
+                    "name": "Brass Accents Door Knockers",
+                    "sort": "22"
+                },
+                {
+                    "name": "Door Knockers",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "156724",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "477179",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "195685",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "355579",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "447212",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "573514",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "29821",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Height: 6-3/4\"",
+                "Width: 3-3/4\"",
+                "Mounting Center: 3-5/8\"",
+                "Projection: 5/8\"",
+                "Material: Solid Brass",
+                "Select Finish: Polished Brass",
+                "Select Finish: Antique Brass",
+                "Select Finish: Oil Rubbed Bronze",
+                "Select Finish: Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

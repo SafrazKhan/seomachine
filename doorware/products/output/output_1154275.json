@@ -1,0 +1,51 @@
+{
+    "legacy_product_id": "1154275",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "SMARTair Emergency Battery Cable, Mul-T-Lock SMA-KIT-EMERG",
+            "vendor": "Mul-T-Lock",
+            "status": "ARCHIVED",
+            "sku": "MTL-SMA-KIT-EMERG",
+            "mpn": "MTL-SMA-KIT-EMERG",
+            "price": "219.0",
+            "compare_at_price": "219.0",
+            "contractor_price": "219.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "SMARTair Emergency Power Cables",
+                "Mul-T-Lock SMA-KIT-EMERG"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MTL-SMA-KIT-EMERG-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MTL-SMA-KIT-EMERG-525.jpg?v=1717791403"
+        },
+        "text": {
+            "description_html": "<b>Mul-T-Lock SMA-KIT-EMERG, SMARTair Emergency Power Cable</b>\r\n\r\n<p>\r\nThe emergency power cable is used to allow the opening of a door SMARTair access controlled door when the batteries are depleted.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "SMARTair Emergency Battery Cable",
+                "description": "The emergency power cable is used to allow the opening of a door SMARTair access controlled door when the batteries are depleted.",
+                "keywords": "SMARTair Emergency Power Cables, Mul-T-Lock SMA-KIT-EMERG,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Mul-T-Lock SMARTair",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

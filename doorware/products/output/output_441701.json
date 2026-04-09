@@ -1,0 +1,102 @@
+{
+    "legacy_product_id": "441701",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Hand Painted Sea Grass Cabinet Knob, Acorn PSFYP",
+            "vendor": "Acorn",
+            "status": "ARCHIVED",
+            "sku": "ACO-PSFYP",
+            "mpn": "ACO-PSFYP",
+            "price": "15.48",
+            "compare_at_price": "19.35",
+            "contractor_price": "14.71",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Hand Painted Sea Grass Cabinet Knob",
+                "Acorn PSFYP",
+                "acorn hand painted ceramic cabinet knobs",
+                "Hand Painted Sea Grass Ceramic Cabinet Knobs",
+                "Acorn PSHYP",
+                "Black and White Sea Grass Small Square Ceramic Knobs",
+                "Light Green and Teal Sea Grass Small Square Ceramic Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/ACO-PSFYP-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-PSFYP-525.jpg?v=1716424018"
+        },
+        "text": {
+            "description_html": "<b>Acorn PSFYP, Hand Painted Sea Grass Ceramic Cabinet Knob</b>\r\n\r\n<p>\r\nA beautiful addition to any home, the Hand Painted Sea Grass Cabinet Knob is available in either light green and teal or black and white. Each is a hand painted work of art inspired by the sea to bring a sense of fluid movement your space. The Sea Grass Ceramic Knob is easy to install with one screw on any light weight door including cabinet doors and drawers, hutch doors, and on bathroom vanities. Acorn's Sea Grass Knob will add vibrant color to any space.\r\n</p>\r\n\r\n<p>\r\nAlso Available: \r\n<br>\r\n<a href=\"/products/5-1-2-inch-hand-painted-ceramic-sea-grass-cabinet-pull-acorn-pp3yp\"><b>5-1/2\" Hand Painted Ceramic Sea Grass Cabinet Pull</b>\r\n<br>\r\n<a href=\"/products/4-7-8-inch-small-sea-grass-ceramic-cabinet-pull-acorn-pp2yp\"><b>4-7/8\" Blue Sea Grass Ceramic Cabinet Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of the Hand Painted Sea Grass Cabinet Knob:\r\n<ul>\r\n<li>Length: 1-5/16\" squared</li>\r\n<li>Material: ceramic</li>\r\n<li>Each design is hand painted on ceramic.</li>\r\n<li>Package includes 1 knob and hardware for installation.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually. Due to the hand painted nature of this product, the colors will vary slightly.</i>\r\n</p>",
+            "seo": {
+                "title": "Hand Painted Sea Grass Cabinet Knob, Acorn PSFYP",
+                "description": "Hand Painted Sea Grass Ceramic Cabinet Knob Acorn PSFYP - A beautiful addition to any home, the Hand Painted Sea Grass Cabinet Knob is available in either light green and teal or black and white. Each is a hand painted work of art inspired by the sea to bring a sense of fluid movement your space. The Sea Grass Ceramic Knob is easy to install with one screw on any light weight door including cabinet doors and drawers, hutch doors, and on bathroom vanities. Acorn's Sea Grass Knob will add vibrant color to any space.",
+                "keywords": "Hand Painted Sea Grass Cabinet Knob, Acorn PSFYP, acorn hand painted ceramic cabinet knobs, Hand Painted Sea Grass Ceramic Cabinet Knobs, Acorn PSHYP, Black and White Sea Grass Small Square Ceramic Knobs, Light Green and Teal Sea Grass Small Square Ceramic Knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Acorn Discontinued",
+                    "sort": "24"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "176142",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "214994",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "214981",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "214949",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "214877",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Color: PSFYP -  Light Green and Teal Ceramic Knob",
+                "Select Color: PSHYP - Black and White Ceramic Knob"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Color",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PSFYP -  Light Green and Teal Ceramic Knob",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-PSFYP-sm.jpg?v=1774584380",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-PSFYP-lg.jpg?v=1711365474"
+                },
+                {
+                    "value": "PSHYP - Black and White Ceramic Knob",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-PSHYP-sm.jpg?v=1774584386",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/ACO-PSHYP-lg.jpg?v=1711365475"
+                }
+            ]
+        }
+    ]
+}

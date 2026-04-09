@@ -1,0 +1,100 @@
+{
+    "legacy_product_id": "491460",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Tubular Deadbolt, AHI-TB1000",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-TB1000",
+            "mpn": "AHI-TB1000",
+            "price": "62.4",
+            "compare_at_price": "78.0",
+            "contractor_price": "59.28",
+            "shipping_weight": "0.0",
+            "tags": [
+                "AHI-TB1000",
+                "TB1603",
+                "TB1703"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/tb1000-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/tb1000-525.jpg?v=1716424243"
+        },
+        "text": {
+            "description_html": "<b>Stainless Steel Tubular Deadbolt for AHI SIG (Sigma) Series Privacy Bolts.\r\n</b>\r\n<p>This tubular deadbolt is specifically for <a href=\"/products/stainless-steel-restroom-door-bolt-with-occupancy-indicator-ahi-sig267\">AHI Stainless Steel Restroom Door Bolt with Occupancy Indicator</a> &  <a href=\"/products/ada-compliant-restroom-door-bolt-with-occupancy-indicator-ahi-sig272-630\">AHI ADA Stainless Steel Restroom Door Bolt with Occupancy Indicator</a> with a 5mm hub.\r\n</p>\r\n<p>\r\nIt is available for 2 3/8\" or 2 3/4\" backsets in either polished or satin stainless finish.\r\n</p>\r\n\r\n<p>\r\n<i>To determine Backset: Measure from the center of the backplate or bore hole, to the edge of the door. </i>\r\n</p>\r\n<br>",
+            "seo": {
+                "title": "Tubular Deadbolt, AHI-TB1000",
+                "description": "Stainless Steel Tubular Deadbolt with 5mm hub for AHI-SIG privacy bolts.  Available with 2-3/4 and 2-3/8 inch backsets.",
+                "keywords": "AHI-TB1000, TB1603, TB1703"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "AHI Miscellaneous Parts",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Backset: AHI-TB1603: 2-3/8in. Backset",
+                "Select Backset: AHI-TB1703: 2-3/4in. Backset",
+                "Select Finish: 630: Satin Stainless Steel",
+                "Select Finish: 629: Polished Stainless Steel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AHI-TB1603: 2-3/8in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AHI-TB1703: 2-3/4in. Backset",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "630: Satin Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "629: Polished Stainless Steel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "legacy_product_id": "648999",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "LCN 1460 Series Regular Arm, LCN 1460-3077",
+            "vendor": "LCN",
+            "status": "ARCHIVED",
+            "sku": "LCN-1460-3077",
+            "mpn": "LCN-1460-3077",
+            "price": "75.0",
+            "compare_at_price": "75.0",
+            "contractor_price": "75.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "LCN 1460 Series Regular Arm",
+                "Regular Arm for LCN 1460 Series",
+                "LCN-1460-3077"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LCN-1460-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LCN-1460-5251.jpg?v=1716425110"
+        },
+        "text": {
+            "description_html": "<b>LCN 1460-3077, Regular Arm for LCN 1460 Series</b>\r\n\r\n<p>\r\nStandard duty door closer arm for regular mounting. For use with <a href=\"/products/lcn-1461-commercial-door-closer\"><b>LCN 1460 Series Door Closers</b></a>.\r\n</p>\r\n\r\n<p>\r\nNon-handed\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "LCN 1460 Series Regular Arm",
+                "description": "Standard duty door closer arm for regular mounting. For use with LCN 1460 Series Door Closers.\r\n",
+                "keywords": "LCN 1460 Series Regular Arm, Regular Arm for LCN 1460 Series, LCN-1460-3077"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closer Parts",
+                    "sort": "100"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "71765",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "499860",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "231652",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: LCN-1460-3077-AL - Aluminum",
+                "Select Finish: LCN-1460-3077-DU - Duro"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LCN-1460-3077-AL - Aluminum ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LCN-1460-3077-DU - Duro",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

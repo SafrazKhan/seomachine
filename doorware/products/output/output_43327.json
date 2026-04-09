@@ -1,0 +1,153 @@
+{
+    "legacy_product_id": "43327",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Urban Cabinet Knob, Omnia 9461/48",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9461/48",
+            "mpn": "OMN-9461/48",
+            "price": "10.05",
+            "compare_at_price": "13.4",
+            "contractor_price": "9.55",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9461/48 urban solid bras cabinet knobs",
+                "modern cabinet knobs",
+                "solid brass kitchen cabinet knobs",
+                "urban brass knobs",
+                "contemporary brass cabinet knobs",
+                "decorative cabinet knobs",
+                "modern cabinet hardware",
+                "urban Kitchen cabinet door knobs",
+                "OMN-9461/48"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-9461-48-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-9461-48-525.jpg?v=1716420862"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9461/48, Urban Solid Brass Cabinet Knob</b>\r\n\r\n<p>\r\nThis cabinet knob will be at home in even the most modern-styled rooms. Ultra sleek in design, this Urban Cabinet Knob is available in 5 modern finishes. The Urban Solid Brass Cabinet Knob comes packaged with the mounting hardware. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Urban Kitchen Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Solid Brass construction regardless of finish.</li>\r\n<li>Length: 1-7/8\"</li>\r\n<li>Projection: 13/16\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Urban Cabinet Knob",
+                "description": "This cabinet knob will be at home in even the most modern-styled rooms. Ultra sleek in design, this Urban Cabinet Knob is available in 5 modern finishes. The Urban Solid Brass Cabinet Knob comes packaged with the mounting hardware. \r\n",
+                "keywords": "omnia 9461/48 urban solid bras cabinet knobs, modern cabinet knobs, solid brass kitchen cabinet knobs, urban brass knobs, contemporary brass cabinet knobs, decorative cabinet knobs, modern cabinet hardware, urban Kitchen cabinet door knobs, OMN-9461/48"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                },
+                {
+                    "key": "Length",
+                    "value": "1-7/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "13/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "246"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "43124",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "42152",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "43313",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "38111",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "203997",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "192410",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Length: 1-7/8\"",
+                "Projection: 13/16\"",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US26D: Satin Chrome",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US10B: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9461/48-US3"
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 2.48,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9461/48-US26"
+                },
+                {
+                    "value": "US26D: Satin Chrome",
+                    "price_impact": 2.48,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9461/48-US26D"
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 3.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9461/48-US15"
+                },
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 3.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9461/48-US10B"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "legacy_product_id": "1153145",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Garbow Cabinet Pull, Laurey 379",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "LAU-379",
+            "mpn": "LAU-379",
+            "price": "7.52",
+            "compare_at_price": "10.02",
+            "contractor_price": "7.14",
+            "shipping_weight": "2.0",
+            "tags": [
+                "LAU-GARBOW-PULL",
+                "Garbow Cabinet Pulls",
+                "3 Inch Garbow Cabinet Pulls",
+                "Laurey 37928",
+                "Laurey 37906",
+                "Laurey 37966",
+                "Laurey 3 Inch Garbow Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LAU-GARBOW-PULL-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-GARBOW-PULL-525.jpg?v=1716428481"
+        },
+        "text": {
+            "description_html": "<b>Laurey 379 3 Inch Garbow Cabinet Pull</b>\r\n\r\n\r\n<p>\r\nThe Garbow Cabinet Pull is part of Laurey's Eclectic Home Decor Collection. It has a 4-1/4 inch overall length and 3 inch mounting centers. The Laurey 3 Inch Garbow Cabinet Pull comes packaged with the mounting hardware. The unique shape offers movement and style. The Garbow Pull is suitable for use on kitchen cabinets and as a furniture pull.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Laurey Garbow Cabinet Pull:\r\n<ul>\r\n<li>Material: Zinc</li>\r\n<li>Length c.c. (center to center): 3\"</li>\r\n<li>Overall Length: 4-1/4\"</li>\r\n<li>Width: 1/2\"</li>\r\n<li>Projection: 1-1/8\"</li>\r\n<li>Packaged with 1\" long #8-32 screws and 1-1/2\"  long #8-32 screws.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Garbow Cabinet Pull",
+                "description": "The Garbow Cabinet Pull is part of Laurey's Eclectic Home Decor Collection. It has a 4-1/4 inch overall length and 3 inch mounting centers. The Laurey 3 Inch Garbow Cabinet Pull comes packaged with the mounting hardware. The unique shape offers movement and style. The Garbow Pull is suitable for use on kitchen cabinets and as a furniture pull.",
+                "keywords": "LAU-GARBOW-PULL, Garbow Cabinet Pulls, 3 Inch Garbow Cabinet Pulls, Laurey 37928, Laurey 37906, Laurey 37966, Laurey 3 Inch Garbow Cabinet Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Laurey Cabinet Pulls",
+                    "sort": "90"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "552449",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "907136",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "822693",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "240029",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "878631",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "1146559",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 37928: Satin Nickel",
+                "Select Finish: 37966: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "37928: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-37928-SM.jpg?v=1774581993",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-37928-LG.jpg?v=1711366615"
+                },
+                {
+                    "value": "37966: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-37966-SM.jpg?v=1774581996",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-37966-LG.jpg?v=1711366616"
+                }
+            ]
+        }
+    ]
+}

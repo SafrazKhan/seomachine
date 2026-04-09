@@ -1,0 +1,112 @@
+{
+    "legacy_product_id": "1012951",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Kwikset 83000  Adjustable Backset Signature Series Deadlatch",
+            "vendor": "Kwikset",
+            "status": "ARCHIVED",
+            "sku": "KWI-83000",
+            "mpn": "KWI-83000",
+            "price": "16.4",
+            "compare_at_price": "16.4",
+            "contractor_price": "16.4",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Kwikset 83000  Adjustable Backset Signature Series Deadlatch"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52598.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52598.gif?v=1716427668"
+        },
+        "text": {
+            "description_html": "<b>Adjustable Backset Deadlatch for Kwikset</b>\r\n\r\n<p>\r\nFor use with Kwikset Signature Series keyed entry function levers and knobs that utilize a square spindle. Service kit includes square, radius and drive in faceplates. <b>Only for use with Kwikset Signature Series.</b>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "Kwikset 83000  Adjustable Backset Signature Series Deadlatch",
+                "description": "For use with Kwikset Signature Series keyed entry function levers and knobs that utilize a square spindle. Service kit includes square, radius and drive in faceplates. Only for use with Kwikset Signature Series.",
+                "keywords": "Kwikset 83000  Adjustable Backset Signature Series Deadlatch"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Kwikset Parts",
+                    "sort": "16"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "943433",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "347692",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "139879",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "414293",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "943763",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 15: Satin Nickel",
+                "Select Finish: 26: Polished Chrome",
+                "Select Finish: 11P: Venetian Bronze",
+                "Select Finish: 514: Iron Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "11P: Venetian Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "514: Iron Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

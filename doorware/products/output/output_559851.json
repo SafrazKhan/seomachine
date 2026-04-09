@@ -1,0 +1,199 @@
+{
+    "legacy_product_id": "559851",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Georgian Cabinet Knob, RK International CK-4244",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-4244",
+            "mpn": "RKI-CK-4244",
+            "price": "11.99",
+            "compare_at_price": "15.07",
+            "contractor_price": "11.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RKI-CK-4244",
+                "RKI-CK-4243",
+                "Georgian Cabinet Pulls",
+                "RK International Solid Georgian Knobs",
+                "button center knobs",
+                "Georgian Cabinet Knobs",
+                "RK International CK-4244",
+                "traditional cabinet hardware",
+                "RK International CK-4243"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-4244-5254.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-4244-5254.jpg?v=1716424482"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-4244, Traditional Georgian Cabinet Knob</b>\r\n\r\n<p>\r\nThe Georgian Cabinet Knob features a traditional style that really adds a since of glamor to a space. The quiet elegance of this knob reflects the best kind of style, showing both good taste and restraint. It is available in 2 sizes and 10 finishes.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-4244 Button Center Cabinet Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes</b>\r\n<ul>\r\n<b>RKI-CK-4244:</b>\r\n<ul>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1\"</li>\r\n</ul>\r\n\r\n<br>\r\n\r\n<b>RKI-CK-4243:</b>\r\n<ul>\r\n<li>Diameter: 1-1/2\"</li>\r\n<li>Projection: 1-1/16\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Georgian Cabinet Knob",
+                "description": "RK International CK-4244, Georgian Cabinet Knob - The Georgian Cabinet Knob features a traditional style that really adds a since of glamor to a space. The quiet elegance of this knob reflects the best kind of style, showing both good taste and restraint. It is available in 2 sizes and 8 finishes.",
+                "keywords": "RKI-CK-4244, RKI-CK-4243, Georgian Cabinet Pulls, RK International Solid Georgian Knobs, button center knobs,  Georgian Cabinet Knobs, RK International CK-4244, traditional cabinet hardware, RK International CK-4243,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "3"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "5746",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "371180",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "370446",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "372637",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "371708",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "277956",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Size: CK-4244: 1-1/4in. Diameter",
+                "Select Size: CK-4243: 1-1/2in. Diameter",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: C: Polished Chrome",
+                "Select Finish: B: Polished Brass",
+                "Select Finish: SB: Satin Brass",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: AE: Antique English",
+                "Select Finish: RB: Oil Rubbed Bronze",
+                "Select Finish: BL: Black"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "CK-4244: 1-1/4in. Diameter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "CK-4243: 1-1/2in. Diameter",
+                    "price_impact": 0.72,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "C: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SB: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BL: Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

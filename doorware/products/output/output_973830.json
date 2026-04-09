@@ -1,0 +1,122 @@
+{
+    "legacy_product_id": "973830",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Norwich Knob with Rectangular Rose Interior Set with Concealed Fasteners, Emtek C8221NW",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-C8221NW",
+            "mpn": "EMT-C8221NW",
+            "price": "125.6",
+            "compare_at_price": "157.0",
+            "contractor_price": "125.6",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Concealed Screws Norwich Interior Trim",
+                "Norwich Knob with Rectangular Rose Interior Set with Concealed Fastener",
+                "EMT-C8221NW",
+                "Emtek C8221NW"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-C8221NW-5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-C8221NW-5251.jpg?v=1716427305"
+        },
+        "text": {
+            "description_html": "<b>Emtek C8221NW, Privacy Norwich Knobset with Rectangular Rose Interior Trim</b>\r\n\r\n<p>\r\nThe Norwich Knob with Rectangular Rose Interior Set with Concealed Fastener is stylish and beautiful. It features a transitional style that is well suited for homes that straddle the line between traditional and contemporary home decors, all with an elegant beach house look. \r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Norwich Knob with Rectangular Rose Interior Trim:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Function: Privacy</li>\r\n<li>Knob Diameter: 2-1/4\"</li>\r\n<li>Knob Projection: 2-3/8\"</li>\r\n<li>Stem: 7/8\"</li>\r\n<li>Rose Height: 4-3/8\"</li>\r\n<li>Rose Width: 2-9/16\"</li>\r\n<li>Packaged as  an interior trim only.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Norwich Knob with Rectangular Rose Interior Set with Concealed Fastener",
+                "description": "The Norwich Knob with Rectangular Rose Interior Set with Concealed Fastener is stylish and beautiful. It features a transitional style that is well suited for homes that straddle the line between traditional and contemporary home decors, all with an elegant beach house look.",
+                "keywords": "Concealed Screws Norwich Interior Trim, Norwich Knob with Rectangular Rose Interior Set with Concealed Fastener, EMT-C8221NW, Emtek C8221NW"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Custom and Special Orders",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "477558",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "29811",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "823230",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "614111",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "801375",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "899207",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "476670",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US26: Polished Chrome",
+                "Select Handing: LH: Left Handing",
+                "Select Handing: RH: Right Handing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LH: Left Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RH: Right Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

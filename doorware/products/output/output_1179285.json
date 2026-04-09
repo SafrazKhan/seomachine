@@ -1,0 +1,164 @@
+{
+    "legacy_product_id": "1179285",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Gibraltar Cabinet Knob, RK International CK-727",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-727",
+            "mpn": "RKI-CK-727",
+            "price": "15.99",
+            "compare_at_price": "19.58",
+            "contractor_price": "15.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Gibraltar Cabinet Knobs",
+                "RKI Gibraltar Knob Collections",
+                "RKI-CK-727",
+                "RK International CK-726",
+                "Large Gibraltar Knob CK-726",
+                "Small Gibraltar Knob CK-727"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/RKI-CK727-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RKI-CK727-525.jpg?v=1716428793"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-745, Gibraltar Knob Collection</b>\r\n\r\n<p>\r\nThe Gibraltar Cabinet Knob is available in two sizes. The Large Gibraltar knob has a 1-1/2 inch diameter while the RK International Small Gibraltar knob has a 1-1/4 inch diameter. Both of these kitchen cabinet drawer knobs were designed to match well with the <a href=\"/products/gibraltar-cabinet-pull-series-rk-international-cp-825\"><b>Gibraltar Cabinet Pull</b></a>; but they could easily be matched with any modern or transitional cabinet hardware. The Gibraltar Knob is available as a satin brass knobs, black kitchen hardware, and in an even satin nickel finish.\r\n</p>\r\n\r\n<p>\r\nAlso Available: <a href=\"/products/gibraltar-cabinet-pull-series-rk-international-cp-825\"><b>Matching Gibraltar Cabinet Pull</b></a> and \r\n<a href=\"/site/product.cfm?id=\"><b>Gibraltar Appliance Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International Gibraltar Cabinet Knob:\r\n<ul>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>Small Gibraltar Knob CK-727:</b>\r\n<ul>\r\n<li>Diameter: 1-1/4\"</li>\r\n<li>Projection: 1-1/4\"</li>\r\n</ul>\r\n<br>\r\n<b>Large Gibraltar Knob CK-726:</b>\r\n<ul>\r\n<li>Diameter: 1-1/2\"</li>\r\n<li>Projection: 1-3/8\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Gibraltar Cabinet Knob",
+                "description": "The Gibraltar Cabinet Knob is available in two sizes. The Large Gibraltar knob has a 1-1/2 inch diameter while the RK International Small Gibraltar knob has a 1-1/4 inch diameter. Both of these kitchen cabinet drawer knobs were designed to match well with the Gibraltar Cabinet Pull; but they could easily be matched with any modern or transitional cabinet hardware. The Gibraltar Knob is available as a satin brass knobs, black kitchen hardware, and in an even satin nickel finish.\r\n\r\n",
+                "keywords": "Gibraltar Cabinet Knobs, RKI Gibraltar Knob Collections, RKI-CK-727, RK International CK-726, Large Gibraltar Knob CK-726, Small Gibraltar Knob CK-727"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "931887",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "1019337",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1148676",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1095621",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "822708",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "42141",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "1145526",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Size: Small CK-727:1-1/4in. Diameter",
+                "Select Size: Large CK-726: 1-1/2in. Diamter",
+                "Select Finish: BL: Black",
+                "Select Finish: SB: Satin Brass",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: SN: Polished Nickel",
+                "Select Finish: VB: Valencia Bronze",
+                "Select Finish: WN: Weathered Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Small CK-727:1-1/4in. Diameter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Large CK-726: 1-1/2in. Diamter",
+                    "price_impact": 5.12,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BL: Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SB: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "SN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "VB: Valencia Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "WN: Weathered Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

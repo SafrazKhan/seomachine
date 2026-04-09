@@ -1,0 +1,158 @@
+{
+    "legacy_product_id": "291263",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Small Roller Catch, Deltana RCS338",
+            "vendor": "Deltana",
+            "status": "ACTIVE",
+            "sku": "DEL-RCS338",
+            "mpn": "DEL-RCS338",
+            "price": "4.7",
+            "compare_at_price": "6.27",
+            "contractor_price": "4.46",
+            "shipping_weight": "0.2",
+            "tags": [
+                "DEL-RCS338 Cabinet Door Roller Catches",
+                "Small Roller Catch",
+                "Deltana RCS338 surface mounted roller catches",
+                "door holder catch",
+                "Cabinet Door tension catch",
+                "deltana door catches",
+                "deltana door hardware",
+                "Cabinet Door holders",
+                "DEL-RCS338U15",
+                "DEL-RCS338U10B",
+                "DEL-RCS338U3"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DEL-RCS3380-roller-catch_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DEL-RCS3380-roller-catch_525.jpg?v=1716422784"
+        },
+        "text": {
+            "description_html": "<b>Deltana RCS338, Cabinet Door Roller Catch</b>\r\n\r\n<p>\r\nSmall surface mounted roller catch for use on cabinet doors or similar light weight doors. The Cabinet Door Roller Catch is surface mounted making it easy to install. Both the roller catch and strike plate are slotted for clearance adjustments. Packaged with strike plate and mounting screws. Available in polished brass, oil rubbed bronze, or satin nickel finish.\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/deltana-RCS3380-size.gif?v=1704354776\" width=\"567\" height=\"166\" border=\"0\" alt=\"Deltana RCS338 Roller Catch Dimensions\">\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Deltana RCS338 Roller Catch:\r\n<ul>\r\n<li>Height: 1-1/2\" </li>\r\n<li>Width: 1-7/8\"</li>\r\n<li>Projection: 3/4\"</li>\r\n<li>Packaged with mounting hardware.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/RCS3380.pdf?v=1691095374\" target=\"new\"><b>Deltana RCS338 Dimensions (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Small Roller Catch",
+                "description": "Small Roller Catch Deltana RCS338 - Small surface mounted roller catch for use on cabinet doors or similar light weight doors. The Cabinet Door Roller Catch is surface mounted making it easy to install. Both the roller catch and strike plate are slotted for clearance adjustments. Packaged with strike plate and mounting screws. Available in polished brass, oil rubbed bronze or satin nickel finish.\r\n",
+                "keywords": "DEL-RCS338 Cabinet Door Roller Catches, Small Roller Catch, Deltana RCS338 surface mounted roller catches, door holder catch, Cabinet Door tension catch, deltana door catches, deltana door hardware, Cabinet Door holders, DEL-RCS338U15, DEL-RCS338U10B, DEL-RCS338U3,"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "1-1/2\""
+                },
+                {
+                    "key": "Width",
+                    "value": "1-7/8\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Stops",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Stops",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-8",
+            "collections": [
+                {
+                    "name": "Deltana Catches",
+                    "sort": "4"
+                },
+                {
+                    "name": "Deltana Cabinet Hardware",
+                    "sort": "47"
+                },
+                {
+                    "name": "Cabinet Locks and Catches",
+                    "sort": "3"
+                },
+                {
+                    "name": "Window and Door Catches",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "162119",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "7134",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "7082",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "7069",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "289150",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "7261",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "7031",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "7967",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "443122",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Height: 1-1/2\"",
+                "Width: 1-7/8\"",
+                "Projection: 3/4\"",
+                "Select Finish: U15: Satin Nickel",
+                "Select Finish: U10B: Oil Rubbed Bronze",
+                "Select Finish: U3: Polished Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "U15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "U3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

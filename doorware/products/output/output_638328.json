@@ -1,0 +1,103 @@
+{
+    "legacy_product_id": "638328",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Mortise Lock Body, OMN-1600/F",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-1600/F",
+            "mpn": "OMN-1600/F",
+            "price": "328.0",
+            "compare_at_price": "328.0",
+            "contractor_price": "328.0",
+            "shipping_weight": "5.0",
+            "tags": [
+                "Mortise Lock Body",
+                "OMN-1600/F"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52524.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52524.gif?v=1717106197"
+        },
+        "text": {
+            "description_html": "<b>Mortise Lock Body, OMN-1600/F</b>\r\n\r\n<p>\r\nReplacement mortise lock body for Omnia entrance handleset trim with lever interior.  Does not include faceplate.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> for the Omnia Mortise Lock Body:\r\n<ul>\r\n<li>Function: Panic Proof</li>\r\n<li>Backset: 2-1/2\"</li>\r\n\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Mortise Lock Body, OMN-1600/F",
+                "description": "Mortise Lock Body, OMN-1600/F",
+                "keywords": "Mortise Lock Body, OMN-1600/F"
+            },
+            "specifications": [
+                {
+                    "key": "Function",
+                    "value": "Panic Proof"
+                },
+                {
+                    "key": "Backset",
+                    "value": "2-1/2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "40"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Function: Panic Proof",
+                "Backset: 2-1/2\"",
+                "Select Handing: Right Hand Inswing",
+                "Select Handing: Left Hand Inswing",
+                "Select Handing: Right Hand Outswing",
+                "Select Handing: Left Hand Outswing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Right Hand Inswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Left Hand Inswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Right Hand Outswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Left Hand Outswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

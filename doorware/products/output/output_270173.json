@@ -1,0 +1,95 @@
+{
+    "legacy_product_id": "270173",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Metal Door Adaptor Kit for KABA 900 Series",
+            "vendor": "KABA",
+            "status": "ACTIVE",
+            "sku": "KABA-800x",
+            "mpn": "KABA-800x",
+            "price": "43.99",
+            "compare_at_price": "55.0",
+            "contractor_price": "43.99",
+            "shipping_weight": "2.0",
+            "tags": [
+                "KABA-800x Metal Door Adaptor Kit for KABA 900 Series",
+                "kaba metal door strike plates",
+                "KABA 800-26D KABA 800-04 KABA-800-26D KABA-800-04",
+                "KABA 74464 strike plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/kaba-800-26D-kit_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/kaba-800-26D-kit_525.jpg?v=1716422594"
+        },
+        "text": {
+            "description_html": "<b>Metal Door Adaptor Kit for KABA 900 Series</b>\r\n<p>\r\nFor use with KABA 900 Series Locks:\r\n <a href=\"/products/simplex-keypad-deadbolt-for-1-3-8-inch-door-thickness-kaba-9020000\"><b>KABA Simplex 9020000</b></a> - <a href=\"/products/simplex-keypad-deadbolt-for-1-3-4-inch-door-thickness-kaba-9040000\"><b>KABA Simplex 9040000</b></a> - <a href=\"/products/simplex-keypad-deadbolt-with-key-override-kaba-9100000\"><b>KABA Simplex 9100000</b></a> - <a href=\"/products/simplex-keypad-deadlatch-for-1-3-8-inch-door-thickness-kaba-9170000\"><b>KABA Simplex 9170000</b></a> - <a href=\"/products/simplex-keypad-deadlatch-for-1-3-4-inch-door-thickness-kaba-9190000\"><b>KABA Simplex 9190000</b></a> - <a href=\"/products/simplex-keypad-deadlatch-dod-compliant-kaba-9290000\"><b>KABA Simplex 9290000</b></a> - <a href=\"/products/simplex-keypad-deadlatch-with-key-override-and-latch-holdback-kaba-9380000\"><b>KABA Simplex 9380000</b></a> \r\n</p>\r\n<p>\r\nThis adaptor kit with KABA 74464 strike plate is required for installing KABA 900 series locks on Metal doors and Metal door frames.\r\n</p>\r\n<p>\r\nKit includes adaptor plate, metal door frame strike box and adjustment shims. \r\n</p>\r\n\r\n<p><b>*Sold Individually. </b>\r\n</p>",
+            "seo": {
+                "title": "Metal Door Adaptor Kit for KABA 900 Series",
+                "description": "KABA 800-26D and KABA 800-04 - This adaptor kit with KABA 74464 strike plate is required for installing KABA 900 series locks on Metal doors and Metal door frames.",
+                "keywords": "KABA-800x Metal Door Adaptor Kit for KABA 900 Series, kaba metal door strike plates, KABA 800-26D KABA 800-04 KABA-800-26D KABA-800-04, KABA 74464 strike plates,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "KABA Accessories",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "293231",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "314803",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "150080",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "150000",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: KABA-800-26D: Satin Chrome",
+                "Select Finish: KABA-800-04: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "KABA-800-26D: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "KABA-800-04: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

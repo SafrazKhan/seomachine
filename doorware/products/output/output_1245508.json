@@ -1,0 +1,139 @@
+{
+    "legacy_product_id": "1245508",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Mortise Working Trim Salvador 110 Lever with T Rose, Corbin Russwin M31-110T-613",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "CRS-M31-110T-613",
+            "mpn": "CRS-M31-110T-613",
+            "price": "1023.0",
+            "compare_at_price": "1023.0",
+            "contractor_price": "1023.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Mortise Working Trim Salvador 110 Lever with T Rose",
+                "Corbin Russwin M31-110T-613"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525322.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525322.gif?v=1769479587"
+        },
+        "text": {
+            "description_html": "<b>Mortise Working Trim Salvador 110 Lever with T Rose, Corbin Russwin M31-110T-613</b>\r\n\r\n<p>\r\nIncludes Salvador 110 Lever with T Rose, spindle, thumbturn lever, emergency key plate, adapters, and installation screws in oil rubbed bronze finish.  Does NOT include mortise lock body or lock cylinder.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the 110 Leverset wit T Style Rosette:\r\n<ul>\r\n<li>Finish: 613 oil rubbed bronze</li>\r\n<li>Lever Length: 5-13/32\"</li>\r\n<li>Lever Projection: 2-19/32\"</li>\r\n<li>Rose Diameter: 2-3/4\"</li>\r\n<li>Handed</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually. Special Ordered Item. <b>NO RETURNS</b></i>\r\n</p>",
+            "seo": {
+                "title": "Mortise Working Trim Salvador 110 Lever with T Rose, Corbin Russwin M31-110T-613",
+                "description": "The Salvador 110 Lever with T Rose Mortise Working Trim in oil rubbed bronze finish.",
+                "keywords": "Mortise Working Trim Salvador 110 Lever with T Rose, Corbin Russwin M31-110T-613"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Corbin Russwin",
+                    "sort": "5"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Function: ML2054: Entry",
+                "Select Function: ML2020: Privacy",
+                "Select Function: ML2017: Classroom Deadlock",
+                "Select Function: ML2057: Storeroom Deadlock",
+                "Select Function: ML2057: Storeroom",
+                "Select Handing: RH: Right Hand Inswing",
+                "Select Handing: LH: Left Hand Inswing",
+                "Select Handing: RHR: Right Hand Outswing",
+                "Select Handing: LHR: Left Hand Outswing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "ML2054: Entry",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ML2020: Privacy",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ML2017: Classroom Deadlock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ML2057: Storeroom Deadlock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "ML2057: Storeroom",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RH: Right Hand Inswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LH: Left Hand Inswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RHR: Right Hand Outswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LHR: Left Hand Outswing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

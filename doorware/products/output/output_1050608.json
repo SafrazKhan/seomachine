@@ -1,0 +1,167 @@
+{
+    "legacy_product_id": "1050608",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "4-1/2 x 4-1/2 Square Corners Heavy Duty Ball Bearing Steel Hinge Pair, Emtek 94015",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-94015",
+            "mpn": "EMT-94015",
+            "price": "33.99",
+            "compare_at_price": "42.0",
+            "contractor_price": "33.99",
+            "shipping_weight": "1.0",
+            "tags": [
+                "4-1/2 x 4-1/2 Square Corners Heavy Duty Ball Bearing Steel Hinge Pair",
+                "Emtek 94015",
+                "4-1/2 x 4-1/2 Square Corners Steel Hinges",
+                "EMT-94015",
+                "4-1/2 x 4-1/2 Solid Steel Hinges",
+                "4-1/2 Inch Heavy Duty Ball Bearing Steel Hinges"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-94015-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-94015-525.jpg?v=1716427906"
+        },
+        "text": {
+            "description_html": "<b>Emtek 94015, 4-1/2\" x 4-1/2\" Solid Steel Hinge</b>\r\n\r\n<p>\r\nPackage includes a pair of hinges (2) and matching screws This is a 4.5 inch x 4.5 inch square corner, heavy duty, steel hinge with ball bearing. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the 4-1/2 Inch Heavy Duty Ball Bearing Steel Hinge:\r\n<ul>\r\n<li>Hinge Material: Steel</li>\r\n<li>Height: 4-1/2\"</li>\r\n<li>Width: 4-1/2\"</li>\r\n<li>Corners: Square</li>\r\n<li>2 Ball Bearings</li>\r\n<li>Standard Template Hole Pattern</li>\r\n<li>Hinge Pin: Steel</li>\r\n<li>Wood Screws: #12 x 1-1/4\"</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-94015-specifications.pdf?v=1704262417\" target=\"new\"><b>Emtek 94015 Hinge Specifications (PDF)</b></a></li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Sold in Pairs (2 Hinges)</b>\r\n</p>",
+            "seo": {
+                "title": "4-1/2 x 4-1/2 Square Corners Heavy Duty Ball Bearing Steel Hinge Pair",
+                "description": "Package includes a pair of hinges (2) and matching screws This is a 4.5 inch x 4.5 inch square corner, heavy duty, steel hinge with ball bearing.",
+                "keywords": "4-1/2 x 4-1/2 Square Corners Heavy Duty Ball Bearing Steel Hinge Pair, Emtek 94015, 4-1/2 x 4-1/2 Square Corners Steel Hinges, EMT-94015, 4-1/2 x 4-1/2 Solid Steel Hinges, 4-1/2 Inch Heavy Duty Ball Bearing Steel Hinges"
+            },
+            "specifications": [
+                {
+                    "key": "Hinge Material",
+                    "value": "Steel"
+                },
+                {
+                    "key": "Height",
+                    "value": "4-1/2\""
+                },
+                {
+                    "key": "Width",
+                    "value": "4-1/2\""
+                },
+                {
+                    "key": "Corners",
+                    "value": "Square"
+                },
+                {
+                    "key": "Hinge Pin",
+                    "value": "Steel"
+                },
+                {
+                    "key": "Wood Screws",
+                    "value": "#12 x 1-1/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Hinges",
+            "google_category": "Hardware > Hardware Accessories > Hinges",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-15",
+            "collections": [
+                {
+                    "name": "Emtek Hinges",
+                    "sort": "99"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "8810",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "8804",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "8615",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "671651",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "624576",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "936171",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Hinge Material: Steel",
+                "Height: 4-1/2\"",
+                "Width: 4-1/2\"",
+                "Corners: Square",
+                "Hinge Pin: Steel",
+                "Wood Screws: #12 x 1-1/4\"",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US4: Satin Brass",
+                "Select Hinge Pin Option: Removable Pin",
+                "Select Hinge Pin Option: Non-Removable Pin"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Hinge Pin Option",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Removable Pin",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Non-Removable Pin",
+                    "price_impact": 12.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

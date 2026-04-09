@@ -1,0 +1,109 @@
+{
+    "legacy_product_id": "179618",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Decorative Screw Covers, Flat or Dome",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-SC-xx",
+            "mpn": "FII-SC-xx",
+            "price": "16.0",
+            "compare_at_price": "20.0",
+            "contractor_price": "15.0",
+            "shipping_weight": "0.1",
+            "tags": [
+                "FII-SC-xx Decorative Screw Covers",
+                "FII-SC-DM dome screw covers",
+                "FII-SC-FL flat screw covers"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/screw-covers_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/screw-covers_525.jpg?v=1716421714"
+        },
+        "text": {
+            "description_html": "<b>First Impressions Decorative Screw Covers</b>\r\n<p>\r\nThese decorative pieces are used to cover the mounting screw on a door pull. Normally used when installing a glass shower door pull to hide the mounting screw.\r\n</p>\r\n<p>\r\nThey are available with either a \"Dome\" or \"Flat\" top and used with a standard  1/4-20 mounting screw. Stock finishes are Polished Chrome or Satin Nickel. \r\n</p>\r\n<p>\r\n<b>Specifications</b> of FII-SC-DM Dome Screw Cover\r\n<ul>\r\n<li>Diameter: 1\"</li>\r\n<li>Depth: 3/16\"</li>\r\n<li>For use with 1/4-20 Screw</li>\r\n<li>Material: Brass</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<b>Specifications</b> of FII-SC-FL Flat Screw Cover\r\n<ul>\r\n<li>Diameter: 1\"</li>\r\n<li>Depth: 5/16\"</li>\r\n<li>For use with 1/4-20 Screw</li>\r\n<li>Material: Brass</li>\r\n</ul>\r\n</p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Decorative Screw Covers, Flat or Dome",
+                "description": "First Impressions Decorative Screw Covers. Flat or dome type Screw Covers. Used to cover the mounting screw on a door pull. Normally used when install a glass shower door pull to decorate the mounting screw. Available in Polished Chrome or Satin Nickel. ",
+                "keywords": "FII-SC-xx Decorative Screw Covers, FII-SC-DM dome screw covers, FII-SC-FL flat screw covers,"
+            },
+            "specifications": [
+                {
+                    "key": "Diameter",
+                    "value": "1\""
+                },
+                {
+                    "key": "Depth",
+                    "value": "3/16\""
+                },
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "First Impressions",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Diameter: 1\"",
+                "Depth: 3/16\"",
+                "Material: Brass",
+                "Select Cover Style and Finish: FII-SC-DM-US26: Dome Screw Cover, Polished Chrome",
+                "Select Cover Style and Finish: FII-SC-DM-US15: Dome Screw Cover, Satin Nickel",
+                "Select Cover Style and Finish: FII-SC-FL-US26: Flat Screw Cover, Polished Chrome",
+                "Select Cover Style and Finish: FII-SC-FL-US15: Flat Screw Cover, Satin Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Cover Style and Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-SC-DM-US26: Dome Screw Cover, Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-SC-DM-US15: Dome Screw Cover, Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-SC-FL-US26: Flat Screw Cover, Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-SC-FL-US15: Flat Screw Cover, Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

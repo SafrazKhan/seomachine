@@ -1,0 +1,93 @@
+{
+    "legacy_product_id": "949864",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin Bit Key Cover Plate",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-5754",
+            "mpn": "BAL-5754",
+            "price": "22.0",
+            "compare_at_price": "22.0",
+            "contractor_price": "22.0",
+            "shipping_weight": "0.75",
+            "tags": [
+                "BAL-5754 Baldwin Bit Key Cover Plates",
+                "Baldwin 5754 key cover plates",
+                "skeleton key cover plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/baldwin-5754_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/baldwin-5754_525.jpg?v=1716427159"
+        },
+        "text": {
+            "description_html": "<b>Baldwin 5754 Bit Key Cover Plate</b>\r\n\r\n<p>\r\nVintage bit type skeleton key cover plate  is used with with antique mortise locks. It is surface mounted and made from solid brass\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Baldwin 5754 Bit Key Cover Plate:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Height: 2\"</li>\r\n<li>Width: 1-1/8\"</li>\r\n<li>Surface Mounted</li>\r\n<li>Comes packaged with screws.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i> Special Ordered Item. <b>No Returns</a>\r\n</p>",
+            "seo": {
+                "title": "Baldwin Bit Key Cover Plate",
+                "description": "Vintage bit type skeleton key cover plate  is used with with antique mortise locks. It is surface mounted and made from solid brass",
+                "keywords": "BAL-5754 Baldwin Bit Key Cover Plates, Baldwin 5754 key cover plates, skeleton key cover plates,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Parts",
+                    "sort": "36"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: 031: Unlacquered Brass",
+                "Select Finish: 030: Polished Brass",
+                "Select Finish: 150: Satin Nickel",
+                "Select Finish: 260: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "031: Unlacquered Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "030: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "150: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "260: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

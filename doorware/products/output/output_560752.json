@@ -1,0 +1,157 @@
+{
+    "legacy_product_id": "560752",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Oval Cabinet Knob, RK International CK-8216",
+            "vendor": "RKI ",
+            "status": "ACTIVE",
+            "sku": "RKI-CK-8216",
+            "mpn": "RKI-CK-8216",
+            "price": "12.99",
+            "compare_at_price": "16.61",
+            "contractor_price": "12.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "RKI-CK-8216",
+                "Egg Cabinet Knobs",
+                "RK International CK-8216",
+                "Egg-Shaped Cabinet Pulls",
+                "egg knobs",
+                "RK International CK-8216",
+                "Oval Cabinet Knobs",
+                "oval knobs",
+                "oval cabinet hardware",
+                "simple cabinet knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/CK-8216-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/CK-8216-525.jpg?v=1716424493"
+        },
+        "text": {
+            "description_html": "<b>RK International CK-8216, Egg Cabinet Knob</b>\r\n\r\n<p>\r\nThe oval cabinet knob is a great example of a simple classic. It is available in 7 finishes--all of them beautiful. Choose from a modern satin nickel to a traditional distressed copper. This egg shaped cabinet pull has a 1-3/8 inch length and a 7/8 inch width.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the RK International CK-8216 Oval Cabinet Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length: 1-3/8\"</li>\r\n<li>Width: 7/8\"</li>\r\n<li>Projection: 1-5/16\"</li>\r\n<li>Screw: 1\" long #8 - 32 machine screw.</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Oval Cabinet Knob",
+                "description": "RK International CK-8216, Oval Cabinet Knob - The oval cabinet knob is a great example of a simple classic. It is available in 7 finishes--all of them beautiful. Choose from a modern satin nickel to a traditional distressed copper. This egg shaped cabinet pull has a 1-3/8 inch length and a 7/8 inch width.",
+                "keywords": "RKI-CK-8216, Egg Cabinet Knobs, RK International CK-8216, Egg-Shaped Cabinet Pulls, egg knobs, RK International CK-8216, Oval Cabinet Knobs, oval knobs, oval cabinet hardware, simple cabinet knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "RK International Cabinet Knobs",
+                    "sort": "8"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "42711",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "445324",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "456506",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "16359",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "42914",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "41858",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "41482",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: B: Polished Brass",
+                "Select Finish: AE: Antique English",
+                "Select Finish: C: Polished Chrome",
+                "Select Finish: DC: Distressed Copper",
+                "Select Finish: DN: Distressed Nickel",
+                "Select Finish: P: Satin Nickel",
+                "Select Finish: RB: Oil Rubbed Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "B: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "AE: Antique English",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "C: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DC: Distressed Copper",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "DN: Distressed Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "P: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "RB: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

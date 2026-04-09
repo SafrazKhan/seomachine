@@ -1,0 +1,113 @@
+{
+    "legacy_product_id": "1155200",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Pacifica Cabinet Knob, Laurey 158",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "LAU-158",
+            "mpn": "LAU-158",
+            "price": "5.28",
+            "compare_at_price": "7.04",
+            "contractor_price": "5.02",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Pacifica Cabinet Knobs",
+                "Laurey 158",
+                "1-1/2 Inch Pacifica Contemporary Oval Knobs",
+                "LAU-158",
+                "LAU-15859",
+                "LAU-15826",
+                "Laurey 15859",
+                "Laurey 15826",
+                "Modern Pacifica Cabinet Knobs",
+                "modern cabinet knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LAU-158-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-158-525.jpg?v=1716428524"
+        },
+        "text": {
+            "description_html": "<b>Laurey 158, Modern Pacifica Cabinet Knob</b>\r\n\r\n<p>\r\nThe Pacifica Cabinet Knob has a unique shape that makes it a statement piece. This 1-1/2 Inch Pacifica Contemporary Oval Knob can be used on bathroom vanities, on furniture, or in the kitchen. It comes packaged with the mounting hardware. The Modern Pacifica Cabinet Knob is available in a few contemporary finish colors.  \r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the Laurey Pacifica Knob:\r\n<ul>\r\n<li>Material: Zinc</li>\r\n<li>Diameter: 1-1/2\"</li>\r\n<li>Projection: 7/8\"</li>\r\n<li>Packaged with 1\" long #8-32 screw and 1-1/2\" long #8-32 screw.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Pacifica Cabinet Knob",
+                "description": "The Pacifica Cabinet Knob has a unique shape that makes it a statement piece. This 1-1/2 Inch Pacifica Contemporary Oval Knob can be used on bathroom vanities, on furniture, or in the kitchen. It comes packaged with the mounting hardware. The Modern Pacifica Cabinet Knob is available in a few contemporary finish colors.",
+                "keywords": "Pacifica Cabinet Knobs, Laurey 158, 1-1/2 Inch Pacifica Contemporary Oval Knobs, LAU-158, LAU-15859, LAU-15826, Laurey 15859, Laurey 15826, Modern Pacifica Cabinet Knobs, modern cabinet knobs,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Laurey Cabinet Knobs",
+                    "sort": "75"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "686481",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "262466",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1095633",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "1095032",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "976915",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "794450",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "1155172",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: LAU-15859: Satin Nickel",
+                "Select Finish: LAU-15826: Polished Chrome"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "LAU-15859: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-15859-SM.jpg?v=1774582242",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-15859-LG.jpg?v=1711366634"
+                },
+                {
+                    "value": "LAU-15826: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-15826-SM.jpg?v=1774582245",
+                    "image_lg": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LAU-15826-LG.jpg?v=1711366634"
+                }
+            ]
+        }
+    ]
+}

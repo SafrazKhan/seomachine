@@ -1,0 +1,118 @@
+{
+    "legacy_product_id": "176744",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "WordLock Combination Luggage Padlocks",
+            "vendor": "WordLock",
+            "status": "ARCHIVED",
+            "sku": "WL-LL-20",
+            "mpn": "WL-LL-20",
+            "price": "9.75",
+            "compare_at_price": "12.99",
+            "contractor_price": "9.75",
+            "shipping_weight": "0.5",
+            "tags": [
+                "WL-LL-20",
+                "LL-203-BK",
+                "LL-207-SL",
+                "LL-206-RD",
+                "LL-205-PK",
+                "LL-204-GN",
+                "WordLock Luggage Padlocks",
+                "WordLock Padlocks",
+                "word padlocks",
+                "combination locks",
+                "combination padlocks",
+                "TSA approved locks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/wordlock-luggage-padlock-525-586.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/wordlock-luggage-padlock-525-586.jpg?v=1711365192"
+        },
+        "text": {
+            "description_html": "<b>WordLock Combination Luggage Padlocks</b>\r\n<p>\r\nThese locks are Travel Sentry approved, so they \r\nescape the bolt cutters when airport security needs to inspect a bag. \r\nIt's now safe to lock your luggage again with this TSA approved luggage combination padlock. Allows entry and relocking by Airport Security and no one else.\r\n</p>\r\n<p>\r\nThe first combination travel lock that unlocks with a word, instead of a forgettable number.\r\n</p>\r\n<!-- <p>\r\nAlso available: <a href=\"/products/wordlock-combination-padlocks\"><b>WordLock Padlocks</b></a>\r\n</p> -->\r\n<p>\r\n<b>Easy to change combination:</b> Setting is a snap just turn the dials to the new password. No dials to remove, no extra wheels to lose.\r\n</p>\r\n<p>\r\n<b>Features:</b>\r\n<ul>\r\n<li>4 dials for 10,000 + combinations</li>\r\n<li>Black dials with easy to read white letters</li>\r\n<li>Easy to remember combination</li>\r\n<li>Lock Body Width: 1 1/4\"</li>\r\n<li>Total Height: 2  1/2\"</li>\r\n</ul>\r\n</p>\r\n<p>\r\nAvailable in 3 different colors\r\n<br>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/wordlock-luggage-padlock-colors.gif?v=1718159598\" width=\"400\" height=\"100\" boader=\"0\" alt=\"wordlock luggage padlock colors\">\r\n</p>\r\n<p>\r\n<br><br>\r\n<b>*This  is  Discontinued.</b> See available <a href=\"/collections/padlock-accessories-padlocks\"><b>Padlocks</b></a></b>\r\n</p>",
+            "seo": {
+                "title": "WordLock Combination Luggage Padlocks",
+                "description": "WordLock Luggage Padlocks - These Padlocks use Words for the combination, not hard to remember numbers. Available in 5 different colors. TSA approved to lock your luggage.",
+                "keywords": "WL-LL-20, LL-203-BK, LL-207-SL, LL-206-RD, LL-205-PK, LL-204-GN, WordLock Luggage Padlocks, WordLock Padlocks, word padlocks, combination locks, combination padlocks, TSA approved locks,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "WordLock Padlocks",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "176708",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "70657",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "70727",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "70748",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "6543",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Color: WL-LL-207-SL - Silver",
+                "Select Color: WL-LL-205-PK - Pink",
+                "Select Color: WL-LL-204-GN - Neon Green"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Color",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "WL-LL-207-SL - Silver",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "WL-LL-207-SL"
+                },
+                {
+                    "value": "WL-LL-205-PK - Pink",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "WL-LL-205-PK"
+                },
+                {
+                    "value": "WL-LL-204-GN - Neon Green",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "WL-LL-204-GN"
+                }
+            ]
+        }
+    ]
+}

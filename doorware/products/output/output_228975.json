@@ -1,0 +1,150 @@
+{
+    "legacy_product_id": "228975",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "48 Inch Vinyl Triple Blade Door Sweep",
+            "vendor": "Door Controls",
+            "status": "ACTIVE",
+            "sku": "DC-YDB102xV-48",
+            "mpn": "DC-YDB102xV-48",
+            "price": "21.2",
+            "compare_at_price": "26.5",
+            "contractor_price": "20.14",
+            "shipping_weight": "2.0",
+            "tags": [
+                "DC-YDB102xV-48 48 Inch Triple Blade Door Sweeps",
+                "48 Inch Vinyl Triple Blade Door Sweeps",
+                "commercial door sweeps",
+                "commercial bug sweeps",
+                "door stoppers",
+                "NGP 96V-48",
+                "NGP 96VDKB-48"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/YDB102-triple-door-sweep_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/YDB102-triple-door-sweep_525.jpg?v=1716422206"
+        },
+        "text": {
+            "description_html": "<b>48\" Vinyl Triple Blade Door Sweep</b>\r\n<p>\r\nDoor Sweeps help seal the doors bottom specially if there is a gap. It features triple vinyl blades for a better sealing door sweep. These can help save energy, lowering heating and AC costs.\r\n</p>\r\n\r\n<p>\r\nAlso available: <a href=\"/products/36-inch-vinyl-triple-blade-door-sweep\"><b>36\" Triple Blade Door Sweep</b></a>\r\n</p>\r\n<p>\r\nField sizable for doors 36-1/2\" to 48\" wide. Powder coated non-rusting aluminum blade housing with drip guard. Packaged with installation screws.\r\n</p>\r\n<p>\r\n<b>Specifications</b> for DC-YDB102xV-48 Door Sweep\r\n<ul>\r\n<li>Vinyl Blade Height: 7/8\"</li>\r\n<li>Total Height: 2\"</li>\r\n<li>Vinyl Blade Length: 48\"</li>\r\n</ul>\r\n</p>\r\n<p>\r\nAvailable in Aluminum or Dark Bronze finish.\r\n</p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "48 Inch Vinyl Triple Blade Door Sweep",
+                "description": "DC-YDB102xV-48 48 Inch Triple Blade Door Sweep. Door Sweeps help seal the doors bottom specially if there is a gap. Triple vinyl blades for a better sealing door sweep.   Field sizable for doors 36-1/2  to 48 inches wide. Powder coated non-rusting aluminum blade housing with drip guard. Packaged with installation screws.",
+                "keywords": "DC-YDB102xV-48 48 Inch Triple Blade Door Sweeps, 48 Inch Vinyl Triple Blade Door Sweeps, commercial door sweeps, commercial bug sweeps, door stoppers, NGP 96V-48, NGP 96VDKB-48"
+            },
+            "specifications": [
+                {
+                    "key": "Vinyl Blade Height",
+                    "value": "7/8\""
+                },
+                {
+                    "key": "Total Height",
+                    "value": "2\""
+                },
+                {
+                    "key": "Vinyl Blade Length",
+                    "value": "48\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Door Controls",
+                    "sort": "3"
+                },
+                {
+                    "name": "Store Door Hardware",
+                    "sort": "131"
+                },
+                {
+                    "name": "Door Sweeps, Seals and Thresholds",
+                    "sort": "10"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "228988",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "196664",
+                    "sort": "10"
+                },
+                {
+                    "legacy_product_id": "187554",
+                    "sort": "11"
+                },
+                {
+                    "legacy_product_id": "1056497",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "232492",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "232550",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "232544",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "187550",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "169217",
+                    "sort": "7"
+                },
+                {
+                    "legacy_product_id": "161386",
+                    "sort": "8"
+                },
+                {
+                    "legacy_product_id": "200795",
+                    "sort": "9"
+                }
+            ],
+            "filter_options": [
+                "Vinyl Blade Height: 7/8\"",
+                "Total Height: 2\"",
+                "Vinyl Blade Length: 48\"",
+                "Select Finish: YDB102CV-48: Aluminum",
+                "Select Finish: YDB102DV-48: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "YDB102CV-48: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "YDB102DV-48: Dark Bronze",
+                    "price_impact": 8.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

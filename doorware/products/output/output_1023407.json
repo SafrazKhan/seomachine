@@ -1,0 +1,103 @@
+{
+    "legacy_product_id": "1023407",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Satin Stainless Kickplate 10 Inches Tall, Don-Jo KP-10x40-630",
+            "vendor": "Don-Jo",
+            "status": "ARCHIVED",
+            "sku": "DJO-KP-10x40-630",
+            "mpn": "DJO-KP-10x40-630",
+            "price": "60.6",
+            "compare_at_price": "75.75",
+            "contractor_price": "60.6",
+            "shipping_weight": "15.0",
+            "tags": [
+                "DJO-KP-10x40-630",
+                "DJO-KP-10x46-630",
+                "Satin Stainless Kickplate 10 Inches Tall",
+                "10 Inch Tall Satin Stainless Steel Kick Plates"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525106.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525106.gif?v=1717106417"
+        },
+        "text": {
+            "description_html": "<b>10 Inch Tall Satin Stainless Steel Kick Plate</b>\r\n\r\n<p>\r\nLarge size commercial door kick plate primarily used in restaurants, warehouses and stores, but are popular in homes as well. Made of .050\" thick high quality solid stainless steel for longevity. Packaged with stainless steel mounting screws for easy installation. \r\n</p>\r\n\r\n<p>\r\nThese stainless kick plates are Made in the USA by Don-Jo Manufacturing.\r\n</p>\r\n\r\n<p>\r\n<b>Features</b> of theSatin Stainless Steel Kick Plate:\r\n<ul>\r\n<li>Material:  Stainless Steel</li>\r\n<li>Finish: <b>Satin Stainless Steel</b></li>\r\n<li>Packaged with Stainless Mounting Screws</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n\r\n<b>10\" x 40\"</b>\r\n<ul>\r\n<li>Plate Height: 10\"</li>\r\n<li>Plate Width: 40\"</li>\r\n<li>Plate Thickness: .050\" (1.2 mm)</li>\r\n</ul>\r\n\r\n<br>\r\n\r\n<b>10\" x 46\"</b>\r\n<ul>\r\n<li>Plate Height: 10\"</li>\r\n<li>Plate Width: 46\"</li>\r\n<li>Plate Thickness: .050\" (1.2 mm)</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Custom item, NOT Returnable</b>\r\n</p>",
+            "seo": {
+                "title": "Satin Stainless Kickplate 10 Inches Tall",
+                "description": "Large size commercial door kick plate primarily used in restaurants, warehouses and stores, but are popular in homes as well. Made of .050 inch thick high quality solid stainless steel for longevity. Packaged with stainless steel mounting screws for easy installation.",
+                "keywords": "DJO-KP-10x40-630, DJO-KP-10x46-630, Satin Stainless Kickplate 10 Inches Tall, 10 Inch Tall Satin Stainless Steel Kick Plates,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Don-Jo Custom Items",
+                    "sort": "58"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "944854",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "789962",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "582236",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "624562",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "548841",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "261573",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Size: 10in. x 40in.",
+                "Select Size: 10in. x 46in."
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "10in. x 40in.",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "10in. x 46in.",
+                    "price_impact": 10.7,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

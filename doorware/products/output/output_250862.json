@@ -1,0 +1,140 @@
+{
+    "legacy_product_id": "250862",
+    "sync_state": {
+        "needs_update": false,
+        "sync_status": "synced",
+        "last_synced": "2026-04-03T15:12:08.579791"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Small Beaded Rosette, First Impressions #BR",
+            "vendor": "First Impressions",
+            "status": "ACTIVE",
+            "sku": "FII-BR",
+            "mpn": "FII-BR",
+            "price": "40.0",
+            "compare_at_price": "50.0",
+            "contractor_price": "38.0",
+            "shipping_weight": "0.05",
+            "tags": [
+                "FII-BR-1 Decorative Beaded Rosettes",
+                "Small Beaded Rosettes",
+                "First Impressions #BR-1 beaded rosettes",
+                "decorative door stop back plates",
+                "FII-BR rosettes"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>First Impressions #BR Decorative Beaded Rosette</b>\r\n<p>\r\nThis decorative beaded rosette can be added to door stops, cabinet knobs and cabinet pulls. Available in 5 different finishes to compliment or contrast your other hardware. \r\n</p>\r\n<p>\r\nThey are supplied standard with <a href=\"/products/small-bamboo-shower-door-pull-first-impressions-sd-gdp625005sbr\"><b>First Impressions small Bamboo Shower Door Pulls</b></a> and <a href=\"/products/11-3-4-inch-bamboo-shower-door-pull-set-first-impressions-pr-sd-gdp6250011sbr\"><b>12 Inch Bamboo Shower Door Pulls</b></a>. \r\n</p>\r\n<p>\r\nThey are often used with <a href=\"/collections/decorative-door-stops\"><b>First Impressions Decorative Door Stops</b></a> specially with the <a href=\"/products/2-5-8-inch-wall-mount-decorative-door-stop-first-impressions-fii-mg25\"><b>First Impressions MG25 Door Stop</b></a>  and the <a href=\"/products/satin-nickel-bamboo-door-stop-first-impressions-1931-us15\"><b>Bamboo Door Stop</b></a> as a decorative back plate. \r\n</p>\r\n<p>\r\n<b>Specifications</b> for First Impressions BR Decorative Beaded Rosette\r\n<ul>\r\n<li>Diameter: 1-3/16\"</li>\r\n<li>Projection: 1/4\"</li>\r\n<li>Thickness: 1/16\"</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<b>*Sold individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Small Beaded Rosette, First Impressions #BR",
+                "description": "First Impressions #BR-1 decorative small round beaded rosette can be added to door stops and cabinet pulls to make an even more dramatic statment. Available in 5 different finishes.",
+                "keywords": "FII-BR-1 Decorative Beaded Rosettes, Small Beaded Rosettes, First Impressions #BR-1 beaded rosettes, decorative door stop back plates, FII-BR rosettes,"
+            },
+            "specifications": [
+                {
+                    "key": "Diameter",
+                    "value": "1-3/16\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "1/4\""
+                },
+                {
+                    "key": "Thickness",
+                    "value": "1/16\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "First Impressions Discontinued",
+                    "sort": "32"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "247851",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "247698",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "247857",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "247809",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "178143",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Diameter: 1-3/16\"",
+                "Projection: 1/4\"",
+                "Thickness: 1/16\"",
+                "Select Finish: FII-BR-US10B - Oil Rubbed Bronze",
+                "Select Finish: FII-BR-US15 - Satin Nickel",
+                "Select Finish: FII-BR-US26 - Polished Chrome",
+                "Select Finish: FII-BR-US3 - Polished Brass",
+                "Select Finish: FII-BR-US5 - Antique Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "FII-BR-US10B - Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-BR-US15 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-BR-US26 - Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-BR-US3 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "FII-BR-US5 - Antique Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

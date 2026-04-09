@@ -1,0 +1,51 @@
+{
+    "legacy_product_id": "1232540",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Emtek Lever Repair Kit, Emtek F707",
+            "vendor": "Emtek",
+            "status": "ARCHIVED",
+            "sku": "EMT-F707",
+            "mpn": "EMT-F707",
+            "price": "17.0",
+            "compare_at_price": "17.0",
+            "contractor_price": "17.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "Emtek Lever Repair Kit",
+                "Emtek F707"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525303.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525303.gif?v=1769492581"
+        },
+        "text": {
+            "description_html": "<b>Emtek F707 Lever Repair Kit</b>\r\n\r\n<p>\r\nThis is a repair kit for <a href=\"/collections/emtek-leversets\"><b>Emtek Leversets</b></a>. Must specify lever part number and finish when ordering.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Emtek Lever Repair Kit, Emtek F707",
+                "description": "This is a repair kit for Emtek Levers.  Must specify lever part number and finish.",
+                "keywords": "Emtek Lever Repair Kit, Emtek F707"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Emtek Miscellaneous Parts",
+                    "sort": "36"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

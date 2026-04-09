@@ -1,0 +1,112 @@
+{
+    "legacy_product_id": "1160825",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Concealed Floor Closer, Dorma BTS80D",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "DRM-BTS80D",
+            "mpn": "DRM-BTS80D",
+            "price": "1477.0",
+            "compare_at_price": "1970.0",
+            "contractor_price": "1477.0",
+            "shipping_weight": "10.0",
+            "tags": [
+                "3/4 Inch Offset Concealed Floor Door Closers",
+                "Concealed Floor Closers",
+                "Dorma BTS80D",
+                "DRM-BTS80D"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525198.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525198.gif?v=1716428636"
+        },
+        "text": {
+            "description_html": "<b>Dorma BTS80D, 3/4 Inch Offset Concealed Floor Door Closer</b>\r\n\r\n<p>\r\nThe BTS80 Series of floor-concealed door closers offer adaptability to almost any installation. The closer's compact body permits its use where a larger closer would be prohibitive. Versatility allows installation in thin slab concrete subfloor construction. A wide selection of interchangeable spindles makes the BTS80 suitable for virtually any floor covering or threshold application.\r\n</p>\r\n\r\n<p>\r\n<b>Features and Specifications</b> for the Dorma BTS80D Concealed Door Floor Closer: \r\n<ul>\r\n<li>Selectable multi point hold open between approx. 75º and 175º.</li>\r\n<li>Selectable delayed action between 175º and 75º.</li>\r\n<li>Maximum Door Weight: 660 lb</li>\r\n<li>Maximum Door Size: 4'-6\" wide interior and 4'-0\"exterior</li>\r\n<li>Concealed installation.\r\n<li>ANSI/BHMA Grade 1 certified.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Concealed Floor Closer",
+                "description": "The BTS80 Series of floor-concealed door closers offer adaptability to almost any installation. The closer's compact body permits its use where a larger closer would be prohibitive. Versatility allows installation in thin slab concrete subfloor construction. A wide selection of interchangeable spindles makes the BTS80 suitable for virtually any floor covering or threshold application.",
+                "keywords": "3/4 Inch Offset Concealed Floor Door Closers, Concealed Floor Closers, Dorma BTS80D, DRM-BTS80D"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Dormakaba",
+                    "sort": "7"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "875931",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "560922",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1045063",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "8970",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: 626: Satin Chrome",
+                "Select Handing: Right Handing",
+                "Select Handing: Left Handing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Right Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Right"
+                },
+                {
+                    "value": "Left Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Left"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "legacy_product_id": "430914",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Grandeur Replacement Deadbolt Cylinder 8229XX",
+            "vendor": "Grandeur",
+            "status": "ARCHIVED",
+            "sku": "8229xx",
+            "mpn": "8229xx",
+            "price": "49.7",
+            "compare_at_price": "49.7",
+            "contractor_price": "49.7",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Grandeur grande victorian deadbolts",
+                "single cylinder deadbolt",
+                "double cylinder deadbolt",
+                "grandeur deadbolts",
+                "victorian era deadbolts",
+                "victorian design deadbolts"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Replacement Deadbolt Lock Cylinder</b>\r\n<p>\r\nReplacement lock cylinder only. For use with deadbolts made by <a href=\"/collections/grandeur-decorative\"><b>Grandeur Decorative</a></b> door hardware. \r\n<p>\r\n<p>\r\n<b>Features</b> of Grandeur Deadbolt Cylinder\r\n<ul>\r\n<li>Lock Cylinder  Projection: 0.76\"</li>\r\n<li>Solid  Brass</li>\r\n<li>Available Finishes: 5</li>\r\n<li>Supplied with 2 Keys</li>\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Grandeur Replacement Deadbolt Cylinder 8229XX",
+                "description": "The replacement deadbolt cylinder from Grandeur Decorative door hardware offers great security. Forged from solid brass it is a 1\" Deadbolt with Hardened Steel Core.",
+                "keywords": "Grandeur grande victorian deadbolts, single cylinder deadbolt, double cylinder deadbolt, grandeur deadbolts, victorian era deadbolts, victorian design deadbolts,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Locks & Latches",
+            "google_category": "Hardware > Locks & Keys > Locks & Latches",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-9-4",
+            "collections": [
+                {
+                    "name": "Grandeur Parts",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: AP: Antique Pewter",
+                "Select Finish: SN: Satin Nickel",
+                "Select Finish: PN: Polished Nickel",
+                "Select Finish: TB: Timeless Bronze",
+                "Select Finish: VB: Vintage Brass",
+                "Select Finish: LB: Lifetime Polished Brass",
+                "Select Finish: SB: Satin Brass (N/A for Double Cylinder)",
+                "Keying-Mortise: I Only Ordered One Lock",
+                "Keying-Mortise: Keyed Different",
+                "Keying-Mortise: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "AP: Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "AP"
+                },
+                {
+                    "value": "SN: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "SN"
+                },
+                {
+                    "value": "PN: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "TB: Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "TB"
+                },
+                {
+                    "value": "VB: Vintage Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "VB"
+                },
+                {
+                    "value": "LB: Lifetime Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "LB"
+                },
+                {
+                    "value": "SB: Satin Brass (N/A for Double Cylinder)",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Keying-Mortise",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "I Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Keyed"
+                }
+            ]
+        }
+    ]
+}

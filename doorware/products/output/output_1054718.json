@@ -1,0 +1,128 @@
+{
+    "legacy_product_id": "1054718",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Baldwin R033 Estate Rosette Only",
+            "vendor": "Baldwin",
+            "status": "ARCHIVED",
+            "sku": "BAL-R033",
+            "mpn": "BAL-R033",
+            "price": "69.6",
+            "compare_at_price": "87.0",
+            "contractor_price": "69.6",
+            "shipping_weight": "0.5",
+            "tags": [
+                "BAL-R033xxxPV",
+                "Baldwin Square Privacy Rose",
+                "Baldwin R033xxxPV"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/BAL-R033-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/BAL-R033-525.jpg?v=1716427950"
+        },
+        "text": {
+            "description_html": "<b>Baldwin Estates R033 Rose for Levers and Knobs</b>\r\n\r\n<p>\r\nThis is a pair of 2 square rosettes for use with <a href=\"site/department.cfm?id=65949\">Baldwin Estates Knobs</a> and <a href=\"site/department.cfm?id=66400\">Baldwin Estates Levers</a>.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Baldwin R033:\r\n<ul>\r\n<li>Height: 3.225\"</li>\r\n<li>Width: 2.75\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Ordered Item. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "Baldwin R033 Estate Rosette Only",
+                "description": "Baldwin Estates R033 Rose for Levers and Knobs",
+                "keywords": "BAL-R033xxxPV, Baldwin Square Privacy Rose, Baldwin R033xxxPV"
+            },
+            "specifications": [
+                {
+                    "key": "Height",
+                    "value": "3.225\""
+                },
+                {
+                    "key": "Width",
+                    "value": "2.75\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Baldwin Discontinued",
+                    "sort": "173"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "900199",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "447256",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "396635",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "399435",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Height: 3.225\"",
+                "Width: 2.75\"",
+                "Select Function: BAL-R033-PS: Passage Function",
+                "Select Function: BAL-R033-PV: Privacy Function",
+                "Select Finish: 190: Matte Black",
+                "Select Finish: 056: Satin Nickel PVD"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "BAL-R033-PS: Passage Function",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "BAL-R033-PV: Privacy Function",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "190: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "056: Satin Nickel PVD",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

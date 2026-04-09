@@ -1,0 +1,119 @@
+{
+    "legacy_product_id": "188632",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Parallel Arm Mount Bracket, Pin Mount, Global PAB-2200",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-PAB-2200",
+            "mpn": "GLO-PAB-2200",
+            "price": "7.25",
+            "compare_at_price": "10.35",
+            "contractor_price": "6.52",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Global PAB-2200 Parallel Arm Mount Brackets",
+                "GLO-PAB-2200-AL",
+                "GLO-PAB-2200-DU",
+                "Parallel Arm brackets",
+                "Global Door Controls TC200",
+                "TC2203 parallel brackets",
+                "pab2200 pin mount brackets",
+                "Global PAB-1245",
+                "GLO-PAB-1245-AL",
+                "GLO-PAB-1245-DU",
+                "Parallel Arm brackets",
+                "Global Door Controls TC200",
+                "global PAB-2200-AL",
+                "global PAB-2200-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PAB-2200_5251.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PAB-2200_5251.jpg?v=1716421820"
+        },
+        "text": {
+            "description_html": "<b>Parallel Arm Mount Bracket - Pin Mounted</b>\r\n\r\n<p>\r\nFor use with <a href=\"/products/surface-mounted-ada-compliant-door-closer-global-tc2201ada\"><b>Global TC2201ADA</b></a>,  <a href=\"/products/tc201-global-grade-1-surface-mount-door-closer\"><b>Global TC201</b></a>, <a href=\"/products/tc411-ada-compliant-grade-1-tri-packed-door-closer\"><b>Global TC411</b></a>,  <a href=\"/products/tc412-grade-1-tri-packed-door-closer\"><b>Global TC412</b></a>,  <a href=\"/products/ada-compliant-full-cover-tri-packed-door-closer\"><b>Global TC511</b></a>,  <a href=\"/products/grade-1-full-cover-door-closer\"><b>Global TC512</b></a>, <a href=\"/products/ada-compliant-grade-1-tri-packed-door-closer-global-tc611\"><b>Global TC611</b></a> and <a href=\"/products/grade-1-tri-packed-door-closer-global-tc612\"><b>Global TC612</b></a>. Used with a regular arm. Can be used with any surface mounted closer where the arm has no shoe and the ball socket is 3/8\" diameter.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications:</b>\r\n<li>Length: 4-3/8\"</li>\r\n <li>Width at Header Mount: 3-3/8\"</li>\r\n <li>Arm Mount Pin Diameter: 3/8\"</li>\r\n<li>Material: 1/8\" Thick Steel</li>\r\n</p>\r\n<p>\r\nPackaged with wood and machine screws for use on wood or metal door frames. \r\n</p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "Parallel Arm Mount Bracket, Pin Mount, Global PAB-2200",
+                "description": "Global PAB-2200 - Pin Type Parallel Arm Mount Bracket for Global TC200 and TC2200 series surface mounted door closers,  available in aluminum or dark bronze (duro) finish.",
+                "keywords": "Global PAB-2200 Parallel Arm Mount Brackets, GLO-PAB-2200-AL, GLO-PAB-2200-DU, Parallel Arm brackets, Global Door Controls TC200, TC2203 parallel brackets, pab2200 pin mount brackets, Global PAB-1245, GLO-PAB-1245-AL, GLO-PAB-1245-DU, Parallel Arm brackets, Global Door Controls TC200, global PAB-2200-AL, global PAB-2200-DU,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Door Closer Accessories",
+                    "sort": "20"
+                },
+                {
+                    "name": "Global TC200, TC400, TC500, TC600 Series",
+                    "sort": "11"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "196514",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "147431",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "15147",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "173138",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "15299",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "173090",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: PAB-2200-AL: Aluminum",
+                "Select Finish: PAB-2200-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "PAB-2200-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-PAB-2200-AL"
+                },
+                {
+                    "value": "PAB-2200-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "GLO-PAB-2200-DU"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "legacy_product_id": "1097953",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Empire Knob with Netropol Round Rose, Brass Accents D07-K360-EMP",
+            "vendor": "BrassAccents",
+            "status": "ARCHIVED",
+            "sku": "BRA-D07-K360-EMP",
+            "mpn": "BRA-D07-K360-EMP",
+            "price": "47.52",
+            "compare_at_price": "59.4",
+            "contractor_price": "45.14",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Netropol Decorative Door Knob",
+                "Brass Accents D07-K360-EMP",
+                "Netropol Collection Empire Door Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-525150.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-525150.gif?v=1716428154"
+        },
+        "text": {
+            "description_html": "<b>Brass Accents D07-K360-EMP, Netropol Collection Empire Door Knob</b>\r\n\r\n<p>\r\nEnter the modern age with this mushroom shaped knob style made popular be the Earle Hardware Co. around 1935.  Simple design, yet goes with many back plate styles. \r\n</p>\r\n\r\n<p>\r\n<B>Specifications</B> of Brass Accents Empire Door Knob with Round Rose:\r\n<ul>\r\n<li>Rose Material: Solid Brass</li>\r\n<li>Knob Material: Crystal</li>\r\n<li>Rosette Diameter: 2-5/8\"</li>\r\n<li>Door Thickness: adjustable for 1-3/8\" or 1-3/4\" thick doors</li>\r\n<li>Backset:either 2-3/8\" or 2-3/4\"</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>When Selecting a Function:</b> \r\n<ul>\r\n<li><b>Single Dummy:</b> For use as a pull or to match trim on one side of the door. It does not latch and does not lock.</li>\r\n<li><b>Double Dummy:</b> For use as a pull or to match trim on both sides of the door. They do not latch and do not lock</b>\r\n<li><b>Passage (hall or closet):</b> For doors that don't need locking. Latches but does not lock.</li>\r\n<li><b>Privacy (bedroom or bathroom):</b> For doors that could need locking. The lock is activated by a push button and turning the inside knob releases the lock. It can be opened from the outside with a small tool.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually.</i>\r\n</p>",
+            "seo": {
+                "title": "Empire Knob with Netropol Round Rose",
+                "description": "",
+                "keywords": "Netropol Decorative Door Knob, Brass Accents D07-K360-EMP, Netropol Collection Empire Door Knobs"
+            },
+            "specifications": [
+                {
+                    "key": "Rose Material",
+                    "value": "Solid Brass"
+                },
+                {
+                    "key": "Knob Material",
+                    "value": "Crystal"
+                },
+                {
+                    "key": "Rosette Diameter",
+                    "value": "2-5/8\""
+                },
+                {
+                    "key": "Door Thickness",
+                    "value": "adjustable for 1-3/8\" or 1-3/4\" thick doors"
+                },
+                {
+                    "key": "Backset",
+                    "value": "either 2-3/8\" or 2-3/4\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "BRA-discontinued-custom",
+                    "sort": "55"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "729205",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "729019",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "1033433",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "729099",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "27171",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "26222",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Rose Material: Solid Brass",
+                "Knob Material: Crystal",
+                "Rosette Diameter: 2-5/8\"",
+                "Door Thickness: adjustable for 1-3/8\" or 1-3/4\" thick doors",
+                "Backset: either 2-3/8\" or 2-3/4\"",
+                "Select Function and Backset: D07-360S: Single Dummy",
+                "Select Function and Backset: D07-360D: Double Dummy",
+                "Select Function and Backset: D07-360A: Passage Set 2-3/8in. Backset",
+                "Select Function and Backset: D07-360B: Passage Set 2-3/4in. Backset",
+                "Select Function and Backset: D07-360G: Privacy Set 2-3/8in. Backset",
+                "Select Function and Backset: D07-360H: Privacy Set 2-3/4in. Backset",
+                "Select Finish: US4: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Function and Backset",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "D07-360S: Single Dummy",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "D07-360D: Double Dummy",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "D07-360A: Passage Set 2-3/8in. Backset",
+                    "price_impact": 47.52,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "D07-360B: Passage Set 2-3/4in. Backset",
+                    "price_impact": 47.52,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "D07-360G: Privacy Set 2-3/8in. Backset",
+                    "price_impact": 47.52,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "D07-360H: Privacy Set 2-3/4in. Backset",
+                    "price_impact": 47.52,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

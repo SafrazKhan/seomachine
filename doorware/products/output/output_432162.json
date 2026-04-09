@@ -1,0 +1,97 @@
+{
+    "legacy_product_id": "432162",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Electric Strike, Adams Rite 7100",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "ADA-7100-628",
+            "mpn": "ADA-7100-628",
+            "price": "258.0",
+            "compare_at_price": "258.0",
+            "contractor_price": "258.0",
+            "shipping_weight": "3.0",
+            "tags": [
+                "Electric Strike",
+                "Adams Rite 7100"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/7100-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/7100-525.jpg?v=1717789188"
+        },
+        "text": {
+            "description_html": "<b>Electric Strike, Adams Rite 7100\r\n</b>\r\n<p>\r\nThe Adams Rite 7100 Series Electric strike has a 1 ton jaw strength and is UL listed for burglary resistance.  It is field reversible for fail/secure.\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Specifications</b> for Adams Rite 7100 Strike\r\n<ul>\r\n<li>24V A/C</li>\r\n<li>Plate Length: 4-7/8\"</li>\r\n<li>Plate Width: 1-1/4\"</li>\r\n<li>Case:  1\" x 3-3/8\" x 1-5/8\"</li>\r\n<li>Strike Opening:  5/8\" x 1-7/16\" x 1/2\"</li>\r\n<li>Radius Corner Faceplate</li>\r\n\r\n</ul>\r\n</p>",
+            "seo": {
+                "title": "Electric Strike, Adams Rite 7100",
+                "description": "Electric Strike, Adams Rite 7100",
+                "keywords": "Electric Strike, Adams Rite 7100"
+            },
+            "specifications": [
+                {
+                    "key": "Plate Length",
+                    "value": "4-7/8\""
+                },
+                {
+                    "key": "Plate Width",
+                    "value": "1-1/4\""
+                },
+                {
+                    "key": "Case",
+                    "value": "1\" x 3-3/8\" x 1-5/8\""
+                },
+                {
+                    "key": "Strike Opening",
+                    "value": "5/8\" x 1-7/16\" x 1/2\""
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Adams Rite",
+                    "sort": "1"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Plate Length: 4-7/8\"",
+                "Plate Width: 1-1/4\"",
+                "Case: 1\" x 3-3/8\" x 1-5/8\"",
+                "Strike Opening: 5/8\" x 1-7/16\" x 1/2\"",
+                "Select Finish: 626: Satin Chrome",
+                "Select Finish: 313: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "626: Satin Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "313: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

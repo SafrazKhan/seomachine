@@ -1,0 +1,112 @@
+{
+    "legacy_product_id": "222883",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "T-Bar Hold Open Arm, Global HOA-4300-CNS",
+            "vendor": "Global",
+            "status": "ACTIVE",
+            "sku": "GLO-HOA-4300-CNS",
+            "mpn": "GLO-HOA-4300-CNS",
+            "price": "107.19",
+            "compare_at_price": "153.13",
+            "contractor_price": "96.47",
+            "shipping_weight": "4.0",
+            "tags": [
+                "GLO-HOA-4300-CNS Heavy Duty Hold Open Arms",
+                "T-Bar Hold Open Arms",
+                "Global HOA-4300-CNS  Heavy Duty hold open arms",
+                "cush-n-stop arms",
+                "Global door controls door closers arms",
+                "T bar hold open arms",
+                "door closer hold open arms",
+                "global HOA-4300-CNS-AL",
+                "global HOA-4300-CNS-DU"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/HOA-4300-CNS_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/HOA-4300-CNS_525.jpg?v=1716422174"
+        },
+        "text": {
+            "description_html": "<b>Heavy Duty Door Saver Hold Open Arm - Cush-N-Stop Arm</b>\r\n<p>\r\nT-Bar style Cush-N-Stop Hold Open arm for 4040 Series Style Closers. Fits <a href=\"/products/lcn-4040-series-replacement-ada-compliant-heavy-duty-door-closer-global-tc4300\"><b>Global TC4300 Door Closers</b></a> and <a href=\"/products/extra-heavy-duty-door-closer-deltana-dc40\"><b>Deltana DC40 Door Closers</b></a>. Can be used with any closer that has a  15mm Hexagon shaft (15 mm x 6 Sided).\r\n</p>\r\n<p><b>Parallel Arm Mount Only</b>\r\n</p>\r\n\r\n<p>Heavy duty rigid arm assembly and soffit plate with field reversible dead stop. \"T\" bar turn knob to activated or inactivate the hold open function. Packaged with mounting hardware.\r\n</p>\r\n<p>\r\n Available in 2 finishes of Aluminum or Dark Bronze .\r\n</p>",
+            "seo": {
+                "title": "T-Bar Hold Open Arm, Global HOA-4300-CNS",
+                "description": "Global HOA-4300-CNS T-Bar style Cush-N-Stop Hold Open arm for 4040 Series Style Closers. Fits Global TC4300 Door Closers.",
+                "keywords": "GLO-HOA-4300-CNS Heavy Duty Hold Open Arms, T-Bar Hold Open Arms, Global HOA-4300-CNS  Heavy Duty hold open arms, cush-n-stop arms, Global door controls door closers arms, T bar hold open arms, door closer hold open arms, global HOA-4300-CNS-AL, global HOA-4300-CNS-DU,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "Door Closer Accessories",
+                    "sort": "14"
+                },
+                {
+                    "name": "Global TC4300 Closer Accessories",
+                    "sort": "3"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "222877",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "203817",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "222892",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "190257",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "222898",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "443961",
+                    "sort": "6"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: HOA-4300-CNS-AL: Aluminum",
+                "Select Finish: HOA-4300-CNS-DU: Dark Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "HOA-4300-CNS-AL: Aluminum",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "HOA-4300-CNS-DU: Dark Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

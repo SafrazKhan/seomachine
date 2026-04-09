@@ -1,0 +1,66 @@
+{
+    "legacy_product_id": "899821",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "First Impressions Set Screw",
+            "vendor": "First Impressions",
+            "status": "ARCHIVED",
+            "sku": "FII-SET-SCREW",
+            "mpn": "FII-SET-SCREW",
+            "price": "3.9",
+            "compare_at_price": "3.9",
+            "contractor_price": "3.9",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Replacement Set Screws",
+                "Replacement First Impressions Set Screws",
+                "First Impressions Set Screws",
+                "Door Pull Set Screws"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/Special-Order-52553.gif",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/Special-Order-52553.gif?v=1717790484"
+        },
+        "text": {
+            "description_html": "<b>Set Screw for First Impressions Door Pulls</b>\r\n\r\n<p>\r\nReplacement Set Screw for <a href=\"/collections/first-impressions-door-pulls\"><b>First impressions Door Pulls</b></a>.\r\n</p>\r\n\r\n<p>\r\nSold Individually. Custom item, NOT Returnable\r\n</p>",
+            "seo": {
+                "title": "First Impressions Set Screw",
+                "description": "Replacement Set Screw for First impressions Door Pulls.",
+                "keywords": "Replacement Set Screws, Replacement First Impressions Set Screws, First Impressions Set Screws, Door Pull Set Screws,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "First Impressions Miscellaneous Parts",
+                    "sort": "13"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "597665",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "540695",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "407752",
+                    "sort": "3"
+                }
+            ],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

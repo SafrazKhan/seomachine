@@ -1,0 +1,139 @@
+{
+    "legacy_product_id": "1080963",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "8 Foot Fire Rated Mullion, PDQ 9200MF-11/l01707",
+            "vendor": "PDQ",
+            "status": "ACTIVE",
+            "sku": "PDQ-9200MF-11/l01707",
+            "mpn": "PDQ-9200MF-11/l01707",
+            "price": "981.31",
+            "compare_at_price": "1635.52",
+            "contractor_price": "883.18",
+            "shipping_weight": "35.0",
+            "tags": [
+                "PDQ-9200MF-11/l01707-6016 8 Foot Fire Rated Mullions. 8 Foot Door Mullions",
+                "center door bars",
+                "PDQ 6200 series panic hardware"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/PDQ-9200MF-11_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/PDQ-9200MF-11_525.jpg?v=1717106464"
+        },
+        "text": {
+            "description_html": "<b>PDQ 9200MF-11/l01707-6016 8 Foot Fire Rated Mullion</b>\r\n<p>\r\nKey removable 8 Foot Fire Rated Mullion for use <a href=\"/products/heavy-duty-fire-door-rim-exit-device-pdq-6200rf\">PDQ 6200RF Heavy Duty Fire Door Rim Exit Device</a>,  <a href=\"/products/motorized-electric-latch-rim-exit-device-pdq-6200rf630mlr\">PDQ 6200RF630MLR Motorized Electric Latch Retraction Exit Device</a>,  <a href=\"/products/heavy-duty-rim-exit-device-for-30-36-inch-door-pdq-6300r\">PDQ 6200R Rim Panic Device</a> and other <a href=\"/collections/panic-devices\">Rim Panic Devices</a> on pairs of doors. Field sizable- Can be cut for shorter frames. \r\n</p>\r\n\r\n<p>\r\nMullion can be removed by turning the keyed lock on top. Small profile base plate prevents interference when moving objects through doorway.  Field sizable for shorter doors.\r\n</p>\r\n<p>\r\nMullion kit includes top and bottom bracket set, mullion tube, shims and Lock Cylinder. Meets requirements of the <b>Buy American Act</b>.\r\n</p>\r\n\r\n<p><b>Specifications</b> for PDQ 9200MF-11 8 Foot Mullion\r\n<ul>\r\n<li>Door Height: 8 Feet or Less</li>\r\n<li>Mullion Tube: 11 Gauge Steel, 2\" wide x 3\" deep</li>\r\n<li>Finish: 689 Aluminum Powder Coat</li>\r\n<li>UL Listed for 3 Hr Fire Doors</li>\r\n<li>Lock Cylinder Keyway: Schlage \"C\" Standard.</li>\r\n<li>1 Year Limited Manufacturer Warranty </li>\r\n\r\n<!-- <li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/F90R-install.pdf?v=1704262420\"><b>DETEX F90Rx8 installation Instructions</a></b></li> -->\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<br>\r\n<b>** Made to order item. Please allow 2 weeks to ship</b>\r\n</p>",
+            "seo": {
+                "title": "8 Foot Fire Rated Mullion",
+                "description": "Key removable 8 Foot Fire Rated Mullion for use PDQ 6200 series Panic Device. Field sizable- Can be cut for shorter frames. Meets requirements of the Buy American Act",
+                "keywords": "PDQ-9200MF-11/l01707-6016 8 Foot Fire Rated Mullions. 8 Foot Door Mullions, center door bars, PDQ 6200 series panic hardware,"
+            },
+            "specifications": [
+                {
+                    "key": "Door Height",
+                    "value": "8 Feet or Less"
+                },
+                {
+                    "key": "Mullion Tube",
+                    "value": "11 Gauge Steel, 2\" wide x 3\" deep"
+                },
+                {
+                    "key": "Finish",
+                    "value": "689 Aluminum Powder Coat"
+                },
+                {
+                    "key": "Lock Cylinder Keyway",
+                    "value": "Schlage \"C\" Standard."
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Panic Hardware",
+                    "sort": "49"
+                },
+                {
+                    "name": "PDQ-Discontinued",
+                    "sort": "8"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "1078630",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "413699",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "232067",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "430060",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "15322",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "203215",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "1078474",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Door Height: 8 Feet or Less",
+                "Mullion Tube: 11 Gauge Steel, 2\" wide x 3\" deep",
+                "Finish: 689 Aluminum Powder Coat",
+                "Lock Cylinder Keyway: Schlage \"C\" Standard.",
+                "Keying: Only Ordered One Lock",
+                "Keying: Keyed Different",
+                "Keying: Keyed Alike"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Keying",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Only Ordered One Lock",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Different",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "Keyed Alike",
+                    "price_impact": 5.5,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

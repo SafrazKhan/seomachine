@@ -1,0 +1,109 @@
+{
+    "legacy_product_id": "306773",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "36 Inch Automatic Door Bottom Seals, Pemko 412DRL-36",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "PEM-412DRL-36",
+            "mpn": "PEM-412DRL-36",
+            "price": "74.3",
+            "compare_at_price": "92.95",
+            "contractor_price": "74.3",
+            "shipping_weight": "5.0",
+            "tags": [
+                "PEM-412DRL-36 36 Inch Automatic Door Bottom Seals",
+                "Pemko 412DRL-36"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/pemko-412DRL_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/pemko-412DRL_525.jpg?v=1717105905"
+        },
+        "text": {
+            "description_html": "<b>Pemko 36\" Surface Mounted Automatic Door Bottom Seal</b>\r\n<p>\r\nSurface mounted (screws to the door face) automatic door bottom seal kit. Smoother action positive seal mechanism. All Pemko automatic door bottoms consist of an aluminum case which surrounds a movable drop-bar seal. The drop-bar seal is actuated by a plunger which contacts the jamb as the door is closing, forcing the drop-bar seal down against the floor / threshold. \r\n</p>\r\n<!-- <p>\r\nThe black nylon filaments conform extremely well to irregular surfaces such as carpet, stone and grout lines. Seal up to a 3/4\" gap under the door.\r\n</p> -->\r\n<p>\r\n Field sizable 2\" (you can only shorten it a total of 2 inches). Powder coated non-rusting aluminum blade housing. Packaged with installation screws.\r\n</p>\r\n<p>\r\n<b>Specifications</b> for Pemko 412DRL-36 Automatic Door Bottom Seal\r\n<ul>\r\n<li>Length: 36\"</li>\r\n<li>Total Height: 1-15/16\"</li>\r\n<li>Projection: 9/16\"</li>\r\n<li>Max Door Gap to Floor: 5/8\"</li>\r\n<li>Seal Type: Black Sponge Neoprene</li>\r\n<li>Handed, Reversible</li>\r\n<li>Finish: <b>Dark Bronze</b></li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/412RL_install.pdf?v=1704262259\" target=\"new\"><b>Pemko 412DRL Installation</b></a></li>\r\n</ul>\r\n</p>\r\n<p>\r\nSpecial order item, please allow 10-14 days to ship. Made to order in any size ranging from 18\" to 72\". Please <a href=\"/pages/contact\"><b>Contact Us</b></a> with your requirements.\r\n</p>\r\n<p>\r\n<b>*Sold Individually.</b>\r\n</p>",
+            "seo": {
+                "title": "36 Inch Automatic Door Bottom Seals, Pemko 412DRL-36",
+                "description": "Surface mounted (screws to the door face) automatic door bottom seal kit. Smoother action positive seal mechanism. All Pemko automatic door bottoms consist of an aluminum case which surrounds a movable drop-bar seal. The drop-bar seal is actuated by a plunger which contacts the jamb as the door is closing, forcing the drop-bar seal down against the floor / threshold. \r\n",
+                "keywords": "PEM-412DRL-36 36 Inch Automatic Door Bottom Seals, Pemko 412DRL-36"
+            },
+            "specifications": [
+                {
+                    "key": "Length",
+                    "value": "36\""
+                },
+                {
+                    "key": "Total Height",
+                    "value": "1-15/16\""
+                },
+                {
+                    "key": "Projection",
+                    "value": "9/16\""
+                },
+                {
+                    "key": "Max Door Gap to Floor",
+                    "value": "5/8\""
+                },
+                {
+                    "key": "Seal Type",
+                    "value": "Black Sponge Neoprene"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Dark Bronze"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Pemko",
+                    "sort": "6"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Length: 36\"",
+                "Total Height: 1-15/16\"",
+                "Projection: 9/16\"",
+                "Max Door Gap to Floor: 5/8\"",
+                "Seal Type: Black Sponge Neoprene",
+                "Finish: Dark Bronze",
+                "Door Handing: Right Hand",
+                "Door Handing: Left Hand"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Door Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Right Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Right"
+                },
+                {
+                    "value": "Left Hand",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Left"
+                }
+            ]
+        }
+    ]
+}

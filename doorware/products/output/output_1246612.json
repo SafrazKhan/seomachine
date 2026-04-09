@@ -1,0 +1,46 @@
+{
+    "legacy_product_id": "1246612",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Custom Packaging Fee, DWD-PKGFEE",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "DWD-PKGFEE",
+            "mpn": "DWD-PKGFEE",
+            "price": "5.0",
+            "compare_at_price": "5.0",
+            "contractor_price": "5.0",
+            "shipping_weight": "0.0",
+            "tags": [
+                "Custom Packaging Fee",
+                "DWD-PKGFEE"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/DWD-PKGFEE-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/DWD-PKGFEE-525.jpg?v=1769505284"
+        },
+        "text": {
+            "description_html": "<b>Custom Packaging Fee, DWD-PKGFEE</b>",
+            "seo": {
+                "title": "Custom Packaging Fee",
+                "description": "Custom Packaging Fee, DWD-PKGFEE",
+                "keywords": "Custom Packaging Fee, DWD-PKGFEE"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

@@ -1,0 +1,116 @@
+{
+    "legacy_product_id": "212953",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Door Closer Track for LCN 2030 Series, LCN-2030-3038",
+            "vendor": "LCN",
+            "status": "ACTIVE",
+            "sku": "LCN-2030-3038-N",
+            "mpn": "LCN-2030-3038-N",
+            "price": "101.15",
+            "compare_at_price": "119.0",
+            "contractor_price": "96.09",
+            "shipping_weight": "3.0",
+            "tags": [
+                "LCN-2030-3038 Door Closer Track for LCN 2030 Series Concealed Door Closers",
+                "LCN parts",
+                "LCN closer parts",
+                "LCN pacer parts",
+                "concealed aluminum for LCN door closers",
+                "LCN 2030-3038H with hold open",
+                "LCN 2030-3038HB track with hold open bumper",
+                "LCN 2030-3038B track with bumper",
+                "LCN 2030-3038-N closer tracks"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/LCN-2030-3038-N_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/LCN-2030-3038-N_525.jpg?v=1717105773"
+        },
+        "text": {
+            "description_html": "<b>LCN 2030 Series Door Closer Track</b>\r\n<p>This is the new style replacement track  for <a href=\"/products/lcn-model-2030-series-store-front-concealed-door-closer\"><b>LCN 2030 Series</b></a> (LCN Pacer) concealed door closer. Track does not have the eight (8) small screw holes that were used for the old style <a href=\"/products/hold-open-clip-for-lcn-2030-series-lcn-2030-3054\"><b>Hold Open Clip</b></a> and/or <a href=\"/products/stop-bumper-for-lcn-2030-series-lcn-2030-169\"><b>Stop Cushion</b></a>\r\n</p>\r\n<p>Also available other <a href=\"/search?type=product&q=LCN Door Closer Parts\"><b>LCN Door Closer Parts</b></a>\r\n</p>\r\n<p>Aluminum concealed Track. Non-handed for use with or with out \r\n<a href=\"/products/hold-open-clip-for-lcn-2030-series-lcn-2030-3054-n\"><b>Hold Open Clip</b></a> and/or <a href=\"/products/stop-bumper-for-lcn-2030-series-lcn-2030-169-n\"><b>Stop Cushion</b></a>. \r\n</p>\r\n<p>\r\nTotal track length is 22-1/2\". Package includes necessary track mounting screw hardware.\r\n</p>\r\n<p><b>*Sold Individually</b></p>",
+            "seo": {
+                "title": "Door Closer Track for LCN 2030 Series, LCN-2030-3038",
+                "description": "This is the new style replacement track  for LCN 2030 Series (LCN Pacer) concealed door closer. Track does not have the eight (8) small screw holes that were used for the old style hold open and stop cushion. ",
+                "keywords": "LCN-2030-3038 Door Closer Track for LCN 2030 Series Concealed Door Closers, LCN parts, LCN closer parts, LCN pacer parts, concealed aluminum for LCN door closers, LCN 2030-3038H with hold open, LCN 2030-3038HB track with hold open bumper, LCN 2030-3038B track with bumper, LCN 2030-3038-N closer tracks,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Closers",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Closers",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-2",
+            "collections": [
+                {
+                    "name": "LCN Door Closer Parts",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "805011",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "804852",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "199692",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "804850",
+                    "sort": "4"
+                }
+            ],
+            "filter_options": [
+                "Select Track Options: 2030-3038: Standard Track",
+                "Select Track Options: 2030-3038B: Track with Stop Cushion",
+                "Select Track Options: 2030-3038H: Track with Hold Open Clip",
+                "Select Track Options: 2030-3038HB: Track with Stop Cushion and Hold Open Clip"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Track Options",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "2030-3038: Standard Track",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2030-3038B: Track with Stop Cushion",
+                    "price_impact": 6.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2030-3038H: Track with Hold Open Clip",
+                    "price_impact": 34.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "2030-3038HB: Track with Stop Cushion and Hold Open Clip",
+                    "price_impact": 47.6,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

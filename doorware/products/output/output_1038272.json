@@ -1,0 +1,175 @@
+{
+    "legacy_product_id": "1038272",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Cinder Cabinet Knob, Emtek 86446",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-86446",
+            "mpn": "EMT-86446",
+            "price": "12.99",
+            "compare_at_price": "16.0",
+            "contractor_price": "12.99",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Cinder Cabinet Knobs",
+                "Emtek 86446",
+                "Emtek 86447",
+                "Emtek Cinder Knobs",
+                "Emtek Modern Block Cabinet Knobs",
+                "anvil cabinet knobs",
+                "Kitchen Cabinet Cinder Knobs"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86446-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86446-525.jpg?v=1716427839"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86446, Kitchen Cabinet Cinder Knob</b>\r\n\r\n<p>\r\nThe Cinder Cabinet Knob is sure to add dramatic style to any small door or drawer be it in the kitchen, the bathroom, or even on furniture. The Cabinet Cinder Knob is available in small and large sizes. Each of those comes in your choice of stylish finish colors. The Modern Block Cabinet Knob is easy to install and comes packaged with the mounting hardware.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Emtek Modern Block Cabinet Knob:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Comes packaged with installation screws.</li>\r\n<li><a href=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86446-specifications.pdf?v=1704262414\"><b>Emtek Cinder Cabinet Knob Dimensions Diagram (PDF)</b></a></li>\r\n</ul>\r\n<p>\r\n\r\n<p>\r\n<b>Available in 2 Sizes:</b>\r\n<ul>\r\n<b>86446: Small</b>\r\n<ul>\r\n<li>Length: 1-5/8\"</li>\r\n<li>Width: 5/8\"</li>\r\n<li>Base Length: 1-1/2\"</li>\r\n<li>Base Width: 1/2\"</li>\r\n<li>Mounting Center to Center: 1\"</li>\r\n</ul>\r\n<br>\r\n<b>86447: Large</b>\r\n<ul>\r\n<li>Length: 2-1/4\"</li>\r\n<li>Width: 7/8\"</li>\r\n<li>Base Length: 2\"</li>\r\n<li>Base Width: 3/4\"</li>\r\n<li>Mounting Center to Center: 1\"</li>\r\n</ul>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-modern-5-Finishes.jpg?v=1704354501\" width=\"511\" height=\"111\" border=\"0\" alt=\"Emtek Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "Cinder Cabinet Knob",
+                "description": "The Cinder Cabinet Knob is sure to add dramatic style to any small door or drawer be it in the kitchen, the bathroom, or even on furniture. The Cabinet Cinder Knob is available in small and large sizes. Each of those comes in your choice of stylish finish colors. The Modern Block Cabinet Knob is easy to install and comes packaged with the mounting hardware.",
+                "keywords": "Cinder Cabinet Knobs, Emtek 86446, Emtek 86447, Emtek Cinder Knobs, Emtek Modern Block Cabinet Knobs, anvil cabinet knobs, Kitchen Cabinet Cinder Knobs,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Emtek Cabinet Hardware",
+                    "sort": "79"
+                },
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "9"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "919493",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "802707",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "760835",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "979484",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "43085",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "38143",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "121036",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Select Size: 86446: Small",
+                "Select Size: 86447: Large",
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel",
+                "Select Finish: US4: Satin Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Size",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "86446: Small",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "86447: Large",
+                    "price_impact": 8.8,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        },
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US4: Satin Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

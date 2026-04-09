@@ -1,0 +1,130 @@
+{
+    "legacy_product_id": "1029692",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "T-Curve Cabinet Pull, Emtek 86415",
+            "vendor": "Emtek",
+            "status": "ACTIVE",
+            "sku": "EMT-86415",
+            "mpn": "EMT-86415",
+            "price": "7.2",
+            "compare_at_price": "9.0",
+            "contractor_price": "6.84",
+            "shipping_weight": "1.0",
+            "tags": [
+                "T-Curve Kitchen Cabinet Pulls",
+                "T-Curve Cabinet Pull",
+                "Emtek 86415",
+                "Emtek 86415 T-Curve Pulls",
+                "Modern T-Curve Cabinet Pulls",
+                "EMT-86415",
+                "T-Curve Kitchen Cabinet Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/EMT-86415-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86415-525.jpg?v=1716427774"
+        },
+        "text": {
+            "description_html": "<b>Emtek 86415, Modern T-Curve Cabinet Pull</b>\r\n\r\n<p>\r\nThe T-Curve Cabinet Pull has an interesting shape that adds a since of flow to any space. The Emtek 86415 T-Curve Pull can be mounted in any orientation on your lightweight doors and drawers. The  Modern T-Curve Cabinet Pull comes packaged with the installation hardware. Choose from an array of contemporary finish options.\r\n</p>\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-86415-specifications.gif?v=1704354762\" width=\"600\" height=\"141\" border=\"0\" atl=\"Emtek 86415 specifications\">\r\n</p>\r\n\r\n<p>\r\nAlso Available Matching: <a href=\"/products/curve-bar-cabinet-pull-emtek-86416\"><b>Curve Bar Cabinet Pull</b></a>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications and Features</b> of the T-Curve Kitchen Cabinet Pull:\r\n<ul>\r\n<li>Material: Solid Brass</li>\r\n<li>Length: 2\"</li>\r\n<li>Total Projection: 1-1/4\"</li>\r\n<li>Packaged with all necessary installation hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n<p>\r\n<img src=\"https://cdn.shopify.com/s/files/1/0766/1489/3857/files/EMT-mod-86415-Finishes.jpg?v=1704354683\" width=\"427\" height=\"109\" border=\"0\" alt=\"Emtek Finish Chart\">\r\n</p>",
+            "seo": {
+                "title": "T-Curve Cabinet Pull",
+                "description": "The T-Curve Cabinet Pull has an interesting shape that adds a since of flow to any space. The Emtek 86415 T-Curve Pull can be mounted in any orientation on your lightweight doors and drawers. The  Modern T-Curve Cabinet Pull comes packaged with the installation hardware. Choose from an array of contemporary finish options.",
+                "keywords": "T-Curve Kitchen Cabinet Pulls, T-Curve Cabinet Pull, Emtek 86415, Emtek 86415 T-Curve Pulls, Modern T-Curve Cabinet Pulls, EMT-86415, T-Curve Kitchen Cabinet Pulls,"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Cabinet Knobs",
+                    "sort": "10"
+                },
+                {
+                    "name": "Emtek Discontinued",
+                    "sort": "25"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "43085",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "939901",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "261941",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "946898",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "949092",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Finish: US10B: Oil Rubbed Bronze",
+                "Select Finish: US15: Satin Nickel",
+                "Select Finish: US19: Matte Black",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US14: Polished Nickel"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US10B: Oil Rubbed Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US15: Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US19: Matte Black",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "US14: Polished Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "legacy_product_id": "43133",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Emma Cabinet Pull, Omnia 9408/76",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-9408",
+            "mpn": "OMN-9408",
+            "price": "12.38",
+            "compare_at_price": "16.5",
+            "contractor_price": "11.76",
+            "shipping_weight": "0.5",
+            "tags": [
+                "omnia 9408/76 timeless cabinet pulls",
+                "solid brass cabinet pulls",
+                "fancy kitchen cabinet pulls",
+                "omnia cabinet pulls",
+                "omn-9408/76",
+                "timeless brass pulls",
+                "simple kitchen cabinet pulls Omnia 9408/76",
+                "solid brass drawer knobs",
+                "Omnia 9408/76 drawer knobs",
+                "Emma Cabinet Pulls",
+                "Emma Solid Brass Cabinet Pulls",
+                "Emma Cabinet Door Pulls"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-9408-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-9408-525.jpg?v=1716420852"
+        },
+        "text": {
+            "description_html": "<b>Omnia 9408/76, Emma Solid Brass Cabinet Pull</b>\r\n\r\n<p>\r\nMade of solid brass, the Emma Cabinet Pull is as beautiful to the eye as it is comfortable to the hand. This Omnia  Emma Solid Brass Cabinet Pull is basic enough in its design to beautifully integrate into any décor; but what is most appealing about this handle is that it’s timeless. Instead of just another plain cabinet knob, this fashionable pull adds just the right amount of interesting detail to your cabinet doors.\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Emma Cabinet Pull:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the Omnia 9408/76 Emma Cabinet Door Pull:\r\n<ul>\r\n<li>Material: Brass</li>\r\n<li>Length center to center: 3\"</li>\r\n<li>Projection: 1-1/32\"</li>\r\n<li>Comes packaged with mounting hardware.</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i>\r\n</p>",
+            "seo": {
+                "title": "Emma Cabinet Pull",
+                "description": "Made of solid brass, the Emma Cabinet Pull is as beautiful to the eye as it is comfortable to the hand. This Omnia  Emma Solid Brass Cabinet Pull is basic enough in its design to beautifully integrate into any décor; but what is most appealing about this handle is that it’s timeless. Instead of just another plain cabinet knob, this fashionable pull adds just the right amount of interesting detail to your cabinet doors.\r\n",
+                "keywords": "omnia 9408/76 timeless cabinet pulls, solid brass cabinet pulls, fancy kitchen cabinet pulls, omnia cabinet pulls, omn-9408/76, timeless brass pulls, simple kitchen cabinet pulls Omnia 9408/76, solid brass drawer knobs, Omnia 9408/76 drawer knobs, Emma Cabinet Pulls, Emma Solid Brass Cabinet Pulls, Emma Cabinet Door Pulls,"
+            },
+            "specifications": [
+                {
+                    "key": "Material",
+                    "value": "Brass"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Cabinet Knobs & Handles",
+            "google_category": "Hardware > Hardware Accessories > Cabinet Hardware > Cabinet Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-6-2-5",
+            "collections": [
+                {
+                    "name": "Omnia-Disc-Custom-Special",
+                    "sort": "230"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "187673",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "185113",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "42954",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "254232",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "43031",
+                    "sort": "5"
+                },
+                {
+                    "legacy_product_id": "7324",
+                    "sort": "6"
+                },
+                {
+                    "legacy_product_id": "43208",
+                    "sort": "7"
+                }
+            ],
+            "filter_options": [
+                "Material: Brass",
+                "Select Finish: US3: Polished Brass",
+                "Select Finish: US26: Polished Chrome",
+                "Select Finish: US26D: Satin Chrome",
+                "Select Finish: SB: Shaded Bronze"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "US3: Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9408/76-US3"
+                },
+                {
+                    "value": "US26: Polished Chrome",
+                    "price_impact": 2.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9408/76-US26"
+                },
+                {
+                    "value": "US26D: Satin Chrome",
+                    "price_impact": 2.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9408/76-US26D"
+                },
+                {
+                    "value": "SB: Shaded Bronze",
+                    "price_impact": 2.4,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "OMN-9408/76-SB"
+                }
+            ]
+        }
+    ]
+}

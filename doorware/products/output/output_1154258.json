@@ -1,0 +1,53 @@
+{
+    "legacy_product_id": "1154258",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "iClassWireless Mini Management kit for 10 Doors, Mul-T-Lock SMA-ICC-KITMINI-10",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "MTL-SMA-ICC-KITMINI-10",
+            "mpn": "MTL-SMA-ICC-KITMINI-10",
+            "price": "1250.0",
+            "compare_at_price": "1250.0",
+            "contractor_price": "1250.0",
+            "shipping_weight": "1.0",
+            "tags": [
+                "iClass/Mifare Wireless Management Kits",
+                "iClassWireless Mini Management kit for 10 Doors",
+                "Mul-T-Lock SMA-ICC-KITMINI-10",
+                "MTL-SMA-ICC-KITMINI-10"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/MTL-SMA-ICC-KITMINI-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/MTL-SMA-ICC-KITMINI-525.jpg?v=1717791400"
+        },
+        "text": {
+            "description_html": "<b>Mul-T-Lock SMA-ICC-KITMINI-10, iClass/Mifare Wireless Management Kit 10 Door</b>\r\n\r\n<p>\r\nThis is a SMARTair management kit that includes software/license, encoder, and USB cable.\r\n</p>\r\n\r\n<p>\r\nThe SMARTair Encoder is a device that encodes and reads user credentials using the SMARTair software.\r\n<br>\r\nSMARTair Software (also called TS1000) enables users to manage the SMARTair system according to the license issued and the associated Authorization Key.\r\n\r\n<p>\r\n<b>Software requirements:</b>\r\n<ul>\r\n<li>PC with Pentium 4 processor or higher</li>\r\n<li>1 GB of free RAM</li>\r\n<li>1 GB or free disk space</li>\r\n<li>32-bit or 64-bit Microsoft Windows Operating System supporting services (Windows 95, Windows 98 and Windows ME are not supported)</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\nThe 'site data' is supplied with the software and includes the license for the system and a unique 8-figure alphanumeric system code\r\nAll information regarding the system (user list, door list, authorization matrix, time profiles, etc.) is kept in the site data file.\r\n</p>\r\n\r\n<p>\r\nThe Authorization Key enhances security for the SMARTair system. Each Authorization Key contains the system's unique corresponding\r\nsystem code. In order for the Portable Programmer to function, the Authorization Key must be inserted. Without it, the Portable Programmer will not update the door or retrieve audit trails. It is possible to override the Portable Programmer by logging into the system's software.\r\n</p>",
+            "seo": {
+                "title": "iClassWireless Mini Management kit for 10 Doors",
+                "description": "This is a SMARTair management kit that includes software/license, encoder, and USB cable.",
+                "keywords": "iClass/Mifare Wireless Management Kits,iClassWireless Mini Management kit for 10 Doors, Mul-T-Lock SMA-ICC-KITMINI-10, MTL-SMA-ICC-KITMINI-10"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Mul-T-Lock SMARTair",
+                    "sort": "4"
+                }
+            ],
+            "related_products": [],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

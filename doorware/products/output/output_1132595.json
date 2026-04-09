@@ -1,0 +1,99 @@
+{
+    "legacy_product_id": "1132595",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "48 Inch Surface Vertical Rod with Electric Latch Retraction, Yale 6170P48",
+            "vendor": "",
+            "status": "ARCHIVED",
+            "sku": "YAL-6170P48-630",
+            "mpn": "YAL-6170P48-630",
+            "price": "1843.2",
+            "compare_at_price": "2498.0",
+            "contractor_price": "1843.2",
+            "shipping_weight": "17.0",
+            "tags": [
+                "48 Inch Surface Vertical Rod with Electric Latch Retraction",
+                "Yale 6170P",
+                "Yale 6170 Surface Vertical Rods",
+                "YAL-6170P"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/YAL-6170P-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/YAL-6170P-525.jpg?v=1717106529"
+        },
+        "text": {
+            "description_html": "<b>Yale 6170P 48 Inch Surface Vertical Rod with Electric Latch Retraction</b>\r\n\r\n<p>\r\nThe Surface mounted vertical rod touch bar exit device is for use used on wide stile and flush doors up to 10 feet where one- or two-point latching is desired. \r\n</p>\r\n\r\n<p>\r\nThese vertical rod exit devices are <b>handed for doors 48\" wide</b>. This exit device is certified ANSI/BHMA A156.3 type 2 Grade 1 standards.\r\n</p>\r\n\r\n\r\n<p>\r\n<b>Features and Specifications</b> of the Surface Vertical Rod Exit Device:\r\n<ul>\r\n<li>Finish: <b>Satin Stainless Steel</b></li>\r\n<li>Electric latch retraction</li>\r\n<li>Exterior Trim: None</li>\r\n<li>Latchbolt: Top: 3/4\" (19mm) pullman style with auto deadlatching; Bottom 5/8\" (16mm) deadbolt, held retracted during door swing</li>\r\n<li>Vertical Rods: 1/2\" OD brass, bronze or stainless steel with rod guides.</li>\r\n<li>Strike: Top: 626; Bottom: flush-mounted 790. 794 floor strike optional (threshold openings)</li>\r\n<li>Projection: 3-1/4\" (83mm) active; 2-1/2\" (63.5mm) dogged</li>\r\n<li>Stile: 4-1/2\" minimum</li>\r\n<li>Handing: Handed</li>\r\n<li>Door Thickness: 1-3/4\"</li>\r\n<li>Door Width: 48\"</li>\r\n<li>Door Height: 7' standard.</li>\r\n<li>Fasteners: Machine screws or wood door screws .</li>\r\n<li>Dogging: hex key</li>\r\n<li>ANSI A156.3 Grade 1</li>\r\n</ul>\r\n</p>\r\n\r\n<p>\r\n<i>Special Factory Order. <b>No Returns</b></i>\r\n</p>",
+            "seo": {
+                "title": "48 Inch Surface Vertical Rod with Electric Latch Retraction",
+                "description": "The Surface mounted vertical rod touch bar exit device is for use used on wide stile and flush doors up to 10 feet where one- or two-point latching is desired.",
+                "keywords": "48 Inch Surface Vertical Rod with Electric Latch Retraction, Yale 6170P, Yale 6170 Surface Vertical Rods, YAL-6170P"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Yale Custom and Special Orders",
+                    "sort": "2"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "175455",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "174586",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "247588",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "247335",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "828742",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": [
+                "Select Handing: RHR: Right Hand Reverse",
+                "Select Handing: LHR: Left Hand Reverse"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "RHR: Right Hand Reverse",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "LHR: Left Hand Reverse",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}

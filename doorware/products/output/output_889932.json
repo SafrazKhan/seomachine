@@ -1,0 +1,73 @@
+{
+    "legacy_product_id": "889932",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Washer Installation Tool, Omnia 028tool",
+            "vendor": "Omnia",
+            "status": "ARCHIVED",
+            "sku": "OMN-028tool",
+            "mpn": "OMN-028tool",
+            "price": "4.0",
+            "compare_at_price": "5.0",
+            "contractor_price": "4.0",
+            "shipping_weight": "0.5",
+            "tags": [
+                "Lever and Knobset Washer Installation Tools",
+                "Washer Installation Tools",
+                "Omnia 028tool"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/OMN-028tool-525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/OMN-028tool-525.jpg?v=1717790469"
+        },
+        "text": {
+            "description_html": "<b>Omnia 028tool, Lever and Knobset Washer Installation Tool</b>\r\n\r\n<p>\r\nThis is a replacement Omnia Lever Washer Installation Tool.\r\n</p>\r\n\r\n<p>\r\n<i>Sold Individually</i> <b>No Returns</b>\r\n</p>",
+            "seo": {
+                "title": "Washer Installation Tool",
+                "description": "This is a replacement Omnia Lever Washer Installation Tool.",
+                "keywords": "Lever and Knobset Washer Installation Tools, Washer Installation Tools, Omnia 028tool"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Omnia Miscellaneous Parts",
+                    "sort": "60"
+                }
+            ],
+            "related_products": [
+                {
+                    "legacy_product_id": "597665",
+                    "sort": "1"
+                },
+                {
+                    "legacy_product_id": "879801",
+                    "sort": "2"
+                },
+                {
+                    "legacy_product_id": "407752",
+                    "sort": "3"
+                },
+                {
+                    "legacy_product_id": "657235",
+                    "sort": "4"
+                },
+                {
+                    "legacy_product_id": "256159",
+                    "sort": "5"
+                }
+            ],
+            "filter_options": []
+        }
+    },
+    "option_sets": []
+}

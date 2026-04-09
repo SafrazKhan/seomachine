@@ -1,0 +1,118 @@
+{
+    "legacy_product_id": "946359",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "AHI 104-203SM Surface Mount Active Lever",
+            "vendor": "AHI",
+            "status": "ARCHIVED",
+            "sku": "AHI-104-203SM-630",
+            "mpn": "AHI-104-203SM-630",
+            "price": "72.0",
+            "compare_at_price": "90.0",
+            "contractor_price": "72.0",
+            "shipping_weight": "4.0",
+            "tags": [
+                "AHI-104-203SM-630"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/AHI-104-203SM_525.jpg",
+            "image_url_shopify": "https://cdn.shopify.com/s/files/1/0766/1489/3857/files/AHI-104-203SM_525.jpg?v=1717106358"
+        },
+        "text": {
+            "description_html": "<b>AHI 104-203SM Surface Mount Active Lever</b>\r\n\r\n<p>\r\nThis is a set of (1) AHI 104 Lever, (1) 2 inch Square Rose and (1) 8mm Spindle, 304 Stainless Steel. Surface mounted, screws to the doors face. \r\n</p>\r\n\r\n<p>\r\n<b>Specifications</b> of the AHI 104-203SM:\r\n<ul>\r\n<li>Finish: <b>Satin Stainless Steel</b></li>\r\n<li>Material: 304 Stainless Steel</li>\r\n<li>Rose: 50 MM (square)</li>\r\n<li>Rose Thickness: 11 MM ( .440\" )</li>\r\n<li>104 Lever Length: 5-9/16\" (141 mm)</li>\r\n<li>104 Lever Thickness: 7/8\" (22 mm)</li>\r\n<li>Projection: 2-1/2\" (64 mm)</li>\r\n\r\n\r\n\r\n<li>Mounting: Surface Mounted</li>\r\n</ul>\r\n</p>\r\n\r\n\r\n\r\n<p>\r\n<b>Special Ordered Item, NOT Returnable</b>\r\n</p>",
+            "seo": {
+                "title": "AHI 104-203SM Surface Mount Active Lever",
+                "description": "",
+                "keywords": "AHI-104-203SM-630"
+            },
+            "specifications": [
+                {
+                    "key": "Finish",
+                    "value": "Satin Stainless Steel"
+                },
+                {
+                    "key": "Material",
+                    "value": "304 Stainless Steel"
+                },
+                {
+                    "key": "Rose",
+                    "value": "50 MM (square)"
+                },
+                {
+                    "key": "Rose Thickness",
+                    "value": "11 MM ( .440\" )"
+                },
+                {
+                    "key": "104 Lever Length",
+                    "value": "5-9/16\" (141 mm)"
+                },
+                {
+                    "key": "104 Lever Thickness",
+                    "value": "7/8\" (22 mm)"
+                },
+                {
+                    "key": "Projection",
+                    "value": "2-1/2\" (64 mm)"
+                },
+                {
+                    "key": "Mounting",
+                    "value": "Surface Mounted"
+                }
+            ]
+        },
+        "filters": {
+            "product_type": "Door Knobs & Handles",
+            "google_category": "Hardware > Building Materials > Door Hardware > Door Knobs & Handles",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2-5",
+            "collections": [
+                {
+                    "name": "AHI-Discontinued-and-Custom",
+                    "sort": "68"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Finish: Satin Stainless Steel",
+                "Material: 304 Stainless Steel",
+                "Rose: 50 MM (square)",
+                "Rose Thickness: 11 MM ( .440\" )",
+                "104 Lever Length: 5-9/16\" (141 mm)",
+                "104 Lever Thickness: 7/8\" (22 mm)",
+                "Projection: 2-1/2\" (64 mm)",
+                "Mounting: Surface Mounted",
+                "Select Handing: Right Handing",
+                "Select Handing: Left Handing"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Handing",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "Right Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Right"
+                },
+                {
+                    "value": "Left Handing",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null,
+                    "sku_ref": "Left"
+                }
+            ]
+        }
+    ]
+}

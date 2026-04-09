@@ -1,0 +1,108 @@
+{
+    "legacy_product_id": "630524",
+    "sync_state": {
+        "needs_update": true,
+        "last_synced": null,
+        "sync_status": "pending"
+    },
+    "product_data": {
+        "schema_version": 2,
+        "core": {
+            "title": "Privacy Pin Replacement for Grandeur Privacy Sets, GRA-8099x",
+            "vendor": "Grandeur",
+            "status": "ARCHIVED",
+            "sku": "GRA-8099x",
+            "mpn": "GRA-8099x",
+            "price": "8.0",
+            "compare_at_price": "8.0",
+            "contractor_price": "8.0",
+            "shipping_weight": "0.1",
+            "tags": [
+                "Privacy Pin Replacement for Grandeur Privacy Sets",
+                "GRA-8099x"
+            ],
+            "image_url_original": "https://www.doorware.com/images/products/0",
+            "image_url_shopify": ""
+        },
+        "text": {
+            "description_html": "<b>Privacy Pin Replacement for Grandeur Privacy Sets, GRA-8099x</b><p>Replacement privacy pin for all Grandeur privacy sets.  Available in 6 finishes.</p>",
+            "seo": {
+                "title": "Privacy Pin Replacement for Grandeur Privacy Sets, GRA-8099x",
+                "description": "Privacy Pin Replacement for Grandeur Privacy Sets, GRA-8099x",
+                "keywords": "Privacy Pin Replacement for Grandeur Privacy Sets, GRA-8099x"
+            },
+            "specifications": []
+        },
+        "filters": {
+            "product_type": "Door Hardware",
+            "google_category": "Hardware > Building Materials > Door Hardware",
+            "taxonomy_node_id": "gid://shopify/TaxonomyCategory/ha-2-2",
+            "collections": [
+                {
+                    "name": "Grandeur Parts",
+                    "sort": "13"
+                }
+            ],
+            "related_products": [],
+            "filter_options": [
+                "Select Finish: GRA-80997 - Antique Pewter",
+                "Select Finish: GRA-80996 - Bright Chrome",
+                "Select Finish: GRA-80994 - Polished Brass",
+                "Select Finish: GRA-80993 - Satin Nickel",
+                "Select Finish: GRA-80995 - Timeless Bronze",
+                "Select Finish: GRA-80999 - Vintage Brass"
+            ]
+        }
+    },
+    "option_sets": [
+        {
+            "type": "Dropdown",
+            "label": "Select Finish",
+            "is_required": true,
+            "choices": [
+                {
+                    "value": "GRA-80997 - Antique Pewter",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-80996 - Bright Chrome ",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-80994 - Polished Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-80993 - Satin Nickel",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-80995 - Timeless Bronze",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                },
+                {
+                    "value": "GRA-80999 - Vintage Brass",
+                    "price_impact": 0.0,
+                    "weight_impact": 0.0,
+                    "image": null,
+                    "image_lg": null
+                }
+            ]
+        }
+    ]
+}
